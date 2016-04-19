@@ -20,6 +20,10 @@ body {
   font-family: 'Open Sans', serif;
 }
 
+hr {
+  width: 50%;
+}
+
 div.page {
   background-color: rgb(223,223,223);
   color: rgb(32,32,32);
@@ -112,12 +116,10 @@ H1 {
 H2 {
   border-width: 4px 0em 0em 5px;
   font-size: 1.2em;
-  border-bottom: 1px solid rgb(64,64,64);
 }
 
 H3 {
   font-family: Helvetica, sans-serif;
-  border-width: 2px 0em 0em 5px;
   font-size: 1.1em;
   font-style: italic;
 }
