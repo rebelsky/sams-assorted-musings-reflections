@@ -26,10 +26,10 @@ Studying at Grinnell vs. a peer institution
 > A more general comparison of Grinnell to its peers, reflecting on
 overall characteristics of the institution and the student body.
 
-What kind of computer should you buy?
-- *Forthcoming*
+[What kind of computer should you buy?](buy-computer.html)
 
-> A response to a recent questoin from a prospective student.
+> A response to a recent question from a prospective student.  Also
+  a response to a question that I get way too often.
 
 For current students and others with similar interests
 ------------------------------------------------------
@@ -37,3 +37,57 @@ For current students and others with similar interests
 [Contacting faculty members on behalf of students](contacting-faculty.html)
 
 > Some notes on my approaches to this complex topic.
+
+On the Closing of the Posse Program
+- *Forthcoming*
+
+> On April 13, President Kington announced that Grinnell was severing
+  its ties with the Posse foundation.  Here, I attempt to summarize
+  my reactions to this decision.
+
+Profanity in class
+- *Forthcoming*
+
+> Why I don't use profanity in class, and why I don't want my students
+  to, either.
+
+On Self-Governance
+- *Forthcoming*
+
+> Self-gov is a central aspect to Grinnell's culture.  This note reflects
+  my own perspectives on self-gov.
+
+Why Study CS
+
+> Computer science is an awesome discipline.  Here, I reflect not only
+  on some of the reasons that I study CS, but also reasons that students
+  might want to study CS.
+
+For alumni and others who donate to the department
+--------------------------------------------------
+
+How we spend your money
+- *Forthcoming*
+
+> A thank-you note, of sorts.
+
+Reflections on important issues
+-------------------------------
+
+On the value of diversity in computer science
+- *Forthcoming*
+
+> Why I make diversifying the discipline one of my priorities
+
+How Grinnell's CS department supports diversity
+- *Forthcoming*
+
+> Because we value diversity in the discipline, we take a number of steps
+  to recruit and support a wide range of students.  This is my attempt to
+  explain some of them.
+
+Why I complain about software
+- *Forthcoming*
+
+> I complain a lot about bad software.  And I think a lot of software
+  is bad.  Here I reflect more deeply about these issues.
