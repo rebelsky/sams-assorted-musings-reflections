@@ -75,4 +75,4 @@ Comments welcome.
 
 ---
 
-*version 1.0 of 2016-04-19*
+*Version 1.0.1 of Wednesday, 20 April 2016*
