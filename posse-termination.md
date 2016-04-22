@@ -92,6 +92,16 @@ there been a public forum?
 
 ---
 
+At the same time, I realize that there are decisions that have to be
+made and that the reasons can't be shared widely.  Certainly, personnel
+decisions often fall within that category; it is definitely inappropriate
+to indicate publicly why someone no longer works at the College.  Still,
+it seems like a decision of this magnitude could involve at least a few
+faculty members.  (Perhaps it did, and they just don't want to tell us
+who they are for fear of mob mentality.)
+
+---
+
 I agree with Doug Cutchins that there's nothing we can do to restore
 the partnership, and must instead look toward what we can do in the 
 future.  I hope that we will explore the role of shared governance
@@ -119,3 +129,9 @@ a failed PC-POP mentor.)  While the Grinnell retreats I have attended
 have been interesting, I don't think I've been to one as powerful as the
 Posse Plus retreat.  We have big shoes to fill, as it were.  I hope we
 do so quickly.
+
+---
+
+As always, I appreciate comments and criticisms.
+
+*Version 1.1 of Friday, 22 April 2016*
