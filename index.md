@@ -38,10 +38,9 @@ For current students and others with similar interests
 
 > Some notes on my approaches to this complex topic.
 
-On the Closing of the Posse Program
-- *Forthcoming*
+[On the termination of Grinnell's partnership with Posse](posse-termination.html)
 
-> On April 13, President Kington announced that Grinnell was severing
+> On April 13, 2016, President Kington announced that Grinnell was severing
   its ties with the Posse foundation.  Here, I attempt to summarize
   my reactions to this decision.
 
