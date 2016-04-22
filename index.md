@@ -65,8 +65,7 @@ Why Study CS
 For alumni and others who donate to the department
 --------------------------------------------------
 
-How we spend your money
-- *Forthcoming*
+[How we spend your donations](donor-thank-you.html)
 
 > A thank-you note, of sorts.
 
