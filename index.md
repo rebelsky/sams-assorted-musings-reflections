@@ -10,8 +10,7 @@ just my attempt to think through a topic.
 On writing, or at least on writing these essays
 -----------------------------------------------
 
-On the genesis of _Sam's Assorted Musings and Rants_
-- *Forthcoming*
+[On the genesis of _Sam's Assorted Musings and Rants_](genesis.html) (Essay #5)
 
 > Why I started this site
 
