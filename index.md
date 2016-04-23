@@ -70,11 +70,17 @@ On Self-Governance
 > Self-gov is a central aspect to Grinnell's culture.  This note reflects
   my own perspectives on self-gov.
 
-Why Study CS
+Why study CS
+- *Forthcoming*
 
 > Computer science is an awesome discipline.  Here, I reflect not only
   on some of the reasons that I study CS, but also reasons that students
   might want to study CS.
+
+On advising at Grinnell
+- *Forthcoming*
+
+> An extended version of my answer from the FAQ.
 
 For alumni and others who donate to the department
 --------------------------------------------------
@@ -128,3 +134,13 @@ Why I complain about software
 > I complain a lot about bad software.  And I think a lot of software
   is bad.  Here I reflect more deeply about these issues.
 
+Everything else
+---------------
+
+Algorithmic art
+- *Forthcoming*
+
+> I am happiest when I write programs that make art, or when I make
+  art that has a computational component.  In this essay, I attempt
+  to describe the relationshp between the areas and the pleasure I
+  derive.  (Or at least I think that's what I'll write about.)
