@@ -30,17 +30,18 @@ Who's the audience, anyway?
 For prospective students, parents of prospective students, and others with similar interests
 --------------------------------------------------------------------------------------------
 
-Studying CS at a liberal arts college vs. a research university
+[Studying CS at a liberal arts college vs. a large university](lac-vs-university) (Essay #7)
+
+> A response to parents and prospectives who asked about the differences.
+
+Studying CS at Grinnell
 - *Forthcoming*
 
-> A response to a parent who asked about the differences.
+> A response to students who ask about the differences between CS at
+  Grinnell and CS at our peer institutions.
 
-Studying CS at Grinnell vs. a peer institution
-- *Forthcoming*
 
-> A response to a student who asked about the differences.
-
-Studying at Grinnell vs. a peer institution
+Studying at Grinnell
 - *Forthcoming*
 
 > A more general comparison of Grinnell to its peers, reflecting on
