@@ -58,8 +58,7 @@ For current students and others with similar interests
 
 > Some notes on my approaches to this complex topic.
 
-Profanity in class
-- *Forthcoming*
+(Profanity in class)[profanity.html] (Essay #6)
 
 > Why I don't use profanity in class, and why I don't want my students
   to, either.
