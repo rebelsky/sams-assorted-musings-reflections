@@ -105,6 +105,17 @@ when I do so.
 
 ---
 
+Yes, I know that there are options other than (top) liberal arts colleges
+and large universities.  But that's how the question is usually phrased,
+and so that's how I'm addressing it.  Mid-size universities, community
+colleges, and other kinds of institutions of higher education have their
+own advantages and disadvantages.  I will say that I don't generally
+trust bootcamps, since they focus on technical skills for now, rather
+than general knowledge for the long term.  But hey, that's probably yet
+another essay.
+
+---
+
 [1] The Joint Task Force on Computing Curricula Association for Computing
 Machinery (ACM) and IEEE Computer Society.  _Computer Science Curricula
 2013 Curriculum Guidelines for Undergraduate Degree Programs in Computer
@@ -116,4 +127,4 @@ Science_.  December 20, 2013.
 
 ---
 
-*Version 1.0.1 of 2016-04-25*
+*Version 1.1.0 of 2016-04-25*
