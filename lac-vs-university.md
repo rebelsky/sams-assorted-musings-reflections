@@ -53,16 +53,18 @@ And research is still an option at our institutions.  Faculty at strong
 liberal arts colleges, like Grinnell, also have active research programs
 and will often involve undergraduates in their research.  I think the
 odds of being on a faculty research project are higher at a small college,
-but I have not done a careful study to show that.
+but I have not done a careful study to show that.  I can say that about
+20 CS students are staying to do research at Grinnell this summer, and
+that strikes me as a lot for a school of our size.
 
-But I'll admit that I don't think you should choose a school based on its
-CS program (even though I think Grinnell's is awesome).  Rather, you should
-decide whether the overall curriculum at the institution meets your needs
-and whether the faculty and your peers will challenge you appropriately.
-You should decide whether the other students are people you would want
-to learn and work with.  If you don't have a challenging environment
-and the appropriate set of peers, little else matters.  Start there, and
-then look at the CS program.
+However, I'll admit that I don't think you should choose a school based
+on its CS program (even though I think Grinnell's is awesome).  Rather,
+you should decide whether the overall curriculum at the institution meets
+your needs and whether the faculty and your peers will challenge you
+appropriately.  You should decide whether the other students are people
+you would want to learn and work with.  If you don't have a challenging
+environment and the appropriate set of peers, little else matters.
+Start there, and then look at the CS program.
 
 ---
 
@@ -114,4 +116,4 @@ Science_.  December 20, 2013.
 
 ---
 
-*Version 1.0 of 2016-04-25*
+*Version 1.0.1 of 2016-04-25*
