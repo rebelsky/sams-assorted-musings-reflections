@@ -34,12 +34,10 @@ For prospective students, parents of prospective students, and others with simil
 
 > A response to parents and prospectives who asked about the differences.
 
-Studying CS at Grinnell
-- *Forthcoming*
+[Grinnell's CS department](grinnell-cs.html) (Essay #8)
 
 > A response to students who ask about the differences between CS at
   Grinnell and CS at our peer institutions.
-
 
 Studying at Grinnell
 - *Forthcoming*
