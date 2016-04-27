@@ -2,7 +2,7 @@ Front Door
 ==========
 
 Here you will find a variety of short essays that I've written on a
-variety of topics.  Some are responses to questons I received from
+variety of topics.  Some are responses to questions I received from
 students or other people.  Some are rants about topics I'm passionate 
 about.  Some are explanations of how I approach the world.  Some are
 just my attempt to think through a topic.
@@ -12,13 +12,13 @@ On writing, or at least on writing these essays
 
 [On the genesis of _Sam's Assorted Musings and Rants_](genesis.html) (Essay #5)
 
-> Why I started this site
+> Why I started this site.
 
 On the form of these musings and rants
 - *Forthcoming*
 
 > Why I'm putting my essays on a Web site and not a 'blog or Twitter
-  feed
+  feed.
 
 Who's the audience, anyway?
 - *Forthcoming*
@@ -52,6 +52,21 @@ overall characteristics of the institution and the student body.
 > A response to a recent question from a prospective student.  Also
   a response to a question that I get way too often.
 
+For prospective faculty
+-----------------------
+
+On being a Grinnell professor
+- *Forthcoming*
+
+> Why I (generally) love teaching and conducting research at Grinnell
+  and think others might, too.  (Yes, the students and colleagues are
+  a good part of the reason.)
+
+On teaching CS at Grinnell
+- *Forthcoming*
+
+> Things that I think make our department great.
+
 For current students and others with similar interests
 ------------------------------------------------------
 
@@ -59,7 +74,7 @@ For current students and others with similar interests
 
 > Some notes on my approaches to this complex topic.
 
-(Profanity in class)[profanity.html] (Essay #6)
+[Profanity in class](profanity.html) (Essay #6)
 
 > Why I don't use profanity in class, and why I don't want my students
   to, either.
@@ -121,7 +136,7 @@ Expected workload at Grinnell
   In this essay, I attempt to reflect on the implications of that 
   document.
 
-Why our Web site should be more open
+Why Grinnell's Web site should be more open
 - *Forthcoming*
 
 > I've spent the past three years complaining about the loss of important
@@ -134,6 +149,18 @@ Why I complain about software
 > I complain a lot about bad software.  And I think a lot of software
   is bad.  Here I reflect more deeply about these issues.
 
+On representing dates and times
+- *Forthcoming*
+
+> Why I hate things like "12:00 p.m." or "6/12/64".
+
+How to make email miserable to use
+- *Forthcoming*
+
+> My reaction to Grinnell's installation of Proofpoint.  While I rant
+  about bad software in a separate essay, Proofpoint causes me enough
+  difficulty that it's worth a separate essay.
+
 Everything else
 ---------------
 
@@ -142,5 +169,6 @@ Algorithmic art
 
 > I am happiest when I write programs that make art, or when I make
   art that has a computational component.  In this essay, I attempt
-  to describe the relationshp between the areas and the pleasure I
+  to describe the relationship between these areas and the pleasure I
   derive.  (Or at least I think that's what I'll write about.)
+
