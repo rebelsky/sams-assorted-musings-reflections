@@ -91,6 +91,19 @@ when few students are going on to graduate school because of the awesome
 tug of industry.  Our students who want to get Ph.D.'s have generally done
 fine, and I hear the same from my colleagues at peer institutions.
 
+My colleague, Janet Davis, reminds me that a disproportionate
+number of STEM Ph.D.'s come from small liberal arts
+colleges.  A [recent report from the National Science
+Foundation](http://www.nsf.gov/statistics/infbrief/nsf13323/#tab4)
+[3] ranks Grinnell 7th per capita among schools from which science and
+engineering Ph.D.'s received their bachelors degrees.  Also in the top
+ten institutions are Harvey Mudd, Reed, Swarthmore, and Carleton.
+
+Note that this section is not intended to claim that you should make
+a Ph.D. your goal, as some readers assumed.  Rather, if you think you
+want to go on for a Ph.D., there's no reason not to choose a small
+liberal arts college.
+
 ---
 
 As I wrote this essay (or rewrote this essay, to be more precise), I
@@ -125,6 +138,9 @@ Science_.  December 20, 2013.
 [2] Paul Graham.  "Undergraduation".  March 2005.
 <http://www.paulgraham.com/college.html>
 
+[3] National Science Foundation.  _Baccalaureate Origins of U.S.-trained S&E Doctorate Recipients_, Table 4: Top 50 U.S. baccalaureate-origin institutions of 2002–11 S&E doctorate recipients, by institutional-yield ratio, institutional control, and 2010 Carnegie classification.  April 2013.
+<http://www.nsf.gov/statistics/infbrief/nsf13323/#tab4>. 
+
 ---
 
-*Version 1.1.0 of 2016-04-25*
+*Version 1.2.1 of 2016-04-25*
