@@ -77,6 +77,12 @@ For current students and others with similar interests
 > Why I don't use profanity in class, and why I don't want my students
   to, either.
 
+Convocation
+- *Forthcoming*
+
+> I think every member of the Grinnell community should attend
+  Scholars Convocation.  Here's why.
+
 On Self-Governance
 - *Forthcoming*
 
@@ -94,6 +100,14 @@ On advising at Grinnell
 - *Forthcoming*
 
 > An extended version of my answer from the FAQ.
+
+Remaining optimistic
+- *Forthcoming*
+
+> At a recent meeting of students and faculty about some campus issues,
+  a student asked "How, after fifteen or more years of trying to advocate
+  for change, and seeing where we are, how can you keep trying?"  Here's
+  my attempt to answer that question.
 
 For alumni and others who donate to the department
 --------------------------------------------------
