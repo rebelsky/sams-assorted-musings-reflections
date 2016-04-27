@@ -5,7 +5,7 @@ Here you will find a variety of short essays that I've written on a
 variety of topics.  Some are responses to questions I received from
 students or other people.  Some are rants about topics I'm passionate 
 about.  Some are explanations of how I approach the world.  Some are
-just my attempt to think through a topic.
+just my attempts to think through a topic.
 
 On writing, or at least on writing these essays
 -----------------------------------------------
@@ -109,6 +109,14 @@ Remaining optimistic
   for change, and seeing where we are, how can you keep trying?"  Here's
   my attempt to answer that question.
 
+"Scholarship for all" in CS
+- *Forthcoming*
+
+> Grinnell has begun a "research for all" endeavor, which the CS department
+  is renaming "scholarship for all" in honor of the Boyer report.  These are
+  some preliminary thoughts on what the goal means and how we might meet
+  that goal.
+
 For alumni and others who donate to the department
 --------------------------------------------------
 
@@ -184,3 +192,8 @@ Algorithmic art
   to describe the relationship between these areas and the pleasure I
   derive.  (Or at least I think that's what I'll write about.)
 
+"Vast swaths of American Popular Culture have passed me by."
+- *Forthcoming*
+
+> One of my favorite "mom quotes"; one that I now feel that I have to 
+  say way too much of the time.
