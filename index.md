@@ -77,8 +77,7 @@ For current students and others with similar interests
 > Why I don't use profanity in class, and why I don't want my students
   to, either.
 
-Convocation
-- *Forthcoming*
+[Convocation](convocation.html) (Essay #9)
 
 > I think every member of the Grinnell community should attend
   Scholars Convocation.  Here's why.
