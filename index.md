@@ -27,6 +27,14 @@ Who's the audience, anyway?
   write.  This essay reflects my attempts to consider the audience
   (or audiences) for these essays.
 
+Finding the time to write
+- *Forthcoming*
+
+> Relatively early into the "essay a day" experiment, one of my colleagues
+  said "Sam, I don't know how you find time to write an essay each day.
+  I don't even find time to read your essays."  Here, I attempt to consider
+  how and why I am trying to find the time to write.
+
 For prospective students, parents of prospective students, and others with similar interests
 --------------------------------------------------------------------------------------------
 
@@ -116,6 +124,13 @@ Remaining optimistic
   some preliminary thoughts on what the goal means and how we might meet
   that goal.
 
+On the draft framework
+- *Forthcoming*
+
+> On April 27, 2016, Grinnell released a "Draft Framework for Meeting 
+  the Diverse Needs of our Students".  This not-quite-essay is my attempt
+  to tie together my various reactions to that document.
+
 For alumni and others who donate to the department
 --------------------------------------------------
 
@@ -180,8 +195,8 @@ How to make email miserable to use
   about bad software in a separate essay, Proofpoint causes me enough
   difficulty that it's worth a separate essay.
 
-Everything else
----------------
+Almost everything else
+----------------------
 
 Algorithmic art
 - *Forthcoming*
@@ -196,3 +211,30 @@ Algorithmic art
 
 > One of my favorite "mom quotes"; one that I now feel that I have to 
   say way too much of the time.
+
+Things I like
+-------------
+
+*Eventually, I'll find that I'm out of serious topics and will instead
+start writing about some of the things that are meaningful to me, or
+at least provide joy.  (Other than my family.)  I'm starting a list.*
+
+Goldenberg's Peanut Chews
+- *Forthcoming*
+
+> My favorite candy.
+
+Jonathan Richman
+- *Forthcoming*
+
+> One of my favorite musicians
+
+Yacht Race
+- *Forthcoming*
+
+> One of my favorite board games.
+
+Van Morrison
+- *Forthcoming*
+
+> Another of my favorite musicians.
