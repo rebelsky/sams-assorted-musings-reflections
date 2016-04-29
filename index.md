@@ -20,8 +20,7 @@ On the form of these musings and rants
 > Why I'm putting my essays on a Web site and not a 'blog or Twitter
   feed.
 
-Who's the audience, anyway?
-- *Forthcoming*
+[My audience](audience.html) (Essay #10)
 
 > I tell my students to pay attention to their audience when they 
   write.  This essay reflects my attempts to consider the audience
