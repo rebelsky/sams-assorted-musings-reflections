@@ -123,12 +123,10 @@ Remaining optimistic
   some preliminary thoughts on what the goal means and how we might meet
   that goal.
 
-On the draft framework
+Why a good computer science education includes much more than computer science
 - *Forthcoming*
 
-> On April 27, 2016, Grinnell released a "Draft Framework for Meeting 
-  the Diverse Needs of our Students".  This not-quite-essay is my attempt
-  to tie together my various reactions to that document.
+> Another perspective on the value of a liberal arts CS major.
 
 For alumni and others who donate to the department
 --------------------------------------------------
@@ -160,6 +158,13 @@ Rants
 > On April 13, 2016, President Kington announced that Grinnell was severing
   its ties with the Posse foundation.  Here, I attempt to summarize
   my reactions to this decision.
+
+On the draft framework
+- *Forthcoming*
+
+> On April 27, 2016, Grinnell released a "Draft Framework for Meeting 
+  the Diverse Needs of our Students".  This not-quite-essay is my attempt
+  to tie together my various reactions to that document.
 
 Expected workload at Grinnell
 - *Forthcoming*
@@ -193,6 +198,13 @@ How to make email miserable to use
 > My reaction to Grinnell's installation of Proofpoint.  While I rant
   about bad software in a separate essay, Proofpoint causes me enough
   difficulty that it's worth a separate essay.
+
+Why Grinnell staff with Ph.D's should be allowed to teach.
+- *Forthcoming*
+
+> I thought we allowed our Ph.D.-level staff to teach the occasional
+  course.  Then I learned that it's only in very specific situations.
+  These are my attempts to think through the matter.
 
 Almost everything else
 ----------------------
