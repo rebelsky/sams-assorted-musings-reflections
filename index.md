@@ -216,8 +216,7 @@ Algorithmic art
   to describe the relationship between these areas and the pleasure I
   derive.  (Or at least I think that's what I'll write about.)
 
-"Vast swaths of American Popular Culture have passed me by."
-- *Forthcoming*
+["Vast swaths of American Popular Culture have passed me by."](swaths.html) (Essay #12)
 
 > One of my favorite "mom quotes"; one that I now feel that I have to 
   say way too much of the time.
