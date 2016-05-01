@@ -34,7 +34,7 @@ Valley* TV show, to working on medical softare, and more.
 
 My own occupation and that list of occupations lead to  my first
 recommendation for you: *Pursue your passions*.  Each of my students has
-found something different that is important to him, hir, or zir.  Most of
+found something different that is important to him, her, or zir.  Most of
 them are privileged enough to make a good living do what is important.
 (Others do what they are good at, and use their income to make it
 possible for them to spend time on what they value.)  I can tell you
@@ -112,3 +112,9 @@ time to congratulate yourselves.
 
 Thank you for taking the time to listen.  I look forward to seeing you
 receive your awards,  I also hope you enjoy the rest of your visit.
+
+---
+
+Your comments are appreciated.
+
+*Version 1.0.1 of 2016-05-01.*  
