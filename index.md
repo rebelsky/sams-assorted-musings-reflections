@@ -14,8 +14,7 @@ On writing, or at least on writing these essays
 
 > Why I started this site.
 
-On the form of these musings and rants
-- *Forthcoming*
+[On the form of these musings and rants](form.html) (Essay #11)
 
 > Why I'm putting my essays on a Web site and not a 'blog or Twitter
   feed.
