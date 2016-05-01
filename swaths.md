@@ -45,6 +45,12 @@ a passion for both nature and fine art.
 
 ---
 
+This essay feels incomplete.  I hope to revisit it sometime.  But, in
+the spirit of getting an essay out each day (or at least each day on
+average), I'm leaving this one as is.
+
+---
+
 [1] I used to love George R.R. Martin's *Wildcards* series, and I bought
 the first Game of Thrones book back when it game out [2], but I have no
 taste for the TV show.
@@ -55,4 +61,4 @@ taste for the TV show.
 
 ---
 
-*Version 1.0 of 2016-04-30.*
+*Version 1.0.1 of 2016-04-30.*
