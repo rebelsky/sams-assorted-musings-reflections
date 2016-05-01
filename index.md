@@ -221,6 +221,12 @@ Algorithmic art
 > One of my favorite "mom quotes"; one that I now feel that I have to 
   say way too much of the time.
 
+[A speech to Duke TIP scholars](duke-tip-2016.html) (Essay #13)
+
+> For some reason, Grinnell invited me to give a speech to Duke
+  TIP scholars on Tuesday, 3 May 2016.  Here's the intended text
+  of my speech.
+
 Things I like
 -------------
 
