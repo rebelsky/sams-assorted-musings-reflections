@@ -152,12 +152,6 @@ How Grinnell's CS department supports diversity
 Rants
 -----
 
-[On the termination of Grinnell's partnership with Posse](posse-termination.html) (Essay #3)
-
-> On April 13, 2016, President Kington announced that Grinnell was severing
-  its ties with the Posse foundation.  Here, I attempt to summarize
-  my reactions to this decision.
-
 On the draft framework
 - *Forthcoming*
 
@@ -253,3 +247,11 @@ Van Morrison
 - *Forthcoming*
 
 > Another of my favorite musicians.
+
+Removed
+-------
+
+Essay #3 was about Grinnell's relationship with Posse.  I have
+now learned that the situation is even more complex than I thought.
+I remain frustrated by many issues in the situation, but I don't think
+it's appropriate to keep my essay up.
