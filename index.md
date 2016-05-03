@@ -106,8 +106,7 @@ On advising at Grinnell
 
 > An extended version of my answer from the FAQ.
 
-Remaining optimistic
-- *Forthcoming*
+[Remaining optimistic](remaining-optimistic.html) (Essay #14)
 
 > At a recent meeting of students and faculty about some campus issues,
   a student asked "How, after fifteen or more years of trying to advocate
