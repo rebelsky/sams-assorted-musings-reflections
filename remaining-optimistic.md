@@ -80,6 +80,16 @@ and because I see a community of people who I can trust to make change.
 
 ---
 
+I also remain optimistic because I'm my mother's son.  I can't find it
+right now, so I'll have to paraphrase, but there's a great story in
+which mom is talking to her doctor.  He asks "Freda, you spend your
+time advocating for peace, and there is still war.  You spend your
+time advocating for justice for all, and we clearly don't have justice.
+Why do you waste your time?"  Her response?  "Think about how much worse
+it might be if I wasn't trying."
+
+---
+
 As seems to be the norm these days, I am not happy with this essay.  But
 it's what I got written today, and so it's what I'm posting.  As always,
 I appreciate any comments or corrections you may wish to provide.
