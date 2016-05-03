@@ -3,7 +3,8 @@ On the termination of Grinnell's partnership with the Posse Foundation
 
 Given the discussion in the faculty meeting of 2016-05-02, I don't
 consider it appropriate to keep this essay up.  Clearly, the issues
-are much more complicated than I understood.  
+are much more complicated than I understood.   I remain frustrated at
+many things, but the essay is clearly under-informed.
 
 ---
 
