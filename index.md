@@ -213,6 +213,10 @@ About SamR
 
 > I should probably write something autobiographical.
 
+[Sleep](sleep.html) (Essay #16)
+
+> On getting enough.
+
 Algorithmic art
 - *Forthcoming*
 
