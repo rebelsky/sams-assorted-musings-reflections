@@ -126,6 +126,13 @@ Why a good computer science education includes much more than computer science
 
 > Another perspective on the value of a liberal arts CS major.
 
+[What makes you happy vs. what you do](enjoy-vs-do.html) (Essay #15)
+
+> Michelle showed me a Facebook post that said something like "Make a list 
+  of the things that make you happy.  Make a list of the things you do every 
+  day.  Compare the lists.  Adjust accordingly."  That post inspired
+  this essay.
+
 For alumni and others who donate to the department
 --------------------------------------------------
 
@@ -201,6 +208,11 @@ Why Grinnell staff with Ph.D's should be allowed to teach.
 Almost everything else
 ----------------------
 
+About SamR
+- *Forthcoming*
+
+> I should probably write something autobiographical.
+
 Algorithmic art
 - *Forthcoming*
 
@@ -247,10 +259,16 @@ Van Morrison
 
 > Another of my favorite musicians.
 
+Physimusicomedy
+- *Forthcoming*
+
+> My favorite essay topic for my collegiate film classes.  I wonder if
+  I'll every find that essay again.
+
 Removed
 -------
 
-Essay #3 was about Grinnell's relationship with Posse.  I have
-now learned that the situation is even more complex than I thought.
-I remain frustrated by many issues in the situation, but I don't think
-it's appropriate to keep my essay up.
+Essay #3 was about Grinnell's relationship with Posse.  I have now
+learned that the situation is even more complex than I thought, and my
+knowledge is clearly incomplete.  I remain frustrated by many issues in
+the situation, but I don't think it's appropriate to keep my essay up.
