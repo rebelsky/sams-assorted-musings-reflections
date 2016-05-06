@@ -25,8 +25,7 @@ On writing, or at least on writing these essays
   write.  This essay reflects my attempts to consider the audience
   (or audiences) for these essays.
 
-Finding the time to write
-- *Forthcoming*
+[Finding the time to write](finding-time-to-write.html) (Essay #17)
 
 > Relatively early into the "essay a day" experiment, one of my colleagues
   said "Sam, I don't know how you find time to write an essay each day.
