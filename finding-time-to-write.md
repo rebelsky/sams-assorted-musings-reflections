@@ -65,6 +65,8 @@ some, like this one, are just a sequence of thoughts that are casually
 So, how do I find the time to write?  I just do.  It's easier than you
 might think, and it's clearly worth it.
 
+*Now, as Michelle says, I should find the time to exercise each day.*
+
 ---
 
 *Version 1.0 of 2016-05-05.*
