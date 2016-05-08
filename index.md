@@ -206,6 +206,10 @@ Why Grinnell staff with Ph.D's should be allowed to teach.
 Almost everything else
 ----------------------
 
+[Mom](mom.html) (Essay #19)
+
+> An essay on my mother, for mother's day.
+
 About SamR
 - *Forthcoming*
 
