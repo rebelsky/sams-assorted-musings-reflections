@@ -164,11 +164,10 @@ On the draft framework
   the Diverse Needs of our Students".  This not-quite-essay is my attempt
   to tie together my various reactions to that document.
 
-Expected workload at Grinnell
-- *Forthcoming*
+[Grinnell's expected student workload](grinnell-workload.html) (Essay #18)
 
 > In spring 2016, Grinnell's Curriculum Committee released [a document
-  suggesting minimum workloads in classes](https://grinco.sharepoint.com/sites/Registrar/Shared%20Documents/semester%20credit%20definition%20RESOLUTION.pdf).
+  setting policies for minimum workloads in classes](https://grinco.sharepoint.com/sites/Registrar/Shared%20Documents/semester%20credit%20definition%20RESOLUTION.pdf).
   In this essay, I attempt to reflect on the implications of that 
   document.
 
