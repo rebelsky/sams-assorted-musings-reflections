@@ -94,4 +94,21 @@ time-consuming?
 
 ---
 
-*Version 1.0 of 2016-05-06.*
+Follow note from awesome former student: Obviously I gained a
+tremendous amount from the formal instruction, but my non-classroom
+time really defined my college experience. I gained as much from the
+stereotypical late night discussions with other students, working at
+the Helpdesk (as a manager! an amazing opportunity for a 21 year old!),
+administrating GrinnellPlans, and teaching at Swing Club. Honestly, it's
+those opportunities that made Grinnell unique. By the time I graduated,
+I'd taught weekly dance classes for 3 years, organized a multi-state
+dance event, helped hire, train, and manage 20+ nerds for two years,
+and learned more about public relations than I ever intended to (oh,
+Plans). And balancing (and often failing to balance, but that's part of
+it too, right?) it all.
+
+---
+
+*First version released on 2016-05-06.*
+
+*Version 1.1 of 2016-05-07.*
