@@ -154,6 +154,11 @@ How Grinnell's CS department supports diversity
   to recruit and support a wide range of students.  This is my attempt to
   explain some of them.
 
+[Prelimnary notes on accessibility in the classroom](accessibility-chairs.html) (Essay #20)
+
+> Some sketchy thoughts as I get ready for a meeting about accessibility in 
+  the classroom.
+
 Rants
 -----
 
