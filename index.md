@@ -154,7 +154,7 @@ How Grinnell's CS department supports diversity
   to recruit and support a wide range of students.  This is my attempt to
   explain some of them.
 
-[Prelimnary notes on accessibility in the classroom](accessibility-chairs.html) (Essay #20)
+[Preliminary notes on accessibility in the classroom](accessibility-chairs.html) (Essay #20)
 
 > Some sketchy thoughts as I get ready for a meeting about accessibility in 
   the classroom.
@@ -194,8 +194,7 @@ On representing dates and times
 
 > Why I hate things like "12:00 p.m." or "6/12/64".
 
-How to make email miserable to use
-- *Forthcoming*
+[Proofpoint: How to make email miserable to use](proofpoint.html) (Essay #21)
 
 > My reaction to Grinnell's installation of Proofpoint.  While I rant
   about bad software in a separate essay, Proofpoint causes me enough
