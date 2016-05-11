@@ -87,6 +87,10 @@ For current students and others with similar interests
 > I think every member of the Grinnell community should attend
   Scholars Convocation.  Here's why.
 
+[Naming week 14](naming-week-14.html) (Essay #22)
+
+> What (not) to call the last week of classes.
+
 On Self-Governance
 - *Forthcoming*
 
