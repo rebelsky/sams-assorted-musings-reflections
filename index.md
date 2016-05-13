@@ -44,6 +44,10 @@ For prospective students, parents of prospective students, and others with simil
 > A response to students who ask about the differences between CS at
   Grinnell and CS at our peer institutions.
 
+[Grinnell's Individual Advised Curriculum](individually-advised-curriculum.html) (Essay #24)
+
+> One of the highlights of a Grinnell education.
+
 Studying at Grinnell
 - *Forthcoming*
 
@@ -165,6 +169,11 @@ How Grinnell's CS department supports diversity
 
 Rants
 -----
+
+[On Grinnell's Completion Rate](completion-rate.html) (Essay #23)
+
+> Grinnell is working hard to increase our six-year completion rate.  
+  I reflect a bit on that goal and the way it is being phrased.
 
 On the draft framework
 - *Forthcoming*
