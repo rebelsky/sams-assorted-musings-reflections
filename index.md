@@ -95,6 +95,15 @@ For current students and others with similar interests
 
 > What (not) to call the last week of classes.
 
+[On the last day of class](last-day-of-class.hthml) (Essay #25)
+
+> Reflections on the end of a class, and the end of the semester.
+
+[Infusing the college mission into the residential experience](infuse-mission-residential.html) (Essay #26)
+
+> A reflection on one section of the initial list of recommendations from
+  the task force on residential learning.
+
 On Self-Governance
 - *Forthcoming*
 
@@ -219,6 +228,14 @@ Why Grinnell staff with Ph.D's should be allowed to teach.
 > I thought we allowed our Ph.D.-level staff to teach the occasional
   course.  Then I learned that it's only in very specific situations.
   These are my attempts to think through the matter.
+
+Overcommitment
+--------------
+
+[Overcommitment, Finals Week, Spring 2016](overcommitment-finals-2016S.html) (Essay #27)
+
+> The first in a series of short essays on the too many things I commit
+  to.
 
 Almost everything else
 ----------------------
