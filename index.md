@@ -95,7 +95,7 @@ For current students and others with similar interests
 
 > What (not) to call the last week of classes.
 
-[On the last day of class](last-day-of-class.hthml) (Essay #25)
+[On the last day of class](last-day-of-class.html) (Essay #25)
 
 > Reflections on the end of a class, and the end of the semester.
 
@@ -104,11 +104,11 @@ For current students and others with similar interests
 > A reflection on one section of the initial list of recommendations from
   the task force on residential learning.
 
-On Self-Governance
-- *Forthcoming*
+[Musings on Self Governance](self-gov-musings.html) (Essay #28)
 
-> Self-gov is a central aspect to Grinnell's culture.  This note reflects
-  my own perspectives on self-gov.
+> Self gov is a central aspect of Grinnell's academic and residential
+  culture.  This note reflects my own perspectives on self-gov.  I may
+  follow them with a more considered essay.
 
 Why study CS
 - *Forthcoming*
@@ -148,6 +148,10 @@ Why a good computer science education includes much more than computer science
   of the things that make you happy.  Make a list of the things you do every 
   day.  Compare the lists.  Adjust accordingly."  That post inspired
   this essay.
+
+[Exit Interviews](exit-interviews.html) (Essay #30)
+
+> The CS department's favorite assessment tool.
 
 For alumni and others who donate to the department
 --------------------------------------------------
@@ -237,6 +241,31 @@ Overcommitment
 > The first in a series of short essays on the too many things I commit
   to.
 
+Cool Grinnellians you should know about
+---------------------------------------
+
+Harry Hopkins
+- *Forthcoming
+
+Hallie Flanagan
+- *Forthcoming
+
+David Feldman
+- *Forthcoming
+
+Assorted talks and speeches
+---------------------------
+
+[A speech to Duke TIP scholars](duke-tip-2016.html) (Essay #13)
+
+> For some reason, Grinnell invited me to give a speech to Duke
+  TIP scholars on Tuesday, 3 May 2016.  Here's the intended text
+  of my speech.
+
+[Speech to 2016 Graduating CS Seniors](cs-seniors-2016.html) (Essay #29)
+
+> Text of a speech that I should have given.
+
 Almost everything else
 ----------------------
 
@@ -265,12 +294,6 @@ Algorithmic art
 
 > One of my favorite "mom quotes"; one that I now feel that I have to 
   say way too much of the time.
-
-[A speech to Duke TIP scholars](duke-tip-2016.html) (Essay #13)
-
-> For some reason, Grinnell invited me to give a speech to Duke
-  TIP scholars on Tuesday, 3 May 2016.  Here's the intended text
-  of my speech.
 
 Things I like
 -------------
