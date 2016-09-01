@@ -32,6 +32,14 @@ On writing, or at least on writing these essays
   I don't even find time to read your essays."  Here, I attempt to consider
   how and why I am trying to find the time to write.
 
+[One month of musings](one-month.html) (Essay #31)
+
+> Reflections on my first month of writing.
+
+[On making, breaking, and remaking the habit of daily writing](habit-of-writing.html) (Essay #42)
+
+> Reflections on trying to restart these essays.
+
 For prospective students, parents of prospective students, and others with similar interests
 --------------------------------------------------------------------------------------------
 
@@ -110,8 +118,7 @@ For current students and others with similar interests
   culture.  This note reflects my own perspectives on self-gov.  I may
   follow them with a more considered essay.
 
-Why study CS
-- *Forthcoming*
+[Why study CS?](why-study-cs.html) (Essay #33)
 
 > Computer science is an awesome discipline.  Here, I reflect not only
   on some of the reasons that I study CS, but also reasons that students
@@ -149,9 +156,13 @@ Why a good computer science education includes much more than computer science
   day.  Compare the lists.  Adjust accordingly."  That post inspired
   this essay.
 
-[Exit Interviews](exit-interviews.html) (Essay #30)
+[Exit interviews](exit-interviews.html) (Essay #30)
 
 > The CS department's favorite assessment tool.
+
+[Helping students with programming problems](helping-with-programming-problems.html) (Essay #32)
+
+> Some notes for our peer educators.
 
 For alumni and others who donate to the department
 --------------------------------------------------
@@ -179,6 +190,11 @@ How Grinnell's CS department supports diversity
 
 > Some sketchy thoughts as I get ready for a meeting about accessibility in 
   the classroom.
+
+[Alcohol at Grinnell](alcohol.html) (Essay #41)
+
+> Thoughts about recent policy changes on alcohol use, and the broader
+  problems of alcohol use on campus.
 
 Rants
 -----
@@ -215,6 +231,10 @@ Why I complain about software
 > I complain a lot about bad software.  And I think a lot of software
   is bad.  Here I reflect more deeply about these issues.
 
+[Software hammers](software-hammers.html) (Essay #40)
+
+> On the dangers of having too limited a view of software.
+
 On representing dates and times
 - *Forthcoming*
 
@@ -241,6 +261,15 @@ Overcommitment
 > The first in a series of short essays on the too many things I commit
   to.
 
+[Overcommittment, Summer 2016](overcommitment-summer-2016.html) (Essay #39)
+
+> The second in that series.
+
+Nibbled to death by ducks - Managing my to-do list
+- *Forthcoming*
+
+> Keeping track of what work I'm supposed to do
+
 Cool Grinnellians you should know about
 ---------------------------------------
 
@@ -265,6 +294,30 @@ Assorted talks and speeches
 [Speech to 2016 Graduating CS Seniors](cs-seniors-2016.html) (Essay #29)
 
 > Text of a speech that I should have given.
+
+[Recruiting faculty who care about diversity](diversity-recruiting.html) (Essay #34)
+
+> Notes for a panel on best practices.
+
+Reflections on letters of recommendation
+----------------------------------------
+
+[Writing letters of recommendation](recommendation-letters.html) (Essay #35)
+
+> What it feels like when I have to write a letter of recommendation.
+  Initially intended as a stand-alone essay.  Now serving as a bit
+  of an introduction to a series of essays.
+
+[Are my recommendation letters gendered?](gendered-recommendations.html) (Essay #36)
+
+> Implicit bias creeps into recommendation letters, both in how we read them
+  and how we write them.  Does it appear in mine?
+
+Comparing students
+- *Forthcoming*
+
+> When multiple students are applying for the same opportunity, I'm often
+  asked to compare them.  These are some thoughts on that process.
 
 Almost everything else
 ----------------------
@@ -294,6 +347,14 @@ Algorithmic art
 
 > One of my favorite "mom quotes"; one that I now feel that I have to 
   say way too much of the time.
+
+[Replying to messages on the SIGCSE mailing list](sigcse-members-reply-etiquette.html) (Essay #37)
+
+> A note to a mailing list that I manage.
+
+[Addressing people](addressing-people.html) (Essay #38)
+
+> On my difficulties figuring out what to call people.
 
 Things I like
 -------------
