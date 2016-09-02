@@ -27,7 +27,9 @@ programs that would format and upload pages, so that I could write in
 Markdown rather than using a graphical text editor.  (I am significantly
 faster in Markdown, at least for most tasks.)  I wrote something that 
 identified parts of my course that I expected to be there, and made 
-sure that they were there (creating them as necessary).
+sure that they were there (creating them as necessary).  I even wrote a
+few scripts to delete parts of a course, so that I could clean up the
+messes that some of my other scripts made.
 
 But most of my programming work was in building programs that let me manage
 what Canvas calls "modules", thematic (and, usually, temporal) groups of
@@ -65,9 +67,13 @@ First, I like that when I write something, I can see results.  In this
 case, I get to see better navigational support for my students.  Second,
 I like to know that I'm making things more sensible (and perhaps organized).
 I *hate* having to keep things in synch.  This program helps me automate
-the process.  Finally, when I decide to change the format of the tables
-of contents, it will just be a few minutes of scripting, rather than
-an hour of editing each toc.
+the process.  Third, writing the programs made me think more about how to
+structure and present information, and will probably help me rethink how
+I structure and present information.  Finally, when I decide to change
+the format of the tables of contents, it will just be a few minutes of
+scripting, rather than an hour of editing each toc.
+
+What could be more fun?  (Well, maybe writing an essay about it.)
 
 ---
 
