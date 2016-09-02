@@ -124,6 +124,11 @@ For current students and others with similar interests
   on some of the reasons that I study CS, but also reasons that students
   might want to study CS.
 
+[Friday PSA](friday-psa.html) (Essay #44)
+
+> An extended version of things I say to most of my classes every
+  Friday.
+
 On advising at Grinnell
 - *Forthcoming*
 
