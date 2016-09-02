@@ -4,7 +4,7 @@ The Joy of Code - Generating Tables of Contents
 *I'm a computer scientist.  That means that sometimes I code for fun.
 Sometimes I code for both fun and for a purpose.  Ideally, I write a
 useful (or perhaps useless) program each day.  Today's essay is on 
-today's program. I apologize for the non-technical among you, who may
+today's program. I apologize to the non-technical among you, who may
 not understand all of this.  I also apologize to the technical
 among you, who may find this obvious and boring.  If you want,
 you can look at my code (which is designed primarily for my use) at
