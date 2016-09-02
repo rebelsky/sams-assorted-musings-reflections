@@ -319,6 +319,16 @@ Comparing students
 > When multiple students are applying for the same opportunity, I'm often
   asked to compare them.  These are some thoughts on that process.
 
+The joy of code
+---------------
+
+*Occasional essays on programs I've had fun writing or reading.*
+
+[Generating a Table of Contents](joc-canvas-toc.html) (Essay #43)
+
+> On writing code to make better course Web sites (or at least better
+  Canvas sites).
+
 Almost everything else
 ----------------------
 
@@ -388,6 +398,11 @@ Physimusicomedy
 
 > My favorite essay topic for my collegiate film classes.  I wonder if
   I'll every find that essay again.
+
+Sam Hurt's _Eyebeam_
+- *Forthcoming*
+
+> One of my favorite comic strips.
 
 Removed
 -------
