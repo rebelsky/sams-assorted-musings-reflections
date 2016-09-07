@@ -40,6 +40,11 @@ On writing, or at least on writing these essays
 
 > Reflections on trying to restart these essays.
 
+[Essays I Did Not Post](essays-i-did-not-post.html) (Essay #48)
+
+> In which I explore two (or maybe three) essays that I wrote and realized
+  that I should not post.
+
 For prospective students, parents of prospective students, and others with similar interests
 --------------------------------------------------------------------------------------------
 
@@ -70,17 +75,16 @@ overall characteristics of the institution and the student body.
 For prospective faculty
 -----------------------
 
+[On teaching CS at Grinnell](teaching-cs-at-grinnell.html) (Essay #45)
+
+> Things that I think make our department great.
+
 On being a Grinnell professor
 - *Forthcoming*
 
 > Why I (generally) love teaching and conducting research at Grinnell
   and think others might, too.  (Yes, the students and colleagues are
   a good part of the reason.)
-
-On teaching CS at Grinnell
-- *Forthcoming*
-
-> Things that I think make our department great.
 
 For current students and others with similar interests
 ------------------------------------------------------
@@ -275,6 +279,13 @@ Nibbled to death by ducks - Managing my to-do list
 
 > Keeping track of what work I'm supposed to do
 
+Online teaching
+---------------
+
+[Making talking-head videos](online-teaching-talking-head-videos.html) (Essay #46)
+
+> Short reflections on having to make "talking head" videos.
+
 Cool Grinnellians you should know about
 ---------------------------------------
 
@@ -333,6 +344,10 @@ The joy of code
 
 > On writing code to make better course Web sites (or at least better
   Canvas sites).
+
+[When things go wrong](joc-when-things-go-wrong) (Essay #47)
+
+> Computers were not my friends tonight.  Here's the story.
 
 Almost everything else
 ----------------------
