@@ -40,7 +40,7 @@ On writing, or at least on writing these essays
 
 > Reflections on my first month of writing.
 
-[On making, breaking, and remaking the habit of daily writing](habit-of-writing.html) (Essay #42)
+[On making, breaking, and remaking the habit of daily writing](habit-of-writing.html) (Essay #41)
 
 > Reflections on trying to restart these essays.
 
@@ -212,7 +212,7 @@ How Grinnell's CS department supports diversity
 > Some sketchy thoughts as I get ready for a meeting about accessibility in 
   the classroom.
 
-[Alcohol at Grinnell](alcohol.html) (Essay #41)
+[Alcohol at Grinnell](alcohol.html) (Essay #42)
 
 > Thoughts about recent policy changes on alcohol use, and the broader
   problems of alcohol use on campus.
