@@ -7,6 +7,10 @@ students or other people.  Some are rants about topics I'm passionate
 about.  Some are explanations of how I approach the world.  Some are
 just my attempts to think through a topic.
 
+Latest essay (#52): [MathLAN: Grinnell's Linux Network](mathlan.html)
+
+---
+
 On writing, or at least on writing these essays
 -----------------------------------------------
 
@@ -60,6 +64,10 @@ For prospective students, parents of prospective students, and others with simil
 [Grinnell's Individual Advised Curriculum](individually-advised-curriculum.html) (Essay #24)
 
 > One of the highlights of a Grinnell education.
+
+[MathLAN: Grinnell's Linux Network](mathlan.html) (Essay #52)
+
+> How Linux integrates with a Grinnell education.
 
 Studying at Grinnell
 - *Forthcoming*
@@ -180,6 +188,10 @@ For alumni and others who donate to the department
 
 > A thank-you note, of sorts.
 
+[Planning a CS Affinity Reunion](planning-cs-reunion.html) (Essay #49)
+
+> Thoughts on an upcoming event.
+
 Reflections on important issues
 -------------------------------
 
@@ -261,6 +273,14 @@ Why Grinnell staff with Ph.D's should be allowed to teach.
 > I thought we allowed our Ph.D.-level staff to teach the occasional
   course.  Then I learned that it's only in very specific situations.
   These are my attempts to think through the matter.
+
+Thank You Notes
+---------------
+
+[Thank You](thank-you-01.html) (Essay #50)
+
+> The first in a series of thank you notes.  This one is to someone who
+  works at the JRC welcome desk.
 
 Overcommitment
 --------------
@@ -392,6 +412,10 @@ Things I like
 *Eventually, I'll find that I'm out of serious topics and will instead
 start writing about some of the things that are meaningful to me, or
 at least provide joy.  (Other than my family.)  I'm starting a list.*
+
+[Cyro Baptista and Banquet of Spirits](cyro-baptista.html) (Essay #51)
+
+> Reflections on an awesome concert.
 
 Goldenberg's Peanut Chews
 - *Forthcoming*
