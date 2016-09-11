@@ -56,7 +56,7 @@ you develop these skills.
 
 Our alums regularly tell me that they've appreciated the habits they've
 developed as Linux programmers and users.   In fact, this approach to
-designing software is so important that our alumni who work at Microsfot
+designing software is so important that our alumni who work at Microsoft
 even tell me that Microsoft seems to prefer to hire people who know how
 to program on Linux systems.
 
@@ -151,4 +151,4 @@ Literature_. <http://www.cs.grinnell.edu/~simpsone/Connections/>.
 
 ---
 
-*Version 1.0 of 2016-09-10.*
+*Version 1.0.1 of 2016-09-11.*
