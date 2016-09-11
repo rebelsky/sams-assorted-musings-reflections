@@ -1,11 +1,11 @@
-Essays, In Order  
-==================
+Essays, in numerical order
+==========================
 
 ## 1-10
   
 [Contacting faculty members on behalf of students](contacting-faculty.html) (Essay #1)  
 [What kind of computer should you buy?](buy-computer.html) (Essay #2)  
-On Grinnell's Relationship with Posse (*removed*) (Essay #4)  
+On Grinnell's Relationship with Posse (*removed*) (Essay #3)  
 [How we spend your donations](donor-thank-you.html) (Essay #4)  
 [On the genesis of _Sam's Assorted Musings and Rants_](genesis.html) (Essay #5)  
 [Profanity in class](profanity.html) (Essay #6)  

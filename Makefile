@@ -51,3 +51,28 @@ md-pdf := $(md:%.md=%.pdf)              # Converts .md to .pdf
 html: $(sect-html) $(md-html)           # Builds all valid .html targets
 pdf: html $(sect-pdf) $(md-pdf)         # Builds all valid .pdf targets
 
+# +-----------------+------------------------------------------------
+# | Generated files |
+# +-----------------+
+
+INDICES = index-by-topic-head.md \
+	index-on-writing.md \
+	index-prospective-students.md \
+	index-prospective-faculty.md \
+	index-current-students.md \
+	index-alumni.md \
+	index-important-issues.md \
+	index-rants.md \
+	index-talks-speeches.md \
+	index-thank-you.md \
+	index-overcommitment.md \
+	index-teaching-online.md \
+	index-recommendations.md \
+	index-joc.md \
+	index-grinnellians.md \
+	index-reviews.md \
+	index-misc.md \
+	index-removed.md 
+
+index-by-topic.md: $(INDICES)
+	cat $^ | sed -e '2!s/=/-/g' > $@

@@ -1,0 +1,14 @@
+The joy of code
+===============
+
+*Occasional essays on programs I've had fun writing or reading.*
+
+[Generating a Table of Contents](joc-canvas-toc.html) (Essay #43)
+
+> On writing code to make better course Web sites (or at least better
+  Canvas sites).
+
+[When things go wrong](joc-when-things-go-wrong) (Essay #47)
+
+> Computers were not my friends tonight.  Here's the story.
+
