@@ -12,3 +12,7 @@ The joy of code
 
 > Computers were not my friends tonight.  Here's the story.
 
+[Small scripts for indexing musings](joc-indexing-musings.html) (Essay #53)
+
+> The joy of writing really small programs in Linux.
+

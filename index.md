@@ -7,7 +7,7 @@ students or other people.  Some are rants about topics I'm passionate
 about.  Some are explanations of how I approach the world.  Some are
 just my attempts to think through a topic.
 
-Latest essay (#52): [MathLAN: Grinnell's Linux Network](mathlan.html)
+Latest essay (#53): [The Joy of Code: Small Scripts for Indexing Musings]
 
 [Essays, by number](index-by-number.html)
 
