@@ -1,0 +1,31 @@
+#!/usr/bin/perl
+
+# Read a list of ordered entries from stdin and turn them into
+# the "standard" form of index-by-number.  (Broken up into 10's.)
+
+# Print the header
+print <<"HEAD";
+Essays, in numerical order
+==========================
+
+## 1-10
+
+HEAD
+
+# Process all of the lines
+while (<STDIN>) {
+  chomp;
+  # If we are at the first entry in a range
+  if (m/#([0-9]+)1/) {
+    # Print the range header.
+    $prefix = $1;
+    $next = $prefix+1;
+    print <<"HEADER";
+
+## ${prefix}1-${next}0
+
+HEADER
+  }
+  # Print the line
+  print "$_  \n";
+}
