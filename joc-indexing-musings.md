@@ -5,6 +5,8 @@ The Joy of Code: Small Scripts for Indexing Musings
 Web sites, but that's going to have to wait for another day.  Instead,
 I have this short reflection on writing scripts.*
 
+*Warning!  This is another semi-technical post.*
+
 ---
 
 In [my notes on MathLAN](mathlan.html), I indicated that one of the
