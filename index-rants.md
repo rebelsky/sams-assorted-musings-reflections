@@ -13,8 +13,7 @@ Rants
   In this essay, I attempt to reflect on the implications of that 
   document.
 
-Why Grinnell's Web site should be more open
-- *Forthcoming*
+[Grinnell's Web Presence](grinnells-web-presence.html) (Essay #54)
 
 > I've spent the past three years complaining about the loss of important
   public information from our Web site.  In this essay, I attempt to tie

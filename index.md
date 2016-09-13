@@ -7,7 +7,7 @@ students or other people.  Some are rants about topics I'm passionate
 about.  Some are explanations of how I approach the world.  Some are
 just my attempts to think through a topic.
 
-Latest essay (#53): [The Joy of Code: Small Scripts for Indexing Musings]
+Latest essay (#54): [Grinnell's Web Presence](grinnells-web-presence.html)
 
 [Essays, by number](index-by-number.html)
 
