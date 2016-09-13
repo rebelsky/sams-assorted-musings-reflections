@@ -51,10 +51,10 @@ sounds varied immensely, from a solid groove + melody to some fairly
 atonal things and even some surf guitar (or, more precisely, surf bass),
 sometimes even in the same song.
 
-What else?  Kudos to the hard work of the (unnamed) soundman.  Clearly,
-as Baptista and the rest switched instruments, he had to work carefully
-to make sure the balance remained good.  I certainly wouldn't want
-to try to do that.
+What else?  Kudos to the hard work of the soundman, Iuri Oriente.
+Clearly, as Baptista and the rest switched instruments, he had to work
+carefully to make sure the balance remained good.  I certainly wouldn't
+want to try to do that with all that was going on on the stage.
 
 Talented musicians who know each other well and are clearly having fun.
 An appreciative (and involved) audience.  Clever approaches.  It made
@@ -64,4 +64,4 @@ Plus, Baptista wears Crocs!
 
 ---
 
-*Version 1.0 of 2016-09-09.*
+*Version 1.0.1 of 2016-09-12.*
