@@ -1,12 +1,21 @@
-Cool Grinnellians you should know (or know about)
-=================================================
+Grinnellians you should know (or know about)
+============================================
 
-Harry Hopkins
-- *Forthcoming
-
-Hallie Flanagan
-- *Forthcoming
+Jeff Dickey-Chaisins
+- *Forthcoming*
 
 David Feldman
-- *Forthcoming
+- *Forthcoming*
+
+Richard Fyffe
+- *Forthcoming*
+
+Hallie Flanagan
+- *Forthcoming*
+
+Harry Hopkins
+- *Forthcoming*
+
+Susan Sanning
+- *Forthcoming*
 
