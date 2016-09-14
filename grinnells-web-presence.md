@@ -101,9 +101,8 @@ just like they tried to do two years ago.)
 
 ---
 
-Note: I believe that my more articulate colleague, Erik Simpson, plans
-a followup essay that provides a broader perspective.  When he does,
-I'll add a link.
+My more articulate colleague, Erik Simpson, has written
+[some further notes on these issues](https://pagesandlights.wordpress.com/2016/09/13/navigation-by-frustration/).
 
 ---
 
@@ -111,4 +110,4 @@ I'll add a link.
 
 ---
 
-*Version 1.0 of 2016-09-12.*
+*Version 1.0.1 of 2016-09-13.*
