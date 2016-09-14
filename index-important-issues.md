@@ -23,3 +23,7 @@ How Grinnell's CS department supports diversity
   to recruit and support a wide range of students.  This is my attempt to
   explain some of them.
 
+[Thinking the best of other people](thinking-the-best.html) (Essay #55)
+
+> One of the best lessons I learned from Freda Rebelsky.
+

@@ -72,3 +72,4 @@ Essay #3 was about Grinnell's relationship with Posse.  I have now
 [MathLAN: Grinnell's Linux Network](mathlan.html) (Essay #52)  
 [Small scripts for indexing musings](joc-indexing-musings.html) (Essay #53)  
 [Grinnell's Web Presence](grinnells-web-presence.html) (Essay #54)  
+[Thinking the best of other people](thinking-the-best.html) (Essay #55)  

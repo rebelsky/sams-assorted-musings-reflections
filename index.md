@@ -7,7 +7,7 @@ students or other people.  Some are rants about topics I'm passionate
 about.  Some are explanations of how I approach the world.  Some are
 just my attempts to think through a topic.
 
-Latest essay (#54): [Grinnell's Web Presence](grinnells-web-presence.html)
+Latest essay (#55): [Thinking the best of other people](thinking-the-best.html)
 
 [Essays, by number](index-by-number.html)
 
