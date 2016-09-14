@@ -1,10 +1,16 @@
 Grinnellians you should know (or know about)
 ============================================
 
-Jeff Dickey-Chaisins
+Terry Bisson '64
+- *Forthcoming*
+
+Jeff Dickey-Chaisins '81
 - *Forthcoming*
 
 David Feldman
+- *Forthcoming*
+
+Pam Ferguson
 - *Forthcoming*
 
 Richard Fyffe
@@ -19,3 +25,5 @@ Harry Hopkins
 Susan Sanning
 - *Forthcoming*
 
+Erik Simpson
+- *Forthcoming*

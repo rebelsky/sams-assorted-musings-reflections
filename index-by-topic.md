@@ -285,6 +285,11 @@ Thank You Notes
 > The first in a series of thank you notes.  This one is to someone who
   works at the JRC welcome desk.
 
+[Feeling Fortunate](feeling-fortunate.html) (Essay #56)
+
+> Not so much a thank you note to an individual as a reflection on
+  all of the parts of my profession for which I am thankful.
+
 Overcommitment
 --------------
 
@@ -347,18 +352,35 @@ The joy of code
 
 > The joy of writing really small programs in Linux.
 
-Cool Grinnellians you should know (or know about)
--------------------------------------------------
+Grinnellians you should know (or know about)
+--------------------------------------------
 
-Harry Hopkins
-- *Forthcoming
+Terry Bisson '64
+- *Forthcoming*
 
-Hallie Flanagan
-- *Forthcoming
+Jeff Dickey-Chaisins '81
+- *Forthcoming*
 
 David Feldman
-- *Forthcoming
+- *Forthcoming*
 
+Pam Ferguson
+- *Forthcoming*
+
+Richard Fyffe
+- *Forthcoming*
+
+Hallie Flanagan
+- *Forthcoming*
+
+Harry Hopkins
+- *Forthcoming*
+
+Susan Sanning
+- *Forthcoming*
+
+Erik Simpson
+- *Forthcoming*
 Reviews and notes about things I enjoy
 --------------------------------------
 

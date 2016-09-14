@@ -73,3 +73,4 @@ Essay #3 was about Grinnell's relationship with Posse.  I have now
 [Small scripts for indexing musings](joc-indexing-musings.html) (Essay #53)  
 [Grinnell's Web Presence](grinnells-web-presence.html) (Essay #54)  
 [Thinking the best of other people](thinking-the-best.html) (Essay #55)  
+[Feeling Fortunate](feeling-fortunate.html) (Essay #56)  

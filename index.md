@@ -7,7 +7,7 @@ students or other people.  Some are rants about topics I'm passionate
 about.  Some are explanations of how I approach the world.  Some are
 just my attempts to think through a topic.
 
-Latest essay (#55): [Thinking the best of other people](thinking-the-best.html)
+Latest essay (#56): [Feeling fortunate](feeling-fortunate.html)
 
 [Essays, by number](index-by-number.html)
 
@@ -25,7 +25,7 @@ Latest essay (#55): [Thinking the best of other people](thinking-the-best.html)
 * [On overcommitment](index-overcommitment.html)
 * [On teaching online](index-teaching-online.html)
 * [On writing letters of recommendation](index-recommendations.html)
-* [Essay I removed](index-removed.html)
+* [Essays I removed](index-removed.html)
 * [The joy of code](index-joc.html)
 * [Cool Grinnellians you should know (or know about)](index-grinnellians.html)
 * [Reviews and notes about things I enjoy](index-reviews.html)
