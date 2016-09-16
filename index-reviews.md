@@ -21,6 +21,11 @@ Jonathan Richman
 
 > One of my favorite musicians
 
+Jon Svetkey and the Loomers
+- *Forthcoming*
+
+> More of my favorite musicians
+
 Yacht Race
 - *Forthcoming*
 

@@ -34,10 +34,14 @@ Essays on writing, or at least on writing my essays
 
 > Reflections on trying to restart these essays.
 
-[Essays I Did Not Post](essays-i-did-not-post.html) (Essay #48)
+[Essays I did not post](essays-i-did-not-post.html) (Essay #48)
 
 > In which I explore two (or maybe three) essays that I wrote and realized
   that I should not post.
+
+[Writing about people](writing-about-people.html) (Essay #57)
+
+> In which I think about a slightly different genre of essay.
 
 For prospective students, parents of prospective students, and others with similar interests
 --------------------------------------------------------------------------------------------
@@ -355,7 +359,16 @@ The joy of code
 Grinnellians you should know (or know about)
 --------------------------------------------
 
+Sarah Anderson '98
+- *Forthcoming*
+
+Ian Atha '09
+- *Forthcoming*
+
 Terry Bisson '64
+- *Forthcoming*
+
+Narren Brown 
 - *Forthcoming*
 
 Jeff Dickey-Chaisins '81
@@ -376,10 +389,19 @@ Hallie Flanagan
 Harry Hopkins
 - *Forthcoming*
 
+Sarah Purcell
+- *Forthcoming*
+
 Susan Sanning
 - *Forthcoming*
 
 Erik Simpson
+- *Forthcoming*
+
+Angie Balm Story
+- *Forthcoming*
+
+Henry Walker
 - *Forthcoming*
 Reviews and notes about things I enjoy
 --------------------------------------
@@ -403,6 +425,11 @@ Jonathan Richman
 - *Forthcoming*
 
 > One of my favorite musicians
+
+Jon Svetkey and the Loomers
+- *Forthcoming*
+
+> More of my favorite musicians
 
 Yacht Race
 - *Forthcoming*

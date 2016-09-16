@@ -62,7 +62,7 @@ Essay #3 was about Grinnell's relationship with Posse.  I have now
 [On teaching CS at Grinnell](teaching-cs-at-grinnell.html) (Essay #45)  
 [Making talking-head videos](online-teaching-talking-head-videos.html) (Essay #46)  
 [When things go wrong](joc-when-things-go-wrong) (Essay #47)  
-[Essays I Did Not Post](essays-i-did-not-post.html) (Essay #48)  
+[Essays I did not post](essays-i-did-not-post.html) (Essay #48)  
 [Planning a CS Affinity Reunion](planning-cs-reunion.html) (Essay #49)  
 [Thank You](thank-you-01.html) (Essay #50)  
 
@@ -74,3 +74,4 @@ Essay #3 was about Grinnell's relationship with Posse.  I have now
 [Grinnell's Web Presence](grinnells-web-presence.html) (Essay #54)  
 [Thinking the best of other people](thinking-the-best.html) (Essay #55)  
 [Feeling Fortunate](feeling-fortunate.html) (Essay #56)  
+[Writing about people](writing-about-people.html) (Essay #57)  

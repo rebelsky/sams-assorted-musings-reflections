@@ -31,8 +31,12 @@ Essays on writing, or at least on writing my essays
 
 > Reflections on trying to restart these essays.
 
-[Essays I Did Not Post](essays-i-did-not-post.html) (Essay #48)
+[Essays I did not post](essays-i-did-not-post.html) (Essay #48)
 
 > In which I explore two (or maybe three) essays that I wrote and realized
   that I should not post.
+
+[Writing about people](writing-about-people.html) (Essay #57)
+
+> In which I think about a slightly different genre of essay.
 

@@ -7,7 +7,7 @@ students or other people.  Some are rants about topics I'm passionate
 about.  Some are explanations of how I approach the world.  Some are
 just my attempts to think through a topic.
 
-Latest essay (#56): [Feeling fortunate](feeling-fortunate.html)
+Latest essay (#57): [Writing about people](writing-about-people.html)
 
 [Essays, by number](index-by-number.html)
 
