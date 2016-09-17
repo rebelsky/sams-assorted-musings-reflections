@@ -75,3 +75,4 @@ Essay #3 was about Grinnell's relationship with Posse.  I have now
 [Thinking the best of other people](thinking-the-best.html) (Essay #55)  
 [Feeling Fortunate](feeling-fortunate.html) (Essay #56)  
 [Writing about people](writing-about-people.html) (Essay #57)  
+[Ian Atha '09](ian-atha.html) (Essay #58)  

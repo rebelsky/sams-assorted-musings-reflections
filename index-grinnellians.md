@@ -4,7 +4,11 @@ Grinnellians you should know (or know about)
 Sarah Anderson '98
 - *Forthcoming*
 
-Ian Atha '09
+[Ian Atha '09](ian-atha.html) (Essay #58)
+
+> CS major, linguistics concentrator, entrepreneur
+
+Toby Baratta '17
 - *Forthcoming*
 
 Terry Bisson '64
@@ -29,6 +33,15 @@ Hallie Flanagan
 - *Forthcoming*
 
 Harry Hopkins
+- *Forthcoming*
+
+Jen Jacobsen
+- *Forthcoming*
+
+Darlo Kelting
+- *Forthcoming*
+
+Jennelle Nystrom '15
 - *Forthcoming*
 
 Sarah Purcell
