@@ -1,5 +1,5 @@
-Research in Computer Science at Grinnell (Fall 2016 Edition)
-============================================================
+Student-Faculty Research in Computer Science at Grinnell (Fall 2016 Edition)
+============================================================================
 
 *I've had some prospective students ask about student-faculty research
 opportunities at Grinnell.  Our student-faculty-research landscape is
