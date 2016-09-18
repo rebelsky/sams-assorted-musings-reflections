@@ -18,6 +18,11 @@ For prospective students, parents of prospective students, and others with simil
 
 > How Linux integrates with a Grinnell education.
 
+[Research in CS at Grinnell (2016 Edition](research-in-cs-2016.html) (Essay #59)
+
+> A short overview of student-faculty research, with some details about
+  the topics from summer 2016.
+
 Studying at Grinnell
 - *Forthcoming*
 

@@ -76,3 +76,4 @@ Essay #3 was about Grinnell's relationship with Posse.  I have now
 [Feeling Fortunate](feeling-fortunate.html) (Essay #56)  
 [Writing about people](writing-about-people.html) (Essay #57)  
 [Ian Atha '09](ian-atha.html) (Essay #58)  
+[Research in CS at Grinnell (2016 Edition](research-in-cs-2016.html) (Essay #59)  
