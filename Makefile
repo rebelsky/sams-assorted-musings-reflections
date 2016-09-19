@@ -79,6 +79,6 @@ index-by-topic.md: $(INDICES)
 
 index-by-number.md: index-by-topic.md
 	grep '#' index-by-topic.md  \
-	| sort -k2 -t# -n \
+	| sort -k2 -t# -n -u \
 	| by-number \
 	> index-by-number.md
