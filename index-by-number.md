@@ -5,7 +5,7 @@ Essays, in numerical order
 
 [Contacting faculty members on behalf of students](contacting-faculty.html) (Essay #1)  
 [What kind of computer should you buy?](buy-computer.html) (Essay #2)  
-Essay #3 was about Grinnell's relationship with Posse.  I have now  
+Essay #3 was about Grinnell's relationship with Posse.    
 [How we spend your donations](donor-thank-you.html) (Essay #4)  
 [On the genesis of _Sam's Assorted Musings and Rants_](genesis.html) (Essay #5)  
 [Profanity in class](profanity.html) (Essay #6)  
@@ -76,4 +76,5 @@ Essay #3 was about Grinnell's relationship with Posse.  I have now
 [Feeling Fortunate](feeling-fortunate.html) (Essay #56)  
 [Writing about people](writing-about-people.html) (Essay #57)  
 [Ian Atha '09](ian-atha.html) (Essay #58)  
-[Research in CS at Grinnell (2016 Edition](research-in-cs-2016.html) (Essay #59)  
+[Research in CS at Grinnell (2016 Edition)](research-in-cs-2016.html) (Essay #59)  
+[Microaggressions and safe spaces](microaggressions.html) (Essay #60)  

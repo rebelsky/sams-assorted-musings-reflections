@@ -11,6 +11,11 @@ Reflections on some important issues
 > Thoughts about recent policy changes on alcohol use, and the broader
   problems of alcohol use on campus.
 
+[Microaggressions and safe spaces](microaggressions.html) (Essay #60)
+
+> On my own experiences with microaggressions and what I draw from those
+  experiences.
+
 On the value of diversity in computer science
 - *Forthcoming*
 
@@ -25,5 +30,5 @@ How Grinnell's CS department supports diversity
 
 [Thinking the best of other people](thinking-the-best.html) (Essay #55)
 
-> One of the best lessons I learned from Freda Rebelsky.
+> One of the best lessons I learned from Freda and Bill Rebelsky.
 

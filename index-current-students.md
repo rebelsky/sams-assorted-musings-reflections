@@ -45,6 +45,11 @@ For current students and others with similar interests
 > An extended version of things I say to most of my classes every
   Friday.
 
+[Research in CS at Grinnell (2016 Edition)](research-in-cs-2016.html) (Essay #59)
+
+> A short overview of student-faculty research, with some details about
+  the topics from summer 2016.
+
 On advising at Grinnell
 - *Forthcoming*
 

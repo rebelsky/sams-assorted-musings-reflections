@@ -63,7 +63,7 @@ For prospective students, parents of prospective students, and others with simil
 
 > How Linux integrates with a Grinnell education.
 
-[Research in CS at Grinnell (2016 Edition](research-in-cs-2016.html) (Essay #59)
+[Research in CS at Grinnell (2016 Edition)](research-in-cs-2016.html) (Essay #59)
 
 > A short overview of student-faculty research, with some details about
   the topics from summer 2016.
@@ -140,6 +140,11 @@ For current students and others with similar interests
 > An extended version of things I say to most of my classes every
   Friday.
 
+[Research in CS at Grinnell (2016 Edition)](research-in-cs-2016.html) (Essay #59)
+
+> A short overview of student-faculty research, with some details about
+  the topics from summer 2016.
+
 On advising at Grinnell
 - *Forthcoming*
 
@@ -204,6 +209,11 @@ Reflections on some important issues
 > Thoughts about recent policy changes on alcohol use, and the broader
   problems of alcohol use on campus.
 
+[Microaggressions and safe spaces](microaggressions.html) (Essay #60)
+
+> On my own experiences with microaggressions and what I draw from those
+  experiences.
+
 On the value of diversity in computer science
 - *Forthcoming*
 
@@ -218,7 +228,7 @@ How Grinnell's CS department supports diversity
 
 [Thinking the best of other people](thinking-the-best.html) (Essay #55)
 
-> One of the best lessons I learned from Freda Rebelsky.
+> One of the best lessons I learned from Freda and Bill Rebelsky.
 
 Rants
 -----
@@ -511,7 +521,8 @@ Algorithmic art
 Removed
 -------
 
-Essay #3 was about Grinnell's relationship with Posse.  I have now
-learned that the situation is even more complex than I thought, and my
-knowledge is clearly incomplete.  I remain frustrated by many issues in
-the situation, but I don't think it's appropriate to keep my essay up.
+Essay #3 was about Grinnell's relationship with Posse.  
+I have now learned that the situation is even more complex than I thought,
+and my knowledge is clearly incomplete.  I remain frustrated by many
+issues in the situation, but I don't think it's appropriate to keep my
+essay up.
