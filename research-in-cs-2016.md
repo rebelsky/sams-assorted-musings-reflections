@@ -26,7 +26,7 @@ half-summer student.  Peter-Michael Osera had six students (I think),
 mostly between their second and third years.  Charlie Curtsinger also
 had six students.  John Stone had two students as assistant system
 administrators, which, while not research in the traditional sense, gave
-students a valuable experience.  My students have submitted two students
+students a valuable experience.  My students have submitted two papers [3]
 which are currently under review, Charlie's students had papers
 accepted and will be presenting this fall (in Amsterdam, I think), and
 Peter-Michael's plan to submit papers.  While we don't have twenty-five
@@ -77,7 +77,8 @@ is taking students to a conference in a week or two to present research
 they did with him last spring.  Needs and approaches vary from semester
 to semester.  Some students work for credit.  Some work for compensation.
 This fall is pretty busy, so I don't think any of the CS faculty have
-research students.  I've already talked to one about a project for spring.
+research students [4].  I've already talked to one about a project
+for spring.
 
 I will note that in most cases, CS faculty supervise student-faculty research
 that falls within their broader research agenda.  That is, most of us
@@ -101,6 +102,12 @@ and housing (and, sometimes, support for transportation).  But Grinnell
 students do get credit and, if their papers are accepted, support for
 travel to conferences.  So, maybe it is.
 
+[3] I originally wrote "my students have submitted two students", which
+made Michelle laugh much too hard.
+
+[4] Toby Baratta tells me that she's doing a MAP with Charlie Curtsinger
+this semester, so I'm clearly wrong.
+
 ---
 
-*Version 1.0 of 2016-09-17.*
+*Version 1.0.2 of 2016-09-18.*
