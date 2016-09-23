@@ -2,7 +2,7 @@ Microaggressions and Safe Spaces
 ================================
 
 There has been a lot of discussion about "safe spaces" in higher
-education, including a recent public statement by my alma matter, The
+education, including a recent public statement by my alma mater, The
 University of Chicago.  I'm not sure that I have a unique perspective
 to add to that discussion, but it's something I think I'll think more
 carefully about when I write about it.  And, well, I'm not really going
@@ -136,7 +136,7 @@ fits in the vein of acceptable subjects.
 
 ---
 
-[1] Toby would probably note that I should also say "cisgender".
+[1] Toby would probably note that I should also say that I'm cisgender.
 
 [2] Technically, I'm obese.
 
@@ -153,4 +153,4 @@ process went.  However, none of those have to do with folks at Grinnell.
 
 ---
 
-*Version 1.0 of 2016-09-18.*
+*Version 1.0.1 of 2016-09-18.*
