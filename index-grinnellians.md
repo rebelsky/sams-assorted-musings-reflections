@@ -1,8 +1,9 @@
 Grinnellians you should know (or know about)
 ============================================
 
-Sarah Anderson '98
-- *Forthcoming*
+[Sarah Anderson '98 and Donna Dralus '89](anderson-dralus.html) (Essay #61)
+
+> Campus Web gurus.
 
 [Ian Atha '09](ian-atha.html) (Essay #58)
 

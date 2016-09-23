@@ -74,10 +74,22 @@ Studying at Grinnell
 > A more general comparison of Grinnell to its peers, reflecting on
 overall characteristics of the institution and the student body.
 
+Connecting to our Community
+- *Forthcoming*
+
+> A consideration of the ways in which our CS department connects
+  to the town and beyond.
+
 [What kind of computer should you buy?](buy-computer.html) (Essay #2)
 
 > A response to a recent question from a prospective student.  Also
   a response to a question that I get way too often.
+
+[Why study CS?](why-study-cs.html) (Essay #33)
+
+> Computer science is an awesome discipline.  Here, I reflect not only
+  on some of the reasons that I study CS, but also reasons that students
+  might want to study CS.
 
 For prospective faculty
 -----------------------
@@ -214,8 +226,7 @@ Reflections on some important issues
 > On my own experiences with microaggressions and what I draw from those
   experiences.
 
-On the value of diversity in computer science
-- *Forthcoming*
+[Diversity in computer science](diversity-in-cs.html) (Essay #63)
 
 > Why I make diversifying the discipline one of my priorities
 
@@ -374,8 +385,9 @@ The joy of code
 Grinnellians you should know (or know about)
 --------------------------------------------
 
-Sarah Anderson '98
-- *Forthcoming*
+[Sarah Anderson '98 and Donna Dralus '89](anderson-dralus.html) (Essay #61)
+
+> Campus Web gurus.
 
 [Ian Atha '09](ian-atha.html) (Essay #58)
 
@@ -496,6 +508,10 @@ About SamR
 [Sleep](sleep.html) (Essay #16)
 
 > On getting enough.
+
+[If you ask a prof a question](if-you-ask-a-prof.html) (Essay #62)
+
+> Reflections on my not-so-legendary primer.
 
 Algorithmic art
 - *Forthcoming*

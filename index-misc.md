@@ -14,6 +14,10 @@ About SamR
 
 > On getting enough.
 
+[If you ask a prof a question](if-you-ask-a-prof.html) (Essay #62)
+
+> Reflections on my not-so-legendary primer.
+
 Algorithmic art
 - *Forthcoming*
 

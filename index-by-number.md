@@ -78,3 +78,9 @@ Essay #3 was about Grinnell's relationship with Posse.
 [Ian Atha '09](ian-atha.html) (Essay #58)  
 [Research in CS at Grinnell (2016 Edition)](research-in-cs-2016.html) (Essay #59)  
 [Microaggressions and safe spaces](microaggressions.html) (Essay #60)  
+
+## 61-70
+
+[Sarah Anderson '98 and Donna Dralus '89](anderson-dralus.html) (Essay #61)  
+[If you ask a prof a question](if-you-ask-a-prof.html) (Essay #62)  
+[Diversity in computer science](diversity-in-cs.html) (Essay #63)  

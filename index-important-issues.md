@@ -16,8 +16,7 @@ Reflections on some important issues
 > On my own experiences with microaggressions and what I draw from those
   experiences.
 
-On the value of diversity in computer science
-- *Forthcoming*
+[Diversity in computer science](diversity-in-cs.html) (Essay #63)
 
 > Why I make diversifying the discipline one of my priorities
 

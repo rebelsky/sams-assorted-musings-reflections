@@ -29,8 +29,20 @@ Studying at Grinnell
 > A more general comparison of Grinnell to its peers, reflecting on
 overall characteristics of the institution and the student body.
 
+Connecting to our Community
+- *Forthcoming*
+
+> A consideration of the ways in which our CS department connects
+  to the town and beyond.
+
 [What kind of computer should you buy?](buy-computer.html) (Essay #2)
 
 > A response to a recent question from a prospective student.  Also
   a response to a question that I get way too often.
+
+[Why study CS?](why-study-cs.html) (Essay #33)
+
+> Computer science is an awesome discipline.  Here, I reflect not only
+  on some of the reasons that I study CS, but also reasons that students
+  might want to study CS.
 
