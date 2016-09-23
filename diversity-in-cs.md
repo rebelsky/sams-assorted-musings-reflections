@@ -12,44 +12,72 @@ in electrons, as it were.*
 Whether we like it or not, computer technology is changing the world.
 Things like Twitter, Instagram, and Facebook are changing the ways in 
 which we communicate with others.  Google, as it organizes the world's
-information, provides us with suprising access to things: maps, facts,
+information, provides us with surprising access to things: maps, facts,
 directions, and more.  (It also gathers data about us, but that's a
-separate issue.)  And technology reflects those who build it.  Hence,
-as a computing educator, *I feel that I have a moral responsibility to
-do what I can to diversify my discipline.*
+separate issue.)  Technology reflects those who build it.  Hence, as a
+computing educator, *I have a moral responsibility to do what I can to
+diversify my discipline.*
 
-Our [1] general focus in developing diversity has been to provide a 
-welcoming department, one that considers and values diversity.  Across the
-years, we've adopted techniques shown to be more inclusive (e.g., we've
-been using active learning strategies since before I came to Grinnell; we
-adapted the Georgia Tech "Media Computation" approach for our introductory
-course); we've worked to have a diverse and excellent group of peer
-educators (and to convince the College to support our peer educator
-program); we've supported students in activities that build confidence
-and a sense of belonging, supporting both student groups and trips to
-the Grace Hopper Celebration and the Tapia Celebration; and we've shown
-that we value diversity in our actions and in the topics we choose for
-CS table, our weekly discussion group.
+My primary reason for feeling this responsibility is that I think
+technology will not only be more inclusive, but just better if we
+have a broader group of people building technology.  Does it really
+make a difference who builds the technology?  Yes, I really think so.
+There's evidence from almost every science that people started thinking
+about the discipline differently once a previously excluded group (most
+frequently, women) started participating more actively in the discipline.
+It's clear that companies that have a more diverse group of developers
+(or engineers or whatever you want to call them) really do seem to
+produce products that feel different.
 
-In some ways, we've been relatively successful.  Grinnell currently has
-about 40% women majors [2], and we've grown our number of women majors at
-the same time that we've grown our overall number of majors, so we can be
-pretty sure that the growth of women has not been at the expense of men.
-But you know what?  I don't think it's any one thing the faculty has
-done that led to this growth, and it's not even every thing the faculty
-has done.  Rather, we built a small cadre of majors who cared about these
-issues (both men and women), and they worked hard to encourage others to
-consider CS and to include others in the department.  In some ways, I think
-we reached a form of "critical mass".  This achievement doesn't mean that
-we no longer need to worry about these matters; too often, 
+But it's also more than that.  CS is awesome.  Everyone should have the
+opportunity to gain the joys of solving problems and creating interesting
+things that are at the heart of computing.  Too many people feel excluded
+because of gender, race, sexual orientation, physical status, or whatever.
+On a more practical level, computing is also a valuable skill, one that
+can lead to rewarding careers.
 
-we've revamped our curriculum to incorporate research findings
-on s
-the years
+Broadening participation is not an easy task.  There's significant
+evidence that many factors discourage people from groups underrepresented
+in computing to pursue computing as a vocation or avocation.  These
+factors continue from childhood (when it seems that certain groups are
+encouraged to explore computing and others are discouraged) to adulthood
+(when peers can provide an unwelcoming environment, either intentionally
+or unintentionally).
+
+I've spent most of my career at Grinnell working on gender diversity
+in my field.  These past few years, I've also turned my attention to
+racial diversity.  At some point, I'd like to see us be more thoughtful
+about attracting and supporting students with disAbilities, making sure
+that our curriculum is accessible to students with visual, hearing, or
+other physical impairments.  Grinnell is clearly working hard to provide
+better support for such students, and I'd hope that we could be seen as
+a particularly supportive department.
+
+What do I do as an educator?  What can I do? I feel fortunate that I'm not
+alone in prioritizing diversity.  As I'll write in a separate essay,
+my colleagues and students at Grinnell have collaborated to do a number
+of activities to attract and retain students in CS, from restructuring
+our curriculum to thinking carefully about the design of our spaces
+and support services.  Diversity is also an issue of interest to many
+computer scientists nationwide.
+
+Where does this all lead?  Well, I hope my efforts lead to an even more
+diverse group of computer scientists coming out of Grinnell and going
+on to make a difference in the world.  And I hope this essay leads to
+more people supporting me in my efforts.  We'll see.
 
 ---
 
-[1] I say "Our" because the members of my department have collaborated
-on these issues.
+Yeah, this is one of those essays that might have been better as a
+single paragraph.  Oh well.  That's how it goes sometimes.
 
-[2] Nationally, it's under 20%.
+---
+
+Note: In case it's not clear from this essay, I think we diversify the
+discipline by bringing in more people and a wider variety of people,
+not by reducing the number of majority people who study.  Things I
+do to make CS more inclusive usually support everyone.
+
+---
+
+*Version 1.0 of 2016-09-21.*
