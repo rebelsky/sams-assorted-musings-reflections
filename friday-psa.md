@@ -49,12 +49,14 @@ you that there are a substantial number of students who do not drink.
 (I don't know current statistics.  I know that, as of a few years ago,
 50% of Grinnell first-year students had *never* drunk alcohol before
 fall break of their first year at Grinnell.  I believe that at least a
-third of Grinnell students do not regularly drink.)
+third of Grinnell students do not regularly drink; in a recent survey, about
+1/4 had either never used alcohol or not used alcohol in the last 30
+days.
 
-I can also tell you that about one third of Grinnell students indicate
-that they have had no sexual partners over the past year, about one
-third indicate that they have been monogamous over the past year,
-and about one third, well, take more risks.  (Note for essay: That
+I can also tell you that slightly more than 30% of Grinnell students indicate
+that they have had no sexual partners over the past year, slightly more
+than 30% indicate that they have been monogamous over the past year,
+and about 37%, well, take more risks.  (Note for essay: That
 last statement sounds harsher in writing than it does when spoken.)
 And that's with a fairly broad description of what a sexual partner is.
 
@@ -73,9 +75,8 @@ alcohol is appropriate for you, your house wellness coordinators have
 handy-dandy cards tailored to a variety of sex/weight combinations.
 
 If you do decide to share company with someone else, remember that
-**consent is absolutely necessary**.  (One of my favorite class mentors,
-Evan Bruns, also tells us that *consent is sexy*.)  The impacts of not
-understanding your partner are enormous, to both parties.
+**consent is absolutely necessary**.  The impacts of not understanding
+your partner are enormous, to both parties.
 
 I'm not sure the best way to say this, and I'm not particularly
 comfortable saying it, but I increasingly hear that the rise of Internet
@@ -100,4 +101,28 @@ yourself and those you are with.
 
 ---
 
-*Version 1.0 of 2016-09-02.*
+Here are some resources on consent suggested by a student.
+
+* <https://prezi.com/dz6cu1yr83zn/what-does-consent-look-like/>
+* <http://www.theline.org.au/is-this-consent>
+* <https://www.youtube.com/playlist?list=PL3xP1jlf1jgJRkChwVOlwQcV0-UqcWiFV>
+
+---
+
+David Leppik Tweeted a very useful series of responses to this essay.
+Here goes ....
+
+> If you're talking about consent, you're having the wrong conversation.
+  You don't ask for consent for a weekend getaway, or to go rock climbing.
+  You **plan it together**.  Rock climbing, like sex, can be physically
+  and emotionally dangerous.  Take it seriously and take precautions.
+  You need to look out for yourself and your partner, and communicate
+  clearly.  Not ready for that?  Not ready for sex.
+
+---
+
+Thanks to Jen Jacobsen for the revised statistics.
+
+---
+
+*Version 1.1 of 2016-09-23.*
