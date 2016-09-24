@@ -42,7 +42,7 @@ Jen Jacobsen
 Darlo Kelting
 - *Forthcoming*
 
-Jennelle Nystrom '15
+Jennelle Nystrom '14
 - *Forthcoming*
 
 Sarah Purcell

@@ -84,3 +84,5 @@ Essay #3 was about Grinnell's relationship with Posse.
 [Sarah Anderson '98 and Donna Dralus '89](anderson-dralus.html) (Essay #61)  
 [If you ask a prof a question](if-you-ask-a-prof.html) (Essay #62)  
 [Diversity in computer science](diversity-in-cs.html) (Essay #63)  
+[On being a curmudgeon](curmudgeon.html) (Essay #64)  
+[My laptop](laptop.html) (Essay #65)  

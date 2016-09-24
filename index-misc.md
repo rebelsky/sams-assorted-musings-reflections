@@ -5,10 +5,18 @@ Almost everything else
 
 > An essay on my mother, for mother's day.
 
+[On being a curmudgeon](curmudgeon.html) (Essay #64)
+
+> What I'm like as a person, or at least a person on campus.
+
+[My laptop](laptop.html) (Essay #65)
+
+> What my laptop aays about me.
+
 About SamR
 - *Forthcoming*
 
-> I should probably write something autobiographical.
+> At some point, I should probably write something else autobiographical.
 
 [Sleep](sleep.html) (Essay #16)
 
