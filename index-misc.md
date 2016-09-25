@@ -13,10 +13,15 @@ Almost everything else
 
 > What my laptop aays about me.
 
+[Foods of my families](family-foods.html) (Essay #66)
+
+> Some food memories.
+
 About SamR
 - *Forthcoming*
 
 > At some point, I should probably write something else autobiographical.
+  I seem to be sneaking in aspects of myself above.
 
 [Sleep](sleep.html) (Essay #16)
 
