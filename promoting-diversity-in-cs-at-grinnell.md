@@ -1,36 +1,148 @@
+Promoting Diversity in Computer Science at Grinnell
+===================================================
 
-Our [1] general focus in developing diversity has been to provide a 
-welcoming department, one that considers and values diversity.  Across the
-years, we've adopted techniques shown to be more inclusive (e.g., we've
-been using active learning strategies since before I came to Grinnell; we
-adapted the Georgia Tech "Media Computation" approach for our introductory
-course); we've worked to have a diverse and excellent group of peer
-educators (and to convince the College to support our peer educator
-program); we've supported students in activities that build confidence
-and a sense of belonging, supporting both student groups and trips to
-the Grace Hopper Celebration and the Tapia Celebration; and we've shown
-that we value diversity in our actions and in the topics we choose for
-CS table, our weekly discussion group.
+As I wrote in [a recent essay](diversity-in-cs.html), I consider it my
+responsibility as a computer science educator to look for ways to increase
+diversity in my discipline.  I am fortunate that, for much of my career,
+I've had the opportunity to work with colleagues who feel the same way.
 
-In some ways, we've been relatively successful.  Grinnell currently has
-about 40% women majors [2], and we've grown our number of women majors at
-the same time that we've grown our overall number of majors, so we can be
-pretty sure that the growth of women has not been at the expense of men.
+In some ways, we've clearly been successful.  We have about 40%
+women majors at a time in which the average nationwide is under 20%.
+And we've grown in the number of women majors as we've more than doubled
+the size of our major in the past few years.  We're not doing as well
+among domestic students of color as we should [1], but we're probably
+still doing moderately well compared to the atrocious national averages
+(3.5% black or African-American, 7% Hispanic, Latino, or Latina [2]).
+Our comparative numbers don't make me comfortable, and I know that
+domestic diversity is something we need to work on.  We have strong
+representation of international students from around the globe.
+I appreciate that many of our international students think about how
+they can take what they learn about computing at Grinnell, and bring it
+back to their home countries to make a difference.  I don't know how
+well we support our LGBTQ+ students, but I hope that we are seen as a
+supportive department.  We haven't had many options to explore how open
+we are to differently abled students, but I'd like to think that we'd
+be seen as supportive.  Certainly, our DisAbility Services department
+notes that we are good collaborators.
+
+Let's turn back to our primary success.  How did we get to 40% women
+majors?  It's been a long series of steps.  One of the first things
+was to look to more inclusive teaching practices.  We've been doing
+active learning in our introductory sequence for more than two decades.
+Active learning is one of those practices that not only supports women
+better, but also supports all students better.  We've also worked very
+hard to provide an inclusive classroom climate.  Small things, like the
+examples you use in class, can make a huge difference, and we regularly
+talk about those in the department.
+
+We've also looked elsewhere for ideas.  When Mark Guzdial and other
+faculty at Georgia Tech showed that they had better retention of women in
+introductory computer science (and no less retention of men) when they
+made image computation a focus of the course, we revamped our course.
+We didn't exactly adopt the Georgia Tech approach because, well, they
+don't use a functional approach, and we thought it was very important
+to continue our "functional first" curriculum.  I'm now hoping to design
+variants of the course that focus on data science and digital humanities
+because I expect that those are areas that will help diversify our
+discipline, not just in terms of gender, but also in terms of the kinds
+of students who study CS.
+
+We've worked hard to be a friendly, welcoming department.  When we designed
+our new space, we made sure that the Commons was especially welcoming.
+I like that we're a place that has a fridge, microwave, and coffee urn
+that students can use.  I appreciate our SEPC's [3] help in making our
+department a welcoming space.  I appreciate our many majors' help in
+making our department a welcoming spaces.  It's certainly changed a lot
+in the twenty years I've been here.  When we did recent exit interviews
+with students, I regularly heard that our labs were a particularly strong
+space, because you could always count on another student to help you out
+when you were having difficulty [4].  We have evening tutors to help; but
+it's not just them.  It's that almost any student you ask will try to help.
+That's a huge change from when I first arrived at Grinnell, and it's a
+really important one.
+
+We've built a strong and diverse peer education program.  Having a variety
+of students serve as class mentors in the introductory sequence and as
+evening and individual tutors has shown incoming groups of students that
+CS is a discipline that lots of people can study.  I very much appreciate
+my Dean's support in helping us build this program.
+
+At one time, we would give a bit of priority to students from
+underrepresented groups when selecting research assistants.  I think
+that backfired.  I heard from way too many really strong women (including
+some that were clearly the top student in their graduating year) that
+they had peers say "The only reason you got to do research is because
+you're a woman [5]."  So I'm explicit that I don't make sex or race a
+criterion in selecting students.  I select students who think well about
+the issues I'm working on, who collaborate well with others, and who can
+handle working with me.  Some of those students are women, some are men.
+Some are from majority groups.  Some are from underrepresented groups.
+The diversity comes naturally, and, because it does so, probably makes
+more of a difference.  It helps that my department has worked hard
+to provide a wide variety of summer research experiences available to
+students and that our students leverage them well.
+
+We've worked hard to connect students from underrepresented groups to a
+broader community.  We've been bringing students to the Grace Hopper
+Celebration of Women in Computing for a decade [6] and in the past few
+years we've added the Richard Tapia Celebration of Diversity in Computing
+to the mix.  Even when we can't send all interested students (and we can
+rarely send all interested students), students usually come back from those 
+conferences energized and enthusiastic about helping their peers [7].
+
 But you know what?  I don't think it's any one thing the faculty has
 done that led to this growth, and it's not even every thing the faculty
 has done.  Rather, we built a small cadre of majors who cared about these
-issues (both men and women), and they worked hard to encourage others to
-consider CS and to include others in the department.  In some ways, I think
-we reached a form of "critical mass".  This achievement doesn't mean that
-we no longer need to worry about these matters; too often, 
+issues (both men and women), and they worked hard to encourage others
+to consider CS and to include others in the department.  In some ways,
+I think we reached a form of "critical mass".  This achievement doesn't
+mean that we no longer need to worry about these matters; if we don't
+keep being supportive, I don't think critical mass is enough.
 
-we've revamped our curriculum to incorporate research findings
-on s
-the years
+Where are we going next?  Well, when I talked to my colleague, Narren
+Brown, about ways to increase our support for domestic students of color,
+Narren said something like "Sam, if you wait until they get to college,
+it's too late.  Did you know that there are no summer code camps for
+middle school students in Iowa?"  And so that's our next task.  I don't
+know if it will make a difference, but it's something I'm going to try.
+I'm fortunate that Raynard Kington has signed on to support this, so
+that we don't have to run the camps as profit-making (or even break-even)
+venutres and can therefore offer scholarships to large numbers of students
+of low socio-economic status.  
+
+Beyond our outreach to middle-school students, our forthcoming new versions
+of our introductory course, and the continuation of our attempts to provide
+a supportive environment, I'm not sure what else we will do.  But my
+colleagues and students are creative.  I'm sure we'll find something.
 
 ---
 
-[1] I say "Our" because the members of my department have collaborated
-on these issues.
+[1] I will also admit that I don't know how many of our students self
+identify as domestic students of color.
 
-[2] Nationally, it's under 20%.
+[2] Table B3: Bachelor's degrees awarded by ethnicity, from the 2015
+Taulbee Survey, 
+<http://cra.org/wp-content/uploads/2016/05/2015-Taulbee-Survey.pdf>.
+
+[3] Student Educational Policy Committee.  I've always said that we
+should call them the Student Educational Policy, Teaching, and
+Instruction Committee.
+
+[4] Yes, this assumes that the help is permitted under that assignment's
+appropriate collaboration policy.
+
+[5] Actually, given the language that many of our students use, I'm 
+pretty sure that they said "because you're a girl".
+
+[6] We've brought both students who self identify as women and students
+who self identify as men.  The ones who self identify as men generally
+tell me that they think the College is better off spending money on the
+ones who self identify as women.
+
+[7] I say "usually" because students also encounter some frustrations
+at these conferences, often in terms of a lack of understanding of issues
+of gender identity or physical differences.
+
+---
+
+*Version 1.0 of 2016-09-25.*
