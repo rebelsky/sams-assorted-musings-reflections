@@ -61,13 +61,13 @@ in our community.  I think that helps.
 We've worked hard to be a friendly, welcoming department.  When we designed
 our new space, we made sure that the Commons was especially welcoming.
 I like that we're a place that has a fridge, microwave, and coffee urn
-that students can use.  I appreciate our SEPC's [3] help in making our
+that students can use [3].  I appreciate our SEPC's [4] help in making our
 department a welcoming space.  I appreciate our many majors' help in
 making our department a welcoming spaces.  It's certainly changed a lot
 in the twenty years I've been here.  When we did recent exit interviews
 with students, I regularly heard that our labs were a particularly strong
 space, because you could always count on another student to help you out
-when you were having difficulty [4].  We have evening tutors to help; but
+when you were having difficulty [5].  We have evening tutors to help; but
 it's not just them.  It's that almost any student you ask will try to help.
 That's a huge change from when I first arrived at Grinnell, and it's a
 really important one.
@@ -83,7 +83,7 @@ underrepresented groups when selecting research assistants.  I think
 that backfired.  I heard from way too many really strong women (including
 some that were clearly the top student in their graduating year) that
 they had peers say "The only reason you got to do research is because
-you're a woman [5]."  So I'm explicit that I don't make sex or race a
+you're a woman [6]."  So I'm explicit that I don't make sex or race a
 criterion in selecting students.  I select students who think well about
 the issues I'm working on, who collaborate well with others, and who can
 handle working with me.  Some of those students are women, some are men.
@@ -95,12 +95,12 @@ students and that our students leverage them well.
 
 We've worked hard to connect students from underrepresented groups to a
 broader community.  We've been bringing students to the Grace Hopper
-Celebration of Women in Computing for a decade [6] and in the past few
+Celebration of Women in Computing for a decade [7] and in the past few
 years we've added the Richard Tapia Celebration of Diversity in Computing
 to the mix.  Even when we can't send all interested students (and we can
 rarely send all interested students), students usually come back from
 those conferences energized and enthusiastic about helping their peers
-[7].  I appreciate the support I've received from our HHMI Grants, the
+[8].  I appreciate the support I've received from our HHMI Grants, the
 Wilson Program, the President's Office, and our Alumni in making these
 trips possible.
 
@@ -141,25 +141,35 @@ identify as domestic students of color.
 Taulbee Survey, 
 <http://cra.org/wp-content/uploads/2016/05/2015-Taulbee-Survey.pdf>.
 
-[3] Student Educational Policy Committee.  I've always said that we
+[3] My colleague, Janet Davis, asked whether she should also set up
+the fridge, coffee pot, and microwave at her new institution.  I must
+say that I think these public applicances work because we have a strong
+community to support them.  Henry and John fill the urn in the morning.
+Helen used to fill it throughout the day.  Henry plunges the sink when
+students aren't sensible.  The SEPC often washes dishes.  And we usually
+have students who feel some ownership of the commons and try to clean
+up, including, at times, Peter D, Mari I, Reilly G, and others I've
+missed.
+
+[4] Student Educational Policy Committee.  I've always said that we
 should call them the Student Educational Policy, Teaching, and
 Instruction Committee.
 
-[4] Yes, this assumes that the help is permitted under that assignment's
+[5] Yes, this assumes that the help is permitted under that assignment's
 appropriate collaboration policy.
 
-[5] Actually, given the language that many of our students use, I'm 
+[6] Actually, given the language that many of our students use, I'm 
 pretty sure that they said "because you're a girl".
 
-[6] We've brought both students who self identify as women and students
+[7] We've brought both students who self identify as women and students
 who self identify as men.  The ones who self identify as men generally
 tell me that they think the College is better off spending money on the
 ones who self identify as women.
 
-[7] I say "usually" because students also encounter some frustrations
+[8] I say "usually" because students also encounter some frustrations
 at these conferences, often in terms of a lack of understanding of issues
 of gender identity or physical differences.
 
 ---
 
-*Version 1.1 of 2016-09-25.*
+*Version 1.2 of 2016-09-25.*
