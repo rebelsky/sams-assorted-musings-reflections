@@ -6,3 +6,6 @@
 # Temporary files
 *~
 *.swp
+
+# Etc.
+current.md
