@@ -87,4 +87,4 @@ Essay #3 was about Grinnell's relationship with Posse.
 [On being a curmudgeon](curmudgeon.html) (Essay #64)  
 [My laptop](laptop.html) (Essay #65)  
 [Foods of my families](family-foods.html) (Essay #66)  
-[Promoting diveristy in computer science at Grinnell](promoting-diversity-in-cs-at-grinnell.html) (Essay #67)  
+[Promoting diversity in computer science at Grinnell](promoting-diversity-in-cs-at-grinnell.html) (Essay #67)  

@@ -20,7 +20,7 @@ Reflections on some important issues
 
 > Why I make diversifying the discipline one of my priorities
 
-[Promoting diveristy in computer science at Grinnell](promoting-diversity-in-cs-at-grinnell.html) (Essay #67)
+[Promoting diversity in computer science at Grinnell](promoting-diversity-in-cs-at-grinnell.html) (Essay #67)
 
 > Because we value diversity in the discipline, we take a number of steps
   to recruit and support a wide range of students.  This is my attempt to
