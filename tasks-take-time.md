@@ -45,6 +45,10 @@ issue (including my browser and OS) and then send another message to DAR.
 Oh, I also take the time to craft text that says that the money need not
 be used within a particular time period [8].
 
+And, after donating, I decide to check to see whether there's a real
+donation history on the new site.  (The old site claimed to have a 
+donation history, but didn't.)
+
 Finally, after donating, I draft this essay.
 
 So, what should have been a five-minute task, at most, has taken something 
@@ -57,6 +61,22 @@ do side explorations in the middle of any task; (b) I find ways to break
 things; (c) I take the time to notify people when things are broken; and
 (d) sometimes I'm too damn finicky.  All these things make me slower at
 the tasks I undertake.  WIll I change?  Probably not.
+
+---
+
+Another story: Faculty meeting minutes.
+
+* Issue: What did we agree on for split leaves?
+* Look on GrinCo.
+* Email the person who takes them.
+* Discover that they are on P'Web.
+* Followup note: Why aren't there separate minutes?
+* Followup note: What minutes had revisions?
+* Check my own notes.
+* Followup note to Dean
+* Followup note on PDF naming
+
+Yeah, I definitely won't change.
 
 ---
 
@@ -93,4 +113,4 @@ Grinnell](donating-to-grinnell.html).
 
 ---
 
-*Version 1.0 of 2016-09-25.*
+*Version 1.0.2 of 2016-09-25.*
