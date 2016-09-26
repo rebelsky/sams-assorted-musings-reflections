@@ -1,7 +1,29 @@
 Some forthcoming essays
 =======================
 
-Diversity in CS! (important issues)
+Misunderstanding metaphors (misunderstanding-metaphors)
+
+Jennelle Nystrom (Grinnellians).
+
+Sometimes tasks take too much time (tasks-take-time)
+
+Nibbled to death by ducks.
+
+Donating to Grinnell.
+
+Embarrassing teaching moments.
+
+Collaboration.  (Or why some committees succeed better than others.)
+
+Why a good CS education includes much more than CS (for current students).
+
+If you ask a prof a question, revisited (On Writing)
+
+Studying at Grinnell. (?)
+
+Outreach.
+
+Mistrust.
 
 Research for all in CS (for current and prospective students)
 
@@ -16,8 +38,6 @@ SamR Recommends (aka Good Things at Grinnell)
 The legendary yearbook (Misc)
 
 Dad jokes (Misc)
-
-If you ask a prof a question (On Writing)
 
 Jon Svetkey (Reviews)
 
@@ -60,7 +80,8 @@ GrinCo, where we make you smile.
 NaNoWriMo (On writing.)  
 
 Telling a Story vs. Thinking about Language.  (On writing.)
-(http://www.theatlantic.com/magazine/archive/2010/08/how-to-write-in-700-easy-lessons/308043/)
+<http://www.theatlantic.com/magazine/archive/2010/08/how-to-write-in-700-easy-lessons/308043/>
+<http://www.salon.com/2010/11/02/nanowrimo/>
 
 A month of Grinnellians
 
