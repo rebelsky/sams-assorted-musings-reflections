@@ -47,6 +47,17 @@ because I expect that those are areas that will help diversify our
 discipline, not just in terms of gender, but also in terms of the kinds
 of students who study CS.
 
+There's evidence that white males often enter computing before college
+because they are more likely to enjoy tinkering with things.  In contrast,
+students from groups underrepresented in computer science want to see that
+computing has an impact.  (Since I think that computing is changing
+the world, I'd hope that that impact would be self evident.  But it
+doesn't seem to be.)  So we've looked at ways to incorporate computing
+for social good in the curriculum.  I designed a module for our third
+course.  More importantly, Janet Davis re-designed our software design
+course so that its main focus is building software to support nonprofits
+in our community.  I think that helps.
+
 We've worked hard to be a friendly, welcoming department.  When we designed
 our new space, we made sure that the Commons was especially welcoming.
 I like that we're a place that has a fridge, microwave, and coffee urn
@@ -87,8 +98,11 @@ broader community.  We've been bringing students to the Grace Hopper
 Celebration of Women in Computing for a decade [6] and in the past few
 years we've added the Richard Tapia Celebration of Diversity in Computing
 to the mix.  Even when we can't send all interested students (and we can
-rarely send all interested students), students usually come back from those 
-conferences energized and enthusiastic about helping their peers [7].
+rarely send all interested students), students usually come back from
+those conferences energized and enthusiastic about helping their peers
+[7].  I appreciate the support I've received from our HHMI Grants, the
+Wilson Program, the President's Office, and our Alumni in making these
+trips possible.
 
 But you know what?  I don't think it's any one thing the faculty has
 done that led to this growth, and it's not even every thing the faculty
@@ -107,13 +121,16 @@ middle school students in Iowa?"  And so that's our next task.  I don't
 know if it will make a difference, but it's something I'm going to try.
 I'm fortunate that Raynard Kington has signed on to support this, so
 that we don't have to run the camps as profit-making (or even break-even)
-venutres and can therefore offer scholarships to large numbers of students
+ventures and can therefore offer scholarships to large numbers of students
 of low socio-economic status.  
 
-Beyond our outreach to middle-school students, our forthcoming new versions
-of our introductory course, and the continuation of our attempts to provide
-a supportive environment, I'm not sure what else we will do.  But my
-colleagues and students are creative.  I'm sure we'll find something.
+Beyond our outreach to middle-school students, our forthcoming new
+versions of our introductory course, the continuation of our attempts
+to provide a supportive environment, and further work to incorporate
+computing for social good in our courses, I'm not sure what else we
+will do.  But my colleagues and students are creative.  I have confidence
+that we'll continue to work on these issues. I have high hopes that we
+will see further successes.
 
 ---
 
@@ -145,4 +162,4 @@ of gender identity or physical differences.
 
 ---
 
-*Version 1.0 of 2016-09-25.*
+*Version 1.1 of 2016-09-25.*
