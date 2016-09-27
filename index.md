@@ -7,7 +7,7 @@ students or other people.  Some are rants about topics I'm passionate
 about.  Some are explanations of how I approach the world.  Some are
 just my attempts to think through a topic.
 
-Latest essay (#67): [Promoting diversity in CS at Grinnell](promoting-diversity-in-cs-at-grinnell.html)
+Latest essay (#68): [Misunderstanding metaphors](misunderstanding-metaphors.html)
 
 [Essays, by number](index-by-number.html)
 

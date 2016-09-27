@@ -88,3 +88,4 @@ Essay #3 was about Grinnell's relationship with Posse.
 [My laptop](laptop.html) (Essay #65)  
 [Foods of my families](family-foods.html) (Essay #66)  
 [Promoting diversity in computer science at Grinnell](promoting-diversity-in-cs-at-grinnell.html) (Essay #67)  
+[Misunderstanding metaphors](misunderstanding-metaphors.html) (Essay #68)  

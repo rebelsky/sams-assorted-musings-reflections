@@ -511,6 +511,11 @@ Almost everything else
 
 > Some food memories.
 
+[Misunderstanding metaphors](misunderstanding-metaphors.html) (Essay #68)
+
+> The first in a short series of essays about my workload.  In this one,
+  I examine metaphors relating to work.
+
 About SamR
 - *Forthcoming*
 
