@@ -23,7 +23,8 @@ well we support our LGBTQ+ students, but I hope that we are seen as a
 supportive department.  We haven't had many options to explore how open
 we are to differently abled students, but I'd like to think that we'd
 be seen as supportive.  Certainly, our DisAbility Services department
-notes that we are good collaborators.
+notes that we are good collaborators.  More broadly, we should also
+think about intersectionality of these various identities.
 
 Let's turn back to our primary success.  How did we get to 40% women
 majors?  It's been a long series of steps.  One of the first things
@@ -172,4 +173,4 @@ of gender identity or physical differences.
 
 ---
 
-*Version 1.2 of 2016-09-25.*
+*Version 1.2.1 of 2016-09-25.*
