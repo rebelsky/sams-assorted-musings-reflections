@@ -147,6 +147,11 @@ part of who I am.
 
 ---
 
+Two really long essays in two days.  That's not a good sign.  Let's
+hope that I'm more concise tomorrow [23].
+
+---
+
 [1] See the forthcoming essay entitled [Nibbled to death by ducks](nibbled-to-death-by-ducks.html)
 
 [2] See the recent essay entitled [Misunderstanding metaphors](misunderstanding-metaphors.html)
@@ -224,6 +229,9 @@ that faculty meeting minutes do not have to be public.
 
 [22] Cue snarky comment.
 
+[23] Would you believe that I have a forthcoming essay on
+[concision](concision-vs-conciseness.html)?
+
 ---
 
-*Version 1.1.2 of 2016-09-28.*
+*Version 1.1.3 of 2016-09-28.*
