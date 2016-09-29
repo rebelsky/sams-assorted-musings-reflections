@@ -62,8 +62,7 @@ On advising at Grinnell
   for change, and seeing where we are, how can you keep trying?"  Here's
   my attempt to answer that question.
 
-"Scholarship for all" in CS
-- *Forthcoming*
+["Scholarship for all" in CS](scholarship-for-all-in-cs.html) (Essay #69)
 
 > Grinnell has begun a "research for all" endeavor, which the CS department
   is renaming "scholarship for all" in honor of the Boyer report.  These are

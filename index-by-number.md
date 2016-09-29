@@ -89,3 +89,5 @@ Essay #3 was about Grinnell's relationship with Posse.
 [Foods of my families](family-foods.html) (Essay #66)  
 [Promoting diversity in computer science at Grinnell](promoting-diversity-in-cs-at-grinnell.html) (Essay #67)  
 [Misunderstanding metaphors](misunderstanding-metaphors.html) (Essay #68)  
+["Scholarship for all" in CS](scholarship-for-all-in-cs.html) (Essay #69)  
+[Sometimes tasks take too much time](tasks-take-time.html) (Essay #70)  

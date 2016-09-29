@@ -22,6 +22,10 @@ Almost everything else
 > The first in a short series of essays about my workload.  In this one,
   I examine metaphors relating to work.
 
+[Sometimes tasks take too much time](tasks-take-time.html) (Essay #70)
+
+> The second in that series.
+
 About SamR
 - *Forthcoming*
 

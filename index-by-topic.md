@@ -169,8 +169,7 @@ On advising at Grinnell
   for change, and seeing where we are, how can you keep trying?"  Here's
   my attempt to answer that question.
 
-"Scholarship for all" in CS
-- *Forthcoming*
+["Scholarship for all" in CS](scholarship-for-all-in-cs.html) (Essay #69)
 
 > Grinnell has begun a "research for all" endeavor, which the CS department
   is renaming "scholarship for all" in honor of the Boyer report.  These are
@@ -515,6 +514,10 @@ Almost everything else
 
 > The first in a short series of essays about my workload.  In this one,
   I examine metaphors relating to work.
+
+[Sometimes tasks take too much time](tasks-take-time.html) (Essay #70)
+
+> The second in that series.
 
 About SamR
 - *Forthcoming*

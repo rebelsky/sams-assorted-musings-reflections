@@ -7,7 +7,7 @@ students or other people.  Some are rants about topics I'm passionate
 about.  Some are explanations of how I approach the world.  Some are
 just my attempts to think through a topic.
 
-Latest essay (#68): [Misunderstanding metaphors](misunderstanding-metaphors.html)
+Latest essay (#70): [Sometimes tasks take too much time](tasks-take-time.html) 
 
 [Essays, by number](index-by-number.html)
 
