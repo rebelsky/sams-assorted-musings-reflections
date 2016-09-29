@@ -1,17 +1,17 @@
 Some forthcoming essays
 =======================
 
-Misunderstanding metaphors (misunderstanding-metaphors)
+73. Jennelle Nystrom (Grinnellians).  (Write soon, though.)
 
-Jennelle Nystrom (Grinnellians).
+71. Another month of essays.
 
-Sometimes tasks take too much time (tasks-take-time)
+72. Nibbled to death by ducks.
 
-Nibbled to death by ducks.
+74. Jeff Dickey-Chaisins (Grinnellians).  (Write soon, though.)
 
-Donating to Grinnell.
+75. Donating to Grinnell.
 
-Embarrassing teaching moments.
+76. Embarrassing teaching moments.
 
 Collaboration.  (Or why some committees succeed better than others.)
 
@@ -24,6 +24,10 @@ Studying at Grinnell. (?)
 Outreach.
 
 Mistrust.
+
+Working in public.
+
+git (support for working in public)
 
 Research for all in CS (for current and prospective students)
 
@@ -40,8 +44,6 @@ The legendary yearbook (Misc)
 Dad jokes (Misc)
 
 Jon Svetkey (Reviews)
-
-Jeff Dickey-Chaisins (Grinnellians)
 
 I've become my mother (articles).
 
@@ -83,5 +85,14 @@ Telling a Story vs. Thinking about Language.  (On writing.)
 <http://www.theatlantic.com/magazine/archive/2010/08/how-to-write-in-700-easy-lessons/308043/>
 <http://www.salon.com/2010/11/02/nanowrimo/>
 
-A month of Grinnellians
+A month of Grinnellians.  (Probably starting with essay #101 or so.)
 
+Missed opportunities (the book with mom)
+
+Sleep cycles.
+
+Amazon Pricing Bots.
+
+Discussing important topics.  (An attempt to reflect on what I learned
+from 321 students about how students talk about things like the role of
+the US in the world.)
