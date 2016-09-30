@@ -1,17 +1,28 @@
 Some forthcoming essays
 =======================
 
-73. Jennelle Nystrom (Grinnellians).  (Write soon, though.)
+Jennelle Nystrom (Grinnellians).  
 
-71. Another month of essays.
+Jeff Dickey-Chaisins (Grinnellians).  (Write soon, though.)
 
-72. Nibbled to death by ducks.
+Graeme Boy (Grinnellians)
 
-74. Jeff Dickey-Chaisins (Grinnellians).  (Write soon, though.)
+Christine Tran (Grinnellians)
+
+73. Nibbled to death by ducks.
+
+74. Dumb ways to address implicit bias 
 
 75. Donating to Grinnell.
 
 76. Embarrassing teaching moments.
+
+77. Times and Dates (?)
+
+Discussing important topics.  (An attempt to reflect on what I learned
+from 321 students about how students talk about things like the role of
+the US in the world.)
+Building a personal brand.
 
 Collaboration.  (Or why some committees succeed better than others.)
 
@@ -93,6 +104,3 @@ Sleep cycles.
 
 Amazon Pricing Bots.
 
-Discussing important topics.  (An attempt to reflect on what I learned
-from 321 students about how students talk about things like the role of
-the US in the world.)
