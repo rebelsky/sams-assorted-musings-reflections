@@ -27,6 +27,11 @@ Essays on writing, or at least on writing my essays
 
 > Reflections on my first month of writing.
 
+[A second month of daily essays](two-months.html) (Essay #71)
+
+> Reflections on my second month of writing, including an explanation of
+  why this is essay #71.
+
 [On making, breaking, and remaking the habit of daily writing](habit-of-writing.html) (Essay #41)
 
 > Reflections on trying to restart these essays.

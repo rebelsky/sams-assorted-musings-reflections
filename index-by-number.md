@@ -91,3 +91,7 @@ Essay #3 was about Grinnell's relationship with Posse.
 [Misunderstanding metaphors](misunderstanding-metaphors.html) (Essay #68)  
 ["Scholarship for all" in CS](scholarship-for-all-in-cs.html) (Essay #69)  
 [Sometimes tasks take too much time](tasks-take-time.html) (Essay #70)  
+
+## 71-80
+
+[A second month of daily essays](two-months.html) (Essay #71)  
