@@ -2,8 +2,8 @@ A Second Month of Daily Essays
 ===============================
 
 I've now finished a second month of daily essays.  Now, those of you who 
-haven't been paying close attention may be asking yourselves why essay 
-#71 is at the end of the second month.  Shouldn't it be essay #62 or
+haven't been paying close attention may be asking yourselves why essay #71
+is at the end of the second month.  Shouldn't it be essay #62 or
 perhaps #61, or even #59 if one of the months was February?  But those
 of you who have been paying close attention know that I started doing
 these essays in the spring, wrote almost an essay a day for a month,
@@ -35,7 +35,7 @@ my essays [3] or by making mistakes that they've caught [4].
 
 I do think I've developed my "authorial voice" a bit more.  I feel that
 my writing is straightforward, with a bit of self reflection and a snarky 
-attitude [5].  I'e also embraced my habit of parenthetical comments and
+attitude [5].  I've also embraced my habit of parenthetical comments and
 too many end notes [6].
 
 I've also experimented with a few more kinds of writing.  I wrote my
@@ -117,4 +117,4 @@ write an essay each day, as in "Why would you ever want to do that?"
 
 ---
 
-*Version 1.0 of 2016-09-29.*
+*Version 1.0.1 of 2016-09-30.*
