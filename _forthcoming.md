@@ -9,11 +9,11 @@ Graeme Boy (Grinnellians)
 
 Christine Tran (Grinnellians)
 
+Why a good CS education includes much more than CS (for current students).
+
 73. Nibbled to death by ducks.
 
-74. Dumb ways to address implicit bias 
-
-75. Donating to Grinnell.
+74. Donating to Grinnell.
 
 76. Embarrassing teaching moments.
 
@@ -22,11 +22,10 @@ Christine Tran (Grinnellians)
 Discussing important topics.  (An attempt to reflect on what I learned
 from 321 students about how students talk about things like the role of
 the US in the world.)
+
 Building a personal brand.
 
 Collaboration.  (Or why some committees succeed better than others.)
-
-Why a good CS education includes much more than CS (for current students).
 
 If you ask a prof a question, revisited (On Writing)
 
