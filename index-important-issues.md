@@ -30,3 +30,7 @@ Reflections on some important issues
 
 > One of the best lessons I learned from Freda and Bill Rebelsky.
 
+[Dumb ways to address implicit bias](dumb-ways-to-address-implicit-bias.html) (Essay #72)
+
+> Addressing implicit bias is essential.  But there are smart ways to do so and not-so-smart ways to do so.
+

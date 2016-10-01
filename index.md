@@ -7,7 +7,7 @@ students or other people.  Some are rants about topics I'm passionate
 about.  Some are explanations of how I approach the world.  Some are
 just my attempts to think through a topic.
 
-Latest essay (#71): [A second month of daily essays](two-months.html)
+Latest essay (#72): [Dumb ways to address implicit bias](dumb-ways-to-address-implicit-bias.html)
 
 [Essays, by number](index-by-number.html)
 
