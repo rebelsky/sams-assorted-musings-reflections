@@ -139,8 +139,15 @@ matter includes the danger of using systems that can track your actions.
 
 While using Proofpoint frustrates me, at least I don't have a
 broken $20,000 computer that ITS refuses to ship back to the manufacturer
-while it's still under warranty.
+while it's still under warranty [1].
 
 ---
 
-*Version 1.0 of 2016-05-09.*
+[1] Followup from a few months after I wrote the essay.  Yes, ITS
+shipped it back.  But I still think it took the faculty member 
+six months to convince them to do so, and we even had SNAFUs when
+the computer came back to campus.
+
+---
+
+*Version 1.0.1 of 2016-10-02.*
