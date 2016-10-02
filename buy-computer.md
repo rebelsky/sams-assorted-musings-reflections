@@ -49,7 +49,7 @@ an emulator on my Macbook.  Finally, I've been using Macs since the 128K
 (and have owned one since the 512K), and they are (mostly) intuitive
 to me.  That makes me more efficient.
 
-If i had 30+ years of experience working on Microsoft Windows, would I
+If I had 30+ years of experience working on Microsoft Windows, would I
 feel the same way?  Maybe.  But I'm a *nix person, and Microsoft Windows
 always seems clunky to me.  (Microsoft products are a topic in a separate,
 forthcoming, essay.)  If I had software that I relied on that only worked
@@ -85,4 +85,4 @@ machines for our students.
 
 As always, I welcome comments on this essay.
 
-*Version 1.0.1 of Wednesday, 20 April 2016*
+*Version 1.0.2 of Sunday, 2016-10-02.*
