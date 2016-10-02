@@ -538,6 +538,11 @@ About SamR
 
 > On getting enough.
 
+[Making good choices](making-good-choices.html) (Essay #73)
+
+> Something that might be termed "a bait and switch" or perhaps
+  even a ripoff.  (Read the essay for why.)
+
 [If you ask a prof a question](if-you-ask-a-prof.html) (Essay #62)
 
 > Reflections on my not-so-legendary primer.
