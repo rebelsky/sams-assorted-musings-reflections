@@ -7,7 +7,7 @@ students or other people.  Some are rants about topics I'm passionate
 about.  Some are explanations of how I approach the world.  Some are
 just my attempts to think through a topic.
 
-Latest essay (#73): [Making good choices](making-good-choices.html)
+Latest essay (#74): [On faculty-staff relationships](faculty-staff.html)
 
 [Essays, by number](index-by-number.html)
 

@@ -97,3 +97,4 @@ Essay #3 was about Grinnell's relationship with Posse.
 [A second month of daily essays](two-months.html) (Essay #71)  
 [Dumb ways to address implicit bias](dumb-ways-to-address-implicit-bias.html) (Essay #72)  
 [Making good choices](making-good-choices.html) (Essay #73)  
+[On faculty-staff relationships](faculty-staff.html) (Essay #74)  

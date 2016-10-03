@@ -248,6 +248,12 @@ Reflections on some important issues
 
 > Addressing implicit bias is essential.  But there are smart ways to do so and not-so-smart ways to do so.
 
+[On faculty-staff relationships](faculty-staff.html) (Essay #74)
+
+> We should work together, but we're too often at odds.  A consideration
+  of some obstacles and some ways we and the institution can help
+  overcome those obstacles.
+
 Rants
 -----
 
