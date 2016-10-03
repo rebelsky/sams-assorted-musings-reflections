@@ -1,7 +1,7 @@
 Grinnellians you should know (or know about): Jennelle Nystrom '14
 ==================================================================
 
-How can I describe Jennelle Nystrom '14.  In some ways, she's a
+How can I describe Jennelle Nystrom '14?  In some ways, she's a
 poster child for a Grinnell education (almost literally; we featured
 her in at least one fundraising letter).  Why?  Because she shows
 what can happen when a student makes the most of their Grinnell
@@ -28,19 +28,21 @@ Jennelle also pushes hard for Grinnell to think more about these
 kinds of issues.  She served as student rep on the Student Alumni
 Council.  She advocated for student positions on the Wilson Center
 board [7].  She's the kind of person that we invited to a gathering
-of powerful alums to talk about the future of a program.  Over the long
-term, I expect to see Jennelle on the Grinnell College board, looking
-for ways to make Grinnell even better.
+of powerful alums to talk about the future of a program.  She's also
+generous; she's one of the reasons my department can afford to send
+students to conferences like Tapia and GHC.  Over the long term, I expect
+to see Jennelle on the Grinnell College board, looking for ways to make
+Grinnell even better.
 
 I'm not alone in thinking highly of Jennelle.  Finkleman Dean Mark
 Peltz [8] clearly respects Jennelle a lot; that's one of the key reasons
 that she could successfully advocate for change and get invited to
 meetings.  And Jennelle is impressive enough that Marissa Mayer [9]
-picked Jennelle as a member of her Associate Program Manager program
-at Yahoo [10].  I think Jennelle was the only liberal arts graduate on
-the team, and the only woman.  She was also among the most successful
-members of the team, in part because she combines great technical skills
-with great knowledge and a "can do" personality [11].
+picked Jennelle as a member of her Associate Product Manager program at
+Yahoo [10].  I think Jennelle was the only liberal arts graduate on the
+team, and the only woman.  She was also successful at Yahoo, in part
+because she combines great technical skills with great knowledge and a
+"can do" personality [11].
 
 I think it might be useful to tell you a bit more about Jennelle's
 time at Grinnell (at least from my perspective), in part because it
@@ -87,11 +89,15 @@ Seeing her success, many students would assume that she came from
 privilege, and credited that.  I can't imagine how frustrating that
 must be.
 
-What morals should you take from this long, rambling, profile?  First,
-you should reach out to Jennelle if you need help networking.  Second,
-if you take advantage of resources at Grinnell, you, too, can excel.
-Third, don't make assumptions.  Fourth, build strength from obstacles.
-Finally, if you choose me as an advisor, be prepared for chaos.
+What morals should you take from this long, rambling, profile?  First (for
+students and alums (and maybe even faculty)), you should reach out to
+Jennelle if you need help networking.  Second (for students), if you take
+advantage of resources at Grinnell, you, too, can excel.  Third (for
+everyone) don't make assumptions.  Fourth (for Grinnell faculty and
+staff), take time to understand the special challenges that first-gen
+students face.  Fifth (for everyone), build strength from obstacles.
+Finally (for students), if you choose me as an advisor, be prepared
+for chaos.
 
 ---
 
@@ -119,8 +125,8 @@ possible career, what steps would you recommend that I take?"
 [5] Jennelle tells me that if you ask good questions and give the alum
 time to talk, they really will talk for awhile [6].
 
-[6] And the last time she visited my class, she illustrated that exact
-point.
+[6] The last time she visited my class, she illustrated that exact
+point.  (And then commented on having done so.)
 
 [7] At the time, it was the Wilson Program.  But we've become a center 
 since then.
@@ -154,4 +160,4 @@ gave by far the best answer to one of the most important questions [16].
 
 ---
 
-*Version 1.0 of 2016-10-02.*
+*Version 1.0.2 of 2016-10-02.*
