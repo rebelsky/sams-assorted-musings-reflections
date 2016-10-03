@@ -9,6 +9,9 @@ I've now finished a third month of daily essays, and even made it past
 * Reflect better on some issues.
 * Sometimes makes me happier.
 * Better at letting the essay choose me.
+* Learning more about my audience.  Not many people click the "Like" button,
+  but I do seem to have a variety of readers.
+* Should restore some version of the Posse essay.
 
 ---
 
