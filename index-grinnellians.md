@@ -54,8 +54,18 @@ Susan Sanning
 Erik Simpson
 - *Forthcoming*
 
+Adrienne Squier
+- *Forthcoming
+
+John David Stone
+- *Forthcoming*
+
 Angie Balm Story
 - *Forthcoming*
 
 Henry Walker
 - *Forthcoming*
+
+Tilly Woodward
+- *Forthcoming*
+
