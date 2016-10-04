@@ -89,3 +89,7 @@ Why a good computer science education includes much more than computer science
 
 > Some notes for our peer educators.
 
+[The Grinnell Prize](grinnell-prize.html) (Essay #75)
+
+> Comments on a distinct part of Grinnell.
+

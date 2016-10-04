@@ -201,6 +201,10 @@ Why a good computer science education includes much more than computer science
 
 > Some notes for our peer educators.
 
+[The Grinnell Prize](grinnell-prize.html) (Essay #75)
+
+> Comments on a distinct part of Grinnell.
+
 For alumni and others who donate to the department
 --------------------------------------------------
 
@@ -248,7 +252,7 @@ Reflections on some important issues
 
 > Addressing implicit bias is essential.  But there are smart ways to do so and not-so-smart ways to do so.
 
-[On faculty-staff relationships](faculty-staff.html) (Essay #74)
+[On faculty/staff relationships](faculty-staff.html) (Essay #74)
 
 > We should work together, but we're too often at odds.  A consideration
   of some obstacles and some ways we and the institution can help
@@ -451,11 +455,21 @@ Susan Sanning
 Erik Simpson
 - *Forthcoming*
 
+Adrienne Squier
+- *Forthcoming
+
+John David Stone
+- *Forthcoming*
+
 Angie Balm Story
 - *Forthcoming*
 
 Henry Walker
 - *Forthcoming*
+
+Tilly Woodward
+- *Forthcoming*
+
 Reviews and notes about things I enjoy
 --------------------------------------
 
