@@ -1,6 +1,12 @@
 Grinnellians you should know (or know about): Jennelle Nystrom '14
 ==================================================================
 
+*Part of a continuing series about a variety of folks associated
+with Grinnell, including faculty, alumni, staff, current students,
+and more.*
+
+---
+
 How can I describe Jennelle Nystrom '14?  In some ways, she's a
 poster child for a Grinnell education (almost literally; we featured
 her in at least one fundraising letter).  Why?  Because she shows
@@ -157,7 +163,9 @@ those waivers are no longer automatic.
 gave by far the best answer to one of the most important questions [16].
 
 [16] No, I won't reveal that question, because I continue to use it.
+(Jennelle tells me that she forgot what it was, so don't bother asking
+her.)
 
 ---
 
-*Version 1.0.2 of 2016-10-02.*
+*Version 1.0.3 of 2016-10-04.*
