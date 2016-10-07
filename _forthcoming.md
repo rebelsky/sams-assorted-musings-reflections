@@ -1,7 +1,26 @@
 Some forthcoming essays
 =======================
 
-Jennelle Nystrom (Grinnellians).  
+79. Nibbled to death by ducks.
+
+80. Donating to Grinnell.
+
+81. Narren Brown (write in advance)
+
+How has Grinnell changed?
+
+cv-vs-vita (quote from our latest guidelines from Dean's office)
+
+PCards
+
+What I Write (recommendation letters, memos (lots of memos), answers
+to surveys from the Dean, ...)
+
+Dumb Things: CS Alumni Mailing List
+
+Selling yourself
+
+Outlook.
 
 Jeff Dickey-Chaisins (Grinnellians).  (Write soon, though.)
 
@@ -9,11 +28,9 @@ Graeme Boy (Grinnellians)
 
 Christine Tran (Grinnellians)
 
+Posse, revisited.
+
 Why a good CS education includes much more than CS (for current students).
-
-73. Nibbled to death by ducks.
-
-74. Donating to Grinnell.
 
 76. Embarrassing teaching moments.
 
@@ -102,4 +119,6 @@ Missed opportunities (the book with mom)
 Sleep cycles.
 
 Amazon Pricing Bots.
+
+Trustees.
 
