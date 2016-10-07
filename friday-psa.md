@@ -119,10 +119,14 @@ Here goes ....
   You need to look out for yourself and your partner, and communicate
   clearly.  Not ready for that?  Not ready for sex.
 
+I'll note that "communicate clearly" still suggests explicit consent.
+After all, you might plan rock climbing together, and then find that
+it feels too dangerous or risky or just plain unpleasant.
+
 ---
 
 Thanks to Jen Jacobsen for the revised statistics.
 
 ---
 
-*Version 1.1 of 2016-09-23.*
+*Version 1.1.1 of 2016-10-06.*
