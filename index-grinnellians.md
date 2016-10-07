@@ -42,13 +42,18 @@ Jen Jacobsen
 Darlo Kelting
 - *Forthcoming*
 
-Jennelle Nystrom '14
-- *Forthcoming*
+[Jennelle Nystrom '14](nystrom.html) (Essay #76)
+
+> Art History and CS major, research assistant, SAC director,
+  first-gen student
 
 Sarah Purcell
 - *Forthcoming*
 
 Susan Sanning
+- *Forthcoming*
+
+Rachel Schnepper
 - *Forthcoming*
 
 Erik Simpson
@@ -61,6 +66,9 @@ John David Stone
 - *Forthcoming*
 
 Angie Balm Story
+- *Forthcoming*
+
+Angela Voos
 - *Forthcoming*
 
 Henry Walker

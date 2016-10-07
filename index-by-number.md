@@ -99,3 +99,6 @@ Essay #3 was about Grinnell's relationship with Posse.
 [Making good choices](making-good-choices.html) (Essay #73)  
 [On faculty/staff relationships](faculty-staff.html) (Essay #74)  
 [The Grinnell Prize](grinnell-prize.html) (Essay #75)  
+[Jennelle Nystrom '14](nystrom.html) (Essay #76)  
+[Thoughts for CS Majors on Studying Abroad](study-abroad-cs.html) (Essay #77)  
+[10/10](ten-ten.html) (Essay #78)  

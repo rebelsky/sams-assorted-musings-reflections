@@ -7,7 +7,7 @@ students or other people.  Some are rants about topics I'm passionate
 about.  Some are explanations of how I approach the world.  Some are
 just my attempts to think through a topic.
 
-Latest essay (#75): [The Grinnell Prize](grinnell-prize.html)
+Latest essay (#78): [10/10](ten-ten.html)
 
 [Essays, by number](index-by-number.html)
 

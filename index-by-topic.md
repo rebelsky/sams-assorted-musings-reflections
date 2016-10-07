@@ -205,6 +205,10 @@ Why a good computer science education includes much more than computer science
 
 > Comments on a distinct part of Grinnell.
 
+[Thoughts for CS Majors on Studying Abroad](study-abroad-cs.html) (Essay #77)
+
+> Potentially an important element of your education.
+
 For alumni and others who donate to the department
 --------------------------------------------------
 
@@ -257,6 +261,11 @@ Reflections on some important issues
 > We should work together, but we're too often at odds.  A consideration
   of some obstacles and some ways we and the institution can help
   overcome those obstacles.
+
+[10/10](ten-ten.html) (Essay #78)
+
+> Okay, 10/10 isn't really all that important an issue.  But I couldn't 
+  think of another place to list this essay.
 
 Rants
 -----
@@ -443,13 +452,18 @@ Jen Jacobsen
 Darlo Kelting
 - *Forthcoming*
 
-Jennelle Nystrom '14
-- *Forthcoming*
+[Jennelle Nystrom '14](nystrom.html) (Essay #76)
+
+> Art History and CS major, research assistant, SAC director,
+  first-gen student
 
 Sarah Purcell
 - *Forthcoming*
 
 Susan Sanning
+- *Forthcoming*
+
+Rachel Schnepper
 - *Forthcoming*
 
 Erik Simpson
@@ -462,6 +476,9 @@ John David Stone
 - *Forthcoming*
 
 Angie Balm Story
+- *Forthcoming*
+
+Angela Voos
 - *Forthcoming*
 
 Henry Walker

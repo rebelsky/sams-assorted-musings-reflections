@@ -93,3 +93,7 @@ Why a good computer science education includes much more than computer science
 
 > Comments on a distinct part of Grinnell.
 
+[Thoughts for CS Majors on Studying Abroad](study-abroad-cs.html) (Essay #77)
+
+> Potentially an important element of your education.
+
