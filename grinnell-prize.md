@@ -21,14 +21,15 @@ nonprofit to be giving a prize to support other non-profits.  And there
 was also the question of why we'd give a Grinnell prize to people not
 from Grinnell.
 
-The first Grinnell Prize ceremony certainly reinforced my negative
-perspective on the prize.  I don't even think the Prize winners were here.
-All I recall is that we showed videos made by other organizations who
-had previously given the winners prizes.  (Yeah, that seems strange
+The first Grinnell Prize ceremony did not improve my perspective on the
+prize.  All I recall is that we showed videos made by other organizations
+who had previously given the winners prizes.  (Yeah, that seems strange
 to me, too.  We seemed to be saying "We can't come up with anyone new;
 we'll just ride on the coattails of others who identified good people.")
-I also think that we had a lot of difficulty with social media and the
+I also recall that we had a lot of difficulty with social media and the
 event, but that was before we hired the wonderful `@GeniusAndFolly` [2,3].
+There was also some weird split between events, but I can't remember
+what it was.
 
 I think the Prize winners were clearly doing good and important work, and
 I don't mind that we supported them.  However, given that they had already
@@ -117,4 +118,4 @@ allowed to use at least one of the titles.
 
 ---
 
-*Version 1.0.1 of 2016-10-03.*
+*Version 1.0.2 of 2016-10-04.*
