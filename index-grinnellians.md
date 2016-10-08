@@ -27,6 +27,9 @@ David Feldman
 Pam Ferguson
 - *Forthcoming*
 
+Dan and Patricia Jipp Finkelman
+- *Forthcoming*
+
 Richard Fyffe
 - *Forthcoming*
 
@@ -39,7 +42,13 @@ Harry Hopkins
 Jen Jacobsen
 - *Forthcoming*
 
+Lakesia Johnson
+- *Forthcoming*
+
 Darlo Kelting
+- *Forthcoming*
+
+Harley McIlrath
 - *Forthcoming*
 
 [Jennelle Nystrom '14](nystrom.html) (Essay #76)
