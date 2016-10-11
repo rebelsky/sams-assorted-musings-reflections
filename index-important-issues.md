@@ -40,3 +40,8 @@ Reflections on some important issues
   of some obstacles and some ways we and the institution can help
   overcome those obstacles.
 
+[Shared governance](shared-governance.html) (Essay #82)
+
+> Faculty, staff, administrators, and maybe even students working
+  together to govern the College.
+
