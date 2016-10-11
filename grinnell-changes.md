@@ -1,10 +1,11 @@
 How has Grinnell changed in the past twenty years?
 ==================================================
 
-Last night, I was having dinner with trustees [1].  Upon hearing that
-this is my twentieth year at Grinnell, one of the trustees asked what had
-changed in the last twenty years.  I gave a fairly long description last
-night.  This essay is my attempt to think through that question again.
+Last night, I was having dinner with some of Grinnell's trustees [1].
+Upon hearing that this is my twentieth year at Grinnell, one of the
+trustees asked what had changed in the last twenty years.  I gave a
+fairly long description last night.  This essay is my attempt to think
+through that question again.
 
 Hilary Mason '00 tells me that each time she comes back to Grinnell she
 is happy to see how little it has changed.  The students are still nice,
@@ -39,7 +40,7 @@ last night) is our buildings.  Since I've come to Grinnell, we've torn
 down part of the Science building and built a much larger replacement
 for that part. We've torn down Darby Gym and the old Physical Education
 Complex and built both the Joe Rosenfield '25 Center [8] and the Bear
-[10].  We've torn down the old preschool and build a new one.  We've added
+[10].  We've torn down the old preschool and built a new one.  We've added
 to the back end of Nollen house and the building next to Nollen house.
 We've turned some of the old affinity houses, such as Pirate House,
 into office space.  We've renovated the Old Glove Factory downtown and
@@ -160,16 +161,21 @@ else that deserves a whole essay of its own.
 
 I could go on and on.  There are many other things that have changed on
 campus, certainly more than I can write about in one essay, and probably
-more than I can recall or identify [18].  However, in spite of all these
+more than I can recall or identify [18,20].  However, in spite of all these
 changes, Grinnell feels very much the same to me.  It's a place where we
 bring in talented, interesting, students, irrespective of their ability
 to pay; we focus on giving them a great education and developing them
 as people; and then we send them on their way to make a difference in
 the world.
 
+Oh, since a trustee asked this question most recently, I should reflect
+one one more very important change.  When I came to Grinnell, the
+trustees, as a group, did not consider Grinnell a great institution.
+I think the current trustees do.
+
 ---
 
-[1] Last year, the Trustees decided that each time they came to campus,
+[1] Last year, the trustees decided that each time they came to campus,
 they should issue an open invitation to faculty from one of the three
 divisions to dine with them and chat.  I expect that the idea came from
 Patricia Jipp Finkelman '80, who is thoughtful and committed to the 
@@ -178,13 +184,13 @@ College [2].
 [2] No, I'm not sucking up.  I really like both Dan and Patricia.  I had
 the opportunity to spend a weekend with them in a small workshop in which we
 discussed the Wilson program and also how the College can help students
-develop "soft skills".  I find them thoughtful and concerned folks.  I also
-appreciate that they have helped support our recent Pioneer Day fundraising
-campaigns and that they endowed the directorship of the Center for
-Careers, Life, and Service [3].  And I appreciate that when I complained
-to Patricia about the idiotic "Named Chair" stoles, she promised to get
-something done about them.  She also said really nice things about one
-of my students, who happens to be president of SGA.
+develop "soft skills".  I find them smart, thoughtful, and concerned
+people.  I also appreciate that they have helped support our recent
+Pioneer Day fundraising campaigns and that they endowed the directorship
+of the Center for Careers, Life, and Service [3].  And I appreciate that
+when I complained to Patricia about the idiotic "Named Chair" stoles,
+she promised to get something done about them.  She also said really
+nice things about one of my students, who happens to be president of SGA.
 
 [3] I also appreciate that this means that I can call Mark Peltz the
 "Finkeldean".
@@ -249,6 +255,14 @@ and so on and so forth.
 [19] We still have no official triple-major policies, at least as far
 as I know.
 
+[20] We've also lost an enormous number of wonderful Grinnellians during
+my time at Grinnell: Grant Gale [21], Joe Rosenfield, Pam Ferguson,
+John Pfitsch, and many more.  The loss of each one has changed Grinnell.
+
+[21] I'm glad I got to meet him; It still infuriates me that the College
+didn't bother to videotape his tribute speech about Robert Noyce from
+the festivities surrounding Phase I of the Noyce renovations.
+
 ---
 
-*Version 1.0 of 2016-10-07.*
+*Version 1.0.2 of 2016-10-07.*
