@@ -1,24 +1,26 @@
 Some forthcoming essays
 =======================
 
+Conclusions.
+
+Burnout.
+
+PCards.
+
+Harley McIlrath.
+
 79. Nibbled to death by ducks.
 
 80. Donating to Grinnell.
 
 81. Narren Brown (write in advance)
 
-How has Grinnell changed?
-
 cv-vs-vita (quote from our latest guidelines from Dean's office)
 
-PCards
-
-What I Write (recommendation letters, memos (lots of memos), answers
+What I write (recommendation letters, memos (lots of memos), answers
 to surveys from the Dean, ...)
 
 Dumb Things: CS Alumni Mailing List
-
-Selling yourself
 
 Outlook.
 
@@ -31,8 +33,6 @@ Christine Tran (Grinnellians)
 Posse, revisited.
 
 Why a good CS education includes much more than CS (for current students).
-
-76. Embarrassing teaching moments.
 
 77. Times and Dates (?)
 
@@ -55,8 +55,6 @@ Mistrust.
 Working in public.
 
 git (support for working in public)
-
-Research for all in CS (for current and prospective students)
 
 Book Sales
 
