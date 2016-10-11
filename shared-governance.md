@@ -47,7 +47,7 @@ although I am frustrated by that decision and the way it was handled.
 It's because of the slew of small and not so small ways in which I see our
 governance process ignored or subverted.  Let's consider some examples.
 
-* The Faculty Organization Committe (FOC) [2] is responsible for the
+* The Faculty Organization Committee (FOC) [2] is responsible for the
 creation of committees on campus.  In the past few years, I've seen the
 administration create a wide number of committee-like structures without
 the input of FOC.
@@ -90,20 +90,31 @@ that policy changed between last year and this.
 That's just a sampling; there are certainly other instances in which 
 the administration has failed to appropriately involve faculty.
 
+It's also clear to me that I have a very different view of shared
+governance than some administrators.  This fall, Grinnell had a common
+reading for all incoming students [8].  From my perspective, a common
+reading is a curricular matter, and should be discussed by the faculty.
+When I discussed the issue with the associate dean who seemed to be taking
+the lead, someone I respect and admire, they said (approximately): "I
+asked the Tutorial committee.  They didn't want to include it in Tutorial,
+so I'm just doing it separately."  From my perspective, that's not shared
+governance; if the faculty don't think a common reading is appropriate,
+we shouldn't have one [9].
+
 So, where do we go from here?  I don't know.  I'm hopeful that the meeting
 with President Kington is productive.  I know that Dean Latham does think
 actively about making our educational program better.  I'm thrilled
 to have Henry Rietz as faculty chair (just as I was thrilled to have
 Elaine Marzluff as our previous faculty chair).  But I also worry that
 these kinds of situations are a symptom of a significantly different
-perspective on faculty governance [8].
+perspective on faculty governance [10].
 
 ---
 
 [1] Although I think the public rationale for that decision was
 unacceptably shallow, I do not have enough information to judge the
 reasons for that decision, and I also accept that I should not have
-that all of that informat; as it was not a decision that could readily
+that all of that information, as it was not a decision that could readily
 be made transparently.
 
 [2] I keep trying to convince them that their job is to organize, and
@@ -123,9 +134,16 @@ of SharePointless [6].
 
 [7] Expect a longer essay on this matter.
 
-[8] Sorry, no hopeful ending here.  I'm not feeling particularly hopeful
+[8] Some of you may have seen middle son "live Tweet" his reading of
+that book.
+
+[9] I do have at least one faculty colleague who says that they would
+make the same decision as my associate dean, so my view is not
+necessarily commonly held.
+
+[10] Sorry, no hopeful ending here.  I'm not feeling particularly hopeful
 right now.  Perhaps we'll explore other reasons why in a future essay.
 
 ---
 
-*Version 1.0 of 2016-10-10.*
+*Version 1.0.1 of 2016-10-10.*
