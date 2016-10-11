@@ -36,6 +36,9 @@ Richard Fyffe
 Hallie Flanagan
 - *Forthcoming*
 
+Grant Gale
+- *Forthcoming*
+
 Harry Hopkins
 - *Forthcoming*
 
@@ -57,6 +60,9 @@ Harley McIlrath
   first-gen student
 
 Sarah Purcell
+- *Forthcoming*
+
+Joe Rosenfield
 - *Forthcoming*
 
 Susan Sanning

@@ -26,6 +26,10 @@ Almost everything else
 
 > The second in that series.
 
+[Embarrassing teaching moments](embarrassing-teaching-moments.html) (Essay #81)
+
+> A break in that series.
+
 About SamR
 - *Forthcoming*
 

@@ -47,3 +47,7 @@ Why Grinnell staff with Ph.D's should be allowed to teach.
   course.  Then I learned that it's only in very specific situations.
   These are my attempts to think through the matter.
 
+[Word choice that irritates me: "Sell Yourself"](selling-yourself.html) (Essay #80)
+
+> With all the baggage that phrase carries, why would anyone ever use it?
+

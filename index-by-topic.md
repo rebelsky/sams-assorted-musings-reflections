@@ -262,11 +262,6 @@ Reflections on some important issues
   of some obstacles and some ways we and the institution can help
   overcome those obstacles.
 
-[10/10](ten-ten.html) (Essay #78)
-
-> Okay, 10/10 isn't really all that important an issue.  But I couldn't 
-  think of another place to list this essay.
-
 Rants
 -----
 
@@ -315,6 +310,10 @@ Why Grinnell staff with Ph.D's should be allowed to teach.
 > I thought we allowed our Ph.D.-level staff to teach the occasional
   course.  Then I learned that it's only in very specific situations.
   These are my attempts to think through the matter.
+
+[Word choice that irritates me: "Sell Yourself"](selling-yourself.html) (Essay #80)
+
+> With all the baggage that phrase carries, why would anyone ever use it?
 
 Assorted talks and speeches
 ---------------------------
@@ -437,10 +436,16 @@ David Feldman
 Pam Ferguson
 - *Forthcoming*
 
+Dan and Patricia Jipp Finkelman
+- *Forthcoming*
+
 Richard Fyffe
 - *Forthcoming*
 
 Hallie Flanagan
+- *Forthcoming*
+
+Grant Gale
 - *Forthcoming*
 
 Harry Hopkins
@@ -449,7 +454,13 @@ Harry Hopkins
 Jen Jacobsen
 - *Forthcoming*
 
+Lakesia Johnson
+- *Forthcoming*
+
 Darlo Kelting
+- *Forthcoming*
+
+Harley McIlrath
 - *Forthcoming*
 
 [Jennelle Nystrom '14](nystrom.html) (Essay #76)
@@ -458,6 +469,9 @@ Darlo Kelting
   first-gen student
 
 Sarah Purcell
+- *Forthcoming*
+
+Joe Rosenfield
 - *Forthcoming*
 
 Susan Sanning
@@ -486,6 +500,21 @@ Henry Walker
 
 Tilly Woodward
 - *Forthcoming*
+
+About Grinnell
+--------------
+
+*These are essays about Grinnell that did not naturally fit into other
+categories.*
+
+[How has Grinnell changed in the past twenty years?](grinnell-changes.html) (Essay #79)
+
+> My answers to a question I've been asked a few times.
+
+[10/10](ten-ten.html) (Essay #78)
+
+> Okay, 10/10 isn't really all that important an issue.  But I couldn't 
+  think of another place to list this essay.
 
 Reviews and notes about things I enjoy
 --------------------------------------
@@ -564,6 +593,10 @@ Almost everything else
 [Sometimes tasks take too much time](tasks-take-time.html) (Essay #70)
 
 > The second in that series.
+
+[Embarrassing teaching moments](embarrassing-teaching-moments.html) (Essay #81)
+
+> A break in that series.
 
 About SamR
 - *Forthcoming*

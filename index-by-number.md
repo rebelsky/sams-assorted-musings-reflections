@@ -102,3 +102,9 @@ Essay #3 was about Grinnell's relationship with Posse.
 [Jennelle Nystrom '14](nystrom.html) (Essay #76)  
 [Thoughts for CS Majors on Studying Abroad](study-abroad-cs.html) (Essay #77)  
 [10/10](ten-ten.html) (Essay #78)  
+[How has Grinnell changed in the past twenty years?](grinnell-changes.html) (Essay #79)  
+[Word choice that irritates me: "Sell Yourself"](selling-yourself.html) (Essay #80)  
+
+## 81-90
+
+[Embarrassing teaching moments](embarrassing-teaching-moments.html) (Essay #81)  

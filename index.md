@@ -7,7 +7,7 @@ students or other people.  Some are rants about topics I'm passionate
 about.  Some are explanations of how I approach the world.  Some are
 just my attempts to think through a topic.
 
-Latest essay (#78): [10/10](ten-ten.html)
+Latest essay (#81): [Embarrassing teaching moments](embarrassing-teaching-moments.html)
 
 [Essays, by number](index-by-number.html)
 
@@ -28,6 +28,7 @@ Latest essay (#78): [10/10](ten-ten.html)
 * [Essays I removed](index-removed.html)
 * [The joy of code](index-joc.html)
 * [Cool Grinnellians you should know (or know about)](index-grinnellians.html)
+* [Other essays on Grinnell](index-grinnell.html)
 * [Reviews and notes about things I enjoy](index-reviews.html)
 * [Almost everything else](index-misc.html)
 
