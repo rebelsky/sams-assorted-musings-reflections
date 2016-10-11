@@ -70,6 +70,7 @@ INDICES = index-by-topic-head.md \
 	index-recommendations.md \
 	index-joc.md \
 	index-grinnellians.md \
+        index-grinnell.md \
 	index-reviews.md \
 	index-misc.md \
 	index-removed.md 
