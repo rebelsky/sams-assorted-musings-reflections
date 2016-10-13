@@ -70,3 +70,7 @@ Algorithmic art
 
 > On my difficulties figuring out what to call people.
 
+[Dad jokes](dad-jokes.html) (Essay #83)
+
+> What my students say about my jokes.
+
