@@ -366,10 +366,19 @@ Overcommitment
 
 > The second in that series.
 
-Nibbled to death by ducks - Managing my to-do list
-- *Forthcoming*
+[Misunderstanding metaphors](misunderstanding-metaphors.html) (Essay #68)
 
-> Keeping track of what work I'm supposed to do
+> The first in a short series of essays about my workload.  In this one,
+  I examine metaphors relating to work.
+
+[Sometimes tasks take too much time](tasks-take-time.html) (Essay #70)
+
+> The second in that series.
+
+[Nibbled to death by ducks, episode 1] (Essay #85)
+
+> The first in a new series about my workload (originally intended as
+  the third in the previous series).
 
 On teaching online
 ------------------
@@ -593,15 +602,6 @@ Almost everything else
 [Foods of my families](family-foods.html) (Essay #66)
 
 > Some food memories.
-
-[Misunderstanding metaphors](misunderstanding-metaphors.html) (Essay #68)
-
-> The first in a short series of essays about my workload.  In this one,
-  I examine metaphors relating to work.
-
-[Sometimes tasks take too much time](tasks-take-time.html) (Essay #70)
-
-> The second in that series.
 
 [Embarrassing teaching moments](embarrassing-teaching-moments.html) (Essay #81)
 

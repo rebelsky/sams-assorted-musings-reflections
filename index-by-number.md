@@ -111,3 +111,4 @@ Essay #3 was about Grinnell's relationship with Posse.
 [Shared governance](shared-governance.html) (Essay #82)  
 [Dad jokes](dad-jokes.html) (Essay #83)  
 [Wrapping up](wrapping-up.html) (Essay #84)  
+[Nibbled to death by ducks, episode 1] (Essay #85)  

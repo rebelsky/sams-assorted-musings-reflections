@@ -17,15 +17,6 @@ Almost everything else
 
 > Some food memories.
 
-[Misunderstanding metaphors](misunderstanding-metaphors.html) (Essay #68)
-
-> The first in a short series of essays about my workload.  In this one,
-  I examine metaphors relating to work.
-
-[Sometimes tasks take too much time](tasks-take-time.html) (Essay #70)
-
-> The second in that series.
-
 [Embarrassing teaching moments](embarrassing-teaching-moments.html) (Essay #81)
 
 > A break in that series.
