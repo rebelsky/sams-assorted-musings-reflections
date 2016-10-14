@@ -3,7 +3,7 @@ Mom
 
 *Since it's the night before mother's day, it seems like an opportune
 time to reflect back on my mother, Freda Rebelsky.  The essay is perhaps
-even ore self-indulgent than is my norm, but I think it's appropriate
+even more self-indulgent than is my norm, but I think it's appropriate
 for the occasion.*
 
 As I reflect back, much of who I am and how I act comes from my mother,
@@ -25,10 +25,11 @@ an ear, to just check in.
 
 Mom was also an incurable optimist.  She assumed the best in everyone.
 (Well, almost everyone; I'm not sure she assumed the best in John Silber.)
-Even I would have thought someone was taking advantage of her, or approaching
-a situation with less-than-good intentions, she would tell me that I just
-didn't understand.  She was also convinced that she could make a difference
-in the world, which strikes me as a particular brand of optimism.
+Even when I would have thought someone was taking advantage of her,
+or approaching a situation with less-than-good intentions, she would
+tell me that I just didn't understand.  She was also convinced that she
+could make a difference in the world, which strikes me as a particular
+brand of optimism.
 
 This does not mean that she thought everything was good; she certainly
 acknowledged lots of problems.  And she also thought it was important
@@ -43,18 +44,18 @@ both teaching my salary as a visiting professor at Dartmouth was about
 the same as hers was as a senior professor at BU; her regular barbs at
 John Silber clearly kept her salary low.)
 
-Mom was also a creative and thoughtful teacher; there's a reason she won the
-APA teacher of the year award and the Danforth (I think) award at BU.
-She reminded me early on that different students show strengths in
-different ways, and she was great at letting students choose different
-approaches.  Some students write essays well, some answer test questions
-well, some design projects well.  She wasn't afraid to design choose
-approaches that played to student strengths.  She also wasn't afraid
-to challenge assumptions.  I remember a time when she ended up giving
-everyone in a seminar an A.  When challenged ("I don't believe everyone
-in a class can earn an A.  And I know some of your students; they aren't
-A students.") she showed the challenger that all of the students had
-done A-level work.
+Mom was also a creative and thoughtful teacher; there's a reason
+she won the APA teacher of the year award and the Danforth (I think)
+award at BU.  She reminded me early on that different students show
+strengths in different ways, and she was great at letting students choose
+individual approaches.  Some students write essays well; some answer
+test questions well; some design projects well.  She wasn't afraid to
+choose approaches that played to student strengths.  She also wasn't
+afraid to challenge assumptions.  I remember a time when she ended up
+giving everyone in a seminar an A.  When challenged ("I don't believe
+everyone in a class can earn an A.  And I know some of your students;
+they aren't A students.") she showed the challenger that all of the
+students had done A-level work.
 
 Mom loved nature.  I was always impressed by the birds, and the plants,
 and the animals that she could name.  I share her joy in being out in
@@ -78,4 +79,4 @@ Thanks mom!
 
 --- 
 
-*Version 1.0 of 2016-05-07.*
+*Version 1.0.1 of 2016-10-13.*

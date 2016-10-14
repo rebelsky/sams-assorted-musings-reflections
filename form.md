@@ -6,7 +6,7 @@ inclination was to put them on a Web site?  Why?  Well, I'm enough of
 an old-school Web person that I didn't think of other options - when I
 want to make something public, I put it on a Web site.  As I started
 writing, I realized that what I'm doing fits the model of a 'blog [1].
-And I reflected on the decision, I decided I made the write one.  Let's
+And I reflected on the decision, I decided I made the right one.  Let's
 think about why.
 
 *I intend to group these essays by topic.*  (Yes, I am writing them in a
@@ -102,4 +102,4 @@ with others.
 
 ---
 
-*Version 1.0 of 2016-04-30*
+*Version 1.0.1 of 2016-10-13*

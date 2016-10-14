@@ -5,9 +5,9 @@ On Grinnell's Completion Rate
 President's office produced a "Draft Framework for Meeting the Diverse
 Needs of our Students" (which isn't quite the same as meeting the needs
 of our diverse students).  The introduction of that document focuses on
-our completion rate.  I think document focuses on the retention rate
-because it's part of the strategic plan, and not because it's particularly
-relevant to meeting diverse needs.*
+our completion rate.  I think the document focuses on the retention rate
+because that rate is part of the strategic plan, and not because it's
+particularly relevant to meeting diverse needs.*
 
 A recent document from the President's office makes the following statement.
 
@@ -107,4 +107,4 @@ beyond our control, such as the effects of location.
 
 ---
 
-*Version 1.0 of 2016-05-11.*
+*Version 1.0.1 of 2016-10-13.*

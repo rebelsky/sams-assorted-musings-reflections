@@ -53,7 +53,7 @@ that all learning happens from a student's academic work.  Part of
 what students learn is how to be adults, how to interact with people
 different than them, how to govern themselves, and more.  There's a
 reason that we value co-curricular activities, and try to integrate them
-with the curricular activities; both are ways ot learn.  In addition,
+with the curricular activities; both are ways to learn.  In addition,
 students learn things that I consider "academic" in their co-curricular
 time, not only skills (such as writing and speaking), but also ideas,
 particularly in the not-so-mythical late-note conversations and arguments
@@ -111,4 +111,4 @@ it too, right?) it all.
 
 *First version released on 2016-05-06.*
 
-*Version 1.1 of 2016-05-07.*
+*Version 1.1.1 of 2016-10-13.*
