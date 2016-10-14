@@ -43,7 +43,7 @@ Pomona (93% to 96%),
 Swarthmore (92% to 95%),
 Vassar (91% to 94%), and
 Williams (95% to 96%).
-We do better than Smith (85% to 87%) and Reed (74% to 82%).  
+We do better than Smith (85% to 87%) and Reed (74% to 82%).
 We do about the same as 
 Kenyon (87% to 90%),
 Macalester (87% to 90%),
