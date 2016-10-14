@@ -7,7 +7,7 @@ students or other people.  Some are rants about topics I'm passionate
 about.  Some are explanations of how I approach the world.  Some are
 just my attempts to think through a topic.
 
-Latest essay (#85): [Nibbled to death by ducks, episode 1](ndd-01.html)
+Latest essay (#86): [Phrases I've come to despise: "Best Practices"](best-practices.html)
 
 [Essays, by number](index-by-number.html)
 
