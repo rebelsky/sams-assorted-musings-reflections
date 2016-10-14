@@ -110,3 +110,4 @@ Essay #3 was about Grinnell's relationship with Posse.
 [Embarrassing teaching moments](embarrassing-teaching-moments.html) (Essay #81)  
 [Shared governance](shared-governance.html) (Essay #82)  
 [Dad jokes](dad-jokes.html) (Essay #83)  
+[Wrapping up](wrapping-up.html) (Essay #84)  

@@ -45,3 +45,7 @@ Essays on writing, or at least on writing my essays
 
 > In which I think about a slightly different genre of essay.
 
+[Wrapping up](wrapping-up.html) (Essay #84)
+
+> On ending essays and other forms of writing.
+
