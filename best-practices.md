@@ -41,10 +41,10 @@ an analysis of what might be different at Grinnell.
 What, from my perspective, are best practices?  I think across issues,
 there are some clear common best practices.  I've implied some things in
 the paragraphs above.  It's a best practice to consult, and to incorporate
-the voices of all stakeholders.  It's a best practices to deliberate,
-whenever possible.  It's a best practice to consider ethical issues
-as part of the deliberation, such as the impact of your decisions on
-individuals.
+the voices of all the groups a decision affects.  It's a best practices
+to deliberate, whenever possible.  It's a best practice to consider
+ethical issues as part of the deliberation, such as the impact of your
+decisions on individuals.
 
 But what do I know?  We've clearly lost the term "best practices" to
 the bean counters.  I hope we don't lose anything else.
@@ -67,4 +67,4 @@ good clients listen to advice, but also reflect upon it.
 
 ---
 
-*Version 1.0.1 of 2016-10-14.*
+*Version 1.0.2 of 2016-10-14.*
