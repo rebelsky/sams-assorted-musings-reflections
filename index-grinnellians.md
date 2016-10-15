@@ -27,6 +27,9 @@ Monessa Cummins
 Jeff Dickey-Chaisins '81
 - *Forthcoming*
 
+Karla Erickson
+- *Forthcoming*
+
 David Feldman
 - *Forthcoming*
 
@@ -58,6 +61,9 @@ Darlo Kelting
 - *Forthcoming*
 
 David Lopatto
+- *Forthcoming*
+
+Elaine Marzluff
 - *Forthcoming*
 
 Harley McIlrath
