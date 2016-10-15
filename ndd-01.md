@@ -8,15 +8,16 @@ deadly.  I had originally thought that I'd write one essay on the subject.
 But, well, there are a lot of ducks.  So, I'm going to write a series
 of occasional essays instead.  This essay is the first.
 
-It's Thursday morning.  The only thing I have scheduled this morning is
-a department meeting at 11:00 (followed by an errand at 11:30, an SEPC
-meeting at noon, a visitor at 1:00, a student at 1:30, a class from 2:00
-to 4:00, tea at 4:00, a talk at 4:15, and dinner with the speaker after
-that).  Officially, this is supposed to be research time.  Unofficially,
-this is time for me to catch up on things, to respond to email messages,
-and to get ready for the rest of the day.  I had planned to (a) finalize
-our visitor's schedule, (b) get ready for the two meetings, and (c)
-work on my classes for tomorrow.
+It's Thursday morning.  On my way in, I stopped in to visit the basement
+dwellers in the Forum for a few minutes.  Now I'm in my office.  The only
+thing I have scheduled this morning is a department meeting at 11:00
+(followed by an errand at 11:30, an SEPC meeting at noon, a visitor at
+1:00, a student at 1:30, a class from 2:00 to 4:00, tea at 4:00, a talk
+at 4:15, and dinner with the speaker after that).  Officially, this is
+supposed to be research time.  Unofficially, this is time for me to catch
+up on things, to respond to email messages, and to get ready for the rest
+of the day.  I had planned to (a) finalize our visitor's schedule, (b)
+get ready for the two meetings, and (c) work on my classes for tomorrow.
 
 ---
 
@@ -166,4 +167,4 @@ but that's a separate matter.
 
 ---
 
-*Version 1.0 of 2016-10-13.*
+*Version 1.0.1 of 2016-10-13.*
