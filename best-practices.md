@@ -12,11 +12,13 @@ I would also explore what others are doing and think about how those
 practices can be adapted to my classes and my students.
 
 However, I'm increasingly finding that "best practices" seems to mean
-something very different.  In my most recent encounters with the term,
-it has usually been used to mean some combination of (a) making an
-assessment using a very narrow set of criteria, (b) hiring consultants to
-make decisions for you [1], and/or (c) blindly mimicking what others do,
-without considering your own special circumstances.
+something very different.  And so I've come to treat the term as a
+warning, rather than a positive.  In particular, in my most recent
+encounters with the term, it has usually been used to mean some
+combination of (a) making an assessment using a very narrow set of
+criteria, (b) hiring consultants to make decisions for you [1], and/or
+(c) blindly mimicking what others do, without considering your own
+special circumstances.
 
 For example, we have been talking with consultants to find one that
 might help us think about how to make [MathLAN](mathlan.html) better.
@@ -65,4 +67,4 @@ good clients listen to advice, but also reflect upon it.
 
 ---
 
-*Version 1.0 of 2016-10-14.*
+*Version 1.0.1 of 2016-10-14.*
