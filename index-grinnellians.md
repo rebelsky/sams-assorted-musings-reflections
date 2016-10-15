@@ -15,7 +15,13 @@ Toby Baratta '17
 Terry Bisson '64
 - *Forthcoming*
 
+Rachel Bly '??
+- *Forthcoming*
+
 Narren Brown 
+- *Forthcoming*
+
+Monessa Cummins
 - *Forthcoming*
 
 Jeff Dickey-Chaisins '81
@@ -51,6 +57,9 @@ Lakesia Johnson
 Darlo Kelting
 - *Forthcoming*
 
+David Lopatto
+- *Forthcoming*
+
 Harley McIlrath
 - *Forthcoming*
 
@@ -62,7 +71,7 @@ Harley McIlrath
 Sarah Purcell
 - *Forthcoming*
 
-Joe Rosenfield
+Joe Rosenfield '25
 - *Forthcoming*
 
 Susan Sanning
@@ -81,6 +90,9 @@ John David Stone
 - *Forthcoming*
 
 Angie Balm Story
+- *Forthcoming*
+
+Justin Thomas
 - *Forthcoming*
 
 Angela Voos
