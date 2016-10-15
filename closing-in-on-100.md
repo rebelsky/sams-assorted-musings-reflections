@@ -180,7 +180,11 @@ each month, and often multiple times in between.  I'm reserving this
 one for you.
 
 [19] And, as we saw last summer, there's no guarantee that I'll keep up 
-my pace.
+my pace [20].
+
+[20] Fortunately, I have a list of about one-hundred-more essay topics,
+and that doesn't include all of the [Grinnellians](index-grinnellians.html)
+I plan to write about.
 
 ---
 
