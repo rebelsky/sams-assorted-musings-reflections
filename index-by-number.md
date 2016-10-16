@@ -113,3 +113,4 @@ Essay #3 was about Grinnell's relationship with Posse.
 [Wrapping up](wrapping-up.html) (Essay #84)  
 [Nibbled to death by ducks, episode 1] (Essay #85)  
 [Terms I've come to despise: "Best practices"](best-practices.html) (Essay #86)  
+[The College bookstore](bookstore.html) (Essay #87)  

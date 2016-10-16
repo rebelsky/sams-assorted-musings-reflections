@@ -55,3 +55,7 @@ Why Grinnell staff with Ph.D's should be allowed to teach.
 
 > They aren't.
 
+[The College bookstore](bookstore.html) (Essay #87)
+
+> Narrow and broad views of a central campus resource.
+

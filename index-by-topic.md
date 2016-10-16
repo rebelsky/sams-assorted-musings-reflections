@@ -328,6 +328,10 @@ Why Grinnell staff with Ph.D's should be allowed to teach.
 
 > They aren't.
 
+[The College bookstore](bookstore.html) (Essay #87)
+
+> Narrow and broad views of a central campus resource.
+
 Assorted talks and speeches
 ---------------------------
 
@@ -446,10 +450,19 @@ Toby Baratta '17
 Terry Bisson '64
 - *Forthcoming*
 
+Rachel Bly '??
+- *Forthcoming*
+
 Narren Brown 
 - *Forthcoming*
 
+Monessa Cummins
+- *Forthcoming*
+
 Jeff Dickey-Chaisins '81
+- *Forthcoming*
+
+Karla Erickson
 - *Forthcoming*
 
 David Feldman
@@ -482,6 +495,12 @@ Lakesia Johnson
 Darlo Kelting
 - *Forthcoming*
 
+David Lopatto
+- *Forthcoming*
+
+Elaine Marzluff
+- *Forthcoming*
+
 Harley McIlrath
 - *Forthcoming*
 
@@ -493,7 +512,7 @@ Harley McIlrath
 Sarah Purcell
 - *Forthcoming*
 
-Joe Rosenfield
+Joe Rosenfield '25
 - *Forthcoming*
 
 Susan Sanning
@@ -512,6 +531,9 @@ John David Stone
 - *Forthcoming*
 
 Angie Balm Story
+- *Forthcoming*
+
+Justin Thomas
 - *Forthcoming*
 
 Angela Voos
