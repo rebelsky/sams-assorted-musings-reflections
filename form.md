@@ -2,7 +2,7 @@ On the form of these musings, reflections, and rants
 ====================================================
 
 When I [started writing these musings and rants](genesis.html), my
-inclination was to put them on a Web site?  Why?  Well, I'm enough of
+inclination was to put them on a Web site.  Why?  Well, I'm enough of
 an old-school Web person that I didn't think of other options - when I
 want to make something public, I put it on a Web site.  As I started
 writing, I realized that what I'm doing fits the model of a 'blog [1].
@@ -102,4 +102,4 @@ with others.
 
 ---
 
-*Version 1.0.1 of 2016-10-13*
+*Version 1.0.2 of 2016-10-16*
