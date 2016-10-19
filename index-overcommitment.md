@@ -19,7 +19,7 @@ Overcommitment
 
 > The second in that series.
 
-[Nibbled to death by ducks, episode 1] (Essay #85)
+[Nibbled to death by ducks, episode 1](ndd-01.html) (Essay #85)
 
 > The first in a new series about my workload (originally intended as
   the third in the previous series).

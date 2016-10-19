@@ -49,3 +49,7 @@ Essays on writing, or at least on writing my essays
 
 > On ending essays and other forms of writing.
 
+[Following my muse](following-my-muse.html) (Essay #88)
+
+> How I choose what to write about each day.
+

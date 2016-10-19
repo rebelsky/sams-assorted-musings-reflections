@@ -16,3 +16,7 @@ The joy of code
 
 > The joy of writing really small programs in Linux.
 
+[Playing with Processing, Example 1](joc-processing-01.html) (Essay #89)
+
+> A simple, yet interesting, animation.
+

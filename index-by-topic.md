@@ -52,6 +52,10 @@ Essays on writing, or at least on writing my essays
 
 > On ending essays and other forms of writing.
 
+[Following my muse](following-my-muse.html) (Essay #88)
+
+> How I choose what to write about each day.
+
 For prospective students, parents of prospective students, and others with similar interests
 --------------------------------------------------------------------------------------------
 
@@ -383,7 +387,7 @@ Overcommitment
 
 > The second in that series.
 
-[Nibbled to death by ducks, episode 1] (Essay #85)
+[Nibbled to death by ducks, episode 1](ndd-01.html) (Essay #85)
 
 > The first in a new series about my workload (originally intended as
   the third in the previous series).
@@ -432,6 +436,10 @@ The joy of code
 [Small scripts for indexing musings](joc-indexing-musings.html) (Essay #53)
 
 > The joy of writing really small programs in Linux.
+
+[Playing with Processing, Example 1](joc-processing-01.html) (Essay #89)
+
+> A simple, yet interesting, animation.
 
 Grinnellians you should know (or know about)
 --------------------------------------------
