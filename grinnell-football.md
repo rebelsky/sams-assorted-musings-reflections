@@ -95,7 +95,7 @@ there's probably a place for us.
 
 ---
 
-Do I think we should eliminate football?  I don't know.  And, fortunately,
+Do I think we should eliminate football?  I don't know.  Fortunately,
 that's not my call.  Do I think we need a campus-wide discussion about
 whether we should eliminate football?  Definitely.
 
@@ -129,16 +129,17 @@ just east of the Mississippi.
 for football players.  When eldest son interviewed at one, they "warned"
 him that he needed an ACT score of at least 23.  (For Grinnell, the
 average ACT score is 31 or 32, and the 25th percentile score is 30 [6].
-And don't worry; the 23 is nota n issue, since eldest is above 75th
-percentile for Grinnell.)  When middle son interviewed at another peer,
+And don't worry; the 23 is not an issue, since eldest is above 75th
+percentile for Grinnell and scored much higher than 23 when he took the
+ACT in 7th grade.)  When middle son interviewed at another peer,
 they told him that all football players start on academic probation
 because they assume they will need the extra support.  Grinnell assumes
 that our players will be the same caliber as all other students.
 
 [6] <https://www.grinnell.edu/about/profile>.
 
-[7] Both Grinnell and Chicago have a 75% winning record against Iowa;
-Grinnell is 3-1, Chicago is 9-3.
+[7] Eldest son says that this footnote was incorrect.  It has now
+been elided.
 
 [8] In those early years, they also significantly out-drew the Bears.
 
@@ -153,4 +154,4 @@ reference librarians.
 
 ---
 
-*Version 1.0 of 2016-10-18.*
+*Version 1.0.1 of 2016-10-18.*
