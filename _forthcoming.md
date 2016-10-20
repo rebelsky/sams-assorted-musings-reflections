@@ -1,8 +1,21 @@
 Some forthcoming essays
 =======================
 
+Numbering
+
+* 2016-10-23: Number 95 (Closing in on 100)
+* 2016-10-28: Number 100 
+* 2016-10-31: Numbers 103 (Three Months) and 104 (The Tigger Suit) 
+* 2016-11-01: Number 105 (A Month of Grinnellians) 
+* 2016-11-11: November 11
+
+----
+
+Notes
+
 * *Note: Move end of month to last day and comment.*
-* *Note: Try to have one hundred.*
+* *Note: Try to have about one hundred forthcoming topics at all times,
+  at least until I reach the three-hundred essays month.*
 * *Note: When I have writer's block, I should pick ten of the topics
   below and write an essay about what I plan to write for those ten.  
   There should be an
@@ -24,8 +37,19 @@ Some forthcoming essays
     * August: Assorted
     * September: The next three-hundred essays (? write one set of ten
       topics each day)
+* *Should I do a series on "topic, revisited"?*
 
 ---
+
+1. Accessibility in Course Webs (online teaching)
+
+1. Accessibility in the College Web site.
+
+1. Is pioneers.grinnell.edu accessible?  (Hmmm ... that's a good
+reason to read the guidelines.)
+
+1. What we vote, what they tell us.  (Did we vote on using qualitative
+comments in faculty reviews?)
 
 1. Megan Goering
 
@@ -35,23 +59,14 @@ Some forthcoming essays
 
 1. Candidate criteria
 
-1. Following my muse.  (People ask me, "Sam, how do you decide what
-to write about each day?"  Okay, I imagine that people ask me that.
-But let's pretend.)
-
 1. "Do you take requests?"
 
 1. Bob Dylan wins Nobel prize.  (Mongo says "Rock n Roll. Form a band. Arts are important.  Students never know, one may win a Nobel for Rock n Roll!")
 
-1. Mastering Grinnell.  (The other day, my Dean said something like "Huh.  I
-hadn't realized that the bookstore was under the purview of the Instructional
-Support Committee."  I'll admit that while I once knew that the ISC
-was responsible for academic issues pertaining to the bookstore, I'd
-forgotten.  Fortunately, I have a colleague who had recently reminded
-me that "The ISC was created by merging the bookstore and library committee
-and the academic computing committee".  I should have remembered that; it may
-be the last time we eliminated a committee at Grinnell, and that was about
-fifteen years ago.)
+1. The Tigger Suit (post on halloween).
+
+1. Used (pre-owned), Copied, Borrowed, Reissued: Moral and Legal issues
+   in obtaining creative works.
 
 1. Family First (comment that "Family comes before students.")
 
@@ -59,10 +74,9 @@ fifteen years ago.)
 
 1. Being nice.  (Flowers, flasks, whatever)
 
-1. Lolita and the Reluctant Deubtantes.  (Don't forget to mention 
-Dodge Dart.)
-
 1. Closing in on 100.
+
+1. Essay 100.
 
 1. Sleeping in. 
 
@@ -108,6 +122,13 @@ to surveys from the Dean, ...)
 1. Naming week 14, revisited.
 
 1. Dad jokes, revisited. (Misc)
+
+1. How Grinnell has changed in twenty years, revisited.
+
+1. Maybe I should have used a 'blogging platform.  (Or 'the form of this site',
+revisited.)
+
+1. Feeling fortunate, revisited.
 
 1. Why a good CS education includes much more than CS (for current students).
 
@@ -161,8 +182,6 @@ the US in the world.)
 
 1. On being organized.  (On writing.)
 
-1. Accessibility in Course Webs (online teaching)
-
 1. On being picky.  (On writing?  Rants?  Some followup to
 Ralph Savarese's comment.)
 
@@ -214,7 +233,7 @@ decade.  And it's **free**.
 
 1. Greil Marcus' "Real Life Rock Top Ten"
 
-1. Micki
+1. Michelle.
 
 1. Kathy (for mother's day)
 
@@ -234,3 +253,17 @@ institutional values (or vice versa)?
 1. Writing assessment.
 
 1. Assessment in general.
+
+1. Class mentors.
+
+1. My mentors.
+
+1. Grinnell's football team.
+
+1. Grinnell's CS curriculum (or have I written that already)?
+
+1. Television.
+
+1. Lolita and the Reluctant Deubtantes.  (Don't forget to mention 
+Dodge Dart.)
+
