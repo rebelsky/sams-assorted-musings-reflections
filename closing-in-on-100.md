@@ -25,7 +25,7 @@ and I'll compile them together?  Those comments might also help guide
 those folks who have just discovered these essays and want to figure out
 where to start [8].
 
-Here are some examples.
+Here are some examples.  
 
 > RS says "My favorite is [the essay on thinking the best of
   others](thinking-the-best.html) because that's where I first make an
@@ -107,9 +107,11 @@ Here are some examples.
   of my funnier essays [17], because it has more endnotes than normal,
   and because this entry makes it recursive.
 
-Of course, I'd much prefer that you wrote more than one sentence.  But
-even one sentence (including how you'd like me to refer to you) would
-be great.
+How should yours be different?  I'd much prefer that you wrote more
+than one sentence.  But even one sentence (including how you'd like me
+to refer to you) would be great.  I've used random initials to identify
+the writers.  You can ask me to use your name, your initials, the word
+"anonymous", two question marks, or anything else reasonably appropriate.
 
 There's only a few days left until essay one hundred.  **Get your comments
 in now** [18], or you'll have to wait until another hundred essays have passed
@@ -182,7 +184,7 @@ one for you.
 [19] And, as we saw last summer, there's no guarantee that I'll keep up 
 my pace [20].
 
-[20] Fortunately, I have a list of about one-hundred-more essay topics,
+[20] However, I have a list of about one-hundred-more essay topics,
 and that doesn't include all of the [Grinnellians](index-grinnellians.html)
 I plan to write about.
 
