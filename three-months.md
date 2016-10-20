@@ -16,6 +16,7 @@ I've now finished a third month of daily essays, and even made it past
 * When I started, I had a list of thirty or so "natural" topics.  After
   three months and more than one-hundred essays, I now have a list of 
   more than 100 remaining topics, along with a list of Grinnellians.
+* Getting contacted by a student who needed help.
 * Revisiting topics.
     * Should restore some version of the Posse essay.
     * Less good experiences suggest that I may have to revisit the
