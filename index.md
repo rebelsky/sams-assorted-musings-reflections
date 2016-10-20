@@ -7,7 +7,7 @@ students or other people.  Some are rants about topics I'm passionate
 about.  Some are explanations of how I approach the world.  Some are
 just my attempts to think through a topic.
 
-Latest essay (#89): [The Joy of Code: Playing with Processing, Example 1](joc-processing-01.html)
+Latest essay (#91): [Mastering Grinnell](mastering-grinnell.html)
 
 [Essays, by number](index-by-number.html)
 

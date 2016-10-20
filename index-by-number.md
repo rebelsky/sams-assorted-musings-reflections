@@ -116,3 +116,8 @@ Essay #3 was about Grinnell's relationship with Posse.
 [The College bookstore](bookstore.html) (Essay #87)  
 [Following my muse](following-my-muse.html) (Essay #88)  
 [Playing with Processing, Example 1](joc-processing-01.html) (Essay #89)  
+[Grinnell Football](grinnell-football.html) (Essay #90)  
+
+## 91-100
+
+[Mastering Grinnell](mastering-grinnell.html) (Essay #91)  

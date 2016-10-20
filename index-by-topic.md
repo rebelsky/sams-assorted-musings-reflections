@@ -568,6 +568,14 @@ categories.*
 > Okay, 10/10 isn't really all that important an issue.  But I couldn't 
   think of another place to list this essay.
 
+[Grinnell Football](grinnell-football.html) (Essay #90)
+
+> Thinking about the team, the sport, and some history.
+
+[Mastering Grinnell](mastering-grinnell.html) (Essay #91)
+
+> How does one learn and keep track of all that is happening at the College?
+
 Reviews and notes about things I enjoy
 --------------------------------------
 
