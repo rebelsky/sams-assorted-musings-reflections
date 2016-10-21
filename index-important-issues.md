@@ -45,3 +45,7 @@ Reflections on some important issues
 > Faculty, staff, administrators, and maybe even students working
   together to govern the College.
 
+[Web Accessibility](web-accessibility.html) (Essay #92)
+
+> What you should pay attention to when building Web pages.
+

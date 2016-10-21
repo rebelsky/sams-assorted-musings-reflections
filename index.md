@@ -7,7 +7,7 @@ students or other people.  Some are rants about topics I'm passionate
 about.  Some are explanations of how I approach the world.  Some are
 just my attempts to think through a topic.
 
-Latest essay (#91): [Mastering Grinnell](mastering-grinnell.html)
+Latest essay (#92): [Web Accessibility](web-accessibility.html)
 
 [Essays, by number](index-by-number.html)
 
