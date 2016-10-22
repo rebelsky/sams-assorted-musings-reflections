@@ -59,3 +59,7 @@ Why Grinnell staff with Ph.D's should be allowed to teach.
 
 > Narrow and broad views of a central campus resource.
 
+[CV vs. Vita](cv-vs-vita.html) (Essay #93)
+
+> Why it bothers me when people write "vita" when they mean "CV".
+
