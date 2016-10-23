@@ -21,7 +21,13 @@ Rachel Bly '??
 Narren Brown 
 - *Forthcoming*
 
+Doug Caulkins
+- *Forthcoming*
+
 Monessa Cummins
+- *Forthcoming*
+
+Doug Cutchins
 - *Forthcoming*
 
 Jeff Dickey-Chaisins '81
@@ -46,6 +52,9 @@ Hallie Flanagan
 - *Forthcoming*
 
 Grant Gale
+- *Forthcoming*
+
+Amanda Hinchman '17
 - *Forthcoming*
 
 Harry Hopkins
@@ -75,6 +84,9 @@ Harley McIlrath
   first-gen student
 
 Sarah Purcell
+- *Forthcoming*
+
+Dave Robinsion
 - *Forthcoming*
 
 Joe Rosenfield '25

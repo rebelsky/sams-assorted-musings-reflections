@@ -65,3 +65,7 @@ Algorithmic art
 
 > What my students say about my jokes.
 
+[Is 'anal retentive' hyphenated?](anal-retentive.html) (Essay #94)
+
+> It was late, and I had to write something.  Blame my muse.
+

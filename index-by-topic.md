@@ -472,7 +472,13 @@ Rachel Bly '??
 Narren Brown 
 - *Forthcoming*
 
+Doug Caulkins
+- *Forthcoming*
+
 Monessa Cummins
+- *Forthcoming*
+
+Doug Cutchins
 - *Forthcoming*
 
 Jeff Dickey-Chaisins '81
@@ -497,6 +503,9 @@ Hallie Flanagan
 - *Forthcoming*
 
 Grant Gale
+- *Forthcoming*
+
+Amanda Hinchman '17
 - *Forthcoming*
 
 Harry Hopkins
@@ -526,6 +535,9 @@ Harley McIlrath
   first-gen student
 
 Sarah Purcell
+- *Forthcoming*
+
+Dave Robinsion
 - *Forthcoming*
 
 Joe Rosenfield '25
@@ -700,6 +712,10 @@ Algorithmic art
 [Dad jokes](dad-jokes.html) (Essay #83)
 
 > What my students say about my jokes.
+
+[Is 'anal retentive' hyphenated?](anal-retentive.html) (Essay #94)
+
+> It was late, and I had to write something.  Blame my muse.
 
 Removed
 -------
