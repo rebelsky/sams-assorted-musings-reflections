@@ -10,8 +10,9 @@ Notes:
 It appears that I've now gathered enough of an audience that I'm starting
 to get requests.  "Sam, will you write about the election?"  "Sam, will
 you write about Bob Dylan's Nobel Prize?"  "Sam, will you write about me?"
-"Sam, will you re-write your Posse essay?"  I'm now faced with an important
-question: Should I take requests?
+"Sam, will you re-write your Posse essay?"  "Sam, will you write about
+our papers getting accepted to SIGCSE [1]?"  I'm now faced with an important
+question: *Should I take requests?*
 
 Two of my favorite performers, Van Morrison and Jonathan Richman, are
 known to be relatively hostile to requests, or at least requests that
@@ -31,6 +32,12 @@ or poetry.  So why these requests?  I'm not sure.
 It may be dangerous to write about political stuff.  FIRE
 
 ---
+
+[1] More precisely, the SIGCSE [2] Symposium on Computer Science Education.
+
+[2] SIGCSE stands for "Special Interest Group in Computer Science
+Education".  It holds an annual refereed conference on computer science
+education.
 
 [1] As he's aged, Morrision seems more willing to sing "Brown Eyed Girl".
 And as he's aged, Richman seems more willing to embrace the early Modern
