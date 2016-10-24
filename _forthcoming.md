@@ -94,6 +94,8 @@ to surveys from the Dean, ...)
 
 1. Dumb Things I do: CS Alumni Mailing List
 
+1. I've become my mother (articles).
+
 1. Outlook.
 
 1. Jeff Dickey-Chaisins (Grinnellians).  (Write soon, though.)
@@ -114,6 +116,12 @@ to surveys from the Dean, ...)
 revisited.)
 
 1. Feeling fortunate, revisited.
+
+1. Thinking the best of others, revisited.
+
+1. Convocation, revisited.  (Some others share my opinions.  Others
+do not.  That's not surprising.  I still think we should have weekly
+convocation.  Here's a plan for doing so.)
 
 1. Why a good CS education includes much more than CS (for current students).
 
@@ -150,8 +158,6 @@ the US in the world.)
 1. The legendary yearbook (Grinnell)
 
 1. Jon Svetkey (Reviews)
-
-1. I've become my mother (articles).
 
 1. Righteous anger. (important issues)
 
@@ -245,6 +251,8 @@ institutional values (or vice versa)?
 Dodge Dart.)
 
 1. George Drake.  (Include the two things he's done that irk me.)
+
+1. Facebook.
 
 ---
 
