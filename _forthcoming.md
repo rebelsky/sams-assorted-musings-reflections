@@ -1,47 +1,9 @@
 Some forthcoming essays
 =======================
 
-Numbering
-
-* 2016-10-28: Number 100 
-* 2016-10-31: Numbers 103 (Three Months) and 104 (The Tigger Suit) 
-* 2016-11-01: Number 105 (A Month of Grinnellians) 
-* 2016-11-11: November 11 (Excuse the interruption, but November 11 is
-  speical)
-
-----
-
-Notes
-
-* *Note: Move end of month to last day and comment.*
-* *Note: Try to have about one hundred forthcoming topics at all times,
-  at least until I reach the three-hundred essays month.*
-* *Note: When I have writer's block, I should pick ten of the topics
-  below and write an essay about what I plan to write for those ten.  
-  There should be an
-  almost never-ending supply of that kind of essay.  Title:
-  "Things I plan to write about (Part of a continuing series.)"*
-* *Note: At some point, I might consider top-ten lists.  Maybe a month
-  of them.*
-* *Thinking ahead: Alternate months of assorted topics and focused
-  topics.*
-    * November: Grinnellians (mostly; I need NaNoWriMo somewhere?)
-    * December: Assorted
-    * January: C and Unix (that's right; I should write 'Don't Embarass Me')
-    * February: Assorted 
-    * March: Top-ten lists
-    * April: Assorted
-    * May: Autobiographical (?)
-    * June: Assorted
-    * July: More Grinnellians (?)
-    * August: Assorted
-    * September: The next three-hundred essays (? write one set of ten
-      topics each day)
-* *Should I do a series on "topic, revisited"?*
-
----
-
 1. On names (Misc) (SamR, S.A., Sam, Samuel) [Short!]
+
+1. Megan Goering (written; waiting to post)
 
 1. 96 Fall Break, 2016
 
@@ -67,8 +29,6 @@ reason to read the guidelines.)
 1. What we vote, what they tell us.  (Did we vote on using qualitative
 comments in faculty reviews?)
 
-1. Megan Goering (written; waiting to post)
-
 1. Gross Mindset
 
 1. Donating to Grinnell.
@@ -89,6 +49,10 @@ I seem to remember more than most people.  Or maybe I just care more.
 1. Bob Dylan wins Nobel prize.  (Mongo says "Rock n Roll. Form a band. Arts are important.  Students never know, one may win a Nobel for Rock n Roll!")
 
 1. The Tigger Suit (post on halloween).
+
+1. Indexing these pages.
+
+1. Code camp papers for SIGCSE.
 
 1. Used (pre-owned), Copied, Borrowed, Reissued: Moral and Legal issues
    in obtaining creative works.
@@ -281,3 +245,47 @@ institutional values (or vice versa)?
 Dodge Dart.)
 
 1. George Drake.  (Include the two things he's done that irk me.)
+
+---
+
+Numbering
+
+* 2016-10-28: Number 100 
+* 2016-10-31: Numbers 103 (Three Months) and 104 (The Tigger Suit) 
+* 2016-11-01: Number 105 (A Month of Grinnellians) 
+* 2016-11-11: November 11 (Excuse the interruption, but November 11 is
+  speical)
+
+----
+
+Notes
+
+* *Note: Move end of month to last day and comment.*
+* *Note: Try to have about one hundred forthcoming topics at all times,
+  at least until I reach the three-hundred essays month.*
+* *Note: When I have writer's block, I should pick ten of the topics
+  below and write an essay about what I plan to write for those ten.  
+  There should be an
+  almost never-ending supply of that kind of essay.  Title:
+  "Things I plan to write about (Part of a continuing series.)"*
+* *Note: At some point, I might consider top-ten lists.  Maybe a month
+  of them.*
+* *Thinking ahead: Alternate months of assorted topics and focused
+  topics.*
+    * November: Grinnellians (mostly; I need NaNoWriMo somewhere?)
+    * December: Assorted
+    * January: C and Unix (that's right; I should write 'Don't Embarass Me')
+    * February: Assorted 
+    * March: Top-ten lists
+    * April: Assorted
+    * May: Autobiographical (?; probably not)
+    * June: Assorted
+    * July: More Grinnellians (?)
+    * August: Assorted
+    * September: The next three-hundred essays (I'd have to write one 
+      set of ten topics each day)
+* *Should I do a series on "topic, revisited"?*
+
+---
+
+Software for indexing these pages.
