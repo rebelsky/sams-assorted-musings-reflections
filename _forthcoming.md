@@ -50,6 +50,8 @@ I seem to remember more than most people.  Or maybe I just care more.
 
 1. The Tigger Suit (post on halloween).
 
+1. Citizenship test for voting.
+
 1. Indexing these pages.
 
 1. Code camp papers for SIGCSE.
@@ -297,3 +299,10 @@ Notes
 ---
 
 Software for indexing these pages.
+
+* Strip punctuation with sed.
+* Chop into individual words.
+* Sort uniquely. [Up to now, we have one essay: How many unique words have
+  I used?]
+* Separate program that finds word in each essay.
+* Put it all together.
