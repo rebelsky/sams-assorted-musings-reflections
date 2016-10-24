@@ -33,6 +33,9 @@ Doug Cutchins
 Jeff Dickey-Chaisins '81
 - *Forthcoming*
 
+George Drake
+- *Forthcoming*
+
 Karla Erickson
 - *Forthcoming*
 
@@ -52,6 +55,9 @@ Hallie Flanagan
 - *Forthcoming*
 
 Grant Gale
+- *Forthcoming*
+
+Megan Goering '08
 - *Forthcoming*
 
 Amanda Hinchman '17
