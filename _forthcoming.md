@@ -3,11 +3,11 @@ Some forthcoming essays
 
 Numbering
 
-* 2016-10-23: Number 95 (Closing in on 100)
 * 2016-10-28: Number 100 
 * 2016-10-31: Numbers 103 (Three Months) and 104 (The Tigger Suit) 
 * 2016-11-01: Number 105 (A Month of Grinnellians) 
-* 2016-11-11: November 11
+* 2016-11-11: November 11 (Excuse the interruption, but November 11 is
+  speical)
 
 ----
 
@@ -41,25 +41,50 @@ Notes
 
 ---
 
+1. On names (Misc) (SamR, S.A., Sam, Samuel) [Short!]
+
+1. 96 Fall Break, 2016
+
+1. 97 The end of the world is nigh
+
+1. 98 Is pioneers.grinnell.edu accessible?  (Hmmm ... that's a good
+reason to read the guidelines.)
+
+1. 99 NaNoWriMo (On writing.)  
+
+1. 100 Essay 100.
+
+1. Candidate criteria
+
+1. Application for Access Computing
+
+1. Better writers than I.  (Essays on Vocation by Campbell, Skerett, and ...)
+
 1. Accessibility in Course Webs (online teaching)
 
 1. Accessibility in the College Web site.
 
-1. Is pioneers.grinnell.edu accessible?  (Hmmm ... that's a good
-reason to read the guidelines.)
-
 1. What we vote, what they tell us.  (Did we vote on using qualitative
 comments in faculty reviews?)
 
-1. Megan Goering
+1. Megan Goering (written; waiting to post)
+
+1. Gross Mindset
+
+1. Donating to Grinnell.
+
+1. Growth Mindset
 
 1. Narren Brown
 
 1. Harley McIlrath.
 
-1. Candidate criteria
-
 1. "Do you take requests?"
+
+1. Faculty nightmares
+
+1. Michelle's comment: "If other people care, they'll pick it up."  But
+I seem to remember more than most people.  Or maybe I just care more.
 
 1. Bob Dylan wins Nobel prize.  (Mongo says "Rock n Roll. Form a band. Arts are important.  Students never know, one may win a Nobel for Rock n Roll!")
 
@@ -70,13 +95,13 @@ comments in faculty reviews?)
 
 1. Family First (comment that "Family comes before students.")
 
+1. Becoming Deadwood.  (As you may know, after many years at an institution,
+some faculty become Deadwood.  The myth is that they no longer care.  I
+think the reality is somewhat more complex.  Dealing with frustration.)
+
 1. Focusing on Failure (vs Celebrating Successes)
 
-1. Being nice.  (Flowers, flasks, whatever)
-
-1. Closing in on 100.
-
-1. Essay 100.
+1. Being nice.  (Flowers, flasks, maybe these essays, whatever)
 
 1. Sleeping in. 
 
@@ -92,17 +117,13 @@ physician burnout.  For a long time, folks thought that a sense of
 accomplishment helped people cope with burnout.  It turns out that
 that's not so true.)
 
-1. PCards.
+1. PCards (Narren's done.  Time to wait for a response.)
 
 1. Nibbled to death by ducks, episode 2.
 
 1. Nibbled to death by ducks, episode 3 (the to-do list).
 
-1. Donating to Grinnell.
-
 1. Jon Strymish.
-
-1. cv-vs-vita (quote from our latest guidelines from Dean's office)
 
 1. What I write (recommendation letters, memos (lots of memos), answers
 to surveys from the Dean, ...)
@@ -160,8 +181,6 @@ the US in the world.)
 
 1. Mission Statement (Important Things; Grinnell)
 
-1. On names (Misc) (SamR, S.A., Sam, Samuel)
-
 1. SamR Recommends (aka Good Things at Grinnell)
 
 1. The legendary yearbook (Grinnell)
@@ -198,8 +217,6 @@ what courses should I take? ... plus paperwork and more)
 
 1. GrinCo, where we make you smile.
 
-1. NaNoWriMo (On writing.)  
-
 1. Telling a Story vs. Thinking about Language.  (On writing.)
 <http://www.theatlantic.com/magazine/archive/2010/08/how-to-write-in-700-easy-lessons/308043/>
 <http://www.salon.com/2010/11/02/nanowrimo/>
@@ -218,8 +235,6 @@ what courses should I take? ... plus paperwork and more)
 decade.  And it's **free**.
 
 1. The CS Commons.
-
-1. Application for Access Computing?
 
 1. Application for Google thingy?
 
@@ -258,8 +273,6 @@ institutional values (or vice versa)?
 
 1. My mentors.
 
-1. Grinnell's football team.
-
 1. Grinnell's CS curriculum (or have I written that already)?
 
 1. Television.
@@ -267,3 +280,4 @@ institutional values (or vice versa)?
 1. Lolita and the Reluctant Deubtantes.  (Don't forget to mention 
 Dodge Dart.)
 
+1. George Drake.  (Include the two things he's done that irk me.)
