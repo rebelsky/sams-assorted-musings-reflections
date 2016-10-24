@@ -57,6 +57,9 @@ Hallie Flanagan
 Grant Gale
 - *Forthcoming*
 
+Katya Gibel Mevorach
+- *Forthcoming*
+
 Megan Goering '08
 - *Forthcoming*
 
@@ -75,6 +78,9 @@ Lakesia Johnson
 Darlo Kelting
 - *Forthcoming*
 
+Glenn Leggett
+- *Forthcoming*
+
 David Lopatto
 - *Forthcoming*
 
@@ -88,6 +94,9 @@ Harley McIlrath
 
 > Art History and CS major, research assistant, SAC director,
   first-gen student
+
+Russell K. Osgood
+- *Forthcoming*
 
 Sarah Purcell
 - *Forthcoming*
@@ -104,11 +113,14 @@ Susan Sanning
 Rachel Schnepper
 - *Forthcoming*
 
+Deanna Shorb
+- *Forthcoming*
+
 Erik Simpson
 - *Forthcoming*
 
 Adrienne Squier
-- *Forthcoming
+- *Forthcoming*
 
 John David Stone
 - *Forthcoming*
