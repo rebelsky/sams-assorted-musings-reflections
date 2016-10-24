@@ -124,3 +124,4 @@ Essay #3 was about Grinnell's relationship with Posse.
 [Web Accessibility](web-accessibility.html) (Essay #92)  
 [CV vs. Vita](cv-vs-vita.html) (Essay #93)  
 [Is 'anal retentive' hyphenated?](anal-retentive.html) (Essay #94)  
+[Closing in on one-hundred essays](closing-in-on-100.html) (Essay #95)  

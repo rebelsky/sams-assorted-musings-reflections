@@ -53,3 +53,7 @@ Essays on writing, or at least on writing my essays
 
 > How I choose what to write about each day.
 
+[Closing in on one-hundred essays](closing-in-on-100.html) (Essay #95)
+
+> Getting ready for some kind of milestone (or centistone).
+

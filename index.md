@@ -7,7 +7,7 @@ students or other people.  Some are rants about topics I'm passionate
 about.  Some are explanations of how I approach the world.  Some are
 just my attempts to think through a topic.
 
-Latest essay (#94): [Is 'anal retentive' hyphenated?](anal-retentive.html)
+Latest essay (#95): [Closing in on 100 essays](closing-in-on-100.html)
 
 [Essays, by number](index-by-number.html)
 
