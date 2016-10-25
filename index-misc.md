@@ -69,3 +69,7 @@ Algorithmic art
 
 > It was late, and I had to write something.  Blame my muse.
 
+[Fall break, 2016](fall-break-2016.html) (Essay #96)
+
+> Reflections on how I spent my break.
+

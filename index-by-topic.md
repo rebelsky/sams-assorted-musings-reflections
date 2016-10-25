@@ -488,6 +488,9 @@ Doug Cutchins
 Jeff Dickey-Chaisins '81
 - *Forthcoming*
 
+George Drake
+- *Forthcoming*
+
 Karla Erickson
 - *Forthcoming*
 
@@ -509,6 +512,15 @@ Hallie Flanagan
 Grant Gale
 - *Forthcoming*
 
+Katya Gibel Mevorach
+- *Forthcoming*
+
+Megan Goering '08
+- *Forthcoming*
+
+Lexy Greenwell '15
+- *Forthcoming*
+
 Amanda Hinchman '17
 - *Forthcoming*
 
@@ -524,6 +536,9 @@ Lakesia Johnson
 Darlo Kelting
 - *Forthcoming*
 
+Glenn Leggett
+- *Forthcoming*
+
 David Lopatto
 - *Forthcoming*
 
@@ -533,10 +548,16 @@ Elaine Marzluff
 Harley McIlrath
 - *Forthcoming*
 
+Brian Mitchell
+- *Forthcoming*
+
 [Jennelle Nystrom '14](nystrom.html) (Essay #76)
 
 > Art History and CS major, research assistant, SAC director,
-  first-gen student
+  first-gen student, PM, and more.
+
+Russell K. Osgood
+- *Forthcoming*
 
 Sarah Purcell
 - *Forthcoming*
@@ -553,11 +574,14 @@ Susan Sanning
 Rachel Schnepper
 - *Forthcoming*
 
+Deanna Shorb
+- *Forthcoming*
+
 Erik Simpson
 - *Forthcoming*
 
 Adrienne Squier
-- *Forthcoming
+- *Forthcoming*
 
 John David Stone
 - *Forthcoming*
@@ -720,6 +744,10 @@ Algorithmic art
 [Is 'anal retentive' hyphenated?](anal-retentive.html) (Essay #94)
 
 > It was late, and I had to write something.  Blame my muse.
+
+[Fall break, 2016](fall-break-2016.html) (Essay #96)
+
+> Reflections on how I spent my break.
 
 Removed
 -------

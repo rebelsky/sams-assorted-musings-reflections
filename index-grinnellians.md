@@ -63,6 +63,9 @@ Katya Gibel Mevorach
 Megan Goering '08
 - *Forthcoming*
 
+Lexy Greenwell '15
+- *Forthcoming*
+
 Amanda Hinchman '17
 - *Forthcoming*
 
@@ -90,10 +93,13 @@ Elaine Marzluff
 Harley McIlrath
 - *Forthcoming*
 
+Brian Mitchell
+- *Forthcoming*
+
 [Jennelle Nystrom '14](nystrom.html) (Essay #76)
 
 > Art History and CS major, research assistant, SAC director,
-  first-gen student
+  first-gen student, PM, and more.
 
 Russell K. Osgood
 - *Forthcoming*
