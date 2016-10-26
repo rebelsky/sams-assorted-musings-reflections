@@ -97,3 +97,7 @@ Why a good computer science education includes much more than computer science
 
 > Potentially an important element of your education.
 
+[Exploring the CS major, 2016](exploring-cs-major-2016) (Essay #97)
+
+> A draft of a speech to prospective majors.
+

@@ -126,3 +126,4 @@ Essay #3 was about Grinnell's relationship with Posse.
 [Is 'anal retentive' hyphenated?](anal-retentive.html) (Essay #94)  
 [Closing in on one-hundred essays](closing-in-on-100.html) (Essay #95)  
 [Fall break, 2016](fall-break-2016.html) (Essay #96)  
+[Exploring the CS major, 2016](exploring-cs-major-2016) (Essay #97)  
