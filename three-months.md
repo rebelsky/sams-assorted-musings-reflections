@@ -14,6 +14,9 @@ in writing this next month of essays.
   main essay (usually) succeeds on its own, so I don't feel so bad about
   the random, multi-step, asides.  (Actually, I think the endnotes carry
   a lot of my 'voice', as it were.)
+* Occasionally a bit of an addiction.  "I just have to write a little
+  bit more" or "come up with another topic for next week" or "add just
+  three more endnotes".
 * Permission to write mediocre essays.  It's helpful to know that I
   have to get something out, even if it's not perfect.
     * But what I think is mediocre is not necessarily what others think
