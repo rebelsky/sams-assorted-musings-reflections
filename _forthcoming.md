@@ -3,24 +3,31 @@ Some forthcoming essays
 
 1. On names (Misc) (SamR, S.A., Sam, Samuel) [Short!]
 
-1. Megan Goering (written; waiting to post)
-
-1. 96 Fall Break, 2016
-
-1. 97 The end of the world is nigh
-
-1. 98 Is pioneers.grinnell.edu accessible?  (Hmmm ... that's a good
-reason to read the guidelines.)
-
-1. 99 NaNoWriMo (On writing.)  
+1. 99 Candidate criteria
 
 1. 100 Essay 100.
 
-1. Candidate criteria
+1. 101 Application for Access Computing
 
-1. Application for Access Computing
+1. 102 Is pioneers.grinnell.edu accessible?  (Hmmm ... that's a good
+reason to read the guidelines.)
+
+1. 102 NaNoWriMo (On writing.)  
+
+1. 103 The Tigger Suit (post on halloween)
+
+1. 104 Three Months 
+
+1. 105 A month of Grinnellians
+
+1. 106 Megan Goering (written; waiting to post)
+
+1. 107 Narren Brown (written; waiting to post)
+
+1. 108 Harley McIlrath. (written; waiting to post)
 
 1. Better writers than I.  (Essays on Vocation by Campbell, Skerett, and ...)
+(This could fit in the Grinnellians month.)
 
 1. Accessibility in Course Webs (online teaching)
 
@@ -35,10 +42,6 @@ comments in faculty reviews?)
 
 1. Growth Mindset
 
-1. Narren Brown
-
-1. Harley McIlrath.
-
 1. "Do you take requests?"
 
 1. Faculty nightmares
@@ -48,7 +51,6 @@ I seem to remember more than most people.  Or maybe I just care more.
 
 1. Bob Dylan wins Nobel prize.  (Mongo says "Rock n Roll. Form a band. Arts are important.  Students never know, one may win a Nobel for Rock n Roll!")
 
-1. The Tigger Suit (post on halloween).
 
 1. Citizenship test for voting.
 
@@ -98,7 +100,7 @@ to surveys from the Dean, ...)
 
 1. I've become my mother (articles).
 
-1. Outlook.
+1. Outlook.  (More precisely, Outlook Calendar.)
 
 1. Jeff Dickey-Chaisins (Grinnellians).  (Write soon, though.)
 
@@ -163,7 +165,8 @@ the US in the world.)
 
 1. Righteous anger. (important issues)
 
-1. Endnotes. (on writing) (Or are they footnotes)
+1. Endnotes. (on writing) (Or are they footnotes) (and am I starting to
+use them too much?) (Maybe that just goes in the four-months essay.)
 
 1. Avoiding too much writing. (on writing)
 
@@ -192,8 +195,6 @@ what courses should I take? ... plus paperwork and more)
 1. Telling a Story vs. Thinking about Language.  (On writing.)
 <http://www.theatlantic.com/magazine/archive/2010/08/how-to-write-in-700-easy-lessons/308043/>
 <http://www.salon.com/2010/11/02/nanowrimo/>
-
-1. A month of Grinnellians.  (Probably starting with essay #101 or so.)
 
 1. Missed opportunities (the book with mom)
 
@@ -255,6 +256,8 @@ Dodge Dart.)
 1. George Drake.  (Include the two things he's done that irk me.)
 
 1. Facebook.
+
+1. Mondegreen.
 
 ---
 
