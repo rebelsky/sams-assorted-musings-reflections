@@ -78,18 +78,24 @@ appropriate to their skills and interests._"
   another semester, and also mentor other students who join that project
   in that second semester.
 
-* We will expand some upper-level electives to include a 3- or 4-week 
-  module in which students either develop something new or replicate
-  an existing scholarly project.
+* Students will be able to enroll in some upper-level electives that
+  we designate as "research courses", coursese that will include a 3-
+  or 4-week module in which students either develop something new or
+  replicate an existing scholarly project.
+
+* Students will be able to contribute to a free and open-source project,
+  with associated faculty supervision.  
 
 * We will allow students to engage in "public scholarship" by writing
-  a series of public essays about computing topics.  We have not yet
-  figured out what form this model will take.
+  a series of public essays about computing topics.  
 
 I'll note that we expect that many of these opportunities will take the
 form of group projects, which we have found particularly successful in
 our department, not only because they allow students to accomplish more,
 but because they help students develop important "soft skills".
+
+For the last two models (free and open-source software and public essays),
+we are not yet sure precisely what form will be most appropriate.
 
 We discussed permitting supervised internships, which is one of the
 models we saw in some of the literature that the Dean's office provided.
@@ -161,4 +167,4 @@ However, it appears that Celtically is not regularly used.
 
 ---
 
-*Version 1.0.1 of 2016-10-28.*
+*Version 1.0.2 of 2016-10-28.*
