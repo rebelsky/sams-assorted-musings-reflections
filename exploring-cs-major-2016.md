@@ -142,8 +142,8 @@ program will finish or run forever?"
 
 To study these, and other issues in computer science, you need appropriate
 mathematical background, including the ability to construct proofs.
-We require either MAT 218, Combinatorics, or MAT/CSC 208, Discrete
-Structures, to help you develop that ability.
+We require either MAT 218 (Various Titles) or MAT/CSC 208 (Discrete
+Structures), to help you develop that ability.
 
 We know that students are better served if they have some understanding
 of what's happening "under the hood".  Hence, we require that students
@@ -173,4 +173,4 @@ Again, feel free to talk to any of us if you have more questions.
 
 ---
 
-*Version 1.0 of 2016-10-25.*
+*Version 1.0.1 of 2016-10-26.*
