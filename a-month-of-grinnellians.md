@@ -16,9 +16,10 @@ former), some staff (present and former), and maybe even some students.
 
 I think this will be an opportunity to challenge myself as a writer.
 Profiles are not something I regularly write.  The few I've written were
-harder than I expected.
+harder than I expected.  I will also likely have fewer opportunities for
+"I'm too tired to writing anything long" essays.  But we'll see.
 
-My writing schedule may be a little bit off this month, since I do 
+My writing schedule may also be a little bit off this month, since I do 
 consider it appropriate to check in with a subject [13] before posting
 what I've written about him, her, zir, or them.  Of course, I think
 that applies primarily to living, non-public figures.  I can probably
