@@ -8,6 +8,10 @@ in writing this next month of essays.
 * Don't write better, but possibly write faster.  Maybe even type
   faster.  (Michelle's comment: "You wouldn't write nearly as much
   if you didn't type as fast as you do.")
+* Endnotes (or are they footnotes?).  Sometimes I get a bit carried away
+  with them.  But the main essay (usually) succeeds on its own, so I don't
+  feel so bad about the random, multi-step, asides.  (Actually, I think
+  the endnotes carry a lot of my 'voice', as it were.)
 * Permission to write mediocre essays.  It's helpful to know that I
   have to get something out, even if it's not perfect.
     * But what I think is mediocre is not necessarily what others think
