@@ -72,6 +72,9 @@ Amanda Hinchman '17
 Harry Hopkins
 - *Forthcoming*
 
+Kate Ingersoll 
+- *Forthcoming*
+
 Jen Jacobsen
 - *Forthcoming*
 
