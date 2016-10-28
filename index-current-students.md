@@ -69,6 +69,11 @@ On advising at Grinnell
   some preliminary thoughts on what the goal means and how we might meet
   that goal.
 
+[Notes for a talk on "Scholarship Opportunities for All" in Computer Science](scholarship-for-all-panel.html) (Essay #99)
+
+> A followup to the previous essay, intended as a speech for a panel on
+  a Faculty Friday.
+
 Why a good computer science education includes much more than computer science
 - *Forthcoming*
 
