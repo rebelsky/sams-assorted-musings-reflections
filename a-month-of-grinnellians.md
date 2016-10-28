@@ -38,6 +38,12 @@ let me know and I'll add you or them to the list [18].
 
 ---
 
+Note: I do have one or two planned essays for the month that won't be
+about Grinnellians.  As you saw [yesterday](tigger-suit.html), some days
+of the year just call for particular essays.
+
+---
+
 [1] I'm pretty sure it's "free rein" and not "free reign" [2,7] or "free rain".
 
 [2] Yay for the Silent G!  If Tom Lehrer [3] were still alive [4], maybe
