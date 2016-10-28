@@ -40,3 +40,8 @@ Bleh.
 
 "Let someone else take care of it."  It seems so easy to say.  But what
 if everyone felt that way?
+
+---
+
+Surprisingly, when I sent followup notes on many of these issues, I
+discovered that people had paid attention to my earlier comments.
