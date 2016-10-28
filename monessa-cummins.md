@@ -25,3 +25,4 @@ Generous towards CS students.
 Joy in sitting on Wilson with her.  Fun to pick apart sentence structure
 and style.  
 
+One of only three or so people I allow to call me "Sammy" (or is it "Sammie"?)
