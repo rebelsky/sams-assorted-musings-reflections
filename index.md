@@ -7,7 +7,7 @@ students or other people.  Some are rants about topics I'm passionate
 about.  Some are explanations of how I approach the world.  Some are
 just my attempts to think through a topic.
 
-Latest essay (#97): [Exploring the CS major, 2016](exploring-cs-major-2016.html)
+Latest essay (#98): [The end of the world is nigh](cubs.html)
 
 [Essays, by number](index-by-number.html)
 

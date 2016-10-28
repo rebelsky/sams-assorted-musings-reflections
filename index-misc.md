@@ -73,3 +73,7 @@ Algorithmic art
 
 > Reflections on how I spent my break.
 
+[The end of the world is nigh](cubs.html) (Essay #97)
+
+> Reflections on the Cubbies presence in the World Series.
+

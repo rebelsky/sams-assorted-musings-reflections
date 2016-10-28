@@ -531,6 +531,9 @@ Amanda Hinchman '17
 Harry Hopkins
 - *Forthcoming*
 
+Kate Ingersoll 
+- *Forthcoming*
+
 Jen Jacobsen
 - *Forthcoming*
 
@@ -752,6 +755,10 @@ Algorithmic art
 [Fall break, 2016](fall-break-2016.html) (Essay #96)
 
 > Reflections on how I spent my break.
+
+[The end of the world is nigh](cubs.html) (Essay #97)
+
+> Reflections on the Cubbies presence in the World Series.
 
 Removed
 -------
