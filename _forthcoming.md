@@ -277,7 +277,7 @@ Notes
 * *Note: Try to have about one hundred forthcoming topics at all times,
   at least until I reach the three-hundred essays month.*
 * *Note: When I have writer's block, I should pick ten of the topics
-  below and write an essay about what I plan to write for those ten.  
+  above and write an essay about what I plan to write for those ten.  
   There should be an
   almost never-ending supply of that kind of essay.  Title:
   "Things I plan to write about (Part of a continuing series.)"*
@@ -295,8 +295,11 @@ Notes
     * June: Assorted
     * July: More Grinnellians (?)
     * August: Assorted
-    * September: The next three-hundred essays (I'd have to write one 
-      set of ten topics each day)
+    * September: Planning ihree-hundred more essays (I'd have to write one 
+      set of ten topics each day; that could be an interesting challenge)
+    * October: Assorted
+    * November: The not-so-great, excessively end-noted, American novel.
+      (A novel as a series of essays.)
 * *Should I do a series on "topic, revisited"?*
 
 ---
