@@ -30,10 +30,12 @@ in writing this next month of essays.
   three months and more than one-hundred essays, I now have a list of 
   more than 100 remaining topics, along with a list of Grinnellians.
 * Getting contacted by a student who needed help.
+* Haven't deleted an essay since #3.  But do need to revisit topics.
 * Revisiting topics.
     * Should restore some version of the Posse essay.
     * Less good experiences suggest that I may have to revisit the
-      changing Grinnell essay.
+      changing Grinnell essay.  (Of course, getting ready to write about
+      MC reminds me that the College has always done some pretty crappy things.)
 
 ---
 
