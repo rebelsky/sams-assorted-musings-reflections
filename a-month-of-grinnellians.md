@@ -75,8 +75,9 @@ over the decision as to what I write about.
 form, so it's not clear what pronoun is appropriate.  However, I believe
 the muses are traditionally considered female, so I use a female pronoun.
 
-[9] National Novel Writing Month, for those of you who haven't been
-paying attention.
+[9] National Novel Writing Month, which was on my agenda for these past
+few days before it got co-opted by my dual essays on
+[software for reporting sexual assault](software-for-reporting-sexual-assault.html) and [Doug Cutchins' essay](doug-cutchins-essay.html).
 
 [10] Although, now that I think about it, a novel in the form of a series
 of essays by a curmudgeonly faculty might be an interesting idea.  But
