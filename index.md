@@ -7,7 +7,8 @@ students or other people.  Some are rants about topics I'm passionate
 about.  Some are explanations of how I approach the world.  Some are
 just my attempts to think through a topic.
 
-Latest essay (#99): [Notes for a talk on "Scholarship Opportunities for All" in Computer Science](scholarship-for-all-panel.html)
+Latest essays: [Software for reporting sexual assault](software-for-reporting-sexual-assault.html) (#101)
+and [Doug Cutchins' Essay](doug-cutchins-essay.html) (#102).
 
 [Essays, by number](index-by-number.html)
 

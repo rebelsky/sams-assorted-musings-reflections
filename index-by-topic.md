@@ -60,6 +60,10 @@ Essays on writing, or at least on writing my essays
 
 > Getting ready for some kind of milestone (or centistone).
 
+[My one-hundredth essay of the day](essay-100.html) (Essay #100)
+
+> Self-evident.
+
 For prospective students, parents of prospective students, and others with similar interests
 --------------------------------------------------------------------------------------------
 
@@ -357,6 +361,16 @@ Why Grinnell staff with Ph.D's should be allowed to teach.
 
 > Why it bothers me when people write "vita" when they mean "CV".
 
+[Software for reporting sexual assault](software-for-reporting-sexual-assault.html) (Essay #101)
+
+> Frustrations with yet another piece of software on campus, one that
+  is particularly important to get right.
+
+[Doug Cutchins' Essay](doug-cutchins-essay.html) (#102)
+
+> Much-too defensive (or offensive) responses to an essay by a friend 
+  and valued former colleague.
+
 Assorted talks and speeches
 ---------------------------
 
@@ -486,6 +500,9 @@ Narren Brown
 - *Forthcoming*
 
 Doug Caulkins
+- *Forthcoming*
+
+Blake Creasey
 - *Forthcoming*
 
 Monessa Cummins

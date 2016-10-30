@@ -63,3 +63,13 @@ Why Grinnell staff with Ph.D's should be allowed to teach.
 
 > Why it bothers me when people write "vita" when they mean "CV".
 
+[Software for reporting sexual assault](software-for-reporting-sexual-assault.html) (Essay #101)
+
+> Frustrations with yet another piece of software on campus, one that
+  is particularly important to get right.
+
+[Doug Cutchins' Essay](doug-cutchins-essay.html) (#102)
+
+> Much-too defensive (or offensive) responses to an essay by a friend 
+  and valued former colleague.
+

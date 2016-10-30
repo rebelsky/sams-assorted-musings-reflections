@@ -57,3 +57,7 @@ Essays on writing, or at least on writing my essays
 
 > Getting ready for some kind of milestone (or centistone).
 
+[My one-hundredth essay of the day](essay-100.html) (Essay #100)
+
+> Self-evident.
+
