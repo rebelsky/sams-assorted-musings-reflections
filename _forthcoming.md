@@ -3,20 +3,11 @@ Some forthcoming essays
 
 1. On names (Misc) (SamR, S.A., Sam, Samuel) [Short!]
 
-1. 99 Candidate criteria
+1. 103 Application for Access Computing
 
-1. 100 Essay 100.
+1. 104 The Tigger Suit (post on halloween)
 
-1. 101 Application for Access Computing
-
-1. 102 Is pioneers.grinnell.edu accessible?  (Hmmm ... that's a good
-reason to read the guidelines.)
-
-1. 102 NaNoWriMo (On writing.)  
-
-1. 103 The Tigger Suit (post on halloween)
-
-1. 104 Three Months 
+1. 104 Three Months (also post on halloween)
 
 1. 105 A month of Grinnellians
 
@@ -28,6 +19,13 @@ reason to read the guidelines.)
 
 1. Better writers than I.  (Essays on Vocation by Campbell, Skerett, and ...)
 (This could fit in the Grinnellians month.)
+
+1. Candidate criteria
+
+1. Is pioneers.grinnell.edu accessible?  (Hmmm ... that's a good
+reason to read the guidelines.)
+
+1. NaNoWriMo (On writing.)  
 
 1. Accessibility in Course Webs (online teaching)
 
@@ -72,6 +70,10 @@ think the reality is somewhat more complex.  Dealing with frustration.)
 1. Being nice.  (Flowers, flasks, maybe these essays, whatever)
 
 1. Sleeping in. 
+
+1. The Varsity Athlete/Other Student divide.
+
+1. Should Grinnell be tuition free?
 
 1. Questbridge
 
@@ -197,6 +199,8 @@ what courses should I take? ... plus paperwork and more)
 <http://www.salon.com/2010/11/02/nanowrimo/>
 
 1. Missed opportunities (the book with mom)
+
+1. Missed opportnities again (the Joe stories).
 
 1. Sleep cycles.
 
