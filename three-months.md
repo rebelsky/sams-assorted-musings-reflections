@@ -7,13 +7,17 @@ in writing this next month of essays.
 
 * Don't write better, but possibly write faster.  Maybe even type
   faster.  (Michelle's comment: "You wouldn't write nearly as much
-  if you didn't type as fast as you do.")
+  if you didn't type as fast as you do.") (I wonder if I'd be even
+  faster if I used a clicky keyboard.)
 * Endnotes (or are they footnotes?).  Sometimes I get a bit carried away
   with them, as you've seen recently, and will probably see in tomorrow's
   essay [sketched, and already has way too many digressions].  But the
   main essay (usually) succeeds on its own, so I don't feel so bad about
   the random, multi-step, asides.  (Actually, I think the endnotes carry
   a lot of my 'voice', as it were.)
+* Get joy from it.  Think more carefully about issues in the main text
+  and make bad jokes in the footnotes (or is that vice versa?).  Also
+  my general joy of creating.
 * Occasionally a bit of an addiction.  "I just have to write a little
   bit more" or "come up with another topic for next week" or "add just
   three more endnotes".
@@ -26,7 +30,6 @@ in writing this next month of essays.
 * Keep myself in a bit more control (is that about ranting or about
   the amount I write).
 * Reflect better on some issues.  
-* Sometimes makes me happier.  
 * Better at letting the essay choose me. [Probably covered.]  
 * Learning more about my audience.  Not many people click the "Like" button
   on Facebook, but I do seem to have a variety of readers.  Strange when
