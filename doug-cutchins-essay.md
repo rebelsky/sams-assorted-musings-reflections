@@ -30,7 +30,7 @@ But he's being pretty inflammatory.  My sons who attend Grinnell are
 angry.  And, as both a parent of Grinnell males and a faculty member
 at Grinnell, I think I owe my sons and the broader community a response
 from my perspective.  And, as is the norm, I'm using the essay as a
-way to think through some issuesI.  I'll admit that I thought I'd be
+way to think through some issues.  I'll admit that I thought I'd be
 defending Cutchins to my sons.  However, as I write the essay, I find
 I'm defending males to Cutchins.
 
@@ -38,7 +38,7 @@ I'm defending males to Cutchins.
 
 Cutchins opens with a challenge.
 
-> It’s hard to encapsulate Grinnell in a short, pithy way, or define
+> It's hard to encapsulate Grinnell in a short, pithy way, or define
 what the world would be missing if Grinnell disappeared.  What is Grinnell
 doing that Oberlin, Macalester, or Carleton are not?
 
@@ -46,15 +46,15 @@ I think I can answer that.
 
 > Grinnell is one of the few places in the country where talented domestic
 students can get a top-notch liberal arts education in a diverse community
-of students irrespective of their ability to afford such an education.
+of students irrespective of their ability to pay for such an education.
 Grinnell also builds strong citizens by giving students significant
 control over their college experience, control exemplified by both the
 individually mentored curriculum and principles of self governance.
 
-For the first issue, as far as I know, none of those three peers come
-close to our support for low-SES [2] students.  And, as I've heard from
-visiting college counselors, Grinnell really is more diverse than it's
-peers.
+What do I mean by that?  For the first issue, as far as I know, none of
+those three peers come close to our support for low-SES [2] students.
+And, as I've heard from visiting college counselors, Grinnell really is
+more diverse than it's peers.
 
 For the second, the difference in student roles is exemplified by a
 simple comparison: Both Mac and Grinnell have startup weekends.  At Mac,
@@ -132,8 +132,8 @@ encourage Grinnellians who might not otherwise serve to serve.
 Do I know that the evidence suggests that most elite colleges are more
 selective in the women they accept than the men they accept?  Yes,
 I've heard that regularly, and I believe that it's true in some ways.
-(What I understand is that the range of acceptable scores on standardized
-tests goes a bit lower for men than it does for women.)  I don't know
+What I understand is that the range of acceptable scores on standardized
+tests goes a bit lower for men than it does for women.  I don't know
 if that holds at Grinnell.  But, even if it does, I do think that we
 benefit from a mixture of students.  If, as I'd argue, we should look at
 other issues than GPA or scores when "shaping" a class to ensure that we
@@ -165,7 +165,7 @@ like a gender balance?  Perhaps.
 But you know what?  The author links to the data.  So let's 
 [look at Grinnell's data](https://nces.ed.gov/collegenavigator/?q=Grinnell&s=all&id=153384).  Grinnell had 6,414 total applicants, 3,009 of whom seemed
 to self identify as male, and 3,405 who seemed to self-identify as
-female [7].  We admitted 24% of males and 25% of males.  We yielded
+female [7].  We admitted 24% of males and 25% of females.  We yielded
 28% of admitted males and 28% of admitted females.
 
 Sorry Doug; it doens't look like Grinnell has a different acceptance
@@ -254,42 +254,62 @@ does to ensure that it includes racial diversity.
 
 I do like Mark Schneider's suggestion that we go tuition free.  (Given that
 we are already giving average financial aid of about $45K/year, that's not
-a big stretch.)  Now *that* would be a courageous transformation.
+a big stretch.)  Now *that* would be a courageous transformation.  It
+also seems to be a good subject for a future essay.  I wonder if I can
+find Mark's original proposal?
 
 ---
 
-Now that I've responded defensively to Doug's essay, what do I now think?
-I'm bothered that I feel so defensive.  I'm surprised that Doug seems so
-extreme in how he presents things.  And that's not the Doug I know.  So,
-what's up?
+Now that I've responded defensively to Doug's essay, what do I discover
+that I really think?  I'm bothered that I feel so defensive.  Doug is
+clearly good at pushing my buttons (and, clearly, others' buttons).
+
+I'm surprised that Doug seems so extreme in how he presents things.
+And that's not the Doug I know.  So, what's up?
 
 One possibility: Someone hacked Doug's account.  I don't think that's
 likely.
 
-Another possibility: Doug is completely serious.  Maybe some things happened
-that really set him off.  It sounds like some of these issues have been
-on his mind for years, and so perhaps he reached a tipping point.  Maybe
-that tipping point was the treatment of a student or students he knows.
-Maybe it's him thinking about his children.  I'm not sure.
+Another possibility: Doug is completely serious.  Maybe some things
+happened that really set him off.  It sounds like some of these
+issues have been on his mind for years, and so perhaps he reached a
+tipping point.  Maybe that tipping point was the treatment of a student
+or students he knows.  Maybe it's him thinking about his children.
+I'm not sure.
 
 A third possibility: Doug is confused at what day of the year it is,
 and this is an April Fool's essay.  Certainly, that's implied by some
 statements like "Especially when men are already lifted up and given
 unfair advantages by our patriarchal society, what on earth could be a
 reasonable excuse for why male Grinnellians are performing so poorly?"
-Or perhaps he's just satirizing a certain kind of essay.
+Or perhaps he's become a Trump supporter and he's satirizing feminists.
+
+A fourth possibility: Doug is offended by Raynard's original question,
+and is suggesting that if we have to make Grinnell into something
+totally unique, we'll be going off track.
 
 A final possibility: By being this extreme, Doug is challenging us to
 think about our values more deeply.  Why would we want to keep men,
 even if we see that men are less successful than women?  As we make
-arguments for that, we might also be making arguments for keeping other
-groups who are sometimes less "successful" than other groups.  I know
-that he's challenged me to think more about how I view the kinds of
-statistics we regularly use [12].  And, as I noted above, I do appreciate
-the challenge to think outside the box about Grinnell.
+arguments for that, we might also be making arguments for keeping
+other groups who are sometimes less "successful" than other groups.
+I know that he's challenged me to think more about how I view the
+kinds of statistics we regularly use [12].  And, as I noted above,
+I do appreciate the challenge to think outside the box about Grinnell.
 
-Will Doug tell us more about what he was thinking?  I hope so.  In the
-mean time, he's inspired me to write a few more essays.
+Will Doug tell us more about what he was thinking?  I hope so.  
+
+---
+
+Was this a useful essay for me to write?  I'm not sure.  I feel strange
+about being so defensive.  I don't feel like I've responded properly to
+what I hope are Doug's challenges to think outside the box.  On the other
+hand, I have identified what I most value about Grinnell (three things:
+diversity, need-blind admissions plus meeting full demonstrated need,
+the hybrid of open curriculum and self gov).  Still, I don't feel good.
+I prefer either the joy of a really positive essay or the righteous
+anger that comes from a rant.  This essay gives me neither.  Oh well.
+In the mean time, he's inspired me to write a few more essays.
 
 ---
 
@@ -343,4 +363,4 @@ more deeply into the statistics I read.
 
 ---
 
-*Version 1.0 of 2016-10-29.*
+*Version 1.0.1 of 2016-10-29.*
