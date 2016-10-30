@@ -94,8 +94,8 @@ form of group projects, which we have found particularly successful in
 our department, not only because they allow students to accomplish more,
 but because they help students develop important "soft skills".
 
-For the last two models (free and open-source software and public essays),
-we are not yet sure precisely what form will be most appropriate.
+For the last two models (that is, free and open-source software and public
+essays), we are not yet sure precisely what form will be most appropriate.
 
 We discussed permitting supervised internships, which is one of the
 models we saw in some of the literature that the Dean's office provided.
