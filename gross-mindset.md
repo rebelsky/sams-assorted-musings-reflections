@@ -1,18 +1,30 @@
-Gross Mindset
-=============
+Cultivating a Gross Mindset
+===========================
 
-My colleagues in academic advising keep telling me that the faculty should
-be developing something called a "gross mindset".  I'm not quite sure
-what they mean, and I'm too lazy to look up articles or read a book,
-so I'm writing this essay to figure out the gross mindset, and how it
+*Tonight at dinner, my sons asked me what I was planning on writing
+tonight.  I think I said "Well, I'm busy.  There's a document I was supposed
+to write today that I was going to turn into an essay.  That's probably
+not going to happen.  I got really annoyed filling in some recommendation
+forms, and I might rant about that.  But I thought I'd try something 
+funny."  Middle son said something like "Don't!"  They suggested that I
+write about the Tigger outfit, but that's an essay for tomorrow.  
+So, what am I doing?  It's late, I'm tired, and I'm even more behind on
+work.  I'll just try to be funny.*
+
+My colleagues in academic advising keep telling me that the faculty
+should be helping students develop something called a "gross mindset".
+I'm not quite sure what they mean, and I'm too lazy to look up articles
+or read a book.  As is my wont, I'm writing this essay to learn more.
+In particular, I'm trying to figure out the gross mindset, and how it
 applies in different disciplines.
 
 Teaching a gross mindset in Biology seems pretty straightforward.  If a
 student says something like "Biological processes are so cool", you just
 emphasize the blood and guts.  If they think blood and guts are cool,
-you have them disect decomposing things.  If all else fails, you make
-everyone disect decomposing things, and peer pressure will win out.  You
-can also have them eat dinner with ER doctors and med students [1].
+you have them dissect decomposing things.  If all else fails, you make
+everyone dissect decomposing things. Even if they can bear the smell,
+peer pressure will win out.  Alternately, you can have them eat dinner
+with ER doctors and med students [1].
 
 In 2016, teaching a gross mindset in any foreign language seems nearly
 as straightforward.  A student might think that "It's so amazing that I
@@ -33,23 +45,33 @@ to dereference the variable, unset the signal handler, and check the
 value of the global variable."  Alternately, I could just teach them
 "[convention over configuration]<http://rubyonrails.org/doctrine/#convention-over-configuration>".
 
-Okay, maybe teaching the gross mindset isn't as hard as I think.  In
-Polisci, we can discuss the techniques that dictators use to stay in 
-power.  In Anthropology, we can discuss sacrificial rituals of ...
-In English ...  In studio art and tech theatre, we can show them accidents 
-in the shop.
+Okay, maybe teaching the gross mindset isn't as hard as I think.
+In Polisci, we can discuss the techniques that dictators use to stay in
+power.  In Anthropology, we can discuss sacrificial rituals of certain
+civilizations.  In English, we can insist upon a prescriptive approach
+rather than a descriptive approach [5].  Alternately we can teach [_fill
+in your most despised literary theory_].  In studio art and tech theatre,
+we can show them accidents in the shop.
 
 Math may be the easiest.  "Why am I learning math?  Math is gross."
-"Right!" [5]
+"Right!" [6]
 
 Physics seems similarly easy.  "You do realize that Physics is just math,
-don't you?"  "Gross!" [6]
+don't you?"  "Gross!" [7]
 
-Yup, I think I can do it.  I can teach the gross mindset and help others
-do so, too.  Whaddaya know?  I can develop new skills and approaches.
+What's left?  Psychology?  Have them replicate the Stanford
+Prison Experiment.  Music?  Make them play the Hurdy Gurdy.
+Education? Standardized testing.  Film studies?  _Un Chien Andalou_.
+Philosophy?  Ayn Rand.  American Studies?  The 2016 Presidential Race.
+
+Yup, I think I can do it.  I can teach the gross mindset.  Whaddaya know?
+I may be an old faculty member, but I can develop new skills and
+approaches and maybe even help my students do so, too.
 
 What?  They said I should teach students a [growth
-mindset](growth-mindset.html)?  Nevermind.
+mindset](growth-mindset.html)?  
+
+Nevermind.  
 
 ---
 
@@ -66,10 +88,12 @@ my own opinions on our soon-to-be-great nation.
 sense to you.  If you are [Ian Atha](ian-atha.html), it may bring back
 terrifying memories.
 
-[5] As a former mathematics major, I can tell you that math is awesome.
+[5] Or vice versa.
 
-[6] While Physics is just math, the appropriate response is "awesome!"
+[6] As a former mathematics major, I can tell you that math is awesome.
+
+[7] While Physics is just math, the appropriate response is "awesome!"
 
 ---
 
-*Version 0.1 of 2016-10-22.*
+*Version 1.0 of 2016-10-30.*
