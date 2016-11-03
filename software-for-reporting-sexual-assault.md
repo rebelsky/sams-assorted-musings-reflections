@@ -45,11 +45,14 @@ we can do a match test, and they stay anonymous.  Now, that's not quite
 the same thing as "Don't submit my report unless there's a match",
 but it's something.  So I decided to look further.
 
-As far as I can tell, EthicsPoint was designed primarily by HR
-Professionals and Lawyers rather than by actual caring human beings.
-That is, its job is to get facts down for instances in which we might
-decide to terminate someone, or be in legal danger, or whatever.  Would I
-use it to report sexual assault?  Well, let's see ...
+EthicsPoint is our software system for anonymous reporting.  (There are
+many other mechanisms for reporting; this one is intended to make it
+possible for students to report anonymously.)  As far as I can tell,
+EthicsPoint was designed primarily by HR Professionals and Lawyers
+rather than by actual caring human beings.  That is, its job is to get
+facts down for instances in which we might decide to terminate someone,
+or be in legal danger, or whatever.  Would I use it to anonymously report
+sexual assault?  Well, let's see ...
 
 ---
 
@@ -135,7 +138,8 @@ here will be restricted by EthicsPoint from access to this reported
 information._  That makes almost sense.
 
 _Is management aware of this problem?_ Why is that relevant?  At this
-point, my preferred reaction is **Who gives a fuck?**  I'm done.
+point, my preferred reaction is **Who gives a fuck?**  I'm done [4].
+
 
 ---
 
@@ -159,7 +163,7 @@ sexual assault.  A few links later, and we're back on EthicsPoint.
 At that point, they wanted to give up.  I suggested that they click
 "Make a Report".  They then followed similar steps to the ones I followed
 (although with fewer comments along the way).  And yes, like me, they said
-"At this point, I'd just give up and not report [4]."
+"At this point, I'd just give up and not report [5]."
 
 ---
 
@@ -180,14 +184,14 @@ Let's see what other institutions do.  A quick Web search for "EthicsPoint
 report sexual assault" brings up links to reporting mechanisms for the
 following institutions:
 [Amherst](https://secure.ethicspoint.com/domain/media/en/gui/35638/index.html),
-[Grinnell](https://secure.ethicspoint.com/domain/media/en/gui/38209/index.html) [5],
-[University of Maryland](https://secure.ethicspoint.com/domain/media/en/gui/28588/index.html) [6],
-[Drake](https://secure.ethicspoint.com/domain/media/en/gui/24191/) [7,8],
-[Ball State](https://cms.bsu.edu/about/administrativeoffices/legal/ethicspoint-reporting/ethicspoint-reporting-guidelines) [9],
-[The Citadel](http://www.citadel.edu/root/compliance-ethicspoint) [10,11],
+[Grinnell](https://secure.ethicspoint.com/domain/media/en/gui/38209/index.html) [6],
+[University of Maryland](https://secure.ethicspoint.com/domain/media/en/gui/28588/index.html) [7],
+[Drake](https://secure.ethicspoint.com/domain/media/en/gui/24191/) [8,9],
+[Ball State](https://cms.bsu.edu/about/administrativeoffices/legal/ethicspoint-reporting/ethicspoint-reporting-guidelines) [10],
+[The Citadel](http://www.citadel.edu/root/compliance-ethicspoint) [12,13],
 [Santa Clara University](https://www.scu.edu/wellness/resources-for-students/sexual-assault/how-to-report/),
 [Saint Francis University](https://www.francis.edu/Titleix-Reporting/),
-[University of South Florida](http://www.usf.edu/diversity/title-ix/reporting.aspx) [12],
+[University of South Florida](http://www.usf.edu/diversity/title-ix/reporting.aspx) [14],
 and many more.  We're not alone in choosing EthicsPoint for reporting
 of sexual assault.  I suppose that it's a "Best Practice".
 
@@ -248,7 +252,7 @@ it provides useful information along the way, such as what evidence to
 preserve and how to preserve it.  They do not assume a gender binary;
 most questions that ask about gender include "man, woman, genderqueer,
 etc."  And, from what I can tell, each question is also well designed.
-Here are some examples [13],
+Here are some examples [15],
 
 > What happened, in your own words?  Recalling what happened can be tough.
   Visit Support Services (link opens in a new window) for suggestions for
@@ -271,10 +275,11 @@ and not just because I'm obligated to do so.
 
 ---
 
-Does that mean I think we should ditch EthicsPoint for Callisto?  No.  I
-agree with our Title IX coordinator that we have some responsibility for
-ensuring long-term storage of reports.  However, Callisto claims to be
-open source.  In particular, the [main Callisto page](https://github.com/SexualHealthInnovations/callisto-core) says
+Does that mean I think we should ditch EthicsPoint for Callisto?
+No.  I agree with our Title IX coordinator that we have some
+responsibility for ensuring long-term storage of reports.  However,
+Callisto claims to be open source.  In particular, the [main Callisto
+page](https://github.com/SexualHealthInnovations/callisto-core) says
 
 > We are working to bring Callisto to every school in the country,
 and the code is [open
@@ -283,24 +288,23 @@ encourage further innovation in the space.
 
 My quick glance at the link suggests that it's the core data management
 part of Callisto, and not the full program (which would include the UI,
-the questions, and more).
-I'll try to look further in the future.
+the questions, and more). I'll try to look further in the future.
 
 ---
 
-I started this essay by saying that I couldn't help ranting.  In case you
-couldn't tell, the rant is not about any person.  Rather, it is that we
-rely on something as unsupportive as EthicsPoint for our students to
-report sexual assault.  I don't care whether or not it's a best practice;
-it doesn't seem to be a good system.
+I started this essay by saying that I couldn't help ranting.  In case
+you couldn't tell, the rant is not about any person.  Rather, it is that
+we rely on something that feels as unsupportive as EthicsPoint for our
+students to anonymously report sexual assault.  I don't care whether or
+not it's a best practice; it doesn't seem to be a good system.
 
 So, what next?  I'll probably share this essay, or a variant of this
 essay, with our Title IX coordinator.  I'll probably hire a research
 student to set up an installation of Callisto, just so we can see whether
 we can run it independently and what it's like to use and manage.
-Maybe I should also hire a student to see what research there is on
-*real* best practices - what practices do other institutions use, and
-what evidence is there that the practices do what they hope they would do
+I should talk to Jen Jacobsen on what research there is on *real*
+best practices - what practices do other institutions use, and what
+evidence is there that the practices do what they hope they would do
 (encourage victim/survivors to record their experiences and, eventually,
 to report).  There's almost certainly a really important HCI study there,
 but its design is complex and subtle enough that it should be left to
@@ -308,11 +312,13 @@ the hands of professionals.
 
 ---
 
-Finally, if you've been assaulted, please (a) [get
-support](http://www.grinnell.edu/campus-life/sexual-respect/support-resources);
-(b) record as much information as you comfortably can (even if you
-don't plan to report now, you may eventually) [14]; (c) consider reporting
-the assault; and (d) consider speaking to our Title IX officer.
+Finally, if you've been assaulted, please (a) [**get
+support**](http://www.grinnell.edu/campus-life/sexual-respect/support-resources);
+(b) record as much information as you comfortably can (even if you don't
+plan to report now, you may eventually) [16]; (c) collect evidience,
+if you are comfortable doing so, (d) consider reporting the assault
+(anonymously, if necessary, even using EthicsPoint); and (e) consider
+speaking to our Title IX officer.
 
 ---
 
@@ -324,47 +330,55 @@ believe their use in this essay constitutes fair use.
 
 [3] All caps in original.
 
-[4] I said something a little less polite.  Same general concept,
+[4] I've talked to one of our Title IX team.  It appears that, in spite
+of my criticisms, students *do* use EthicsPoint for reporting of sexual
+assault.
+
+[5] I said something a little less polite.  Same general concept,
 though.
 
-[5] I assume Grinnell is near the top because I'm searching from near
+[6] I assume Grinnell is near the top because I'm searching from near
 Grinnell.
 
-[6] That page does not list sexual assault.  A search of
+[7] That page does not list sexual assault.  A search of
 "University of Maryland Report Sexual Assault" brings up [a separate
 page](https://cm.maxient.com/reportingform.php?UnivofMarylandOCRSM&layout_id=1)
 that seems focused on sexual harassment, including sexual assault.
 However that page also says "**PLEASE NOTE**: Your name and email address
 are required."
 
-[7] Drake is near Grinnell.  I assume that puts it higher in the rankings.
+[8] Drake is near Grinnell.  I assume that puts it higher in the rankings.
 
-[8] The Drake reporting page puts "sexual assault" on the first page.
+[9] The Drake reporting page puts "sexual assault" on the first page.
 However, it does bring us to a form incredibly similar to Grinnell's
 EthicsPoint page.
 
-[9] Another one that doesn't include sexual assault on the main
+[10] Another one that doesn't include sexual assault on the main
 EthicsPoint page.  A search for "Ball State report sexual assault"
 shows me [this page](http://cms.bsu.edu/campuslife/healthsafety/sexual-assault-prevention/get-help/report-an-incident) as the most likely place.
 However, it does not seem to provide a link to the EthicsPoint page.
-Interesting.
+Interesting [11].
 
-[10] The Citadel also lists "Chain of Command" as a way of reporting
+[11] A student tells me that Ball State seems to use 
+[Silent Witness](https://bsu.qualtrics.com/jfe5/form/SV_emV34M9jkvmmSpf).
+
+[12] The Citadel also lists "Chain of Command" as a way of reporting
 sexual assault.  Definitely a different culture.
 
-[11] While "sexual assault" does not appear on the list of issue to
+[13] While "sexual assault" does not appear on the list of issue to
 report, "sexual violence" does.
 
-[12] Another one that doesn't seem to list sexual assault, even moving
+[14] Another one that doesn't seem to list sexual assault, even moving
 deeper into the hierarchy.
 
-[13] I expect that these are copyright by Callisto or Pomona.  However,
+[15] I expect that these are copyright by Callisto or Pomona.  However,
 given the lack of policies, it's hard to tell.  In any case, I believe
 my use in this essay constitutes fair use.
 
-[14] If you know how to use encryption software, I would encourage you to
+[16] If you know how to use encryption software, I would encourage you to
 encrypt the report too.
 
 ---
 
-*Version 1.0 of 2016-10-29.*
+*Version 1.1 of 2016-11-02.*
+
