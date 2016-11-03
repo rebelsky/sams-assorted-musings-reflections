@@ -54,7 +54,7 @@ individually mentored curriculum and principles of self governance.
 What do I mean by that?  For the first issue, as far as I know, none of
 those three peers come close to our support for low-SES [2] students.
 And, as I've heard from visiting college counselors, Grinnell really is
-more diverse than it's peers.
+more diverse than its peers.
 
 For the second, the difference in student roles is exemplified by a
 simple comparison: Both Mac and Grinnell have startup weekends.  At Mac,
@@ -313,6 +313,29 @@ In the mean time, he's inspired me to write a few more essays.
 
 ---
 
+Followup: Doug wrote [a followup essay](http://www.dougcutchins.com/single-post/2016/10/30/Continuing-the-conversation) in which he says 
+
+> There have been several calls, both public and private, for me to explain myself and the essay further, specifically to state whether I intended it to be taken at face value or as satire. 
+
+> Given the range of reactions, for me to continue to center my opinion by "explaining what I meant" would be to stifle the re-emergence of an important and wider conversation about access and support that I urge the Grinnell community to continue.
+
+Of course, that answer explains very well what he intended, as does the
+end of the followup.  
+
+> I would hope that this essay ultimately awakens and continues several important conversations in the Grinnell community:
+
+> How does Grinnell define its values?  How are those values revealed in the student body?
+
+> How do we decide who gets to join this community and who is excluded?  What are the values that go into those decisions?  What measures do we use to make such decisions, and do those measures reflect our values?  
+
+> What is the college’s responsibility for measuring success among students, and how should it do so?  How does Grinnell know if it is accomplishing what it has set out to do and is fulfilling its values?
+
+> What are the appropriate institutional support mechanisms that Grinnell needs to have in place to help students be successful?  How much do those differ from student to student?  To what extent is Grinnell meeting its obligations to its students?  What is the appropriate reaction if Grinnell discovers it is not adequately supporting some students?
+
+Thanks Doug [13]!
+
+---
+
 [1] Yes, Cutchins does accept that there is not just a gender binary.
 
 [2] Socio-economic status, for those who don't know that TLA.
@@ -361,6 +384,8 @@ campus.
 [12] Of course, that's not really anything new.  I always try to dig
 more deeply into the statistics I read.
 
+[13] And I still hope you'll post the original followup you intended.
+
 ---
 
-*Version 1.0.1 of 2016-10-29.*
+*Version 1.1.1 of 2016-10-30.*
