@@ -16,17 +16,17 @@ of the kinds of people that current students (and likely other alums)
 will benefit from knowing.  She's brilliant, thoughtful, caring, and
 able to make a difference.  
 
-I think I've had three significant interactions with Megan since she
-graduated.  A few years ago, she visited my "Learning from CS Alumni"
+I've had about three significant interactions with Megan since she
+graduated.  One: A few years ago, she visited my "Learning from CS Alumni"
 (LFA) class.  Although she took only one CS course at Grinnell [1],
 she ended up with a fairly upper-level position at Google.  Since she
 was going to be on campus anyway, and I knew about her through other
-alums, I invited her to visit.  About three years ago, when we were
-revisiting the design and purpose of the Wilson Program, and Megan was
-one of the alums that were invited back for the retreat to discuss it.
-And a few weeks ago, she visited LFA again.  We've also had more casual
-interactions, or at least I think we have, but those three encounters
-really leave a huge impression on me.
+alums, I invited her to visit that class.  Two: About three years ago,
+when we were revisiting the design and purpose of the Wilson Program,
+and Megan was one of the alums that were invited back for the retreat to
+discuss it.  Three: A few weeks ago, she visited LFA again.  We've also
+had more casual interactions, or at least I think we have, but those
+three encounters really leave a huge impression on me.
 
 For the first visit to LFA, Megan did a lot of planning. She asked
 students to do a bit of homework (although I don't remember what it was)
@@ -44,16 +44,17 @@ wanted to be doing in six months to a year, and how she was building
 pathways to make sure that she reached that point [2].  She was both 
 inspirational and easy to interact with.
 
-Megan also seemed to do a lot of planning for this visit, which we did
-via Skype rather than in person.  Again, she asked the students to do
-some homework, and send her some notes.  Not all did, and we also had some
-guests, so she asked each student to say a bit about themselves.  And then
-she challenged each student to say more.  "Is there anything you don't get
-sick of?"  "What are you nerding around with?"  "Is there a moment from
-(the thing you love) that stands out?"  After hearing from each student,
-she'd then come up with a great, pithy, one-sentence description of
-something that student might pursue.    I loved seeing how she mixed
-challenge, praise, and advice as she interacted with each student.
+Megan also seemed to do a lot of planning for the visit of a few weeks
+ago, a visit that we did via Skype rather than in person.  Again,
+she asked the students to do some homework, and send her some notes.
+Not all did, and we also had some guests, so she asked each student to
+say a bit about themselves.  And then she challenged each student to
+say more.  "Is there anything you don't get sick of?"  "What are you
+nerding around with?"  "Is there a moment from (the thing you love)
+that stands out?"  After hearing from each student, she'd then come up
+with a great, pithy, one-sentence description of something that student
+might pursue.    I loved seeing how she mixed challenge, praise, and
+advice as she interacted with each student.
 
 Once again, Megan spent most of the time talking about her life story
 (one that is much more complex now) and answering questions.  This time,
@@ -65,29 +66,33 @@ as good when I write it like that.)  And she did a great job of talking
 about the risks she took.
 
 I very much appreciate one of the greatest risks that Megan took, and
-that risk was coming to Grinnell.  Why was that a risk?  Not because
-she wasn't smart enough for Grinnell.  Not that she wasn't hard working
-enough for Grinnell.  But that Grinnell was a huge financial stretch
+that risk was coming to Grinnell.  Why was that a risk?  Not because she
+wasn't smart enough for Grinnell.  Not because she wasn't hard working
+enough for Grinnell.  But because Grinnell was a huge financial stretch
 for her family.  I believe she graduated Grinnell with about three
 times the current average debt at graduation, and she graduated almost
-a decade ago.  That's a lot of debt.    Having that much debt dictated
+a decade ago.  That's a lot of debt. Having that much debt dictated
 many of her choices for the first years after Grinnell, and she was very
 open about how it dictated her choices.
 
-What other risks did she talk about?  Well, she said that her favorite
-class at Grinnell was Calculus, which she thought she could avoid
-because of Grinnell's legendary "open" curriculum, but which her advisor,
-the legendary [Sarah Pucell](sarah-purcell.html), strongly encouraged
-her to take.  Why was Calculus a worthwhile risk?  In part, it turns
-out she needed to demonstrate math skills in applying for many jobs.
-More importantly, because she learned that math at the college level is
-very different from math in high school, and that she actually liked math.
+What other risks did she talk about?  
 
-She applied for jobs that, at first glance, she was not qualified for.
-And she found ways to make herself appear qualified.  I hope the students
-listened carefully to her lesson about how you think through your skills
-and how you best present them to others.  (I hope that students also
-realized that if you ask nicely, she'll probably do the same.)
+Well, she said that her favorite class at Grinnell was Calculus, which she
+thought she could avoid because of Grinnell's legendary "open" curriculum,
+but which her advisor, the legendary [Sarah Pucell](sarah-purcell.html),
+strongly encouraged her to take.  Why was Calculus a worthwhile risk?
+In part, it turns out she needed to demonstrate math skills in applying
+for many jobs.  More importantly, because she learned that math at the
+college level is very different from math in high school, and that she
+actually liked math.  I take that experience as a reminder that I should
+continue to push my advisees to take courses in areas that they are not
+(yet) comfortable with.
+
+She also applied for jobs that, at first glance, she was not qualified
+for.  And she found ways to make herself appear qualified.  I hope the
+students listened carefully to her lesson about how you think through your
+skills and how you best present them to others.  (I hope that students
+also realized that if you ask nicely, she'll probably do the same.)
 
 She quit a lucrative job without knowing what she'd do next.
 
@@ -134,9 +139,9 @@ supporting each other. [3]*
 As I review this essay, I realize I've failed to capture just how awesome
 and inspiring Megan is.  As I said above, I am so impressed by how she
 interacts with others: Drawing out interests, knowledge, and skills;
-remembering key points; prodding in new directions; synthesizing
-what she's heard; and more.  Take the time to get to know Megan, and
-you'll see what I mean [4].
+remembering key points; prodding in new directions; synthesizing what
+she's heard; and more.  Take the time to get to know Megan, and you'll
+see what I mean [4].
 
 ---
 
@@ -149,3 +154,7 @@ down any more.
 
 [4] There's even a chance we'll convince her to teach a Wilson Short Course
 next year.  Cross your fingers!
+
+---
+
+*Version 1.0 of 2016-11-03.*
