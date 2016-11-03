@@ -20,28 +20,38 @@ harder than I expected.  I will also likely have fewer opportunities for
 "I'm too tired to writing anything long" essays.  But we'll see.
 
 My writing schedule may also be a little bit off this month, since I do 
-consider it appropriate to check in with a subject [13] before posting
+consider it appropriate to check in with a subject [14] before posting
 what I've written about him, her, zir, or them.  Of course, I think
 that applies primarily to living, non-public figures.  I can probably
 write anything non-libelous about public figures.  And, in all but one
 or two cases, I'm pretty sure that the non-living Grinnellians I might
-write about are public figures [14].
+write about are public figures [15].
 
-I have a *much* longer list of Grinnellians I want to write about than I
-can write about in a month.  And there are others not yet on my list.
-My muse needs some choice!  Anyway, because my muse is guiding me
-and because I'm only doing this for a month, I won't get to everyone.
-I apologize to those of you who I won't get to at this time.  Unless I
-discover that I really suck at these profiles, or my readers revolt
-[16], I'll probably do this again another month [17].  If you'd like me
-to write about you, or to write about another Grinnellian, feel free to
-let me know and I'll add you or them to the list [18].  
+I have a *much* longer list of Grinnellians I want to write about than
+I can write about in a month.  And there are others not yet on my list.
+I really do believe that my muse needs some choice!  Anyway, because
+my muse is guiding me [17] and because I'm only doing this for a month,
+I won't get to everyone.  I apologize to those of you who I won't get to
+at this time.  Unless I discover that I really suck at these profiles,
+or my readers revolt [18], I'll probably do this again another month
+[19].  If you'd like me to write about you, or to write about another
+Grinnellian, feel free to let me know and I'll add you or them to the list
+[20].
+
+In the end, I hope that, like my Tigger suit, this month of essays
+provides a net positive for myself and my community.  Introducing folks
+to important Grinnellians may provide some useful connections.  The few
+people I've written about seem to really appreciate it.  And reminding
+myself of how many awesome people I know and work with (or previously
+worked with) is good for my soul.
 
 ---
 
 Note: I do have one or two planned essays for the month that won't be
 about Grinnellians.  As you saw [yesterday](tigger-suit.html), some days
-of the year just call for particular essays.
+of the year just call for particular essays.  And, as you saw yesterday,
+I may do those as bonus essays, rather than as replacement essays.  We'll
+see how things go.
 
 ---
 
@@ -75,9 +85,11 @@ over the decision as to what I write about.
 form, so it's not clear what pronoun is appropriate.  However, I believe
 the muses are traditionally considered female, so I use a female pronoun.
 
-[9] National Novel Writing Month, which was on my agenda for these past
-few days before it got co-opted by my dual essays on
-[software for reporting sexual assault](software-for-reporting-sexual-assault.html) and [Doug Cutchins' essay](doug-cutchins-essay.html).
+[9] NaNoWriMo is National Novel Writing Month, which was on
+my agenda to write about for these past few days.  However, it
+got co-opted by my dual essays on [software for reporting sexual
+assault](software-for-reporting-sexual-assault.html) and [Doug Cutchins'
+essay](doug-cutchins-essay.html).
 
 [10] Although, now that I think about it, a novel in the form of a series
 of essays by a curmudgeonly faculty might be an interesting idea.  But
@@ -87,27 +99,32 @@ recommendation and otherwise.
 
 [11] Alternately, I could try to write a novel as a set of interlinked
 footnotes.  However, that may also have been done, and it strikes me
-that it would eventually become insanely annoying [5].
+that it would eventually become insanely annoying [12].
 
 [12] Just like these essays.
 
-[13] victim?
+[13] Endnote number 13 is once again missing.
 
-[14] I could try what some music sharing sites do: "If the subject of
+[14] victim?
+
+[15] I could try what some music sharing sites do: "If the subject of
 this essay objects to it, send me a registered letter and I will
-remove it [15]."
+remove it [16]."
 
-[15] I love the "it" at the end of that sentence.  "It" is a nice,
+[16] I love the "it" at the end of that sentence.  "It" is a nice,
 vague, pronoun.  I could, for example, remove the registered letter.
 
-[16] It feels like there's a Groucho Marx joke somewhere there.
+[17] And my muse sometimes feels a bit fickle; see the changing guidance
+on writing about NaNoWriMo described in footnote 9.
 
-[17] And another, and another, and ...
+[18] It feels like there's a Groucho Marx joke somewhere there.
 
-[18] If you *don't* want me to write about you, and you see signs that
-I'm thinking about it, let me know that, too [19].
+[19] And another, and another, and ...
 
-[19] Please consider supplementing that request with a hundred-dollar
+[20] If you *don't* want me to write about you, and you see signs that
+I'm thinking about it, let me know that, too [21].
+
+[21] Please consider supplementing that request with a hundred-dollar
 bill.
 
 ---
