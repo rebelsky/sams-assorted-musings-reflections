@@ -600,13 +600,16 @@ Brian Mitchell
 > Art History and CS major, research assistant, SAC director,
   first-gen student, PM, and more.
 
+Eryn O'Neill
+- *Forthcoming*
+
 Russell K. Osgood
 - *Forthcoming*
 
 Sarah Purcell
 - *Forthcoming*
 
-Dave Robinsion
+Dave Robinson
 - *Forthcoming*
 
 Joe Rosenfield '25
