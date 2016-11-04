@@ -56,7 +56,7 @@ the high value the department places on diversity.
 
 At some point, Narren followed this interest in supporting teaching to
 Grinnell's Center for Teaching, Learning, and Assessment (CTLA [11]),
-where he became assistant director.  In that role, Narren is
+where he became Associate Director.  In that role, Narren is
 responsible for the latest phase of my career.  In one of our many
 discussions about diversity in CS, Narren said something like: "Sam,
 if you really want to make a difference in attracting a more diverse
@@ -156,4 +156,4 @@ Grinnell.
 
 ---
 
-*Version 1.1 of 2016-11-03.*
+*Version 1.1.1 of 2016-11-04.*
