@@ -77,3 +77,11 @@ Algorithmic art
 
 > Reflections on the Cubbies presence in the World Series.
 
+[Cultivating the gross mindset](gross-mindset.html) (Essay #103)
+
+> An attempt at humor.
+
+[The Tigger suit](tigger-suit.html) (Essay #105)
+
+> A family heirloom.
+

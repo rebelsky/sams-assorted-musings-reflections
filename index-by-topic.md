@@ -35,6 +35,10 @@ Essays on writing, or at least on writing my essays
 > Reflections on my second month of writing, including an explanation of
   why this is essay #71.
 
+[A third month of essays](three-months.html) (Essay #104)
+
+> Reflections on my third month of essay writing.
+
 [On making, breaking, and remaking the habit of daily writing](habit-of-writing.html) (Essay #41)
 
 > Reflections on trying to restart these essays.
@@ -479,6 +483,12 @@ The joy of code
 Grinnellians you should know (or know about)
 --------------------------------------------
 
+[A month of Grinnellians](a-month-of-grinnellians.html) (#106)
+
+> An introduction to a series of essays on these folks.
+
+--
+
 [Sarah Anderson '98 and Donna Dralus '89](anderson-dralus.html) (Essay #61)
 
 > Campus Web gurus.
@@ -496,13 +506,14 @@ Terry Bisson '64
 Rachel Bly '??
 - *Forthcoming*
 
-Narren Brown 
-- *Forthcoming*
+[Narren Brown](narren-brown.html) (Essay #108)
+
+> Statistician, diversity consultant, generally great guy
 
 Doug Caulkins
 - *Forthcoming*
 
-Blake Creasey
+W. Blake Creasey
 - *Forthcoming*
 
 Monessa Cummins
@@ -541,7 +552,11 @@ Grant Gale
 Katya Gibel Mevorach
 - *Forthcoming*
 
-Megan Goering '08
+[Megan Goering '08](megan-goering.html) (Essay #107)
+
+> Former SGA president, innovative thinker, risk taker.
+
+Logan Goldberg '18
 - *Forthcoming*
 
 Lexy Greenwell '15
@@ -606,6 +621,9 @@ Rachel Schnepper
 Deanna Shorb
 - *Forthcoming*
 
+Karen Shuman
+- *Forthcoming*
+
 Erik Simpson
 - *Forthcoming*
 
@@ -616,6 +634,12 @@ John David Stone
 - *Forthcoming*
 
 Angie Balm Story
+- *Forthcoming*
+
+Tony Stubblebine '00
+- *Forthcoming*
+
+Rachel Swoap '19
 - *Forthcoming*
 
 Justin Thomas
@@ -781,6 +805,14 @@ Algorithmic art
 [The end of the world is nigh](cubs.html) (Essay #98)
 
 > Reflections on the Cubbies presence in the World Series.
+
+[Cultivating the gross mindset](gross-mindset.html) (Essay #103)
+
+> An attempt at humor.
+
+[The Tigger suit](tigger-suit.html) (Essay #105)
+
+> A family heirloom.
 
 Removed
 -------

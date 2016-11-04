@@ -1,6 +1,12 @@
 Grinnellians you should know (or know about)
 ============================================
 
+[A month of Grinnellians](a-month-of-grinnellians.html) (#106)
+
+> An introduction to a series of essays on these folks.
+
+--
+
 [Sarah Anderson '98 and Donna Dralus '89](anderson-dralus.html) (Essay #61)
 
 > Campus Web gurus.
@@ -18,13 +24,14 @@ Terry Bisson '64
 Rachel Bly '??
 - *Forthcoming*
 
-Narren Brown 
-- *Forthcoming*
+[Narren Brown](narren-brown.html) (Essay #108)
+
+> Statistician, diversity consultant, generally great guy
 
 Doug Caulkins
 - *Forthcoming*
 
-Blake Creasey
+W. Blake Creasey
 - *Forthcoming*
 
 Monessa Cummins
@@ -63,7 +70,11 @@ Grant Gale
 Katya Gibel Mevorach
 - *Forthcoming*
 
-Megan Goering '08
+[Megan Goering '08](megan-goering.html) (Essay #107)
+
+> Former SGA president, innovative thinker, risk taker.
+
+Logan Goldberg '18
 - *Forthcoming*
 
 Lexy Greenwell '15
@@ -128,6 +139,9 @@ Rachel Schnepper
 Deanna Shorb
 - *Forthcoming*
 
+Karen Shuman
+- *Forthcoming*
+
 Erik Simpson
 - *Forthcoming*
 
@@ -138,6 +152,12 @@ John David Stone
 - *Forthcoming*
 
 Angie Balm Story
+- *Forthcoming*
+
+Tony Stubblebine '00
+- *Forthcoming*
+
+Rachel Swoap '19
 - *Forthcoming*
 
 Justin Thomas

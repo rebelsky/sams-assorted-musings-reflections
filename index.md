@@ -7,8 +7,7 @@ students or other people.  Some are rants about topics I'm passionate
 about.  Some are explanations of how I approach the world.  Some are
 just my attempts to think through a topic.
 
-Latest essays: [Software for reporting sexual assault](software-for-reporting-sexual-assault.html) (#101)
-and [Doug Cutchins' Essay](doug-cutchins-essay.html) (#102).
+Latest essay: [Narren Brown](narren-brown.html) (#108)
 
 [Essays, by number](index-by-number.html)
 

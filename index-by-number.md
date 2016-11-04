@@ -135,3 +135,9 @@ Essay #3 was about Grinnell's relationship with Posse.
 
 [Software for reporting sexual assault](software-for-reporting-sexual-assault.html) (Essay #101)  
 [Doug Cutchins' Essay](doug-cutchins-essay.html) (#102)  
+[Cultivating the gross mindset](gross-mindset.html) (Essay #103)  
+[A third month of essays](three-months.html) (Essay #104)  
+[The Tigger suit](tigger-suit.html) (Essay #105)  
+[A month of Grinnellians](a-month-of-grinnellians.html) (#106)  
+[Megan Goering '08](megan-goering.html) (Essay #107)  
+[Narren Brown](narren-brown.html) (Essay #108)  
