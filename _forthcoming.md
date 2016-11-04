@@ -3,20 +3,6 @@ Some forthcoming essays
 
 1. On names (Misc) (SamR, S.A., Sam, Samuel) [Short!]
 
-1. 103 Application for Access Computing
-
-1. 104 The Tigger Suit (post on halloween)
-
-1. 104 Three Months (also post on halloween)
-
-1. 105 A month of Grinnellians
-
-1. 106 Megan Goering (written; waiting to post)
-
-1. 107 Narren Brown (written; waiting to post)
-
-1. 108 Harley McIlrath. (written; waiting to post)
-
 1. Better writers than I.  (Essays on Vocation by Campbell, Skerett, and ...)
 (This could fit in the Grinnellians month.)
 
@@ -25,7 +11,11 @@ Some forthcoming essays
 1. Is pioneers.grinnell.edu accessible?  (Hmmm ... that's a good
 reason to read the guidelines.)
 
+1. vi vs. emacs
+
 1. NaNoWriMo (On writing.)  
+
+1. Rating Rating Choices (Rants)
 
 1. Accessibility in Course Webs (online teaching)
 
@@ -33,8 +23,6 @@ reason to read the guidelines.)
 
 1. What we vote, what they tell us.  (Did we vote on using qualitative
 comments in faculty reviews?)
-
-1. Gross Mindset
 
 1. Donating to Grinnell.
 
@@ -263,6 +251,8 @@ Dodge Dart.)
 
 1. Mondegreen.
 
+1. CTLA.
+
 ---
 
 Numbering
@@ -289,17 +279,17 @@ Notes
   of them.*
 * *Thinking ahead: Alternate months of assorted topics and focused
   topics.*
-    * November: Grinnellians (mostly; I need NaNoWriMo somewhere?)
+    * November: Grinnellians
     * December: Assorted
     * January: C and Unix (that's right; I should write 'Don't Embarass Me')
     * February: Assorted 
-    * March: Top-ten lists
+    * March: Top-ten lists (?)
     * April: Assorted
     * May: Autobiographical (?; probably not)
     * June: Assorted
     * July: More Grinnellians (?)
     * August: Assorted
-    * September: Planning ihree-hundred more essays (I'd have to write one 
+    * September: Planning three-hundred more essays (I'd have to write one 
       set of ten topics each day; that could be an interesting challenge)
     * October: Assorted
     * November: The not-so-great, excessively end-noted, American novel.
