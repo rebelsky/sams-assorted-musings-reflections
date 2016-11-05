@@ -7,7 +7,7 @@ students or other people.  Some are rants about topics I'm passionate
 about.  Some are explanations of how I approach the world.  Some are
 just my attempts to think through a topic.
 
-Latest essay: [Narren Brown](narren-brown.html) (#108)
+Latest essay: [Monessa Cummins](monessa-cummins.html) (#109)
 
 [Essays, by number](index-by-number.html)
 

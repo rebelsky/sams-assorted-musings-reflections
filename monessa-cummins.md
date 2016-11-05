@@ -13,18 +13,18 @@ directly and indirectly from her many excellent characteristics.
 
 MC was here when I arrived at Grinnell in the fall of 1997.  I soon
 learned that she was a faculty member that students valued.  [Tony
-Stubblebine '00] told me that MC was the only reason he learned to write
-well at the College.  I also soon learned that MC was, unfortunately, a
-representative of the academic underclass.  That is, Grinnell would hire
-her to teach when we needed an extra class or two, but, even though she
-was a better teacher than most faculty, we gave her no sense of security
-of employment.  Fortunately, when Classics had its next retirement,
-MC was hired into that position [7].
+Stubblebine '00] told me that MC was the only reason he learned to
+write well at the College.  I also soon learned, to my great surprise,
+that we only gave this great teacher adjunct status.  That is, Grinnell
+would hire her to teach when we needed an extra class or two, but,
+even though she was a better teacher than most faculty, we gave her no
+sense of security of employment.  Fortunately, when Classics had its
+next retirement, MC was hired into that position.
 
 I remember two other things about MC from my early years at Grinnell.
 One was a panel on religion, in which MC (Catholic), [Katya Gibel
-Mevorach](katya-gibel-mevorach.html) [8] (Jewish), and a third faculty
-member (Protestant) talked about the ways in which their religion
+Mevorach](katya-gibel-mevorach.html) [7] (Jewish), and a third faculty
+member [8] (Protestant) talked about the ways in which their religion
 affected their vocation of teacher [9].  I will admit that although
 I think very highly of MC, her perspective did not resonate with me at
 all.  Katya, in her approach, reminded me that even though I do not
@@ -125,15 +125,15 @@ a slight resemblance to APA.  But that doesn't obviate the primary point.
 RateMyProfessors.com "top ten faculty member" award.  But Grinnellians
 knew how great she was long before RateMyProfessors figured it out.
 
-[7] It should not surprise you that she was the best candidate we found
-in a national (or perhaps international) search.
-
-[8] For the sake of accuracy, I should note that she was probably
+[7] For the sake of accuracy, I should note that she was probably
 Katya Gibel Azoulay at that time.
 
-[9] I think we either had no Muslim faculty at the time, or were not
-yet enlightened enough to consider other religions.  Alternately, I could
-be forgetting a fourth panel member.
+[8] I have no memory of who that third faculty member was.  An early reader
+of this essay tells me that it was Henry Rietz.
+
+[9] I think we either had no Muslim and Buddhist faculty at the time, or
+were not yet enlightened enough to consider other religions.  Alternately,
+I could be forgetting a fourth or fifth panel member.
 
 [10] Or perhaps just standardized testing.
 
@@ -177,11 +177,11 @@ policies and procedures, and the ways in which people at the College
 are likely to behave".
 
 [22] I think there are two other people who call me Sammy.  No, I won't
-tell you who they are.
+tell you who they are.  
 
 [23] MC, I know that you already have too many students and too many
 responsibilities.  Sorry for sending more your way.
 
 ---
 
-*Version 1.0 of 2016-11-03.*
+*Version 1.0.1 of 2016-11-04.*

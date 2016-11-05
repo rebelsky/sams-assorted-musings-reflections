@@ -516,8 +516,9 @@ Doug Caulkins
 W. Blake Creasey
 - *Forthcoming*
 
-Monessa Cummins
-- *Forthcoming*
+[Monessa Cummins](monessa-cummins.html) (Essay #109)
+
+> Outstanding teacher and colleague.
 
 Doug Cutchins
 - *Forthcoming*
@@ -535,6 +536,9 @@ David Feldman
 - *Forthcoming*
 
 Pam Ferguson
+- *Forthcoming*
+
+Susan Ferrari
 - *Forthcoming*
 
 Dan and Patricia Jipp Finkelman
@@ -580,7 +584,13 @@ Lakesia Johnson
 Darlo Kelting
 - *Forthcoming*
 
+Raynard Kington
+- *Forthcoming*
+
 Glenn Leggett
+- *Forthcoming*
+
+Laura Nelson Lof
 - *Forthcoming*
 
 David Lopatto
@@ -609,7 +619,13 @@ Russell K. Osgood
 Sarah Purcell
 - *Forthcoming*
 
+Samuel A. Rebelsky
+- *Forthcoming*
+
 Dave Robinson
+- *Forthcoming*
+
+Rachel Rose '01
 - *Forthcoming*
 
 Joe Rosenfield '25

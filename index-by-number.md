@@ -141,3 +141,4 @@ Essay #3 was about Grinnell's relationship with Posse.
 [A month of Grinnellians](a-month-of-grinnellians.html) (#106)  
 [Megan Goering '08](megan-goering.html) (Essay #107)  
 [Narren Brown](narren-brown.html) (Essay #108)  
+[Monessa Cummins](monessa-cummins.html) (Essay #109)  
