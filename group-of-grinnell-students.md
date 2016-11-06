@@ -10,14 +10,24 @@ This weekend, I accompanied [1] a group of Grinnell
 students to the [Midstates Consoritum for Math and
 Science](http://www.mathsciconsortium.org/)'s [2] annual Undergraduate
 Research Symposium in Physical Science, Mathematics, and Computer Science
-[5,7].  None of the students were CS or math majors.  I knew two of the
-students fairly well (one was a student from one of my sections of CSC
+[5,7].  None of the students were CS or math majors [8].  I knew two of the
+students moderately well (one was a student from one of my sections of CSC
 151, one was a student assistant in the Grinnell Science Project) and
 two of the students casually (one was a part of the large group that met
 at the Rebelsky household weekly for summer game night and one I think
-I know through the second-year science retreat).  But watching them at
-the symposium, and talking to them at lunch, reminds me of why I feel
-so fortunate to teach at Grinnell.  Let's look at some reasons.
+I know through the second-year science retreat).  
+
+I wasn't thrilled to come to the symposium this weekend, particularly
+given that none of my research students (in fact, none of our CS students
+whatsoever) were presenting.  I was even less thrilled because it meant
+that I had to miss middle son's concert (including his performance on 
+Jaw Harp), eldest and middle son's first swimming and diving meet of
+the year, and TEDxGrinnellCollege [9].  Would I have preferred to be
+at those events?  Definitely.  Were there positives from attending?
+Yes, there definitely were.  In particularly watching the Grinnell
+students at the symposium, and talking to them at lunch and elswehere,
+reminds me of why I feel so fortunate to teach at Grinnell.  Let's
+look at some reasons.
 
 First, and not so surprisingly, these students are strong scientists
 and their passion for science shows itself in many ways.  They've done
@@ -28,7 +38,7 @@ good questions, and that in one somewhat under-attended afternoon session,
 the three Grinnell students there all asked thoughtful questions.
 
 Second, like most Grinnell students, they are doing many things.  I know
-at least one student is a class mentor [8], a CA [9], a performer in the
+at least one student is a class mentor [10], a CA [11], a performer in the
 upcoming Drag show, and someone who is paying active attention to what
 is happening on campus. Another is a mentor, a GSP SA, a runner, and
 more.  Given all of those activities, I particularly appreciate that,
@@ -47,18 +57,18 @@ Kington's recent convocation (which many of them had already reflected
 on with others, rather than just judging), hosting prospective students,
 failures of a variety of student groups, and more.  These are students
 who not only want to make their campus a better place, but who take
-positive action to do so [10].
+positive action to do so [12].
 
 Now, I will admit that I talked to some students more than others, and
-that some students talked more than others [11].  However, each of them
+that some students talked more than others [16].  However, each of them
 reminded me, in some way or another, of something I value about teaching
 at Grinnell.
 
-I wasn't thrilled to come to the conference this weekend, particularly
-given that none of my research students (okay, none of our CS students
-whatsoever) were presenting.  I was even less thrilled because I missed
-middle son's concert (including his performance on Jaw Harp) and middle
-and eldest's swimming and diving meet.
+So, while I would have much rather watched my sons in their various
+activities (and, likely, had a bit more time to work), I did find
+some real benefit in going, both in reminding myself of how much I
+value Grinnell students and in encountering a different group of
+Grinnell students.
 
 ---
 
@@ -92,15 +102,30 @@ Chemistry, next most common was Physics, then CS, then Math.
 
 [7] There's a separate URS in the Biological and Psychological sciences.
 
-[8] The students who help out in Science classes are called "mentors"
+[8] Given that there were no CS students attending, why was I there?  Because
+Grinnell is required to send a faculty representative and, a few years ago,
+we agreed to rotate between Chemistry, Physics, and CS.  This year, it
+was CS's turn and, as chair of CS, it was my responsibility.  So I 
+accompanied five Physicists and six Chemists to the meeting.
+
+[9] Okay, the odds are that I would have missed TEDxGrinnell for the
+Swim Meeting.  HOwever, it's nice to pretend.
+
+[10] The students who help out in Science classes are called "mentors"
 because we think of them as more than just "teaching assistants".  Mentors
 not only run evening review sessions, they serve as resources for their
 students to help them think about thriving in the sciences.
 
-[9] CA = "Community Assistant", what Grinnell decided to call the Student
+[11] CA = "Community Assistant", what Grinnell decided to call the Student
 Assistants in the dorms this year.
 
-[10] Yeah, I know, this paragraph seems to abruptly switch topics midway
+[12] Yeah, I know, this paragraph seems to abruptly switch topics midway
 through.  Deal.
 
-[11] Or, conversely, that some students talked less than others.
+[13] This footnote is intentionally left blank [14,15].
+
+[14] Well, almost blank.
+
+[15] I wonder if it's time to stop the "footnote 13" joke.
+
+[16] Or, conversely, that some students talked less than others.
