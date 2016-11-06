@@ -1,9 +1,13 @@
 Grinnellians you should know (or know about)
 ============================================
 
-[A month of Grinnellians](a-month-of-grinnellians.html) (#106)
+[A month of Grinnellians](a-month-of-grinnellians.html) (Essay #106)
 
 > An introduction to a series of essays on these folks.
+
+[A group of Grinnellian students](group-of-grinnellians.html) (Essay #110)
+
+> Some students I accompanied to a science symposium.
 
 --
 
