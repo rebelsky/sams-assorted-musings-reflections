@@ -5,7 +5,7 @@ Grinnellians you should know (or know about)
 
 > An introduction to a series of essays on these folks.
 
-[A group of Grinnellian students](group-of-grinnellians.html) (Essay #110)
+[A group of Grinnell students](group-of-grinnell-students.html) (Essay #110)
 
 > Some students I accompanied to a science symposium.
 
