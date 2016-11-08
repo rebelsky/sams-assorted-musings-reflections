@@ -609,6 +609,9 @@ Harley McIlrath
 Brian Mitchell
 - *Forthcoming*
 
+John Norman '82
+- *Forthcoming*
+
 [Jennelle Nystrom '14](nystrom.html) (Essay #76)
 
 > Art History and CS major, research assistant, SAC director,
@@ -620,10 +623,16 @@ Eryn O'Neill
 Russell K. Osgood
 - *Forthcoming*
 
-Sarah Purcell
+Sarah Purcell '??
 - *Forthcoming*
 
 Samuel A. Rebelsky
+- *Forthcoming*
+
+William Rebelsky '17
+- *Forthcoming*, if he lets me
+
+Henry Rietz '??
 - *Forthcoming*
 
 Dave Robinson
@@ -651,6 +660,9 @@ Karen Shuman
 
 > Professor of English.  Digital humanist.  Acdtive faculty member.  And more.
 
+Paula Smith
+- *Forthcoming*
+
 [Adrienne Squier](adrienne-squier.html) (Essay #113)
 
 > Social media specialist and all-around great person.
@@ -662,6 +674,9 @@ Angie Balm Story
 - *Forthcoming*
 
 Tony Stubblebine '00
+- *Forthcoming*
+
+Jim Swartz
 - *Forthcoming*
 
 Rachel Swoap '19
