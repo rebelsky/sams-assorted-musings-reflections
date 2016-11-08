@@ -16,7 +16,7 @@ HEAD
 while (<STDIN>) {
   chomp;
   # If we are at the first entry in a range
-  if (m/#([0-9]+)1/) {
+  if (m/#([0-9]+)1\)/) {
     # Print the range header.
     $prefix = $1;
     $next = $prefix+1;

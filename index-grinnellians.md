@@ -1,9 +1,13 @@
 Grinnellians you should know (or know about)
 ============================================
 
-[A month of Grinnellians](a-month-of-grinnellians.html) (#106)
+[A month of Grinnellians](a-month-of-grinnellians.html) (Essay #106)
 
 > An introduction to a series of essays on these folks.
+
+[A group of Grinnell students](group-of-grinnell-students.html) (Essay #110)
+
+> Some students I accompanied to a science symposium.
 
 --
 
@@ -161,11 +165,13 @@ Deanna Shorb
 Karen Shuman
 - *Forthcoming*
 
-Erik Simpson
-- *Forthcoming*
+[Erik Simpson](erik-simpson.html) (Essay #111)
 
-Adrienne Squier
-- *Forthcoming*
+> Professor of English.  Digital humanist.  Acdtive faculty member.  And more.
+
+[Adrienne Squier](adrienne-squier.html) (Essay #113)
+
+> Social media specialist and all-around great person.
 
 John David Stone
 - *Forthcoming*

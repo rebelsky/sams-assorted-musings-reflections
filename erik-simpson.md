@@ -5,24 +5,25 @@ Grinnellians you should know (or know about): Erik Simpson
 inhabited, the confines of Grinnell College.*
 
 The other day, I was talking with a colleague about the folks on campus
-we most consider allies in the fight for something like my vision of
-Grinnell.  It's not that I don't think most folks at Grinnell want a
-great institution; it's just that I was trying to consider people with
-a particularly strong focus on that fight, in that they bring to bear
-strong institutional memory, a habit of reading all of the verbiage
-that appears on campus, and a willingness to publicly ask questions.
-When I was a young faculty member, it felt like we had a large cadre
-of senior faculty with those characteristics.  I've certainly become
-one [1,2].  But I also think that a lot of faculty have become a bit
-frustrated by issues, and either focus on particular matters or give up
-the fight altogether.  In any case, one of the names that quickly came
-to mind was Erik Simpson.  Erik is one of the faculty I consider central
-to shaping much of what I love about Grinnell.
+we most consider active allies in the fight for something like my vision
+of Grinnell.  I was trying to consider people with a particularly strong
+focus on that fight, in that they bring to bear strong institutional
+memory, a habit of reading all of the verbiage that appears on campus,
+and a willingness to publicly ask questions.  When I was a young
+faculty member, it felt like we had a large cadre of senior faculty
+with those characteristics.  I've certainly become one [1,2].  But I
+also think that a lot of faculty have become a bit frustrated by issues,
+and either focus on particular matters or give up the fight altogether.
+In any case, one of the names that quickly came to mind was Erik Simpson.
+Erik is one of the faculty I consider central to shaping much of what
+I love about Grinnell.
 
 That's probably not the best way to introduce Erik.  More precisely,
 the lead-in about those characteristics is not the best way to introduce
-Erik.  That last sentence is not only true, but an appropriate introduction.
-So let's consider why Erik is important to this College.
+Erik.  That last sentence of the first paragraph is not only true,
+but an appropriate introduction; Erik is indeed one of the faculty I
+consider central to Grinnell.  So let's consider why Erik is important
+to this institution.
 
 Erik is a professor of English.  And, in that role, he has a reputation
 as a teacher worth having.  He's thoughtful in the classroom, concerned
@@ -37,7 +38,7 @@ teacher/scholar/mentors.
 
 But Erik is so much more than that.  He's a leader on campus.  Right now,
 he is the faculty director of our joint Mellon grant with UIowa on the
-Digital Humanities.  You think that would be enough.  He's also the public
+Digital Humanities.  You think that would be enough.  He's also a public
 face of the planning committee for the new Humanities and Social Science
 Complex [3,4].  Before that, he's served on Executive Council and other
 positions I've now forgotten.  In all of my interactions with Erik on
@@ -96,8 +97,8 @@ complex" or "Dobbs" or "Fyffe" or "Ferguson" or maybe even "Simpson", just
 as people call the science center "Noyce", the arts center "Bucksbaum",
 and the physical education complex "The Bear" [5,6].
 
-[5] No, I don't know why some folks get an article before their last
-name.
+[5] No, I don't know why some buildings end up with an article before 
+their namesake.
 
 [6] Yes, I realize that all of my examples are named after donors, rather
 than influential Grinnell faculty.  But I can hope.  We do have Main
@@ -216,4 +217,4 @@ across Park.
 
 ---
 
-*Version 1.0 of 2016-11-05.*
+*Version 1.0.1 of 2016-11-06.*
