@@ -143,3 +143,8 @@ Essay #3 was about Grinnell's relationship with Posse.
 [Narren Brown](narren-brown.html) (Essay #108)  
 [Monessa Cummins](monessa-cummins.html) (Essay #109)  
 [A group of Grinnell students](group-of-grinnell-students.html) (Essay #110)  
+
+## 111-120
+
+[Erik Simpson](erik-simpson.html) (Essay #111)  
+[Assessing candidates](assessing-candidates.html) (Essay #112)  

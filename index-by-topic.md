@@ -647,8 +647,9 @@ Deanna Shorb
 Karen Shuman
 - *Forthcoming*
 
-Erik Simpson
-- *Forthcoming*
+[Erik Simpson](erik-simpson.html) (Essay #111)
+
+> Professor of English.  Digital humanist.  Acdtive faculty member.  And more.
 
 Adrienne Squier
 - *Forthcoming*
@@ -836,6 +837,10 @@ Algorithmic art
 [The Tigger suit](tigger-suit.html) (Essay #105)
 
 > A family heirloom.
+
+[Assessing candidates](assessing-candidates.html) (Essay #112)
+
+> Notes for some early-career faculty
 
 Removed
 -------

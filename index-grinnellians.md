@@ -165,8 +165,9 @@ Deanna Shorb
 Karen Shuman
 - *Forthcoming*
 
-Erik Simpson
-- *Forthcoming*
+[Erik Simpson](erik-simpson.html) (Essay #111)
+
+> Professor of English.  Digital humanist.  Acdtive faculty member.  And more.
 
 Adrienne Squier
 - *Forthcoming*

@@ -85,3 +85,7 @@ Algorithmic art
 
 > A family heirloom.
 
+[Assessing candidates](assessing-candidates.html) (Essay #112)
+
+> Notes for some early-career faculty
+

@@ -7,7 +7,8 @@ students or other people.  Some are rants about topics I'm passionate
 about.  Some are explanations of how I approach the world.  Some are
 just my attempts to think through a topic.
 
-Latest essay: [A group of Grinnell students](group-of-grinnell-students.html) (#110)
+Latest essays: [Erik Simpson](erik-simpson.html) (#111)
+[Assessing Candidates](assessing-candidates.html) (#112)
 
 [Essays, by number](index-by-number.html)
 
