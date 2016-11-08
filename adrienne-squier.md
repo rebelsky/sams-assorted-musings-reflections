@@ -82,7 +82,7 @@ have a child in school [20]."
 
 Perhaps most importantly, she was willing to wear a LOLcat mask for
 [Narren Brown](narren-brown.html)'s farewell party.  Plus, with Narren
-gone, she's one of the few people who can keep a certain inhabitant
+gone, she's one of the few people who can keep a certain denizen
 of Forum Dungeon under control.
 
 Follow Adrienne on Twitter at 
@@ -164,4 +164,4 @@ and probably something-else-ist.
 
 ---
 
-*Version 1.0.1 of 2016-11-07.*
+*Version 1.0.2 of 2016-11-08.*
