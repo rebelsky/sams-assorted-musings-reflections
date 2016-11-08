@@ -148,3 +148,4 @@ Essay #3 was about Grinnell's relationship with Posse.
 
 [Erik Simpson](erik-simpson.html) (Essay #111)  
 [Assessing candidates](assessing-candidates.html) (Essay #112)  
+[Adrienne Squier](adrienne-squier.html) (Essay #113)  

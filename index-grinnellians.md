@@ -169,8 +169,9 @@ Karen Shuman
 
 > Professor of English.  Digital humanist.  Acdtive faculty member.  And more.
 
-Adrienne Squier
-- *Forthcoming*
+[Adrienne Squier](adrienne-squier.html) (Essay #113)
+
+> Social media specialist and all-around great person.
 
 John David Stone
 - *Forthcoming*
