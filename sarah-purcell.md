@@ -52,10 +52,21 @@ Beyond all of that, I find Sarah someone I appreciate talking to about
 a wide variety of topics, both on campus and off.  And, if that weren't
 enough, she's also responsible for us having Ed and Mary [12] in town!
 
-This essay, like many of my profiles, is severely incomplete.  I know
-that one could easily write another dozen paragraphs on her contributes
-to Grinnell and its students.  She makes Grinnell better, in small ways
-and large.  I feel so very lucky to have her as a colleague.
+This essay, like many of my profiles, is woefully incomplete.  I know
+that one could easily write another dozen or more paragraphs on
+her contributions to the town, the College, its faculty and staff,
+and its students.  One could write about her work on the [Grinnell
+Prize](grinnell-prize.html), her husband, her other forms of scholarship,
+the other committees we serve on together, and much, much more.  But I've
+written enough.
+
+Sarah Purcell makes Grinnell better, in small ways and large.  I feel
+so very lucky to have her as a colleague.
+
+I do have one hope, though: I've been waiting nearly twenty years for
+Joe Wall's _History of Grinnell College in the 20th Century_; can I
+dare to believe that now that Sarah is L.F. Parker Chair, someone might
+encharge her with completing that work?
 
 ---
 
@@ -97,8 +108,8 @@ forgotten many of the ones that I do know.
 
 [11] Or is that supposed to be "an historian"?
 
-[12] Sarah's parents, who are awesome people.
+[12] Sarah's parents, who are awesome people.  
 
 ---
 
-*Version 1.0 of 2016-11-08.
+*Version 1.0 of 2016-11-08.*
