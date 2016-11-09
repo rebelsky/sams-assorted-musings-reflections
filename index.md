@@ -7,7 +7,8 @@ students or other people.  Some are rants about topics I'm passionate
 about.  Some are explanations of how I approach the world.  Some are
 just my attempts to think through a topic.
 
-Latest essay: [Dave Robinson](dave-robinson.html) (#114)
+Latest essays: [Dave Robinson](dave-robinson.html) (#114)
+[The Election](the-election.html) (#115)
 
 [Essays, by number](index-by-number.html)
 

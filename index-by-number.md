@@ -150,3 +150,4 @@ Essay #3 was about Grinnell's relationship with Posse.
 [Assessing candidates](assessing-candidates.html) (Essay #112)  
 [Adrienne Squier](adrienne-squier.html) (Essay #113)  
 [Dave Robinson](dave-robinson.html) (Essay #114)  
+[The election](the-election.html) (Essay #115)  

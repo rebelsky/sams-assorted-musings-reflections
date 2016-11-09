@@ -89,3 +89,7 @@ Algorithmic art
 
 > Notes for some early-career faculty
 
+[The election](the-election.html) (Essay #115)
+
+> A response to the request "Please write an essay about this year's election."
+
