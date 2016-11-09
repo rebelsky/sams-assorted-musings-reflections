@@ -623,7 +623,7 @@ Eryn O'Neill
 Russell K. Osgood
 - *Forthcoming*
 
-Sarah Purcell '??
+Sarah Purcell '92
 - *Forthcoming*
 
 Samuel A. Rebelsky
@@ -632,11 +632,12 @@ Samuel A. Rebelsky
 William Rebelsky '17
 - *Forthcoming*, if he lets me
 
-Henry Rietz '??
+Henry Rietz '89
 - *Forthcoming*
 
-Dave Robinson
-- *Forthcoming*
+[Dave Robinson](dave-robinson.html) (Essay #114)
+
+> CITO, woodworker, Ph.D. in Neuroscience (or something similar)
 
 Rachel Rose '01
 - *Forthcoming*
