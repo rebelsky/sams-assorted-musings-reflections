@@ -4,15 +4,15 @@ Grinnellians you should know (or know about): Sarah Purcell '92, L.F. Parker Pro
 *Part of an ongoing series on the people inhabit or who have inhabited this College.*
 
 When I think of "real" Grinnellians [1], one of the first names that
-comes to mind is Sarah J. Purcell, class of 1992, L.F. Parker Professor of
-History [2].  Why Sarah?  Well, I think all those suffixes should tell you
-one reason: She's a Grinnell graduate who came back and excelled in her
-faculty position.  As both graduate and faculty member, she is closely
-tied to the Grinnell culture.  She knows the history of the College,
-its students, and its possibilities.
+comes to mind is Sarah J. Purcell, class of 1992, L. F. Parker Professor
+of History [2].  Why Sarah?  Well, I think all those suffixes should tell
+you one reason: She's a Grinnell graduate who came back and excelled
+in her faculty position.  As both graduate and faculty member, she is
+closely tied to the Grinnell culture.  She knows the history of the
+College, its students, and its possibilities.
 
 I intended to write this essay right after the installation ceremony in
-which Sarah was designated L.F. Parker Professor of History.  Her speech
+which Sarah was designated L. F. Parker Professor of History.  Her speech
 in that ceremony helped show one of the reasons I think of her as a real
 Grinnellians: She was mentored or taught by the previous four holders
 of the Parker Chair [3]: Joe Wall, Al Jones, Don Smith, and V. Brown.
@@ -65,7 +65,7 @@ so very lucky to have her as a colleague.
 
 I do have one hope, though: I've been waiting nearly twenty years for
 Joe Wall's _History of Grinnell College in the 20th Century_; can I
-dare to believe that now that Sarah is L.F. Parker Chair, someone might
+dare to believe that now that Sarah is L. F. Parker Chair, someone might
 encharge her with completing that work?
 
 ---
@@ -112,4 +112,4 @@ forgotten many of the ones that I do know.
 
 ---
 
-*Version 1.0 of 2016-11-08.*
+*Version 1.0.1 of 2016-11-09.*

@@ -22,8 +22,9 @@ Grinnellians you should know (or know about)
 Toby Baratta '17
 - *Forthcoming*
 
-Terry Bisson '64
-- *Forthcoming*
+[Terry Bisson '64] (Essay #117)
+
+> Author, publisher, not-quite graduate
 
 Rachel Bly '??
 - *Forthcoming*
@@ -141,8 +142,10 @@ Eryn O'Neill
 Russell K. Osgood
 - *Forthcoming*
 
-Sarah Purcell '92
-- *Forthcoming*
+[Sarah Purcell '92](sarah-purcell.html) (Essay #116)
+
+> L. F. Parker Professor of History, Director of the Rosenfield Program,
+  "real" Grinnellian, and more.
 
 Samuel A. Rebelsky
 - *Forthcoming*

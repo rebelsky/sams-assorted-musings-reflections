@@ -7,8 +7,7 @@ students or other people.  Some are rants about topics I'm passionate
 about.  Some are explanations of how I approach the world.  Some are
 just my attempts to think through a topic.
 
-Latest essays: [Dave Robinson](dave-robinson.html) (#114)
-[The Election](the-election.html) (#115)
+Latest essays: [Terry Bisson '64](terry-bisson.html) (#117)
 
 [Essays, by number](index-by-number.html)
 

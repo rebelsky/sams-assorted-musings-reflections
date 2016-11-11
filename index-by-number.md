@@ -151,3 +151,5 @@ Essay #3 was about Grinnell's relationship with Posse.
 [Adrienne Squier](adrienne-squier.html) (Essay #113)  
 [Dave Robinson](dave-robinson.html) (Essay #114)  
 [The election](the-election.html) (Essay #115)  
+[Sarah Purcell '92](sarah-purcell.html) (Essay #116)  
+[Terry Bisson '64] (Essay #117)  
