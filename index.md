@@ -7,7 +7,7 @@ students or other people.  Some are rants about topics I'm passionate
 about.  Some are explanations of how I approach the world.  Some are
 just my attempts to think through a topic.
 
-Latest essays: [Terry Bisson '64](terry-bisson.html) (#117)
+Latest essays: [J. Harley McIlrath](j-harley-mcilrath.html) (Essay #118)
 
 [Essays, by number](index-by-number.html)
 

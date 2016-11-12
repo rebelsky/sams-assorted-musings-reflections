@@ -153,3 +153,4 @@ Essay #3 was about Grinnell's relationship with Posse.
 [The election](the-election.html) (Essay #115)  
 [Sarah Purcell '92](sarah-purcell.html) (Essay #116)  
 [Terry Bisson '64] (Essay #117)  
+[J. Harley McIlrath](j-harley-mcilrath.html) (Essay #118)  

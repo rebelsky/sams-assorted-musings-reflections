@@ -604,8 +604,9 @@ David Lopatto
 Elaine Marzluff
 - *Forthcoming*
 
-Harley McIlrath
-- *Forthcoming*
+[J. Harley McIlrath](j-harley-mcilrath.html) (Essay #118)
+
+> Bookseller, author, generally great guy
 
 Brian Mitchell
 - *Forthcoming*
