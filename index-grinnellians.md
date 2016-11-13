@@ -11,6 +11,9 @@ Grinnellians you should know (or know about)
 
 --
 
+Brandy Agerbeck '96
+*Forthcoming.*
+
 [Sarah Anderson '98 and Donna Dralus '89](anderson-dralus.html) (Essay #61)
 
 > Campus Web gurus.
@@ -92,8 +95,9 @@ Lexy Greenwell '15
 Amanda Hinchman '17
 - *Forthcoming*
 
-Harry Hopkins
-- *Forthcoming*
+[Harry Hopkins '12](harry-hopkins.html) (Essay #119)
+
+> Brash reformer.
 
 Kate Ingersoll 
 - *Forthcoming*
@@ -150,6 +154,9 @@ Russell K. Osgood
 
 Samuel A. Rebelsky
 - *Forthcoming*
+
+Jonathan B. Rebelsky '20
+- *Forthcoming*, if he lets me
 
 William Rebelsky '17
 - *Forthcoming*, if he lets me
