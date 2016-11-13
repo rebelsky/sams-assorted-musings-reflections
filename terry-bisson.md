@@ -67,6 +67,15 @@ Have fun!
 
 ---
 
+Followup: J. Harley McIlrath tells me that Bisson is finishing Joe
+Wall's _Grinnell College in the 21st Century_.  I guess that means
+that (a) [L.F. Parker Professor Sarah Purcell '92](sarah-purcell.html)
+doesn't need to do that work and (b) there's a potential chance that
+Bisson will be back on campus.  Of course, that note also reminds me
+how sad I am that we no longer have Harley in the bookstore.
+
+---
+
 [1] I'll admit that although I've heard great things about Nutting,
 _Tampa_'s theme seems way too challenging for me and her short story
 collection appears to now be collectible, so I haven't had a chance to
@@ -116,4 +125,4 @@ thirty-five years.
 
 ---
 
-*Version 1.0 of 2016-11-09.*
+*Version 1.1 of 2016-11-10.*
