@@ -12,7 +12,7 @@ Grinnellians you should know (or know about)
 --
 
 Brandy Agerbeck '96
-*Forthcoming.*
+- *Forthcoming.*
 
 [Sarah Anderson '98 and Donna Dralus '89](anderson-dralus.html) (Essay #61)
 
@@ -21,9 +21,6 @@ Brandy Agerbeck '96
 [Ian Atha '09](ian-atha.html) (Essay #58)
 
 > CS major, linguistics concentrator, entrepreneur
-
-Toby Baratta '17
-- *Forthcoming*
 
 [Terry Bisson '64] (Essay #117)
 
@@ -86,13 +83,7 @@ Katya Gibel Mevorach
 
 > Former SGA president, innovative thinker, risk taker.
 
-Logan Goldberg '18
-- *Forthcoming*
-
 Lexy Greenwell '15
-- *Forthcoming*
-
-Amanda Hinchman '17
 - *Forthcoming*
 
 [Harry Hopkins '12](harry-hopkins.html) (Essay #119)
@@ -155,12 +146,6 @@ Russell K. Osgood
 Samuel A. Rebelsky
 - *Forthcoming*
 
-Jonathan B. Rebelsky '20
-- *Forthcoming*, if he lets me
-
-William Rebelsky '17
-- *Forthcoming*, if he lets me
-
 Henry Rietz '89
 - *Forthcoming*
 
@@ -207,9 +192,6 @@ Tony Stubblebine '00
 - *Forthcoming*
 
 Jim Swartz
-- *Forthcoming*
-
-Rachel Swoap '19
 - *Forthcoming*
 
 Justin Thomas
