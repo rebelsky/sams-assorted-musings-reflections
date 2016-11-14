@@ -11,8 +11,8 @@ in Public Affairs, International Relations, and Human Right).  But
 what else do you know about him?
 
 Okay, I'll admit that I don't know a huge amount.  I do, however, know
-that someone [1] is writing a biography.  And I do probably know more than
-most of my readers.  So let's take a look.
+that someone [1] is writing a biography.  I may know more than
+some of my readers.  So let's take a look.
 
 It's obvious that Rosenfield donated a lot of money to Grinnell.
 You don't get usually get your name on the side of a building without
@@ -65,8 +65,8 @@ of person Rosenfield was.
 Joe Rosenfield was clearly a special man, one who was devoted to this
 institution I love, and one who helped it not just survive, but thrive.
 I wish I had gotten the chance to meet him.  I'm glad we honored him with
-a building, whether or not it's a tribute he would have wanted.  And I
-think of him whenever I pass by the statue at Mitigwa.  I ask that when
+a building, whether or not it's a tribute he would have wanted.  I
+think of him whenever I pass by the statue at Mitigwa [3].  I ask that when
 you benefit from a Rosenfield event, or from our endowment, think of
 Joe and say a silent thank you.
 
@@ -77,6 +77,9 @@ Joe and say a silent thank you.
 [2] You've probably realized by now that not all of my essays are a
 success.
 
+[3] When possible, I sit by the statue and just enjoy its presence
+as I think of him.
+
 ---
 
-*Version 1.0 of 2016-11-14.*
+*Version 1.0.1 of 2016-11-14.*
