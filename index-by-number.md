@@ -155,3 +155,4 @@ Essay #3 was about Grinnell's relationship with Posse.
 [Terry Bisson '64] (Essay #117)  
 [J. Harley McIlrath](j-harley-mcilrath.html) (Essay #118)  
 [Harry Hopkins '12](harry-hopkins.html) (Essay #119)  
+[Joe Rosenfield '25](joe-rosenfield.html) (Essay #120)  

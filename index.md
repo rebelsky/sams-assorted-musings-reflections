@@ -7,7 +7,7 @@ students or other people.  Some are rants about topics I'm passionate
 about.  Some are explanations of how I approach the world.  Some are
 just my attempts to think through a topic.
 
-Latest essays: [Harry Hopkins '12](harry-hopkins.html) (Essay #119)
+Latest essays: [Joe Rosenfield '25](joe-rosenfield.html) (Essay #120)
 
 [Essays, by number](index-by-number.html)
 

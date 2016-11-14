@@ -26,7 +26,7 @@ Brandy Agerbeck '96
 
 > Author, publisher, not-quite graduate
 
-Rachel Bly '??
+Rachel Bly '93
 - *Forthcoming*
 
 [Narren Brown](narren-brown.html) (Essay #108)
@@ -43,7 +43,7 @@ W. Blake Creasey
 
 > Outstanding teacher and colleague.
 
-Doug Cutchins
+Doug Cutchins '93
 - *Forthcoming*
 
 Jeff Dickey-Chaisins '81
@@ -86,6 +86,9 @@ Katya Gibel Mevorach
 Lexy Greenwell '15
 - *Forthcoming*
 
+Steve Gump
+- *Forthcoming*
+
 [Harry Hopkins '12](harry-hopkins.html) (Essay #119)
 
 > Brash reformer.
@@ -124,6 +127,9 @@ Elaine Marzluff
 Brian Mitchell
 - *Forthcoming*
 
+Wayne Moyer
+- *Forthcoming*
+
 John Norman '82
 - *Forthcoming*
 
@@ -156,8 +162,9 @@ Henry Rietz '89
 Rachel Rose '01
 - *Forthcoming*
 
-Joe Rosenfield '25
-- *Forthcoming*
+[Joe Rosenfield '25](joe-rosenfield.html) (Essay #120)
+
+> Benefactor, Scout, and more.
 
 Susan Sanning
 - *Forthcoming*

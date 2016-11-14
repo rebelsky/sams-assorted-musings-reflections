@@ -494,7 +494,7 @@ Grinnellians you should know (or know about)
 --
 
 Brandy Agerbeck '96
-*Forthcoming.*
+- *Forthcoming.*
 
 [Sarah Anderson '98 and Donna Dralus '89](anderson-dralus.html) (Essay #61)
 
@@ -504,14 +504,11 @@ Brandy Agerbeck '96
 
 > CS major, linguistics concentrator, entrepreneur
 
-Toby Baratta '17
-- *Forthcoming*
-
 [Terry Bisson '64] (Essay #117)
 
 > Author, publisher, not-quite graduate
 
-Rachel Bly '??
+Rachel Bly '93
 - *Forthcoming*
 
 [Narren Brown](narren-brown.html) (Essay #108)
@@ -528,7 +525,7 @@ W. Blake Creasey
 
 > Outstanding teacher and colleague.
 
-Doug Cutchins
+Doug Cutchins '93
 - *Forthcoming*
 
 Jeff Dickey-Chaisins '81
@@ -568,13 +565,10 @@ Katya Gibel Mevorach
 
 > Former SGA president, innovative thinker, risk taker.
 
-Logan Goldberg '18
-- *Forthcoming*
-
 Lexy Greenwell '15
 - *Forthcoming*
 
-Amanda Hinchman '17
+Steve Gump
 - *Forthcoming*
 
 [Harry Hopkins '12](harry-hopkins.html) (Essay #119)
@@ -615,6 +609,9 @@ Elaine Marzluff
 Brian Mitchell
 - *Forthcoming*
 
+Wayne Moyer
+- *Forthcoming*
+
 John Norman '82
 - *Forthcoming*
 
@@ -637,12 +634,6 @@ Russell K. Osgood
 Samuel A. Rebelsky
 - *Forthcoming*
 
-Jonathan B. Rebelsky '20
-- *Forthcoming*, if he lets me
-
-William Rebelsky '17
-- *Forthcoming*, if he lets me
-
 Henry Rietz '89
 - *Forthcoming*
 
@@ -653,8 +644,9 @@ Henry Rietz '89
 Rachel Rose '01
 - *Forthcoming*
 
-Joe Rosenfield '25
-- *Forthcoming*
+[Joe Rosenfield '25](joe-rosenfield.html) (Essay #120)
+
+> Benefactor, Scout, and more.
 
 Susan Sanning
 - *Forthcoming*
@@ -689,9 +681,6 @@ Tony Stubblebine '00
 - *Forthcoming*
 
 Jim Swartz
-- *Forthcoming*
-
-Rachel Swoap '19
 - *Forthcoming*
 
 Justin Thomas
