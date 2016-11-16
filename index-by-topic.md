@@ -525,8 +525,9 @@ W. Blake Creasey
 
 > Outstanding teacher and colleague.
 
-Doug Cutchins '93
-- *Forthcoming*
+[Doug Cutchins '93](doug-cutchins.html) (Essay #121)
+
+> Mentor, advisor, caring Grinnellian
 
 Jeff Dickey-Chaisins '81
 - *Forthcoming*
