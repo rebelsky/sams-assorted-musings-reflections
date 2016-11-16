@@ -33,8 +33,9 @@ Rachel Bly '93
 
 > Statistician, diversity consultant, generally great guy
 
-Doug Caulkins
-- *Forthcoming*
+[Doug Caulkins](doug-caulkins.html) (Essay #122)
+
+> Professor Emeritus, Anthropologist, campus innovator.
 
 W. Blake Creasey
 - *Forthcoming*
