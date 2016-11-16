@@ -6,25 +6,26 @@ our little College in the middle of the cornfields.*
 
 Doug Caulkins' title is Professor Emeritus of Anthropology at Grinnell 
 College.  That title tells you much too little about Doug, so I'm going
-to try.  I'll admit that as I sat down to write this essay, I found so
-many thoughts going through my head that organizing it was difficult;
-but I've tried.  Let's start at the present and work our ways backwards.
+to try to tell you more.  I'll admit that as I sat down to write this
+essay, I found so many thoughts going through my head that organizing
+it was difficult; but I've tried.  Let's start at the present and work
+our ways backwards.
 
 In case you didn't know, "Professor Emeritus" is a title granted to
 faculty at the end of their career, when they have supposedly retired
 from active teaching.  Doug's been Professor Emeritus for at least
 a few years.  It may therefore surprise you to hear that Doug has a
 teaching load that is nearly as high as that of most active faculty [1].
-Each year, Doug teaches about four courses for the College: Two or three
+Each year, Doug teaches about three courses for the College: Two 
 full courses on some aspect of leadership, innovation, and/or enterprise
 and one half-course in which he helps Grinnell students think about the
 career options a liberal arts degree permits.  In all of these courses,
 Doug takes advantage of Grinnell's enormous network of talented alumni
 by bringing them back to talk to and with students about the work that
 they do.  These courses are also among the most enrolled of those at
-Grinnell, sometimes attracting upwards of fifty students.  If that
-wasn't enough, Doug is more willing to teach "Plus Twos" [2] than any
-other faculty member I know of.
+Grinnell, often attracting upwards of fifty students.  If that wasn't
+enough, Doug is more willing to teach "Plus Twos" [2] than any other
+faculty member I know of.
 
 Does Doug do this for the enormous wealth it provides?  Almost certainly
 not.  He seems to accept a per-course stipend that is on par with what we
@@ -78,19 +79,29 @@ During the years in which we didn't really pay much attention to
 fundraising, Doug regularly asked "Why aren't we putting the same effort
 into fundraising that Carleton is? [8]"  And Doug was right; in the
 past decade, our large endowment has grown, but slowly.  In contrast,
-Carleton's endowment, which was comparatively modest, is now at or
-about the same level, and their trajectory is much better.  As I noted
-earlier, Doug challenged the administration on the use of Wilson funds.
-It took awhile, but it seems he finally succeeded in that.
+Carleton's endowment, which was comparatively modest, is now coming
+close to our level (I think), and their trajectory is *much* better [9].
+As I noted earlier, Doug challenged the administration on the use of
+Wilson funds.  It took awhile, but it seems he finally succeeded in that.
+
+Doug's also done a lot of things that I'm not as directly involved in,
+such as serving as one of the first Grinnell-in-London faculty and one
+of the first co-directors of the Gender and Women's Studies Program [10].
+
+But Doug does not take sole credit for these things.  In reviewing my
+essay, he found that he had to write an essay in response which he
+titled "Collaborations".  A sentence from the middle says it all:
+"I think that the emerging point is that 'better together' for me is
+less of a political slogan and more a way of life" [11].
 
 ---
 
-Doug's scholarship is also of interest.  When you think about
+You may also find Doug's scholarship of interest.  When you think about
 Anthropology, you probably think about people who study non-western
 cultures, often cultures much different than our own.  But Doug studies
 the culture of business.  Over the years, that's given him a lot of 
 interesting insights.  Given the increasing corporatization of the
-College [9], I expect that he has something valuable to contribute. 
+College [12], I expect that he has something valuable to contribute. 
 Take a moment to ask him.   
 
 If that feels too controversial, ask Doug about innovation and leadership;
@@ -103,8 +114,8 @@ your time.
 ---
 
 Doug, as I wrote this essay, I realized that I've perhaps challenged you
-a bit too much. I sincerely apologize.  *Thank you* so much for all that
-you've done and do for the College.
+a bit too much over the years. I sincerely apologize.  *Thank you*
+so much for all that you've done and do for the College.
 
 ---
 
@@ -134,10 +145,20 @@ of HPSSSTH [7].
 
 [8] Yes, Doug is a Carleton alum.
 
-[9] Some of that corporatization is required by changing policies and
+[9] Doug tells me that one of the reasons he brings alums back to the
+College to interact with students is to help build stronger connections
+with the College, connections that will pay off through greater engagement.
+
+[10] Some of that corporatization is required by changing policies and
 laws; but a lot of it may be voluntary, driven by the perspectives
 of administrators and certain trustees.
 
+[11] Caulkins, D. (2:09 p.m. CST, 15 November 2016).  Personal communication:
+Electronic mail message entiteld "Re: Sam's Blog".
+
+[12] A program which has now evolved into the Gender, Women's, and
+Sexuality Studies major.
+
 ---
 
-*Version 1.0 of 2016-11-14.*
+*Version 1.1 of 2016-11-15.*
