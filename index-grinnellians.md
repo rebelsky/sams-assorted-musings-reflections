@@ -75,8 +75,9 @@ Richard Fyffe
 Hallie Flanagan
 - *Forthcoming*
 
-Grant Gale
-- *Forthcoming*
+[Grant Gale](grant-gale.html) (Essay #123)
+
+> Physics professor, Noyce mentor, and more.
 
 Katya Gibel Mevorach
 - *Forthcoming*
