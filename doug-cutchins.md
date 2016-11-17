@@ -46,7 +46,7 @@ formerly known as "male pronoun double hockey sticks" week [12], as well
 as finals week.  Each semester, Doug organized a "You can do it" march
 during one of those two weeks.
 
-In spit of my generally combative personality, I don't think I ever
+In spite of my generally combative personality, I don't think I ever
 found fault with anything Doug did while on campus.  He was sincere
 about helping Grinnell students (both directly and indirectly), about
 making the College more socially responsible, and in supporting our
@@ -152,4 +152,4 @@ direct impact.  I sometimes wonder whether anyone ever read it.
 
 ---
 
-*Version 1.1 of 2016-11-14.*
+*Version 1.1.1 of 2016-11-16.*
