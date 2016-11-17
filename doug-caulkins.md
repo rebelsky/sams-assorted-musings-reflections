@@ -132,7 +132,7 @@ made for teaching one course at Dartmouth in 1993.
 
 [4] More on that later.
 
-[5] Yes, Doug, I know that I know you royalties.  You still haven't
+[5] Yes, Doug, I know that I owe you royalties.  You still haven't
 specified the rate.
 
 [6] Soon to be something like the concentration in Science, Technologies,
@@ -161,4 +161,4 @@ Sexuality Studies major.
 
 ---
 
-*Version 1.1 of 2016-11-15.*
+*Version 1.1.1 of 2016-11-16.*
