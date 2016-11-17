@@ -504,7 +504,7 @@ Brandy Agerbeck '96
 
 > CS major, linguistics concentrator, entrepreneur
 
-[Terry Bisson '64] (Essay #117)
+[Terry Bisson '64](terry-bisson.html) (Essay #117)
 
 > Author, publisher, not-quite graduate
 
