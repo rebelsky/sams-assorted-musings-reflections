@@ -210,8 +210,9 @@ Justin Thomas
 Angela Voos
 - *Forthcoming*
 
-Henry Walker
-- *Forthcoming*
+[Henry MacKay Walker](henry-walker.html) (Essay #124)
+
+> Mentor, architect of CS at Grinnell, educator, and beyond
 
 Tilly Woodward
 - *Forthcoming*

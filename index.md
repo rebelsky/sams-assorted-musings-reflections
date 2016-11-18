@@ -7,7 +7,7 @@ students or other people.  Some are rants about topics I'm passionate
 about.  Some are explanations of how I approach the world.  Some are
 just my attempts to think through a topic.
 
-Latest essays: [Grant Gale](grant-gale.html) (#123)
+Latest essays: [Henry MacKay Walker](henry-walker.html) (#124)
 
 [Essays, by number](index-by-number.html)
 

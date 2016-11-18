@@ -162,3 +162,4 @@ Essay #3 was about Grinnell's relationship with Posse.
 [Doug Cutchins '93](doug-cutchins.html) (Essay #121)  
 [Doug Caulkins](doug-caulkins.html) (Essay #122)  
 [Grant Gale](grant-gale.html) (Essay #123)  
+[Henry MacKay Walker](henry-walker.html) (Essay #124)  

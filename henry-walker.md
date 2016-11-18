@@ -1,4 +1,4 @@
-Grinnellians you should know (or know about): Henry Mackay Walker
+Grinnellians you should know (or know about): Henry MacKay Walker
 =================================================================
 
 *Part of an ongoing series about the people who teach and learn at
@@ -114,6 +114,11 @@ reunion is over.
 
 ---
 
+You know what?  We've been colleagues for twenty years, and I've never
+asked Henry about the MacKay part of his name.  Maybe tomorrow.
+
+---
+
 [1] Prior to ten years ago, we were a Department of Mathematics and
 Computer Science.  We split into a Department of Computer Science and
 a Department of Mathematics and Statistics.  Some time before then,
@@ -209,4 +214,4 @@ Charlie and PM), who often get stuck editing our memos.
 
 ---
 
-*Version 1.0 of 2016-11-17.*
+*Version 1.0.1 of 2016-11-17.*
