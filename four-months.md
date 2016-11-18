@@ -49,6 +49,12 @@ I posted an essay that I had written previously, and then sent out
 for approval.  But even on those nights, I wrote, because I always
 re-edited those essays [n].
 
+I'm also not sure what this month did to my audience [n].  I think some
+people are reading my essays less often, because they don't really 
+care about these profiles.  But my sense is that I've picked up a few
+readers, too.  I've had at least one student (one who I didn't
+know read my essays) ask about the profiles and how I wrote them [n].
+
 Will I continue writing profiles?  Almost certainly.  Will I do another
 month of profiles, will I mix them into my regular essays, or will I
 do both?  I'm not sure yet.  I was frustrated to have to have a more
@@ -79,8 +85,22 @@ write essays that I could post the same night.
 
 [n] And, in many cases, started the next essay.
 
+[n] I'm also not sure that I care.  At this point, I'm writing most of
+these essays primarily for me.  The occasional one that serves a
+purpose (e.g., promoting Grinnell or CS at Grinnell) gets directed
+to appropriate people at appropriate times.
+
+[n] They asked where I got the information for my profiles.  I had to
+admit that most of the information is somewhere in my head, which means
+that parts are probably fictitious, or at least not quite correct.
+But I've been at Grinnell for a long time; I do build up a fund of
+knowledge about Grinnellians.  I probably also should have mentioned
+that in some cases, I write the essays after the subjects visit my
+Learning from Alumni course, and I've managed to both learn new things
+about the person and dredge up past memories.
+
 [n] Or ten.
 
 ---
 
-*Version 1.0 of 2016-11-30.*
+*Version 0.3 of 2016-11-17.*
