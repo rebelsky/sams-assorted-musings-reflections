@@ -9,6 +9,9 @@ Grinnellians you should know (or know about)
 
 > Some students I accompanied to a science symposium.
 
+Writing about current students
+- *Forthcoming.*
+
 --
 
 Brandy Agerbeck '96
@@ -118,6 +121,9 @@ Laura Nelson Lof
 - *Forthcoming*
 
 David Lopatto
+- *Forthcoming*
+
+Lea Marolt Sonnenschein '15
 - *Forthcoming*
 
 Elaine Marzluff

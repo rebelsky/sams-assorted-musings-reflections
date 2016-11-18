@@ -1,19 +1,19 @@
 Some forthcoming essays
 =======================
 
+1. Planning the next code camps.
+
+1. Proposal for joint degree with UIowa.  (Soon!)
+
 1. On names (Misc) (SamR, S.A., Sam, Samuel) [Short!]
 
 1. Better writers than I.  (Essays on Vocation by Campbell, Skerett, and ...)
 (This could fit in the Grinnellians month.)
 
-1. Candidate criteria
-
 1. Is pioneers.grinnell.edu accessible?  (Hmmm ... that's a good
 reason to read the guidelines.)
 
 1. vi vs. emacs
-
-1. NaNoWriMo (On writing.)  
 
 1. Rating Rating Choices (Rants)
 
@@ -24,7 +24,7 @@ reason to read the guidelines.)
 1. What we vote, what they tell us.  (Did we vote on using qualitative
 comments in faculty reviews?)
 
-1. Donating to Grinnell.
+1. Donating to Grinnell.  (Why you should donate.)
 
 1. Growth Mindset
 
@@ -37,12 +37,13 @@ I seem to remember more than most people.  Or maybe I just care more.
 
 1. Bob Dylan wins Nobel prize.  (Mongo says "Rock n Roll. Form a band. Arts are important.  Students never know, one may win a Nobel for Rock n Roll!")
 
-
 1. Citizenship test for voting.
 
 1. Indexing these pages.
 
-1. Code camp papers for SIGCSE.
+1. Code camp papers for SIGCSE.  (About writing them?  Oh, yeah, about
+the weirdness of the papers getting the opposite responses that I
+expected.)
 
 1. Used (pre-owned), Copied, Borrowed, Reissued: Moral and Legal issues
    in obtaining creative works.
@@ -253,17 +254,11 @@ Dodge Dart.)
 
 1. CTLA.
 
+1. NaNoWriMo (On writing.) (Wait another year?)
+
+1. November 11th, in a year.
+
 ---
-
-Numbering
-
-* 2016-10-28: Number 100 
-* 2016-10-31: Numbers 103 (Three Months) and 104 (The Tigger Suit) 
-* 2016-11-01: Number 105 (A Month of Grinnellians) 
-* 2016-11-11: November 11 (Excuse the interruption, but November 11 is
-  speical)
-
-----
 
 Notes
 
