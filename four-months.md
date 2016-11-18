@@ -1,12 +1,11 @@
 A fourth month of daily essays
 ==============================
 
-Believe it or not, but we've reached the end of another month of
-essays.  This month was an interesting one, in that I set what feels
-like a very different kind of writing goal for myself: Instead of
-writing about issues and things, I wrote about people.  I think
-it's worth stepping back and reflecting on what I've learned in
-this month.
+Believe it or not, but we've reached the end of another month of essays.
+This month was an interesting one, in that I set what feels like a very
+different kind of writing goal for myself: Instead of writing about
+issues and things, I wrote about people.  I think it's worth stepping
+back and reflecting on what I've learned in this month.
 
 I remain frustrated that I do not write well.  By that, I mean that
 I don't feel that my writing sufficiently expresses the feelings
@@ -22,12 +21,42 @@ don't say enough.  Maybe I should spend more time reading and
 focusing much more on the style of what I read.  In any cases,
 that's certainly a subject for further exploration.
 
-I *think* my subjects appreciated the profiles.  Even if I do not
+I think my subjects appreciated the profiles.  Even if I do not
 write eloquently, I do express my care for people, and it's nice
-to feel cared about.  I also take to heart what Erik Simpson said
+to feel cared about.  I've heard a lot of thanks from my subjects
+and from others.  I also take to heart what Erik Simpson said
 about these essays ....
 
-I did miss some subjects that I planned to write about (or did I?)
+I did miss some topics that I planned to write about.  I considered
+writing about the protest issue of the _S&B_ to help myself think
+through those issues.  I may still write that.  I thought about writing
+my speech on the current status of the department.  I've given that
+already, but maybe I should still turn it into an essay.  I know that
+there were other things I thought about, and forgot to write down.
+That's frustrating.  I really do like more freedom each day.
+
+Writing the profiles also set my timing off a bit.  Since I felt that
+I generally needed permission to post essays for people I know well,
+I'd have to write those essays in advance, and then cross my fingers
+that they would approve them in a timely fashion.  That approach meant
+that I couldn't always follow my muse as directly as I'd like.  When
+I sat down to write at 9pm (or later) some nights, and my muse said
+"Write about *this person*", I'd reply, "Sorry, they won't reply tonight.
+I'll write about someone else first, and then come back for a few notes
+if there's time.  Any suggestions of someone whose permission I don't
+need?" [n]  That strategy also meant that there were nights in which
+I posted an essay that I had written previously, and then sent out
+for approval.  But even on those nights, I wrote, because I always
+re-edited those essays [n].
+
+Will I continue writing profiles?  Almost certainly.  Will I do another
+month of profiles, will I mix them into my regular essays, or will I
+do both?  I'm not sure yet.  I was frustrated to have to have a more
+limited set of things to write about, so I probably shouldn't limit
+myself so much.  But I also kind of like having a theme.  Maybe I'll
+even get decent at writing about people if I try another month [n].
+But I'll definitely insert "open writing" months in the middle, as well
+as months with other foci.
 
 ---
 
@@ -43,6 +72,14 @@ made sure that each sentence was perfect before he moved on to the next
 one.  I'm not sure that I can ever achieve that level of care, but I
 certainly could think more about each sentence before moving on to the
 next one, or go back and edit more, or whatever.
+
+[n] No, I don't really have conversations like that with my muse.
+But I did have to put off essays I wanted to write so that I could
+write essays that I could post the same night.
+
+[n] And, in many cases, started the next essay.
+
+[n] Or ten.
 
 ---
 
