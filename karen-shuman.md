@@ -1,9 +1,9 @@
 Grinnellians you should know (or know about): Karen Shuman
 ==========================================================
 
-*Part of an ongoing series about the people who teach and learn (or
-taught and learned) at Grinnell, as well as the people who help support
-that teaching and learning.*
+*Part of an ongoing series about the people who teach and learn (
+at Grinnell, as well as the man people who help support that teaching
+and learning.*
 
 You know how there are some people who you work with for a long period
 of time, and don't really think about it, and then it suddenly clicks
@@ -16,7 +16,7 @@ some useful summer research-with-students models, revise the curriculum
 of Differential Equations to include some lab exercises, find ways to
 include serious writing assignments in Calculus, and more [1].  But those
 kinds of things are the norm for Grinnell faculty [4].  Karen and I have
-also had a normal, collegial, relationship.  We talk about students,
+also had a normal, collegial, relationship.  We've talked about students,
 about curriculum, and such.
 
 In the past year or so, I've come to see Karen in a much different light.
@@ -55,11 +55,11 @@ Karen's job is particularly hard.
 As I noted in [an earlier essay](erik-simpson.html), while I am confident
 that most faculty at campus share a common vision for Grinnell, I wish
 more were actively advocating for that vision, challenging the explicit
-and implicit changes we are seeing at the College.  I am happy to be
-able to consider Karen as an active ally in this effort.  But I am
-saddened by the impact it seems to be having; there are times that she
-seems even more frustrated than I am about these issues, and I know that
-it's difficult to bear those frustrations [7].
+and implicit changes we are seeing at the College.  I am happy and
+lucky to be able to consider Karen as an active ally in this effort.
+But I am saddened by the impact it seems to be having; there are times
+that she seems even more frustrated than I am about these issues, and
+I know that it's difficult to bear those frustrations [7].
 
 I touched on this issue in the introduction, but I've been very impressed
 by the way in which Karen has tried new things in the classroom.  As I
@@ -110,4 +110,4 @@ or 6 writing assignments in a term which are somewhat shorter than the
 
 ---
 
-*Version 1.1 of 2016-11-17.*
+*Version 1.1.1 of 2016-11-17.*

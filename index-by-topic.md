@@ -491,6 +491,9 @@ Grinnellians you should know (or know about)
 
 > Some students I accompanied to a science symposium.
 
+Writing about current students
+- *Forthcoming.*
+
 --
 
 Brandy Agerbeck '96
@@ -602,6 +605,9 @@ Laura Nelson Lof
 David Lopatto
 - *Forthcoming*
 
+Lea Marolt Sonnenschein '15
+- *Forthcoming*
+
 Elaine Marzluff
 - *Forthcoming*
 
@@ -660,8 +666,9 @@ Rachel Schnepper
 Deanna Shorb
 - *Forthcoming*
 
-Karen Shuman
-- *Forthcoming*
+[Karen Shuman](karen-shuman.html) (Essay #125)
+
+> Division chair.  Ally in the fight to improve Grinnell.  Valued colleague.
 
 [Erik Simpson](erik-simpson.html) (Essay #111)
 

@@ -184,8 +184,9 @@ Rachel Schnepper
 Deanna Shorb
 - *Forthcoming*
 
-Karen Shuman
-- *Forthcoming*
+[Karen Shuman](karen-shuman.html) (Essay #125)
+
+> Division chair.  Ally in the fight to improve Grinnell.  Valued colleague.
 
 [Erik Simpson](erik-simpson.html) (Essay #111)
 
