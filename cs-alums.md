@@ -21,12 +21,13 @@ And, just like we want to hear about our children's successes and
 problems, we want to hear about yours.  So stay in touch [5].
 
 The sentiment is serious.  I care a lot about my students [6].  And so
-I remember them.  I don't remember everything.  Sometimes I even
-forget what classes they've taken from me (or even that they've taken
-classes from me).  But I tend to remember significant events, whether
-it be an internship, or an infamously snarky comment, or a really good
-presentation, or just a deep conversation.  And so I have something
-that I remember about almost every student.  It's not hard.
+I remember them, just as I remember my children.  I don't remember
+everything.  Sometimes I even forget what classes they've taken from me
+(or even that they've taken classes from me).  But I tend to remember
+significant events, whether it be an internship, or an infamously snarky
+comment, or a really good presentation, or just a deep conversation.
+And so I have something that I remember about almost every student.
+It's not hard.
 
 But this essay isn't supposed to be about me.  It's supposed to be
 about these wonderful alumni I care about.  (And some ones I did not
@@ -83,7 +84,7 @@ invitations for the awesome Gehorsam/Rose AR/VR panel [20].
 In any case, these are wonderful, awesome, people.  It's given me an
 incredibly warm feeling to see them again (and to meet some for the
 first time).  They remind me why teaching at Grinnell is an incredible
-privilege [21].
+privilege [21].  How could I not remember them?
 
 I look forward to the next CS affinity reunion [22,23].
 
@@ -179,4 +180,4 @@ enters Senior Faculty Status, after 42 years on the faculty [1,26].
 
 ---
 
-*Version 1.0 of 2016-11-19.*
+*Version 1.0.1 of 2016-11-20.*
