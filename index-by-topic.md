@@ -491,6 +491,10 @@ Grinnellians you should know (or know about)
 
 > Some students I accompanied to a science symposium.
 
+[CS Alums](cs-alums.html) (Essay #126)
+
+> Alumni back for the 2016 CS Affinity Reunion
+
 Writing about current students
 - *Forthcoming.*
 

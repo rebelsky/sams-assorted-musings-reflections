@@ -7,7 +7,7 @@ students or other people.  Some are rants about topics I'm passionate
 about.  Some are explanations of how I approach the world.  Some are
 just my attempts to think through a topic.
 
-Latest essays: [Karen Shuman](karen-shuman.html) (#125)
+Latest essays: [CS Alums](cs-alums.html) (#126)
 
 [Essays, by number](index-by-number.html)
 
