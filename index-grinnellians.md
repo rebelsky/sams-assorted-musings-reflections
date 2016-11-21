@@ -13,13 +13,19 @@ Grinnellians you should know (or know about)
 
 > Alumni back for the 2016 CS Affinity Reunion
 
+[Planning the next CS reunion](planning-the-next-cs-reunion.html) (Essay #128)
+
+> Okay, this doesn't really belong.  But it's indirectly about Grinnellians,
+  so I'm including it here.
+
 Writing about current students
 - *Forthcoming.*
 
 --
 
-Brandy Agerbeck '96
-- *Forthcoming.*
+[Brandy Agerbeck '96](brandy-agerbeck.html) (Essay #127)
+
+> Graphic facilitator.
 
 [Sarah Anderson '98 and Donna Dralus '89](anderson-dralus.html) (Essay #61)
 
@@ -116,6 +122,12 @@ Darlo Kelting
 - *Forthcoming*
 
 Raynard Kington
+- *Forthcoming*
+
+Jonathan and Cassie Koomjian
+- *Forthcoming*
+
+Terian Koscik '12
 - *Forthcoming*
 
 Glenn Leggett

@@ -165,3 +165,5 @@ Essay #3 was about Grinnell's relationship with Posse.
 [Henry MacKay Walker](henry-walker.html) (Essay #124)  
 [Karen Shuman](karen-shuman.html) (Essay #125)  
 [CS Alums](cs-alums.html) (Essay #126)  
+[Brandy Agerbeck '96](brandy-agerbeck.html) (Essay #127)  
+[Planning the next CS reunion](planning-the-next-cs-reunion.html) (Essay #128)  
