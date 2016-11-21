@@ -24,8 +24,35 @@ that's certainly a subject for further exploration.
 I think my subjects appreciated the profiles.  Even if I do not
 write eloquently, I do express my care for people, and it's nice
 to feel cared about.  I've heard a lot of thanks from my subjects
-and from others.  I also take to heart what Erik Simpson said
-about these essays ....
+and from others.  Here are a few [1].
+
+> These are such lovely things to see written about me by someone I
+respect so much, and whose work I think about all the time when trying
+to be an effective and compassionate teacher.
+
+> I appreciate your words more than I can express, and it’s humbling
+to see what you have written [n].
+
+> Wow! I sound interesting!
+
+> This makes me feel incredibly . . . loved [n]. Thank you.
+
+> That is an incredibly kind and gracious essay for you to write, and I really appreciate it.
+
+> You have inspired me to reflect on my experiences.
+
+> This is a very cool thing you're doing for the community.
+
+> I know you’re the computer whiz . . . but I’m pretty sure there’s no attached essay.
+
+> You do know that I have two children, not one, right?
+
+Okay, it's not like you really expected me to have a 100% success rate.
+
+Nonetheless, here's an important moral: *When you think good things about
+other people, and write them down, it reminds them that they are special.
+Anyone can do that.* I suggest that you try writing similar essays every
+once in a while.
 
 I did miss some topics that I planned to write about.  I considered
 writing about the protest issue of the _S&B_ to help myself think
@@ -65,6 +92,15 @@ But I'll definitely insert "open writing" months in the middle, as well
 as months with other foci.
 
 ---
+
+[n] I know that I have a responsibility to cite, but in these cases I
+think I also have a greater responsibility to preserve the confidence
+of the authors.  So, let's call them all "Anonymous (2016).  Personal
+Communication."
+
+[n] I'm humbled by all the things you do.
+
+[n] You are.
 
 [n] Or about the other things that I write about.
 
