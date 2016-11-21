@@ -65,4 +65,21 @@ Terian is, but also that I need to write.
 
 ---
 
-*Version 1.0 of 2016-11-20.*
+Terian wrote the following in response to my sending her this essay.
+
+> I would love to help out in any way that I can with supporting current
+students or in outreach! I've been emailing with ******, a current
+student who said they've been stressing out about career planning. I hope
+I made it clear to the other students who were around for my talk that
+I'm happy to talk to any of them about living in Portland or applying
+for jobs or going to conferences or whatever else. There's also been a
+distinct lack of Django Girls events in the midwest, and it's the kind
+of workshop that isn't too much trouble to set up while having a profound
+impact on everyone who participates, in my experience.
+
+So, yes, Terian, I'll try to set up a Django Girls event.  I'll probably
+contact you for guidance.  And I'll encourage students to contact you.
+
+---
+
+*Version 1.1 of 2016-11-20.*
