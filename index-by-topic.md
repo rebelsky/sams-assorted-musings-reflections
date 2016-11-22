@@ -609,8 +609,10 @@ Raynard Kington
 Jonathan and Cassie Koomjian
 - *Forthcoming*
 
-Terian Koscik '12
-- *Forthcoming*
+[Terian Koscik '12](terian-koscik.html) (Essay #129)
+
+> Artist, programmer, cartoonist, supporter of the next generation of
+  computer scientists
 
 Glenn Leggett
 - *Forthcoming*

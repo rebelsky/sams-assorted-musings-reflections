@@ -167,3 +167,4 @@ Essay #3 was about Grinnell's relationship with Posse.
 [CS Alums](cs-alums.html) (Essay #126)  
 [Brandy Agerbeck '96](brandy-agerbeck.html) (Essay #127)  
 [Planning the next CS reunion](planning-the-next-cs-reunion.html) (Essay #128)  
+[Terian Koscik '12](terian-koscik.html) (Essay #129)  

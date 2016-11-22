@@ -7,8 +7,7 @@ students or other people.  Some are rants about topics I'm passionate
 about.  Some are explanations of how I approach the world.  Some are
 just my attempts to think through a topic.
 
-Latest essays: [Brandy Agerbeck '96](brandy-agerbeck.html) (#127)
-and [Planning the next CS reunion](planning-the-next-cs-reunion.html) (#128)
+Latest essay: [Terian Koscik '12](terian-koscik.html) (#129)
 
 [Essays, by number](index-by-number.html)
 
