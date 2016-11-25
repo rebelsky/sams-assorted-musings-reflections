@@ -500,8 +500,9 @@ Grinnellians you should know (or know about)
 > Okay, this doesn't really belong.  But it's indirectly about Grinnellians,
   so I'm including it here.
 
-Writing about current students
-- *Forthcoming.*
+[Writing about current students](writing-about-current-students.html) (#130)
+
+> Or, more precisely, why I'm *not* writing about individual students.
 
 --
 
@@ -567,8 +568,10 @@ Dan and Patricia Jipp Finkelman
 Richard Fyffe
 - *Forthcoming*
 
-Hallie Flanagan
-- *Forthcoming*
+[Hallie Flanagan '11](hallie-flanagan.html) (Essay #131)
+
+> Namesake of the Flanagan Theatre; transformative member of the
+  American Theatre.
 
 [Grant Gale](grant-gale.html) (Essay #123)
 

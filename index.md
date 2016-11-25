@@ -7,7 +7,7 @@ students or other people.  Some are rants about topics I'm passionate
 about.  Some are explanations of how I approach the world.  Some are
 just my attempts to think through a topic.
 
-Latest essay: [Terian Koscik '12](terian-koscik.html) (#129)
+Latest essay: [Hallie Flanagan '11](hallie-flanagan.html) (Essay #131)
 
 [Essays, by number](index-by-number.html)
 
