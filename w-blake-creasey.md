@@ -67,8 +67,12 @@ know he learned a lot, because he spoke well about it at reunion.
 
 Blake's now gone on to consulting.  I expect his intelligence and his
 thoughtful approach to thinks will make him an excellent consultant.
-I'll miss the in-person conversations, but I look forward to the
-occasional email with his careful reflections.
+I've left out a lot about the various conversations we've had, and we've
+had a lot of them.  But I think this essay covers the high points.  I'm
+sure I'll get a thoughtful reply.  I'll miss the in-person conversations,
+but I look forward to the occasional email with his careful reflections.
+And I can't wait to hear his reflections in five years when he returns for
+the next CS reunion.
 
 ---
 
@@ -109,7 +113,8 @@ of having us host.  And I'm trying to get the College to fund it all.
 
 [11] Platform as a Service, like Heroku.
 
+[12] Or ten years, depending on what DAR permits.
 
 ---
 
-*Version 1.0 of 2016-11-26.*
+*Version 1.0.1 of 2016-11-26.*
