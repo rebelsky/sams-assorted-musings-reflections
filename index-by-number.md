@@ -168,8 +168,10 @@ Essay #3 was about Grinnell's relationship with Posse.
 [Brandy Agerbeck '96](brandy-agerbeck.html) (Essay #127)  
 [Planning the next CS reunion](planning-the-next-cs-reunion.html) (Essay #128)  
 [Terian Koscik '12](terian-koscik.html) (Essay #129)  
-[Writing about current students](writing-about-current-students.html) (#130)  
+[Writing about current students](writing-about-current-students.html) (Essay #130)  
 
 ## 131-140
 
 [Hallie Flanagan '11](hallie-flanagan.html) (Essay #131)  
+[Thanksgiving 2016](thanksgiving-2016.html) (Essay #132)  
+[John David Stone](john-david-stone.html) (Essay #133)  

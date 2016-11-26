@@ -7,7 +7,7 @@ students or other people.  Some are rants about topics I'm passionate
 about.  Some are explanations of how I approach the world.  Some are
 just my attempts to think through a topic.
 
-Latest essay: [Hallie Flanagan '11](hallie-flanagan.html) (Essay #131)
+Latest essay: [John David Stone](john-david-stone.html) (Essay #133)
 
 [Essays, by number](index-by-number.html)
 

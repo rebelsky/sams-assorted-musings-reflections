@@ -93,3 +93,7 @@ Algorithmic art
 
 > A response to the request "Please write an essay about this year's election."
 
+[Thanksgiving 2016](thanksgiving-2016.html) (Essay #132)
+
+> Reflections on one of my favorite holidays.
+

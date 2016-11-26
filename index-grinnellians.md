@@ -18,7 +18,7 @@ Grinnellians you should know (or know about)
 > Okay, this doesn't really belong.  But it's indirectly about Grinnellians,
   so I'm including it here.
 
-[Writing about current students](writing-about-current-students.html) (#130)
+[Writing about current students](writing-about-current-students.html) (Essay #130)
 
 > Or, more precisely, why I'm *not* writing about individual students.
 
@@ -211,7 +211,7 @@ Deanna Shorb
 
 [Erik Simpson](erik-simpson.html) (Essay #111)
 
-> Professor of English.  Digital humanist.  Acdtive faculty member.  And more.
+> Professor of English.  Digital humanist.  Active faculty member.  And more.
 
 Paula Smith
 - *Forthcoming*
@@ -220,8 +220,9 @@ Paula Smith
 
 > Social media specialist and all-around great person.
 
-John David Stone
-- *Forthcoming*
+[John David Stone](john-david-stone.html) (Essay #133)
+
+> Colleague.
 
 Angie Balm Story
 - *Forthcoming*
