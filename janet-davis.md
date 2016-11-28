@@ -104,6 +104,19 @@ There's a lot more I could write about Janet [8].  But I think this is
 long enough for now.  You can talk to alums to learn more.  You can
 read [her 'blog](http://blogs.whitman.edu/countingfromzero/author/davisj/).
 
+Damn!  I do have to mention her scholarship.  For most of her time
+at Grinnell, Janet's primary scholarship was at the intersection of
+persuasive technology [9] and value-sensitive design [10].  I'm not
+sure how people feel comfortable doing persuasive technology without
+including value-sensitive design (other than a feeling that "we know
+better than our stakeholders"), but Janet was clearly a pioneer in
+applying these techniques to persuasive tech.  Janet's emphasis on
+including value-sensitive design in persuasive technology work says so
+much about her, and why she was (and is) a Grinnellian.  She also did
+really cool projects, including an attempt to persuade people to use
+the stairs rather than the elevator [11], and an extended exploration
+of how we could help Grinnell students sleep better.
+
 So, how did we lose a wonderful person like Janet from Grinnell?  About
 two years ago, Whitman College in Walla Walla Washington was planning
 to start a new CS program and recruited Janet to create that program.
@@ -118,7 +131,7 @@ returns to campus from time to time.
 ---
 
 This essay, like the other essays I've written about former Grinnellians
-[9], was hard to write.  Janet really made Grinnell better.  I'm proud
+[12,14], was hard to write.  Janet really made Grinnell better.  I'm proud
 of her courage for going on to Whitman, and I commend them on making
 such an excellent hire.  And, while I miss Janet, I am thrilled at the
 new faculty we've hired to succeed her and I appreciate the regular
@@ -135,37 +148,54 @@ collaborate with her; you'll be glad you did.
 
 ---
 
-[1] That was back when there was actually a reasonable variety of information
+[1]: That was back when there was actually a reasonable variety of information
 on the College's Web site.
 
-[2] I'll admit that I think of a position at Grinnell as more than a
+[2]: I'll admit that I think of a position at Grinnell as more than a
 teaching-oriented position.  We expect a good mix of research and teaching.
 
-[3] We need to have HCI back at Grinnell.  One of our new hires may be
+[3]: We need to have HCI back at Grinnell.  One of our new hires may be
 able to teach it.  If not, Janet's promised to help me develop a syllabus
 with which I can try to teach the course.
 
-[4] Version control systems are your friend.
+[4]: Version control systems are your friend.
 
-[5] Jerod Weinman joined the rotation and made his own significant
+[5]: Jerod Weinman joined the rotation and made his own significant
 contributions.
 
-[6] A MOOC is a "Massive, Open, Online Course".  There are two models
+[6]: A MOOC is a "Massive, Open, Online Course".  There are two models
 of MOOCs.  The original MOOCs were centered around communities of 
 learning, with a focus of people teaching each other.  Those are usually
 called cMOOCs.  However, the kinds of MOOCs that seem to have gained
 prominence focus much more on a "sage on the stage" model, with lectures
 and assignments.  These are called xMOOCs.
 
-[7] I won't claim exclusivity; Janet also went to Henry, John, and even
+[7]: I won't claim exclusivity; Janet also went to Henry, John, and even
 people outside the department for advice.
 
-[8] The recommendation letter I wrote was three full pages.
+[8]: The recommendation letter I wrote was three full pages.
 
-[9] By "former Grinnellians", I mean "former faculty and staff".  
+[9]: Persuasive technology is technology that encourages others to
+behave differently.  The prototypical example I tend to use is
+a plant between a garbage can and a recycling bin, with a sensor
+and grow light attached to both.  As you throw things away or 
+recycle them, the plant grows in a way that shows the impact of your
+actions and, hopefully, encourages you to behave in a certain way.
+
+[10]: As the name suggests, value-sensitive design is design that begins
+by considering the values of the stakeholders and ensuring that those
+values are considered in the design.  
+
+[11]: I wish we'd been able to keep that project up permanently.  It was
+really awesome.
+
+[12]: By "former Grinnellians", I mean "former faculty and staff".  
 While alumni are former students, they should always feel that they
 are Grinnellians.
 
+[14]: And, while Janet is no longer at Grinnell, I do believe that she
+she will always be a Grinnellian at heart.
+
 ---
 
-*Version 1.1 of 2016-11-27.*
+*Version 1.2 of 2016-11-27.*
