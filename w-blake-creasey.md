@@ -1,5 +1,5 @@
-Grinnellians you should know (or know about): W. Blake Creasey
-==============================================================
+Grinnellians you should know (or know about): W. Blake Creasey '16
+==================================================================
 
 *Part of an ongoing series about the folks that inhabit or have inhabited
 our campus.*
@@ -12,14 +12,13 @@ start with something Blake said at the recent panel on CSC 321/22 [2].
 Janet asked the panelists what they'd learned from working on the CSC 322
 projects.  Blake's response was "I've been thinking carefully about that."
 He then followed up with "After all, I had to write an essay about that
-at the end of each semester [3]."  Everyone laughed.  But I laughed for
-a different reason than everyone else.  I laughed because "I've been
-thinking carefully about that" summarizes my experience with Blake.
-Whenever I talk to Blake about something (or whenever he writes to
-me about something), I find that he's thought carefully about that.
-Blake reflects carefully on his classes, on his travels, on people he
-grew up with, on himself, on what he learns, and more.  As a teacher,
-it's wonderful [4] to have a student like that.
+at the end of each semester [3]."  Everyone laughed.  But I laughed for a
+different reason; I laughed because "I've been thinking carefully about
+that" summarizes my experience with Blake.  Whenever I talk to Blake about
+something (or whenever he writes to me about something), I find that he's
+thought carefully about that.  Blake reflects carefully on his classes,
+on his travels, on people he grew up with, on himself, on what he learns,
+and more.  As a teacher, it's wonderful [4] to have a student like that.
 
 Blake came to CS relatively late.  I think he took CSC 151 [5] in his
 third semester at Grinnell.  And he discovered he liked it (or at least
@@ -34,13 +33,13 @@ sequence of emails to explain what he found was different in the teaching
 model of that course and ours, one of which was that we provided more
 feedback [8].
 
-And then Blake went to Budapest for the AIT program.  And, as had become
-his wont, Blake sent me a few emails to let me know how his courses were
-going.  Blake's opinions of CS seemed to change over that time; he was
-less interested in the thrill of programming and more in the impact that
-computing could have.    His letters were generous in many ways. He wrote
-about many different things: his classes, his travels, and even what 
-his peers were doing.  
+Then Blake went to Budapest for the AIT program.  As had become his wont,
+Blake sent me a few emails to let me know how his courses were going.
+Blake's opinions of CS seemed to change over that time; he was less
+interested in the thrill of programming and more in the impact that
+computing could have.    His letters were generous in many ways. He
+wrote about many different things: his classes, his travels, and even
+what his peers were doing.
 
 In his last three semesters at Grinnell, Blake continued his CS major
 (thankfully) and thought much more carefully about what he wanted to do.
@@ -63,16 +62,33 @@ it ready for release, and he and the second team came close,  But they
 got to experience the wonder of working with an external IT department.
 I appreciate Blake's thoroughness in trying to push through that; I wish
 he'd been more successful [10].  But I think he learned a lot.  No, I
-know he learned a lot, because he spoke well about it at reunion.
+*know* he learned a lot, because he spoke well about what he'd learned
+in the panel at reunion.
 
-Blake's now gone on to consulting.  I expect his intelligence and his
+Blake has now gone on to consulting.  I expect his intelligence and his
 thoughtful approach to thinks will make him an excellent consultant.
 I've left out a lot about the various conversations we've had, and we've
 had a lot of them.  But I think this essay covers the high points.  I'm
-sure I'll get a thoughtful reply.  I'll miss the in-person conversations,
+sure I'll get a thoughtful reply [14].  I will miss the in-person conversations,
 but I look forward to the occasional email with his careful reflections.
-And I can't wait to hear his reflections in five years when he returns for
-the next CS reunion.
+And I can't wait to hear his reflections in five years when he returns
+for the next CS reunion, or even just a session of Learning from Alumni.
+
+---
+
+Whoops!  I usually end alumni profiles with a suggestion of why you
+should contact the alum.  This profile seems to be a bit more straight
+praise.  But I think you'd learn a lot from talking to Blake about his
+trajectory through Grinnell, and I think he might also offer some 
+good tips about how and why to reflect more carefully on what you do.
+Oh, he's also a great person to ask about [John Stone](john-stone.html).
+
+I'm pretty sure he'll Skype in for Learning from Alumni next year, so
+that's one opportunity to hear more.  Blake also tells me that he'll
+be returning to the College in April for Admitted Student Weekends
+because Admissions considers him an awesome ambassador for the College
+[15,16].  In any case, that's probably also an opportunity to catch a few
+minutes of his time.
 
 ---
 
@@ -115,6 +131,14 @@ of having us host.  And I'm trying to get the College to fund it all.
 
 [12] Or ten years, depending on what DAR permits.
 
+[14] I was wrong. The first reply ended with "Apologies for the shorter
+than usual email. I am [on vacation] with my family" along with photographic
+evidence. But I anticipate a longer response later.
+
+[15] Why do I not find that surprising?
+
+[16] My, a lot of words in that sentence started with the letter "a".
+
 ---
 
-*Version 1.0.1 of 2016-11-26.*
+*Version 1.1 of 2016-11-26.*
