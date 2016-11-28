@@ -12,15 +12,15 @@ Because, until about 16 months ago, Janet was a faculty member at
 Grinnell, and she was instrumental to building our strong CS program.
 
 Janet came to Grinnell about a decade ago.  As Henry suggested at the time
-(and continues to suggest), in selecting Janet, we looked for someone
-who would expand the department in new ways.  In hiring her, we knew
-that Janet brought a lot to the department: expertise in human-computer
-interaction, an important subject that we did not cover nearly well
-enough; a thoughtful approach to software engineering; an enthusiasm
-for teaching, and a willingness to learn and grow.  We also knew that
-she was thoughtful and careful; in her phone interview, she reflected on
-a variety of things she'd found not just on the department's Web site,
-but also the College's [1].
+(and continues to suggest as we look at other candidates), in selecting
+Janet, we looked for someone who would expand the department in new ways.
+As we hired her, we knew that Janet brought a lot to the department:
+expertise in human-computer interaction, an important subject that we
+did not cover nearly well enough; a thoughtful approach to software
+engineering; an enthusiasm for teaching, and a willingness to learn
+and grow.  We also knew that she was thoughtful and careful; in her
+phone interview, she reflected on a variety of things she'd found not
+just on the department's Web site, but also the College's [1].
 
 Once she was here, we learned that Janet had many more
 strengths than the first few we identified.  I'm not sure
@@ -37,18 +37,19 @@ number of people who wanted to meet with her.  That is, she networks
 not just within the profession, but within her local community.
 
 As we expected, Janet was also an excellent colleague in the
-department.  She worked well with the department in thinking about
-curriculum; she was willing to teach courses that needed teaching,
-even when they weren't in her areas of expertise; and she brought
-interesting new courses to the curriculum.  The last time she taught
-Human-Computer Interaction, the enrollments were so high that we needed
-to offer a second section [3].  Her networking helped connect Grinnell
-even more broadly.
+department.  She worked well with the other members of the department
+in thinking about curriculum; she was willing to teach courses that
+needed teaching, even when they weren't in her areas of expertise; and
+she brought interesting new courses to the curriculum.  The last time
+she taught Human-Computer Interaction, the enrollments were so high that
+we needed to offer a second section [3].  Her networking helped connect
+Grinnell even more broadly.
 
 Two things about curriculum particularly stand out to me, one from
 the start of her career at Grinnell and one from the end of her career
 at Grinnell.  As Janet was starting, she and I wrote an NSF proposal to
-re-work our introductory course to focus on image making and manipulation.
+re-frame our introductory course to focus on image making and
+manipulation, adapting some of the ideas behind Media Computation.
 We worked together with students to develop the software to support
 the class, and we worked together on curriculum.  Since CSC 151 is a
 workshop-style course, one of the most important things to do was to
@@ -69,15 +70,15 @@ more importantly, her thoughtful contributions to the curriculum.
 It was a privilege to work with her.
 
 After receiving tenure at Grinnell, Janet decided to use her sabbatical
-for a very different kind of project.  Our software design course
+for a very different kind of project.  Our software design curriculum
 was a bit of a mess, and didn't really achieve the goals we wanted.
-So Janet spent her sabbatical time developing an innovative approach.
-She split the course into two parts, one that dealt with the ideas,
-processes, and tools for software design, and a separate "practicum"
-in which students applied those tools to a project of importance to
-nonprofits in our community.  There were (and are) many innovative
-aspects to the course, including decisions (a) to use projects that
-were big enough to last over multiple semester (giving many students
+Janet generously spent her sabbatical time developing an innovative
+approach.  She split the course into two parts, one that dealt with
+the ideas, processes, and tools for software design, and a separate
+"practicum" in which students applied those tools to a project of
+importance to nonprofits in our community.  There were (and are) many
+innovative aspects to the course, including decisions (a) to use projects
+that were big enough to last over multiple semester (giving many students
 the experience of joining an existing project, of passing a project on
 to others, of continuing on a project, or some combination thereof),
 (b) to use alumni as mentors for each project (connecting our alumni to
@@ -125,6 +126,15 @@ opportunities that Janet and I have to chat.
 
 ---
 
+Oh, I usually end the essays about people I know with some explanation
+of why you should reach out to them.  Those explanations are usually
+for students.  For Janet, I think the explanation holds more for
+professionals, including some alums.  Janet networks really well, and
+collaborates equally well.  So I'd encourage you to find ways to 
+collaborate with her; you'll be glad you did.
+
+---
+
 [1] That was back when there was actually a reasonable variety of information
 on the College's Web site.
 
@@ -158,4 +168,4 @@ are Grinnellians.
 
 ---
 
-*Version 1.0 of 2016-11-26.*
+*Version 1.1 of 2016-11-27.*
