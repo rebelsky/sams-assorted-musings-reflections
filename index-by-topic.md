@@ -533,8 +533,9 @@ Rachel Bly '93
 
 > Professor Emeritus, Anthropologist, campus innovator.
 
-W. Blake Creasey
-- *Forthcoming*
+[W. Blake Creasey '16](w-blake-creasey.html) (Essay #134)
+
+> Thoughtful student (and now alum).
 
 [Monessa Cummins](monessa-cummins.html) (Essay #109)
 

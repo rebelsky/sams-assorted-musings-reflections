@@ -175,3 +175,4 @@ Essay #3 was about Grinnell's relationship with Posse.
 [Hallie Flanagan '11](hallie-flanagan.html) (Essay #131)  
 [Thanksgiving 2016](thanksgiving-2016.html) (Essay #132)  
 [John David Stone](john-david-stone.html) (Essay #133)  
+[W. Blake Creasey '16](w-blake-creasey.html) (Essay #134)  

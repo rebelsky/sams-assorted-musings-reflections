@@ -51,8 +51,9 @@ Rachel Bly '93
 
 > Professor Emeritus, Anthropologist, campus innovator.
 
-W. Blake Creasey
-- *Forthcoming*
+[W. Blake Creasey '16](w-blake-creasey.html) (Essay #134)
+
+> Thoughtful student (and now alum).
 
 [Monessa Cummins](monessa-cummins.html) (Essay #109)
 
@@ -106,6 +107,9 @@ Lexy Greenwell '15
 - *Forthcoming*
 
 Steve Gump
+- *Forthcoming*
+
+Atul Gupta '??
 - *Forthcoming*
 
 [Harry Hopkins '12](harry-hopkins.html) (Essay #119)
@@ -242,6 +246,9 @@ Angela Voos
 [Henry MacKay Walker](henry-walker.html) (Essay #124)
 
 > Mentor, architect of CS at Grinnell, educator, and beyond
+
+Zoe Wolter '16
+- *Forthcoming*
 
 Tilly Woodward
 - *Forthcoming*

@@ -7,7 +7,7 @@ students or other people.  Some are rants about topics I'm passionate
 about.  Some are explanations of how I approach the world.  Some are
 just my attempts to think through a topic.
 
-Latest essay: [John David Stone](john-david-stone.html) (Essay #133)
+Latest essay: [W. Blake Creasey '16](w-blake-creasey.html) (Essay #134)
 
 [Essays, by number](index-by-number.html)
 
