@@ -63,6 +63,10 @@ Rachel Bly '93
 
 > Mentor, advisor, caring Grinnellian
 
+[Janet Davis](janet-davis.html) (Essay #135)
+
+> Highly valued former colleague.  
+
 Jeff Dickey-Chaisins '81
 - *Forthcoming*
 

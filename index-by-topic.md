@@ -545,6 +545,10 @@ Rachel Bly '93
 
 > Mentor, advisor, caring Grinnellian
 
+[Janet Davis](janet-davis.html) (Essay #135)
+
+> Highly valued former colleague.  
+
 Jeff Dickey-Chaisins '81
 - *Forthcoming*
 
@@ -589,6 +593,9 @@ Lexy Greenwell '15
 - *Forthcoming*
 
 Steve Gump
+- *Forthcoming*
+
+Atul Gupta '??
 - *Forthcoming*
 
 [Harry Hopkins '12](harry-hopkins.html) (Essay #119)
@@ -725,6 +732,9 @@ Angela Voos
 [Henry MacKay Walker](henry-walker.html) (Essay #124)
 
 > Mentor, architect of CS at Grinnell, educator, and beyond
+
+Zoe Wolter '16
+- *Forthcoming*
 
 Tilly Woodward
 - *Forthcoming*
