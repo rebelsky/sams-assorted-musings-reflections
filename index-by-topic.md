@@ -670,8 +670,9 @@ Russell K. Osgood
 > L. F. Parker Professor of History, Director of the Rosenfield Program,
   "real" Grinnellian, and more.
 
-Samuel A. Rebelsky
-- *Forthcoming*
+[Samuel A. Rebelsky](samuel-a-rebelsky.html) (Essay #137)
+
+> Curmudgeon.
 
 Henry Rietz '89
 - *Forthcoming*

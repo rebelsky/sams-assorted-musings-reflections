@@ -7,7 +7,7 @@ students or other people.  Some are rants about topics I'm passionate
 about.  Some are explanations of how I approach the world.  Some are
 just my attempts to think through a topic.
 
-Latest essay: [Lea Marolt-Sonnenschein](lea-marolt-sonnenschein.html) (Essay #136)
+Latest essay: [Samuel A. Rebelsky](samuel-a-rebelsky.html) (Essay #137)
 
 [Essays, by number](index-by-number.html)
 
