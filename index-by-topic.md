@@ -634,8 +634,9 @@ Laura Nelson Lof
 David Lopatto
 - *Forthcoming*
 
-Lea Marolt Sonnenschein '15
-- *Forthcoming*
+Latest essay: [Lea Marolt-Sonnenschein '15](lea-marolt-sonnenschein.html) (Essay #136)
+
+> Daughter (well, host daughter).  Overachiever.
 
 Elaine Marzluff
 - *Forthcoming*

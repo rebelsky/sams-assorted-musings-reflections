@@ -177,3 +177,4 @@ Essay #3 was about Grinnell's relationship with Posse.
 [John David Stone](john-david-stone.html) (Essay #133)  
 [W. Blake Creasey '16](w-blake-creasey.html) (Essay #134)  
 [Janet Davis](janet-davis.html) (Essay #135)  
+Latest essay: [Lea Marolt-Sonnenschein '15](lea-marolt-sonnenschein.html) (Essay #136)  
