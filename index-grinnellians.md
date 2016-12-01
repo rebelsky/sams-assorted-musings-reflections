@@ -76,7 +76,7 @@ George Drake
 Karla Erickson
 - *Forthcoming*
 
-David Feldman
+David Feldman '71
 - *Forthcoming*
 
 Pam Ferguson
@@ -119,6 +119,12 @@ Atul Gupta '??
 [Harry Hopkins '12](harry-hopkins.html) (Essay #119)
 
 > Brash reformer.
+
+Chris Hunter
+- *Forthcoming*
+
+Judy Hunter
+- *Forthcoming*
 
 Kate Ingersoll 
 - *Forthcoming*
@@ -212,6 +218,9 @@ Susan Sanning
 Rachel Schnepper
 - *Forthcoming*
 
+Andrew Sherburne
+- *Forthcoming*
+
 Deanna Shorb
 - *Forthcoming*
 
@@ -252,6 +261,12 @@ Angela Voos
 [Henry MacKay Walker](henry-walker.html) (Essay #124)
 
 > Mentor, architect of CS at Grinnell, educator, and beyond
+
+More thoughts on Henry MacKay Walker
+- *Forthcoming*
+
+Eliza Willis
+- *Forthcoming*
 
 Zoe Wolter '16
 - *Forthcoming*
