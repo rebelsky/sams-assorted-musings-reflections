@@ -60,10 +60,11 @@ I did miss the opportunity to write some topics that I planned to
 write about.  I considered writing about the protest issue of the
 _S&B_ to help myself think through those issues, which I find complex.
 I may still write that essay.  I thought about writing my speech on the
-current status of the department.  I've given that already, but maybe
-I should still turn it into an essay.  I know that there were other
-things I thought about, and forgot to write down.  That's frustrating.
-I really prefer to have a bit more freedom each day.
+current status of the department.  I've given that already, but maybe I
+should still turn it into an essay.  I should have posted an essay about
+donating on Tuesday November 29th, which was some giving event.  I know
+that there were other things I thought about, and forgot to write down.
+That's frustrating.  I really prefer to have a bit more freedom each day.
 
 Writing the profiles also set my timing off a bit.  Since I felt that I
 generally needed permission to post essays for people I know well, I'd
@@ -96,14 +97,13 @@ Will I continue writing profiles?  Almost certainly.  I definitely have
 that backlog is also clearly incomplete, so feel free to suggest others.
 I worry that I've privileged [14] certain people by writing about them
 
-Will I do another month
-of profiles, will I mix them into my regular essays, or will I do both?
-I'm not sure yet.  I was frustrated to have to have a more limited set
-of things to write about, so I probably shouldn't limit myself so much.
-But I also kind of like having a theme.  Maybe I'll even get decent at
-writing about people if I try doing it for another month in the future
-[15].  But I'll definitely insert "open writing" months in the middle,
-and probably months with other foci, too [16].
+Will I do another month of profiles, will I mix them into my regular
+essays, or will I do both?  I'm not sure yet.  I was frustrated to have to
+have a more limited set of things to write about, so I probably shouldn't
+limit myself so much.  But I also kind of like having a theme.  Maybe I'll
+even get decent at writing about people if I try doing it for another
+month in the future [15].  But I'll definitely insert "open writing"
+months in the middle, and probably months with other foci, too [16].
 
 I hope you'll keep reading [17].  Feel free to invite others, too.
 I'm pretty sure that I'll keep writing.
@@ -175,4 +175,4 @@ having an audience.
 
 ---
 
-*Version 1.0 of 2016-11-30.*
+*Version 1.0.1 of 2016-11-30.*
