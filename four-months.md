@@ -7,35 +7,34 @@ different kind of writing goal for myself: Instead of writing about
 issues and things, I wrote about people.  I think it's worth stepping
 back and reflecting on what I've learned in this month.
 
-I remain frustrated that I do not write well.  By that, I mean that
-I don't feel that my writing sufficiently expresses the feelings
-and ideas that I have about people [n,n].  I feel so lucky to be
-associated with the many people I write about, and I always find
-that the words I use are inadequate to describe these people.  So
-I need to find ways to work on my writing.  In particular, I think
-that means I need to write less.  Not that I need to write fewer
-essays, but that I should write fewer words in each essay and think
-more carefully about the words I use [n].  But I'm not sure that
-will be satisfactory, because one of my concerns is also that I
-don't say enough.  Maybe I should spend more time reading and
-focusing much more on the style of what I read.  In any cases,
+I remain frustrated that I do not write well, particularly in writing
+profiles.  By that, I mean that I don't feel that my writing sufficiently
+expresses the feelings and ideas that I have [1].  I feel so lucky to
+be associated with the many people I write about, and I find that the
+words I use are inadequate to describe these people.  So I need to find
+ways to work on my writing.  It may mean that I need to write less.
+Not that I need to write fewer essays, but that I should write fewer
+words in each essay and think more carefully about the words I use [2].
+But I'm not sure that will be satisfactory, because one of my concerns is
+also that I don't say enough.  Maybe I should spend more time reading
+and focusing much more on the style of what I read.  In any cases,
 that's certainly a subject for further exploration.
 
-I think my subjects appreciated the profiles.  Even if I do not
-write eloquently, I do express my care for people, and it's nice
-to feel cared about.  I've heard a lot of thanks from my subjects
-and from others.  Here are a few [1].
+I think my subjects appreciated the profiles.  Even if I do not write
+eloquently, I do express my care for people, and it's nice to feel cared
+about.  I've heard a lot of thanks from my subjects and from others.
+Here are a few [3].
 
 > These are such lovely things to see written about me by someone I
 respect so much, and whose work I think about all the time when trying
 to be an effective and compassionate teacher.
 
 > I appreciate your words more than I can express, and it’s humbling
-to see what you have written [n].
+to see what you have written [4].
 
 > Wow! I sound interesting!
 
-> This makes me feel incredibly . . . loved [n]. Thank you.
+> This makes me feel incredibly . . . loved [5]. Thank you.
 
 > That is an incredibly kind and gracious essay for you to write, and I really appreciate it.
 
@@ -43,100 +42,137 @@ to see what you have written [n].
 
 > This is a very cool thing you're doing for the community.
 
-> I know you’re the computer whiz . . . but I’m pretty sure there’s no attached essay.
-
 > You do know that I have two children, not one, right?
 
-Okay, it's not like you really expected me to have a 100% success rate.
+> I know you’re the computer whiz . . . but I’m pretty sure there’s
+no attached essay.
+
+Okay, it's not like you really expected me to have a 100% success rate,
+is it?
 
 Nonetheless, here's an important moral: *When you think good things about
-other people, and write them down, it reminds them that they are special.
-Anyone can do that.* I suggest that you try writing similar essays every
-once in a while.
+other people, and write them down and share them, it reminds those
+people that they are special.  Anyone can do that; it doesn't require
+special skill, and it makes the world better.* I suggest that you
+try writing similar essays every once in a while.
 
-I did miss some topics that I planned to write about.  I considered
-writing about the protest issue of the _S&B_ to help myself think
-through those issues.  I may still write that.  I thought about writing
-my speech on the current status of the department.  I've given that
-already, but maybe I should still turn it into an essay.  I know that
-there were other things I thought about, and forgot to write down.
-That's frustrating.  I really do like more freedom each day.
+I did miss the opportunity to write some topics that I planned to
+write about.  I considered writing about the protest issue of the
+_S&B_ to help myself think through those issues, which I find complex.
+I may still write that essay.  I thought about writing my speech on the
+current status of the department.  I've given that already, but maybe
+I should still turn it into an essay.  I know that there were other
+things I thought about, and forgot to write down.  That's frustrating.
+I really prefer to have a bit more freedom each day.
 
-Writing the profiles also set my timing off a bit.  Since I felt that
-I generally needed permission to post essays for people I know well,
-I'd have to write those essays in advance, and then cross my fingers
-that they would approve them in a timely fashion.  That approach meant
-that I couldn't always follow my muse as directly as I'd like.  When
-I sat down to write at 9pm (or later) some nights, and my muse said
-"Write about *this person*", I'd reply, "Sorry, they won't reply tonight.
-I'll write about someone else first, and then come back for a few notes
-if there's time.  Any suggestions of someone whose permission I don't
-need?" [n]  That strategy also meant that there were nights in which
-I posted an essay that I had written previously, and then sent out
-for approval.  But even on those nights, I wrote, because I always
-re-edited those essays [n].
+Writing the profiles also set my timing off a bit.  Since I felt that I
+generally needed permission to post essays for people I know well, I'd
+have to write those essays in advance, and then cross my fingers that
+they would approve them in a timely fashion.  That approach meant that I
+couldn't always follow my muse as directly as I'd like.  When I sat down
+to write at 9pm (or later) some nights, and my muse said "Write about
+*this person*", I'd reply, "Sorry, they won't reply tonight.  I'll write
+about someone else first, and then come back for a few notes if there's
+time.  Any suggestions of someone whose permission I don't need?" [6,7]
+That strategy also meant that there were nights in which I posted an essay
+that I had written previously, and then sent out for approval.  But even
+on those nights, I wrote, because I always re-edited those essays [8].
 
-I'm also not sure what this month did to my audience [n].  I think some
-people are reading my essays less often, because they don't really 
-care about these profiles.  But my sense is that I've picked up a few
-readers, too.  I've had at least one student (one who I didn't
-know read my essays) ask about the profiles and how I wrote them [n].
+Having to come up with essay on the nights in which I had not pre-written
+an essay sometimes felt like more of a chore than a joy.  Many of those
+essays would have benefitted from more background research [9].  But I
+guess that's one of the hazards of setting a "subject for the month"
+and forcing yourself to stick to it.
 
-Will I continue writing profiles?  Almost certainly.  Will I do another
-month of profiles, will I mix them into my regular essays, or will I
-do both?  I'm not sure yet.  I was frustrated to have to have a more
-limited set of things to write about, so I probably shouldn't limit
-myself so much.  But I also kind of like having a theme.  Maybe I'll
-even get decent at writing about people if I try another month [n].
-But I'll definitely insert "open writing" months in the middle, as well
-as months with other foci.
+I'm not sure what this month did to my audience [10].  I think some people
+are reading my essays less often, perhaps because they don't really
+care about these profiles [11].  But my sense is that I've picked up a few
+readers, too.  I've had at least one student (one who I didn't know read
+my essays) ask about the profiles and how I wrote them [12], so I may be
+gaining some audience.
+
+Will I continue writing profiles?  Almost certainly.  I definitely have
+[a large backlog of people to write about](index-grinnellians.html), and
+that backlog is also clearly incomplete, so feel free to suggest others.
+I worry that I've privileged [14] certain people by writing about them
+
+Will I do another month
+of profiles, will I mix them into my regular essays, or will I do both?
+I'm not sure yet.  I was frustrated to have to have a more limited set
+of things to write about, so I probably shouldn't limit myself so much.
+But I also kind of like having a theme.  Maybe I'll even get decent at
+writing about people if I try doing it for another month in the future
+[15].  But I'll definitely insert "open writing" months in the middle,
+and probably months with other foci, too [16].
+
+I hope you'll keep reading [17].  Feel free to invite others, too.
+I'm pretty sure that I'll keep writing.
 
 ---
 
-[n] I know that I have a responsibility to cite, but in these cases I
-think I also have a greater responsibility to preserve the confidence
-of the authors.  So, let's call them all "Anonymous (2016).  Personal
-Communication."
-
-[n] I'm humbled by all the things you do.
-
-[n] You are.
-
-[n] Or about the other things that I write about.
-
-[n] The best example that comes to mind is [my essay about the
+[1]: The best example that comes to mind is [my essay about the
 bookstore](bookstore.html), in which I do not feel I came close to
-expressing the wondeful intellectual home and place of exploration
+expressing the wonderful intellectual home and place of exploration
 a bookstore can be.  I have the vision, but not the words.
 
-[n] I think I remember an article about Borges in which it said that he
+[2]: I think I remember an article about Borges in which it said that he
 made sure that each sentence was perfect before he moved on to the next
 one.  I'm not sure that I can ever achieve that level of care, but I
 certainly could think more about each sentence before moving on to the
 next one, or go back and edit more, or whatever.
 
-[n] No, I don't really have conversations like that with my muse.
+[3]: I know that I have a responsibility to cite, but in these cases I
+think I also have a greater responsibility to preserve the confidence
+of the authors.  So, let's call them all "*Anonymous (2016).  Personal
+Communication.*"
+
+[4]: I'm humbled by all the things you do.
+
+[5]: You are.
+
+[6]: No, I don't really have conversations like that with my muse.
 But I did have to put off essays I wanted to write so that I could
 write essays that I could post the same night.
 
-[n] And, in many cases, started the next essay.
+[7]: The [John Stone](john-stone.html) essay ended up being somewhere
+in the middle.  I had originally planned to write a long essay about
+John and ask for his permission.  Then I realized that John would not 
+want any essay posted about him.  So I wrote the one-sentence essay
+instead.  One reader found that frustrating.  Most others thought it
+was perfectly appropriate.
 
-[n] I'm also not sure that I care.  At this point, I'm writing most of
-these essays primarily for me.  The occasional one that serves a
-purpose (e.g., promoting Grinnell or CS at Grinnell) gets directed
-to appropriate people at appropriate times.
+[8]: And, in many cases, started the next essay.
 
-[n] They asked where I got the information for my profiles.  I had to
-admit that most of the information is somewhere in my head, which means
-that parts are probably fictitious, or at least not quite correct.
-But I've been at Grinnell for a long time; I do build up a fund of
-knowledge about Grinnellians.  I probably also should have mentioned
-that in some cases, I write the essays after the subjects visit my
-Learning from Alumni course, and I've managed to both learn new things
-about the person and dredge up past memories.
+[9]: Yes, I do research once in a while.
 
-[n] Or ten.
+[10]: I'm also not sure that I care about the effect on my audience.
+At this point, I'm writing most of these essays primarily for me.
+The occasional one that serves a purpose (e.g., promoting Grinnell or
+CS at Grinnell) gets directed to appropriate people at appropriate times.
+
+[11]: Or because they found that my writing was going downhill.
+
+[12]: The student asked where I got the information for my profiles.
+I had to admit that most of the information is somewhere in my head,
+which means that parts are probably fictitious, or at least not quite
+accurate.  But I've been at Grinnell for a long time; I do build up a fund
+of knowledge about Grinnellians and additional knowledge about where I
+can find more information.  I probably also should have mentioned that
+in some cases, I write the essays after the subjects visit my Learning
+from Alumni course, and those visits have allowed me to both learn new
+things about the person and dredge up past memories.
+
+[14]: Or punished.  At least one person has told me that they would prefer
+not to see an essay about them, and I don't think that was intended as
+reverse psychology.
+
+[15]: Or another ten months.
+
+[16]: You can expect a month of essay about C and Unix in January.
+
+[17]: Yes, even though I write for myself and not for you, I appreciate
+having an audience.
 
 ---
 
-*Version 0.3 of 2016-11-17.*
+*Version 1.0 of 2016-11-30.*
