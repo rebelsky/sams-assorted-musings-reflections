@@ -22,7 +22,7 @@ Grinnellians you should know (or know about)
 
 > Or, more precisely, why I'm *not* writing about individual students.
 
---
+---
 
 [Brandy Agerbeck '96](brandy-agerbeck.html) (Essay #127)
 
@@ -50,6 +50,9 @@ Rachel Bly '93
 [Doug Caulkins](doug-caulkins.html) (Essay #122)
 
 > Professor Emeritus, Anthropologist, campus innovator.
+
+Jeremy Chen
+- *Forthcoming*
 
 [W. Blake Creasey '16](w-blake-creasey.html) (Essay #134)
 
@@ -108,6 +111,9 @@ Katya Gibel Mevorach
 > Former SGA president, innovative thinker, risk taker.
 
 Lexy Greenwell '15
+- *Forthcoming*
+
+Leslie Gregg-Jolly
 - *Forthcoming*
 
 Steve Gump
@@ -169,6 +175,9 @@ Elaine Marzluff
 
 > Bookseller, author, generally great guy
 
+Joe Mileti
+- *Forthcoming*
+
 Brian Mitchell
 - *Forthcoming*
 
@@ -215,6 +224,9 @@ Rachel Rose '01
 Susan Sanning
 - *Forthcoming*
 
+Mark Schneider
+- *Forthcoming*
+
 Rachel Schnepper
 - *Forthcoming*
 
@@ -255,6 +267,9 @@ Jim Swartz
 Justin Thomas
 - *Forthcoming*
 
+Vivek Venugopal
+- *Forthcoming*
+
 Angela Voos
 - *Forthcoming*
 
@@ -263,6 +278,9 @@ Angela Voos
 > Mentor, architect of CS at Grinnell, educator, and beyond
 
 More thoughts on Henry MacKay Walker
+- *Forthcoming*
+
+Autumn Wilke
 - *Forthcoming*
 
 Eliza Willis
