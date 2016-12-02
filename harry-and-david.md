@@ -180,6 +180,13 @@ cursing the work I didn't get done because of it.
 
 ---
 
+Oh, if you don't get fruit from us this year, I'm sorry.  As I said, I
+ordered both too much and too little; more than I'd planned, not enough
+to cover all the people I care about.  But I'm not sure that I could afford
+to send fruit to everyone I care about.
+
+---
+
 [1]: Well, more precisely, frustrating.
 
 [2]: No spaces because it was limiting me on the number of characters.
