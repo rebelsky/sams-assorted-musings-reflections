@@ -39,6 +39,10 @@ Essays on writing, or at least on writing my essays
 
 > Reflections on my third month of essay writing.
 
+[A fourth month of essays](four-months.html) (Essay #138)
+
+> I bet you can figure this one out.
+
 [On making, breaking, and remaking the habit of daily writing](habit-of-writing.html) (Essay #41)
 
 > Reflections on trying to restart these essays.
@@ -649,7 +653,7 @@ Laura Nelson Lof
 David Lopatto
 - *Forthcoming*
 
-Latest essay: [Lea Marolt-Sonnenschein '15](lea-marolt-sonnenschein.html) (Essay #136)
+[Lea Marolt-Sonnenschein '15](lea-marolt-sonnenschein.html) (Essay #136)
 
 > Daughter (well, host daughter).  Overachiever.
 
