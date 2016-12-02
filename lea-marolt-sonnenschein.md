@@ -59,7 +59,7 @@ of another student (probably Maijid, if I remember correctly) and
 realized that (a) she enjoyed it this time, (b) she was good at it [6],
 and (c) it could lead to a relatively productive career.  But how 
 would she catch up [7]?  Lea decided she could do all of CSC 161 mostly
-on her own over winter break [10].  And you know what?  She did!  So she
+on her own over winter break [11].  And you know what?  She did!  So she
 took CSC 207 in the spring and continued on from there.
 
 If this were a recommendation letter (see below), I'd write about
@@ -265,4 +265,4 @@ I got all of the referrents corrected.
 
 ---
 
-*Version 1.1 of 2016-11-28.*
+*Version 1.1.1 of 2016-12-01.*
