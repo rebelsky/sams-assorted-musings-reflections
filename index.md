@@ -7,7 +7,7 @@ students or other people.  Some are rants about topics I'm passionate
 about.  Some are explanations of how I approach the world.  Some are
 just my attempts to think through a topic.
 
-Latest essay: [A fourth month of essays](four-months.html) (Essay #138)
+Latest essay: [Ordering from Harry and David](harry-and-david.html) (Essay #139)
 
 [Essays, by number](index-by-number.html)
 

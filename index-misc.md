@@ -97,3 +97,7 @@ Algorithmic art
 
 > Reflections on one of my favorite holidays.
 
+[Ordering from Harry and David](harry-and-david.html) (Essay #139)
+
+> A comedy of (technical) errors.
+

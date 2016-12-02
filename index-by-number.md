@@ -180,3 +180,4 @@ Essay #3 was about Grinnell's relationship with Posse.
 [Lea Marolt-Sonnenschein '15](lea-marolt-sonnenschein.html) (Essay #136)  
 [Samuel A. Rebelsky](samuel-a-rebelsky.html) (Essay #137)  
 [A fourth month of essays](four-months.html) (Essay #138)  
+[Ordering from Harry and David](harry-and-david.html) (Essay #139)  
