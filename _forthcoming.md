@@ -1,9 +1,25 @@
 Some forthcoming essays
 =======================
 
-1. Planning the next code camps.
+1. Something about the Chronicle article on a prof criticizing his 
+students.
 
-1. Proposal for joint degree with UIowa.  (Soon!)
+1. Balancing input and output.  (How much should you read vs. how much
+should you write?) (An issue for creativity.)
+
+1. Donating to Grinnell.  (Why you should donate.)
+
+1. Linking footnotes (along with additional software).
+
+1. Preregistration.
+
+1. Why these musings? (why-musings.html) [Short]
+
+1. Outlook.  (More precisely, Outlook Calendar.)
+
+1. Bob Dylan wins Nobel prize.  (Mongo says "Rock n Roll. Form a band. Arts are important.  Students never know, one may win a Nobel for Rock n Roll!")
+
+1. Planning the next code camps.
 
 1. On names (Misc) (SamR, S.A., Sam, Samuel) [Short!]
 
@@ -15,27 +31,25 @@ reason to read the guidelines.)
 
 1. vi vs. emacs
 
+1. Our wireless network (and yes, Dave knows.)
+
 1. Rating Rating Choices (Rants)
 
 1. Accessibility in Course Webs (online teaching)
 
 1. Accessibility in the College Web site.
 
+1. Web Advisor.
+
 1. What we vote, what they tell us.  (Did we vote on using qualitative
 comments in faculty reviews?)
 
-1. Donating to Grinnell.  (Why you should donate.)
-
 1. Growth Mindset
-
-1. "Do you take requests?"
 
 1. Faculty nightmares
 
 1. Michelle's comment: "If other people care, they'll pick it up."  But
 I seem to remember more than most people.  Or maybe I just care more.
-
-1. Bob Dylan wins Nobel prize.  (Mongo says "Rock n Roll. Form a band. Arts are important.  Students never know, one may win a Nobel for Rock n Roll!")
 
 1. Citizenship test for voting.
 
@@ -62,14 +76,11 @@ think the reality is somewhat more complex.  Dealing with frustration.)
 
 1. The Varsity Athlete/Other Student divide.
 
-1. Should Grinnell be tuition free?
+1. Should Grinnell be tuition-free?
 
 1. Questbridge
 
 1. Creativity.
-
-1. Balancing input and output.  (How much should you read vs. how much
-should you write?)
 
 1. Burnout.  (One of Michelle's many roles has her exploring issues of
 physician burnout.  For a long time, folks thought that a sense of 
@@ -90,8 +101,6 @@ to surveys from the Dean, ...)
 1. Dumb Things I do: CS Alumni Mailing List
 
 1. I've become my mother (articles).
-
-1. Outlook.  (More precisely, Outlook Calendar.)
 
 1. Jeff Dickey-Chaisins (Grinnellians).  (Write soon, though.)
 
