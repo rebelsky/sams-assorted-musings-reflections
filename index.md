@@ -7,7 +7,7 @@ students or other people.  Some are rants about topics I'm passionate
 about.  Some are explanations of how I approach the world.  Some are
 just my attempts to think through a topic.
 
-Latest essay: [Ordering from Harry and David](harry-and-david.html) (Essay #139)
+Latest essay: ["Do you take requests?"](requests.html) (Essay #140)
 
 [Essays, by number](index-by-number.html)
 

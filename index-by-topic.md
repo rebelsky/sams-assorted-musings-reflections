@@ -72,6 +72,11 @@ Essays on writing, or at least on writing my essays
 
 > Self-evident.
 
+["Do you take requests?"](requests.html) (Essay #140)
+
+> Thoughts on what I should do when readers request that I write about
+  something.
+
 For prospective students, parents of prospective students, and others with similar interests
 --------------------------------------------------------------------------------------------
 
