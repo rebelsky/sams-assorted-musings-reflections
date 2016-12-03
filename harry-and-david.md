@@ -67,16 +67,16 @@ customer service to get the refund, and I was done.  Off to bed.
 ---
 
 Now, you may think that my "joy of errors" essay is just about the
-wonder of that UI.  But it's just the start.  At about 3:30 a.m.,
-Michelle's phone got a text [4].  It read "Did you authorize a
-charge of $xxx to Harry and David?  Press 1 for Yes and 2 for No."
+wonder of that UI.  But you'd be wrong.  It's just the start.  At about
+3:30 a.m., Michelle's phone got a text [4].  It read "Did you authorize
+a charge of $xxx to Harry and David?  Press 1 for Yes and 2 for No."
 Now, I'm not sure why a call about my charge card goes to Michelle,
-rather than to me, but we'll just call that the next error in the
-comedy.  Of course, since it's the middle of the night [5], Michelle
-doesn't read carefully, and just types "Yes".  She gets a quick response
-of the form "Thank you for your information.  We have cancelled the
-charge."  As far as I can tell, their clever programmers decided that
-anything that wasn't 1 was a No. That's the next error.
+rather than to me, but we'll just call that the next error in the comedy.
+Of course, since it's the middle of the night [5], Michelle doesn't
+read carefully, and just types "Yes".  She gets a quick response of the
+form "Thank you for your information.  We have cancelled the charge."
+As far as I can tell, their clever programmers decided that anything
+that wasn't 1 was a No. That's the next error.
 
 We thought about going back to sleep and just dealing with it in the
 morning.  But I spent so much time on the order that we were both worried.
@@ -86,8 +86,8 @@ higher security on our account.  So they got to ask me some fun questions.
 "Which of the following streets have you lived on? ...."  "Um, none of the
 above, as far as I can tell."  "Okay, what color is your Chevy Equinox?"
 "Um, I don't own a Chevy Equinox.  I've never owned a Chevy Equinox."
-I think those are the next errors, but maybe those were intended to rip
-me up.
+I think those are the next errors, but maybe those were intended to trip
+me up [6].
 
 After a bit of back and forth, we finally established that I was who I
 said I was.  I said "We indicated that we wanted to approve a charge in
@@ -131,18 +131,21 @@ transferred."  I informed them that Chase didn't think it was a hold.
 They didn't believe me.  Is there another error here?  I think that 
 treating a hold as a charge (or vice versa) is potentially an error.
 
-I called Chase.  They called 1-800-FLOWERS for another three-way call.
-The Chase rep confirmed that they saw two charges, the second of which
-was denied.  The 1-800-FLOWERS rep continued to claim that the first
-was just a hold, and that the $xxx had been transferred.  The Chase rep
-indicated that wasn't possible, since the $xxx charge was denied.  Yeah,
-I think that's another error.  We left it that since most of the money had
-been transferred, things were probably temporarily okay, but we expected
-that I would get a second charge for the stupid free shipping program.
-I asked that they confirm that I would get my packages (and that they
-do something to handle the fact that their software did not correctly
-interact with Chase), and they said that they'd have a manager from
-Harry and David call.  
+I called Chase.  They called 1-800-FLOWERS.  I waited for awhile.  When
+they came back on the line, they said "The 1-800-FLOWERS rep I talked to
+said we should call Harry and David again."  Fortunately, I was able to
+convince them to call 1-800-FLOWERS again with me on the line for another
+three-way call.  The Chase rep confirmed that they saw two charges, the
+second of which was denied.  The 1-800-FLOWERS rep continued to claim
+that the first was just a hold, and that the $xxx had been transferred.
+The Chase rep indicated that wasn't possible, since the $xxx charge
+was denied.  Yeah, I think that's another error.  We left it that since
+most of the money had been transferred, things were probably temporarily
+okay, but we expected that I would get a second charge for the stupid free
+shipping program.  I asked that they confirm that I would get my packages
+(and that they do something to handle the fact that their software did
+not correctly interact with Chase), and they said that they'd have a
+manager from Harry and David call.
 
 I think I got back to bed at 8 a.m.  I sent an email to my support
 assistants to put a "Sam is unavailable this morning" sign on my door.
@@ -182,8 +185,19 @@ cursing the work I didn't get done because of it.
 
 Oh, if you don't get fruit from us this year, I'm sorry.  As I said, I
 ordered both too much and too little; more than I'd planned, not enough
-to cover all the people I care about.  But I'm not sure that I could afford
-to send fruit to everyone I care about.
+to cover all the people I care about.  And then the fun with the system
+happened, so I'm not sure that the send list matched the original planned
+list.  And, in the end, I'm not sure that I could afford to send fruit
+to everyone I care about.
+
+---
+
+Updates from Friday, December 2.
+
+* Harry and David Tweeted back at me that they will look into this.
+* Although I had two charges on Thursday night, one of $xxx and one of
+  thirty-some-odd dollars for the free shipping club, I now seem to
+  have the right amounts on my statement.
 
 ---
 
@@ -197,7 +211,8 @@ to send fruit to everyone I care about.
 
 [5]: Middle of the morning?
 
-[6]: A slightly smaller number.
+[6]: The legendary ErynO tells me that questions with no real answer are
+a common test.  Isn't that fun?
 
 [7]: Well, usually.
 
@@ -205,4 +220,4 @@ to send fruit to everyone I care about.
 
 ---
 
-*Version 1.0 of 1 December 2016.*
+*Version 1.1.1 of 2 December 2016.*
