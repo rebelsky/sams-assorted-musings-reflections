@@ -52,9 +52,9 @@ I realize that new Web authors have difficulty with things like
 accessibility.  However, I was commenting on the top-level of the site,
 which I'm pretty sure that the faculty member developed the top-level in
 consultation with the DLAS [6].  It's not a student issue that we don't
-have alt tags at the top level. The instructional designer should have
-had input on the top-level site, and it is therefore on them to make
-sure that the top-level, at the very least, is accessible.
+have alt tags at the top level.  I'm not sure where the misunderstand
+lies, but we should have someone in the process who makes sure that,
+at the very-least, the top-level site is accessible.
 
 Next is the question of when to address accessibility.  It is easier
 and cheaper to address accessibility from the start, rather than to go
@@ -99,20 +99,19 @@ And so we are back to my prior comment: *You don't add accessibility at
 the end; you design in accessibility from the start.*  I don't envy Ross
 or the DLAS in having to go back and turn this inaccessible slideshow
 into an accessible slideshow, or in having to go back and caption and
-annotate the slides.
+annotate the slides.  
 
 I think `sites.grinnell.edu` uses WordPress.  (Okay, I know it uses WordPress,
 since the `haenfler.sites.grinnell.edu` says that it's a WordPress site.)
 Before we go too far in having our faculty and students use WordPress, we
 should make sure to identify a subset of WordPress templates that are
-accessible, and restrict folks to using those templates.  If WordPress has
-no accessible templates, we need to build some.
+accessible, and restrict folks to using those templates [10].  
 
-Now, I realize that some of the folks at the College charged with
-designing Web sites have difficulty understanding accessibility (not
-[our primary Web designers](anderson-dralus.html), but folks responsible
-for things like <http://pioneers.grinnell.edu>).  Nonetheless, that is not
-an excuse for this site, or for any other site on campus with significant
+I realize that some of the folks at the College charged with designing
+Web sites have difficulty understanding accessibility (not [our primary
+Web designers](anderson-dralus.html), but folks responsible for things
+like <http://pioneers.grinnell.edu>).  Nonetheless, that is not an
+excuse for this site, or for any other site on campus with significant
 accessibility issues.
 
 I don't blame Ross for any of this.  He's new at it all.  But it worries
@@ -122,10 +121,17 @@ students aren't really getting it.  It worries me even more that I know
 that there's an advocate for accessibility in Ross's class, and that Ross
 listens to his students, and, in spite of those things, the site still
 has these problems.  I think that brings me back to my primary comment:
-*Consider accessibility from the start.*  A WordPress template that is
-accessible would be a good start.  A user interface that requires alt
-tags is an improvement.  Automated testing for accessibility from the
-start would help, too.
+*Consider accessibility from the start.*  
+
+---
+
+Followup: Things are even more complicated than I thought.  This group
+*did* try to consider accessibility from the start, and should be
+commended for that.  They had the accessibility of the Web template
+verified.  They talked about accessibility issues with one of our primary
+accessibility experts, one whose opinion I respect greatly.  Given all
+of that, I'm puzzled as to how we ended up with a site whose top level
+is clearly not accessible.
 
 ---
 
@@ -217,6 +223,11 @@ TLAs and FLAs [7] at Grinnell, I'm pretty comfortable using it.
 
 [9]: Pain In The Neck.
 
+[10]: Okay, I'm told we already do verify that the templates are
+accessible.  Given my experience with this site, I have no idea what
+is going on.
+
+
 ---
 
-*Version 1.1 of 2016-12-04.*
+*Version 1.2 of 2016-12-04.*
