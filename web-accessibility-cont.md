@@ -52,14 +52,15 @@ I realize that new Web authors have difficulty with things like
 accessibility.  However, I was commenting on the top-level of the site,
 which I'm pretty sure that the faculty member developed the top-level in
 consultation with the DLAS [6].  It's not a student issue that we don't
-have alt tags there. It's a faculty and instructional designer issue.
-Those two should know better.
+have alt tags at the top level. The instructional designer should have
+had input on the top-level site, and it is therefore on them to make
+sure that the top-level, at the very least, is accessible.
 
 Next is the question of when to address accessibility.  It is easier
 and cheaper to address accessibility from the start, rather than to go
 back and retrofit a site [8].  For example, when you add an image; add
 a description.  That way, the person who understands the image is the
-one adding the explanatory text.  Thinking about accessiblity from the
+one adding the explanatory text.  Thinking about accessibility from the
 start helps ensure that the overall design of the site is accessible.
 Rebuilding a site because of an inaccessible overall design is a huge
 and expensive PITA [9], as I think we've already found in many other
@@ -114,6 +115,18 @@ for things like <http://pioneers.grinnell.edu>).  Nonetheless, that is not
 an excuse for this site, or for any other site on campus with significant
 accessibility issues.
 
+I don't blame Ross for any of this.  He's new at it all.  But it worries
+me that the folks who are charged with helping faculty and students design
+Web sites aren't focusing enough on accessibility and that faculty and
+students aren't really getting it.  It worries me even more that I know
+that there's an advocate for accessibility in Ross's class, and that Ross
+listens to his students, and, in spite of those things, the site still
+has these problems.  I think that brings me back to my primary comment:
+*Consider accessibility from the start.*  A WordPress template that is
+accessible would be a good start.  A user interface that requires alt
+tags is an improvement.  Automated testing for accessibility from the
+start would help, too.
+
 ---
 
 I'll note that we also need to think more carefully about things beyond
@@ -130,7 +143,7 @@ One final comment, because I'm irritated.  I'm glad to see that
 However, "Grinnell_002" is not an acceptable alt tag.  Our Head Chief
 Badgerer or her frequently badgered minions should know better.
 
-Nevermind.  I'm wrong.  That wasn't my final comment.  One additional
+Never mind; I'm wrong: That wasn't my final comment.  One additional
 comment because I'm even more irritated.  On the [request a
 site](http://sites.grinnell.edu/request/) page, there's the following
 statement.
@@ -139,7 +152,7 @@ statement.
 the purpose, requirements, and support commitments for academic
 websites. Please read the policy ([DRAFT]<http://web.grinnell.edu/cts/reclaim/AcademicSitePolicyVersion5.pdf>).
 
-"Yeah. No.", as my students are fond of saying.  We have not yet
+"Yeah, No", as my students are fond of saying.  We have not yet
 adopted the policy.  That's why it's a *draft*!  It hasn't passed
 through the Instructional Support Committee.  Claiming that it has
 already been adopted when no official body has signed off on it is
@@ -151,6 +164,18 @@ I hate being critical of well-meaning individuals.  I really appreciate
 the hard work that is going in to sites.grinnell.edu.  But that hard
 work needs to be accompanied by some broader considerations.  Otherwise,
 the work will be even harder in the future.
+
+---
+
+If it's any consolation to those who I am critiquing, it's pretty clear
+that my introductory CS course is not accessible (even though the Web
+site is and I use many Universal Design techniques in my teaching)
+because the focus of the course is on image making and manipulation.
+My only excuse is that the course was designed a decade ago, back before
+accessibility was such a clear issue, and I was following a successful
+model that showed the value of image making and manipulation in the
+intro course.  But the course needs to change.  I'm anticipating at
+least two months of full-time work to create a new introductory course.
 
 ---
 
@@ -194,4 +219,4 @@ TLAs and FLAs [7] at Grinnell, I'm pretty comfortable using it.
 
 ---
 
-*Version 1.0 of 2016-12-04.*
+*Version 1.1 of 2016-12-04.*
