@@ -38,7 +38,7 @@ how as a girl she had misheard the lyric "...and laid him on the
 green" in a Scottish ballad as "...and Lady Mondegreen".  [Wright's
 essay](http://www.drapersguild.com/uploads/1/2/8/5/12854632/harpersmagazine-1954-11-0006768.pdf)
 is definitely worth a read [3].  It took me a bit to figure out this
-"Pay Treats Day" they celebrate in Massachusetts.  However, given hat
+"Pay Treats Day" they celebrate in Massachusetts.  However, given that
 Michelle suffered through the implications of that day, I did figure
 it out [4].
 
@@ -89,4 +89,4 @@ they are fast creatures, so "hare's breath" reasonable means a short time.
 
 ---
 
-*Version 1.0 of 2016-11-05.*
+*Version 1.0.1 of 2016-11-06.*
