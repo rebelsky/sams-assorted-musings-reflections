@@ -4,6 +4,10 @@ Some forthcoming essays
 1. Something about the Chronicle article on a prof criticizing his 
 students.
 
+1. Missed opportunities (the book with mom)
+
+1. Missed opportunties again (the Joe stories).
+
 1. Balancing input and output.  (How much should you read vs. how much
 should you write?) (An issue for creativity.)
 
@@ -196,10 +200,6 @@ what courses should I take? ... plus paperwork and more)
 <http://www.theatlantic.com/magazine/archive/2010/08/how-to-write-in-700-easy-lessons/308043/>
 <http://www.salon.com/2010/11/02/nanowrimo/>
 
-1. Missed opportunities (the book with mom)
-
-1. Missed opportnities again (the Joe stories).
-
 1. Sleep cycles.
 
 1. Amazon Pricing Bots.
@@ -259,13 +259,13 @@ Dodge Dart.)
 
 1. Facebook.
 
-1. Mondegreen.
-
 1. CTLA.
 
 1. NaNoWriMo (On writing.) (Wait another year?)
 
 1. November 11th, in a year.
+
+1. Mondegreens, revisited. (Find another name for them).
 
 ---
 
