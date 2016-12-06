@@ -77,6 +77,10 @@ Essays on writing, or at least on writing my essays
 > Thoughts on what I should do when readers request that I write about
   something.
 
+["Why are you doing this?"](why-musings.html) (Essay #141)
+
+> An answer to a series of questions I received about these essays.
+
 For prospective students, parents of prospective students, and others with similar interests
 --------------------------------------------------------------------------------------------
 
@@ -308,6 +312,11 @@ Reflections on some important issues
 [Web Accessibility](web-accessibility.html) (Essay #92)
 
 > What you should pay attention to when building Web pages.
+
+[Web accessibility, continued](web-accessibility-cont.html) (Essay #142)
+
+> More thoughts on Web accessibility, including a critique of a particular 
+site.
 
 Rants
 -----
@@ -961,6 +970,10 @@ Algorithmic art
 [Ordering from Harry and David](harry-and-david.html) (Essay #139)
 
 > A comedy of (technical) errors.
+
+Latest essay: [Mondegreens](mondegreens.html) (Essay #143)
+
+> A great term, further explored.
 
 Removed
 -------

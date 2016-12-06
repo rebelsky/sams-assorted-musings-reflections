@@ -101,3 +101,7 @@ Algorithmic art
 
 > A comedy of (technical) errors.
 
+Latest essay: [Mondegreens](mondegreens.html) (Essay #143)
+
+> A great term, further explored.
+

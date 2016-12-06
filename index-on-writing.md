@@ -74,3 +74,7 @@ Essays on writing, or at least on writing my essays
 > Thoughts on what I should do when readers request that I write about
   something.
 
+["Why are you doing this?"](why-musings.html) (Essay #141)
+
+> An answer to a series of questions I received about these essays.
+
