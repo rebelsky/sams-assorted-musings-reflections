@@ -201,23 +201,23 @@ Updates from Friday, December 2.
 
 ---
 
-[1]: Well, more precisely, frustrating.
+[1] Well, more precisely, frustrating.
 
-[2]: No spaces because it was limiting me on the number of characters.
+[2] No spaces because it was limiting me on the number of characters.
 
-[3]: User interface.
+[3] User interface.
 
-[4]: Michelle's phone is on all night.
+[4] Michelle's phone is on all night.
 
-[5]: Middle of the morning?
+[5] Middle of the morning?
 
-[6]: The legendary ErynO tells me that questions with no real answer are
+[6] The legendary ErynO tells me that questions with no real answer are
 a common test.  Isn't that fun?
 
-[7]: Well, usually.
+[7] Well, usually.
 
-[8]: No, that still does not delight me.
+[8] No, that still does not delight me.
 
 ---
 
-*Version 1.1.1 of 2 December 2016.*
+*Version 1.1.2 of 2016-12-06.*

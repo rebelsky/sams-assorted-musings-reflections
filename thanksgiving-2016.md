@@ -90,49 +90,49 @@ son gets his way.
 
 ---
 
-[1]: Or is that *should* write?
+[1] Or is that *should* write?
 
-[2]: That's serious.  There is a whole lot for me to be thankful for.
+[2] That's serious.  There is a whole lot for me to be thankful for.
 
-[3]:  Should that be "Middle Son" rather than "middle son"?
+[3]  Should that be "Middle Son" rather than "middle son"?
 
-[4]: Yes, that's right.  He used Guinness in place of about half of
+[4] Yes, that's right.  He used Guinness in place of about half of
 the water.  These bagels were pretty good.
 
-[5]: I thought this was a bad idea.  Alcohol kills yeast.  So using
+[5] I thought this was a bad idea.  Alcohol kills yeast.  So using
 a higher-proof alcohol seems like a particularly bad idea.  But he did
 get it to rise, even though the dough was very dense.  But they turned
 out okay, if not all that unique: Once we'd boiled and baked them,
 it was hard to tell the tequila bagels from the other bagels.
 
-[6]: Well, after Jonathan was done with the kitchen, cleaning and cleaning
+[6] Well, after Jonathan was done with the kitchen, cleaning and cleaning
 and cooking and cleaning seems like a more accurate description; there
 was a *lot* of flour on the floor and elsewhere.
 
-[7]: I found one at the grocery store.  Boy, it's dense.  It's also not
+[7] I found one at the grocery store.  Boy, it's dense.  It's also not
 very tasty.  In some sense, tofurkey is to turkey as turkey bacon is
 to real bacon.
 
-[8]: We weren't sure if marshmallows count as vegan, or even vegetarian,
+[8] We weren't sure if marshmallows count as vegan, or even vegetarian,
 so those got consigned to the meat-eaters table.
 
-[9]: Mashed with butter, so not vegan.  I never remember whether or not
+[9] Mashed with butter, so not vegan.  I never remember whether or not
 vegetarians have butter.
 
-[10]: I appreciate less that he also suggested that we share some
+[10] I appreciate less that he also suggested that we share some
 gossip, although it was interesting to hear some of the gossip.
 
-[11]: The day started at a little after 7 a.m..  I'm finishing this essay
+[11] The day started at a little after 7 a.m..  I'm finishing this essay
 at a little before 11 p.m.
 
-[12]: I'm also thankful for all three sons' creativity, for all
+[12] I'm also thankful for all three sons' creativity, for all
 three sons' helpfulness, and for all three sons' musical talents,
 among other things.
 
-[14]: Certainly, once I went away to college, Thanksgivings with mom
+[14] Certainly, once I went away to college, Thanksgivings with mom
 in Newton became much much rarer.  But we did a reasonable number in
 Chicago, and even some in Grinnell.
 
 ---
 
-*Version 1.0.1 of 2016-11-24.*
+*Version 1.0.2 of 2016-12-06.*

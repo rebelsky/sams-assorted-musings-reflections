@@ -2,14 +2,14 @@ Planning the next CS reunion
 ============================
 
 I've made it through the 2016 CS Affinity Reunion, which we'll call "CS
-Reunion Zero" [^1].  We had a lot of reasons to hold this reunion.  It's a
+Reunion Zero" [1].  We had a lot of reasons to hold this reunion.  It's a
 little more than 25 years since our first graduating class of CS majors.
 It's a little more than ten years since we became our own department.
 And it's a little after Henry Walker moved to Senior Faculty Status.
 It's rare that we will have such a confluence of "special" events in
-the future [^2][^3].  Fortunately, Development and Alumni Relations (DAR)
+the future [2][3].  Fortunately, Development and Alumni Relations (DAR)
 does not require such a confluence for affinity reunions.  I'm hopeful
-that they will allow us to do another one in about five years [^4][^5].
+that they will allow us to do another one in about five years [4][5].
 I'm writing this (bonus) essay to help myself think through what went
 well and what we should do differently next time.
 
@@ -20,13 +20,13 @@ that I was supposed to do.  Fortunately, Nate handled the things that
 I'm incompetent at.  For example, whenever a speaker needed arrangements,
 I passed them off to Nate.  If I'd been in charge, I think we would have
 been scrambling for sleeping bags on Friday night, and we'd have ended
-up with a campout in the CS commons [^8].
+up with a campout in the CS commons [8].
 
 Lots of things went well.  But I'm pretty sure that almost anything we
 did would have gone well.  Our alums like talking to each other, to our
 students, and to our faculty.  Being able to connect to people who made
-a huge difference to them, like Stone and Walker [^9] made them happy.
-I think every presentation was great [^10].  From my perspective, the
+a huge difference to them, like Stone and Walker [9] made them happy.
+I think every presentation was great [10].  From my perspective, the
 career and internship fair was a huge success, and put lots of people in
 touch with each other.  I even think the Sunday morning "Unconference"
 went moderately well; I certainly enjoyed the discussions.
@@ -64,7 +64,7 @@ special to us.
 We should start planning the date and agenda much further in advance.
 (Yeah, that's my fault.)  There were a lot of alums who need more time
 to prepare, and that holds particularly true for the folks who speak.
-I'm sure that Kumail is booked out a year or more [^11][^12].  There are
+I'm sure that Kumail is booked out a year or more [11][12].  There are
 a few folks I'd really love to have come back next time: Hilary Mason
 '00, who has given awesome talks each time she's been here; Lindsey
 Kuper '04, who I was told does an awesome job running !!Con and
@@ -73,7 +73,7 @@ some cool things with accessibility.
 
 I should probably work more with students and alums on choosing topics
 for the panels.  It sounds like we'd do great with panels on startups,
-accessibility, CS in the arts, and speaking at conferences [^14].  Of
+accessibility, CS in the arts, and speaking at conferences [14].  Of
 course, given my experience this year, perhaps almost anything would
 work.
 
@@ -83,7 +83,7 @@ poster fair.  That would encourage much more interaction, and involve
 a larger group of students.
 
 Not everyone wanted to do the pub quiz, so we should think about 
-other evening activities.  DeckWars sounds fun [^15], but I've been
+other evening activities.  DeckWars sounds fun [15], but I've been
 saying that for five years.  I think an explicit place for people 
 to play board games would be good.  And maybe even a place for
 folks to just get together and chat informally.
@@ -120,12 +120,12 @@ sounds like I need to explicitly say "Please come document our event;
 it's something I think people will be interested in."  Or maybe I'm wrong.
 Maybe the CS folks are the only ones who care.  In any case, it might
 also be awesomely fun to have [Brandy Agerbeck '96](brandy-agerbeck.html)
-document the conference [^16].
+document the conference [16].
 
 Oh, I also have to figure out how to clone myself.  I so wanted to spend
 an hour or more talking to each alum.  But in many cases, I only got a
 few minutes, if that.  I'm not sure how to address that issue, but I
-should think about it more [^17].
+should think about it more [17].
 
 I'm pretty sure that we'll be sending out a survey to those
 who attended, and maybe we'll even send out a survey before planning the
@@ -133,55 +133,55 @@ next one.  I'm looking forward to something even more awesome next time.
 
 ---
 
-[^1]: We are computer scientists.  We start counting at zero.
+[1] We are computer scientists.  We start counting at zero.
 
-[^2]: It's also the start of my twentieth year at Grinnell.  But that's
+[2] It's also the start of my twentieth year at Grinnell.  But that's
 less auspicious than the rest.
 
-[^3]: I'm also still not sure why multiples of five are all that special,
+[3] I'm also still not sure why multiples of five are all that special,
 other than that it has to do with the common person's number of digits
 on a hand or foot.
 
-[^4]: If they see that this reunion created a large uptick in gifts, I'm
+[4] If they see that this reunion created a large uptick in gifts, I'm
 sure that the odds will be much greater that we can have another CS
 affinity reunion.
 
-[^5]: Unfortunately, I'll almost certainly be chair in five years.  I
-think that means I'll have to coordinate again [^6].
+[5] Unfortunately, I'll almost certainly be chair in five years.  I
+think that means I'll have to coordinate again [6].
 
-[^6]: Okay, I'll probably end up coordinating in any case.  Being Chair
+[6] Okay, I'll probably end up coordinating in any case.  Being Chair
 will probably make it worse, since I'll also be focusing on all of the
-joyful [^7] paperwork that accompanies that position.
+joyful [7] paperwork that accompanies that position.
 
-[^7]: joyous?
+[7] joyous?
 
-[^8]: Okay, that might have been fun.
+[8] Okay, that might have been fun.
 
-[^9]: And even me.
+[9] And even me.
 
-[^10]: Admittedly, I should have organized the student panel and the
+[10] Admittedly, I should have organized the student panel and the
 CSC 321/22 panel better.
 
-[^11]: We haven't revoked his CS major yet, even though he has admitted
+[11] We haven't revoked his CS major yet, even though he has admitted
 that he never really understood recursion.
 
-[^12]: Did Vivek every give Kumail the t-shirt?  I haven't seen it on 
+[12] Did Vivek every give Kumail the t-shirt?  I haven't seen it on 
 social media.
 
-[^14]: Terian says that you should just submit talk proposals, but I don't
+[14] Terian says that you should just submit talk proposals, but I don't
 think most people fell that they can do it.
 
-[^15]: Do a presentation involving a PowerPoint deck you've never seen
+[15] Do a presentation involving a PowerPoint deck you've never seen
 before.
 
-[^16]: I'd particularly love to see a graphic representation of one of
+[16] I'd particularly love to see a graphic representation of one of
 Kumail's shows.
 
-[^17]: It appears that some of these essays have the important effect
+[17] It appears that some of these essays have the important effect
 of reminding the alums that I care, but it doesn't give me the privilege
 of getting to hear about how they are doing.  And I really do love hearing
 about [their families, their careers, and their broader interests](cs-alums.html).
 
 ---
 
-*Version 1.0 of 2016-11-20.*
+*Version 1.0.1 of 2016-12-06.*

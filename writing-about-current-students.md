@@ -60,33 +60,33 @@ post" essays.  If you're one of those folks, this essay is for you.
 
 ---
 
-[1]: I may only have written about current administrators.  Let me
+[1] I may only have written about current administrators.  Let me
 think.  [Erik Simpson](erik-simpson.html) was on Council.  Does that
 make him a "former administrator"?  I think not.  But I'll find some
 to write about.  Maybe Donald Tom.  Maybe about our former associate
 Deans who have gone on to be Deans and Presidents and such.
 
-[2]: I was going to write "I haven't written anything about current
+[2] I was going to write "I haven't written anything about current
 students", but that isn't true.  I have.  I just haven't posted it.
 And I won't.
 
-[3]: Federal Education Rights and Privacy Act, a law that governs
+[3] Federal Education Rights and Privacy Act, a law that governs
 disclosure of student data.
 
-[4]: And alumni [5], now that I think about it,
+[4] And alumni [5], now that I think about it,
 
-[5]: Or at least alumni who should not be considered "public figures".
+[5] Or at least alumni who should not be considered "public figures".
 
-[6]: As my wonderful wife says, "all of your profiles feel a little
+[6] As my wonderful wife says, "all of your profiles feel a little
 bit creepy".
 
-[7]: Okay, there are only about 120 students who take CSC 151 each
+[7] Okay, there are only about 120 students who take CSC 151 each
 year, so it is possible.  Nonetheless, it doesn't sound like a good time.
 
-[8]: Or at least I hope I have.
+[8] Or at least I hope I have.
 
-[9]: With their permission, of course.
+[9] With their permission, of course.
 
 ---
 
-*Version 1.0 of 2016-11-22.*
+*Version 1.0.1 of 2016-12-06.*

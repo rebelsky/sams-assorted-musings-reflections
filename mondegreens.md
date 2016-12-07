@@ -66,27 +66,27 @@ in a future essay.
 
 ---
 
-[1]: Actually, I really love the _Chicago Manual of Style_ as a reference,
+[1] Actually, I really love the _Chicago Manual of Style_ as a reference,
 enough so that I keep all of the editions I've owned [2], but it lives
 in my office, rather than home, so I rely on Web searches.
 
-[2]: Much to the consternation of middle son.
+[2] Much to the consternation of middle son.
 
-[3]: Or is it worth a reed?  And, if so, what kind?  Bari sax?  Clarinet?
+[3] Or is it worth a reed?  And, if so, what kind?  Bari sax?  Clarinet?
 And what thickness?
 
-[4]: For those of you not from our fine Commonwealth, Massachusites [5]
+[4] For those of you not from our fine Commonwealth, Massachusites [5]
 celebrate Patriots Day.
 
-[5]: That's right, it's "Massachusite", not "Masshole".  The latter is 
+[5] That's right, it's "Massachusite", not "Masshole".  The latter is 
 a term used to describe the big dig.
 
-[6]: A common mishearing of Jimi Hendrix's "'Scuse me while I kiss the
+[6] A common mishearing of Jimi Hendrix's "'Scuse me while I kiss the
 sky."
 
-[7]: No, I don't know why a hare would breathe very quickly.  Nonetheless,
+[7] No, I don't know why a hare would breathe very quickly.  Nonetheless,
 they are fast creatures, so "hare's breath" reasonable means a short time.
 
 ---
 
-*Version 1.0.1 of 2016-11-06.*
+*Version 1.0.2 of 2016-11-06.*

@@ -181,27 +181,27 @@ his essays suggest that.
 
 ---
 
-[1]: That's not quite accurate.  Since I need to get many of the essays
+[1] That's not quite accurate.  Since I need to get many of the essays
 approved by their subjects, I sometimes have to write an extra essay,
 and I sometimes can skip a day because of that.  But it's close enough
 to every day that I'm willing to call it such.
 
-[2]: My muse is also refusing to let me get any other work done until
+[2] My muse is also refusing to let me get any other work done until
 I write some parts of this essay.
 
-[3]: I should observe that one of my readers noticed that I'd included
+[3] I should observe that one of my readers noticed that I'd included
 myself on the list of Grinnellians I planned to write about and
 volunteered to write that essay.  While I appreciate the offer, I think
 that person missed the point.  The essays are therapy for me, and they are
 supposed to reflect my perspectives, not other peoples' perspectives [4].
 
-[4]: However, I should admit that they *can* reflect other people's
+[4] However, I should admit that they *can* reflect other people's
 perspectives when I decide to borrow those perspectives.  In those
 cases, I do try to cite.
 
-[5]: <http://www.cs.grinnell.edu/~rebelsky/>
+[5] <http://www.cs.grinnell.edu/~rebelsky/>
 
-[6]: What's a "front door"?  Fortunately, Sam answers that question on
+[6] What's a "front door"?  Fortunately, Sam answers that question on
 his Front Door [5], too.
 
 > Why do you have links to a Front Door and Origin rather than a Home Page?
@@ -211,82 +211,82 @@ Stone notes that Home Page is ambiguous, because it can either mean
 entry to my site, or place which I use to start my browsing. He
 suggests using Front Door for the former and Origin for the latter.
 
-[7]: Is there a difference between the latter two?  Perhaps not.
+[7] Is there a difference between the latter two?  Perhaps not.
 
-[8]: You should feel sorry for such students.
+[8] You should feel sorry for such students.
 
-[9]: Yes, the events described in that paragraph are accurate.  Yes, I
+[9] Yes, the events described in that paragraph are accurate.  Yes, I
 said this to a student (and some other folks who were nearby).  No, these
 are probably not the exact words I used.
 
-[10]: That's a good topic for an essay: "Why WebAdvisor troubles me
+[10] That's a good topic for an essay: "Why WebAdvisor troubles me
 as an Advisor and as a Computer Scientist."  The main reason is that
 it is needlessly and inappropriately slow [11].
 
-[11]: The Registrar tells me that it bothers me more than most folks
+[11] The Registrar tells me that it bothers me more than most folks
 because I have more advisees than most folks [12].
 
-[12]: Thirty-five advisees, as of today, with more on the way.  It doesn't
+[12] Thirty-five advisees, as of today, with more on the way.  It doesn't
 help that I've placed limits on my early-career colleagues [14], and that I'm
 the only other faculty member in CS who is on campus this year and who will
 also be on campus next year.  I expect many more [15].
 
-[14]: My early-career colleagues are permitted to have twelve major
+[14] My early-career colleagues are permitted to have twelve major
 advisees at the end of this year.  That's already a lot.  Since they
 will be teaching Tutorial in the fall,
 
-[15]: Maybe some will leave me for Jerod when he returns to campus.  I can
+[15] Maybe some will leave me for Jerod when he returns to campus.  I can
 only hope [16].  
 
-[16]: This is not to say that I don't love all of my advisees.  But I
+[16] This is not to say that I don't love all of my advisees.  But I
 think they get better advising when I have fewer of them.
 
-[17]: Given the difficulty of some of Sam's take-home exams, it is only
+[17] Given the difficulty of some of Sam's take-home exams, it is only
 reasonable that he sets limits.
 
-[18]: Well, evidence is that he would prefer not to hear about their
+[18] Well, evidence is that he would prefer not to hear about their
 use of recreational substances.  But that's okay, almost no Grinnell
 students use recreational substances [19].
 
-[19]: Remember our slogan: "Take notes, not drugs."
+[19] Remember our slogan: "Take notes, not drugs."
 
-[20]: Anonymous.  Private communication dated 5 October 2016.
+[20] Anonymous.  Private communication dated 5 October 2016.
 
-[21]: I don't believe that Sam cares for *every* Grinnell student.  Just
+[21] I don't believe that Sam cares for *every* Grinnell student.  Just
 most of the ones he knows, and he knows only a small subset of Grinnell's
 1600 students [22].
 
-[22]: Given the growth of the CS major, that may not be such a small
+[22] Given the growth of the CS major, that may not be such a small
 subset for long.  Rumor has it that Sam has allowed 42 students into
 the spring section of CSC 151.  But at least he's saying no to any
 more. 
 
-[23]: Well, it was an administrator, but I think Sam still counts them
+[23] Well, it was an administrator, but I think Sam still counts them
 as a colleague.  And they are one of our most awesome administrators.
 
-[24]: I feel honored to be described in the same sentence as Chris Hunter.
+[24] I feel honored to be described in the same sentence as Chris Hunter.
 I should probably write an essay about him at some point.
 
-[25]: I hope that the mention of Chris Hunter doesn't reveal the identity
+[25] I hope that the mention of Chris Hunter doesn't reveal the identity
 of the administrator.  It shouldn't.
 
-[26]: FEPRA policy indicates that I should not tell you about the
+[26] FEPRA policy indicates that I should not tell you about the
 kinds of things he has advocated for in recent weeks.
 
-[27]: I appreciate that Sam usually treats his students to the coffee
+[27] I appreciate that Sam usually treats his students to the coffee
 (or other beverages) and muffins (or other foodstuffs) because, in
 his words, "Your ability to pay should not affect your ability to
 enjoy my class, and I should not need to know about your ability
 to pay."
 
-[28]: As middle son says: "Tenure is a wonderful thing."
+[28] As middle son says: "Tenure is a wonderful thing."
 
-[29]: I think we introduced the concept of "characters" back in one
+[29] I think we introduced the concept of "characters" back in one
 of the opening paragraphs.
 
-[30]: Or at least I think we have.  Maybe I forgot [31].
+[30] Or at least I think we have.  Maybe I forgot [31].
 
-[31]: More accurately, when I wrote the sentence that begins "We've
+[31] More accurately, when I wrote the sentence that begins "We've
 already considered Sam's forgetfulness", I really did intend to
 go back and write about my forgetfulness.  But then I forgot.  And
 it's too much effort to insert it into the essay at this point.
@@ -303,25 +303,24 @@ No one gave themselves anything higher than a B.  I also got perfect
 ratings in the course.  That experience taught me that grading is
 optional `( :` [34]
 
-[33]: It was also legendary in that it contained many of my favorite alums.
+[33] It was also legendary in that it contained many of my favorite alums.
 Not just Rachel, but also Vivek, Kumail, Joey, Andrew, Sarah, and many,
 many more.  They are part of the reason I think of myself as "Grinnell
 class of '01", even though I'm not.
 
-[34]: Alternate form of smiley due to [Lea](lea-marolt-sonnenschein.html).
+[34] Alternate form of smiley due to [Lea](lea-marolt-sonnenschein.html).
 
-[35]: Remember that conversation with an administrator I overheard?
+[35] Remember that conversation with an administrator I overheard?
 I think they were following up on an earlier conversation about Sam's
 burnout, and I heard him say "I'm doing much better.  Writing the profiles
 has helped a lot.  I'm not losing my temper about things like the branding
 consultants coming to campus [36]."
 
-[36]: Yeah, we have branding consultants coming to campus.  In a four-
+[36] Yeah, we have branding consultants coming to campus.  In a four-
 or five-paragraph "Grinnell 2030" vision statement, diversity appears
 in one place, as does self-governance.  And my Executive Council reps
 didn't even know that the consultants were coming.  Yay transparency!
 
-
 ---
 
-*Version 1.0 of 2016-11-29.* 
+*Version 1.0.1 of 2016-12-06.* 

@@ -185,7 +185,7 @@ least two months of full-time work to create a new introductory course.
 
 ---
 
-[1]: Faculty Fridays are a relatively new regular event at Grinnell.
+[1] Faculty Fridays are a relatively new regular event at Grinnell.
 Each Friday, folks in the Dean's office and the Center for Teacher,
 Learning, and Assessment identify a topic of interest to a broad range
 of faculty and invite us to lunch and discuss (or hear about) the topic.
@@ -193,10 +193,10 @@ Faculty Fridays don't replace the good old Faculty House Wednesday lunches
 [2], but they do provide a useful way for faculty to chat together about
 issues of interest.
 
-[2]: I hope to see those return some time soon.  The once per semester
+[2] I hope to see those return some time soon.  The once per semester
 social Faculty Fridays don't quite cut it.
 
-[3]: You will not be surprised to hear that I said something like that
+[3] You will not be surprised to hear that I said something like that
 in the middle of the presentation.  That is, I said something like "I find
 it troublesome that the two things you just showed us have accessibility
 issues, particularly given that we just had the public release of our
@@ -205,29 +205,28 @@ I probably said something like "It's not only our legal responsibility,
 but our moral responsibility, to make sure that our sites are accessible."
 I'm not very polite about these issues.
 
-[4]: I believe that thanks are due to the Head Chief Badgerer of the
+[4] I believe that thanks are due to the Head Chief Badgerer of the
 Forum Basement.
 
-[5]: Alt tags are pieces of code that you associate with images in Web 
+[5] Alt tags are pieces of code that you associate with images in Web 
 pages that describe the image.  They allow people with limited vision
 to understand the images.  Alt tags also help those with limited
 bandwidth, or those who may not understand the images.
 
-[6]: I have no idea whether or not other people turn "Digital Liberal
+[6] I have no idea whether or not other people turn "Digital Liberal
 Arts Specialist" into "DLAS".  However, given our propensity for
 TLAs and FLAs [7] at Grinnell, I'm pretty comfortable using it.
 
-[7]: Three-letter acronyms and four-letter acronyms.
+[7] Three-letter acronyms and four-letter acronyms.
 
-[8]: It may even be our legal responsibility for official College sites.
+[8] It may even be our legal responsibility for official College sites.
 
-[9]: Pain In The Neck.
+[9] Pain In The Neck.
 
-[10]: Okay, I'm told we already do verify that the templates are
+[10] Okay, I'm told we already do verify that the templates are
 accessible.  Given my experience with this site, I have no idea what
 is going on.
 
-
 ---
 
-*Version 1.2 of 2016-12-04.*
+*Version 1.2.1 of 2016-12-06.*

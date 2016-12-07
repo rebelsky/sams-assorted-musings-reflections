@@ -88,32 +88,32 @@ me proud that it's nice to do something in exchange.
 
 ---
 
-[1]: Okay, that's three questions.  But they called it "a question".
+[1] Okay, that's three questions.  But they called it "a question".
 
-[2]: Similarly, once I've written to one person about why I'm writing
+[2] Similarly, once I've written to one person about why I'm writing
 these essays, it's not clear that I need to write a different message
 to the next person; I can just point them to this essay.
 
-[3]: Okay, I sometimes have the goals I just mentioned; but I'm also free
+[3] Okay, I sometimes have the goals I just mentioned; but I'm also free
 to write something stupid or silly if that's what I decide I need to do
 
-[4]: Those numbers were the case when I wrote back to the person.
+[4] Those numbers were the case when I wrote back to the person.
 I'm now up to about 140 essays, 100 since summer.
 
-[5]: Yes, I know that I've said that I write these essays for me, and
+[5] Yes, I know that I've said that I write these essays for me, and
 I do primarily write these essays for me.  But that doesn't mean that
 I don't appreciate my audience.
 
-[6]: No, that is not a request for notes from people.  It's just an
+[6] No, that is not a request for notes from people.  It's just an
 observation.
 
-[7]: Or at least that writing helps me think through complex issues.
+[7] Or at least that writing helps me think through complex issues.
 
-[8]: More precisely, writing positive things about other people makes
+[8] More precisely, writing positive things about other people makes
 you and them feel better.
 
-[9]: Just joking.
+[9] Just joking.
 
 ---
 
-*Version 1.0 of 2016-12-03.*
+*Version 1.0.1 of 2016-12-06.*

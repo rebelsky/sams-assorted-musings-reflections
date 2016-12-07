@@ -110,49 +110,49 @@ I'm pretty sure that I'll keep writing.
 
 ---
 
-[1]: The best example that comes to mind is [my essay about the
+[1] The best example that comes to mind is [my essay about the
 bookstore](bookstore.html), in which I do not feel I came close to
 expressing the wonderful intellectual home and place of exploration
 a bookstore can be.  I have the vision, but not the words.
 
-[2]: I think I remember an article about Borges in which it said that he
+[2] I think I remember an article about Borges in which it said that he
 made sure that each sentence was perfect before he moved on to the next
 one.  I'm not sure that I can ever achieve that level of care, but I
 certainly could think more about each sentence before moving on to the
 next one, or go back and edit more, or whatever.
 
-[3]: I know that I have a responsibility to cite, but in these cases I
+[3] I know that I have a responsibility to cite, but in these cases I
 think I also have a greater responsibility to preserve the confidence
 of the authors.  So, let's call them all "*Anonymous (2016).  Personal
 Communication.*"
 
-[4]: I'm humbled by all the things you do.
+[4] I'm humbled by all the things you do.
 
-[5]: You are.
+[5] You are.
 
-[6]: No, I don't really have conversations like that with my muse.
+[6] No, I don't really have conversations like that with my muse.
 But I did have to put off essays I wanted to write so that I could
 write essays that I could post the same night.
 
-[7]: The [John Stone](john-stone.html) essay ended up being somewhere
+[7] The [John Stone](john-stone.html) essay ended up being somewhere
 in the middle.  I had originally planned to write a long essay about
 John and ask for his permission.  Then I realized that John would not 
 want any essay posted about him.  So I wrote the one-sentence essay
 instead.  One reader found that frustrating.  Most others thought it
 was perfectly appropriate.
 
-[8]: And, in many cases, started the next essay.
+[8] And, in many cases, started the next essay.
 
-[9]: Yes, I do research once in a while.
+[9] Yes, I do research once in a while.
 
-[10]: I'm also not sure that I care about the effect on my audience.
+[10] I'm also not sure that I care about the effect on my audience.
 At this point, I'm writing most of these essays primarily for me.
 The occasional one that serves a purpose (e.g., promoting Grinnell or
 CS at Grinnell) gets directed to appropriate people at appropriate times.
 
-[11]: Or because they found that my writing was going downhill.
+[11] Or because they found that my writing was going downhill.
 
-[12]: The student asked where I got the information for my profiles.
+[12] The student asked where I got the information for my profiles.
 I had to admit that most of the information is somewhere in my head,
 which means that parts are probably fictitious, or at least not quite
 accurate.  But I've been at Grinnell for a long time; I do build up a fund
@@ -162,17 +162,17 @@ in some cases, I write the essays after the subjects visit my Learning
 from Alumni course, and those visits have allowed me to both learn new
 things about the person and dredge up past memories.
 
-[14]: Or punished.  At least one person has told me that they would prefer
+[14] Or punished.  At least one person has told me that they would prefer
 not to see an essay about them, and I don't think that was intended as
 reverse psychology.
 
-[15]: Or another ten months.
+[15] Or another ten months.
 
-[16]: You can expect a month of essay about C and Unix in January.
+[16] You can expect a month of essay about C and Unix in January.
 
-[17]: Yes, even though I write for myself and not for you, I appreciate
+[17] Yes, even though I write for myself and not for you, I appreciate
 having an audience.
 
 ---
 
-*Version 1.0.1 of 2016-11-30.*
+*Version 1.0.2 of 2016-12-07.*

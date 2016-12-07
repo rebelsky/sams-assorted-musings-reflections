@@ -43,22 +43,22 @@ they want to, not when someone suggests one of those songs.
 
 ---
 
-[1]: Should that be "like today"?  It's night.  Maybe "Other times, like
+[1] Should that be "like today"?  It's night.  Maybe "Other times, like
 tonight."
 
-[2]: Yes, my muse directed me to write about requests.  Mostly, my muse
+[2] Yes, my muse directed me to write about requests.  Mostly, my muse
 knows that I'm exhausted, and needed something short.  We thought about
 having me write about my name, but it appears that's a short essay for
 another day [3].
 
-[3]: Or night, as the case may be.
+[3] Or night, as the case may be.
 
-[4]: Have I written about choosing a gender for my muse?  I think so, but
+[4] Have I written about choosing a gender for my muse?  I think so, but
 I'm too lazy to look.  Anyway, since the muses are traditionally identified
 as female, I will use female pronouns for my muse, at least in this essay.
 
-[5]: Okay, I did write about the election.  But that wasn't a full essay.
+[5] Okay, I did write about the election.  But that wasn't a full essay.
 
 ---
 
-*Version 1.0 of 2016-12-02.*
+*Version 1.0.1 of 2016-12-06.*

@@ -140,25 +140,25 @@ at all", among other things.
 
 ---
 
-[1]: Yes, I know that we no longer use the term "host family".  We are
+[1] Yes, I know that we no longer use the term "host family".  We are
 now Friends of International Students, which still seems kind of FIShy
 to me.  But Lea started as a host daughter, and that's what she remains
 in my eyes.
 
-[2]: No, they didn't leave because of Lea.  And no, we didn't try to get
+[2] No, they didn't leave because of Lea.  And no, we didn't try to get
 them to leave town so that we could get Lea.  
 
-[3]: "Uncle Charles", my wife's brother, is responsible for the "Rebelsky
+[3] "Uncle Charles", my wife's brother, is responsible for the "Rebelsky
 Test" family meme, and the associated stories.
 
-[4]: Thanks go out to Jon Edwards for recruiting her!
+[4] Thanks go out to Jon Edwards for recruiting her!
 
-[5]: I wonder if _Rocko's Modern Life_ was among them.  Its theme was
+[5] I wonder if _Rocko's Modern Life_ was among them.  Its theme was
 written by a Grinnell alum.
 
-[6]: No, that's not unexpected.
+[6] No, that's not unexpected.
 
-[7]: Just so you know, it is perfectly possible to start a CS major in
+[7] Just so you know, it is perfectly possible to start a CS major in
 your third semester at Grinnell and finish it in three years, even without
 doing something special like Lea and [Blake](w-blake-creasey.html) did.
 For example, [Zoe Wolter](zoe-wolter.html) started CS in her third
@@ -167,11 +167,11 @@ major, but also a Theatre major.  There are at least two curent students
 who are also completing a CS major in three years, both of whom studied
 abroad without doing any CS abroad [8,9].
 
-[8]: Sorry, they are current students.  I won't reveal their names.
+[8] Sorry, they are current students.  I won't reveal their names.
 But I'll probably write about them when they graduate, as long as
 I'm still writing profiles.
 
-[9]: Lea tells me that in her second year at Grinnell (the time in
+[9] Lea tells me that in her second year at Grinnell (the time in
 which she took 161 over winter break), we only offered CSC 207 in
 the spring.  That sounds reasonable.  But we did offer CSC 207 in
 the following fall, which I know because (a) I taught it and
@@ -179,90 +179,90 @@ the following fall, which I know because (a) I taught it and
 three sections of 207, one in the fall (32 students) and two in
 the spring (28 and 25 students) [10].
 
-[10]: 85 students are taking the third course in our introductory
+[10] 85 students are taking the third course in our introductory
 sequence this year.  I think we may be doomed.  It seems too soon
 to request another tenure-track hire, but we may have to do so 
 in Spring 2018.
 
-[11]: [Mr. Walker](henry-walker.html) generously supervised Lea's study
+[11] [Mr. Walker](henry-walker.html) generously supervised Lea's study
 without receiving any compensation.  Now that Henry is on SFS, there's
 no one else able and willing to do so.  We're looking for xMOOCs that
 might serve as a reasonable alternative, but haven't found one yet [12].
 
-[12]: Yes, we've tried the Harvard EdX 50.  No, it's not a reasonable
+[12] Yes, we've tried the Harvard EdX 50.  No, it's not a reasonable
 alternative.
 
-[14]: She was also really late to a meeting with [Atul
+[14] She was also really late to a meeting with [Atul
 Gupta](atul-gupta.html) and still impressed him.  Given what I know
 about Atul, I'm still not sure how she managed that.
 
-[15]: Too many late nights working on that app made her #GrinUnwell.
+[15] Too many late nights working on that app made her #GrinUnwell.
 
-[16]: In reading a draft of this essay, Lea noted "You forgot the SEPC
+[16] In reading a draft of this essay, Lea noted "You forgot the SEPC
 and that I was a TC."
 
-[17]: And men?
+[17] And men?
 
-[18]: Gendered comment elided [19].
+[18] Gendered comment elided [19].
 
-[19]: Why is that "elided" has one "l", but "ellipses" has two?
+[19] Why is that "elided" has one "l", but "ellipses" has two?
 
-[20]: You think a (host) father would know his (host) daughter better,
+[20] You think a (host) father would know his (host) daughter better,
 wouldn't you?
 
-[21]: Or should that be "essay of the days"? Or perhaps "essays of the days"? 
+[21] Or should that be "essay of the days"? Or perhaps "essays of the days"? 
 [22]
 
-[22]: Have I asked that question before?  I think so.  I'm still waiting
+[22] Have I asked that question before?  I think so.  I'm still waiting
 for an answer from [Erik](erik-simpson.html), [Carolyn](carolyn-jacobson.html),
 [Paula](paula-smith.html), [David](david-feldman.html), middle son,
 or someone else willing to comment on such matters of grammar.
 
-[23]: Hmmm ... is it Grinnellians to write tutorials for a site that
+[23] Hmmm ... is it Grinnellians to write tutorials for a site that
 charges people to use it?  I'm not sure.  But maybe I don't understand
 the site [24].  Maybe I can get Lea to encourage them to set up student
 memberships (: [25].
 
-[24]: Lea tells me that there's no charge to use the tutorials, just
+[24] Lea tells me that there's no charge to use the tutorials, just
 the books and screencasts.  They should still consider student memberships.
 
-[25]: Although I traditionally write smileys as `:-)`, I note that Lea
+[25] Although I traditionally write smileys as `:-)`, I note that Lea
 tends to write them as `(:`, although sometimes as `:D`.  It's probably
 a Slovenian thing.
 
-[26]: Imposter syndrome is a feeling that smart and successful people have
+[26] Imposter syndrome is a feeling that smart and successful people have
 in which they think that people are overstating their accomplishments,
 and that they are really "imposters".  I believe that women suffer from
 it more than men.  I know that large numbers of women in CS face imposter
 syndrome.
 
-[27]: What?  It's been longer than that?  Damn.  I'm sorry, Lea.  Maybe
+[27] What?  It's been longer than that?  Damn.  I'm sorry, Lea.  Maybe
 tomorrow.
 
-[28]: Okay, I really should write the letter of recommendation tomorrow.
+[28] Okay, I really should write the letter of recommendation tomorrow.
 I'll do my best.  Fortunately, in the midst of writing this profile, I
 was able to dig up an old letter of recommendation, so perhaps I can work
 from there [29].
 
-[29]: I must admit that that letter was so long that I decided it needed
+[29] I must admit that that letter was so long that I decided it needed
 an "executive summary" at the beginning, and I think I wrote it about
 midway through her Grinnell career, so it would end up being even longer.
 But it was a useful letter, since it got her the GHC scholarship.
 I'll check to see what length she wants [30].
 
-[30]: Lea says that she's not sure, and that she trusts me.  Bad call.
+[30] Lea says that she's not sure, and that she trusts me.  Bad call.
 
-[31]: Daniel's taking after his older sister in that respect, although
+[31] Daniel's taking after his older sister in that respect, although
 he's not quite at her level.
 
-[32]: I think I recommended that she apply for WWDC that year.  At least
+[32] I think I recommended that she apply for WWDC that year.  At least
 I'll pretend that I recommend that she do so.
 
-[33]: Be careful about the next video in the BuzzFeedVideo series!
+[33] Be careful about the next video in the BuzzFeedVideo series!
 
-[34]: I ended up with way too many endnotes in this essay.  I wonder if
+[34] I ended up with way too many endnotes in this essay.  I wonder if
 I got all of the referrents corrected.
 
 ---
 
-*Version 1.1.1 of 2016-12-01.*
+*Version 1.1.2 of 2016-12-06.*

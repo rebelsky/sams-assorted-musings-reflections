@@ -55,30 +55,30 @@ rather than through privatization.  I hope that means that there's hope.
 
 ---
 
-[1]: At what point does she go from being Hallie Flanagan '11 to
+[1] At what point does she go from being Hallie Flanagan '11 to
 being Hallie Flanagan 1911?  I thought that should have happened
 when we graduated the class of 2011, but I don't think it did.
 
-[2]: You do know what the WPA is, right?  If not, I'm really depressed
+[2] You do know what the WPA is, right?  If not, I'm really depressed
 by the state of American History education.
 
-[3]: If my Flanagan biographies were not buried in the mess that is
+[3] If my Flanagan biographies were not buried in the mess that is
 my office, I would have pulled one out to get the exact quotation.
 But they are, and I'm writing the essay tonight.  Maybe I'll go back
 and fix it later.
 
-[4]: Federal Theatre Project, not file transfer protocol.
+[4] Federal Theatre Project, not file transfer protocol.
 
-[5]: Grinnell seems to have continuing connections with Vassar.
+[5] Grinnell seems to have continuing connections with Vassar.
 Former Grinnell professor Jon Chenette is Dean of the College and
 interim president.  Vassar graduates Leslie Gregg-Jolly and Rachel
 Schnepper are valued members of the Grinnell community.  But I guess
 that Grinnell has many connections to strong liberal arts colleges.
 
-[6]: There are at least two good biographies of Flanagan.  If you
+[6] There are at least two good biographies of Flanagan.  If you
 bother me enough, I might even be able to dig them out of my office.
 Alternately, you could take them out of the library.
 
 ---
 
-*Version 1.0 of 2016-11-23.*
+*Version 1.0.1 of 2016-12-06.*
