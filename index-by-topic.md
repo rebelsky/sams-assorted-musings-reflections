@@ -498,6 +498,10 @@ The joy of code
 
 > A simple, yet interesting, animation.
 
+[The joy of code: Linking endnotes](joc-linking-endnotes.html) (Essay #144)
+
+> How I got the endnote links in these essays.
+
 Grinnellians you should know (or know about)
 --------------------------------------------
 

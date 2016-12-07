@@ -7,7 +7,7 @@ students or other people.  Some are rants about topics I'm passionate
 about.  Some are explanations of how I approach the world.  Some are
 just my attempts to think through a topic.
 
-Latest essay: [Mondegreens](mondegreens.html) (Essay #143)
+Latest essay: [The joy of code: Linking endnotes](joc-linking-endnotes.html) (Essay #144)
 
 [Essays, by number](index-by-number.html)
 
