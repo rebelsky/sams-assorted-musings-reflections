@@ -3,6 +3,8 @@ The joy of code: Linking endnotes
 
 *Warning!  Technical stuff ahead.*
 
+*Warning!  More dumb jokes than normal ahead.*
+
 As both new and old readers know, I put a lot of endnotes in my essays.
 Some people, like my darling wife, seem to like to read the endnotes
 after the essay, and don't pay too much attention to the relationship
@@ -123,6 +125,13 @@ is HTML code for an anchor (both the source and target of a link).  The
 on the pattern.  Everything else is mostly more of the same to set up the
 HTML appropriately.
 
+What's left?  The options.  "`m`" means that I want to do multi-line
+matching.  That's necessary, because I'm trying to identify the blank
+line before the referents.  "`g`" means "global", which indicates that
+we should replace the pattern every time it matches.  Since I often
+write more than one endnote (even more than one endnote on each line),
+that's clearly necessary.
+
 If I hadn't tried to write this code in my sleep, it probably would have
 taken five minutes.  But I did try to write it in my sleep [25], so it
 took closer to fifteen minutes.  Not too bad.  That's probably one-fourth
@@ -236,4 +245,4 @@ It's probably because curly braces ended up marking stuff in C code.
 
 ---
 
-*Version 1.0 of 2016-12-06.*
+*Version 1.0.1 of 2016-12-06.*
