@@ -13,11 +13,7 @@ should you write?) (An issue for creativity.)
 
 1. Donating to Grinnell.  (Why you should donate.)
 
-1. Linking footnotes (along with additional software).
-
 1. Preregistration.
-
-1. Why these musings? (why-musings.html) [Short]
 
 1. Outlook.  (More precisely, Outlook Calendar.)
 
@@ -266,6 +262,8 @@ Dodge Dart.)
 1. November 11th, in a year.
 
 1. Mondegreens, revisited. (Find another name for them).
+
+1. Usite.
 
 ---
 
