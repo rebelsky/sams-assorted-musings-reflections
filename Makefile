@@ -34,7 +34,7 @@ clean:
 	ps2pdf $<  $*.pdf
 
 %-md.html: %.md
-	Markdown.pl $< > $@
+	mdfootnotes $< | Markdown.pl > $@
 
 %.html: %-md.html resources/template.html
 	wrap-md-html $^ > $@
