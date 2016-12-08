@@ -1,6 +1,14 @@
 Some forthcoming essays
 =======================
 
+1. Pebble (watches).
+
+1. Backticks.
+
+1. Maybe my silly "windows in Processing" code.
+
+1. Heap sort.
+
 1. Something about the Chronicle article on a prof criticizing his 
 students.
 
