@@ -186,6 +186,6 @@ Essay #3 was about Grinnell's relationship with Posse.
 ## 141-150
 
 ["Why are you doing this?"](why-musings.html) (Essay #141)  
-[Web accessibility, continued](web-accessibility-cont.html) (Essay #142)  
-Latest essay: [Mondegreens](mondegreens.html) (Essay #143)  
+Essay #142 was about Web accessibility, focusing on a particular Web site.  
+[Mondegreens](mondegreens.html) (Essay #143)  
 [The joy of code: Linking endnotes](joc-linking-endnotes.html) (Essay #144)  

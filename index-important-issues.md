@@ -49,8 +49,3 @@ Reflections on some important issues
 
 > What you should pay attention to when building Web pages.
 
-[Web accessibility, continued](web-accessibility-cont.html) (Essay #142)
-
-> More thoughts on Web accessibility, including a critique of a particular 
-site.
-
