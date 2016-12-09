@@ -78,3 +78,7 @@ Essays on writing, or at least on writing my essays
 
 > An answer to a series of questions I received about these essays.
 
+[Removing another essay](removing-another-essay.html) (Essay #145)
+
+> Reflections on the need to remove essays.
+

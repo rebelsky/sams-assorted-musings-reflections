@@ -81,6 +81,10 @@ Essays on writing, or at least on writing my essays
 
 > An answer to a series of questions I received about these essays.
 
+[Removing another essay](removing-another-essay.html) (Essay #145)
+
+> Reflections on the need to remove essays.
+
 For prospective students, parents of prospective students, and others with similar interests
 --------------------------------------------------------------------------------------------
 
@@ -973,6 +977,11 @@ Algorithmic art
 [Mondegreens](mondegreens.html) (Essay #143)
 
 > A great term, further explored.
+
+[A few forthcoming essays](forthcoming-146.html) (Essay #146)
+
+> Almost what it says.  A potential preview of some upcoming essay
+  topics.
 
 Removed
 -------

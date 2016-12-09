@@ -105,3 +105,8 @@ Algorithmic art
 
 > A great term, further explored.
 
+[A few forthcoming essays](forthcoming-146.html) (Essay #146)
+
+> Almost what it says.  A potential preview of some upcoming essay
+  topics.
+
