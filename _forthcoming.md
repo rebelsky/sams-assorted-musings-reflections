@@ -3,14 +3,28 @@ Some forthcoming essays
 
 1. Pebble (watches).
 
+1. The Bruce Voyles Rule and the Sam Rebelsky Rule
+
+1. Donating to Grinnell.  (Why you should donate.)
+
+1. Preregistration.
+
+1. Jon Strymish.
+
 1. Backticks.
 
 1. Maybe my silly "windows in Processing" code.
 
 1. Heap sort.
 
+1. Harry and David, continued.
+
 1. Something about the Chronicle article on a prof criticizing his 
 students.
+
+1. Transitions.
+
+1. Fidgets?
 
 1. Missed opportunities (the book with mom)
 
@@ -18,10 +32,6 @@ students.
 
 1. Balancing input and output.  (How much should you read vs. how much
 should you write?) (An issue for creativity.)
-
-1. Donating to Grinnell.  (Why you should donate.)
-
-1. Preregistration.
 
 1. Outlook.  (More precisely, Outlook Calendar.)
 
@@ -36,6 +46,8 @@ should you write?) (An issue for creativity.)
 
 1. Is pioneers.grinnell.edu accessible?  (Hmmm ... that's a good
 reason to read the guidelines.)
+
+1. RSS.
 
 1. vi vs. emacs
 
@@ -100,8 +112,6 @@ that's not so true.)
 1. Nibbled to death by ducks, episode 2.
 
 1. Nibbled to death by ducks, episode 3 (the to-do list).
-
-1. Jon Strymish.
 
 1. What I write (recommendation letters, memos (lots of memos), answers
 to surveys from the Dean, ...)
