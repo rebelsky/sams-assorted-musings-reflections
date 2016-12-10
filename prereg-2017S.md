@@ -131,14 +131,15 @@ connections is important, or who are less willing to approach faculty
 
 I'm sure that there are also other techniques of which I have not heard.
 
-So, where does all of this lead?  When I started this essay, I had
-thought I would be writing mostly about the experience of watching
-prereg numbers.  I ended up reflecting much more on what I see as 
-unfairness in the system, particularly for students who are less skilled
-or experienced at managing systems, but also for students who are in
-disciplines that are more likely to face enrollment pressures.  I have
-no good solutions.  However, I do wonder whether it's time to revisit
-our system.
+So, where does all of this lead?  When I started this essay, I was
+planning to write a short essay which would mostly be about the experience
+of watching prereg numbers.  I ended up writing a much longer essay
+and reflecting much more on what I see as unfairness in the system,
+particularly for students who are less skilled or experienced at
+dealing with these kinds of situations [21], but also for students who
+are in disciplines that are more likely to face enrollment pressures.
+I have no good solutions.  However, I do think it might be time to
+revisit our system.
 
 ---
 
@@ -221,6 +222,9 @@ the oven.
 [20] I'm pretty sure that I've pissed off enough people that I'll never
 be elected chair of the faculty.  And there is a long line of excellent
 people who can become chair of the Science Division.
+
+[21] Or who are shy, or otherwise at a disadvantage in the ways one
+"plays the game".
 
 ---
 
