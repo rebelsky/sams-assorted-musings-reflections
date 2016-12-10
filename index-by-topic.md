@@ -983,6 +983,11 @@ Algorithmic art
 > Almost what it says.  A potential preview of some upcoming essay
   topics.
 
+[Preregistration](prereg-2017S.html) (Essay #147)
+
+> Thoughts on preregistration at Grinnell, written soon after
+  preregistration period for spring 2017.
+
 Removed
 -------
 

@@ -7,7 +7,7 @@ students or other people.  Some are rants about topics I'm passionate
 about.  Some are explanations of how I approach the world.  Some are
 just my attempts to think through a topic.
 
-Latest essay: [A few forthcoming essays](forthcoming-146.html) (Essay #146)
+Latest essay: [Preregistration](prereg-2017S.html) (Essay #147)
 
 [Essays, by number](index-by-number.html)
 

@@ -191,3 +191,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [The joy of code: Linking endnotes](joc-linking-endnotes.html) (Essay #144)  
 [Removing another essay](removing-another-essay.html) (Essay #145)  
 [A few forthcoming essays](forthcoming-146.html) (Essay #146)  
+[Preregistration](prereg-2017S.html) (Essay #147)  
