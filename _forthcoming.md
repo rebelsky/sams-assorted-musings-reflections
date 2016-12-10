@@ -5,17 +5,15 @@ Some forthcoming essays
 
 1. The Bruce Voyles Rule and the Sam Rebelsky Rule
 
-1. Donating to Grinnell.  (Why you should donate.)
+1. Heap sort.
 
-1. Preregistration.
+1. Donating to Grinnell.  (Why you should donate.)
 
 1. Jon Strymish.
 
 1. Backticks.
 
 1. Maybe my silly "windows in Processing" code.
-
-1. Heap sort.
 
 1. Harry and David, continued.
 
@@ -24,7 +22,7 @@ students.
 
 1. Transitions.
 
-1. Fidgets?
+1. Fidgets?  (Short?)
 
 1. Missed opportunities (the book with mom)
 
@@ -34,6 +32,10 @@ students.
 should you write?) (An issue for creativity.)
 
 1. Outlook.  (More precisely, Outlook Calendar.)
+
+1. RSS feeds.
+
+1. Tenure-line positions.  (Zero-sum game.  GWSS.)
 
 1. Bob Dylan wins Nobel prize.  (Mongo says "Rock n Roll. Form a band. Arts are important.  Students never know, one may win a Nobel for Rock n Roll!")
 
@@ -107,7 +109,7 @@ physician burnout.  For a long time, folks thought that a sense of
 accomplishment helped people cope with burnout.  It turns out that
 that's not so true.)
 
-1. PCards (Narren's done.  Time to wait for a response.)
+1. PCards (Narren's done.  Will I write more about this?)
 
 1. Nibbled to death by ducks, episode 2.
 
