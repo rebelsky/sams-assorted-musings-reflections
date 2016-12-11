@@ -988,6 +988,10 @@ Algorithmic art
 > Thoughts on preregistration at Grinnell, written soon after
   preregistration period for spring 2017.
 
+[Pebble Watches](pebble-watches.html) (Essay #148)
+
+> Some of my favorite timepieces.
+
 Removed
 -------
 

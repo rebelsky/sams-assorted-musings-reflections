@@ -192,3 +192,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Removing another essay](removing-another-essay.html) (Essay #145)  
 [A few forthcoming essays](forthcoming-146.html) (Essay #146)  
 [Preregistration](prereg-2017S.html) (Essay #147)  
+[Pebble Watches](pebble-watches.html) (Essay #148)  
