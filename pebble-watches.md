@@ -60,10 +60,24 @@ and they said "I'm trying to decide if I should get a Pebble Time Steel
 [5] before they are no longer available."
 
 I will note that I found that the responses on the [Pebble 2 Kickstarter
-Update](https://www.amazon.com/Pebble-Steel-Smartwatch-Android-Devices/dp/B011VB21DU/) bother me.  Profanity doesn't fix anything.  I'm pretty sure that
-the folks at Pebble didn't want to give up on the product.  But technology
-is hard.  And, as anyone who funds Kickstarter projects knows, outcomes
-are often iffy.
+Update](https://www.amazon.com/Pebble-Steel-Smartwatch-Android-Devices/dp/B011VB21DU/)
+bother me.  People are upset, but profanity doesn't fix anything.
+I'm pretty sure that the folks at Pebble didn't want to give up on the
+product.  But technology is hard.  And, as anyone who funds Kickstarter
+projects knows, outcomes are often iffy.  
+
+I did find the claims in those responses that "EU law does not
+allow a bankrupt company to drop its warranties" interesting; I
+wonder if that's really the case.  My quick Web search revealed
+[some interesting information about consumer protections in the
+EU](http://europa.eu/youreurope/citizens/consumers/shopping/guarantees-returns/index_en.htm).
+Clearly, consumers have more rights in the EU than in the US, and
+certainly more than in Iowa.  But I'm not sure what those laws do about
+bankruptcy.  Oh well, maybe that's a subject for further research.
+
+I see that [_The Register_ blames Venture Capitalists](http://www.theregister.co.uk/2016/12/08/the_vulture_capitalists_killed_pebble/) for Pebble's failure.  But, like many news articles, this one lacks details.  Other than knowing
+that there's a VC on the board, what evidence do we have that the VC was
+responsible?
 
 Where else should I go in this pointless, rambling, essay?  Ideally,
 I'd have a big point, such as "Just as in the case of Beta vs. VHS, the
@@ -72,7 +86,8 @@ and whistles; I just want something that provides core functionality,
 has a good UI, and is reliable", or even "Sam is a greedy hoarder and
 probably needs psychiatric help".  However, to develop one of those
 essays, I'd have to think more.  Let's just record this essay in the "Sam
-wrote something today, but no one needs to read it" column.
+wrote something today, but no one needs to read it" column.  And I'll
+cross my fingers that my watches keep working.
 
 ---
 
