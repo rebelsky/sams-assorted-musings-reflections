@@ -7,7 +7,7 @@ students or other people.  Some are rants about topics I'm passionate
 about.  Some are explanations of how I approach the world.  Some are
 just my attempts to think through a topic.
 
-Latest essay: [Pebble Watches](pebble-watches.html) (Essay #148)
+Latest essay: [The Bruce Voyles Rule and the Samuel A. Rebelsky Rule](map-rules.html) (Essay #149)
 
 [Essays, by number](index-by-number.html)
 

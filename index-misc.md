@@ -119,3 +119,7 @@ Algorithmic art
 
 > Some of my favorite timepieces.
 
+[The Bruce Voyles Rule and the Samuel A. Rebelsky Rule](map-rules.html) (Essay #149)
+
+> Policies on supervising MAPs, and how they came about.
+

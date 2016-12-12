@@ -193,3 +193,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [A few forthcoming essays](forthcoming-146.html) (Essay #146)  
 [Preregistration](prereg-2017S.html) (Essay #147)  
 [Pebble Watches](pebble-watches.html) (Essay #148)  
+[The Bruce Voyles Rule and the Samuel A. Rebelsky Rule](map-rules.html) (Essay #149)  
