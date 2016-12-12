@@ -54,7 +54,7 @@ and then only if they are working on two or three common projects."
 Bruce and I pointed out that we'd been successful with more students.
 Bruce's students had journal articles.  Mine had just won an outstanding
 paper award at a conference, and given a presentation to an SRO crowd
-[4,5].  So, whether or not they believed it, it was clearly possible to
+[5,6].  So, whether or not they believed it, it was clearly possible to
 successfully supervise that many students.
 
 Now, it's pretty clear to me that there were good financial and systemic
@@ -170,4 +170,4 @@ folks.
 
 ---
 
-*Version 1.0 of 2016-12-11.*
+*Version 1.0.1 of 2016-12-12.*
