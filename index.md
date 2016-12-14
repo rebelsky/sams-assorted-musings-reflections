@@ -7,7 +7,7 @@ students or other people.  Some are rants about topics I'm passionate
 about.  Some are explanations of how I approach the world.  Some are
 just my attempts to think through a topic.
 
-Latest essay: [The Bruce Voyles Rule and the Samuel A. Rebelsky Rule](map-rules.html) (Essay #149)
+Latest essay: [Submitting Camera-Ready Copy to SIGCSE 2017](sigcse-2017-camera-ready.html) (Essay #151)
 
 [Essays, by number](index-by-number.html)
 

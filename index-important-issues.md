@@ -49,3 +49,7 @@ Reflections on some important issues
 
 > What you should pay attention to when building Web pages.
 
+[Faculty Lines and Zero-Sum Games](http://www.cs.grinnell.edu/~rebelsky/musings/faculty-lines.html) (Essay #150)
+
+> The joy of limiting tenure-line faculty.
+

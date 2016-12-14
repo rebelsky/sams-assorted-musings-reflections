@@ -317,6 +317,10 @@ Reflections on some important issues
 
 > What you should pay attention to when building Web pages.
 
+[Faculty Lines and Zero-Sum Games](http://www.cs.grinnell.edu/~rebelsky/musings/faculty-lines.html) (Essay #150)
+
+> The joy of limiting tenure-line faculty.
+
 Rants
 -----
 
@@ -391,6 +395,10 @@ Why Grinnell staff with Ph.D's should be allowed to teach.
 
 > Much-too defensive (or offensive) responses to an essay by a friend 
   and valued former colleague.
+
+[Submitting Camera-Ready Copy to SIGCSE 2017](sigcse-2017-camera-ready.html) (Essay #151)
+
+> Further evidence that computers hate me, or perhaps that I hate computers.
 
 Assorted talks and speeches
 ---------------------------

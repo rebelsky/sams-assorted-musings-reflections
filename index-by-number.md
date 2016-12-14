@@ -194,3 +194,8 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Preregistration](prereg-2017S.html) (Essay #147)  
 [Pebble Watches](pebble-watches.html) (Essay #148)  
 [The Bruce Voyles Rule and the Samuel A. Rebelsky Rule](map-rules.html) (Essay #149)  
+[Faculty Lines and Zero-Sum Games](http://www.cs.grinnell.edu/~rebelsky/musings/faculty-lines.html) (Essay #150)  
+
+## 151-160
+
+[Submitting Camera-Ready Copy to SIGCSE 2017](sigcse-2017-camera-ready.html) (Essay #151)  
