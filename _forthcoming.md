@@ -1,15 +1,13 @@
 Some forthcoming essays
 =======================
 
-1. Pebble (watches).
+1. Modeling Many Majors.
 
-1. The Bruce Voyles Rule and the Sam Rebelsky Rule
+1. Jon Strymish.
 
 1. Heap sort.
 
 1. Donating to Grinnell.  (Why you should donate.)
-
-1. Jon Strymish.
 
 1. Backticks.
 
@@ -17,10 +15,12 @@ Some forthcoming essays
 
 1. Harry and David, continued.
 
+1. Growing the student body.
+
 1. Something about the Chronicle article on a prof criticizing his 
 students.
 
-1. Transitions.
+1. Transitions (between paragraphs).
 
 1. Fidgets?  (Short?)
 
@@ -34,8 +34,6 @@ should you write?) (An issue for creativity.)
 1. Outlook.  (More precisely, Outlook Calendar.)
 
 1. RSS feeds.
-
-1. Tenure-line positions.  (Zero-sum game.  GWSS.)
 
 1. Bob Dylan wins Nobel prize.  (Mongo says "Rock n Roll. Form a band. Arts are important.  Students never know, one may win a Nobel for Rock n Roll!")
 
