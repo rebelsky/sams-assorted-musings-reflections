@@ -19,7 +19,7 @@ a course until it fills.  Some have a curriculum that keeps students
 in enough of a lock-step that the students don't really have to make
 choices [4].  Some have students bid on classes, using some fixed set
 of fictitious resources [5,6].  Some require students to find faculty
-members to sign them in to courses [7].  
+members to sign them in to courses.
 
 And then there's Grinnell's system.  We let students enroll in whatever
 courses they want, and let the courses over-enroll.  Then, at the end,
@@ -228,4 +228,4 @@ people who can become chair of the Science Division.
 
 ---
 
-*Version 1.0 of 2016-12-09.*
+*Version 1.0.1 of 2016-12-11.*
