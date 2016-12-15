@@ -199,3 +199,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 ## 151-160
 
 [Submitting Camera-Ready Copy to SIGCSE 2017](sigcse-2017-camera-ready.html) (Essay #151)  
+[Sleep Cycles](sleep-cycles.html) (Essay #152)  

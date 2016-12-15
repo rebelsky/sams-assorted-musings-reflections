@@ -66,6 +66,9 @@ Jeremy Chen
 
 > Mentor, advisor, caring Grinnellian
 
+Nediyana Daskalova
+- *Forthcoming*
+
 [Janet Davis](janet-davis.html) (Essay #135)
 
 > Highly valued former colleague.  
@@ -73,7 +76,7 @@ Jeremy Chen
 Jeff Dickey-Chaisins '81
 - *Forthcoming*
 
-George Drake
+George Drake '??
 - *Forthcoming*
 
 Karla Erickson

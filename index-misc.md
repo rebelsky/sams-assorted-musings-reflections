@@ -123,3 +123,7 @@ Algorithmic art
 
 > Policies on supervising MAPs, and how they came about.
 
+[Sleep Cycles](sleep-cycles.html) (Essay #152)
+
+> My sleep cycles, throughout my life.
+
