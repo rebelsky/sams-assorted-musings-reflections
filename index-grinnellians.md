@@ -161,6 +161,9 @@ Jonathan and Cassie Koomjian
 > Artist, programmer, cartoonist, supporter of the next generation of
   computer scientists
 
+Mike Latham
+- *Forthcoming*
+
 Glenn Leggett
 - *Forthcoming*
 
