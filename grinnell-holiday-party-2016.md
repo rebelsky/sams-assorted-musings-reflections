@@ -16,7 +16,7 @@ at Grinnell [4].  As I entered the dining hall, President Kington made
 a joke about not getting any email from me lately [5].  I told him that
 I haven't had anything recently to be really upset about, and I think
 that's true [6,7].  I don't think there were nuts in any of the primary
-foodstuffs [8,9].  The food was awesome.  And the company, as always,
+foodstuffs [8,9].  The food [10] was awesome.  And the company, as always,
 was great.
 
 But that's normal.  Kington usually makes some joke about our
@@ -28,16 +28,16 @@ Some things happened before the dinner that contributed.  Michelle got
 a new haircut, and looked especially beautiful.  Earlier in the day, I
 got a nice note from Karla Erickson, thanking me for [my end-of-semester
 reflections](reflections-december-2016.html), and from one of my favorite
-students, thanking me for the various things I do [10].  An awesome group
+students, thanking me for the various things I do [11].  An awesome group
 of faculty and staff were singing in the foyer, led by the wonderful
-John Rommereim and including the ever-joyful Kate Walker [11].
+John Rommereim and including the ever-joyful Kate Walker [12].
 
 There were also many small conversations and interactions that
 felt special.  I can't remember all of them, but here are a few.
 Leslie Gregg-Jolly, who has been an awesome colleague throughout my
 whole career, and whose hard work on HHMI has supported many of the
-things that help me successful, thanked me for supporting her [12,14].
-Andrew Kaufman, whose opinion I respect, and who is notably blunt [15],
+things that help me successful, thanked me for supporting her [14,15].
+Andrew Kaufman, whose opinion I respect, and who is notably blunt [16],
 praised my essays.  Jee-Weon Cha shared some Templeton Rye with me,
 and thanked me again for his tenure gift.  I got to do a favor for a
 few friends, and helping friends in unexpected ways makes me happy.
@@ -73,21 +73,27 @@ but I don't think any of them currently involve President Kington.
 
 [9] One of the desserts had nuts, which is to be expected.
 
-[10] Interestingly, that student is one of the reasons I'm currently
+[10] I don't think I can list everything.  There was a really nice
+kale salad, some braised leeks, some wonderful really small brussels
+sprouts, purple cauliflower, a potato dish I skipped, portabello mushroom
+wellington, salmon, and very tender prime rib.  But, as I said, I don't
+think I can list everything.
+
+[11] Not so surprisingly, that student is one of the reasons I'm currently
 thankful to be teaching at Grinnell.
 
-[11] I have to admit that there's no way that Kate Walker, our treasurer,
+[12] I have to admit that there's no way that Kate Walker, our treasurer,
 can always be joyful.  She works much to hard and much too many hours for
 her always to be joyful.  But she always looks utterly thrilled when she
 sings, and that joy is contagious.
 
-[12] Leslie: I love that we both feel that the other one supports us well.
+[14] Leslie: I love that we both feel that the other one supports us well.
 
-[14] In my first year at Grinnell, Leslie and Jim also invited Michelle and 
+[15] In my first year at Grinnell, Leslie and Jim also invited Michelle and 
 me to a post-dinner event.  That event made a huge difference in us
 getting acclimated to Grinnell.
 
-[15] When I was in his studio art course and suggested some improvements
+[16] When I was in his studio art course and suggested some improvements
 to a work, his reaction was "Rearranging deck chairs on the Titanic."
 
 ---
