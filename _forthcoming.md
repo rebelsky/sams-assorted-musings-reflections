@@ -1,21 +1,27 @@
 Some forthcoming essays
 =======================
 
-1. Modeling Many Majors.
+1. Harry and David, continued.
+
+1. Straightening?
 
 1. Jon Strymish.
 
 1. Heap sort.
 
+1. USITE.
+
 1. Donating to Grinnell.  (Why you should donate.)
 
 1. Backticks.
 
-1. Maybe my silly "windows in Processing" code.
-
-1. Harry and David, continued.
+1. Our ASAs.
 
 1. Growing the student body.
+
+1. Modeling Many Majors.
+
+1. Rebecca C's comment about UIllinois.
 
 1. Something about the Chronicle article on a prof criticizing his 
 students.
@@ -147,7 +153,7 @@ convocation.  Here's a plan for doing so.)
 
 1. Why a good CS education includes much more than CS (for current students).
 
-1. Times and Dates (?)
+1. Times and Dates - format thereof.
 
 1. Discussing important topics.  (An attempt to reflect on what I learned
 from 321 students about how students talk about things like the role of
