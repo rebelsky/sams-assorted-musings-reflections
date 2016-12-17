@@ -577,6 +577,9 @@ Jeremy Chen
 
 > Mentor, advisor, caring Grinnellian
 
+Sarah Dahlby Albright
+- *Forthcoming*
+
 Nediyana Daskalova
 - *Forthcoming*
 
@@ -672,7 +675,13 @@ Jonathan and Cassie Koomjian
 > Artist, programmer, cartoonist, supporter of the next generation of
   computer scientists
 
+Mike Latham
+- *Forthcoming*
+
 Glenn Leggett
+- *Forthcoming*
+
+Mark Levandoski
 - *Forthcoming*
 
 Laura Nelson Lof
@@ -1010,6 +1019,10 @@ Algorithmic art
 [Sleep Cycles](sleep-cycles.html) (Essay #152)
 
 > My sleep cycles, throughout my life.
+
+[End-of-semester reflections (Fall 2016)](reflections-december-2016.html) (Essay #153)
+
+> My every-semester exercise with Karla Erickson.
 
 Removed
 -------

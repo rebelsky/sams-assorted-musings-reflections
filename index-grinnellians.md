@@ -66,6 +66,9 @@ Jeremy Chen
 
 > Mentor, advisor, caring Grinnellian
 
+Sarah Dahlby Albright
+- *Forthcoming*
+
 Nediyana Daskalova
 - *Forthcoming*
 
@@ -165,6 +168,9 @@ Mike Latham
 - *Forthcoming*
 
 Glenn Leggett
+- *Forthcoming*
+
+Mark Levandoski
 - *Forthcoming*
 
 Laura Nelson Lof

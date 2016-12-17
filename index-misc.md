@@ -127,3 +127,7 @@ Algorithmic art
 
 > My sleep cycles, throughout my life.
 
+[End-of-semester reflections (Fall 2016)](reflections-december-2016.html) (Essay #153)
+
+> My every-semester exercise with Karla Erickson.
+
