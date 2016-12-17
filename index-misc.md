@@ -131,3 +131,7 @@ Algorithmic art
 
 > My every-semester exercise with Karla Erickson.
 
+[The 2016 Grinnell Holiday Party](grinnell-holiday-party-2016.html) (Essay #154)
+
+> A wonderful followup event to that exercise.
+
