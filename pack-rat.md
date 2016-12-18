@@ -1,5 +1,5 @@
-On being a pack rat 
-====================
+On being a pack rat
+===================
 
 As anyone who has seen my office or my lab [1] knows, I accumulate way
 too much stuff.  This weekend, I'm working on my home office [2] and
