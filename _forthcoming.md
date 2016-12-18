@@ -1,6 +1,10 @@
 Some forthcoming essays
 =======================
 
+1. Peer educators' handbook.
+
+1. GrinnellParents listserv.
+
 1. Harry and David, continued.
 
 1. Straightening?
@@ -132,25 +136,6 @@ to surveys from the Dean, ...)
 
 1. Christine Tran (Grinnellians)
 
-1. Posse, revisited.
-
-1. Naming week 14, revisited.
-
-1. Dad jokes, revisited. (Misc)
-
-1. How Grinnell has changed in twenty years, revisited.
-
-1. Maybe I should have used a 'blogging platform.  (Or 'the form of this site',
-revisited.)
-
-1. Feeling fortunate, revisited.
-
-1. Thinking the best of others, revisited.
-
-1. Convocation, revisited.  (Some others share my opinions.  Others
-do not.  That's not surprising.  I still think we should have weekly
-convocation.  Here's a plan for doing so.)
-
 1. Why a good CS education includes much more than CS (for current students).
 
 1. Times and Dates - format thereof.
@@ -159,7 +144,7 @@ convocation.  Here's a plan for doing so.)
 from 321 students about how students talk about things like the role of
 the US in the world.)
 
-1. Building a personal brand.
+1. Building a personal brand. (I think this is based on a comment from Graham.)
 
 1. Collaboration.  (Or why some committees succeed better than others.)
 
@@ -291,36 +276,62 @@ Dodge Dart.)
 
 ---
 
-Notes
+Revisiting Topics
+-----------------
 
-* *Note: Move end of month to last day and comment.*
+1. Posse, revisited.
+
+1. Naming week 14, revisited.
+
+1. Dad jokes, revisited. (Misc)
+
+1. How Grinnell has changed in twenty years, revisited.
+
+1. Maybe I should have used a 'blogging platform.  (Or 'the form of this site',
+revisited.)
+
+1. Feeling fortunate, revisited.
+
+1. Thinking the best of others, revisited.
+
+1. Convocation, revisited.  (Some others share my opinions.  Others
+do not.  That's not surprising.  I still think we should have weekly
+convocation.  Here's a plan for doing so.)
+
+1. Accumulation, revisited.
+
+---
+
+Notes
+-----
+
 * *Note: Try to have about one hundred forthcoming topics at all times,
   at least until I reach the three-hundred essays month.*
 * *Note: When I have writer's block, I should pick ten of the topics
-  above and write an essay about what I plan to write for those ten.  
-  There should be an
-  almost never-ending supply of that kind of essay.  Title:
-  "Things I plan to write about (Part of a continuing series.)"*
+  above and write an essay about what I plan to write for those ten.
+  There should be an almost never-ending supply of that kind of essay.
+  Title: "Things I plan to write about (Part of a continuing series.)"*
 * *Note: At some point, I might consider top-ten lists.  Maybe a month
   of them.*
 * *Thinking ahead: Alternate months of assorted topics and focused
   topics.*
-    * November: Grinnellians
-    * December: Assorted
     * January: C and Unix (that's right; I should write 'Don't Embarass Me')
     * February: Assorted 
-    * March: Top-ten lists (?)
+    * March: More Grinnellians 
     * April: Assorted
-    * May: Autobiographical (?; probably not)
+    * May: Topics, revisited
     * June: Assorted
-    * July: More Grinnellians (?)
+    * July: Maybe CSC 151 or CSC 321.
     * August: Assorted
     * September: Planning three-hundred more essays (I'd have to write one 
       set of ten topics each day; that could be an interesting challenge)
     * October: Assorted
     * November: The not-so-great, excessively end-noted, American novel.
       (A novel as a series of essays.)
-* *Should I do a series on "topic, revisited"?*
+    * December: Assorted
+    * January: Preparing the next book?
+    * Eventually: Top-ten lists (?)
+    * Eventually: Autobiographical (?; probably not)
 
 ---
 
