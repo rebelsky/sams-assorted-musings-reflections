@@ -135,3 +135,7 @@ Algorithmic art
 
 > A wonderful followup event to that exercise.
 
+[On being a pack rat](pack-rat.html) (Essay #155)
+
+> Why I have so much stuff.
+

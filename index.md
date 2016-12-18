@@ -7,7 +7,7 @@ students or other people.  Some are rants about topics I'm passionate
 about.  Some are explanations of how I approach the world.  Some are
 just my attempts to think through a topic.
 
-Latest essay: [The 2016 Grinnell Holiday Party](grinnell-holiday-party-2016.html) (Essay #154)
+Latest essay: [On being a pack rat](pack-rat.html) (Essay #155)
 
 [Essays, by number](index-by-number.html)
 
