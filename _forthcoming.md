@@ -1,13 +1,19 @@
 Some forthcoming essays
 =======================
 
+*Reminder: Look through some of the indices for other forthcoming essays.*
+
+1. Donating to Grinnell.  (Why you should donate.)
+
+1. The Varsity Athlete/Other Student divide.
+
+1. Should Grinnell be tuition-free?
+
+1. Questbridge
+
 1. Peer educators' handbook.
 
-1. GrinnellParents listserv.
-
 1. Harry and David, continued.
-
-1. Straightening?
 
 1. Jon Strymish.
 
@@ -15,15 +21,13 @@ Some forthcoming essays
 
 1. USITE.
 
-1. Donating to Grinnell.  (Why you should donate.)
-
 1. Backticks.
 
 1. Our ASAs.
 
 1. Growing the student body.
 
-1. Modeling Many Majors.
+1. Modeling Many Majors.  (Probably not; too scary.)
 
 1. Rebecca C's comment about UIllinois.
 
@@ -31,8 +35,6 @@ Some forthcoming essays
 students.
 
 1. Transitions (between paragraphs).
-
-1. Fidgets?  (Short?)
 
 1. Missed opportunities (the book with mom)
 
@@ -48,8 +50,6 @@ should you write?) (An issue for creativity.)
 1. Bob Dylan wins Nobel prize.  (Mongo says "Rock n Roll. Form a band. Arts are important.  Students never know, one may win a Nobel for Rock n Roll!")
 
 1. Planning the next code camps.
-
-1. On names (Misc) (SamR, S.A., Sam, Samuel) [Short!]
 
 1. Better writers than I.  (Essays on Vocation by Campbell, Skerett, and ...)
 (This could fit in the Grinnellians month.)
@@ -104,12 +104,6 @@ think the reality is somewhat more complex.  Dealing with frustration.)
 
 1. Sleeping in. 
 
-1. The Varsity Athlete/Other Student divide.
-
-1. Should Grinnell be tuition-free?
-
-1. Questbridge
-
 1. Creativity.
 
 1. Burnout.  (One of Michelle's many roles has her exploring issues of
@@ -138,8 +132,6 @@ to surveys from the Dean, ...)
 
 1. Why a good CS education includes much more than CS (for current students).
 
-1. Times and Dates - format thereof.
-
 1. Discussing important topics.  (An attempt to reflect on what I learned
 from 321 students about how students talk about things like the role of
 the US in the world.)
@@ -147,8 +139,6 @@ the US in the world.)
 1. Building a personal brand. (I think this is based on a comment from Graham.)
 
 1. Collaboration.  (Or why some committees succeed better than others.)
-
-1. If you ask a prof a question, revisited (On Writing)
 
 1. Studying at Grinnell. (?)
 
@@ -197,15 +187,11 @@ which I really feel that way.) (It's in the overcommitment section)
 1. On advising too many students (grad school, starting job, CS major,
 what courses should I take? ... plus paperwork and more)
 
-1. Grinnell traditions I miss.
-
 1. GrinCo, where we make you smile.
 
 1. Telling a Story vs. Thinking about Language.  (On writing.)
 <http://www.theatlantic.com/magazine/archive/2010/08/how-to-write-in-700-easy-lessons/308043/>
 <http://www.salon.com/2010/11/02/nanowrimo/>
-
-1. Sleep cycles.
 
 1. Amazon Pricing Bots.
 
@@ -228,22 +214,9 @@ decade.  And it's **free**.
 
 1. Greil Marcus' "Real Life Rock Top Ten"
 
-1. Michelle.
-
-1. Kathy (for mother's day)
-
-1. Dad (for Father's Day)
-
-1. Lloyd (for Father's Day)
-
-1. Self indulgance (or is that part of the broader monthly essay? Probably)
-
-1. What should you do when your values no longer seem to align with
-institutional values (or vice versa)?
+1. Self-indulgence (or is that part of the broader monthly essay? Probably)
 
 1. Top ten lists (the subject).
-
-1. Hoarding.
 
 1. Writing assessment.
 
@@ -260,19 +233,43 @@ institutional values (or vice versa)?
 1. Lolita and the Reluctant Deubtantes.  (Don't forget to mention 
 Dodge Dart.)
 
-1. George Drake.  (Include the two things he's done that irk me.)
-
-1. Facebook.
+1. Facebook.  (???  Maybe why I don't wite?)
 
 1. CTLA.
 
 1. NaNoWriMo (On writing.) (Wait another year?)
 
+---
+
+People
+------
+
+1. George Drake.  (Include the two things he's done that irk me.)
+
+1. Michelle.
+
+1. Kathy (for mother's day)
+
+1. Dad (for Father's Day)
+
+1. Lloyd (for Father's Day)
+
+---
+
+Short
+-----
+
+1. GrinnellParents listserv.
+
+1. Times and Dates - format thereof.
+
 1. November 11th, in a year.
 
-1. Mondegreens, revisited. (Find another name for them).
+1. Grinnell traditions I miss.
 
-1. Usite.
+1. Fidgets?  (Short?)
+
+1. On names (Misc) (SamR, S.A., Sam, Samuel) [Short!]
 
 ---
 
@@ -299,6 +296,10 @@ do not.  That's not surprising.  I still think we should have weekly
 convocation.  Here's a plan for doing so.)
 
 1. Accumulation, revisited.
+
+1. Mondegreens, revisited. (Find another name for them).
+
+1. If you ask a prof a question, revisited (On Writing)
 
 ---
 
