@@ -82,3 +82,7 @@ Essays on writing, or at least on writing my essays
 
 > Reflections on the need to remove essays.
 
+[Pursuing the serious, settling for the frivolous](serious-or-frivolous.html) (Essay #156)
+
+> Why I'm recently been writing essays about myself rather than other topics.
+
