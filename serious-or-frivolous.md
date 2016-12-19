@@ -41,6 +41,16 @@ days to write during the day, or at least earlier in the evening.
 
 ---
 
+Postscript [14]: Yes, I realize that essays about myself can be serious.
+Yes, I realize that it can be helpful to others to reflect on the things
+that I reflect on, or to see how I reflect on them.  I also realize
+that essays on "serious" topics are still personal as I rarely try to
+employ a completely objective voice.  Nonetheless, the personal essays
+feel different.  I enjoy writing them, but I enjoy writing them for
+different reasons than I enjoy writing the other essays [15].
+
+---
+
 [1] Well, more precisely, essays on serious topics.  My personality is
 such that I'll always put in a few silly comments even in essay son
 serious topics.
@@ -66,7 +76,9 @@ questbridge or study habits or Posse or even the legendary banned
 yearbook require a different kind of thought.
 
 [8] About three-thousand words, as compared to one-thousand-or-so words 
-in the more typical essay and not-quite eight hundred in this essay.
+in the more typical essay and not-quite eight hundred in the original
+version of this essay and a bit over nine hundred in the version with
+the postscript.
 
 [9] As I think I said in that essay, you can tell that I hadn't mastered
 the subject because the essay had the same disjoint feeling that a student
@@ -87,6 +99,12 @@ functional enough to realize that even though the adjective "frivolous"
 becomes the noun "frivolity", the adjective "personal" should not become
 "personality".
 
+[14] No, not the programming language, even though it's awesome.
+
+[15] Okay, that's not quite true.  Both kinds of essays allow me to
+think through issues.  Even this essay allowed me to think through
+some issues.
+
 ---
 
-*Version 1.0 of 2016-12-18.*
+*Version 1.1 of 2016-12-18.*
