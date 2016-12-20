@@ -9,3 +9,7 @@ For alumni and others who donate to the department
 
 > Thoughts on an upcoming event.
 
+[Donating to Grinnell](donating-to-grinnell.html) (Essay #157)
+
+> Some reasons to donate.
+

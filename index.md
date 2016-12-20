@@ -7,7 +7,7 @@ students or other people.  Some are rants about topics I'm passionate
 about.  Some are explanations of how I approach the world.  Some are
 just my attempts to think through a topic.
 
-Latest essay: [Pursuing the serious, settling for the frivolous](serious-or-frivolous.html) (Essay #156)
+Latest essay: [Donating to Grinnell](donating-to-grinnell.html) (Essay #157)
 
 [Essays, by number](index-by-number.html)
 

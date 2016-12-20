@@ -204,3 +204,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [The 2016 Grinnell Holiday Party](grinnell-holiday-party-2016.html) (Essay #154)  
 [On being a pack rat](pack-rat.html) (Essay #155)  
 [Pursuing the serious, settling for the frivolous](serious-or-frivolous.html) (Essay #156)  
+[Donating to Grinnell](donating-to-grinnell.html) (Essay #157)  
