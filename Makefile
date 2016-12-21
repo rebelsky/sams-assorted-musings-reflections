@@ -72,6 +72,7 @@ INDICES = index-by-topic-head.md \
 	index-grinnellians.md \
         index-grinnell.md \
 	index-reviews.md \
+        index-autobiographical.md \
 	index-misc.md \
 	index-removed.md 
 

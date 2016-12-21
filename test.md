@@ -9,6 +9,8 @@ like a good topic for a short essay.*
 
 [1,8,9]
 
+[Goodbye][12.5]
+
 At some point in the past month or two, I was trying to figure out whether
 I should use the phrase "fount of knowledge" or "font of knowledge".
 The former seemed more appropriate (unless, of course, I was trying to
@@ -94,6 +96,8 @@ Hello.
 [8]: Whatever.  Hello.
 
 [9] Whatever
+
+[12.5]: http://www.pandoc.org
 
 ---
 
