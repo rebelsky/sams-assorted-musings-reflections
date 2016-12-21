@@ -3,13 +3,15 @@ Some forthcoming essays
 
 *Reminder: Look through some of the indices for other forthcoming essays.*
 
-1. Donating to Grinnell.  (Why you should donate.)
+1. Questbridge.
+
+1. A new thank-you letter to donors.
+
+1. Grading Student Projects (See Janet's facebook post on Dec. 19).
+
+1. Mission Statement (Important Things; Grinnell)
 
 1. The Varsity Athlete/Other Student divide.
-
-1. Should Grinnell be tuition-free?
-
-1. Questbridge
 
 1. Peer educators' handbook.
 
@@ -106,6 +108,11 @@ think the reality is somewhat more complex.  Dealing with frustration.)
 
 1. Creativity.
 
+1. Algorithmic art . I am happiest when I write programs that make art,
+or when I make art that has a computational component.  In this essay,
+I attempt to describe the relationship between these areas and the
+pleasure I derive.  (Or at least I think that's what I'll write about.)
+
 1. Burnout.  (One of Michelle's many roles has her exploring issues of
 physician burnout.  For a long time, folks thought that a sense of 
 accomplishment helped people cope with burnout.  It turns out that
@@ -140,7 +147,9 @@ the US in the world.)
 
 1. Collaboration.  (Or why some committees succeed better than others.)
 
-1. Studying at Grinnell. (?)
+1. FAQ (Should I really write this?)
+
+1. Studying at Grinnell. (What did I want to write?)
 
 1. Outreach.
 
@@ -153,8 +162,6 @@ the US in the world.)
 1. Should I link these essays?  (Make these essays more public.) 
 
 1. Book Sales
-
-1. Mission Statement (Important Things; Grinnell)
 
 1. SamR Recommends (aka Good Things at Grinnell)
 
