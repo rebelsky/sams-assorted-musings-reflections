@@ -80,6 +80,11 @@ Essays on writing, or at least on writing my essays
 
 [Removing another essay](removing-another-essay.html) (Essay #145)
 
+[A few forthcoming essays](forthcoming-146.html) (Essay #146)
+
+> Almost what it says.  A potential preview of some upcoming essay
+  topics.
+
 > Reflections on the need to remove essays.
 
 [Pursuing the serious, settling for the frivolous](serious-or-frivolous.html) (Essay #156)

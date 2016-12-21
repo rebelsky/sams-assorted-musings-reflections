@@ -205,3 +205,5 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [On being a pack rat](pack-rat.html) (Essay #155)  
 [Pursuing the serious, settling for the frivolous](serious-or-frivolous.html) (Essay #156)  
 [Donating to Grinnell](donating-to-grinnell.html) (Essay #157)  
+[Should Grinnell be tuition free?](tuition-free-grinnell.html) (Essay #158)   
+[A day in the life of SamR (20 December 2016)](day-in-the-life-2016-12-20.html) (Essay #159)  

@@ -7,7 +7,7 @@ students or other people.  Some are rants about topics I'm passionate
 about.  Some are explanations of how I approach the world.  Some are
 just my attempts to think through a topic.
 
-Latest essay: [Donating to Grinnell](donating-to-grinnell.html) (Essay #157)
+Latest essays: [Should Grinnell be tuition free?](tuition-free-grinnell.html) (Essay #158) and [A day in the life of SamR](day-in-the-life-2016-12-20.html) (Essay #159)
 
 [Essays, by number](index-by-number.html)
 
@@ -30,5 +30,6 @@ Latest essay: [Donating to Grinnell](donating-to-grinnell.html) (Essay #157)
 * [Cool Grinnellians you should know (or know about)](index-grinnellians.html)
 * [Other essays on Grinnell](index-grinnell.html)
 * [Reviews and notes about things I enjoy](index-reviews.html)
+* [Autobiographical essays, more or less](index-autobiographical.html)
 * [Almost everything else](index-misc.html)
 

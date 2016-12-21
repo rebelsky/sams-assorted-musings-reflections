@@ -91,7 +91,7 @@ About SamR
 
 > Why I have so much stuff.
 
-[A day in the life of SamR](day-in-the-life-2016-12-20.html) (Essay #159)
+[A day in the life of SamR (20 December 2016)](day-in-the-life-2016-12-20.html) (Essay #159)
 
-> A not-so-tpical day.
+> A not-so-typical day.
 

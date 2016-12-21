@@ -53,3 +53,7 @@ Reflections on some important issues
 
 > The joy of limiting tenure-line faculty.
 
+[Should Grinnell be tuition free?](tuition-free-grinnell.html) (Essay #158) 
+
+> Reflections on a question from about a decade ago.
+

@@ -83,6 +83,11 @@ Essays on writing, or at least on writing my essays
 
 [Removing another essay](removing-another-essay.html) (Essay #145)
 
+[A few forthcoming essays](forthcoming-146.html) (Essay #146)
+
+> Almost what it says.  A potential preview of some upcoming essay
+  topics.
+
 > Reflections on the need to remove essays.
 
 [Pursuing the serious, settling for the frivolous](serious-or-frivolous.html) (Essay #156)
@@ -328,6 +333,10 @@ Reflections on some important issues
 [Faculty Lines and Zero-Sum Games](http://www.cs.grinnell.edu/~rebelsky/musings/faculty-lines.html) (Essay #150)
 
 > The joy of limiting tenure-line faculty.
+
+[Should Grinnell be tuition free?](tuition-free-grinnell.html) (Essay #158) 
+
+> Reflections on a question from about a decade ago.
 
 Rants
 -----
@@ -899,12 +908,14 @@ Sam Hurt's _Eyebeam_
 
 > One of my favorite comic strips.
 
-Almost everything else
-----------------------
+Autobigraphical essays, more of less
+------------------------------------
 
-[Mom](mom.html) (Essay #19)
+About SamR
+- *Forthcoming*
 
-> An essay on my mother, for mother's day.
+> At some point, I should probably write something else autobiographical.
+  I seem to be sneaking in aspects of myself above.
 
 [On being a curmudgeon](curmudgeon.html) (Essay #64)
 
@@ -922,12 +933,6 @@ Almost everything else
 
 > A break in that series.
 
-About SamR
-- *Forthcoming*
-
-> At some point, I should probably write something else autobiographical.
-  I seem to be sneaking in aspects of myself above.
-
 [Sleep](sleep.html) (Essay #16)
 
 > On getting enough.
@@ -941,22 +946,10 @@ About SamR
 
 > Reflections on my not-so-legendary primer.
 
-Algorithmic art
-- *Forthcoming*
-
-> I am happiest when I write programs that make art, or when I make
-  art that has a computational component.  In this essay, I attempt
-  to describe the relationship between these areas and the pleasure I
-  derive.  (Or at least I think that's what I'll write about.)
-
 ["Vast swaths of American Popular Culture have passed me by."](swaths.html) (Essay #12)
 
 > One of my favorite "mom quotes"; one that I now feel that I have to 
   say way too much of the time.
-
-[Replying to messages on the SIGCSE mailing list](sigcse-members-reply-etiquette.html) (Essay #37)
-
-> A note to a mailing list that I manage.
 
 [Addressing people](addressing-people.html) (Essay #38)
 
@@ -974,23 +967,9 @@ Algorithmic art
 
 > Reflections on how I spent my break.
 
-[The end of the world is nigh](cubs.html) (Essay #98)
-
-> Reflections on the Cubbies presence in the World Series.
-
-[Cultivating the gross mindset](gross-mindset.html) (Essay #103)
-
-> An attempt at humor.
-
 [The Tigger suit](tigger-suit.html) (Essay #105)
 
 > A family heirloom.
-
-[Assessing candidates](assessing-candidates.html) (Essay #112)
-
-> Notes for some early-career faculty
-
-[The election](the-election.html) (Essay #115)
 
 > A response to the request "Please write an essay about this year's election."
 
@@ -1002,27 +981,9 @@ Algorithmic art
 
 > A comedy of (technical) errors.
 
-[Mondegreens](mondegreens.html) (Essay #143)
-
-> A great term, further explored.
-
-[A few forthcoming essays](forthcoming-146.html) (Essay #146)
-
-> Almost what it says.  A potential preview of some upcoming essay
-  topics.
-
-[Preregistration](prereg-2017S.html) (Essay #147)
-
-> Thoughts on preregistration at Grinnell, written soon after
-  preregistration period for spring 2017.
-
 [Pebble Watches](pebble-watches.html) (Essay #148)
 
 > Some of my favorite timepieces.
-
-[The Bruce Voyles Rule and the Samuel A. Rebelsky Rule](map-rules.html) (Essay #149)
-
-> Policies on supervising MAPs, and how they came about.
 
 [Sleep Cycles](sleep-cycles.html) (Essay #152)
 
@@ -1040,6 +1001,49 @@ Algorithmic art
 
 > Why I have so much stuff.
 
+[A day in the life of SamR (20 December 2016)](day-in-the-life-2016-12-20.html) (Essay #159)
+
+> A not-so-typical day.
+
+Almost everything else
+----------------------
+
+[Mom](mom.html) (Essay #19)
+
+> An essay on my mother, for mother's day.
+
+[Replying to messages on the SIGCSE mailing list](sigcse-members-reply-etiquette.html) (Essay #37)
+
+> A note to a mailing list that I manage.
+
+[The end of the world is nigh](cubs.html) (Essay #98)
+
+> Reflections on the Cubbies' presence in the World Series.
+
+[Cultivating the gross mindset](gross-mindset.html) (Essay #103)
+
+> An attempt at humor.
+
+[Assessing candidates](assessing-candidates.html) (Essay #112)
+
+> Notes for some early-career faculty
+
+[The election](the-election.html) (Essay #115)
+
+> Um, yeah.
+
+[The Bruce Voyles Rule and the Samuel A. Rebelsky Rule](map-rules.html) (Essay #149)
+
+> Policies on supervising MAPs, and how they came about.
+
+[Preregistration](prereg-2017S.html) (Essay #147)
+
+> Thoughts on preregistration at Grinnell, written soon after
+  preregistration period for spring 2017.
+
+[Mondegreens](mondegreens.html) (Essay #143)
+
+> A great term, further explored.
 Removed
 -------
 
