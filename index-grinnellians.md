@@ -34,18 +34,18 @@ Grinnellians you should know (or know about)
 
 [Ian Atha '09](ian-atha.html) (Essay #58)
 
-> CS major, linguistics concentrator, entrepreneur
+> CS major, linguistics concentrator, entrepreneur.
 
 [Terry Bisson '64](terry-bisson.html) (Essay #117)
 
-> Author, publisher, not-quite graduate
+> Author, publisher, not-quite graduate.
 
 Rachel Bly '93
 - *Forthcoming*
 
 [Narren Brown](narren-brown.html) (Essay #108)
 
-> Statistician, diversity consultant, generally great guy
+> Statistician, diversity consultant, generally great guy.
 
 [Doug Caulkins](doug-caulkins.html) (Essay #122)
 
@@ -64,7 +64,7 @@ Jeremy Chen
 
 [Doug Cutchins '93](doug-cutchins.html) (Essay #121)
 
-> Mentor, advisor, caring Grinnellian
+> Mentor, advisor, caring Grinnellian.
 
 Sarah Dahlby Albright
 - *Forthcoming*
@@ -74,7 +74,7 @@ Nediyana Daskalova
 
 [Janet Davis](janet-davis.html) (Essay #135)
 
-> Highly valued former colleague.  
+> Highly valued former colleague.
 
 Jeff Dickey-Chaisins '81
 - *Forthcoming*
@@ -162,7 +162,7 @@ Jonathan and Cassie Koomjian
 [Terian Koscik '12](terian-koscik.html) (Essay #129)
 
 > Artist, programmer, cartoonist, supporter of the next generation of
-  computer scientists
+  computer scientists.
 
 Mike Latham
 - *Forthcoming*
@@ -188,7 +188,7 @@ Elaine Marzluff
 
 [J. Harley McIlrath](j-harley-mcilrath.html) (Essay #118)
 
-> Bookseller, author, generally great guy
+> Bookseller, author, generally great guy.
 
 Joe Mileti
 - *Forthcoming*
@@ -197,6 +197,9 @@ Brian Mitchell
 - *Forthcoming*
 
 Wayne Moyer
+- *Forthcoming*
+
+Kumail Nanjiani '01
 - *Forthcoming*
 
 John Norman '82
@@ -227,7 +230,7 @@ Henry Rietz '89
 
 [Dave Robinson](dave-robinson.html) (Essay #114)
 
-> CITO, woodworker, Ph.D. in Neuroscience (or something similar)
+> CITO, woodworker, Ph.D. in Neuroscience (or something similar).
 
 Rachel Rose '01
 - *Forthcoming*
