@@ -7,7 +7,7 @@ students or other people.  Some are rants about topics I'm passionate
 about.  Some are explanations of how I approach the world.  Some are
 just my attempts to think through a topic.
 
-Latest essays: [Should Grinnell be tuition free?](tuition-free-grinnell.html) (Essay #158) and [A day in the life of SamR](day-in-the-life-2016-12-20.html) (Essay #159)
+Latest essay: [The divide between varsity/club athletes and other students](varsity-athlete-divide.html) (Essay #160)
 
 [Essays, by number](index-by-number.html)
 

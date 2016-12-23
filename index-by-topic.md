@@ -338,6 +338,10 @@ Reflections on some important issues
 
 > Reflections on a question from about a decade ago.
 
+[The divide between varsity/club athletes and other students](varsity-athlete-divide.html) (Essay #160)
+
+> An issue we probably need to address.
+
 Rants
 -----
 

@@ -207,3 +207,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Donating to Grinnell](donating-to-grinnell.html) (Essay #157)  
 [Should Grinnell be tuition free?](tuition-free-grinnell.html) (Essay #158)   
 [A day in the life of SamR (20 December 2016)](day-in-the-life-2016-12-20.html) (Essay #159)  
+[The divide between varsity/club athletes and other students](varsity-athlete-divide.html) (Essay #160)  
