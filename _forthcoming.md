@@ -3,21 +3,29 @@ Some forthcoming essays
 
 *Reminder: Look through some of the indices for other forthcoming essays.*
 
-1. Questbridge.
+Upcoming
 
-1. A new thank-you letter to donors.
+* 2016-12-23: Harry and David, continued + a new thank-you letter to donors.
+* 2016-12-24: Christmas eve.  (The not so politically correct
+  "Jews eat and drink; Christians decorate the tree.")
+* 2016-12-25: Christmas.  (I'm not Christian.  I'm still giving myself
+  the gift of permitting myself to write an incredibly short essay.)
+* 2016-12-26: The Mission Statement.
+* 2016-12-27: Growing the student body.
+* 2016-12-28: Trustees.
+* 2016-12-29: ???
+* 2016-12-30: ???
+* 2016-12-31: End-of-month, end-of-year
+
+---
+
+1. Jon Strymish.
+
+1. Questbridge.
 
 1. Grading Student Projects (See Janet's facebook post on Dec. 19).
 
-1. Mission Statement (Important Things; Grinnell)
-
-1. The Varsity Athlete/Other Student divide.
-
 1. Peer educators' handbook.
-
-1. Harry and David, continued.
-
-1. Jon Strymish.
 
 1. Heap sort.
 
@@ -27,14 +35,14 @@ Some forthcoming essays
 
 1. Our ASAs.
 
-1. Growing the student body.
-
 1. Modeling Many Majors.  (Probably not; too scary.)
+
+1. GSP, the Grinnell Science Project.
 
 1. Rebecca C's comment about UIllinois.
 
 1. Something about the Chronicle article on a prof criticizing his 
-students.
+students.  http://www.chronicle.com/article/When-Do-Public-Rebukes-of/238552
 
 1. Transitions (between paragraphs).
 
@@ -131,12 +139,6 @@ to surveys from the Dean, ...)
 
 1. I've become my mother (articles).
 
-1. Jeff Dickey-Chaisins (Grinnellians).  (Write soon, though.)
-
-1. Graeme Boy (Grinnellians)
-
-1. Christine Tran (Grinnellians)
-
 1. Why a good CS education includes much more than CS (for current students).
 
 1. Discussing important topics.  (An attempt to reflect on what I learned
@@ -202,8 +204,6 @@ what courses should I take? ... plus paperwork and more)
 
 1. Amazon Pricing Bots.
 
-1. Trustees.
-
 1. Digital signatures.  The technology has been around for more than a
 decade.  And it's **free**.
 
@@ -248,10 +248,134 @@ Dodge Dart.)
 
 ---
 
-People
-------
+Grinnellians
+------------
+
+1. Rachel Bly '93
+
+1. Graeme Boy '15
+
+1. Jeremy Chen
+- *Forthcoming*
+
+1. Sarah Dahlby Albright
+
+1. Nediyana Daskalova '15
+
+1. Jeff Dickey-Chaisins '81
 
 1. George Drake.  (Include the two things he's done that irk me.)
+
+1. Karla Erickson
+
+1. David Feldman '71
+
+1. Pam Ferguson
+
+1. Susan Ferrari
+
+1. Dan and Patricia Jipp Finkelman
+
+1. Richard Fyffe
+
+1. Katya Gibel Mevorach
+
+1. Lexy Greenwell '15
+
+1. Leslie Gregg-Jolly
+
+1. Steve Gump
+
+1. Atul Gupta '??
+
+1. Chris Hunter
+
+1. Judy Hunter
+
+1. Kate Ingersoll 
+
+1. Jen Jacobsen
+
+1. Carolyn Jacobson
+
+1. Lakesia Johnson
+
+1. Darlo Kelting
+
+1. Raynard Kington
+
+1. Jonathan and Cassie Koomjian
+
+1. Mike Latham
+
+1. Glenn Leggett
+
+1. Mark Levandoski
+
+1. Laura Nelson Lof
+
+1. David Lopatto
+
+1. Elaine Marzluff
+
+1. Joe Mileti
+
+1. Brian Mitchell
+
+1. Wayne Moyer
+
+1. Kumail Nanjiani '01
+
+1. John Norman '82
+
+1. Eryn O'Neill
+
+1. Russell K. Osgood
+
+1. Henry Rietz '89
+
+1. Rachel Rose '01
+
+1. Susan Sanning
+
+1. Mark Schneider
+
+1. Rachel Schnepper
+
+1. Andrew Sherburne
+
+1. Deanna Shorb
+
+1. Paula Smith
+
+1. Angie Balm Story
+
+1. Tony Stubblebine '00
+
+1. Jim Swartz
+
+1. Justin Thomas
+
+1. Christine Tran
+
+1. Vivek Venugopal
+
+1. Angela Voos
+
+1. More thoughts on Henry MacKay Walker
+
+1. Autumn Wilke
+
+1. Eliza Willis
+
+1. Zoe Wolter '16
+
+1. Tilly Woodward
+
+---
+
+Other People
+------------
 
 1. Michelle.
 
@@ -260,6 +384,10 @@ People
 1. Dad (for Father's Day)
 
 1. Lloyd (for Father's Day)
+
+1. The boys (private)
+
+1. Chuck (private)
 
 ---
 
@@ -289,10 +417,11 @@ Revisiting Topics
 
 1. Dad jokes, revisited. (Misc)
 
-1. How Grinnell has changed in twenty years, revisited.
+1. How Grinnell has changed in twenty years, revisited.  (Hmmm ... maybe
+I'm less upset than when I thought about revisiting this.)
 
-1. Maybe I should have used a 'blogging platform.  (Or 'the form of this site',
-revisited.)
+1. Maybe I should have used a 'blogging platform.  (Or 'the form of this
+site', revisited.)
 
 1. Feeling fortunate, revisited.
 
@@ -307,6 +436,8 @@ convocation.  Here's a plan for doing so.)
 1. Mondegreens, revisited. (Find another name for them).
 
 1. If you ask a prof a question, revisited (On Writing)
+
+1. Proofpoint, revisited.
 
 ---
 
