@@ -81,7 +81,7 @@ Anyway, back to our choices.  The remaining choices are for students who
 do not live in campus housing.
 
 Plan 5: Any 80 meals plus $142 [15] worth of dining dollars.  Okay,
-this one is easy.  We will assume that all eight meals are dinners,
+this one is easy.  We will assume that all eighty meals are dinners,
 worth $14 each.  Total value, $1,120 plus $142, or $1,262.  We charge
 $1,212.  A slight bargain, but still withn range.
 
@@ -175,4 +175,4 @@ strange amounts they choose for dining dollars.
 
 ---
 
-*Version 1.0 of 2016-12-22.*
+*Version 1.0.1 of 2016-12-23.*
