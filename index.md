@@ -7,7 +7,8 @@ students or other people.  Some are rants about topics I'm passionate
 about.  Some are explanations of how I approach the world.  Some are
 just my attempts to think through a topic.
 
-Latest essay: [The divide between varsity/club athletes and other students](varsity-athlete-divide.html) (Essay #160)
+Latest essays: [The strange pricing of meal plans](meal-plan-pricing) (Essay #161) and
+[Some shorter questions and answers about Grinnell's CS program](cs-faq) (Essay #162).
 
 [Essays, by number](index-by-number.html)
 

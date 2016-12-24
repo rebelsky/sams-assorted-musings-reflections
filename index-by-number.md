@@ -32,7 +32,7 @@ Essay #3 was about Grinnell's relationship with Posse.
 [Proofpoint: How to make email miserable to use](proofpoint.html) (Essay #21)  
 [Naming week 14](naming-week-14.html) (Essay #22)  
 [On Grinnell's Completion Rate](completion-rate.html) (Essay #23)  
-[Grinnell's Individual Advised Curriculum](individually-advised-curriculum.html) (Essay #24)  
+[Grinnell's Individually Advised Curriculum](individually-advised-curriculum.html) (Essay #24)  
 [On the last day of class](last-day-of-class.html) (Essay #25)  
 [Infusing the college mission into the residential experience](infuse-mission-residential.html) (Essay #26)  
 [Overcommitment, Finals Week, Spring 2016](overcommitment-finals-2016S.html) (Essay #27)  
@@ -208,3 +208,8 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Should Grinnell be tuition free?](tuition-free-grinnell.html) (Essay #158)   
 [A day in the life of SamR (20 December 2016)](day-in-the-life-2016-12-20.html) (Essay #159)  
 [The divide between varsity/club athletes and other students](varsity-athlete-divide.html) (Essay #160)  
+
+## 161-170
+
+[The strange pricing of meal plans](meal-plan-pricing) (Essay #161)   
+[Some shorter questions and answers about Grinnell's CS program](cs-faq) (Essay #162).  

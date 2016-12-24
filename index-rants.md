@@ -77,3 +77,7 @@ Why Grinnell staff with Ph.D's should be allowed to teach.
 
 > Further evidence that computers hate me, or perhaps that I hate computers.
 
+[The strange pricing of meal plans](meal-plan-pricing) (Essay #161) 
+
+> Nonsensical numbers and my failure to get explanations.
+

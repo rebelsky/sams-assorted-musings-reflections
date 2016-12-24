@@ -106,7 +106,11 @@ For prospective students, parents of prospective students, and others with simil
 > A response to students who ask about the differences between CS at
   Grinnell and CS at our peer institutions.
 
-[Grinnell's Individual Advised Curriculum](individually-advised-curriculum.html) (Essay #24)
+[Some shorter questions and answers about Grinnell's CS program](cs-faq) (Essay #162).
+
+> Additional information about the department.
+
+[Grinnell's Individually Advised Curriculum](individually-advised-curriculum.html) (Essay #24)
 
 > One of the highlights of a Grinnell education.
 
@@ -421,6 +425,10 @@ Why Grinnell staff with Ph.D's should be allowed to teach.
 
 > Further evidence that computers hate me, or perhaps that I hate computers.
 
+[The strange pricing of meal plans](meal-plan-pricing) (Essay #161) 
+
+> Nonsensical numbers and my failure to get explanations.
+
 Assorted talks and speeches
 ---------------------------
 
@@ -572,9 +580,6 @@ Grinnellians you should know (or know about)
 
 > Author, publisher, not-quite graduate.
 
-Rachel Bly '93
-- *Forthcoming*
-
 [Narren Brown](narren-brown.html) (Essay #108)
 
 > Statistician, diversity consultant, generally great guy.
@@ -582,9 +587,6 @@ Rachel Bly '93
 [Doug Caulkins](doug-caulkins.html) (Essay #122)
 
 > Professor Emeritus, Anthropologist, campus innovator.
-
-Jeremy Chen
-- *Forthcoming*
 
 [W. Blake Creasey '16](w-blake-creasey.html) (Essay #134)
 
@@ -598,39 +600,9 @@ Jeremy Chen
 
 > Mentor, advisor, caring Grinnellian.
 
-Sarah Dahlby Albright
-- *Forthcoming*
-
-Nediyana Daskalova
-- *Forthcoming*
-
 [Janet Davis](janet-davis.html) (Essay #135)
 
 > Highly valued former colleague.
-
-Jeff Dickey-Chaisins '81
-- *Forthcoming*
-
-George Drake '??
-- *Forthcoming*
-
-Karla Erickson
-- *Forthcoming*
-
-David Feldman '71
-- *Forthcoming*
-
-Pam Ferguson
-- *Forthcoming*
-
-Susan Ferrari
-- *Forthcoming*
-
-Dan and Patricia Jipp Finkelman
-- *Forthcoming*
-
-Richard Fyffe
-- *Forthcoming*
 
 [Hallie Flanagan '11](hallie-flanagan.html) (Essay #131)
 
@@ -641,112 +613,31 @@ Richard Fyffe
 
 > Physics professor, Noyce mentor, and more.
 
-Katya Gibel Mevorach
-- *Forthcoming*
-
 [Megan Goering '08](megan-goering.html) (Essay #107)
 
 > Former SGA president, innovative thinker, risk taker.
 
-Lexy Greenwell '15
-- *Forthcoming*
-
-Leslie Gregg-Jolly
-- *Forthcoming*
-
-Steve Gump
-- *Forthcoming*
-
-Atul Gupta '??
-- *Forthcoming*
-
 [Harry Hopkins '12](harry-hopkins.html) (Essay #119)
 
 > Brash reformer.
-
-Chris Hunter
-- *Forthcoming*
-
-Judy Hunter
-- *Forthcoming*
-
-Kate Ingersoll 
-- *Forthcoming*
-
-Jen Jacobsen
-- *Forthcoming*
-
-Carolyn Jacobson
-- *Forthcoming*
-
-Lakesia Johnson
-- *Forthcoming*
-
-Darlo Kelting
-- *Forthcoming*
-
-Raynard Kington
-- *Forthcoming*
-
-Jonathan and Cassie Koomjian
-- *Forthcoming*
 
 [Terian Koscik '12](terian-koscik.html) (Essay #129)
 
 > Artist, programmer, cartoonist, supporter of the next generation of
   computer scientists.
 
-Mike Latham
-- *Forthcoming*
-
-Glenn Leggett
-- *Forthcoming*
-
-Mark Levandoski
-- *Forthcoming*
-
-Laura Nelson Lof
-- *Forthcoming*
-
-David Lopatto
-- *Forthcoming*
-
 [Lea Marolt-Sonnenschein '15](lea-marolt-sonnenschein.html) (Essay #136)
 
 > Daughter (well, host daughter).  Overachiever.
-
-Elaine Marzluff
-- *Forthcoming*
 
 [J. Harley McIlrath](j-harley-mcilrath.html) (Essay #118)
 
 > Bookseller, author, generally great guy.
 
-Joe Mileti
-- *Forthcoming*
-
-Brian Mitchell
-- *Forthcoming*
-
-Wayne Moyer
-- *Forthcoming*
-
-Kumail Nanjiani '01
-- *Forthcoming*
-
-John Norman '82
-- *Forthcoming*
-
 [Jennelle Nystrom '14](nystrom.html) (Essay #76)
 
 > Art History and CS major, research assistant, SAC director,
   first-gen student, PM, and more.
-
-Eryn O'Neill
-- *Forthcoming*
-
-Russell K. Osgood
-- *Forthcoming*
 
 [Sarah Purcell '92](sarah-purcell.html) (Essay #116)
 
@@ -757,34 +648,13 @@ Russell K. Osgood
 
 > Curmudgeon.
 
-Henry Rietz '89
-- *Forthcoming*
-
 [Dave Robinson](dave-robinson.html) (Essay #114)
 
 > CITO, woodworker, Ph.D. in Neuroscience (or something similar).
 
-Rachel Rose '01
-- *Forthcoming*
-
 [Joe Rosenfield '25](joe-rosenfield.html) (Essay #120)
 
 > Benefactor, Scout, and more.
-
-Susan Sanning
-- *Forthcoming*
-
-Mark Schneider
-- *Forthcoming*
-
-Rachel Schnepper
-- *Forthcoming*
-
-Andrew Sherburne
-- *Forthcoming*
-
-Deanna Shorb
-- *Forthcoming*
 
 [Karen Shuman](karen-shuman.html) (Essay #125)
 
@@ -794,9 +664,6 @@ Deanna Shorb
 
 > Professor of English.  Digital humanist.  Active faculty member.  And more.
 
-Paula Smith
-- *Forthcoming*
-
 [Adrienne Squier](adrienne-squier.html) (Essay #113)
 
 > Social media specialist and all-around great person.
@@ -805,42 +672,9 @@ Paula Smith
 
 > Colleague.
 
-Angie Balm Story
-- *Forthcoming*
-
-Tony Stubblebine '00
-- *Forthcoming*
-
-Jim Swartz
-- *Forthcoming*
-
-Justin Thomas
-- *Forthcoming*
-
-Vivek Venugopal
-- *Forthcoming*
-
-Angela Voos
-- *Forthcoming*
-
 [Henry MacKay Walker](henry-walker.html) (Essay #124)
 
 > Mentor, architect of CS at Grinnell, educator, and beyond
-
-More thoughts on Henry MacKay Walker
-- *Forthcoming*
-
-Autumn Wilke
-- *Forthcoming*
-
-Eliza Willis
-- *Forthcoming*
-
-Zoe Wolter '16
-- *Forthcoming*
-
-Tilly Woodward
-- *Forthcoming*
 
 About Grinnell
 --------------
