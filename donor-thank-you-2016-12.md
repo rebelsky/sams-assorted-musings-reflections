@@ -1,12 +1,12 @@
 Thank-you letter to donors to the CS department (version of December 2016)
 ==========================================================================
 
-*I try to update our thank-you letter to donors about every six months.
+*I try to update our thank-you letter to donors at least every six months.
 This essay represents the updates I made today.  The next time I write
 one, it will probably address our new hire (when we make it), our
 continued growth, the MathLAN transition, and more.  I wonder if I'll
-still continue writing the letters, or whether Jerod will take over
-when he assumes the mantle (burden?) of chair.*
+still continue writing the letters, or whether Jerod will take over when
+he assumes the mantle (burden?) of chair.*
 
 Dear Donor,
 
@@ -201,3 +201,7 @@ donations or how things are going in the department.
 Regards,
 
 Samuel A. Rebelsky, Professor and Chair
+
+---
+
+*Version 1.0 of 2016-12-23.*
