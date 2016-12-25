@@ -114,7 +114,7 @@ We've also hired two new faculty to follow Henry and Janet (we use
 "follow" rather than "replace" because it's not clear that either is
 replaceable).  Peter-Michael Osera came to us from the University of
 Pennsylvania and does cool things with programming languages.  PM calls
-himself a type nerd.  Charlie Curtsinger comes to us from the University
+himself a type pedant.  Charlie Curtsinger comes to us from the University
 of Massachusetts and does equally cool things in systems, with some
 connection to programming languages.  Our students tell me that both
 PM and Charlie are awesome.  This year, we are hiring another new
@@ -204,4 +204,4 @@ Samuel A. Rebelsky, Professor and Chair
 
 ---
 
-*Version 1.0 of 2016-12-23.*
+*Version 1.0.1 of 2016-12-25.*
