@@ -213,3 +213,5 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 
 [The strange pricing of meal plans](meal-plan-pricing) (Essay #161)   
 [Some shorter questions and answers about Grinnell's CS program](cs-faq) (Essay #162).  
+[More fun with Harry & David](harry-and-david-2) (Essay #163)  
+[Thank-you letter to donors to the CS department (version of December 2016)](donor-thank-you-2016-12) (Essay #164)  

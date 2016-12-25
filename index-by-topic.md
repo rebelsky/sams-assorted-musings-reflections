@@ -275,6 +275,10 @@ For alumni and others who donate to the department
 
 > A thank-you note, of sorts.
 
+[Thank-you letter to donors to the CS department (version of December 2016)](donor-thank-you-2016-12) (Essay #164)
+
+> A revised version of the thank-you note, about six months later.
+
 [Planning a CS Affinity Reunion](planning-cs-reunion.html) (Essay #49)
 
 > Thoughts on an upcoming event.
@@ -420,6 +424,14 @@ Why Grinnell staff with Ph.D's should be allowed to teach.
 
 > Much-too defensive (or offensive) responses to an essay by a friend 
   and valued former colleague.
+
+[Ordering from Harry and David](harry-and-david.html) (Essay #139)
+
+> A comedy of (technical) errors.
+
+[More fun with Harry & David](harry-and-david-2) (Essay #163)
+
+> The comedy continues.
 
 [Submitting Camera-Ready Copy to SIGCSE 2017](sigcse-2017-camera-ready.html) (Essay #151)
 
@@ -817,10 +829,6 @@ About SamR
 [Thanksgiving 2016](thanksgiving-2016.html) (Essay #132)
 
 > Reflections on one of my favorite holidays.
-
-[Ordering from Harry and David](harry-and-david.html) (Essay #139)
-
-> A comedy of (technical) errors.
 
 [Pebble Watches](pebble-watches.html) (Essay #148)
 

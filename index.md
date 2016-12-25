@@ -7,8 +7,9 @@ students or other people.  Some are rants about topics I'm passionate
 about.  Some are explanations of how I approach the world.  Some are
 just my attempts to think through a topic.
 
-Latest essays: [The strange pricing of meal plans](meal-plan-pricing) (Essay #161) and
-[Some shorter questions and answers about Grinnell's CS program](cs-faq) (Essay #162).
+Latest essays: [More fun with Harry & David](harry-and-david-2) (Essay #163)
+and
+[Thank-you letter to donors to the CS department (version of December 2016)](donor-thank-you-2016-12) (Essay #164)
 
 [Essays, by number](index-by-number.html)
 

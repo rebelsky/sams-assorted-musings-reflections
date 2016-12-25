@@ -73,6 +73,14 @@ Why Grinnell staff with Ph.D's should be allowed to teach.
 > Much-too defensive (or offensive) responses to an essay by a friend 
   and valued former colleague.
 
+[Ordering from Harry and David](harry-and-david.html) (Essay #139)
+
+> A comedy of (technical) errors.
+
+[More fun with Harry & David](harry-and-david-2) (Essay #163)
+
+> The comedy continues.
+
 [Submitting Camera-Ready Copy to SIGCSE 2017](sigcse-2017-camera-ready.html) (Essay #151)
 
 > Further evidence that computers hate me, or perhaps that I hate computers.
