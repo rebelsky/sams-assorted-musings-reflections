@@ -854,6 +854,10 @@ About SamR
 
 > A not-so-typical day.
 
+[Christmas eve, 2016](christmas-eve-2016) (Essay #165)
+
+> Reflections on Christmas eves, past and present.
+
 Almost everything else
 ----------------------
 

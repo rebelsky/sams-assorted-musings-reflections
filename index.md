@@ -7,9 +7,7 @@ students or other people.  Some are rants about topics I'm passionate
 about.  Some are explanations of how I approach the world.  Some are
 just my attempts to think through a topic.
 
-Latest essays: [More fun with Harry & David](harry-and-david-2) (Essay #163)
-and
-[Thank-you letter to donors to the CS department (version of December 2016)](donor-thank-you-2016-12) (Essay #164)
+Latest essay: [Christmas eve, 2016](christmas-eve-2016) (Essay #165)
 
 [Essays, by number](index-by-number.html)
 
