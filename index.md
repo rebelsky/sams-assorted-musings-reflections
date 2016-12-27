@@ -7,7 +7,7 @@ students or other people.  Some are rants about topics I'm passionate
 about.  Some are explanations of how I approach the world.  Some are
 just my attempts to think through a topic.
 
-Latest essay: [Christmas eve, 2016](christmas-eve-2016) (Essay #165)
+Latest essay: [Grinnell's Mission Statement](grinnell-mission-statement) (Essay #166)
 
 [Essays, by number](index-by-number.html)
 

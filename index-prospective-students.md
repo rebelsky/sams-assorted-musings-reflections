@@ -18,6 +18,10 @@ For prospective students, parents of prospective students, and others with simil
 
 > One of the highlights of a Grinnell education.
 
+[Grinnell's Mission Statement](grinnell-mission-statement) (Essay #166)
+
+> The statement that guides a Grinnell education.
+
 [MathLAN: Grinnell's Linux Network](mathlan.html) (Essay #52)
 
 > How Linux integrates with a Grinnell education.
