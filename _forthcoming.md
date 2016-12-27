@@ -5,16 +5,10 @@ Some forthcoming essays
 
 Upcoming
 
-* 2016-12-23: Harry and David, continued + a new thank-you letter to donors.
-* 2016-12-24: Christmas eve.  (The not so politically correct
-  "Jews eat and drink; Christians decorate the tree.")
-* 2016-12-25: Christmas.  (I'm not Christian.  I'm still giving myself
-  the gift of permitting myself to write an incredibly short essay.)
-* 2016-12-26: The Mission Statement.
 * 2016-12-27: Growing the student body.
-* 2016-12-28: Trustees.
-* 2016-12-29: ???
-* 2016-12-30: ???
+* 2016-12-28: History of the Mission Statement.
+* 2016-12-29: Trustees.
+* 2016-12-30: Studying at Grinnell.
 * 2016-12-31: End-of-month, end-of-year
 
 ---
@@ -34,6 +28,8 @@ Upcoming
 1. Backticks.
 
 1. Our ASAs.
+
+1. Zero inbox.
 
 1. Modeling Many Majors.  (Probably not; too scary.)
 
@@ -255,8 +251,9 @@ Grinnellians
 
 1. Graeme Boy '15
 
+1. David Campbell
+
 1. Jeremy Chen
-- *Forthcoming*
 
 1. Sarah Dahlby Albright
 
@@ -438,6 +435,8 @@ convocation.  Here's a plan for doing so.)
 1. If you ask a prof a question, revisited (On Writing)
 
 1. Proofpoint, revisited.
+
+1. Birthday gift: Not having.
 
 ---
 
