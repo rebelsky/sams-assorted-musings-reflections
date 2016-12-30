@@ -220,3 +220,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Helping our students speak persuasively](speak-persuasively) (Essay #167)  
 [On teaching online](on-teaching-online) (Essay #168)  
 [The size of the College](size-of-the-college) (Essay #169)  
+[The recent history of Grinnell's mission statement](grinnell-mission-statement-history) (Essay #170)  

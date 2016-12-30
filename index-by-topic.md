@@ -362,6 +362,10 @@ Reflections on some important issues
 
 > Something it appears we are being asked to reconsider.
 
+[The recent history of Grinnell's mission statement](grinnell-mission-statement-history) (Essay #170)
+
+> How we got to the mission statement we have.
+
 Rants
 -----
 
