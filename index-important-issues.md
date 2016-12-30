@@ -65,3 +65,7 @@ Reflections on some important issues
 
 > One of our primary goals as an institution.
 
+[The size of the College](size-of-the-college) (Essay #169)
+
+> Something it appears we are being asked to reconsider.
+
