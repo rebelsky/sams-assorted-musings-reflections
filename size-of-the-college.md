@@ -65,12 +65,16 @@ that we need to do things differently.  A quick analysis should reveal
 that it's a bad idea.  But instead of doing a quick analysis, we do a
 detailed analysis and come to the same conclusion (or, worse yet, we do
 the detailed analysis, come to the same conclusion, but go ahead anyway).
+Sometimes, as in this case, it's something we've studied in the past,
+but we have insufficient institutional memory, and we do the work again
+(and again and again).
 
 It's pretty clear to me that when the task force has finished using lots
 of human resources to consider the issue, they will find that a larger
-college makes no financial sense, and will make it more difficult for us
-to achieve [our mission](grinnells-mission-statement).  I just wish that 
-we had a better rationale for undertaking the study in the first place.
+college makes no financial sense, and that a larger
+institutional will make it more difficult for us to achieve [our
+mission](grinnells-mission-statement).  I just wish that we had a better
+rationale for undertaking the study in the first place.
 
 ---
 
