@@ -36,7 +36,8 @@ they came up with as a starting point [1].
 > * Achievement through leadership and service to others marks our personal and professional endeavors.
 
 > **Purpose**
-Grinnell College educates citizens and leaders for our communities, the nation, and the world by preparing them to pursue successful careers, satisfying personal lives, effective community service, and active leisure.
+
+> Grinnell College educates citizens and leaders for our communities, the nation, and the world by preparing them to pursue successful careers, satisfying personal lives, effective community service, and active leisure.
 
 > **Present Goal**
 
@@ -80,7 +81,11 @@ take the role of Don Smith, we'll be okay.
 
 [1] <http://web.archive.org/web/20030721093904/http://web.grinnell.edu/missionstatement/>
 
-[2] They even let this young whippersnapper on the committee, even though I had only been at Grinnell for four years.
+[2] They even let this young whippersnapper on the committee, even though I had only been at Grinnell for four years [3].
+
+[3] It may have helped that I wrote a public statement on the purpose
+of a mission statement, similar to the one that appears somewhere in my
+recent essay.
 
 ---
 
