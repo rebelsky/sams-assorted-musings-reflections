@@ -37,3 +37,8 @@ Almost everything else
 [Mondegreens](mondegreens.html) (Essay #143)
 
 > A great term, further explored.
+
+[On teaching online](on-teaching-online) (Essay #168)
+
+> Preliminary notes for a memo in which I reflect on my experiences teaching 
+  online.

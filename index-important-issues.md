@@ -61,3 +61,7 @@ Reflections on some important issues
 
 > An issue we probably need to address.
 
+[Helping our students speak persuasively](speak-persuasively) (Essay #167)
+
+> One of our primary goals as an institution.
+

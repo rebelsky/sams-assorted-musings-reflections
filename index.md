@@ -7,7 +7,7 @@ students or other people.  Some are rants about topics I'm passionate
 about.  Some are explanations of how I approach the world.  Some are
 just my attempts to think through a topic.
 
-Latest essay: [Grinnell's Mission Statement](grinnell-mission-statement) (Essay #166)
+Latest essay: [On teaching online](on-teaching-online) (Essay #168)
 
 [Essays, by number](index-by-number.html)
 

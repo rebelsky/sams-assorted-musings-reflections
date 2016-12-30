@@ -217,3 +217,5 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Thank-you letter to donors to the CS department (version of December 2016)](donor-thank-you-2016-12) (Essay #164)  
 [Christmas eve, 2016](christmas-eve-2016) (Essay #165)  
 [Grinnell's Mission Statement](grinnell-mission-statement) (Essay #166)  
+[Helping our students speak persuasively](speak-persuasively) (Essay #167)  
+[On teaching online](on-teaching-online) (Essay #168)  

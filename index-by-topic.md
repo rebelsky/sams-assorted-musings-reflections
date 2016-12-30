@@ -354,6 +354,10 @@ Reflections on some important issues
 
 > An issue we probably need to address.
 
+[Helping our students speak persuasively](speak-persuasively) (Essay #167)
+
+> One of our primary goals as an institution.
+
 Rants
 -----
 
@@ -901,6 +905,11 @@ Almost everything else
 [Mondegreens](mondegreens.html) (Essay #143)
 
 > A great term, further explored.
+
+[On teaching online](on-teaching-online) (Essay #168)
+
+> Preliminary notes for a memo in which I reflect on my experiences teaching 
+  online.
 Removed
 -------
 
