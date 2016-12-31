@@ -19,7 +19,7 @@ any sensible person would do, I asked something like the following:
 population.  If we might be changing that population, shouldn't we put
 a hold on until we work out our population plans?"  I clearly wasn't
 alone in this concern.  However, President Kington informed us that we
-were two far along on the HSSC to turn back now.
+were too far along on the HSSC to turn back now.
 
 In the time since that meeting, I've heard a variety of interesting
 comments, including some from people who hadn't heard that we'd appointed
@@ -102,4 +102,4 @@ the average class size at the College.
 
 ---
 
-*Version 1.0 of 2016-12-29.*
+*Version 1.0.1 of 2016-12-30.*
