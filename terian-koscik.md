@@ -13,7 +13,7 @@ Grinnellians.
 I'm not quite sure where to start, so I'll start with [her presentation at
 reunion](https://docs.google.com/presentation/d/1RKCfbW-NPdMWaBkrISXlsyiK8y5qinCAtXWf9_YJDK8/edit#slide=id.g142df6cabe_0_0).
 Terian talked about personal projects, particularly about her experiences
-writing Twitter 'bots [1].  I'm trying to decide what impressed me most
+writing Twitter 'bots.  I'm trying to decide what impressed me most
 about the presentation; I think it's that Terian finds art in so many
 different things, from fake Taco Bell dishes to negative Yelp reviews.
 But I also appreciate how clearly she speaks with the perspective of a
@@ -82,4 +82,4 @@ contact you for guidance.  And I'll encourage students to contact you.
 
 ---
 
-*Version 1.1 of 2016-11-20.*
+*Version 1.1.1 of 2016-12-31.*
