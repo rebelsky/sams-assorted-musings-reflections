@@ -21,6 +21,30 @@ categories.*
 
 > How does one learn and keep track of all that is happening at the College?
 
+[Faculty Lines and Zero-Sum Games](http://www.cs.grinnell.edu/~rebelsky/musings/faculty-lines.html) (Essay #150)
+
+> The joy of limiting tenure-line faculty.
+
+[Should Grinnell be tuition free?](tuition-free-grinnell.html) (Essay #158) 
+
+> Reflections on a question from about a decade ago.
+
+[The divide between varsity/club athletes and other students](varsity-athlete-divide.html) (Essay #160)
+
+> An issue we probably need to address.
+
+[Helping our students speak persuasively](speak-persuasively) (Essay #167)
+
+> One of our primary goals as an institution.
+
+[The size of the College](size-of-the-college) (Essay #169)
+
+> Something it appears we are being asked to reconsider.
+
+[The recent history of Grinnell's mission statement](grinnell-mission-statement-history) (Essay #170)
+
+> How we got to the mission statement we have.
+
 [Grinnell's Board of Trustees](trustees) (Essay #171)
 
 > Thoughts about the folks who govern the College
