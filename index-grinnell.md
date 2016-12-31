@@ -21,3 +21,7 @@ categories.*
 
 > How does one learn and keep track of all that is happening at the College?
 
+[Grinnell's Board of Trustees](trustees) (Essay #171)
+
+> Thoughts about the folks who govern the College
+

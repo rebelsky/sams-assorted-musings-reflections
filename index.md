@@ -7,8 +7,7 @@ students or other people.  Some are rants about topics I'm passionate
 about.  Some are explanations of how I approach the world.  Some are
 just my attempts to think through a topic.
 
-Latest essays: [The size of the College](size-of-the-college) (Essay #169) and
-[The recent history of Grinnell's mission statement](grinnell-mission-statement-history) (Essay #170)
+Latest essay: [Grinnell's Board of Trustees](trustees) (Essay #171)
 
 [Essays, by number](index-by-number.html)
 
