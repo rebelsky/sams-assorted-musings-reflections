@@ -449,6 +449,10 @@ Why Grinnell staff with Ph.D's should be allowed to teach.
 
 > The comedy continues.
 
+[Even more fun with Harry & David](harry-and-david-3) (Essay #172)
+
+> It's not so funny any more.
+
 [Submitting Camera-Ready Copy to SIGCSE 2017](sigcse-2017-camera-ready.html) (Essay #151)
 
 > Further evidence that computers hate me, or perhaps that I hate computers.
