@@ -7,14 +7,41 @@ have joined because they were interested in helping manage the endowment
 (or having helping manage the endowment on their résumés) rather than
 because they were interested in helping the College.  A number of things
 effected [1] my perspective (and, at times, continue to effect [2]) my
-perspective on the Trustees of the time.  Because of those things [3],
-I did not really trust the Trustees.
+perspective on the Trustees of the time.  Here are a few [3].
+
+* A statement by some trustees of the form "We'd know that Grinnell was
+  being successful if it produced more investment bankers."
+* The development of the JRC.  There are so many issues with the JRC.
+  We hired an architect who doesn't like clocks.  (Haven't you wondered
+  why there are no clocks in the building?)  In contrast to Noyce, in
+  which we paid particular attention to being reasonable environmental
+  stewards, such as by trying to source materials locally, the JRC sourced
+  stone from around the world (bringing some of it on the both figurative
+  and literal slow boat from China).  The placement of the lecture hall
+  (JRC 101) as far as possible from the handicapped parking and the
+  provision of too little handicapped parking.  The use of a strange
+  parquet in that lecture hall, a parquet that clearly is not designed
+  to withstand the use it gets.  The use of woks in the Marketplace,
+  rather than a circular grill, even though woks require significantly
+  more water to clean. The list goes on and on.  "Form over function",
+  as they say.  I don't mean to imply that we didn't need a new student
+  center and dining hall; we did.  I don't mean to imply that I don't
+  like many features of the JRC; I do.  But it could have been so much
+  better, and so much more environmentally responsibly.
+* A fascinating talk by Jim Collins, who was in the process of writing
+  _Good to Great_ [4].  In the question and answer session after the
+  talk, I said something about Grinnell already being great [5] and it
+  was clear from their responses that the Trustees who had invited him
+  that they did not think that Grinnell was great.
+
+Because of those things, and many others like them,  I did not really
+trust the Trustees.
 
 But now that I've been at Grinnell for nearly two decades, I've had
 the opportunity to meet with more trustees, some of them for extended
 conversations.  I've had dinners and other meetings with them in a
 variety of roles in which I serve or served, including as Chair of the
-Science Division, as a member of our Expanding Knowledge Initiative [4]
+Science Division, as a member of our Expanding Knowledge Initiative [6]
 task force, as a faculty member in the Science Division, and as a member
 of the Wilson Committee.  There may be others; those are just the
 ones that come to mind.
@@ -23,7 +50,7 @@ Perhaps the most important things I've learned are that (a) while, from
 the outside, it seems like the Trustees speak with one voice, when you
 talk to them individually, you find that they each have their own unique
 perspective; (b) many of our Trustees care deeply about the College
-[5]; (c) some of our Trustees spend a significant amount of time on the
+[7]; (c) some of our Trustees spend a significant amount of time on the
 College, each week, not just when they are on campus; and (d) the Trustees
 really do have to think about things that the faculty and students don't
 need to think about regularly, such as the College's liability for different
@@ -32,7 +59,7 @@ things.
 And I've met a number of amazing and thoughtful Trustees.  I probably
 can't create a full list, but they include Patricia Jipp Finkleman '80,
 Hal Fuson, Jr. '67, Atul Gupta '88, Sylvia Kwan, Joel Spiegel '78',
-David White '90, and even Clint Korver '89 [6].  Plus, there are three
+David White '90, and even Clint Korver '89 [8].  Plus, there are three
 folks from town who serve on the board who I respect greatly, including
 Angela Onwuachi-Willig '94, Laura Ferguson '90, and Todd Linden
 
@@ -51,19 +78,23 @@ my perspective.
 [2] In this case, I do mean "effect", in the sense that they change how
 I think about Trustees.
 
-[3] Michelle sensibly suggested that I excise my too-long and too-detailed
-list.
+[3] Michelle sensibly suggested that I excise most of my too-long 
+and too-detailed list.
 
-[4] EKI, for those of you keeping track of our TLAs.
+[4] I even have a signed copy of a manuscript of part of the book.
 
-[5] The Trustees that care deeply about the College include Trustees
+[5] It is.
+
+[6] EKI, for those of you keeping track of our TLAs.
+
+[7] The Trustees that care deeply about the College include Trustees
 who were not Grinnell undergraduates.
 
-[6] I appreciate many things that Clint does for Grinnell.  I don't
+[8] I appreciate many things that Clint does for Grinnell.  I don't
 always agree with his approaches.  Clint also does wonderful things
 one-on-one with folks.  I particularly appreciate the mentoring he did
 for [Megan Goering '08] and his bringing Sylvia Kwan to the board.
 
 ---
 
-*Version 1.1 of 2016-12-30.*
+*Version 1.2 of 2016-12-31.*
