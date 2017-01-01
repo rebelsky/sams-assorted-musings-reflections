@@ -227,3 +227,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Grinnell's Board of Trustees](trustees) (Essay #171)  
 [Even more fun with Harry & David](harry-and-david-3) (Essay #172)  
 [Five months of essays](five-months) (Essay #173)  
+[An introduction to a month of technical essays](technical-month) (Essay #174)   

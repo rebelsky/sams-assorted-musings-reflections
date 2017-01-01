@@ -95,3 +95,8 @@ Essays on writing, or at least on writing my essays
 
 > Why I'm recently been writing essays about myself rather than other topics.
 
+[An introduction to a month of technical essays](technical-month) (Essay #174) 
+
+> A note for my regular readers on the month on "Don't embarrass me; don't
+  embarrass yourself".
+

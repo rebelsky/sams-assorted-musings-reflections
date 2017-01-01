@@ -7,7 +7,8 @@ students or other people.  Some are rants about topics I'm passionate
 about.  Some are explanations of how I approach the world.  Some are
 just my attempts to think through a topic.
 
-Latest essay: [Five months of essays](five-months) (Essay #173)
+Latest essay: [A month of technical essays](technical-month) (Essay #174) and 
+[An introduction to "Don't embarrass me; Don't embarrass yourself: Thoughts on thinking in C and Unix"](cnix-intro-1) (Essay #175)
 
 [Essays, by number](index-by-number.html)
 
@@ -26,6 +27,7 @@ Latest essay: [Five months of essays](five-months) (Essay #173)
 * [On teaching online](index-teaching-online.html)
 * [On writing letters of recommendation](index-recommendations.html)
 * [Essays I removed](index-removed.html)
+* [Don't embarrass me; Don't embarrass myself: Thoughts on thinking in C and Unix](index-cnix)
 * [The joy of code](index-joc.html)
 * [Cool Grinnellians you should know (or know about)](index-grinnellians.html)
 * [Other essays on Grinnell](index-grinnell.html)

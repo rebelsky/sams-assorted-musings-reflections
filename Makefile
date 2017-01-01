@@ -68,6 +68,7 @@ INDICES = index-by-topic-head.md \
 	index-overcommitment.md \
 	index-teaching-online.md \
 	index-recommendations.md \
+        index-cnix.md \
 	index-joc.md \
 	index-grinnellians.md \
         index-grinnell.md \
