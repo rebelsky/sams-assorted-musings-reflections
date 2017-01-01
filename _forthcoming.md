@@ -5,13 +5,17 @@ Some forthcoming essays
 
 Upcoming
 
-* 2016-12-27: Growing the student body.
-* 2016-12-28: History of the Mission Statement.
-* 2016-12-29: Trustees.
-* 2016-12-30: Studying at Grinnell.
-* 2016-12-31: End-of-month, end-of-year
+* 2017-01-02: Thinking like a C programmer; bonus: Posse.
+* 2017-01-03: Thinking like a Unix programmer; bonus: Studying at Grinnell.
+* 2017-01-04: C compilation steps (maybe)
+* 2017-01-05: Important *nix tools.
+* ...
 
 ---
+
+1. "relateable"
+
+1. The Freewrite keyboard.
 
 1. Jon Strymish.
 
@@ -147,7 +151,7 @@ the US in the world.)
 
 1. FAQ (Should I really write this?)
 
-1. Studying at Grinnell. (What did I want to write?)
+1. Studying at Grinnell. (Compared to other institutions.)
 
 1. Outreach.
 
