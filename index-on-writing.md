@@ -40,6 +40,10 @@ Essays on writing, or at least on writing my essays
 
 > I bet you can figure this one out.
 
+[Five months of essays](five-months) (Essay #173)
+
+> The series continues.
+
 [On making, breaking, and remaking the habit of daily writing](habit-of-writing.html) (Essay #41)
 
 > Reflections on trying to restart these essays.

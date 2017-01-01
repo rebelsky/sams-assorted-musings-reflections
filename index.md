@@ -7,8 +7,7 @@ students or other people.  Some are rants about topics I'm passionate
 about.  Some are explanations of how I approach the world.  Some are
 just my attempts to think through a topic.
 
-Latest essays: [Grinnell's Board of Trustees](trustees) (Essay #171) and
-[Even more fun with Harry & David](harry-and-david-3) (Essay #172)
+Latest essay: [Five months of essays](five-months) (Essay #173)
 
 [Essays, by number](index-by-number.html)
 
