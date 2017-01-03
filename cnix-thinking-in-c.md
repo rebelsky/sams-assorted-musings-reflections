@@ -3,9 +3,9 @@ Don't Embarrass Me; Don't Embarrass Yourself: Thinking in C
 
 The philosopher Benjamin Whorf suggests that
 the language we speak influences how we think.
-However, most linguists and philosophers [dispute the Whorfian
-hypothesis](http://www.linguisticsociety.org/content/does-language-i-speak-influence-way-i-think).
-Nonetheless, there's some pretty clear evidence that the *programming
+Even though most linguists and philosophers [dispute the Whorfian
+hypothesis](http://www.linguisticsociety.org/content/does-language-i-speak-influence-way-i-think),
+there's some pretty clear evidence that the *programming
 language* you speak significantly affects how you think about problem
 design.  The paradigm of the language clearly has an effect; John Backus'
 paper from his Turing Award lecture, "[Can Programming Be Liberated
@@ -19,12 +19,12 @@ conditionals](https://sourcemaking.com/refactoring/replace-conditional-with-poly
 
 Note that these differences are not differences of syntax.  Rather,
 different capabilities in different kinds of languages really do lead
-people to develop and express solutions in very different ways.
+people to develop and express solutions to problems in very different ways.
 
 At Grinnell, we teach three different paradigms and three different
-languages in our introductory sequence so that our students can think
-about problem solving from multiple perspectives.  We teach Scheme in
-the first course to get students accustomed to higher-order programming,
+languages in our introductory sequence so that our students can
+approach problems from multiple perspectives.  We teach Scheme in the
+first course to get students accustomed to higher-order programming,
 anonymous procedures, recursion, and the benefits of side-effect-free
 approaches.  We teach C in the second course not only to help students
 think imperatively, but also for the additional ways of thinking that
@@ -35,14 +35,15 @@ experience of working with a language that does not trust the programmer
 the background to think about problems in multiple ways, they also
 prepare students to master almost any modern programming language [5].
 
-But we're here to think about thinking in C.  So, how do C programmers
+But we're here to consider thinking in C.  So, how do C programmers
 think?  From my perspective, there are four key characteristics of a
 C programmer.
 
-First, C is an imperative programming language, and C programmers
+First, C is an imperative programming language. Hence, C programmers
 think imperatively.  How do imperative programmers think?  They design
-programs in which they explicitly sequence operations, and they think
-of each operations as affecting the state of the system.
+programs in which they explicitly sequence operations that affect the
+state of the system.  That means that their programs emphasize sequence
+and state.
 
 Now, there are a wide variety of imperative programming languages, or
 programming languages that support imperative programming.  C differs from
@@ -61,26 +62,55 @@ worry about the stack and the heap, about allocation and deallocation,
 about array overflows, and more.
 
 Why would someone work in C rather than some other imperative
-language, particularly given the need to handle all of the joys of
-memory management?  Well, because you have more direct access to the
+language, particularly given the need to handle all of the joys [9] of
+memory management in C?  Well, because you have more direct access to the
 underlying machine, you can write very efficient code.  And that's the
 third hallmark of C programmers: They pay close attention to efficiency,
 and consider how their code uses resources.  A Python programmer
 concatenates two strings, and doesn't really think about the cost.
-A C programmer thinks about the associated costs.
+A C programmer thinks about the associated costs, and looks for ways
+to ameliorate them.
 
 Finally, C programmers are Unix programmers.  They tend to program
 with the associated tools and techniques of the Unix environment.
-We'll consider those tools and techniques in the next section of the
-introduction.
+We'll consider those tools and techniques soon.
 
-In case you didn't catch it: C programmers (a) think about computation
-in terms of manipulating state; (b) pay attention to underlying
-issues, including representation and memory; (c) understand the costs
-of their code, and try to optimize based on those costs; and (d)
-take advantage of the Unix programming environment.  There's a bit more
-associated with all of that, but those are the key issues.  We may 
-discover more in the rest of this work.
+I find that a short comment in Kernighan and Ritchie's _The C Programming
+Language_ (p. 106) shows much of what it means to think like a C
+programmer.  They note that `strcpy` would most likely be written as
+
+    void strcpy(char *s, char *t)
+    {
+      while (*s++ = *t++)
+        ;
+    }
+
+Inexperienced C programmers find this vague.  Experienced C programmers
+find it perfectly clear.  Of course, experienced C programmers would
+probably write it as follows:
+
+    char *
+    strcpy(char *t, char *s)
+    {
+      while (*t++ = *s++)
+        ;
+      return t;
+    }
+
+Why the extra `return`? It helps avoid the [Shlemiel the painter
+problem](https://www.joelonsoftware.com/2001/12/11/back-to-basics/).
+Why swap the names of the parameters?  So that we can think
+of `t` as "target" and `s` as "source".  Why the different
+formatting?  Because real C programmers follow [GNU coding
+standards](http://www.gnu.org/prep/standards/html_node/) [10].
+
+In any case, C programmers (a) think about computation in terms of
+manipulating state; (b) pay attention to underlying issues, including
+representation and memory; (c) understand the costs of their code, and
+try to optimize based on those costs; and (d) take advantage of the Unix
+programming environment.  There's a bit more associated with all of that,
+but those are the key ways one "thinks in C".  We may discover more in
+the rest of this work.
 
 ---
 
@@ -110,6 +140,10 @@ of it as "LIst and Symbolic Processor".  But now it's just Lisp.
 [8] I think it's the low-order bit, but I'm not sure.  I can't find
 the documentation at this moment.
 
+[9] In case you couldn't tell, "joys" was intended sarcastically.
+
+[10] We'll cover coding standards in a future essay.
+
 ---
 
-*Version 1.0 of 2017-01-02.*
+*Version 1.1 of 2017-01-02.*
