@@ -351,6 +351,10 @@ Reflections on some important issues
 
 > What you should pay attention to when building Web pages.
 
+[On the termination of Grinnell's relationship with Posse, revisited](posse-termination-revisited) (Essay #177)
+
+> An updated version of a much earlier essay.
+
 Rants
 -----
 
@@ -528,6 +532,37 @@ Comparing students
 
 > When multiple students are applying for the same opportunity, I'm often
   asked to compare them.  These are some thoughts on that process.
+
+Don't embarass me; don't embarass yourself: Some notes on thinking in C and Unix
+--------------------------------------------------------------------------------
+
+[Introduction, part 1: On the genesis of this work](cnix-intro-1) (Essay #175)
+
+> The genesis of this set of writing.
+
+[Introduction, part 2: Thinking in C](cnix-thinking-in-c) (Essay #176)
+
+> What I mean by "thinking in C".
+
+[Introduction, part 3: Thinking in Unix](cnix-thinking-in-unix) (Essay #178) 
+
+> What I mean by "thinking in Unix"
+
+Introduction, part 4: Other important issues
+
+> Additional perspectives that underlie the rest of the course/book/essays.
+
+The steps of C compilation
+
+> What those steps are, and why you should know.
+
+Additional compiler flags
+
+> C compiler flags you should know.
+
+Formatting your C programs
+
+> Why style counts.
 
 The joy of code
 ---------------

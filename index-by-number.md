@@ -228,3 +228,7 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Even more fun with Harry & David](harry-and-david-3) (Essay #172)  
 [Five months of essays](five-months) (Essay #173)  
 [An introduction to a month of technical essays](technical-month) (Essay #174)   
+[Introduction, part 1: On the genesis of this work](cnix-intro-1) (Essay #175)  
+[Introduction, part 2: Thinking in C](cnix-thinking-in-c) (Essay #176)  
+[On the termination of Grinnell's relationship with Posse, revisited](posse-termination-revisited) (Essay #177)  
+[Introduction, part 3: Thinking in Unix](cnix-thinking-in-unix) (Essay #178)   

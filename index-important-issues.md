@@ -49,3 +49,7 @@ Reflections on some important issues
 
 > What you should pay attention to when building Web pages.
 
+[On the termination of Grinnell's relationship with Posse, revisited](posse-termination-revisited) (Essay #177)
+
+> An updated version of a much earlier essay.
+

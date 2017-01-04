@@ -7,8 +7,7 @@ students or other people.  Some are rants about topics I'm passionate
 about.  Some are explanations of how I approach the world.  Some are
 just my attempts to think through a topic.
 
-Latest essay: [A month of technical essays](technical-month) (Essay #174) and 
-[An introduction to "Don't embarrass me; Don't embarrass yourself: Thoughts on thinking in C and Unix"](cnix-intro-1) (Essay #175)
+Latest essay: [Thinking in Unix](cnix-thinking-in-unix) (Essay #178) 
 
 [Essays, by number](index-by-number.html)
 

@@ -1,15 +1,31 @@
 Don't embarass me; don't embarass yourself: Some notes on thinking in C and Unix
 ================================================================================
 
-[Introduction, part 1](cnix-intro-1) (Essay #175)
+[Introduction, part 1: On the genesis of this work](cnix-intro-1) (Essay #175)
 
 > The genesis of this set of writing.
 
-Introduction, part 2
+[Introduction, part 2: Thinking in C](cnix-thinking-in-c) (Essay #176)
 
 > What I mean by "thinking in C".
 
-Introduction, part 3
+[Introduction, part 3: Thinking in Unix](cnix-thinking-in-unix) (Essay #178) 
 
 > What I mean by "thinking in Unix"
+
+Introduction, part 4: Other important issues
+
+> Additional perspectives that underlie the rest of the course/book/essays.
+
+The steps of C compilation
+
+> What those steps are, and why you should know.
+
+Additional compiler flags
+
+> C compiler flags you should know.
+
+Formatting your C programs
+
+> Why style counts.
 
