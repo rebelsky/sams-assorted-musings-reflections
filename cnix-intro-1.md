@@ -15,7 +15,7 @@ This work has evolved from a series of conversations I had with students
 when I last taught our upper-level course in compilers [3].  I was
 teaching a fairly traditional version of the course, using either the Red
 Dragon Book or the Purple Dragon book [4] and the traditional tools of Lex
-and Yacc [7] to translate something that looked a whole lot like Pascal.
+and Yacc [6] to translate something that looked a whole lot like Pascal.
 However, almost every time I assumed that they knew how to do something
 that I thought should be "obvious" to seasoned undergraduates, most of
 them looked at me in puzzlement.  "It should be easy to track down that
@@ -161,4 +161,4 @@ same.  However, I actually think it's easier to write the stuff myself.
 
 ---
 
-*Version 1.0 of 2017-01-01.*
+*Version 1.0.1 of 2017-01-05.*
