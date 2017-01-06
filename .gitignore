@@ -7,5 +7,10 @@
 *~
 *.swp
 
+# C cruft
+*.i
+*.s
+*.o
+
 # Etc.
 current.md
