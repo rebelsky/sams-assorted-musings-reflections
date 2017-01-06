@@ -17,13 +17,17 @@ Introduction, part 4: Other important issues
 
 > Additional perspectives that underlie the rest of the course/book/essays.
 
-The steps of C compilation
+[Stages of C compilation](cnix-compilation-phases) (Essay #179) 
 
-> What those steps are, and why you should know.
+> What some of those stages are, and why you should know.
 
 Additional compiler flags
 
 > C compiler flags you should know.
+
+[Using `assert`](assert) (Essay #180)
+
+> An awesomely useful macro.
 
 Formatting your C programs
 

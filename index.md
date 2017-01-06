@@ -7,7 +7,7 @@ students or other people.  Some are rants about topics I'm passionate
 about.  Some are explanations of how I approach the world.  Some are
 just my attempts to think through a topic.
 
-Latest essay: [Thinking in Unix](cnix-thinking-in-unix) (Essay #178) 
+Latest essay: [`assert`](assert) (Essay #180) 
 
 [Essays, by number](index-by-number.html)
 
