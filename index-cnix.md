@@ -25,7 +25,7 @@ Additional compiler flags
 
 > C compiler flags you should know.
 
-[Using `assert`](assert) (Essay #180)
+[Using `assert` in C](assert) (Essay #180)
 
 > An awesomely useful macro.
 
