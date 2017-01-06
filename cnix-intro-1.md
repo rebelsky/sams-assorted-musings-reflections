@@ -59,13 +59,27 @@ end, pronounced it one of the most useful courses at Grinnell [12].
 It continues to seem successful in that students keep taking it and
 students not enrolled still sit in on the course.
 
-Why this work?  Since I am more used to teaching in what our department
-calls "workshop-style" classes and which many people might think of as a
-"flipped classroom" (students read stuff in advance and do work during
-class), I thought it would be useful to turn some of my "lectures" into
-readings, which should allow a somewhat different in-class approach.
-This work, as I am referring to it, is my attempt to create the
-appropriate readings to prepare students for in-class work.
+Why am I writing all of it down?  Since I am more used to teaching in
+what our department calls "workshop-style" classes and which many people
+might think of as a "flipped classroom" (students read stuff in advance
+and do work during class), I thought it would be useful to turn some
+of my "lectures" into readings, which should allow a somewhat different
+in-class approach.  This work, as I am referring to it, is my attempt to
+create the appropriate readings to prepare students for in-class work.
+I expect that I'll still expect them to do out-of-class programming
+exercises; we'll probably end up using in-class time to discuss their
+answers to those exercises.
+
+I'm also writing this stuff down for another reason, one of the reasons
+that I think the course is successful.  My colleague, Jerod Weinman,
+tells me that all of the courses he ended up taking with one of us
+undergraduate instructors were effectively "storytime with Frank".  In
+many ways, this course is "storytime with SamR".  That is, I inject a
+lot of side notes from my experiences teaching and programming, and those
+side notes help provide additional context to why we approach things in
+the way we do.  I hope my readers find those side stories and notes as
+useful as my students do, and I hope my students continue to find them
+useful in this different form.
 
 Does the world really need another book on thinking in C
 and Unix?  Probably not.  Eric S. Raymond's [_The Art of Unix
@@ -161,4 +175,4 @@ same.  However, I actually think it's easier to write the stuff myself.
 
 ---
 
-*Version 1.0.1 of 2017-01-05.*
+*Version 1.1 of 2017-01-05.*
