@@ -548,7 +548,7 @@ Don't embarass me; don't embarass yourself: Some notes on thinking in C and Unix
 
 > What I mean by "thinking in Unix"
 
-Introduction, part 4: Other important issues
+Introduction, part 4: Thinking like SamR
 
 > Additional perspectives that underlie the rest of the course/book/essays.
 
@@ -567,6 +567,24 @@ Additional compiler flags
 Formatting your C programs
 
 > Why style counts.
+
+Modifiers
+
+> `static`, `extern`, and many more things you never knew you could
+  (or should) use.
+
+Parsing Integers
+
+> How to parse integers sensibly.
+
+Using Libraries
+
+> Good programmers know how to use libraries (and what libraries might
+  be useful).
+
+Building Libraries
+
+> Programmers also know how to build their own libraries.
 
 The joy of code
 ---------------
