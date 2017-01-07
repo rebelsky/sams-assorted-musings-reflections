@@ -7,7 +7,10 @@ students or other people.  Some are rants about topics I'm passionate
 about.  Some are explanations of how I approach the world.  Some are
 just my attempts to think through a topic.
 
-Latest essay: [Using `assert` in C](cnix-assert) (Essay #180) 
+Latest essays: 
+[A simple C project](cnix-simple-c-project) (Essay #181)
+and
+[Studying at Grinnell](studying-at-grinnell) (Essay #182)
 
 [Essays, by number](index-by-number.html)
 

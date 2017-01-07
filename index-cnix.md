@@ -29,6 +29,10 @@ Additional compiler flags
 
 > An awesomely useful macro.
 
+[A simple C project](cnix-simple-c-project) (Essay #181)
+
+> Thinking broadly.
+
 Formatting your C programs
 
 > Why style counts.

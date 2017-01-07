@@ -31,8 +31,7 @@ For prospective students, parents of prospective students, and others with simil
 > A short overview of student-faculty research, with some details about
   the topics from summer 2016.
 
-Studying at Grinnell
-- *Forthcoming*
+[Studying at Grinnell](studying-at-grinnell) (Essay #182)
 
 > A more general comparison of Grinnell to its peers, reflecting on
 overall characteristics of the institution and the student body.
