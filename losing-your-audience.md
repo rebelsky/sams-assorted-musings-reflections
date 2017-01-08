@@ -36,7 +36,7 @@ I also wonder whether my technical readers are actually reading these
 essays.  I assume (well, maybe hoped) that I'd get a few comments on 
 whether people think the same way, or whether I've missed something, or
 whether I'm going over the top, or ....  But the only comment I've
-gotten so far was about an old kitten.
+gotten so far was about an adult kitten.
 
 So, what to do, what to do?
 
@@ -156,4 +156,4 @@ were all FOSLs.
 
 ---
 
-*Version 1.0 of 2017-01-07.*
+*Version 1.0.1 of 2017-01-07.*
