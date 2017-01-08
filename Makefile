@@ -14,10 +14,7 @@
 default: html
 
 clean: 
-	rm -rf common.xsl stylesheet.xsl \
-                *.docbook *.html *.ps *.pdf \
-                *.list \
-                outline.*
+	rm -f *.html *.ps *.pdf 
 
 # +---------+---------------------------------------------------------
 # | Globals |
