@@ -33,9 +33,10 @@ Additional compiler flags
 
 > Thinking broadly.
 
-An Introduction to Make
+[An introduction to Make](cnix-make-01) (Essay #183)
 
-> Basics of a build automation tool.
+> Basics of a build automation tool that we'll use throughout the
+course.
 
 Variables in Make
 

@@ -103,6 +103,10 @@ Essays on writing, or at least on writing my essays
 > A note for my regular readers on the month on "Don't embarrass me; don't
   embarrass yourself".
 
+["Sam, you're losing your audience"](losing-your-audience) (Essay #184)
+
+> A followup to a comment from a reader.
+
 For prospective students, parents of prospective students, and others with similar interests
 --------------------------------------------------------------------------------------------
 
@@ -567,9 +571,10 @@ Additional compiler flags
 
 > Thinking broadly.
 
-An Introduction to Make
+[An introduction to Make](cnix-make-01) (Essay #183)
 
-> Basics of a build automation tool.
+> Basics of a build automation tool that we'll use throughout the
+course.
 
 Variables in Make
 

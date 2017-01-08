@@ -239,3 +239,5 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 
 [A simple C project](cnix-simple-c-project) (Essay #181)  
 [Studying at Grinnell](studying-at-grinnell) (Essay #182)  
+[An introduction to Make](cnix-make-01) (Essay #183)  
+["Sam, you're losing your audience"](losing-your-audience) (Essay #184)  

@@ -100,3 +100,7 @@ Essays on writing, or at least on writing my essays
 > A note for my regular readers on the month on "Don't embarrass me; don't
   embarrass yourself".
 
+["Sam, you're losing your audience"](losing-your-audience) (Essay #184)
+
+> A followup to a comment from a reader.
+

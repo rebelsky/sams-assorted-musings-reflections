@@ -8,9 +8,9 @@ about.  Some are explanations of how I approach the world.  Some are
 just my attempts to think through a topic.
 
 Latest essays: 
-[A simple C project](cnix-simple-c-project) (Essay #181)
+[An introduction to Make](cnix-make-01) (Essay #183)
 and
-[Studying at Grinnell](studying-at-grinnell) (Essay #182)
+["Sam, you're losing your audience"](losing-your-audience) (Essay #184)
 
 [Essays, by number](index-by-number.html)
 
