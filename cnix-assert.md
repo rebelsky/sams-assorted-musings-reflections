@@ -143,7 +143,7 @@ expectations as assertions.
 
 There are certainly other things to check.  For example, we might want
 to make sure that the total length of the result is correct.  And, 
-don't forget, we shuld check that we've allocated enough space for
+don't forget, we should check that we've allocated enough space for
 `name`.  Can you figure out how [11]?
 
 If all of these assertions pass, I'm pretty sure that the code will
@@ -237,7 +237,7 @@ been initialized to hold a string, rather than random data.  I expect that
 there's enough memory associated with `name` to hold the total string [10].
 I care that neither `fname` nor `lname` is the same memory location as
 `name`, since I think making them the same is likely to screw up my program
-elsewhere.  I'd like to make sure that the code 
+elsewhere.  
 
 [10] What's enough?  I think `2*MAX_STR + 2`.  I'll let you figure out why.
 
@@ -258,4 +258,4 @@ alternatives.  We'll see some of those when we start exploring macros.
 
 ---
 
-*Version 1.0 of 2017-01-05.*
+*Version 1.0.1 of 2017-01-08.*
