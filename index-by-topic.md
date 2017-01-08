@@ -567,6 +567,23 @@ Additional compiler flags
 
 > Thinking broadly.
 
+An Introduction to Make
+
+> Basics of a build automation tool.
+
+Variables in Make
+
+> Why and how to use variables in Make.
+
+Standard Make targets
+
+> Things you should expect to see in a typical Makefile (and to put
+  in your own Makefiles).
+
+Generalizing your Makefiles
+
+> How to write general targets.
+
 Formatting your C programs
 
 > Why style counts.
