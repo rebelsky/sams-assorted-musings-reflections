@@ -109,7 +109,7 @@ interactions, but so do our peers.  We have a "research opportunities for
 all" initiative, but most of our peers offer broad research opportunities
 [17].  We send lots of students to study abroad, but so do many of our
 peers.  We value social justice.  I hope our peers do, too.  We have
-need-blind admissions [18], but I'm not sure how distinctive that is.
+need-blind admissions [18], but I'm not sure how distinctive that is [19].
 We have [an awesome mission statement](grinnell-mission-statement), but
 I'd also expect that our peers have strong mission statements.  We have
 a lot of amazing campus traditions, including the Mary B. James ball,
@@ -129,7 +129,7 @@ You will likely find some of the things I wrote to be positive, and some
 to be negatives.  But I assume that you will find positives and negatives
 in almost every school you consider.  How should you decide?  If possible,
 visit schools and see if you will enjoy being with the people there:
-the students [19], the faculty [20], and the staff.  Consider how
+the students [20], the faculty [21], and the staff.  Consider how
 the facilities and programs will support you as you learn and grow.
 Talk to people you trust to help you think through what characteristics.
 I always find it useful to make a comparison chart, but I know that
@@ -204,13 +204,17 @@ to that percentage.
 admissions decisions, and we meet full demonstrated need for admitted
 domestic students.
 
-[19] While the characteristics of student bodies can shift over time,
+[19] One of my readers claims that we are one of only three American
+schools that does our form of need-blind admissions.  I find that
+surprising.  I wonder who the other two are.
+
+[20] While the characteristics of student bodies can shift over time,
 in general, students who choose to attend an institution are usually
 quite similar to those who already attend.
 
-[20] Faculty tend to be there for the long haul, although you will see
+[21] Faculty tend to be there for the long haul, although you will see
 some leave and some new ones arrive.
 
 ---
 
-*Version 1.0.1 of 2017-01-06.*
+*Version 1.0.2 of 2017-01-08.*
