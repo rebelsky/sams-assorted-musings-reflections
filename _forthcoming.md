@@ -3,27 +3,29 @@ Some forthcoming essays
 
 *Reminder: Look through some of the indices for other forthcoming essays.*
 
-Upcoming
-
-* 2017-01-02: Thinking like a C programmer; bonus: Posse.
-* 2017-01-03: Thinking like a Unix programmer; bonus: Studying at Grinnell.
-* 2017-01-04: C compilation steps (maybe)
-* 2017-01-05: Important *nix tools.
-* ...
-
 ---
 
-1. "relateable"
+1. Zero inbox.  A multi-part story.
+
+1. "relatable"
 
 1. The Freewrite keyboard.
+
+1. Jekyll - Better markup (?)
+
+1. Peer educators' handbook.
+
+1. The things Amazon comes up with: Summary and Analysis of How to Read Literature Like a Professor: Based on the Book by Thomas C. Foster by Worth Books
+https://www.amazon.com/gp/product/B01MQSVSZ0/ref=em_si_text
+
+1. Words for snow (or better essayists than I).
+http://www.lel.ed.ac.uk/~gpullum/EskimoHoax.pdf
 
 1. Jon Strymish.
 
 1. Questbridge.
 
 1. Grading Student Projects (See Janet's facebook post on Dec. 19).
-
-1. Peer educators' handbook.
 
 1. Heap sort.
 
@@ -32,8 +34,6 @@ Upcoming
 1. Backticks.
 
 1. Our ASAs.
-
-1. Zero inbox.
 
 1. Modeling Many Majors.  (Probably not; too scary.)
 
