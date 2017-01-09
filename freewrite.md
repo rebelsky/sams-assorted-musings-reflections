@@ -80,12 +80,11 @@ many of these essays (particularly the profiles) after the original
 "write-plus-edit" phase, and, while that subsequent editing improves my
 writing, it doesn't bring it beyond "workmanlike".
 
-Maybe, given my awesomely large readership, Freewrite will send me a
-demo model, and I'll be forced to try a different mode of writing.
-But the chances of that are pretty slim.  I'll think about trying
-a different mode of writing when I get beyond the technical essays,
-which, because they include code,  really do require more than just a
-text editor.
+Maybe, given my awesomely large readership, Freewrite will send me
+a demo model, and I'll be forced to try a different mode of writing.
+But the chances of that are pretty slim.  I'll think about trying a
+different mode of writing when I get beyond the technical essays, which,
+because they include code, really do require more than just a text editor.
 
 ---
 
