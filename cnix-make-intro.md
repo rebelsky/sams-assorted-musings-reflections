@@ -89,13 +89,13 @@ So, let's look at some of the rules for our project.  First, we will note
 that we need to rebuild `mathlib-gcd.o` if either `mathlib-gcd.c` or
 `mathlib.h` changes.
 
-    mathlib-gcd.o: mathlib-gcd.c mathlib-gcd.h
+    mathlib-gcd.o: mathlib-gcd.c mathlib.h
     	cc -g -Wall   -c -o mathlib-gcd.o mathlib-gcd.c
 
 Similarly, we need to rebuild `gcd.o` if either `gcd.c` or `mathlib.h`
 changes.
 
-    gcd.o: gcd.c gcd.h
+    gcd.o: gcd.c mathlib.h
     	cc -g -Wall   -c -o gcd.o gcd.c
 
 Finally, to build the executable, we link the files together.
@@ -116,7 +116,7 @@ Yay!  It even figured out the order in which to do the instructions.
 What about the tests?  Well, let's add two sets of rules, one for the
 `.o` file and one for the executable.
 
-    test-gcd.o: test-gcd.c test-gcd.h
+    test-gcd.o: test-gcd.c mathlib.h
     	cc -g -Wall   -c -o test-gcd.o test-gcd.c
 
     test-gcd: test-gcd.o mathlib-gcd.o
