@@ -575,7 +575,7 @@ Additional compiler flags
 
 > Thinking broadly.
 
-[An introduction to Make](cnix-make-01) (Essay #183)
+[An introduction to Make](cnix-make-intro) (Essay #183)
 
 > Basics of a build automation tool that we'll use throughout the
 course.
