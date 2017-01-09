@@ -8,9 +8,9 @@ about.  Some are explanations of how I approach the world.  Some are
 just my attempts to think through a topic.
 
 Latest essays: 
-[An introduction to Make](cnix-make-01) (Essay #183)
+[Parsing integers](cnix-parsing-integers) (Essay #185)
 and
-["Sam, you're losing your audience"](losing-your-audience) (Essay #184)
+[The Freewrite "typewriter"](freewrite) (Essay #186)
 
 [Essays, by number](index-by-number.html)
 

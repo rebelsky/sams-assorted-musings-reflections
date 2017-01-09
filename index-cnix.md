@@ -60,9 +60,10 @@ Modifiers
 > `static`, `extern`, and many more things you never knew you could
   (or should) use.
 
-Parsing Integers
+[Parsing integers](cnix-parsing-integers) (Essay #185)
 
-> How to parse integers sensibly.
+> How to parse integers sensibly, as well as a variety of other reflections
+on program design.
 
 Using Libraries
 

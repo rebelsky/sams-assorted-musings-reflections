@@ -107,6 +107,10 @@ Essays on writing, or at least on writing my essays
 
 > A followup to a comment from a reader.
 
+[The Freewrite "typewriter"](freewrite) (Essay #186)
+
+> A cool-looking writing device that does not fit my writing style.
+
 For prospective students, parents of prospective students, and others with similar interests
 --------------------------------------------------------------------------------------------
 
@@ -598,9 +602,10 @@ Modifiers
 > `static`, `extern`, and many more things you never knew you could
   (or should) use.
 
-Parsing Integers
+[Parsing integers](cnix-parsing-integers) (Essay #185)
 
-> How to parse integers sensibly.
+> How to parse integers sensibly, as well as a variety of other reflections
+on program design.
 
 Using Libraries
 
