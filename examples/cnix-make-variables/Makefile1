@@ -1,0 +1,30 @@
+# Makefile
+#   A simple Makefile for our basic C project 
+
+# +-----------+------------------------------------------------------
+# | Variables |
+# +-----------+
+
+CC = clang
+
+# +---------+--------------------------------------------------------
+# | Targets |
+# +---------+
+
+# Our application
+gcd: gcd.o mathlib-gcd.o
+	$(CC) -o gcd gcd.o mathlib-gcd.o
+
+# Our tests
+test: test-gcd
+	./test-gcd
+test-gcd: test-gcd.o mathlib-gcd.o
+	$(CC) -o test-gcd test-gcd.o mathlib-gcd.o
+
+# The components
+mathlib-gcd.o: mathlib-gcd.c mathlib.h
+	$(CC) -g -Wall   -c -o mathlib-gcd.o mathlib-gcd.c
+gcd.o: gcd.c mathlib.h
+	$(CC) -g -Wall   -c -o gcd.o gcd.c
+test-gcd.o: test-gcd.c mathlib.h
+	$(CC) -g -Wall   -c -o test-gcd.o test-gcd.c

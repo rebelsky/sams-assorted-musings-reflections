@@ -1,0 +1,24 @@
+# Makefile
+#   A simple Makefile for our basic C project 
+
+# +-----------+------------------------------------------------------
+# | Variables |
+# +-----------+
+
+CC = clang
+CFLAGS = -Wall -g
+LDLIBS = mathlib-gcd.o
+
+# +---------+--------------------------------------------------------
+# | Targets |
+# +---------+
+
+# Our tests
+test: ./test-gcd
+	$<
+
+# +-------------------------+----------------------------------------
+# | Additional Dependencies |
+# +-------------------------+
+
+*.o: mathlib.h

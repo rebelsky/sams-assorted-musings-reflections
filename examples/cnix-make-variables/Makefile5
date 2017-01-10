@@ -1,0 +1,29 @@
+# Makefile
+#   A simple Makefile for our basic C project 
+
+# +-----------+------------------------------------------------------
+# | Variables |
+# +-----------+
+
+CC = gcc
+CFLAGS = -g -Wall
+
+# +----------------+-------------------------------------------------
+# | Implicit Rules |
+# +----------------+
+
+# Generating .o files
+%.o: $.c mathlib.h
+	$(CC) $(CFLAGS) -c -o $@ $<
+
+# Generating executables
+%: %.o mathlib-gcd.o
+	$(CC) -o $@ $^
+
+# +---------+--------------------------------------------------------
+# | Targets |
+# +---------+
+
+# Our tests
+test: ./test-gcd
+	$<

@@ -1,0 +1,1 @@
+../cnix-simple-c-project/test-gcd.c
