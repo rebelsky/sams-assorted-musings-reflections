@@ -8,9 +8,10 @@ about.  Some are explanations of how I approach the world.  Some are
 just my attempts to think through a topic.
 
 Latest essays: 
-[Parsing integers](cnix-parsing-integers) (Essay #185)
+[Variables in Make](cnix-make-variables) (Essay #187),
+[Implicit rules in Make](cnix-make-implicit-rules) (Essay #188),
 and
-[The Freewrite "typewriter"](freewrite) (Essay #186)
+[Inbox zero, stage one] (Essay #189)
 
 [Essays, by number](index-by-number.html)
 

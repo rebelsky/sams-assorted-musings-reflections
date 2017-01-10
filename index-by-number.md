@@ -243,3 +243,6 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 ["Sam, you're losing your audience"](losing-your-audience) (Essay #184)  
 [Parsing integers](cnix-parsing-integers) (Essay #185)  
 [The Freewrite "typewriter"](freewrite) (Essay #186)  
+[Variables in Make](cnix-make-variables) (Essay #187)  
+[Implicit rules in Make](cnix-make-implicit-rules) (Essay #188)  
+[Inbox zero, stage one] (Essay #189)  

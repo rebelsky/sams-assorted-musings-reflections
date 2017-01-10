@@ -42,3 +42,8 @@ Almost everything else
 
 > Preliminary notes for a memo in which I reflect on my experiences teaching 
   online.
+
+[Inbox zero, stage one] (Essay #189)
+
+> Initial notes on my attempt to reach inbox zero.
+
