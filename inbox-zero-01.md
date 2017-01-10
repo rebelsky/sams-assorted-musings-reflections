@@ -1,5 +1,5 @@
-Inbox zero, take 1
-==================
+Inbox zero, stage 1
+===================
 
 Recently, a number of my colleagues have been talking about "inbox zero",
 the idea that you try to keep your inbox empty (or perhaps nearly empty)
