@@ -47,3 +47,8 @@ Almost everything else
 
 > Initial notes on my attempt to reach inbox zero.
 
+[Inbox zero, stage two](inbox-zero-02) (Essay #191)
+
+> A day in which Sam archives most of his email, and watches his
+  mail reader screw everything up.
+

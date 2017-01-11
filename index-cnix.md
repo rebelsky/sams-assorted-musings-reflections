@@ -55,6 +55,11 @@ Additional compiler flags
 
 > An awesomely useful macro.
 
+[Why signatures matter](cnix-signatures-matter) (Essay #190)
+
+> If you don't tell the compiler what you're doing, it may give
+  you different results than you expect.
+
 Formatting your C programs
 
 > Why style counts.

@@ -597,6 +597,11 @@ Additional compiler flags
 
 > An awesomely useful macro.
 
+[Why signatures matter](cnix-signatures-matter) (Essay #190)
+
+> If you don't tell the compiler what you're doing, it may give
+  you different results than you expect.
+
 Formatting your C programs
 
 > Why style counts.
@@ -1055,6 +1060,11 @@ Almost everything else
 [Inbox zero, stage one](inbox-zero-01) (Essay #189)
 
 > Initial notes on my attempt to reach inbox zero.
+
+[Inbox zero, stage two](inbox-zero-02) (Essay #191)
+
+> A day in which Sam archives most of his email, and watches his
+  mail reader screw everything up.
 
 Removed
 -------

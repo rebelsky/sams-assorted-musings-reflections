@@ -246,3 +246,8 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Variables in Make](cnix-make-variables) (Essay #187)  
 [Implicit rules in Make](cnix-make-implicit-rules) (Essay #188)  
 [Inbox zero, stage one](inbox-zero-01) (Essay #189)  
+[Why signatures matter](cnix-signatures-matter) (Essay #190)  
+
+## 191-200
+
+[Inbox zero, stage two](inbox-zero-02) (Essay #191)  

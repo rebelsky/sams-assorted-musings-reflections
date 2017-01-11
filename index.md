@@ -8,10 +8,8 @@ about.  Some are explanations of how I approach the world.  Some are
 just my attempts to think through a topic.
 
 Latest essays: 
-[Variables in Make](cnix-make-variables) (Essay #187),
-[Implicit rules in Make](cnix-make-implicit-rules) (Essay #188),
-and
-[Inbox zero, stage one](inbox-zero-01) (Essay #189)
+[Why signatures matter](cnix-signatures-matter) (Essay #190) and
+[Inbox zero, stage two](inbox-zero-02) (Essay #191)
 
 [Essays, by number](index-by-number.html)
 
