@@ -222,6 +222,9 @@ you use Makefiles [4], it's just a matter of adding that to your
 
     CFLAGS = -g -Wall ....
 
+So, pay attention to the small things, or they'll end up being big 
+problems [6].
+
 ---
 
 [1] If you don't see a difference, use `diff jamie.c jessie.c` to find it.
@@ -233,9 +236,18 @@ and assorted profanity would probably come first.
 
 [4] You should.  We'll get to them soon [5].
 
-[5] Unless we've gotten to them already.  I'm not neccessarily writing
+[5] Unless we've gotten to them already.  I'm not necessarily writing
 these pieces in the same order you are reading them.
+
+[6] This essay was inspired by a student working with the Miro C robots
+who was never getting the robot to do the right thing.  It turned out that
+the student had forgot to include the `.h` file for the Miro library,
+and the C compiler was dutifully assuming that a call to turn the robot,
+or something like that, was supposed to take an integer, rather than a
+double.  And, as in our example, that meant that the value was always
+0.  I think it took an hour to figure out that they needed to include
+the `.h` file.
 
 ---
 
-*Version 1.0 of 2017-01-06.*
+*Version 1.1 of 2017-01-10.*
