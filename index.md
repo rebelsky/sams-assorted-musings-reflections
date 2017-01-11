@@ -11,7 +11,7 @@ Latest essays:
 [Variables in Make](cnix-make-variables) (Essay #187),
 [Implicit rules in Make](cnix-make-implicit-rules) (Essay #188),
 and
-[Inbox zero, stage one] (Essay #189)
+[Inbox zero, stage one](inbox-zero-01) (Essay #189)
 
 [Essays, by number](index-by-number.html)
 
