@@ -281,4 +281,6 @@ Still, it's worth learning [implicit rules](cnix-make-implicit-rules).
 
 ---
 
+---
+
 *Version 1.0 of 2017-01-09.*
