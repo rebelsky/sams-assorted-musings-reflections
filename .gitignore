@@ -11,6 +11,8 @@
 *.i
 *.s
 *.o
+*.a
+*.so
 
 # Etc.
 current.md
