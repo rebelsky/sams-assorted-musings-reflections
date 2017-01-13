@@ -7,9 +7,8 @@ students or other people.  Some are rants about topics I'm passionate
 about.  Some are explanations of how I approach the world.  Some are
 just my attempts to think through a topic.
 
-Latest essays: 
-[Why signatures matter](cnix-signatures-matter) (Essay #190) and
-[Inbox zero, stage two](inbox-zero-02) (Essay #191)
+Latest essay: 
+[Inbox zero, stage four](inbox-zero-04) (Essay #193)
 
 [Essays, by number](index-by-number.html)
 

@@ -597,7 +597,7 @@ Additional compiler flags
 
 > An awesomely useful macro.
 
-[Why signatures matter](cnix-signatures-matter) (Essay #190)
+[Why function signatures matter](cnix-signatures-matter) (Essay #190)
 
 > If you don't tell the compiler what you're doing, it may give
   you different results than you expect.
@@ -1065,6 +1065,15 @@ Almost everything else
 
 > A day in which Sam archives most of his email, and watches his
   mail reader screw everything up.
+
+[Inbox zero, stage three](inbox-zero-03) (Essay #192)
+
+> Sam tries to recover, and manages to get most of his email archive
+  moved out of the inbox.
+
+[Inbox zero, stage four](inbox-zero-04) (Essay #193)
+
+> Sam achieves zerosity.
 
 Removed
 -------
