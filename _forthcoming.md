@@ -3,13 +3,38 @@ Some forthcoming essays
 
 *Reminder: Look through some of the indices for other forthcoming essays.*
 
+* Essay 196 (Technical): Standard Make Targets.
+* Essay 197 (Bonus Nontechnical): ??? (resetting passwords)
+* Essay 198 (Bonus nontechnical): Harry and David Concluded
+* Essay 199 (Technical): Formatting C code?  Something on Unix?
+* Essay 200 (Bonus nontechnical): Unprofessional development
+
 ---
 
-1. Zero inbox.  A multi-part story.
+1. Harry and David, the Saga Concludes.
+
+1. Inbox zero.  A multi-part story.
+
+1. Desktop zero, another multi-part story.  (Mention the nested
+old desktops?)
+
+1. Unprofessional development.
+
+1. CVs (or short CVs)  https://chroniclevitae.com/news/1662-how-to-shorten-a-cv
+
+1. Recommendations (again).  Great quote from Amy something on 
+https://chroniclevitae.com/news/1657-claiming-your-right-to-say-no
+
+1. Resetting passwords.
+
+1. Missouri Lawmaker on Tenure  www.chronicle.com/article/Missouri-Lawmaker-Who-Wants-to/238886
+
+1. Growing a Language
+
+1. Paul Graham on editing and on essays. http://www.paulgraham.com/laundry.html
+http://paulgraham.com/essay.html.  (Part of "Better writers than I")
 
 1. "relatable"
-
-1. The Freewrite keyboard.
 
 1. Jekyll - Better markup (?)
 
