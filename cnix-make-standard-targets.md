@@ -6,13 +6,19 @@ What should you make?  I suppose you could look through the Makefile for
 information, and that was what folks once did.  However, these days, most
 Makefiles have a few standard targets [1].
 
-The most important target is `default`, and should appear first in your
+The most important target is **`default`**, and should appear first in your
 Makefile.  Why?  Because if you execute `make` without any parameters,
 it looks for the first target in the file, and attempts to make that.
 For our sample project, we might make the library our default target,
 or we might make the application our default target, or we might make
 both the default targets.
 
+   default: libmathlib.a gcd
+
+Since we know that we 
+
+Read more at
+<https://www.gnu.org/prep/standards/html_node/Standard-Targets.html>.
 
 ---
 
