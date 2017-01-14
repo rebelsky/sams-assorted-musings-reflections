@@ -74,14 +74,14 @@ Modifiers
 > How to parse integers sensibly, as well as a variety of other reflections
 on program design.
 
-Using Libraries
+[Building C libraries](cnix-libraries) (Essay #194)
 
-> Good programmers know how to use libraries (and what libraries might
+> Programmers know how to build their own libraries.
+
+Using C Libraries
+
+> Good programmers also know how to use libraries (and what libraries might
   be useful).
-
-Building Libraries
-
-> Programmers also know how to build their own libraries.
 
 Make
 ----

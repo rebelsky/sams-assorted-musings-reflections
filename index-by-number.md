@@ -253,3 +253,5 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Inbox zero, stage two](inbox-zero-02) (Essay #191)  
 [Inbox zero, stage three](inbox-zero-03) (Essay #192)  
 [Inbox zero, stage four](inbox-zero-04) (Essay #193)  
+[Building C libraries](cnix-libraries) (Essay #194)  
+[Candidate's statement, Special Interest Group on Computers and Society](sigcas-statement) (Essay #195)  

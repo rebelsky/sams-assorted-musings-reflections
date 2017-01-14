@@ -108,3 +108,7 @@ Essays on writing, or at least on writing my essays
 
 > A cool-looking writing device that does not fit my writing style.
 
+[Candidate's statement, Special Interest Group on Computers and Society](sigcas-statement) (Essay #195)
+
+> An exercise in editing.
+
