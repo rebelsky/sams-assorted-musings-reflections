@@ -12,7 +12,7 @@ messages, it meant "read and respond".  For some messages, it meant "read
 and delete".  For some messages, it meant "read, delete, and unsubscribe".
 For some messages, it meant "read and file" [1].   For the ones for the
 SIGCSE mailing list [2], it meant "read, verify that it meets our criteria,
-approve, and delete".  For a few newsletter, it meant "set aside to read 
+approve, and delete".  For a few newsletters, it meant "set aside to read 
 later" [3].
 
 But some messages required complicated thought and followup.  There's one
