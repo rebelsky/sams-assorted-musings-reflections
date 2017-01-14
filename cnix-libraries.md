@@ -16,10 +16,13 @@ at first, it was just a `.o` file, which we linked in the standard way.
     $ cc -g -Wall   -c -o mathlib-gcd.o mathlib-gcd.c
     $ cc -o gcd gcd.o mathlib-gcd.o
 
-But once we end up with a lot of files for our utility functions, that's
-going to make our instructions much more complicated.  In addition,
-other folks who want to use the utilities are likely to want to be able
-to remember just one file name, rather than each of the component pieces.
+But once we end up with a lot of files for our utility functions,
+that's going to make our instructions much more complicated.
+For example, once we've written our own procedure to [parse
+integers](parsing-integers), we'll want to include that, too.
+In addition, other folks who want to use the utilities are likely to
+want to be able to remember just one file name, rather than each of the
+component pieces.
 
 Fortunately, the C ecosystem [3] permits you to combine lots of object
 code into a single file, which is typically referred to as a "library".
@@ -33,7 +36,7 @@ you create archive files with the `ar` command.  We will typically use
 the parameters `r` (for "add, **r**eplacing if necessary) and `v` (for
 "**v**erbose") [5].
 
-    $ ar -rv libmathlib.a mathlib-gcd.o
+    $ ar -rv libmathlib.a mathlib-gcd.o mathlib-str2long.o
 
 Now, how do we tell the C compiler to use the library?  The `-lNAME` flag
 says to include a library and the `-LDIR` flag tells the compiler where
@@ -73,33 +76,46 @@ but probably usefully so.
     
     # Our tests
     test: ./test-gcd
-    	$<
+    	./test-gcd
     
     # The library
-    libmathlib.a: mathlib-gcd.o
+    libmathlib.a: mathlib-gcd.o mathlib-str2long.o
     	ar -rv $(.TARGET) $(.ALLSRC)
+    
+    # Our application
+    gcd: gcd.o libmathlib.a
+    	$(CC) $(.IMPSRC) $(LDLIBS) -o $(.TARGET)
+    
+    # Our tests
+    test-gcd: test-gcd.o libmathlib.a
+    	$(CC) $(.IMPSRC) $(LDLIBS) -o $(.TARGET)
     
     # +-------------------------+----------------------------------------
     # | Additional Dependencies |
     # +-------------------------+
     
     *.o: mathlib.h
-    gcd: libmathlib.a
-    test-gcd: libmathlib.a
 
 Let's make sure that it works.
 
+    $ make gcd
+    gcc -Wall -g   -c -o gcd.o gcd.c
+    gcc -Wall -g   -c -o mathlib-gcd.o mathlib-gcd.c
+    gcc -Wall -g   -c -o mathlib-str2long.o mathlib-str2long.c
+    ar -rv libmathlib.a mathlib-gcd.o mathlib-str2long.o
+    ar: creating libmathlib.a
+    a - mathlib-gcd.o
+    a - mathlib-str2long.o
+    gcc gcd.o -L. -lmathlib -o gcd
 
 Yup.  Everything looks good.
 
 Are we done?  Twenty years ago, we would have been done [8].  But we
-should really think about how to make shared libraries.
-
-You make shared  libraries by passing the `-shared` flag to your
-C compiler [9].  You must also build the `.o` files using `-fPIC`
-(for position-independent code)
-
-    $ gcc -shared -o libmathlib.so mathlib-gcd.o
+should think about how to make shared libraries.  Nonetheless, I'm going
+to leave those as a topic for another day.  After all, in many common
+cases, you'll still use `.a` libraries, and `.so` libraries lead to
+an added set of complexity in terms of where to look for the libraries
+at runtime.  So yes, we are done.
 
 ---
 
@@ -121,9 +137,6 @@ to make BD happy.
 [8] Or maybe thirty; I've forgotten how long ago shared object files
 came into common usage.
 
-[9] Or at least to gcc; I don't use enough other compilers to know for
-sure.
-
 ---
 
-*Version 1.0 of 2017-01-11.*
+*Version 1.1 of 2017-01-13.*
