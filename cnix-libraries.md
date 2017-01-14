@@ -1,6 +1,9 @@
 Building C libraries
 ====================
 
+**Part of an ongoing series of essays tentatively entitled _Don't embarrass
+me, Don't embarrass yourself: Notes on thinking in C and Unix_.**
+
 *Why are we considering libraries in the middle of an extended discussion
 of Make?  Because real C programmers build libraries, and before we 
 get to the end of Make, you should know how to use libraries in your
@@ -139,4 +142,4 @@ came into common usage.
 
 ---
 
-*Version 1.1 of 2017-01-13.*
+*Version 1.1.1 of 2017-01-13.*
