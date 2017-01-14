@@ -122,7 +122,8 @@ main (int argc, char *argv[])
   str2long (argv[1], &result);
 
   // Grab each parameter, in turn, and incorporate it into the GCD.
-  for (int i = 1; i < argc; i++) 
+  int i;
+  for (i = 1; i < argc; i++) 
     {
       if (((err = str2long (argv[i], &newval)) != 0) || (newval <= 0))
         {
