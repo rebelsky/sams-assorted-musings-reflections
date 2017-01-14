@@ -235,6 +235,10 @@ the opportunity to think more broadly about structure and transitions
 and such.  I may try again with a longer piece, but I'm not sure I'll
 want to record what I'm doing and thinking so carefully.
 
+You know what?  If I were sensible, I would have asked Mikey, Janet,
+and some other friends to read that over.  Oh well.  Too late now.
+And, in any case, I spent way too much time on it.
+
 ---
 
 I wonder if my Tutorial students [15] are amused by this essay?
@@ -250,11 +254,20 @@ did not come into play in writing the statement [19].  They should pay
 attention to the sources they use and how those sources can support
 their argument.  They need not write "I think" or "I believe", since
 it's pretty clear that what they write is supposed to be what they
-think (unless they are told otherwise) [20].  There are probably others,
-but none come to mind at the moment.
+think (unless they are told otherwise) [20].  And, of course, that all
+of these are minor if you haven't firmed up your thinking about the
+topic and picked an appropriate overall organization for your essay [22].
+There are probably others, but none come to mind at the moment.
 
 And then there are the things I tell myself while writing, such as
-"You start way too many sentences with 'And'" [21].
+"You start way too many sentences with 'And'" [23].  What else?  
+"Think about what it would sound like if you read this aloud."
+"Don't be afraid to go back and throw things away if they don't work."
+"Do you really need another endnote [24]?"  I know there are others,
+and I won't remember them until a week after I post this essay.
+
+In any case, you now know a bit more about how I write and edit.  But
+I guess you already knew a lot about how I write and edit [25].
 
 ---
 
@@ -318,16 +331,25 @@ difficult" paragraph.  Your mileage may vary.
 
 [19] Some came into play when writing this essay.
 
-[20] I dropped a few "I think's" from this essay, but I also left most
+[20] I dropped a few "I think"s from this essay, but I also left many
 of them in because, well, I don't have to follow my own rules [21].
 
 [21] I was also going to say something like "and this is a reflective
 essay", but that would suggest that I really don't need to say "I think".
 Time to go back and do a bit more editing.
 
-[22] Including this one.
+[22] Unfortunately, my mind is such that I end up looking at many of
+the small details before I can look at the big issues.  That's clearly
+the wrong direction, since once you fix the big issues, lots of the
+parts get cut, so it's not worth identifying small problems.
+
+[23] Including this one.
+
+[24] Yes.
+
+[25] At least if you've been reading these essays regularly, you know a
+lot about how I think about writing.
 
 ---
 
-*Version 1.0 of 2017-01-12.*
-
+*Version 1.1 of 2017-01-13.*
