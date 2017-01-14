@@ -1,5 +1,5 @@
-Inbox zero, take 2
-==================
+Inbox zero, take two
+====================
 
 *Disclaimer: Although this essay reports activities in somewhat linear
 order, they weren't nearly this linear.*
