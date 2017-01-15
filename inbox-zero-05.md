@@ -55,6 +55,44 @@ email conversations with folks.
 
 ---
 
+Inbox zero, day two.  Saturday.  It looks like less mail comes in on
+weekends.  But there's still some.
+
+Okay, I know I unsubscribed to some of these advertisements.  Why do
+they keep coming?  Oh, yeah, "It may take seven days, or, in some cases,
+as many as ten days, to process your request."  I know that one of our
+alums [5] explained it to me once, but I don't remember.  Oh well.  I'll
+wait.
+
+---
+
+Inbox zero, day three.  Sunday.  It's been remarkably easy to stay at
+at inbox zero, but that's probably because I get less email over the weekend,
+and this weekend is a long weekend, so I may get even less.  
+
+The inbox cleanup is affecting other kinds of computer usage, too.
+I spent some of today reducing desktop clutter (from 200+ items to 15,
+which is about as few as I can deal with).
+
+Unfortunately, I'm having trouble doing the same level of reduction
+in the physical world.  I went to the Friends book sort, and brought
+home too many books.  I rescued Jon Dos Passos' USA Trilogy in paperback
+from our "throw out" bin.  I don't need it, but I may sneak it back into
+the bookstore.  Someone should want to read Dos Passos.  I picked up and
+paid for _Getting Things Done_ (friends have been telling me to read it),
+_Thinking Fast and Slow_ (on my long-term reading list), and _As You
+Wish --- Inconceivable Talkes from the Making of The Princess Bride_
+(just because).  I did *not* pick up an extra copy of David Feldman's
+_Imponderables_, since I own it already.  I grabbed a copy of _Snowcrash_
+for a student.  And I grabbed a book for Michelle.  So I think I have
+to find three books to get rid of.  I did put fifteen books in the
+"get rid of" pile yesterday.  I wonder if that counts?  Probably not [6].
+
+But this is supposed to be about keeping my inbox at zero, not about
+keeping my bookshelves at below capacity.  So, I'll note that the project
+is going well.  We'll see how weekdays go, as well as how the start of
+the semester goes.
+
 ---
 
 [1] Or, rather, I'm not planning on writing it in one day.
@@ -68,3 +106,28 @@ so that they could store our email.
 [4] However, I'm told that it's absolutely fine that Proofpoint looks
 at our email and even stores some of it on their servers.  That makes
 no sense to me.
+
+[5] The legendary ErynO, I believe.
+
+[6] The three books I got rid of: Volume 2 of _The Walking Dead_, which
+I'm not sure how I ended up with, and which I'll never read; _Fables
+Book 1: Legends in Exile_, which seems to be a spare copy and can go to
+the CS commons [7]; and _Sources of Early Christian Thought: The Trinitarian
+Controversy_, which I'll offer to Middle Son [8].
+
+[7] That reminds me, I also picked up a copy of _Reading Code: The Open
+Source Perspective_ for the CS library.
+
+[8] I'm not sure that passing books on to my kids counts as getting rid
+of them, but it's a start [9,10].
+
+[9] Early in my married life, my brother-in-law and I would trade boxes
+of books back and forth so that we could each tell people that we were 
+getting rid of books.  
+
+[10] I might end up passing _Thinking Fast and Slow_ on to eldest.  It
+seems like his type of book.
+
+---
+
+*Version xxx.*
