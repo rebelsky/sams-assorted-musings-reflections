@@ -3,11 +3,14 @@ Some forthcoming essays
 
 *Reminder: Look through some of the indices for other forthcoming essays.*
 
-* Essay 196 (Technical): Standard Make Targets.
-* Essay 197 (Bonus Nontechnical): ??? (resetting passwords)
-* Essay 198 (Bonus nontechnical): Harry and David Concluded
-* Essay 199 (Technical): Formatting C code?  Something on Unix?
-* Essay 200 (Bonus nontechnical): Unprofessional development
+* Sun: Essay 197 (Techincal): Bash Basics: File Permissions
+* Sun: Essay 198 (Bonus nontechnical): Harry and David Concluded
+* Mon: Essay 199: (Technical): Bash-basics: Command-line patterns
+* Mon: Essay 200 (Bonus nontechnical): Unprofessional development
+* Tue: Essay 201 (Technical): Bash-basics: I/O redirection
+
+* Essay ??? (Technical) Formatting C code?  Something on Unix?
+* Essay ??? (Technical): Standard Make Targets.
 
 ---
 
