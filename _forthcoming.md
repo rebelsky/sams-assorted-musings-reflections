@@ -3,51 +3,89 @@ Some forthcoming essays
 
 *Reminder: Look through some of the indices for other forthcoming essays.*
 
-* Mon: Essay 199 (Technical): Bash-basics: Command-line patterns
+* Mon: Essay 199 (Technical): Grep and Regular Expressions
 * Mon: Essay 200 (Bonus nontechnical): Unprofessional development
-* Tue: Essay 201 (Techincal): Bash Basics: File Permissions
-* Tue: Essay 202 (Technical): Bash-basics: I/O redirection
 
+* Essay ??? (Technical): Bash-basics: Command-line patterns
+* Essay ??? (Technical): Bash Basics: File Permissions
+* Essay ??? (Technical): Bash-basics: I/O redirection
 * Essay ??? (Technical): Standard Make Targets.
 
 ---
 
-1. Harry and David, the Saga Concludes.
+Quick (?)
+---------
+
+*For the days in which I need to "dash off" an essay in order to meet
+my goals.*
+
+1. Academic geneaology.
+
+1. GrinnellParents listserv.
+
+1. Times and Dates - format thereof.
+
+1. November 11th, in a year.
+
+1. Grinnell traditions I miss.
+
+1. Fidgets?  (Short?)
+
+1. On names (Misc) (SamR, S.A., Sam, Samuel) [Short!]
+
+1. Are these essays?  (Should I rename them?)  Easy way out.  Google
+defines them as "a short piece of writing on a particular subject".  I
+think that fits.  I just don't write enough argumentative essays.  
+(Does this one go in end-of-month?)
+
+1. "relatable"
+
+1. The things Amazon comes up with: Summary and Analysis of How to Read Literature Like a Professor: Based on the Book by Thomas C. Foster by Worth Books
+https://www.amazon.com/gp/product/B01MQSVSZ0/ref=em_si_text
+
+---
+
+General
+-------
+
+*The list of topics that I've thought about writing about, in no particular
+order, other than the ones I've come up with more recently tend to be near
+the top.*
 
 1. Inbox zero.  A multi-part story.
 
-1. Desktop zero, another multi-part story.  (Mention the nested
-old desktops?)
+1. The new slogan.
 
 1. Unprofessional development.
+
+1. (Semi-technical): Resetting passwords.
 
 1. CVs (or short CVs)  https://chroniclevitae.com/news/1662-how-to-shorten-a-cv
 
 1. Recommendations (again).  Great quote from Amy something on 
 https://chroniclevitae.com/news/1657-claiming-your-right-to-say-no
 
-1. Resetting passwords.
+1. Retiring.  http://www.chronicle.com/article/Leaving-the-Academic-Stage/238901
+
+1. Questioning numbers.  http://www.chronicle.com/article/The-Fine-Art-of-Sniffing-Out/238907
 
 1. Missouri Lawmaker on Tenure  www.chronicle.com/article/Missouri-Lawmaker-Who-Wants-to/238886
 
-1. Growing a Language
+1. Growing a Language (the Guy Steele video/essay).
+
+1. Fundraising.  How much will you pay for me to ....
+
+1. The ultimate outcome of a liberal arts education (bullshitting).
 
 1. Paul Graham on editing and on essays. http://www.paulgraham.com/laundry.html
 http://paulgraham.com/essay.html.  (Part of "Better writers than I")
-
-1. "relatable"
 
 1. Jekyll - Better markup (?)
 
 1. Peer educators' handbook.
 
-1. The things Amazon comes up with: Summary and Analysis of How to Read Literature Like a Professor: Based on the Book by Thomas C. Foster by Worth Books
-https://www.amazon.com/gp/product/B01MQSVSZ0/ref=em_si_text
-
 1. Words for snow (or better essayists than I).
 http://www.lel.ed.ac.uk/~gpullum/EskimoHoax.pdf
-
-1. Jon Strymish.
 
 1. Questbridge.
 
@@ -92,8 +130,6 @@ should you write?) (An issue for creativity.)
 
 1. Is pioneers.grinnell.edu accessible?  (Hmmm ... that's a good
 reason to read the guidelines.)
-
-1. RSS.
 
 1. vi vs. emacs
 
@@ -277,6 +313,8 @@ Dodge Dart.)
 Grinnellians
 ------------
 
+*Profiles I should write when I get back to the next month of profiles.*
+
 1. Rachel Bly '93
 
 1. Graeme Boy '15
@@ -314,6 +352,8 @@ Grinnellians
 1. Steve Gump
 
 1. Atul Gupta '??
+
+1. Cynthia Hansen
 
 1. Chris Hunter
 
@@ -404,6 +444,11 @@ Grinnellians
 Other People
 ------------
 
+*Yes, there are other people to profile.  I'm not sure most of these
+will be public, though.*
+
+1. Jon Strymish.
+
 1. Michelle.
 
 1. Kathy (for mother's day)
@@ -418,27 +463,10 @@ Other People
 
 ---
 
-Short
------
-
-1. GrinnellParents listserv.
-
-1. Times and Dates - format thereof.
-
-1. November 11th, in a year.
-
-1. Grinnell traditions I miss.
-
-1. Fidgets?  (Short?)
-
-1. On names (Misc) (SamR, S.A., Sam, Samuel) [Short!]
-
----
-
 Revisiting Topics
 -----------------
 
-1. Posse, revisited.
+*At some point, I'll come back to topics.*
 
 1. Naming week 14, revisited.
 
@@ -447,8 +475,8 @@ Revisiting Topics
 1. How Grinnell has changed in twenty years, revisited.  (Hmmm ... maybe
 I'm less upset than when I thought about revisiting this.)
 
-1. Maybe I should have used a 'blogging platform.  (Or 'the form of this
-site', revisited.)
+1. Maybe I should have used a 'blogging platform.  (Or 'the form of this 
+site', revisited.)  Adena's community comment.
 
 1. Feeling fortunate, revisited.
 
@@ -458,7 +486,7 @@ site', revisited.)
 do not.  That's not surprising.  I still think we should have weekly
 convocation.  Here's a plan for doing so.)
 
-1. Accumulation, revisited.
+1. Accumulation, revisited.  (Do I do the "Dad-iction" joke?)
 
 1. Mondegreens, revisited. (Find another name for them).
 
@@ -466,19 +494,19 @@ convocation.  Here's a plan for doing so.)
 
 1. Proofpoint, revisited.
 
-1. Birthday gift: Not having.
-
 ---
 
 Notes
 -----
 
 * *Note: Try to have about one hundred forthcoming topics at all times,
-  at least until I reach the three-hundred essays month.*
+  at least until I reach the three-hundred essays month.*  (See below.)
 * *Note: When I have writer's block, I should pick ten of the topics
   above and write an essay about what I plan to write for those ten.
   There should be an almost never-ending supply of that kind of essay.
   Title: "Things I plan to write about (Part of a continuing series.)"*
+    * The first time I did this, I think I only wrote three of the ten
+      essays within the next two weeks.
 * *Note: At some point, I might consider top-ten lists.  Maybe a month
   of them.*
 * *Thinking ahead: Alternate months of assorted topics and focused
