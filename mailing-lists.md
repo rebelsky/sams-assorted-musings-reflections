@@ -5,7 +5,9 @@ While I was working on the mailbox zero project, one of my friends said
 something to me like "Sam, I think you're on too many mailing lists.
 You should unsubscribe."  But I garner valuable information from the
 mailing lists.  I'm also a "push" person rather than a "pull" person.
-So let's consider what I subscribe to.
+So let's consider what I subscribe to.  (I'm not going to include things
+like Pact Publishing, Oxford University Press, or even StackSocial, which
+are companies of dealt with.  I don't think of myself as having "subscribed".)
 
 Most of the mailing lists are professional.
 
@@ -25,11 +27,17 @@ Most of the mailing lists are professional.
 * Risks.  A few times a week.  Skim and save.
 * _Chronicle_.  Daily.  Skim and delete.
 
-A few are fun
+A few are for fun or expanding my knowledge
 
 * Keith Knight.
 * Audities.  Rare.
 * Straight Dope.  Weekly.  Amusing.
 * Salon.com.  Daily.  I need to get some liberal extremism from somewhere.
+* Portside moderator.  Daily.  Even more extremism.  I tend to skim these.
+
+And then there are two related to Grinnell
+
+* Grinnell Parents
+* Grinnell Family
 
 Wow, that is a lot!
