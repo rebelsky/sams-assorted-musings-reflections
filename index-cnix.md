@@ -20,6 +20,15 @@ Introduction, part 4: Thinking like SamR
 
 > Additional perspectives that underlie the rest of the course/book/essays.
 
+Bash Basics
+-----------
+
+[Bash basics: files and directories](cnix-bash-basics-files) (Essay #196)
+
+> A short introduction to what you should know about the shell, including
+  a bit of information on files and directories.  I hope that this is
+  mostly review.
+
 Miscellaneous Unix Topics
 -------------------------
 
@@ -60,9 +69,9 @@ Additional compiler flags
 > If you don't tell the compiler what you're doing, it may give
   you different results than you expect.
 
-Formatting your C programs
+[Formatting C Code](cnix-formatting-c) (Essay #197)
 
-> Why style counts.
+> Why style counts and how to achieve it.
 
 Modifiers
 

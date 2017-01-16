@@ -255,3 +255,6 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Inbox zero, stage four](inbox-zero-04) (Essay #193)  
 [Building C libraries](cnix-libraries) (Essay #194)  
 [Candidate's statement, Special Interest Group on Computers and Society](sigcas-statement) (Essay #195)  
+[Bash basics: files and directories](cnix-bash-basics-files) (Essay #196)  
+[Formatting C Code](cnix-formatting-c) (Essay #197)  
+[Harry & David: The Saga Concludes](harry-and-david-4) (Essay #198)  

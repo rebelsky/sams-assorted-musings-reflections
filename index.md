@@ -8,9 +8,9 @@ about.  Some are explanations of how I approach the world.  Some are
 just my attempts to think through a topic.
 
 Latest essays:
-[Building C libraries](cnix-libraries) (Essay #194)
+[Formatting C Code](cnix-formatting-c) (Essay #197)
 and
-[Candidate's statement, Special Interest Group on Computers and Society](sigcas-statement) (Essay #195)
+[Harry & David: The Saga Concludes](harry-and-david-4) (Essay #198)
 
 [Essays, by number](index-by-number.html)
 
