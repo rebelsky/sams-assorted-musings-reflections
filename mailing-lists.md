@@ -3,11 +3,11 @@
 
 While I was working on the mailbox zero project, one of my friends said
 something to me like "Sam, I think you're on too many mailing lists.
-You should unsubscribe."  But I garner valuable information from the
-mailing lists.  I'm also a "push" person rather than a "pull" person.
-So let's consider what I subscribe to.  (I'm not going to include things
-like Pact Publishing, Oxford University Press, or even StackSocial, which
-are companies of dealt with.  I don't think of myself as having "subscribed".)
+You should unsubscribe."  Of course, they said this while they had a
+Twitter reader up on their screen, with lots of feeds.  Why do I
+subscribe to so many mailing lists?  Mostly because I garner valuable
+information from the mailing lists.  I'm also a "push" person rather
+than a "pull" person [1].  So let's consider what I subscribe to [2].
 
 Most of the mailing lists are professional.
 
@@ -26,7 +26,8 @@ Most of the mailing lists are professional.
 * ACM TechNews  A few times a week.  Skim and delete.
 * Risks.  A few times a week.  Skim and save.
 * _Chronicle_.  Daily.  Skim and delete.
-
+* Proofpoint End User Digest.  Daily.  Proofpoint likes to tell me what
+  it considers borderline spam.  About 25% is mail that I want to receive.
 A few are for fun or expanding my knowledge
 
 * Keith Knight.
@@ -34,6 +35,7 @@ A few are for fun or expanding my knowledge
 * Straight Dope.  Weekly.  Amusing.
 * Salon.com.  Daily.  I need to get some liberal extremism from somewhere.
 * Portside moderator.  Daily.  Even more extremism.  I tend to skim these.
+* Etsy.  Every week or two.
 
 And then there are two related to Grinnell
 
@@ -41,3 +43,19 @@ And then there are two related to Grinnell
 * Grinnell Family
 
 Wow, that is a lot!
+
+---
+
+[1] That means that I prefer to have things sent to me, rather than to seek
+them out.  I'm rarely on Facebook or Twitter.
+
+[2] I'm not going to include things like Pact Publishing, Oxford
+University Press, Lands End, or even StackSocial, which are companies from
+whom I have purchased something and who therefore feel obligated to send
+me regular email, since I don't think of myself as having "subscribed"
+to their mailings.  I'm also not going to include the various musicians
+who send me email because I've bought their music online.
+
+---
+
+*Version N of 2017-01-xx.*
