@@ -61,8 +61,8 @@ weekends.  But there's still some.
 Okay, I know I unsubscribed to some of these advertisements.  Why do
 they keep coming?  Oh, yeah, "It may take seven days, or, in some cases,
 as many as ten days, to process your request."  I know that one of our
-alums [5] explained it to me once, but I don't remember.  Oh well.  I'll
-wait.
+alums [5] explained that delay to me once, but I don't remember.  Oh well.
+I'll wait.
 
 ---
 
@@ -92,6 +92,83 @@ But this is supposed to be about keeping my inbox at zero, not about
 keeping my bookshelves at below capacity.  So, I'll note that the project
 is going well.  We'll see how weekdays go, as well as how the start of
 the semester goes.
+
+---
+
+Inbox zero, day 5.  Monday (MLK day).  I slept in until 9:30, since it
+may be the last day that I can sleep in for awhile.  That meant that I
+had accumulated 74 messages overnight.  Let's see how long it takes to
+process all of them.  I spend some time on a Facebook discussion of the
+new Web site, relating to a post I made about our inelegant new slogan,
+"Already you might be a Grinnellian".  (I have my own new variant:
+"Already, Grinnellian you may be".)  I ended up checking out one stop
+on the virtual tour and discovered that they don't know how to spell
+the name of Saints Rest [11] and that the narrator can't pronounce the
+word "Canary" [12].  But that's a rabbit hole.  Back to the email.
+
+One thing I've realised: I've stayed on a lot of promotional mailing lists
+(e.g., from StackSocial or Staples) because I figure it doesn't take a
+lot of time to delete them, and I occasionally need them for a coupon or
+a sale or something.  But there are enough that it's worth unsubscribing.
+
+In the end, processing my email took about thirty-five minutes, and left
+me with four messages that will take a bit more time (daily digest from
+_Chronicle of Higher Education_, weekly digest from the same source, sale 
+at Oxford University Press that may be relevant to books my kids need for
+classes, and a request to bid on papers to review [14].  I seventy-some-odd
+messages in thirty-five minutes good?  I think so; that's about thirty
+seconds per message on average, and some did require some work.
+
+On to bidding, reading, and then some writing.  For bidding, there are
+175 papers for me to consider.  Whee!  But this is supposed to be a quick
+skim (or at least I think it is), using titles and, if desired, abstracts
+[16].  As someone who is red/green color deficient, I wish they wouldn't
+use those colors to indicate how we've bid.  It doesn't help that they
+use two shades of green and two shades of red.  I think with just one
+shade of each, I could easily tell the difference.  Anyway, after about
+an hour of skimming, I had bid on each paper.  I bid 36 as ones I would
+prefer to reveiw. I think that's a generous number .  I bid 88 as ones I
+would be willing to review. I think that's an even more generous number).
+I guess I've been reviewing for long enough that I just assume that I can
+deal with most of the papers.  That feeling also probably made the bidding
+a faster process; I didn't feel like I had to get everything "just write"
+or that I had to game the system.  I do hope my large number of "yes"
+entries makes things easier for the Program Chairs.
+
+Where was I?  Oh yeah.  Time to skim _Chronicle_.  [Time passes.]  There's
+an interesting [article on whether faculty should retire to allow the next
+generation of scholars to get positions](http://www.chronicle.com/article/Leaving-the-Academic-Stage/238901).  I may want to write a reflection on that
+article, since it's different in CS [17].
+
+Okay, no email while I do some more complex work.
+
+Back to email.  I seem to have an alert from Windward jobs for "Associate
+Professor of Computer Science" jobs near 50112.  I have no idea how
+I ended up on the Windward jobs mailing list.  Amusingly, they have
+"Be Your Own Boss - Caviar Delivery Driver - Up to 25/hr; New | Caviar
+- Brooklyn, IA".  I took a look (not because I want the salary, but
+because I'm interested in whether this is someone who delivers caviar
+from Brooklyn and why people would make caviar in Brooklyn).  However, it
+appears that they are just confused.  Caviar is a food delivery service,
+and has service in Brooklyn, NY, not Brooklyn, Iowa [18].
+
+Including that detour, I think email took about
+five-to-ten minutes, plus another five-to-ten minutes
+reading a new _Chronicle_ article on [How to Repsonsibly Close a
+College](http://www.chronicle.com/article/How-to-Responsibly-Close-a/238884),
+which I'd swear was called "How to Responsibly *Choose* a College.
+In terms of mailbox management, it's a good day.  All that's left in my
+inbox is the OUP sale, and I'll probably wait to deal with that until
+the kids are around to discuss their textbooks.
+
+Back to work.
+
+---
+
+It looks like this essay is now long enough that I should release it,
+even though it's earlier than I expected.  But I'm pleased to report that,
+at least for the first few days, maintaining inbox zero was a reasonably
+managable task.
 
 ---
 
@@ -127,6 +204,41 @@ getting rid of books.
 
 [10] I might end up passing _Thinking Fast and Slow_ on to eldest.  It
 seems like his type of book.
+
+[11] They inserted an apostrophe.
+
+[12] It sounds more like "cannery" to me.  But buying some canned 
+prairie does sound interesting.  It might go well with the new
+Trump Tater Chips.
+
+[14] No, we don't promise to pay in order to review papers.  Rather, we
+indicate which papers we would prefer to review and which papers we would
+prefer not to review.  Here's the full set of instructions, from Simon [15],
+the primary contact for reviewing.
+
+> Under the Bidding menu you will find a list of the submission titles, and you can choose whether to show or hide the corresponding abstracts. You will choose, for each paper, whether you would like to review it, you are willing to review it, or you have a conflict of interest and can't review it. The default, no interest, requires no action. Please give every paper your careful consideration: we hope that most reviewers will be willing to review most of the papers.
+
+> You should declare a conflict of interest when it is your own paper or you know who wrote the paper.
+
+> All bids must be in by the end of Friday 20 January (UTC-12). If you have not bid by then, I shall assume that you are not receiving emails from EasyChair, and shall regretfully remove your name from the list of reviewers.
+
+> If your bid shows interest in only a handful of papers, please expect it to be augmented with bids for the least popular papers, in the interest of fairness to the reviewers who have made more substantial bids.
+
+> As you have already been informed, papers will be assigned to reviews at the start of Monday 23 January. You will then have three weeks to complete your reviews, and during the following two weeks you are expected to be available to take part in discussion and possible revision of your reviews. If you will be unavailable for either of these periods, please let me know now.
+
+[15] I love that there's an important computer scientist who has only one
+name, and therefore breaks many systems.
+
+[16] We have the option of showing abstracts during the bidding process.  I do.
+
+[17] Since CS is so different, I probably should not comment on the general
+issues raised in the article.  But I think I might enjoy reflecting on the
+issues.
+
+[18] I tried signing up for Caviar [19].  They said "Sorry, we currently aren't
+serving that area."
+
+[19] As a customer, not as a driver.
 
 ---
 
