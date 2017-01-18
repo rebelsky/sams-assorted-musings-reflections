@@ -7,13 +7,13 @@ This essay serves as a bit of a followup.  I'm not writing it in one
 day [1]; rather, I'm hoping to log short vignettes about my attempts to
 stay at inbox zero [2].  We'll see how it goes.
 
-When I got up at 7 a.m. after acheiving inbox zero, I had 46 messages
+When I got up at 7 a.m. after achieving inbox zero, I had 46 messages
 in my inbox.  Most are low priority and worth skimming.  A few notes
 from racket-users that I can immediately delete.  A few SIGCSE-members
-ppostings (including one that my co-moderator seems to have approved at 5:00
+postings (including one that my co-moderator seems to have approved at 5:00
 a.m.) that I can deal with quickly.  Still too many advertisements,
 but most are either from places whose ads I like to skim (e.g., book
-publishers).  One Facebook comment on my latest essay.  And soem other
+publishers).  One Facebook comment on my latest essay.  And some other
 stuff.  But no time to go through the mail now; the household is getting 
 ready for school and work.
 
@@ -81,7 +81,7 @@ from our "throw out" bin.  I don't need it, but I may sneak it back into
 the bookstore.  Someone should want to read Dos Passos.  I picked up and
 paid for _Getting Things Done_ (friends have been telling me to read it),
 _Thinking Fast and Slow_ (on my long-term reading list), and _As You
-Wish --- Inconceivable Talkes from the Making of The Princess Bride_
+Wish --- Inconceivable Tales from the Making of The Princess Bride_
 (just because).  I did *not* pick up an extra copy of David Feldman's
 _Imponderables_, since I own it already.  I grabbed a copy of _Snowcrash_
 for a student.  And I grabbed a book for Michelle.  So I think I have
@@ -95,7 +95,7 @@ the semester goes.
 
 ---
 
-Inbox zero, day 5.  Monday (MLK day).  I slept in until 9:30, since it
+Inbox zero, day four.  Monday (MLK day).  I slept in until 9:30, since it
 may be the last day that I can sleep in for awhile.  That meant that I
 had accumulated 74 messages overnight.  Let's see how long it takes to
 process all of them.  I spend some time on a Facebook discussion of the
@@ -106,7 +106,7 @@ on the virtual tour and discovered that they don't know how to spell
 the name of Saints Rest [11] and that the narrator can't pronounce the
 word "Canary" [12].  But that's a rabbit hole.  Back to the email.
 
-One thing I've realised: I've stayed on a lot of promotional mailing lists
+One thing I've realized: I've stayed on a lot of promotional mailing lists
 (e.g., from StackSocial or Staples) because I figure it doesn't take a
 lot of time to delete them, and I occasionally need them for a coupon or
 a sale or something.  But there are enough that it's worth unsubscribing.
@@ -125,20 +125,21 @@ skim (or at least I think it is), using titles and, if desired, abstracts
 [16].  As someone who is red/green color deficient, I wish they wouldn't
 use those colors to indicate how we've bid.  It doesn't help that they
 use two shades of green and two shades of red.  I think with just one
-shade of each, I could easily tell the difference.  Anyway, after about
-an hour of skimming, I had bid on each paper.  I bid 36 as ones I would
-prefer to reveiw. I think that's a generous number .  I bid 88 as ones I
-would be willing to review. I think that's an even more generous number).
-I guess I've been reviewing for long enough that I just assume that I can
-deal with most of the papers.  That feeling also probably made the bidding
-a faster process; I didn't feel like I had to get everything "just write"
-or that I had to game the system.  I do hope my large number of "yes"
-entries makes things easier for the Program Chairs.
+shade of each, I could more easily tell the difference [17].  Anyway,
+after about an hour of skimming, I had bid on each paper.  I bid 36
+as ones I would prefer to review. I think that's a generous number .
+I bid 88 as ones I would be willing to review. I think that's an even
+more generous number).  I guess I've been reviewing for long enough that
+I just assume that I can deal with most of the papers.  That feeling
+also probably made the bidding a faster process; I didn't feel like I
+had to get everything "just write" or that I had to game the system.
+I do hope my large number of "yes" entries makes things easier for the
+Program Chairs.
 
 Where was I?  Oh yeah.  Time to skim _Chronicle_.  [Time passes.]  There's
 an interesting [article on whether faculty should retire to allow the next
 generation of scholars to get positions](http://www.chronicle.com/article/Leaving-the-Academic-Stage/238901).  I may want to write a reflection on that
-article, since it's different in CS [17].
+article, since it's different in CS [18].
 
 Okay, no email while I do some more complex work.
 
@@ -150,25 +151,32 @@ I ended up on the Windward jobs mailing list.  Amusingly, they have
 because I'm interested in whether this is someone who delivers caviar
 from Brooklyn and why people would make caviar in Brooklyn).  However, it
 appears that they are just confused.  Caviar is a food delivery service,
-and has service in Brooklyn, NY, not Brooklyn, Iowa [18].
+and has service in Brooklyn, NY, not Brooklyn, Iowa [19].
 
 Including that detour, I think email took about
 five-to-ten minutes, plus another five-to-ten minutes
-reading a new _Chronicle_ article on [How to Repsonsibly Close a
-College](http://www.chronicle.com/article/How-to-Responsibly-Close-a/238884),
-which I'd swear was called "How to Responsibly *Choose* a College.
-In terms of mailbox management, it's a good day.  All that's left in my
-inbox is the OUP sale, and I'll probably wait to deal with that until
-the kids are around to discuss their textbooks.
+reading a new _Chronicle_ article on [How to Responsibly Close a
+College](http://www.chronicle.com/article/How-to-Responsibly-Close-a/238884)
+[21].  In terms of mailbox management, it's a good day.  All that's left
+in my inbox is the OUP sale, and I'll probably wait to deal with that
+until the kids are around to discuss their textbooks [22].
 
 Back to work.
 
 ---
 
+Inbox zero, day five.  Tuesday.  I'm starting to get more "real" email,
+such as messages from colleagues and students.  But, so far, most are
+relatively short and don't require a long time to answer.  And the
+number is manageable.  I ended the day with one message in my inbox,
+something I need to read and follow up on tomorrow.  That's not too bad.
+
+---
+
 It looks like this essay is now long enough that I should release it,
 even though it's earlier than I expected.  But I'm pleased to report that,
-at least for the first few days, maintaining inbox zero was a reasonably
-managable task.
+at least for the first few days, maintaining inbox zero (or at least
+"inbox few") was a reasonably manageable task.
 
 ---
 
@@ -231,15 +239,24 @@ name, and therefore breaks many systems.
 
 [16] We have the option of showing abstracts during the bidding process.  I do.
 
-[17] Since CS is so different, I probably should not comment on the general
+[17] I sent a letter to Simon.  Simon sent a letter to the developers
+of EasyChair asking them to deal with the colour issue.  They promised
+to look into it.
+
+[18] Since CS is so different, I probably should not comment on the general
 issues raised in the article.  But I think I might enjoy reflecting on the
 issues.
 
-[18] I tried signing up for Caviar [19].  They said "Sorry, we currently aren't
+[19] I tried signing up for Caviar [20].  They said "Sorry, we currently aren't
 serving that area."
 
-[19] As a customer, not as a driver.
+[20] As a customer, not as a driver.
+
+[21] An article which I'd swear was called "How to Responsibly *Choose* a College.
+
+[22] The only OUP textbooks were the OUP Latin Course, and Middle Son owns
+that already.
 
 ---
 
-*Version xxx.*
+*Version 1.0 of 2017-01-17.*
