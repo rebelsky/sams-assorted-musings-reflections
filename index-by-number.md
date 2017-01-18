@@ -258,3 +258,9 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Bash basics: files and directories](cnix-bash-basics-files) (Essay #196)  
 [Formatting C Code](cnix-formatting-c) (Essay #197)  
 [Harry & David: The Saga Concludes](harry-and-david-4) (Essay #198)  
+[`grep` and regular expressions](cnix-grep-regexp) (Essay #199)  
+[(Un)professional development](unprofessional-development) (Essay #200)  
+
+## 201-210
+
+[Inbox zero, stage five](inbox-zero-05) (Essay #201)  

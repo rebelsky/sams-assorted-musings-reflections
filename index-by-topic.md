@@ -115,6 +115,10 @@ Essays on writing, or at least on writing my essays
 
 > An exercise in editing.
 
+[(Un)professional development](unprofessional-development) (Essay #200)
+
+> On the potential purposes of these essays.
+
 For prospective students, parents of prospective students, and others with similar interests
 --------------------------------------------------------------------------------------------
 
@@ -582,9 +586,9 @@ Bash Basics
 Miscellaneous Unix Topics
 -------------------------
 
-Regular expressions
+[`grep` and regular expressions](cnix-grep-regexp) (Essay #199)
 
-> Ways of representing patterns in text.
+> Ways of representing patterns in text and a tool for using it.
 
 Combining programs
 
@@ -1091,6 +1095,10 @@ Almost everything else
 [Inbox zero, stage four](inbox-zero-04) (Essay #193)
 
 > Sam achieves zerosity.
+
+[Inbox zero, stage five](inbox-zero-05) (Essay #201)
+
+> Sam maintains zerosity (or fewosity).
 
 Removed
 -------

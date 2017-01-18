@@ -32,9 +32,9 @@ Bash Basics
 Miscellaneous Unix Topics
 -------------------------
 
-Regular expressions
+[`grep` and regular expressions](cnix-grep-regexp) (Essay #199)
 
-> Ways of representing patterns in text.
+> Ways of representing patterns in text and a tool for using it.
 
 Combining programs
 

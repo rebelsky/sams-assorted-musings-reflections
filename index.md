@@ -7,10 +7,8 @@ students or other people.  Some are rants about topics I'm passionate
 about.  Some are explanations of how I approach the world.  Some are
 just my attempts to think through a topic.
 
-Latest essays:
-[Formatting C Code](cnix-formatting-c) (Essay #197)
-and
-[Harry & David: The Saga Concludes](harry-and-david-4) (Essay #198)
+Latest essay:
+[Inbox zero, stage five](inbox-zero-05) (Essay #201)
 
 [Essays, by number](index-by-number.html)
 

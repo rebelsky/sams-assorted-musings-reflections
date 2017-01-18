@@ -61,3 +61,7 @@ Almost everything else
 
 > Sam achieves zerosity.
 
+[Inbox zero, stage five](inbox-zero-05) (Essay #201)
+
+> Sam maintains zerosity (or fewosity).
+

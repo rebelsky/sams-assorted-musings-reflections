@@ -112,3 +112,7 @@ Essays on writing, or at least on writing my essays
 
 > An exercise in editing.
 
+[(Un)professional development](unprofessional-development) (Essay #200)
+
+> On the potential purposes of these essays.
+
