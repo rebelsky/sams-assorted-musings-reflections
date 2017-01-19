@@ -100,18 +100,18 @@ work than they would if I were grading.  Students are encouraged to do
 all of their work, which helps their learning.  It also benefits the
 graders, and not just financially.  I regularly hear from our graders
 about what they learn while grading, whether it be approaches to avoid,
-new strategies for solving problems, or, most importantly, how to
-appropriately help someone else when all you have is the text you write.
+new strategies for solving problems, or, most importantly, how to write
+comments that help someone learn [15].
 
-Does that interfere with the close student-faculty relationships that are
-a hallmark of small liberal arts colleges?  I wasn't sure, so I asked
-my sons.  They said (approximately): "It's not worth faculty time to
-have them do what is generally straightforward grading."  They're right.
-Given a choice between checking off whether or not students have
-reasonable answers to forty problems, or spending that same time answer
-more difficult questions for a few students, I'd rather do the latter,
-and I think that individual assistance is more what we expect from a
-place like Grinnell.
+Does that grading interfere with the close student-faculty relationships
+that are a hallmark of small liberal arts colleges?  I wasn't sure, so
+I asked my sons.  They said (approximately): "It's not worth faculty
+time to have them do what is generally straightforward grading."
+They're right.  Given a choice between checking off whether or not
+students have reasonable answers to forty problems, or spending that
+same time answer more difficult questions for a few students, I'd rather
+do the latter, and I think that individual assistance is more what we
+expect from a place like Grinnell.
 
 If I had infinite time and energy, would I do all of my own grading?
 Probably.  There are subtle things I can catch early as a faculty member
@@ -185,6 +185,9 @@ component.
 
 [14] It still sometimes happens even when I have student graders.
 
+[15] At some point, I should probably write a full essay on the benefits
+of serving as a grader.  But that really is an essay for another day.
+
 ---
 
-*Version 1.0 of 2017-11-18.*
+*Version 1.0.1 of 2017-11-18.*
