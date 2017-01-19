@@ -1,7 +1,7 @@
 Thoughts on student graders
 ===========================
 
-*Warning!  Lots of whining ahead!*
+*Warning!  Whining within!*
 
 This morning, the Grinnell faculty received an email message from Dean
 Latham entitled "Student Graders And Blackboard".  Here's the message.
@@ -58,10 +58,11 @@ about it.
 It feels like I should use myself as an example, since I
 know my habits and pressures better than most.  My [weekday work
 schedule](http://www.cs.grinnell.edu/~rebelsky/Schedule/schedule.2017S.html)
-already consumes 40-42 hours per week, and that does not include class
-prep for two of my courses, handling the many student emails I get,
-grading, or enough time for the paperwork that the College asks me to do.
-I just don't have the time to grade everything and to stay sane [8].
+already consumes 35 to 42 hours per week, and that does not include class
+prep for two or three of my courses, writing assignments, handling the
+many student emails I get, grading, scholarship, or enough time for the
+paperwork that the College asks me to do.  I just don't have the time
+to grade everything and to stay sane [8].
 
 Where do I use graders?  Primarily in 100-level courses, such as CSC 151.
 In that course, students have a daily lab writeup, a weekly quiz, a weekly
@@ -190,4 +191,4 @@ of serving as a grader.  But that really is an essay for another day.
 
 ---
 
-*Version 1.0.1 of 2017-11-18.*
+*Version 1.0.2 of 2017-11-19.*
