@@ -36,6 +36,13 @@ A few are for fun or expanding my knowledge
 * Salon.com.  Daily.  I need to get some liberal extremism from somewhere.
 * Portside moderator.  Daily.  Even more extremism.  I tend to skim these.
 * Etsy.  Every week or two.
+* AMA Newsletter (and no, that's not the American Medical Association;
+  it's something like Arts Media Agency).  Even though I'm not a high-end
+  art collector, I like seeing what kinds of things they think such
+  collectors are interested in.  A recent issue had a "DATA: Robert
+  Rauschenberg" section that tracks things like number of exhibitions
+  by type and the number of articles written about him, as well as
+  data about distribution of recent sales.
 
 And then there are two related to Grinnell
 
