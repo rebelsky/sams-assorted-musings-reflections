@@ -8,7 +8,7 @@ about.  Some are explanations of how I approach the world.  Some are
 just my attempts to think through a topic.
 
 Latest essay:
-[Inbox zero, stage five](inbox-zero-05) (Essay #201)
+[Giving in to Bootstrap](giving-in-to-bootstrap) (Essay #203)
 
 [Essays, by number](index-by-number.html)
 

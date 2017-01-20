@@ -1100,6 +1100,14 @@ Almost everything else
 
 > Sam maintains zerosity (or fewosity).
 
+[Thoughts on student graders](student-graders) (Essay #202)
+
+> Why we use them, or at least why *I* use them.
+
+[Giving in to Bootstrap](giving-in-to-bootstrap) (Essay #203)
+
+> Adopting a technology I hate.
+
 Removed
 -------
 
