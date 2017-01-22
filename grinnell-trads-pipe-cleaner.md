@@ -4,18 +4,18 @@ Grinnell traditions I miss: National pipe cleaner day
 Every institution of higher education has traditions [1].  To students,
 it may seem like the traditions always existed.  However, traditions
 come and go [2,4].  Sometimes that's good.  For example, there are
-cross-country traditions at Grinnell that clearly needed to disappear
-[5].  But sometimes traditions that I really love seem to disappear for
+cross-country traditions at Grinnell that clearly needed to disappear [5].
+But sometimes traditions that I really love seem to disappear for
 no clear reason.  Let's consider one of them.
 
 Back when I was a young faculty member [6], one day each year [7] was
 designated "National Pipe Cleaner Day".  No, it's not a real holiday.
-It's just a day in which SGA [8] would buy a lot of colored pipe cleaners
-[9] and place them in public areas around campus: The mail room [10],
-the Forum Grill [12,17], Cowles and Quad [18], and others I forget.
-Students would then use the pipe cleaners to make interesting crafts
-[19].  In addition to pipe-cleaner creatures and flowers, you'd see a
-variety of headgear and other accessories [20].
+It's just a day in which SGA [8] would buy what seemed like tens of thousands
+of pipe cleaners [9] in various colors and place them in public areas
+around campus: The mail room [10], the Forum Grill [12,17], Cowles and
+Quad [18], and others I forget.  Students would then use the pipe cleaners
+to make interesting crafts [19].  In addition to pipe-cleaner creatures
+and flowers, you'd see a variety of headgear and other accessories [20].
 
 I really loved National Pipe Cleaner day.  It was a day in which the
 campus was clearly filled with joy and creativity.  Yes, Grinnell always
