@@ -19,6 +19,14 @@ Quick (?)
 *For the days in which I need to "dash off" an essay in order to meet
 my goals.*
 
+1. (Semi-technical): Resetting passwords.
+
+1. The white elephant in the room (?) (mixed metaphors).  "Sam,
+why aren't you writing about the obvious issues?"  "Any time I
+read the newspaper, I feel depressed and hopeless.  I have no
+desire to write more and feel more so.  I am, however, encouraged
+by the activism of our students."
+
 1. Academic geneaology.
 
 1. GrinnellParents listserv.
@@ -60,9 +68,7 @@ the top.*
 
 1. Inbox zero.  A multi-part story.
 
-1. The new slogan.
-
-1. (Semi-technical): Resetting passwords.
+1. The new slogan(s).
 
 1. CVs (or short CVs)  https://chroniclevitae.com/news/1662-how-to-shorten-a-cv
 
