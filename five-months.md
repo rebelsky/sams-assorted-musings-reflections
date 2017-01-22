@@ -78,7 +78,7 @@ Still, it's nice to have an audience.  I will admit that I find it strange
 that I have a wide variety of published writers [8] as regular readers,
 and two more [9] as occasional readers.  For most of them, it makes sense;
 they are friends from Grinnell.  But I'm still not sure why David Feldman
-'70 reads everything I write [10]  I suppose he's waiting for a revision
+'71 reads everything I write [10]  I suppose he's waiting for a revision
 of the Posse essay [11].
 
 I did say it was "an interesting conversation", didn't I?  Conversations
@@ -134,7 +134,7 @@ those are different criteria of beauty.  As it is, I'm satisfied
 with my workmanlike prose.  That's probably what I mean when I say
 "I don't have the mindset for beautiful prose".
 
-[8] David Feldman '70 and [Harley McIlrath](j-harley-miclrath) are the
+[8] David Feldman '71 and [Harley McIlrath](j-harley-miclrath) are the
 first two that come to mind, but also [Erik Simpson](erik-simpson) and
 Carolyn Jacobson.
 
@@ -146,4 +146,4 @@ Carolyn Jacobson.
 
 ---
 
-*Version 1.0 of 2016-12-31.*
+*Version 1.0.1 of 2017-01-22.*

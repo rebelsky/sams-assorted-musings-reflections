@@ -105,7 +105,7 @@ We have big shoes to fill, as it were.  I hope we do so quickly.
 ---
 
 *One of the benefits of the original essay was that it brought me David
-Feldman '70 as a reader.  As you may know, David is the author of
+Feldman '71 as a reader.  As you may know, David is the author of
 the Imponderables series of books [8].  David also works with the Posse
 foundation.  David has said that he found that my essay was one of the
 few times that he'd seen someone outside of Posse so clearly articulate
@@ -141,4 +141,4 @@ different groups of students and prepare them in different ways.
 middle son's love of strange trivia.
 
 ---
-*Version 1.0 of 2017-01-02.*
+*Version 1.0.1 of 2017-01-22.*
