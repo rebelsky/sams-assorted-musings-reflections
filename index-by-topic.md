@@ -890,6 +890,10 @@ categories.*
 
 > A day of joy and creativity
 
+[Grinnell traditions I miss (but shouldn't): Bakery run](grinnell-trads-bakery-run) (Essay #205)
+
+> What could be better than fresh baked goods?
+
 Reviews and notes about things I enjoy
 --------------------------------------
 

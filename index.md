@@ -8,7 +8,7 @@ about.  Some are explanations of how I approach the world.  Some are
 just my attempts to think through a topic.
 
 Latest essay:
-[Grinnell traditions I miss: National pipe cleaner day](grinnell-trads-pipe-cleaner) (Essay #204)
+[Grinnell traditions I miss (but shouldn't): Bakery run](grinnell-trads-bakery-run) (Essay #205)
 
 [Essays, by number](index-by-number.html)
 
