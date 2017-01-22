@@ -35,10 +35,16 @@ Do we have events that get students downtown?  I think we've tried a
 variety, but I don't recall any particularly successful ones.  It may
 be that the donut runs were developed by students for students, and
 those kinds of traditions are generally more successful than activities
-designed by non-students.  Perhaps my student readers will take that as
-a challenge: Develop a new tradition that does not involve alcohol and
-that gets students to see what's downtown.  And no, scavenger hunts 
+designed by non-students.  Perhaps my student readers will take that
+as a challenge: Develop a new tradition that does not involve alcohol
+and that gets students to see what's downtown.  And no, scavenger hunts
 don't count.
+
+---
+
+Followup: This tradition was fairly old.  David Feldman '71 writes "I
+don't remember mass runs [6] to Danish Maid but it was common for those
+of us on Central Student Time to make 4:00 a.m. visits."
 
 ---
 
@@ -56,6 +62,9 @@ orientation, so it may just have disappeared as part of the revamp.
 [5] No, I don't think they closed because the bakery runs stopped.
 I don't even think that was a contributing factor.
 
+[6] When I wrote "runs" I meant "trips"; it's a colloquialism that some
+folks use.
+
 ---
 
-*Version 1.0.1 of 2017-01-21.*
+*Version 1.0.2 of 2017-01-22.*
