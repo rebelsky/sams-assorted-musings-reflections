@@ -27,7 +27,13 @@ my goals.*
 
 1. November 11th, in a year.
 
-1. Grinnell traditions I miss.
+1. Grinnell traditions I miss: You can do it
+
+1. Grinnell traditions I love: Titular head
+
+1. Grinnell traditions I miss: Naked run
+
+1. Grinnell traditions I miss: Addressing people
 
 1. Fidgets?  (Short?)
 
@@ -56,8 +62,6 @@ the top.*
 
 1. The new slogan.
 
-1. Unprofessional development.
-
 1. (Semi-technical): Resetting passwords.
 
 1. CVs (or short CVs)  https://chroniclevitae.com/news/1662-how-to-shorten-a-cv
@@ -72,6 +76,9 @@ https://chroniclevitae.com/news/1657-claiming-your-right-to-say-no
 1. Missouri Lawmaker on Tenure  www.chronicle.com/article/Missouri-Lawmaker-Who-Wants-to/238886
 
 1. Growing a Language (the Guy Steele video/essay).
+
+1. Creating citizens.  Respond to Stanley Fish article.  
+http://www.chronicle.com/article/Citizen-Formation-Is-Not-Our/238913
 
 1. Fundraising.  How much will you pay for me to ....
 
