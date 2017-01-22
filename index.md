@@ -8,7 +8,7 @@ about.  Some are explanations of how I approach the world.  Some are
 just my attempts to think through a topic.
 
 Latest essay:
-[Giving in to Bootstrap](giving-in-to-bootstrap) (Essay #203)
+[Grinnell traditions I miss: National pipe cleaner day](grinnell-trads-pipe-cleaner) (Essay #204)
 
 [Essays, by number](index-by-number.html)
 
