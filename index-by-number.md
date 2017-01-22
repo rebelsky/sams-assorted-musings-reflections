@@ -266,3 +266,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Inbox zero, stage five](inbox-zero-05) (Essay #201)  
 [Thoughts on student graders](student-graders) (Essay #202)  
 [Giving in to Bootstrap](giving-in-to-bootstrap) (Essay #203)  
+[Grinnell traditions I miss: National pipe cleaner day](grinnell-trads-pipe-cleaner) (Essay #204)  

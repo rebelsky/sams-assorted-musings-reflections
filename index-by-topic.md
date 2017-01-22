@@ -886,6 +886,10 @@ categories.*
 
 > Thoughts about the folks who govern the College
 
+[Grinnell traditions I miss: National pipe cleaner day](grinnell-trads-pipe-cleaner) (Essay #204)
+
+> A day of joy and creativity
+
 Reviews and notes about things I enjoy
 --------------------------------------
 
