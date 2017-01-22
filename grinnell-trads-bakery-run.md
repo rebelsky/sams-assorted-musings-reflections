@@ -3,7 +3,7 @@ Grinnell traditions I miss (but shouldn't): The 3 a.m. bakery run
 
 *Continuing an occasional series of reflections on Grinnell traditions.
 See the short introduction to traditions and Grinnell traditions
-in [an earlier essays](grinnell-trads-pipe-cleaner).*
+in [an earlier essay](grinnell-trads-pipe-cleaner).*
 
 For my first decade or so at Grinnell, students had a tradition of
 walking downtown to Danish Maid bakery at about 4am, right when the
@@ -14,20 +14,22 @@ generally liked the concept of them.  They were a silly tradition that
 did not involve alcohol and were not too harmful [1], and they helped
 connect students with downtown [2].
 
-However, that tradition is now long gone.  First, some Tutorial professors
-discouraged their tutees from staying up (or waking up) to do the bakery
-run during orientation was unhealthy.  Ideally, one should go to bed and
-get up the same time each day [3].  Then, it disappeared from orientation,
-presumably for similar reasons [4].  Two or three years ago, Danish Maid
-closed [5].
+However, that tradition is now long gone.  First, some Tutorial
+professors discouraged their tutees from staying up (or waking up) to
+do the bakery run during orientation?  Why?  Ideally, one should go
+to bed and get up the same time each day [3], and they worried that
+bakery run discouraged students from developing good habits.  Then,
+it disappeared from orientation, presumably for similar reasons [4].
+Two or three years ago, Danish Maid closed [5].
 
-Do students still stay up until 3am?  Yes.  We now have sponsored 3am
-pancake breaks during [week fourteen](naming-week-14) and finals week.
-I've objected to them, on the same grounds that others objected to the
-bakery runs: We should not be offering incentives for students to disrupt
-their sleep habits, particularly during a time when their brains need
-to be working especially well.  I believe the response I got was "We
-are not encouraging them to stay up.  We are acknowledging that they do."
+Do students still stay up until 3am?  Yes.  In fact, some student groups
+now run 3am pancake breaks during [week fourteen](naming-week-14) and
+finals week.  I've objected to them, on the same grounds that others
+objected to the bakery runs: We should not be offering incentives for
+students to disrupt their sleep habits, particularly during a time when
+their brains need to be working especially well.  I believe the response
+I got was "We are not encouraging them to stay up.  We are acknowledging
+that they do."
 
 Do we have events that get students downtown?  I think we've tried a
 variety, but I don't recall any particularly successful ones.  It may
@@ -56,4 +58,4 @@ I don't even think that was a contributing factor.
 
 ---
 
-*Version 1.0 of 2017-01-21.*
+*Version 1.0.1 of 2017-01-21.*
