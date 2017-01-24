@@ -268,3 +268,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Giving in to Bootstrap](giving-in-to-bootstrap) (Essay #203)  
 [Grinnell traditions I miss: National pipe cleaner day](grinnell-trads-pipe-cleaner) (Essay #204)  
 [Grinnell traditions I miss (but shouldn't): Bakery run](grinnell-trads-bakery-run) (Essay #205)  
+[Dumb things Sam does: Changing my site builder right before classes start](dumb-things-site-builder) (Essay #206)  

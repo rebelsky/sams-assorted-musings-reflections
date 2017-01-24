@@ -73,3 +73,7 @@ Almost everything else
 
 > Adopting a technology I hate.
 
+[Dumb things Sam does: Changing my site builder right before classes start](dumb-things-site-builder) (Essay #206)
+
+> Agh!
+

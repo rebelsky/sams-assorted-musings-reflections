@@ -8,7 +8,7 @@ about.  Some are explanations of how I approach the world.  Some are
 just my attempts to think through a topic.
 
 Latest essay:
-[Grinnell traditions I miss (but shouldn't): Bakery run](grinnell-trads-bakery-run) (Essay #205)
+[Dumb things Sam does: Changing my site builder right before classes start](dumb-things-site-builder) (Essay #206)
 
 [Essays, by number](index-by-number.html)
 
