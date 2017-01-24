@@ -1,5 +1,5 @@
-Dumb things Sam does #41384: Change site builder right before classes
-=====================================================================
+Dumb things Sam does #41384: Changing my site builder right before classes start
+================================================================================
 
 Since I refuse to use Blackboard (or any CMS [1], for that matter), I
 have developed a number of tools to build my course Web sites.  These
@@ -35,6 +35,10 @@ Charlie and Titus put into place last semester, but that's about it.
 In any case, if I'm going to teach classes tomorrow, I think I need to keep
 this essay short.  Suffice to say, *Don't make huge changes to your
 processes with a very limited time frame!*
+
+You can expect some followup essays on my experiences with Jekyll (or
+Hyde, as the case may be), my general approach to course Web design, and
+similar issues.
 
 ---
 
