@@ -8,7 +8,7 @@ about.  Some are explanations of how I approach the world.  Some are
 just my attempts to think through a topic.
 
 Latest essay:
-[Dumb things Sam does: Changing my site builder right before classes start](dumb-things-site-builder) (Essay #206)
+[Some days I'm clearly not meant to write](some-days) (Essay #209)
 
 [Essays, by number](index-by-number.html)
 

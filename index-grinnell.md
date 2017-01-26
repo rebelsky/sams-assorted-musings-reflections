@@ -57,3 +57,7 @@ categories.*
 
 > What could be better than fresh baked goods?
 
+[Grinnell traditions I never witnessed, but miss anyway: The Cross-country team's naked run](grinnell-trads-naked-run) (Essay #207)
+
+> It brings new meaning to "fun run".
+

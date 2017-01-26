@@ -269,3 +269,6 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Grinnell traditions I miss: National pipe cleaner day](grinnell-trads-pipe-cleaner) (Essay #204)  
 [Grinnell traditions I miss (but shouldn't): Bakery run](grinnell-trads-bakery-run) (Essay #205)  
 [Dumb things Sam does: Changing my site builder right before classes start](dumb-things-site-builder) (Essay #206)  
+[Grinnell traditions I never witnessed, but miss anyway: The Cross-country team's naked run](grinnell-trads-naked-run) (Essay #207)  
+[A gift to myself](gift-to-myself) (Essay #208)  
+[Some days I'm clearly not meant to write](some-days) (Essay #209)  

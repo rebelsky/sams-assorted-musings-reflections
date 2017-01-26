@@ -77,3 +77,11 @@ Almost everything else
 
 > Agh!
 
+[A gift to myself](gift-to-myself) (Essay #208)
+
+> A night with less essay writing, to allow time for class prep.
+
+[Some days I'm clearly not meant to write](some-days) (Essay #209)
+
+> I hate networks.
+

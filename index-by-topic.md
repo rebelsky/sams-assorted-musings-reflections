@@ -894,6 +894,10 @@ categories.*
 
 > What could be better than fresh baked goods?
 
+[Grinnell traditions I never witnessed, but miss anyway: The Cross-country team's naked run](grinnell-trads-naked-run) (Essay #207)
+
+> It brings new meaning to "fun run".
+
 Reviews and notes about things I enjoy
 --------------------------------------
 
@@ -1119,6 +1123,14 @@ Almost everything else
 [Dumb things Sam does: Changing my site builder right before classes start](dumb-things-site-builder) (Essay #206)
 
 > Agh!
+
+[A gift to myself](gift-to-myself) (Essay #208)
+
+> A night with less essay writing, to allow time for class prep.
+
+[Some days I'm clearly not meant to write](some-days) (Essay #209)
+
+> I hate networks.
 
 Removed
 -------

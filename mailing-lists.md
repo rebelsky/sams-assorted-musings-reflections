@@ -26,8 +26,12 @@ Most of the mailing lists are professional.
 * ACM TechNews  A few times a week.  Skim and delete.
 * Risks.  A few times a week.  Skim and save.
 * _Chronicle_.  Daily.  Skim and delete.
-* Proofpoint End User Digest.  Daily.  Proofpoint likes to tell me what
-  it considers borderline spam.  About 25% is mail that I want to receive.
+* Teaching Open Source.  Rarely.
+* BetaSaaSers. 
+* CRA Bulletin.  Weekly or so.  Skim.
+* NSF Bulletin.  (It's where I saw the program that eventually led to GSP
+  getting a presidential award.)
+
 A few are for fun or expanding my knowledge
 
 * Keith Knight.
@@ -44,10 +48,16 @@ A few are for fun or expanding my knowledge
   by type and the number of articles written about him, as well as
   data about distribution of recent sales.
 
-And then there are two related to Grinnell
+And then there are at least three related to Grinnell
 
+* Campus Memo
 * Grinnell Parents
 * Grinnell Family
+
+Finally, there's one I don't know how to classify.
+
+* Proofpoint End User Digest.  Daily.  Proofpoint likes to tell me what
+  it considers borderline spam.  About 25% is mail that I want to receive.
 
 Wow, that is a lot!
 

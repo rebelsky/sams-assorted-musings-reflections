@@ -121,18 +121,18 @@ seconds per message on average, and some did require some work.
 
 On to bidding, reading, and then some writing.  For bidding, there are
 175 papers for me to consider.  Whee!  But this is supposed to be a quick
-skim (or at least I think it is), using titles and, if desired, abstracts
-[16].  As someone who is red/green color deficient, I wish they wouldn't
-use those colors to indicate how we've bid.  It doesn't help that they
-use two shades of green and two shades of red.  I think with just one
-shade of each, I could more easily tell the difference [17].  Anyway,
-after about an hour of skimming, I had bid on each paper.  I bid 36
-as ones I would prefer to review. I think that's a generous number .
+skim (or at least I think it is), using titles and, if desired, 
+abstracts [16].  As someone who is red/green color deficient, I wish they
+wouldn't use those colors to indicate how we've bid.  It doesn't help
+that they use two shades of green and two shades of red.  I think with
+just one shade of each, I could more easily tell the difference [17].
+Anyway, after about an hour of skimming, I had bid on each paper.  I bid
+36 as ones I would prefer to review. I think that's a generous number .
 I bid 88 as ones I would be willing to review. I think that's an even
-more generous number).  I guess I've been reviewing for long enough that
+more generous number.  I guess I've been reviewing for long enough that
 I just assume that I can deal with most of the papers.  That feeling
 also probably made the bidding a faster process; I didn't feel like I
-had to get everything "just write" or that I had to game the system.
+had to get everything "just right" or that I had to game the system.
 I do hope my large number of "yes" entries makes things easier for the
 Program Chairs.
 
@@ -259,4 +259,4 @@ that already.
 
 ---
 
-*Version 1.0 of 2017-01-17.*
+*Version 1.0.1 of 2017-01-23.*

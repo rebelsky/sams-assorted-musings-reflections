@@ -3,9 +3,7 @@ Some forthcoming essays
 
 *Reminder: Look through some of the indices for other forthcoming essays.*
 
-* Mon: Essay 199 (Technical): Grep and Regular Expressions
-* Mon: Essay 200 (Bonus nontechnical): Unprofessional development
-
+* Essay ??? (Technical): Output buffers.
 * Essay ??? (Technical): Bash-basics: Command-line patterns
 * Essay ??? (Technical): Bash Basics: File Permissions
 * Essay ??? (Technical): Bash-basics: I/O redirection
@@ -66,7 +64,11 @@ General
 order, other than the ones I've come up with more recently tend to be near
 the top.*
 
+1. Grinnell trads: [Press].  Is press a tradition?  Perhaps.
+
 1. Inbox zero.  A multi-part story.
+
+1. <https://www.masterclass.com/classes/james-patterson-teaches-writing#/>
 
 1. The new slogan(s).
 

@@ -28,8 +28,8 @@ discussions for the department's external review, students asking about
 grades, some assorted Council emails, and more.  During that quick scan,
 I deleted a bunch.  But, you know, what, it's kind of nice to have Jim's
 note saying "I am thrilled to report that Jerod Weinman has accepted
-our offer of a TT position in CS.  Congratulations to the department!"
-[5].  And, in recent months, I've found some of the historical messages
+our offer of a TT position in CS.  Congratulations to the department!" [5]
+And, in recent months, I've found some of the historical messages
 useful, whether it's in discussions about when we created a separate
 Tech Studies designation or questions about the old mailboxes.  So yes,
 it's useful to have some of the messages, and it's not worth my time to
@@ -72,4 +72,4 @@ my quota is higher now.
 
 ---
 
-*Version 1.0 of 2017-01-09.*
+*Version 1.0.1 of 2017-01-23.*
