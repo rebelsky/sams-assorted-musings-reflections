@@ -8,7 +8,7 @@ about.  Some are explanations of how I approach the world.  Some are
 just my attempts to think through a topic.
 
 Latest essay:
-[Some days I'm clearly not meant to write](some-days) (Essay #209)
+[Output buffers](cnix-output-buffers) (Essay #210)
 
 [Essays, by number](index-by-number.html)
 
