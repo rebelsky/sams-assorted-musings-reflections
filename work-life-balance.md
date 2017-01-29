@@ -111,7 +111,7 @@ departments have a variety of parts to their mission: They educate majors
 in the discipline, they contribute to the broader liberal arts education of
 all students, they support the discipline, and more.
 
-You also have responsibilities to the broader *institution*.  Grinnell
+You also have responsibilities to *the institution as a whole*.  Grinnell
 has a strong tradition of faculty governance, and that requires that
 faculty members take some responsibility for institution-wide endeavors
 and initiatives.
@@ -759,4 +759,4 @@ I make significantly less than many people in my industry.
 
 ---
 
-*Version 1.0 of 2017-01-28.*
+*Version 1.0.1 of 2017-01-28.*
