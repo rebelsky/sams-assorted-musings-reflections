@@ -8,7 +8,7 @@ about.  Some are explanations of how I approach the world.  Some are
 just my attempts to think through a topic.
 
 Latest essay:
-[Output buffers](cnix-output-buffers) (Essay #210)
+[Borrowed, used, downloaded](borrowed-used-downloaded) (Essay #211)
 
 [Essays, by number](index-by-number.html)
 

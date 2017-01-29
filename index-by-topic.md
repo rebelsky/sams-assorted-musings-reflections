@@ -370,6 +370,10 @@ Reflections on some important issues
 
 > An updated version of a much earlier essay.
 
+[Borrowed, used, downloaded](borrowed-used-downloaded) (Essay #211)
+
+> A consideration of comparative ethics.
+
 Rants
 -----
 
@@ -555,8 +559,7 @@ Comparing students
 Don't embarass me; don't embarass yourself: Some notes on thinking in C and Unix
 --------------------------------------------------------------------------------
 
-Introduction
-------------
+## Introduction
 
 [Introduction, part 1: On the genesis of this work](cnix-intro-1) (Essay #175)
 
@@ -574,8 +577,7 @@ Introduction, part 4: Thinking like SamR
 
 > Additional perspectives that underlie the rest of the course/book/essays.
 
-Bash Basics
------------
+## Bash Basics
 
 [Bash basics: files and directories](cnix-bash-basics-files) (Essay #196)
 
@@ -583,8 +585,7 @@ Bash Basics
   a bit of information on files and directories.  I hope that this is
   mostly review.
 
-Miscellaneous Unix Topics
--------------------------
+## Miscellaneous Unix Topics
 
 [`grep` and regular expressions](cnix-grep-regexp) (Essay #199)
 
@@ -603,8 +604,7 @@ Searching files with `find`
 
 > Another way to find things.
 
-Miscellaneous C Topics
-----------------------
+## Miscellaneous C Topics
 
 [Stages of C compilation](cnix-compilation-phases) (Essay #179) 
 
@@ -626,6 +626,10 @@ Additional compiler flags
 [Formatting C Code](cnix-formatting-c) (Essay #197)
 
 > Why style counts and how to achieve it.
+
+[Output buffers](cnix-output-buffers) (Essay #210)
+
+> Why `printf` doesn't always do what you expect.
 
 Modifiers
 

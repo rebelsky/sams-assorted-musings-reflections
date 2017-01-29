@@ -53,3 +53,7 @@ Reflections on some important issues
 
 > An updated version of a much earlier essay.
 
+[Borrowed, used, downloaded](borrowed-used-downloaded) (Essay #211)
+
+> A consideration of comparative ethics.
+

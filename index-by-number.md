@@ -3,6 +3,7 @@ Essays, in numerical order
 
 ## 1-10
 
+## Introduction  
 [Contacting faculty members on behalf of students](contacting-faculty.html) (Essay #1)  
 [What kind of computer should you buy?](buy-computer.html) (Essay #2)  
 Essay #3 was about Grinnell's relationship with Posse.    
@@ -272,3 +273,8 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Grinnell traditions I never witnessed, but miss anyway: The Cross-country team's naked run](grinnell-trads-naked-run) (Essay #207)  
 [A gift to myself](gift-to-myself) (Essay #208)  
 [Some days I'm clearly not meant to write](some-days) (Essay #209)  
+[Output buffers](cnix-output-buffers) (Essay #210)  
+
+## 211-220
+
+[Borrowed, used, downloaded](borrowed-used-downloaded) (Essay #211)  
