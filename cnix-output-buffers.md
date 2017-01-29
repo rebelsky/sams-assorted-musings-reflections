@@ -255,7 +255,7 @@ says a lot about the designers' impressions of most program output.
 [5] We will consider `gdb`, the GNU Debugger, at some point.  I've forgotten
 the name of the awesome debugger I used while in grad school (early 1990's).  
 All I remember is that you could download a theme song [6] where the 
-developer signs and plays guitar, with a refrain  of "It's the best damn
+developer sings and plays guitar, with a refrain  of "It's the best damn
 debugger that there's ever been."  I wonder if I'll ever figure out what it
 was.
 
@@ -271,4 +271,4 @@ was.
 
 ---
 
-*Version 1.0 of 2017-01-26.*
+*Version 1.0.1 of 2017-01-27.*
