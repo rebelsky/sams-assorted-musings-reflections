@@ -3,7 +3,6 @@ Some forthcoming essays
 
 *Reminder: Look through some of the indices for other forthcoming essays.*
 
-* Essay ??? (Technical): Output buffers.
 * Essay ??? (Technical): Bash-basics: Command-line patterns
 * Essay ??? (Technical): Bash Basics: File Permissions
 * Essay ??? (Technical): Bash-basics: I/O redirection
@@ -16,6 +15,11 @@ Quick (?)
 
 *For the days in which I need to "dash off" an essay in order to meet
 my goals.*
+
+1. Dumb things #nnnn: Writing the work/life balance essay.  (Busy weekend:
+GSP, Grading, Recommendations, Office supplies.  So I wrote one of
+the longest essays of this series.  How's that for work-life balance?
+That's what I get for reining in my muse!)
 
 1. (Semi-technical): Resetting passwords.
 
@@ -37,9 +41,9 @@ by the activism of our students."
 
 1. Grinnell traditions I love: Titular head
 
-1. Grinnell traditions I miss: Naked run
-
 1. Grinnell traditions I miss: Addressing people
+
+1. Grinnell trads: [Press].  Is press a tradition?  Perhaps.
 
 1. Fidgets?  (Short?)
 
@@ -55,6 +59,10 @@ think that fits.  I just don't write enough argumentative essays.
 1. The things Amazon comes up with: Summary and Analysis of How to Read Literature Like a Professor: Based on the Book by Thomas C. Foster by Worth Books
 https://www.amazon.com/gp/product/B01MQSVSZ0/ref=em_si_text
 
+1. Misreadings: "Modern Python demands modern techniques" vs. "Monty
+Python demands modern techniques".  (There was the one about choosing
+schools vs closing schools)
+
 ---
 
 General
@@ -63,8 +71,6 @@ General
 *The list of topics that I've thought about writing about, in no particular
 order, other than the ones I've come up with more recently tend to be near
 the top.*
-
-1. Grinnell trads: [Press].  Is press a tradition?  Perhaps.
 
 1. Inbox zero.  A multi-part story.
 
@@ -347,6 +353,7 @@ Grinnellians
 1. George Drake.  (Include the two things he's done that irk me.)
 
 1. Karla Erickson
+https://www.insidehighered.com/news/2017/01/26/research-midcareer-professors-makes-case-support-after-tenure
 
 1. David Feldman '71
 
