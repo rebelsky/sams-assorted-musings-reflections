@@ -9,18 +9,18 @@ For my first decade or so at Grinnell, students had a tradition of
 walking downtown to Danish Maid bakery at about 4am, right when the
 donuts and other baked goods were coming out of the oven, to get the
 freshest possible donuts.  There was even an official bakery run during
-orientation week.  Although I never participated in the bakery runs, I
+orientation week.  Although I never participated in the bakery runs [1], I
 generally liked the concept of them.  They were a silly tradition that
-did not involve alcohol and were not too harmful [1], and they helped
-connect students with downtown [2].
+did not involve alcohol and were not too harmful [2], and they helped
+connect students with downtown [3].
 
 However, that tradition is now long gone.  First, some Tutorial
 professors discouraged their tutees from staying up (or waking up) to
 do the bakery run during orientation?  Why?  Ideally, one should go
-to bed and get up the same time each day [3], and they worried that
+to bed and get up the same time each day [4], and they worried that
 bakery run discouraged students from developing good habits.  Then,
-it disappeared from orientation, presumably for similar reasons [4].
-Two or three years ago, Danish Maid closed [5].
+it disappeared from orientation, presumably for similar reasons [5].
+Two or three years ago, Danish Maid closed [6].
 
 Do students still stay up until 3am?  Yes.  In fact, some student groups
 now run 3am pancake breaks during [week fourteen](naming-week-14) and
@@ -43,28 +43,31 @@ don't count.
 ---
 
 Followup: This tradition was fairly old.  David Feldman '71 writes "I
-don't remember mass runs [6] to Danish Maid but it was common for those
+don't remember mass runs [7] to Danish Maid but it was common for those
 of us on Central Student Time to make 4:00 a.m. visits."
 
 ---
 
-[1] More on that later.
+[1] Upon reading this essay, middle son informed me that I did take him
+at some point.
 
-[2] Yes, you would think that our students would find it natural to 
+[2] More on that later.
+
+[3] Yes, you would think that our students would find it natural to 
 regularly go to downtown Grinnell.  Unfortunately, for some percentage,
 that's not the case.
 
-[3] Yes, student readers, that includes weekend nights.
+[4] Yes, student readers, that includes weekend nights.
 
-[4] Around that time, there was also a significant revamp of
+[5] Around that time, there was also a significant revamp of
 orientation, so it may just have disappeared as part of the revamp.
 
-[5] No, I don't think they closed because the bakery runs stopped.
+[6] No, I don't think they closed because the bakery runs stopped.
 I don't even think that was a contributing factor.
 
-[6] When I wrote "runs" I meant "trips"; it's a colloquialism that some
+[7] When I wrote "runs" I meant "trips"; it's a colloquialism that some
 folks use.
 
 ---
 
-*Version 1.0.2 of 2017-01-22.*
+*Version 1.0.3 of 2017-01-27.*
