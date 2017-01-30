@@ -13,8 +13,8 @@ to write a few essays.
 
 I did see youngest son's swim meet. I even helped host the togetherness
 dinner on Friday night. My contributions were baking brownies and helping
-clean up afterwards. I got most of the first CSC 151 homework graded
-[2].  I made it to the GSP reunion activities.  I helped Michelle with
+clean up afterwards. I got most of the first CSC 151 homework graded [2].  
+I made it to the GSP reunion activities.  I helped Michelle with
 some of her homework.  I helped eldest and middle with some email they
 had to write.  I dealt with a concern one child had.  I answered a bunch
 of email from students.  I made dinner for the family on Sunday night.
@@ -50,6 +50,11 @@ The next few essays I've been thinking about writing are potentially longer
 essays.  Maybe I can find ways to keep them short.  Maybe I can find ways
 to split them into multiple essays, so that each is short.  We'll see.
 
+And, in spite of not finishing all of my professional work, it does seem
+like I achieved a reasonable balance between my personal and professional
+activities this weekend.  So perhaps I should celebrate that success, rather
+than bemoan the failures.
+
 ---
 
 [1] More on that later.
@@ -64,3 +69,6 @@ just really want to get them done soon.
 
 [5] Well, perhaps it's also because I planned too much to do this weekend.
 
+---
+
+*Version 1.0 of 2017-01-29.*
