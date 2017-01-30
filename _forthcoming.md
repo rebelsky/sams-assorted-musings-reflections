@@ -16,11 +16,6 @@ Quick (?)
 *For the days in which I need to "dash off" an essay in order to meet
 my goals.*
 
-1. Dumb things #nnnn: Writing the work/life balance essay.  (Busy weekend:
-GSP, Grading, Recommendations, Office supplies.  So I wrote one of
-the longest essays of this series.  How's that for work-life balance?
-That's what I get for reining in my muse!)
-
 1. (Semi-technical): Resetting passwords.
 
 1. The white elephant in the room (?) (mixed metaphors).  "Sam,
@@ -35,7 +30,7 @@ by the activism of our students."
 
 1. Times and Dates - format thereof.
 
-1. November 11th, in a year.
+1. November 11th (in a year.)
 
 1. Grinnell traditions I miss: You can do it
 
