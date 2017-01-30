@@ -374,6 +374,11 @@ Reflections on some important issues
 
 > A consideration of comparative ethics.
 
+[Work-life balance](work-life-balance) (Essay #212)
+
+> Way too many thoughts on finding harmony between the personal and
+  the professional.
+
 Rants
 -----
 

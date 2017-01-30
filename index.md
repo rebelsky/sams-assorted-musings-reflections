@@ -8,7 +8,7 @@ about.  Some are explanations of how I approach the world.  Some are
 just my attempts to think through a topic.
 
 Latest essay:
-[Borrowed, used, downloaded](borrowed-used-downloaded) (Essay #211)
+[Work-life balance](work-life-balance) (Essay #212)
 
 [Essays, by number](index-by-number.html)
 
