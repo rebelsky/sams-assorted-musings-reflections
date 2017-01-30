@@ -77,6 +77,10 @@ Almost everything else
 
 > Agh!
 
+[Dumb things Sam does: Write too-long essays on work-life balance](dumb-things-work-life-essay) (Essay #213)
+
+> Agh! Agh!
+
 [A gift to myself](gift-to-myself) (Essay #208)
 
 > A night with less essay writing, to allow time for class prep.

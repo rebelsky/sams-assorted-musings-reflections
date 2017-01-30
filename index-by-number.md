@@ -279,3 +279,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 
 [Borrowed, used, downloaded](borrowed-used-downloaded) (Essay #211)  
 [Work-life balance](work-life-balance) (Essay #212)  
+[Dumb things Sam does: Write too-long essays on work-life balance](dumb-things-work-life-essay) (Essay #213)  
