@@ -555,6 +555,8 @@ On writing letters of recommendation
 > Implicit bias creeps into recommendation letters, both in how we read them
   and how we write them.  Does it appear in mine?
 
+[Another evening of writing recommendation letters](recommendations-january-2017) (Essay #214)
+
 Comparing students
 - *Forthcoming*
 

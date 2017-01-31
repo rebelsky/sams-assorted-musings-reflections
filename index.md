@@ -8,7 +8,7 @@ about.  Some are explanations of how I approach the world.  Some are
 just my attempts to think through a topic.
 
 Latest essay:
-[Dumb things Sam does: Write too-long essays on work-life balance](dumb-things-work-life-essay) (Essay #213)
+[Another evening of writing recommendation letters](recommendations-january-2017) (Essay #214)
 
 [Essays, by number](index-by-number.html)
 
