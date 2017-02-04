@@ -1,4 +1,4 @@
-Introduction: Some of SamR's perspectives on software development
+Introduction: Thinking like Sam (aka Some of SamR's perspectives on software development)
 =================================================================
 
 **Part of an ongoing series of essays tentatively entitled _Don't embarrass
