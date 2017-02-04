@@ -8,7 +8,7 @@ about.  Some are explanations of how I approach the world.  Some are
 just my attempts to think through a topic.
 
 Latest essay:
-[Another evening of writing recommendation letters](recommendations-january-2017) (Essay #214)
+[Grinnell traditions I miss (and mostly missed): Graduation "pranks"](grinnell-trads-grad-pranks) (Essay #217)
 
 [Essays, by number](index-by-number.html)
 

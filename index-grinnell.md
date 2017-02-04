@@ -61,3 +61,7 @@ categories.*
 
 > It brings new meaning to "fun run".
 
+[Grinnell traditions I miss (and mostly missed): Graduation "pranks"](grinnell-trads-grad-pranks) (Essay #217)
+
+> Ferguson, fish, and failure.
+

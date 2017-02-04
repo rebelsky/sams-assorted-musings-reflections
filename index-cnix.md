@@ -16,6 +16,7 @@ Don't embarass me; don't embarass yourself: Some notes on thinking in C and Unix
 > What I mean by "thinking in Unix"
 
 Introduction, part 4: Thinking like SamR
+[Introduction, part 4: Thinking like Samr (or Some of SamR's perspectives on software development)](cnix-thinking-like-sam) (Essay #216)
 
 > Additional perspectives that underlie the rest of the course/book/essays.
 

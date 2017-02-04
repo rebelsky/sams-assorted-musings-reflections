@@ -47,6 +47,10 @@ Essays on writing, or at least on writing my essays
 
 > The series continues.
 
+[Six months of daily essays](six-months) (Essay #215)
+
+>  Let's see ... 215 - 173 is 42.  Those are pretty strange months.
+
 [On making, breaking, and remaking the habit of daily writing](habit-of-writing.html) (Essay #41)
 
 > Reflections on trying to restart these essays.
@@ -581,6 +585,7 @@ Don't embarass me; don't embarass yourself: Some notes on thinking in C and Unix
 > What I mean by "thinking in Unix"
 
 Introduction, part 4: Thinking like SamR
+[Introduction, part 4: Thinking like Samr (or Some of SamR's perspectives on software development)](cnix-thinking-like-sam) (Essay #216)
 
 > Additional perspectives that underlie the rest of the course/book/essays.
 
@@ -908,6 +913,10 @@ categories.*
 [Grinnell traditions I never witnessed, but miss anyway: The Cross-country team's naked run](grinnell-trads-naked-run) (Essay #207)
 
 > It brings new meaning to "fun run".
+
+[Grinnell traditions I miss (and mostly missed): Graduation "pranks"](grinnell-trads-grad-pranks) (Essay #217)
+
+> Ferguson, fish, and failure.
 
 Reviews and notes about things I enjoy
 --------------------------------------
