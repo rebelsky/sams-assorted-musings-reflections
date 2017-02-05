@@ -1,5 +1,5 @@
-Adventures in binary search, part the first
-===========================================
+Adventures in binary search, part the first: Setting the stage
+==============================================================
 
 **Part of an ongoing series of essays tentatively entitled _Don't embarrass
 me, Don't embarrass yourself: Notes on thinking in C and Unix_.**
@@ -424,4 +424,4 @@ for a related reason.
 
 ---
 
-*Version 1.0 of 2017-02-04.*
+*Version 1.0.1 of 2017-02-05.*
