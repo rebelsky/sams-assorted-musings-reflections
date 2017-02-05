@@ -8,7 +8,7 @@ about.  Some are explanations of how I approach the world.  Some are
 just my attempts to think through a topic.
 
 Latest essay:
-[Branding the College](branding) (Essay #218)
+[Adventures in binary search, part the first](cnix-binary-search-1) (Essay #219)
 
 [Essays, by number](index-by-number.html)
 

@@ -285,3 +285,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Introduction, part 4: Thinking like Samr (or Some of SamR's perspectives on software development)](cnix-thinking-like-sam) (Essay #216)  
 [Grinnell traditions I miss (and mostly missed): Graduation "pranks"](grinnell-trads-grad-pranks) (Essay #217)  
 [Branding the College](branding) (Essay #218)  
+[Adventures in binary search, part the first](cnix-binary-search-1) (Essay #219)  

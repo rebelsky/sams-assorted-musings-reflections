@@ -616,6 +616,12 @@ Searching files with `find`
 
 > Another way to find things.
 
+## Adventures of binary search
+
+[Adventures in binary search, part the first](cnix-binary-search-1) (Essay #219)
+
+> In which we set the stage.
+
 ## Miscellaneous C Topics
 
 [Stages of C compilation](cnix-compilation-phases) (Essay #179) 
