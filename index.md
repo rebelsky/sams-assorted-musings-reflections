@@ -8,7 +8,7 @@ about.  Some are explanations of how I approach the world.  Some are
 just my attempts to think through a topic.
 
 Latest essay:
-[Grinnell traditions I miss (and mostly missed): Graduation "pranks"](grinnell-trads-grad-pranks) (Essay #217)
+[Branding the College](branding) (Essay #218)
 
 [Essays, by number](index-by-number.html)
 

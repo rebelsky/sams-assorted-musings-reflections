@@ -65,3 +65,7 @@ categories.*
 
 > Ferguson, fish, and failure.
 
+[Branding the College](branding) (Essay #218)
+
+> Can we find another term?
+
