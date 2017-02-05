@@ -1,7 +1,10 @@
-Don't embarrass me; Don't embarrass yourself: Stages of C Compilation
-=====================================================================
+Stages of C Compilation
+=======================
 
-To many novice programmers, the steps from the human readable program text
+**Part of an ongoing series of essays tentatively entitled _Don't embarrass
+me, Don't embarrass yourself: Notes on thinking in C and Unix_.**
+
+To many novice programmers, the steps from human readable program text
 to running program are, at best, obscure.  Usually, it's "I click the
 'Run' button in the interpreter, and it all works" or "I invoke the magic
 command to create an executable, and then run the executable".  One of
@@ -296,4 +299,4 @@ as the halting problem, and is therefore not computable.
 
 ---
 
-*Version 1.0 of 2017-01-04.*
+*Version 1.0.1 of 2017-02-05.*
