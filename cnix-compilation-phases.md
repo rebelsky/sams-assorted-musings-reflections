@@ -1,4 +1,4 @@
-Stages of C Compilation
+Stages of C compilation
 =======================
 
 **Part of an ongoing series of essays tentatively entitled _Don't embarrass
