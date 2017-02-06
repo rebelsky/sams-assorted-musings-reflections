@@ -78,7 +78,7 @@ contained therein. Here's the documentation.
      *   4, for other errors
      */
 
-Here's an example of you should *not* format the code.
+Here's an example of how you should *not* format the code.
 
     int str2long (char *str, long *lp) { long result = 0; long sign = 1;
     while ((*str != '\0') && (isspace (*str))) str++; if (*str == '-') {
@@ -311,4 +311,4 @@ whitespace to achieve the ugly version.
 
 ---
 
-*Version 1.0 of 2017-01-XX.*
+*Version 1.0.1 of 2017-02-06.*

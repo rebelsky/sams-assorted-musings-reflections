@@ -19,7 +19,7 @@ for you to know about and use.
 
 The first major step in C compilation is the C *preprocessor*.  What does
 a preprocessor do?  It does textual substitution within the program.
-Among other things, it strips out all of the comments.  it merges in
+Among other things, it strips out all of the comments.  It merges in
 the text of any `#include`d files, it replaces `#define`d constants
 with their values [1], and it replaces macro calls with the body of the
 macro, doing appropriate argument substitution along the way.  The C
@@ -299,4 +299,4 @@ as the halting problem, and is therefore not computable.
 
 ---
 
-*Version 1.0.1 of 2017-02-05.*
+*Version 1.0.2 of 2017-02-06.*
