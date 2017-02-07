@@ -123,6 +123,10 @@ Essays on writing, or at least on writing my essays
 
 > On the potential purposes of these essays.
 
+[Reinventing the wheel](reinventing-the-wheel) (Essay #222)
+
+> Some additional reasons I wrote the "don't embarrass me" series.
+
 For prospective students, parents of prospective students, and others with similar interests
 --------------------------------------------------------------------------------------------
 
