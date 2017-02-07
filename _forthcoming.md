@@ -75,6 +75,8 @@ the top.*
 
 1. CVs (or short CVs)  https://chroniclevitae.com/news/1662-how-to-shorten-a-cv
 
+1. Letter from Harley about Ann Pratchett (see end of these notes).
+
 1. Recommendations (again).  Great quote from Amy something on 
 https://chroniclevitae.com/news/1657-claiming-your-right-to-say-no
 
@@ -556,3 +558,20 @@ Software for indexing these pages.
   I used?]
 * Separate program that finds word in each essay.
 * Put it all together.
+
+---
+
+Harley's email
+
+Sam,
+
+I have repeatedly told Grace to not hesitate to ask questions in class. I tell her, no matter how dumb she thinks the question is, there will be others in class who are glad she asked it. So, now I’m reading Ann Patchett’s novel State of Wonder (and not really liking it much), and the character Dr. Swenson says, “ . . . I didn’t keep office hours. I never believed in them. Questions are for the benefit of every student, not just the one raising his hand.”
+
+What say you?
+
+Muddying the point a bit (but you might identify with what she says), she goes on to say, “If you don’t have the starch to stand up in class and admit what you don’t understand, then I don’t have the time to explain it to you. If you don’t have a policy against nonsense you can wind up with a dozen timid little rabbits lined up in the hall outside your office, all waiting to whisper the same imbecilic question in your ear.”
+
+I know, I know. You’re not the one to share that last bit with . . . but Ira’s not in town anymore.
+
+H.
+
