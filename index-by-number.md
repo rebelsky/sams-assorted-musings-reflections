@@ -286,3 +286,8 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Grinnell traditions I miss (and mostly missed): Graduation "pranks"](grinnell-trads-grad-pranks) (Essay #217)  
 [Branding the College](branding) (Essay #218)  
 [Adventures in binary search, part the first](cnix-binary-search-1) (Essay #219)  
+[Adventures in binary search, part the second: Designing tests](cnix-binary-search-2) (Essay #220)  
+
+## 221-230
+
+[Adventures in binary search, part the third: Implementing binary search](cnix-binary-search-3) (Essay #221)  

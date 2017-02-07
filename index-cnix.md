@@ -53,6 +53,14 @@ Searching files with `find`
 
 > In which we set the stage.
 
+[Adventures in binary search, part the second: Designing tests](cnix-binary-search-2) (Essay #220)
+
+> In which we explore how to test our procedure.
+
+[Adventures in binary search, part the third: Implementing binary search](cnix-binary-search-3) (Essay #221)
+
+> In which we consider strategies.
+
 ## Miscellaneous C Topics
 
 [Stages of C compilation](cnix-compilation-phases) (Essay #179) 

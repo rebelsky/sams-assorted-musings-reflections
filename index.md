@@ -7,8 +7,9 @@ students or other people.  Some are rants about topics I'm passionate
 about.  Some are explanations of how I approach the world.  Some are
 just my attempts to think through a topic.
 
-Latest essay:
-[Adventures in binary search, part the first](cnix-binary-search-1) (Essay #219)
+Latest essays:
+[Adventures in binary search, part the second: Designing tests](cnix-binary-search-2) (Essay #220) and
+[Adventures in binary search, part the third: Implementing binary search](cnix-binary-search-3) (Essay #221)
 
 [Essays, by number](index-by-number.html)
 
