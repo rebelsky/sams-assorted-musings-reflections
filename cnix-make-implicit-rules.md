@@ -218,10 +218,10 @@ What did we use successfully?
     clang -o test-gcd test-gcd.o mathlib-gcd.o
 
 What's different?  The order of arguments and the fact that we included
-`mathlib-gcd.o` and Make didn't.  The order of arguments shouldn't matter
-[3].  But it's hard to use the `gcd` function if we don't have the code
-for it.  Can we force Make to include that?  Well, let's look at the
-default rule again.
+`mathlib-gcd.o` and Make didn't.  The order of arguments shouldn't 
+matter [3].  But it's hard to use the `gcd` function if we don't have
+the code for it.  Can we force Make to include that?  Well, let's look
+at the default rule again.
 
     %: %.o
     #  recipe to execute (built-in):
@@ -298,4 +298,4 @@ rules are pretty clear.
 
 ---
 
-*Version 1.0 of 2017-01-09.*
+*Version 1.0.1 of 2017-02-06.*

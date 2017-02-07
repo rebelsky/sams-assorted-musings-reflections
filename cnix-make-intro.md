@@ -83,7 +83,7 @@ In Make, we lay out this information using the following form.
 
 That is, we write the target, a colon, a list of files the target depends
 upon, and the instructions for building the target.  Note that the whitespace
-before the instructions must be a tab; a sequence of spaces don't count.
+before the instructions must be a tab; a sequence of spaces doesn't count.
 
 So, let's look at some of the rules for our project.  First, we will note
 that we need to rebuild `mathlib-gcd.o` if either `mathlib-gcd.c` or
@@ -225,4 +225,4 @@ you understand what's going on before you delve into complexities.
 
 ---
 
-*Version 1.0 of 2017-01-07.*
+*Version 1.0.1 of 2017-02-06.*

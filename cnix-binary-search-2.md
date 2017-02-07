@@ -12,7 +12,7 @@ Welcome back!  I hope you enjoyed our awesome snack bar.  As I said,
 we at Microgoogazonbook really pride ourselves on the snack bars, which
 are filled with healthy and brain-enhancing food and drink.  
 
-What?
+What?  Could you repeat that question?
 
 Where are the other applicants?  Oh, they decided they wanted to try
 applying to Yahoo instead.  They'll be fine.
@@ -55,7 +55,7 @@ you think?
 0 elements.  If you were willing to devote the computing resources, I'd
 also test an array with `INT_MAX` values, presumably 0 through `INT_MAX-1`.
 
-Good answer!  I bet Sun wishes that they hand you on staff.  Then they
+Good answer!  I bet Sun wishes that they had you on staff.  Then they
 wouldn't have screwed up binary search in Java.  Other than "really small"
 and "really large", what other size arrays would you test?  Ah, you jumping
 up and down.
@@ -134,12 +134,12 @@ yet ready to follow coding standards, I'll provide a solution to you.
     {
       int tests = 0;        // A count of tests we've run
       int errors = 0;       // A count of errors in the code
-      int vals[33];         // Values to search
+      int vals[32];         // Values to search
       int i;                // Counter variable
       int size;             // Size of array we are searching
     
       // Initialize the array with even numbers
-      for (i = 0; i <= 32; i++)
+      for (i = 0; i < 32; i++)
         {
           vals[i] = i*2;
         } // for
@@ -197,11 +197,11 @@ a few of these tests, which is one of the reasons I think it's worth our
 time to do all of them.
 
 A few of you might eventually end up on the testing team, but, sadly enough,
-it's rate that we have a novice SWE who can think this broadly about testing.
+it's rare that we have a novice SWE who can think this broadly about testing.
 I'd encourage you to practice and practice some more.
 
 Once you test your code again and make sure that it's working, take a trip
-back to the sanck bar.
+back to the snack bar.
 
 *To be continued.*
 
@@ -228,4 +228,4 @@ The idea of students self-identifying as octopi is due to MK.
 
 ---
 
-*Version 1.0 of 2017-02-05.*
+*Version 1.0.1 of 2017-02-06.*
