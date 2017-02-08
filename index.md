@@ -8,7 +8,7 @@ about.  Some are explanations of how I approach the world.  Some are
 just my attempts to think through a topic.
 
 Latest essay:
-[Reinventing the wheel](reinventing-the-wheel) (Essay #222)
+[Class notes and note takers](note-takers) (Essay #223)
 
 [Essays, by number](index-by-number.html)
 

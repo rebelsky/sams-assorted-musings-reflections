@@ -387,6 +387,10 @@ Reflections on some important issues
 > Way too many thoughts on finding harmony between the personal and
   the professional.
 
+[Class notes and note takers](note-takers) (Essay #223)
+
+> Thoughts on one type of accommodation.
+
 Rants
 -----
 

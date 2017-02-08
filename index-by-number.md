@@ -292,3 +292,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 
 [Adventures in binary search, part the third: Implementing binary search](cnix-binary-search-3) (Essay #221)  
 [Reinventing the wheel](reinventing-the-wheel) (Essay #222)  
+[Class notes and note takers](note-takers) (Essay #223)  
