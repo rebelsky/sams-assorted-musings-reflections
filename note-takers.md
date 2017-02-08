@@ -1,5 +1,5 @@
-Notes and note takers
-=====================
+Class notes and note takers
+===========================
 
 At the start of most semesters, someone in our Office of Disability Services
 sends a message like the following to all of the students in one or more of
@@ -79,10 +79,19 @@ most classes, which decreases the probability that we'll get a volunteer.
 Some may also worry that they don't take enough notes, or that they take
 incorrect notes.
 
-In the end, in most semesters, the students who need note takers make
-do with my eboards.  I think they suffice.  But I'd still like to see
-more students take notes, to see those students be willing to share 
-their notes, and perhaps even to see the notes that those students take.
+I will admit that if I were asked to share my notes from classes I was
+in (as opposed to classes I teach), I might also share that reluctance.
+I doodle a lot.  I include snarky comments.  I miss things that are said,
+and I record some things incorrectly.  My handwriting is atrocious [4].
+I don't know that my notes would be useful to anyone but me [5].  I might
+resent the extra effort to visit an office just to make photocopies,
+and the implication that my time is not valuable.
+
+Where does that leave us?  In the end, in most semesters, the students
+who need note takers make do with my eboards.  I think they suffice.
+But I'd still like to see more students take notes, to see those students
+be willing to share their notes, and perhaps even to see the notes that
+those students take.
 
 ---
 
@@ -99,6 +108,20 @@ class [3].
 I stopped putting the names of those students in the eboards, and did
 my best to erase any past records.
 
+[4] Looking at my notes, I think I wrote "atrocious".  It may have been
+"attributable" or "attractive" or perhaps even "delicious", although that
+seems like an odd way to describe my handwriting
+
+[5] In actuality, when I'm in meetings, I take electronic notes regularly
+and I share them with anyone who I think may want them or who asks
+nicely for them.  My notes are snarky (although probably not quite
+as snarky and nasty as I'd make them if they were just for myself).
+People who read them tell me that they are useful and sometimes funny.
+They also tell me that they are surprised that I can take notes and
+participate actively.  I think that's one of my super powers [6].
+
+[6] It may be my only super power.
+
 ---
 
-*Version 1.0 of 2017-02-07.*
+*Version 1.1 of 2017-02-07.*
