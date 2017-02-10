@@ -89,3 +89,7 @@ Almost everything else
 
 > I hate networks.
 
+[Dumb Amazon recommendations, episode 1](dumb-amazon-recommendations-01) (Essay #224)
+
+> Sam writes too much about too little.
+

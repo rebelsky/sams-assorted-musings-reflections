@@ -8,7 +8,7 @@ about.  Some are explanations of how I approach the world.  Some are
 just my attempts to think through a topic.
 
 Latest essay:
-[Class notes and note takers](note-takers) (Essay #223)
+[Dumb Amazon recommendations, episode 1](dumb-amazon-recommendations-01) (Essay #224)
 
 [Essays, by number](index-by-number.html)
 
