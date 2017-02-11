@@ -8,7 +8,7 @@ about.  Some are explanations of how I approach the world.  Some are
 just my attempts to think through a topic.
 
 Latest essay:
-[Dumb Amazon recommendations, episode 1](dumb-amazon-recommendations-01) (Essay #224)
+[Exam prologues and epilogues](exam-prologues-and-epilogues) (Essay #225)
 
 [Essays, by number](index-by-number.html)
 

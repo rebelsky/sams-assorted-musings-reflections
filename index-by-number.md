@@ -294,3 +294,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Reinventing the wheel](reinventing-the-wheel) (Essay #222)  
 [Class notes and note takers](note-takers) (Essay #223)  
 [Dumb Amazon recommendations, episode 1](dumb-amazon-recommendations-01) (Essay #224)  
+[Exam prologues and epilogues](exam-prologues-and-epilogues) (Essay #225)  
