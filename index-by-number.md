@@ -295,3 +295,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Class notes and note takers](note-takers) (Essay #223)  
 [Dumb Amazon recommendations, episode 1](dumb-amazon-recommendations-01) (Essay #224)  
 [Exam prologues and epilogues](exam-prologues-and-epilogues) (Essay #225)  
+[Complaints about captioning, take 1](complaints-about-captioning-01) (Essay #226)  

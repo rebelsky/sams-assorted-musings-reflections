@@ -8,7 +8,7 @@ about.  Some are explanations of how I approach the world.  Some are
 just my attempts to think through a topic.
 
 Latest essay:
-[Exam prologues and epilogues](exam-prologues-and-epilogues) (Essay #225)
+[Complaints about captioning, take 1](complaints-about-captioning-01) (Essay #226)
 
 [Essays, by number](index-by-number.html)
 

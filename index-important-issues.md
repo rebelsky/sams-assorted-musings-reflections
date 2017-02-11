@@ -66,3 +66,7 @@ Reflections on some important issues
 
 > Thoughts on one type of accommodation.
 
+[Complaints about captioning, take 1](complaints-about-captioning-01) (Essay #226)
+
+> What were we thinking? 
+
