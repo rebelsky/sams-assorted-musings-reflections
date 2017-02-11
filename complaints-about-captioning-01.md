@@ -28,10 +28,10 @@ graphic accessible.
 
 For all of these reasons, I tend to get frustrated when I see the College
 fail to caption videos appropriately.  Let's consider an example.
-[Ana Karin Kozjek '17 was just designated Midwest Conference Women's 
-Swimmer of the Week](https://www.youtube.com/watch?v=FTGSVzPpmys) [5,6].
-Let's compare what Ana and her interview, Ted Schultz, actually said
-to what appears in the video.
+Ana Karin Kozjek '17 [5] was just designated Midwest Conference Women's 
+Swimmer of the Week [6], and we've released an [interview video](https://www.youtube.com/watch?v=FTGSVzPpmys).
+Let's compare what Ana and her interviewer, Ted Schultz, actually said
+to what appears when you view captions in the video.
 
 Here's my attempt to transcribe the four-minute video.  
 
@@ -99,7 +99,7 @@ opportunity to see, like everything beside the show.
 
 > _TS: Yeah, yeah._
 
-> AKK: He's gets so annoyed.  He's going to get so annoyed by mentioning him.
+> AKK: He gets so annoyed.  He's going to get so annoyed by mentioning him.
 
 > _TS: [Laughs]_
 
@@ -254,6 +254,24 @@ for athletics to do the same.
 
 ---
 
+One of my readers asked if I chose Ana for this essay because she
+is an international student.  I did not.  It's just that I got the 
+video on my Twitter feed, and since she's a friend and teammate of
+my kids, I thought I'd watch it.  I put captions on because I like
+to watch videos with captions.
+
+Does Ana's accent make it harder for the captioning software?  Possibly.
+Does that matter?  No.  We shouldn't be relying on software.  
+Note that the captioning software has trouble with people who speak as
+clearly as Ted Schultz, too.  Check out the introduction to the
+[interview with a male swimmer](https://www.youtube.com/watch?v=LOQaJ3TFAuE).
+
+> hi there i'm here with [STUDENT NAME] he is a criminal [8]
+
+We should be taking the time to do the captioning ourselves.
+
+---
+
 [1] Or three or more.
 
 [2] I think there are cases in which the burden of accessibility is so high
@@ -265,13 +283,17 @@ next to the stage.
 
 [4] I think that ended up as a discarded "work in progress".
 
-[5] She's received this honor in the past, too.
+[5] Ana continues our series of awesomely talented students from Slovenia.
+Given our track record, we should find ways to attract more Slovenians.
 
-[6] Ana continues our series of awesomely talented students from Slovenia.
+[6] She's received this honor in the past, too.
 
 [7] Only our Social Media Specialist replied quickly, and she noted that
 she was not charged with anything having to do with those videos.
 
+[8] I've elided the student name so that a Web search doesn't bring
+up that phrase.
+
 ---
 
-*Version 1.0 of 2017-02-10.*
+*Version 1.1.1 of 2017-02-10.*
