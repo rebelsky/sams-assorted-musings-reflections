@@ -4,9 +4,10 @@ The white elephant in the room
 _Sam, you care deeply about people and about the state of the world.
 Why aren't you writing about the obvious issues?_
 
-Any time I read the newspaper, I feel depressed and hopeless.  I have
-no desire to write about these issues and feel more so.  I am, however, 
-encouraged by the activism of our students and many of my colleagues.
+Any time I read the newspaper or listen to the news, I feel depressed
+and hopeless.  I have no desire to write about these issues and feel
+more so.  I am, however, encouraged by the activism of our students and
+many of my colleagues.
 
 ---
 
@@ -16,9 +17,11 @@ will help.
 
 I suppose I could have done better by doing something with the parable
 of the blind men and the elephant.  However, as I noted, writing more
-about these issues just makes me feel worse.  I sincerely appreciate
-those of you who are taking an active role in trying to make a difference.  
-I hope that I do my part by supporting you as people.
+about these issues just makes me feel worse.  
+
+I sincerely appreciate those of you who are taking an active role in
+trying to make a difference.  I hope that I do my part by supporting
+you as people.
 
 ---
 
