@@ -16,14 +16,15 @@ will help.
 
 I suppose I could have done better by doing something with the parable
 of the blind men and the elephant.  However, as I noted, writing more
-about these issues just makes me feel worse.  I appreciate those of you
-who are taking an active role.  I hope that I do my part by supporting
-you as people.
+about these issues just makes me feel worse.  I sincerely appreciate
+those of you who are taking an active role in trying to make a difference.  
+I hope that I do my part by supporting you as people.
 
 ---
 
-This "essay" has no endnotes.  Deal.
+This "essay" has no endnotes.  Deal.  And yes, they are endnotes, not 
+footnotes.
 
 ---
 
-*Version 1.0 of 2017-02-??.*
+*Version 1.0 of 2017-02-11.*
