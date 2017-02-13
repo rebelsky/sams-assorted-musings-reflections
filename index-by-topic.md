@@ -952,6 +952,10 @@ categories.*
 
 > Can we find another term?
 
+[The department's restricted fund](restricted-fund) (Essay #228)
+
+> Or "unrestricted fund", as I like to think of it.
+
 Reviews and notes about things I enjoy
 --------------------------------------
 

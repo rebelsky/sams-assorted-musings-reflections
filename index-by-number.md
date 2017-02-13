@@ -297,3 +297,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Exam prologues and epilogues](exam-prologues-and-epilogues) (Essay #225)  
 [Complaints about captioning, take 1](complaints-about-captioning-01) (Essay #226)  
 [The white elephant in the room](white-elephant) (Essay #227)  
+[The department's restricted fund](restricted-fund) (Essay #228)  
