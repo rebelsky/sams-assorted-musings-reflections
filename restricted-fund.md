@@ -1,14 +1,14 @@
 The department's restricted fund
 ================================
 
-On Monday, we have our monthly meeting of the Dean with department and
-concentration chairs.  This month, it looks like we have a variety of
-topics to discuss, including what the faculty handbook says about the
-role of Chairs and planning for the new "Research Opportunities for All"
-initiative.  I don't know enough about most of the topics to prepare in
-any way for the meeting [1].  But one of the topics is "Gift Funds and
-Spending Requirements" and I *think* I know enough about that issue that
-it's worth reflecting a bit on the issue in advance of the meeting.
+On Monday, we have our monthly meeting of the Dean with department chairs
+[1].  This month, it looks like we have a variety of topics to discuss,
+including what the faculty handbook says about the role of Chairs
+and planning for the new "Research Opportunities for All" initiative.
+I don't know enough about most of the topics to prepare in any way for
+the meeting [3].  But one of the topics is "Gift Funds and Spending
+Requirements" and I *think* I know enough about that issue that it's
+worth reflecting a bit on the issue in advance of the meeting.
 
 Last fall, we received a message from Dean Latham that included the
 following note.
@@ -45,14 +45,14 @@ department.  Most of them want their money to be used sensibly, which
 means when we need it to be used, not when some policy says it should
 be used.
 
-But I'm a good citizen [4].  And so I made a plan to spend
+But I'm a good citizen [6].  And so I made a plan to spend
 reserves.  Fortunately, we had some large unplanned expenses,
 including buying stoles for the [Pledge of the Computing
 Professional](http://pledge-of-the-computing-professional.org/) as well
 as some larger-than-normal planned expenses, such as weekly lunches with
-the CS summer research community [5,6].
+the CS summer research community [7,8].
 
-But then last week, Kate Walker, the College's awesome treasurer [7] gave
+But then last week, Kate Walker, the College's awesome treasurer [9] gave
 a presentation at the Faculty Meeting about the state of the College's
 finances.  And part of that presentation was about how sensible we were
 to have a portfolio of reserves that we have set aside for difficulties 
@@ -84,26 +84,34 @@ departmental portfolios of reserves?_
 
 ---
 
-[1] Well, I can read pp. 11-13 of [The Faculty Handbook](http://web.grinnell.edu/dean/Handbook/FacultyHandbook.pdf) on the role of chairs [2,3].
+[1] It used to be the monthly meeting of department, concentration, and
+program chairs [2].  But I'm told that it's now just a meeting of department
+chairs.  I don't pay enough attention to know when the switch happened.
 
-[2] I could also read the PDF they sent us of a photocopied version of the printed handbook.  I think the original PDF is cleaner.
+[2] The first year, we ended up with three of the five tenure-line faculty
+at the meeting: I was there as Chair of CS, Jerod was there as Chair of
+Neuroscience, and Janet was there as Chair of the Wilson Program.
 
-[3] If I find time, I may write tomorrow's essay on the roles of chairs.
+[3] Well, I can read pp. 11-13 of [The Faculty Handbook](http://web.grinnell.edu/dean/Handbook/FacultyHandbook.pdf) on the role of chairs [4,5].
 
-[4] No.  Stop laughing.  Really.  Please?  Will you accept that once in a
+[4] I could also read the PDF they sent us of a photocopied version of the printed handbook.  I think the original PDF is cleaner.
+
+[5] If I find time, I may write tomorrow's essay on the roles of chairs.
+
+[6] No.  Stop laughing.  Really.  Please?  Will you accept that once in a
 while I go along with stupid rules?  Will you accept that I think that
 raising troublesome issues is part of good citizenship?  Ah hah!  See, I'm
 a good citizen.
 
-[5] They were larger than normal because we had more students than normal.
+[7] They were larger than normal because we had more students than normal.
 
-[6] Hmmm ... I wonder if I can make those lunches part of the regular CS
+[8] Hmmm ... I wonder if I can make those lunches part of the regular CS
 budget.  Probably not.
 
-[7] No, I'm not sucking up.  I don't always agree with Kate, but I
+[9] No, I'm not sucking up.  I don't always agree with Kate, but I
 appreciate most of what she does, and I really do think she has the
 College's best interests at heart.
 
 ---
 
-*Version 1.0 of 2017-02-12.*
+*Version 1.1 of 2017-02-13.*
