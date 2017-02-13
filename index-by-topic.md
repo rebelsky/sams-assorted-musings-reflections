@@ -395,6 +395,10 @@ Reflections on some important issues
 
 > What were we thinking? 
 
+[The white elephant in the room](white-elephant) (Essay #227)
+
+> Surviving America.
+
 Rants
 -----
 

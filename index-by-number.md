@@ -296,3 +296,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Dumb Amazon recommendations, episode 1](dumb-amazon-recommendations-01) (Essay #224)  
 [Exam prologues and epilogues](exam-prologues-and-epilogues) (Essay #225)  
 [Complaints about captioning, take 1](complaints-about-captioning-01) (Essay #226)  
+[The white elephant in the room](white-elephant) (Essay #227)  

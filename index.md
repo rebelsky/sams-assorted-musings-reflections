@@ -8,7 +8,7 @@ about.  Some are explanations of how I approach the world.  Some are
 just my attempts to think through a topic.
 
 Latest essay:
-[Complaints about captioning, take 1](complaints-about-captioning-01) (Essay #226)
+[The white elephant in the room](white-elephant) (Essay #227)
 
 [Essays, by number](index-by-number.html)
 
