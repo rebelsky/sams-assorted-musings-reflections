@@ -73,3 +73,7 @@ categories.*
 
 > Or "unrestricted fund", as I like to think of it.
 
+[Designing a handbook for our Student Educational Policy Committee](sepc-handbook-design) (Essay #230)
+
+> Helping our SEPC help themselves.
+

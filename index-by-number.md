@@ -299,3 +299,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [The white elephant in the room](white-elephant) (Essay #227)  
 [The department's restricted fund](restricted-fund) (Essay #228)  
 [Inbox zero, stage six](inbox-zero-06) (Essay #229)  
+[Designing a handbook for our Student Educational Policy Committee](sepc-handbook-design) (Essay #230)  
