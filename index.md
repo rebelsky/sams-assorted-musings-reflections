@@ -8,7 +8,7 @@ about.  Some are explanations of how I approach the world.  Some are
 just my attempts to think through a topic.
 
 Latest essay:
-[The department's restricted fund](restricted-fund) (Essay #228)
+[Inbox zero, stage six](inbox-zero-06) (Essay #229)
 
 [Essays, by number](index-by-number.html)
 

@@ -1170,6 +1170,10 @@ Almost everything else
 
 > Sam maintains zerosity (or fewosity).
 
+[Inbox zero, stage six](inbox-zero-06) (Essay #229)
+
+> Sam loses to the computer juggernaut
+
 [Thoughts on student graders](student-graders) (Essay #202)
 
 > Why we use them, or at least why *I* use them.
