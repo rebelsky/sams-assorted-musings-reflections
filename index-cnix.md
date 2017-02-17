@@ -47,6 +47,10 @@ Searching files with `find`
 
 > Another way to find things.
 
+[Command-line history](command-line-history) (Essay #232)
+
+> Remembering what you did (or letting the computer remember for you).
+
 ## Adventures of binary search
 
 [Adventures in binary search, part the first](cnix-binary-search-1) (Essay #219)

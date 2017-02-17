@@ -8,7 +8,7 @@ about.  Some are explanations of how I approach the world.  Some are
 just my attempts to think through a topic.
 
 Latest essay:
-[Designing a handbook for our Student Educational Policy Committee](sepc-handbook-design) (Essay #230)
+[Command-line history](command-line-history) (Essay #232)
 
 [Essays, by number](index-by-number.html)
 

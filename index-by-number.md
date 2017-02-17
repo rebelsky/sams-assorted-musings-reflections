@@ -300,3 +300,8 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [The department's restricted fund](restricted-fund) (Essay #228)  
 [Inbox zero, stage six](inbox-zero-06) (Essay #229)  
 [Designing a handbook for our Student Educational Policy Committee](sepc-handbook-design) (Essay #230)  
+
+## 231-240
+
+[Scheduling classes](scheduling-classes) (Essay #231)  
+[Command-line history](command-line-history) (Essay #232)  

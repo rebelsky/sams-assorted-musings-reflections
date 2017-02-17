@@ -632,6 +632,10 @@ Searching files with `find`
 
 > Another way to find things.
 
+[Command-line history](command-line-history) (Essay #232)
+
+> Remembering what you did (or letting the computer remember for you).
+
 ## Adventures of binary search
 
 [Adventures in binary search, part the first](cnix-binary-search-1) (Essay #219)
@@ -1209,6 +1213,10 @@ Almost everything else
 [Exam prologues and epilogues](exam-prologues-and-epilogues) (Essay #225)
 
 > A teaching approach I appreciate having learned.
+
+[Scheduling classes](scheduling-classes) (Essay #231)
+
+> One of my responsibilities.
 
 Removed
 -------

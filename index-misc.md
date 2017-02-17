@@ -101,3 +101,7 @@ Almost everything else
 
 > A teaching approach I appreciate having learned.
 
+[Scheduling classes](scheduling-classes) (Essay #231)
+
+> One of my responsibilities.
+
