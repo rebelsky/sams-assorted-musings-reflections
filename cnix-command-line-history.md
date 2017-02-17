@@ -184,7 +184,7 @@ typewriter-like machines.  It even happened during my lifetime.
 displays [16].
 
 [16] It's okay if you didn't get that joke.  But if you did, could you
-let me know?
+let me know, even if you didn't think it was funny?
 
 [17] Strangely enough, the down-arrow doesn't work when it's the first
 key you type.  It appears that you cannot look into your command future.
