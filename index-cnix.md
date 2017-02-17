@@ -47,7 +47,7 @@ Searching files with `find`
 
 > Another way to find things.
 
-[Command-line history](command-line-history) (Essay #232)
+[Command-line history](cnix-command-line-history) (Essay #232)
 
 > Remembering what you did (or letting the computer remember for you).
 
