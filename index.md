@@ -8,7 +8,7 @@ about.  Some are explanations of how I approach the world.  Some are
 just my attempts to think through a topic.
 
 Latest essay:
-[Priorities](priorities) (Essay #233)
+[New Grinnell traditions I appreciate: The Grinnell lecture](grinnell-trads-grinnell-lecture) (Essay #234)
 
 [Essays, by number](index-by-number.html)
 

@@ -65,6 +65,10 @@ categories.*
 
 > Ferguson, fish, and failure.
 
+[New Grinnell traditions I appreciate: The Grinnell lecture](grinnell-trads-grinnell-lecture) (Essay #234)
+
+> Celebrating scholarship.
+
 [Branding the College](branding) (Essay #218)
 
 > Can we find another term?
