@@ -42,13 +42,13 @@ rolls daily at 10:00 a.m. at Faculty House, or anywhere for that matter.
 We no longer have Friday afternoon social hour [12].  All of those events
 helped acclimate me to Grinnell, and introduced me to faculty I might not
 otherwise regularly meet [14].  I worry that the loss of these events has
-had an effect on faculty unity and perhaps even faculty governance.
+had an effect on faculty unity and perhaps even faculty governance [15].
 
 I find all three winners of the "Honored Grinnell Lecturer" award
 to be quite deserving.  They are excellent scholars and teachers.
 But I also know that we have lots of excellent scholars and teachers.
 Why do have only a few times per year in which our own faculty give
-lectures [15]?  I've written before about how much I value [Scholars'
+lectures [17]?  I've written before about how much I value [Scholars'
 Convocation](convocation).  If we had faculty do five-to-ten convocations
 each semester, filled in with the "distinguished speaker" convos and
 added the Grinnell writers program, we could have a full convocation
@@ -116,8 +116,16 @@ outside (or somewhere) while parents drank on the porch.
 [14] Many other events also contributed.  I find that summer workshops
 are one of the best ways to learn from and about my peers.
 
-[15] In addition to the Grinnell Lecture, the Dean's office sponsors the
-occasional "Hear about faculty research" lunches, primarily for the faculty,
+[15] I know that earlier I was complaining that we did not include staff,
+and now I'm complaining about the loss of faculty-only events.  Remember
+that foolish consistency is the hobgoblin of small minds [16].
+
+[16] I should know who said that.  Google tells me that Ralph Waldo
+Emerson said something close to that, although he used "little" rather
+than "small", and used an article at the front.
+
+[17] In addition to the Grinnell Lecture, the Dean's office sponsors the
+occasional "Hear about faculty research" lunches, primarily for the faculty.
 but perhaps also for the staff.
 
 ---
