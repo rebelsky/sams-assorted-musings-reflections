@@ -632,7 +632,7 @@ Searching files with `find`
 
 > Another way to find things.
 
-[Command-line history](command-line-history) (Essay #232)
+[Command-line history](cnix-command-line-history) (Essay #232)
 
 > Remembering what you did (or letting the computer remember for you).
 
@@ -1217,6 +1217,11 @@ Almost everything else
 [Scheduling classes](scheduling-classes) (Essay #231)
 
 > One of my responsibilities.
+
+[Priorities](priorities) (Essay #233)
+
+> Reflecting on them
+
 
 Removed
 -------

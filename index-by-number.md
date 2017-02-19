@@ -304,4 +304,5 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 ## 231-240
 
 [Scheduling classes](scheduling-classes) (Essay #231)  
-[Command-line history](command-line-history) (Essay #232)  
+[Command-line history](cnix-command-line-history) (Essay #232)  
+[Priorities](priorities) (Essay #233)  

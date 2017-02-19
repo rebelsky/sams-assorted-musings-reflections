@@ -105,3 +105,8 @@ Almost everything else
 
 > One of my responsibilities.
 
+[Priorities](priorities) (Essay #233)
+
+> Reflecting on them
+
+
