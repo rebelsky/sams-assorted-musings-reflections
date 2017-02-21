@@ -498,6 +498,10 @@ Why Grinnell staff with Ph.D's should be allowed to teach.
 
 > Nonsensical numbers and my failure to get explanations.
 
+[Date and time formats](date-formats-2017-02-19) (Essay #235)
+
+> On the perils of ambiguity.
+
 Assorted talks and speeches
 ---------------------------
 
