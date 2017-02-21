@@ -1230,6 +1230,9 @@ Almost everything else
 
 > Reflecting on them
 
+[Asking questions](asking-questions) (Essay #236)
+
+> An answer to one.
 
 Removed
 -------

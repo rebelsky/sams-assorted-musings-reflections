@@ -308,3 +308,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Priorities](priorities) (Essay #233)  
 [New Grinnell traditions I appreciate: The Grinnell lecture](grinnell-trads-grinnell-lecture) (Essay #234)  
 [Date and time formats](date-formats-2017-02-19) (Essay #235)  
+[Asking questions](asking-questions) (Essay #236)  

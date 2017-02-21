@@ -8,7 +8,7 @@ about.  Some are explanations of how I approach the world.  Some are
 just my attempts to think through a topic.
 
 Latest essay:
-[Date and time formats](date-formats-2017-02-19) (Essay #235)
+[Asking questions](asking-questions) (Essay #236)
 
 [Essays, by number](index-by-number.html)
 
