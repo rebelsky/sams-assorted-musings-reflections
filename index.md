@@ -8,7 +8,7 @@ about.  Some are explanations of how I approach the world.  Some are
 just my attempts to think through a topic.
 
 Latest essay:
-[Asking questions](asking-questions) (Essay #236)
+[A letter to our students](professional-email) (Essay #237)
 
 [Essays, by number](index-by-number.html)
 
