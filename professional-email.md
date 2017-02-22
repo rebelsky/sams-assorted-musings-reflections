@@ -37,7 +37,7 @@ CLS staff, before taking your correspondence to the CLS, have a friend
 read over it first.**
 
 And a third: **If you ask alumni nicely (see #8 and #9 below), many will
-also read through your cover letters before you send them.**
+also read through your cover letters to give you suggestions.**
 
 Okay, now on to some comments and criticisms from the cover letters that
 were shared with me.
@@ -126,3 +126,7 @@ about doing so [3].
 students.
 
 [4] "What you see is what you get"
+
+---
+
+*Version 1.0 of 2017-01-21.*
