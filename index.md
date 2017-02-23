@@ -8,7 +8,7 @@ about.  Some are explanations of how I approach the world.  Some are
 just my attempts to think through a topic.
 
 Latest essay:
-[A letter to our students](professional-email) (Essay #237)
+[A draft MathLANifesto](mathlanifesto-draft00) (Essay #238)
 
 [Essays, by number](index-by-number.html)
 

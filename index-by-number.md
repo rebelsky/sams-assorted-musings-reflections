@@ -310,3 +310,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Date and time formats](date-formats-2017-02-19) (Essay #235)  
 [Asking questions](asking-questions) (Essay #236)  
 [A letter to our students](professional-email) (Essay #237)  
+[A draft MathLANifesto](mathlanifesto-draft00) (Essay #238)  

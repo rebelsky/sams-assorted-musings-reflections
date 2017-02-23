@@ -182,6 +182,10 @@ Connecting to our Community
   on some of the reasons that I study CS, but also reasons that students
   might want to study CS.
 
+[A draft MathLANifesto](mathlanifesto-draft00) (Essay #238)
+
+> Some more thoughts about our approach to teaching.
+
 For prospective faculty
 -----------------------
 
