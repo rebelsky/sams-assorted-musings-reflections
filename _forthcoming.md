@@ -3,6 +3,7 @@ Some forthcoming essays
 
 *Reminder: Look through some of the indices for other forthcoming essays.*
 
+* Essay ??? (Technical): Shell variables
 * Essay ??? (Technical): Bash-basics: Command-line patterns
 * Essay ??? (Technical): Bash Basics: File Permissions
 * Essay ??? (Technical): Bash-basics: I/O redirection
@@ -18,17 +19,9 @@ my goals.*
 
 1. (Semi-technical): Resetting passwords.
 
-1. The white elephant in the room (?) (mixed metaphors).  "Sam,
-why aren't you writing about the obvious issues?"  "Any time I
-read the newspaper, I feel depressed and hopeless.  I have no
-desire to write more and feel more so.  I am, however, encouraged
-by the activism of our students."
-
 1. Academic geneaology.
 
 1. GrinnellParents listserv.
-
-1. Times and Dates - format thereof.
 
 1. November 11th (in a year.)
 
@@ -51,12 +44,12 @@ think that fits.  I just don't write enough argumentative essays.
 
 1. "relatable"
 
-1. The things Amazon comes up with: Summary and Analysis of How to Read Literature Like a Professor: Based on the Book by Thomas C. Foster by Worth Books
-https://www.amazon.com/gp/product/B01MQSVSZ0/ref=em_si_text
-
 1. Misreadings: "Modern Python demands modern techniques" vs. "Monty
 Python demands modern techniques".  (There was the one about choosing
 schools vs closing schools)
+
+1. Lambert publishing.  (See email from Anastasia Olaru dated 9 February
+   2017.)
 
 ---
 
@@ -69,13 +62,15 @@ the top.*
 
 1. Inbox zero.  A multi-part story.
 
+1. HFOSS.
+
 1. <https://www.masterclass.com/classes/james-patterson-teaches-writing#/>
 
 1. The new slogan(s).
 
 1. CVs (or short CVs)  https://chroniclevitae.com/news/1662-how-to-shorten-a-cv
 
-1. Letter from Harley about Ann Pratchett (see end of these notes).
+1. Facebook memory about overwork.
 
 1. Recommendations (again).  Great quote from Amy something on 
 https://chroniclevitae.com/news/1657-claiming-your-right-to-say-no
@@ -101,6 +96,8 @@ http://paulgraham.com/essay.html.  (Part of "Better writers than I")
 1. Jekyll - Better markup (?)
 
 1. Peer educators' handbook.
+
+1. SEPC handbook.
 
 1. Words for snow (or better essayists than I).
 http://www.lel.ed.ac.uk/~gpullum/EskimoHoax.pdf
@@ -561,17 +558,9 @@ Software for indexing these pages.
 
 ---
 
-Harley's email
+Facebook memories
 
-Sam,
+Samuel Rebelsky
+February 24, 2012 ·
 
-I have repeatedly told Grace to not hesitate to ask questions in class. I tell her, no matter how dumb she thinks the question is, there will be others in class who are glad she asked it. So, now I’m reading Ann Patchett’s novel State of Wonder (and not really liking it much), and the character Dr. Swenson says, “ . . . I didn’t keep office hours. I never believed in them. Questions are for the benefit of every student, not just the one raising his hand.”
-
-What say you?
-
-Muddying the point a bit (but you might identify with what she says), she goes on to say, “If you don’t have the starch to stand up in class and admit what you don’t understand, then I don’t have the time to explain it to you. If you don’t have a policy against nonsense you can wind up with a dozen timid little rabbits lined up in the hall outside your office, all waiting to whisper the same imbecilic question in your ear.”
-
-I know, I know. You’re not the one to share that last bit with . . . but Ira’s not in town anymore.
-
-H.
-
+Okay, I'm on leave from teaching. Why am I still finding that I have more work to do than I feel like I can physically do? (Some answers: I'm still doing lots of administrative work as department chair and a member of too many committees, the classes I'm taking take time, and thinking about studio art projects is really engaging.)
