@@ -1246,6 +1246,10 @@ Almost everything else
 
 > More thoughts on my professional life.
 
+[A few quick reasons I love Grinnell students](isu-hackathon-2017-02-24) (Essay #240)
+
+> Students in leadership roles.
+
 Removed
 -------
 

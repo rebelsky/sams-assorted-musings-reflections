@@ -8,7 +8,7 @@ about.  Some are explanations of how I approach the world.  Some are
 just my attempts to think through a topic.
 
 Latest essay:
-[Office hours](office-hours) (Essay #239)
+[A few quick reasons I love Grinnell students](isu-hackathon-2017-02-24) (Essay #240)
 
 [Essays, by number](index-by-number.html)
 
