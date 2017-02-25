@@ -2,13 +2,13 @@ A few quick reasons I love Grinnell students
 ============================================
 
 Believe it or not, but I was planning on writing a longer essay today [1].
-However, when I say down to write my essay, I also reviewed my incoming
+However, when I sat down to write my essay, I also reviewed my incoming
 email [2].  A few messages that I'd received from students reminded me
 about why Grinnell students are awesome.
 
-Let's start with some context.  ISU [3] is sponsorting a hackathon
-[4] this weekend.  A few weeks ago, a student started planning for
-allowing lots of students to attend.  He sent out a message to the CS
+Let's start with some context.  ISU [3] is sponsoring a hackathon [4]
+this weekend.  A few weeks ago, a student started planning for ways
+to allow a lot of students to attend.  He sent out a message to the CS
 students mailing list [7].  He talked to the department chair of CS [8]
 to see if we'd pay for transportation [9], or at least front the cost
 of transportation, since ISU had some money to reimburse attendees [10].
@@ -21,10 +21,10 @@ decided that traveling was too risky.  Eventually, even though they
 were permitted to take the vans, the drivers agreed that the storm
 seemed to be hitting Ames [15] badly enough that they didn't want to
 risk driving.  And so they did the sensible thing: They decided to host
-their own hack-a-thon, and asked me for money for food [16].  This
+their own hack-a-thon and asked me for money for food [16].  This
 hack-a-thon is more reasonable; they are only spending eight hours 
 on it.  In some sense, it's like a shorter version of the Gamewerks
-assignment or the Worm lab [17].  But they are arranging everything.
+assignment or the Galaxy lab [17].  But they are arranging everything.
 
 I was happy about that.  But then I got an email message from another
 student, one of the cadre of first-year students who weren't included
@@ -43,10 +43,10 @@ difference they will make in the world.
 ---
 
 [1] More precisely, when I sat down to write this essay, I had just gotten
-up from a two-plus-hour nap, and was rested enough that I was planning on
+up from a two-plus-hour nap and was rested enough that I was planning on
 writing a longer essay.  Maybe I'll still do so.
 
-[2] Software foulups mean that I'm not at inbox zero.  But that doens't
+[2] Software foul ups mean that I'm not at inbox zero.  But that doesn't
 mean that I shouldn't try to do some processing of my email.
 
 [3] Iowa State University.
@@ -96,4 +96,4 @@ donations help.
 
 ---
 
-*Version 1.0 of 2017-02-24.*
+*Version 1.0.3 of 2017-02-25.*
