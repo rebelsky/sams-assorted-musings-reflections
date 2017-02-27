@@ -313,3 +313,7 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [A draft MathLANifesto](mathlanifesto-draft00) (Essay #238)  
 [Office hours](office-hours) (Essay #239)  
 [A few quick reasons I love Grinnell students](isu-hackathon-2017-02-24) (Essay #240)  
+
+## 241-250
+
+[Some classes that influenced me](influential-classes) (Essay #241)  

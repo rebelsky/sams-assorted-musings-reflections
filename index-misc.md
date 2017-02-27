@@ -125,3 +125,7 @@ Almost everything else
 
 > Students in leadership roles.
 
+[Some classes that influenced me](influential-classes) (Essay #241)
+
+> Appreciating learning.
+
