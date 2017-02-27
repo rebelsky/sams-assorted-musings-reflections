@@ -5,8 +5,8 @@ Within the next few months, the College will be hiring a full-time
 Linux system administrator to support the Linux systems on campus,
 including [MathLAN](mathlan), the Library's various Web services, the
 high-performance computing cluster [1], and other such systems.  My colleague,
-[John Stone], has suggested that we put together a statement of
-educational principles that ground our use of Linux to better inform
+[John Stone](john-stone), has suggested that we put together a statement
+of educational principles that ground our use of Linux to better inform
 not only the search process, but also the candidates for the position.
 
 John prepared an excellent draft, and we spent some time today discussing
@@ -146,10 +146,10 @@ issues that caused me to reflect for more than a moment.
   issue](https://www.grammarly.com/blog/parallelism-with-not-only-but-also/)
   notes that the comma is acceptable.
 * "*There has also been discussion on Grinnell Plans*".  Grammarly suggests
-  that I add an article.  I'm not sure how I feel about that suggestion.
-  But the Joe Williams voice in my brain [8] is telling me that I
-  shouldn't be using nominalizations in the first place.  So you won't find
-  that sentence any more.
+  that I add an article to "discussion".  I'm not sure how I feel about
+  that suggestion.  But the Joe Williams voice in my brain [8] is telling
+  me that I shouldn't be using nominalizations in the first place.
+  So you won't find that sentence any more.
 * "*followup discussions with some colleagues in Mathematics and Statistics*".
   Grammarly suggests that I use "follow-up".
   [The Grammarist](http://grammarist.com/usage/follow-up-followup/) says
@@ -167,7 +167,7 @@ issues that caused me to reflect for more than a moment.
   that I drop articles a lot when I use an adjective.  I'd write "have
   an impact" rather than "have impact", so why don't I want to write
   "have a societal impact"?  I need to talk to someone about that.
-* "I realize that very few people read source code."  Grammarly tells
+* "*I realize that very few people read source code.*"  Grammarly tells
   me to write "the source code".  It's wrong.
 
 That was fun, but probably not a good use of my time.  If I paid for
@@ -176,4 +176,4 @@ doesn't seem worth it.
 
 ---
 
-*Version 1.0 of 2017-02-22.*
+*Version 1.0.1 of 2017-02-22.*
