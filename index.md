@@ -8,7 +8,7 @@ about.  Some are explanations of how I approach the world.  Some are
 just my attempts to think through a topic.
 
 Latest essay:
-[Some classes that influenced me](influential-classes) (Essay #241)
+[Things I write](things-i-write) (Essay #242)
 
 [Essays, by number](index-by-number.html)
 

@@ -129,3 +129,7 @@ Almost everything else
 
 > Appreciating learning.
 
+[Things I write](things-i-write) (Essay #242)
+
+> Okay, a selection of things I write (other than essays).
+
