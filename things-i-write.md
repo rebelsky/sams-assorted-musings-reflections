@@ -1,5 +1,5 @@
-Things I write
-==============
+Some things I write (other than these essays)
+=============================================
 
 I spent all of today writing [1], but I spent none of today [3] writing essays.
 Yes, that's right, as a faculty member, I have lots of other kinds of writing

@@ -317,4 +317,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 ## 241-250
 
 [Some classes that influenced me](influential-classes) (Essay #241)  
-[Things I write](things-i-write) (Essay #242)  
+[Some things I write (other than these essays)](things-i-write) (Essay #242)  

@@ -8,7 +8,7 @@ about.  Some are explanations of how I approach the world.  Some are
 just my attempts to think through a topic.
 
 Latest essay:
-[Things I write](things-i-write) (Essay #242)
+[Some things I write (other than these essays)](things-i-write) (Essay #242)
 
 [Essays, by number](index-by-number.html)
 

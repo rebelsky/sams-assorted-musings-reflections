@@ -1254,9 +1254,9 @@ Almost everything else
 
 > Appreciating learning.
 
-[Things I write](things-i-write) (Essay #242)
+[Some things I write (other than these essays)](things-i-write) (Essay #242)
 
-> Okay, a selection of things I write (other than essays).
+> Okay, a selection of such things.
 
 Removed
 -------
