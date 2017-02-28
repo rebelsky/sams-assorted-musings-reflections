@@ -8,7 +8,7 @@ about.  Some are explanations of how I approach the world.  Some are
 just my attempts to think through a topic.
 
 Latest essay:
-[Some things I write (other than these essays)](things-i-write) (Essay #242)
+[A week in the life of a char](chair-week) (Essay #243)
 
 [Essays, by number](index-by-number.html)
 
