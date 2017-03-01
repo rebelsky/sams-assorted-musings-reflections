@@ -133,7 +133,7 @@ Almost everything else
 
 > Okay, a selection of such things.
 
-[A week in the life of a char](chair-week) (Essay #243)
+[A week in the life of a chair](chair-week) (Essay #243)
 
 > Joyous and interesting.
 
