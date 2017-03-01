@@ -42,7 +42,7 @@ the department [6].
 I made a few updates to the departmental mailing lists [7].
 
 We're in the midst of setting schedules for next year.  I communicated
-with the Registrar's office about a variety of issues: They sent met
+with the Registrar's office about a variety of issues: They sent me
 questions on room choices and on course descriptions, I both replied
 to those messages and also sent them an update on room preferences for
 one of our classes.  I also ended up talking to a colleague about the
@@ -222,4 +222,4 @@ some reason or other, they decided to call a "Pebbie".
 
 ---
 
-*Version 1.0 of 2017-02-27.*
+*Version 1.0.1 of 2017-02-28.*
