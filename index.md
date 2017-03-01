@@ -8,7 +8,7 @@ about.  Some are explanations of how I approach the world.  Some are
 just my attempts to think through a topic.
 
 Latest essay:
-[A week in the life of a chair](chair-week) (Essay #243)
+[Seven months of daily essays](seven-months) (Essay #244)
 
 [Essays, by number](index-by-number.html)
 

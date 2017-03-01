@@ -46,7 +46,11 @@ Essays on writing, or at least on writing my essays
 
 [Six months of daily essays](six-months) (Essay #215)
 
->  Let's see ... 215 - 173 is 42.  Those are pretty strange months.
+> Let's see ... 215 - 173 is 42.  Those are pretty strange months.
+
+[Seven months of daily essays](seven-months) (Essay #244)
+
+> Alternatively, "six consecutive months of daily essays".
 
 [On making, breaking, and remaking the habit of daily writing](habit-of-writing.html) (Essay #41)
 
