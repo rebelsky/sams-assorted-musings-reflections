@@ -47,7 +47,7 @@ had an effect on faculty unity and perhaps even faculty governance [15].
 I find all three winners of the "Honored Grinnell Lecturer" award
 to be quite deserving.  They are excellent scholars and teachers.
 But I also know that we have lots of excellent scholars and teachers.
-Why do have only a few times per year in which our own faculty give
+Why do we have only a few times per year in which our own faculty give
 lectures [17]?  I've written before about how much I value [Scholars'
 Convocation](convocation).  If we had faculty do five-to-ten convocations
 each semester, filled in with the "distinguished speaker" convos and
@@ -130,4 +130,4 @@ but perhaps also for the staff.
 
 ---
 
-*Version 1.0 of 2017-02-18.*
+*Version 1.0.1 of 2017-02-28.*
