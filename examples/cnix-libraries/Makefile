@@ -34,6 +34,30 @@ gcd: gcd.o libmathlib.a
 test-gcd: test-gcd.o libmathlib.a
 	$(CC) $(.IMPSRC) $(LDLIBS) -o $(.TARGET)
 
+dist: mathlib-gcd.c mathlib-str2long.c Makefile mathlib.h test-gcd.c
+	rm -rf mathlib-0.1
+	mkdir mathlib-0.1
+	cp $^ mathlib-0.1
+	tar cvzf mathlib-0.1.tgz mathlib-0.1
+	rm -rf mathlib-0.1
+
+PROJECT = mathlib
+VERSION = 0.1
+PROJDIR = $(PROJECT).$(VERSION)
+TARBALL = $(PROJECT).$(VERSION).tgz
+SOURCES = mathlib-gcd.c mathlib-str2long.c
+HEADERS = mathlib.h
+TESTING = test-gcd.c
+MORESRC = Makefile
+PRJDIST = $(SOURCES) $(HEADERS) $(TESTING) $(MORESRC)
+
+dist2: $(PRJDIST)
+	rm -rf $(PROJDIR)
+	mkdir $(PROJDIR)
+	cp $^ $(PROJDIR)
+	tar cvzf $(TARBALL) $(PROJDIR)
+	rm -rf $(PROJDIR)
+
 # +-------------------------+----------------------------------------
 # | Additional Dependencies |
 # +-------------------------+

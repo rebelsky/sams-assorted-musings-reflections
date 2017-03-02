@@ -320,3 +320,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Some things I write (other than these essays)](things-i-write) (Essay #242)  
 [A week in the life of a chair](chair-week) (Essay #243)  
 [Seven months of daily essays](seven-months) (Essay #244)  
+[Standard Make targets](cnix-make-standard-targets) (Essay #245)  

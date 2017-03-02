@@ -8,7 +8,7 @@ about.  Some are explanations of how I approach the world.  Some are
 just my attempts to think through a topic.
 
 Latest essay:
-[Seven months of daily essays](seven-months) (Essay #244)
+[Standard Make targets](cnix-make-standard-targets) (Essay #245)
 
 [Essays, by number](index-by-number.html)
 

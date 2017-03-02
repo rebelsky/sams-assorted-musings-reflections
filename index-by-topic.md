@@ -728,7 +728,7 @@ course.
 
 > Making your Makefiles more general and more concise.
 
-Standard Make targets
+[Standard Make targets](cnix-make-standard-targets) (Essay #245)
 
 > Things you should expect to see in a typical Makefile (and to put
   in your own Makefiles).
