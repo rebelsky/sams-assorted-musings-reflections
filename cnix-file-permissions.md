@@ -274,4 +274,4 @@ groups from some time period.  The `mathfac` group is all faculty.
 
 ---
 
-*Version 1.0 of 2017-01-XX.*
+*Version 1.0 of 2017-03-02.*
