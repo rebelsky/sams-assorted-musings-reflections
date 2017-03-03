@@ -625,6 +625,10 @@ Introduction, part 4: Thinking like SamR
   a bit of information on files and directories.  I hope that this is
   mostly review.
 
+[File permissions](cnix-file-permissions) (Essay #246)
+
+> Who can read what you write, or write what you read?
+
 ## Miscellaneous Unix Topics
 
 [`grep` and regular expressions](cnix-grep-regexp) (Essay #199)
