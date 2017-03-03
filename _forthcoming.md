@@ -3,11 +3,10 @@ Some forthcoming essays
 
 *Reminder: Look through some of the indices for other forthcoming essays.*
 
+* Essay ??? (Technical): Your own commands
 * Essay ??? (Technical): Shell variables
 * Essay ??? (Technical): Bash-basics: Command-line patterns
-* Essay ??? (Technical): Bash Basics: File Permissions
 * Essay ??? (Technical): Bash-basics: I/O redirection
-* Essay ??? (Technical): Standard Make Targets.
 
 ---
 
@@ -176,9 +175,6 @@ I seem to remember more than most people.  Or maybe I just care more.
 the weirdness of the papers getting the opposite responses that I
 expected.)
 
-1. Used (pre-owned), Copied, Borrowed, Reissued: Moral and Legal issues
-   in obtaining creative works.
-
 1. Family First (comment that "Family comes before students.")
 
 1. Becoming Deadwood.  (As you may know, after many years at an institution,
@@ -227,8 +223,6 @@ the US in the world.)
 1. Collaboration.  (Or why some committees succeed better than others.)
 
 1. FAQ (Should I really write this?)
-
-1. Studying at Grinnell. (Compared to other institutions.)
 
 1. Outreach.
 
@@ -564,3 +558,7 @@ Samuel Rebelsky
 February 24, 2012 ·
 
 Okay, I'm on leave from teaching. Why am I still finding that I have more work to do than I feel like I can physically do? (Some answers: I'm still doing lots of administrative work as department chair and a member of too many committees, the classes I'm taking take time, and thinking about studio art projects is really engaging.)
+
+---
+
+Here's an honest question that sounds snarky no matter how I phrase it: why subscribe to something like Grammarly and put up with all its frustrations when you could just keep a style manual near your keyboard and pay attention to what you write?
