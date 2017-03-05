@@ -190,6 +190,10 @@ Connecting to our Community
 
 > Some more thoughts about our approach to teaching.
 
+[Outcomes of a liberal arts education](liberal-arts-education) (Essay #248)
+
+> Why study at a liberal arts college?
+
 For prospective faculty
 -----------------------
 
@@ -1269,6 +1273,10 @@ Almost everything else
 [A week in the life of a chair](chair-week) (Essay #243)
 
 > Joyous and interesting.
+
+[Campus speakers](campus-speakers) (Essay #247)
+
+> And today's climate.
 
 Removed
 -------

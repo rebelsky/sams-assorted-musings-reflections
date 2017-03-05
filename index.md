@@ -8,7 +8,7 @@ about.  Some are explanations of how I approach the world.  Some are
 just my attempts to think through a topic.
 
 Latest essay:
-[File permissions](cnix-file-permissions) (Essay #246)
+[Outcomes of a liberal arts education](liberal-arts-education) (Essay #248)
 
 [Essays, by number](index-by-number.html)
 

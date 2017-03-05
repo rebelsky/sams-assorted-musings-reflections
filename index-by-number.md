@@ -322,3 +322,5 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Seven months of daily essays](seven-months) (Essay #244)  
 [Standard Make targets](cnix-make-standard-targets) (Essay #245)  
 [File permissions](cnix-file-permissions) (Essay #246)  
+[Campus speakers](campus-speakers) (Essay #247)  
+[Outcomes of a liberal arts education](liberal-arts-education) (Essay #248)  

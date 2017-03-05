@@ -137,3 +137,7 @@ Almost everything else
 
 > Joyous and interesting.
 
+[Campus speakers](campus-speakers) (Essay #247)
+
+> And today's climate.
+

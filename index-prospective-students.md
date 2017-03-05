@@ -57,3 +57,7 @@ Connecting to our Community
 
 > Some more thoughts about our approach to teaching.
 
+[Outcomes of a liberal arts education](liberal-arts-education) (Essay #248)
+
+> Why study at a liberal arts college?
+
