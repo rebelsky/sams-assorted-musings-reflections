@@ -1,6 +1,9 @@
 C library design: Arbitrarily large integers
 ============================================
 
+**Part of an ongoing series of essays tentatively entitled _Don't embarrass
+me, Don't embarrass yourself: Notes on thinking in C and Unix_.**
+
 As C programmers develop their skills, they eventually find that they want
 to build utility code that both they and their colleagues can use.  Such
 utility code often goes in libraries.  Like much design, successful library
@@ -166,4 +169,4 @@ value we use to represent ALInts.
 
 ---
 
-*Version 1.0 of 2017-03-05.*
+*Version 1.0.1 of 2017-03-05.*
