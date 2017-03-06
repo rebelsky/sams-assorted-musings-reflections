@@ -8,7 +8,7 @@ about.  Some are explanations of how I approach the world.  Some are
 just my attempts to think through a topic.
 
 Latest essay:
-[Outcomes of a liberal arts education](liberal-arts-education) (Essay #248)
+[Designing a C library: Arbitrarily large integers](cnix-alint-library) (Essay #249)
 
 [Essays, by number](index-by-number.html)
 

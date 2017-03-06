@@ -110,6 +110,10 @@ on program design.
 
 > Programmers know how to build their own libraries.
 
+[Designing a C library: Arbitrarily large integers](cnix-alint-library) (Essay #249)
+
+> An example
+
 Using C Libraries
 
 > Good programmers also know how to use libraries (and what libraries might

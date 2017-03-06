@@ -324,3 +324,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [File permissions](cnix-file-permissions) (Essay #246)  
 [Campus speakers](campus-speakers) (Essay #247)  
 [Outcomes of a liberal arts education](liberal-arts-education) (Essay #248)  
+[Designing a C library: Arbitrarily large integers](cnix-alint-library) (Essay #249)  
