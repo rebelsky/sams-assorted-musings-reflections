@@ -326,3 +326,7 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Outcomes of a liberal arts education](liberal-arts-education) (Essay #248)  
 [Designing a C library: Arbitrarily large integers](cnix-alint-library) (Essay #249)  
 [How are you, Sam?](how-are-you-sam) (Essay #250)  
+
+## 251-260
+
+[The joy of administrative processes](administrative-processes-sepc) (Essay #251)  

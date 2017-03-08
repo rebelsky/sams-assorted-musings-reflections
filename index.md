@@ -8,7 +8,7 @@ about.  Some are explanations of how I approach the world.  Some are
 just my attempts to think through a topic.
 
 Latest essay:
-[How are you, Sam?](how-are-you-sam) (Essay #250)
+[The joy of administrative processes](administrative-processes-sepc) (Essay #251)
 
 [Essays, by number](index-by-number.html)
 

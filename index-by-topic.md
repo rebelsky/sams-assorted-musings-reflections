@@ -514,6 +514,10 @@ Why Grinnell staff with Ph.D's should be allowed to teach.
 
 > On the perils of ambiguity.
 
+[The joy of administrative processes](administrative-processes-sepc) (Essay #251)
+
+> Trying to get money for the CS SEPC.
+
 Assorted talks and speeches
 ---------------------------
 
