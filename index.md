@@ -8,7 +8,7 @@ about.  Some are explanations of how I approach the world.  Some are
 just my attempts to think through a topic.
 
 Latest essay:
-[The joy of administrative processes](administrative-processes-sepc) (Essay #251)
+[Tipping hotel housekeeping](tipping-housekeeping) (Essay #252)
 
 [Essays, by number](index-by-number.html)
 

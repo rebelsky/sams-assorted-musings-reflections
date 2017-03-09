@@ -145,3 +145,7 @@ Almost everything else
 
 > How I answer that question.
 
+[Tipping hotel housekeeping](tipping-housekeeping) (Essay #252)
+
+> Why to do so.
+
