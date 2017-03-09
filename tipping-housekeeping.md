@@ -1,5 +1,5 @@
-Tipping housekeeping at hotels
-==============================
+Tipping hotel housekeeping
+==========================
 
 Both Michelle and I grew up with mothers who always left a tip for
 housekeeping when they stayed in hotels.  Michelle's mother even taught
