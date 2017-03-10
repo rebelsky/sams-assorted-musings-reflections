@@ -331,3 +331,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 
 [The joy of administrative processes](administrative-processes-sepc) (Essay #251)  
 [Tipping hotel housekeeping](tipping-housekeeping) (Essay #252)  
+[Enjoying listserv chaos](listserv-chaos) (Essay #253)  

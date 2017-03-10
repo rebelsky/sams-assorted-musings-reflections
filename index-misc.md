@@ -149,3 +149,7 @@ Almost everything else
 
 > Why to do so.
 
+[Enjoying listserv chaos](listserv-chaos) (Essay #253)
+
+> Watching computer professionals be unprofessioanl
+

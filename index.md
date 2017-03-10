@@ -8,7 +8,7 @@ about.  Some are explanations of how I approach the world.  Some are
 just my attempts to think through a topic.
 
 Latest essay:
-[Tipping hotel housekeeping](tipping-housekeeping) (Essay #252)
+[Enjoying listserv chaos](listserv-chaos) (Essay #253)
 
 [Essays, by number](index-by-number.html)
 
