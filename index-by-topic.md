@@ -1214,6 +1214,10 @@ Almost everything else
 
 > Sam loses to the computer juggernaut
 
+["Sam, you are on too many mailing lists.](mailing-lists) (Essay #254)
+
+> Some of the reasons Inbox zero is difficult.
+
 [Thoughts on student graders](student-graders) (Essay #202)
 
 > Why we use them, or at least why *I* use them.
@@ -1294,7 +1298,7 @@ Almost everything else
 
 > Why to do so.
 
-[Enjoying listserv chaos](listserv-chaos) (Essay #253)
+[Enjoying listserve chaos](listserve-chaos) (Essay #253)
 
 > Watching computer professionals be unprofessioanl
 
