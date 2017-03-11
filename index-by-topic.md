@@ -1214,7 +1214,7 @@ Almost everything else
 
 > Sam loses to the computer juggernaut
 
-["Sam, you are on too many mailing lists.](mailing-lists) (Essay #254)
+["Sam, you are on too many mailing lists"](mailing-lists) (Essay #254)
 
 > Some of the reasons Inbox zero is difficult.
 

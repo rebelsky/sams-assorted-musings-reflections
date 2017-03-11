@@ -332,4 +332,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [The joy of administrative processes](administrative-processes-sepc) (Essay #251)  
 [Tipping hotel housekeeping](tipping-housekeeping) (Essay #252)  
 [Enjoying listserve chaos](listserve-chaos) (Essay #253)  
-["Sam, you are on too many mailing lists.](mailing-lists) (Essay #254)  
+["Sam, you are on too many mailing lists"](mailing-lists) (Essay #254)  
