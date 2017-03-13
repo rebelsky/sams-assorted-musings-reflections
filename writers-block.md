@@ -24,13 +24,15 @@ early-career faculty and tenured faculty, the department's collegiality
 in selecting students, and more.  That previous sentence [4] illustrates
 some of the difficulty I was having.
 
-Given those problems, it's probably best that I don't write about 
-other equally substantive issues, like codes of conduct, or about
-technical concepts, such as the next embarrassing essay in the
-"[Don't Embarrass Me; Don't Embarrass Yourself](index-cnix)" series.
-My muse was not enthusiastic about many less substantive topics.
+Given those problems, it's probably best that I don't write about other
+equally substantive issues, like codes of conduct, or about technical
+concepts, such as the next embarrassing essay in the "[Don't Embarrass
+Me; Don't Embarrass Yourself](index-cnix)" series.  It certainly wasn't
+the day to write a new introduction to this series of essays, inspired
+by conversations at SIGCSE.  However, my muse was not enthusiastic about
+many less substantive topics.
 
-But it's important that I write every day, even if the writing is not
+Nonetheless, it's important that I write every day, even if the writing is not
 always successful.  And so we are left with this musing [6].  Getting
 things down has led me to realize that there are at three characters
 working in my head.  As you know, my muse chooses [7] the topics I write
