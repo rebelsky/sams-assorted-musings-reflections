@@ -81,3 +81,7 @@ categories.*
 
 > Helping our SEPC help themselves.
 
+[A draft handbook for the Computer Science SEPC](sepc-handbook-draft-2017-03-11) (Essay #255)
+
+> Further help.
+

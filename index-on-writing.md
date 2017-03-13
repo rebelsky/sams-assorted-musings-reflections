@@ -128,3 +128,7 @@ Essays on writing, or at least on writing my essays
 
 > Some additional reasons I wrote the "don't embarrass me" series.
 
+[Writer's block](writers-block) (Essay #256)
+
+> On missing the third (?) voice in my head.
+

@@ -131,6 +131,10 @@ Essays on writing, or at least on writing my essays
 
 > Some additional reasons I wrote the "don't embarrass me" series.
 
+[Writer's block](writers-block) (Essay #256)
+
+> On missing the third (?) voice in my head.
+
 For prospective students, parents of prospective students, and others with similar interests
 --------------------------------------------------------------------------------------------
 
@@ -995,6 +999,10 @@ categories.*
 [Designing a handbook for our Student Educational Policy Committee](sepc-handbook-design) (Essay #230)
 
 > Helping our SEPC help themselves.
+
+[A draft handbook for the Computer Science SEPC](sepc-handbook-draft-2017-03-11) (Essay #255)
+
+> Further help.
 
 Reviews and notes about things I enjoy
 --------------------------------------

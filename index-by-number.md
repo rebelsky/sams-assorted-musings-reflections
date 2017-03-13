@@ -333,3 +333,5 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Tipping hotel housekeeping](tipping-housekeeping) (Essay #252)  
 [Enjoying listserve chaos](listserve-chaos) (Essay #253)  
 ["Sam, you are on too many mailing lists"](mailing-lists) (Essay #254)  
+[A draft handbook for the Computer Science SEPC](sepc-handbook-draft-2017-03-11) (Essay #255)  
+[Writer's block](writers-block) (Essay #256)  
