@@ -1308,7 +1308,11 @@ Almost everything else
 
 [Enjoying listserve chaos](listserve-chaos) (Essay #253)
 
-> Watching computer professionals be unprofessioanl
+> Watching computer professionals be unprofessioanal
+
+[Textbook prices](textbook-prices) (Essay #257)
+
+> How students deal with them.
 
 Removed
 -------

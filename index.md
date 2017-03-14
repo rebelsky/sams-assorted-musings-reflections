@@ -8,7 +8,7 @@ about.  Some are explanations of how I approach the world.  Some are
 just my attempts to think through a topic.
 
 Latest essay:
-[Writer's block](writers-block) (Essay #256)
+[Textbook prices](textbook-prices) (Essay #257)
 
 [Essays, by number](index-by-number.html)
 
