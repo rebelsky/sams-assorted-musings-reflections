@@ -8,7 +8,7 @@ about.  Some are explanations of how I approach the world.  Some are
 just my attempts to think through a topic.
 
 Latest essay:
-[Textbook prices](textbook-prices) (Essay #257)
+[Reply to all](reply-to-all) (Essay #258)
 
 [Essays, by number](index-by-number.html)
 

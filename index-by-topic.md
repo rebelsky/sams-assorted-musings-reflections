@@ -522,6 +522,10 @@ Why Grinnell staff with Ph.D's should be allowed to teach.
 
 > Trying to get money for the CS SEPC.
 
+[Reply to all](reply-to-all) (Essay #258)
+
+> Learn how to use it correctly!
+
 Assorted talks and speeches
 ---------------------------
 
