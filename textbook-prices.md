@@ -63,7 +63,7 @@ It's also a book that students will benefit from having on their shelves.
 And it's written much better than anything I could write.  What will
 I do if I'm called upon to teach our theory course?  I'm not sure.
 Sipser is considered the standard, but it's expensive.  The book I used
-as a student is probably too ort of date.  I'd likely spend some time
+as a student is probably too out of date.  I'd likely spend some time
 considering the options.
 
 What do I think the appropriate long-term strategy is to handle textbook
@@ -113,7 +113,7 @@ like a lab manual, which cannot normally be resold.
 Most of those introductory courses seem to be more than the estimated
 amount per course.
 
-[2] I like <bookfinder.com> for finding the best prices on used books.
+[2] I like <http://bookfinder.com> for finding the best prices on used books.
 
 [3] For example, two students might chip in to buy the book and alternate 
 ownership.  Similarly, one student might buy one book for the class and
@@ -166,4 +166,4 @@ as a lending library.
 
 ---
 
-*Version 1.0 of 2017-03-13.*
+*Version 1.0.1 of 2017-03-14.*
