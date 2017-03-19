@@ -1330,6 +1330,10 @@ Almost everything else
 
 > Likely to break me.
 
+[Spring break 2017, revisited](spring-break-2017-03-18) (Essay #262)
+
+> A more positive perspective.
+
 Removed
 -------
 

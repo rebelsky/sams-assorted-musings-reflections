@@ -343,3 +343,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 ## 261-270
 
 [Spring break 2017](spring-break-2017-03-17) (Essay #261)  
+[Spring break 2017, revisited](spring-break-2017-03-18) (Essay #262)  
