@@ -95,3 +95,7 @@ About SamR
 
 > Reflections on Christmas eves, past and present.
 
+[Mid-semester planning](midsemester-planning-2017-03-16) (Essay #260)
+
+> A planning session with Karla Erickson.
+

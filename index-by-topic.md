@@ -1155,6 +1155,10 @@ About SamR
 
 > Reflections on Christmas eves, past and present.
 
+[Mid-semester planning](midsemester-planning-2017-03-16) (Essay #260)
+
+> A planning session with Karla Erickson.
+
 Almost everything else
 ----------------------
 
@@ -1317,6 +1321,14 @@ Almost everything else
 [Textbook prices](textbook-prices) (Essay #257)
 
 > How students deal with them.
+
+[The legendary CSC 151 picture quiz](picquiz) (Essay #259)
+
+> One of my strange teaching techniques.
+
+[Spring break 2017](spring-break-2017-03-17) (Essay #261)
+
+> Likely to break me.
 
 Removed
 -------

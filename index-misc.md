@@ -161,3 +161,11 @@ Almost everything else
 
 > How students deal with them.
 
+[The legendary CSC 151 picture quiz](picquiz) (Essay #259)
+
+> One of my strange teaching techniques.
+
+[Spring break 2017](spring-break-2017-03-17) (Essay #261)
+
+> Likely to break me.
+

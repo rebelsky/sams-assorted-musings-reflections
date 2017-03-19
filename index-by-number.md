@@ -337,3 +337,9 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Writer's block](writers-block) (Essay #256)  
 [Textbook prices](textbook-prices) (Essay #257)  
 [Reply to all](reply-to-all) (Essay #258)  
+[The legendary CSC 151 picture quiz](picquiz) (Essay #259)  
+[Mid-semester planning](midsemester-planning-2017-03-16) (Essay #260)  
+
+## 261-270
+
+[Spring break 2017](spring-break-2017-03-17) (Essay #261)  

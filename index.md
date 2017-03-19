@@ -8,7 +8,7 @@ about.  Some are explanations of how I approach the world.  Some are
 just my attempts to think through a topic.
 
 Latest essay:
-[Reply to all](reply-to-all) (Essay #258)
+[Spring break 2017](spring-break-2017-03-17) (Essay #261)
 
 [Essays, by number](index-by-number.html)
 
