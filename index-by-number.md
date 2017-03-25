@@ -344,3 +344,8 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 
 [Spring break 2017](spring-break-2017-03-17) (Essay #261)  
 [Spring break 2017, revisited](spring-break-2017-03-18) (Essay #262)  
+[Fighting with Microsoft Surface](microsoft-surface) (Essay #263);  
+[A draft description of the new CSC 151](csc151-datascience-draft) (Essay #264)  
+[Fun with writing tools: The CSC 151 description](fun-with-writing-tools-csc151) (Essay #265);  
+[Writing on the road](writing-on-the-road) (Essay #266)  
+[Inbox zero, stage seven (the story resumes)](inbox-zero-07) (Essay #267).  

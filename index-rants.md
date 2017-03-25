@@ -109,3 +109,7 @@ Why Grinnell staff with Ph.D's should be allowed to teach.
 
 > Learn how to use it correctly!
 
+[Fighting with Microsoft Surface](microsoft-surface) (Essay #263);
+
+> Why did I try?
+

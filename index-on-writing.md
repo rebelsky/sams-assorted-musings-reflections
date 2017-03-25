@@ -132,3 +132,15 @@ Essays on writing, or at least on writing my essays
 
 > On missing the third (?) voice in my head.
 
+[A draft description of the new CSC 151](csc151-datascience-draft) (Essay #264)
+
+> The evolution of a description.
+
+[Fun with writing tools: The CSC 151 description](fun-with-writing-tools-csc151) (Essay #265);
+
+> Adventures using Grammarly and the Hemingway Editor.
+
+[Writing on the road](writing-on-the-road) (Essay #266)
+
+> Why I didn't get many essays posted.
+

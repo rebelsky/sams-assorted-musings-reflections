@@ -135,6 +135,18 @@ Essays on writing, or at least on writing my essays
 
 > On missing the third (?) voice in my head.
 
+[A draft description of the new CSC 151](csc151-datascience-draft) (Essay #264)
+
+> The evolution of a description.
+
+[Fun with writing tools: The CSC 151 description](fun-with-writing-tools-csc151) (Essay #265);
+
+> Adventures using Grammarly and the Hemingway Editor.
+
+[Writing on the road](writing-on-the-road) (Essay #266)
+
+> Why I didn't get many essays posted.
+
 For prospective students, parents of prospective students, and others with similar interests
 --------------------------------------------------------------------------------------------
 
@@ -525,6 +537,10 @@ Why Grinnell staff with Ph.D's should be allowed to teach.
 [Reply to all](reply-to-all) (Essay #258)
 
 > Learn how to use it correctly!
+
+[Fighting with Microsoft Surface](microsoft-surface) (Essay #263);
+
+> Why did I try?
 
 Assorted talks and speeches
 ---------------------------
@@ -1229,6 +1245,10 @@ Almost everything else
 [Inbox zero, stage six](inbox-zero-06) (Essay #229)
 
 > Sam loses to the computer juggernaut
+
+[Inbox zero, stage seven (the story resumes)](inbox-zero-07) (Essay #267).
+
+> Sam resumes his quest.
 
 ["Sam, you are on too many mailing lists"](mailing-lists) (Essay #254)
 

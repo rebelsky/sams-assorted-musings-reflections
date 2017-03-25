@@ -7,8 +7,12 @@ students or other people.  Some are rants about topics I'm passionate
 about.  Some are explanations of how I approach the world.  Some are
 just my attempts to think through a topic.
 
-Latest essay:
-[Spring break 2017, revisited](spring-break-2017-03-18) (Essay #262)
+Latest essays:
+[Fighting with Microsoft Surface](microsoft-surface) (Essay #263);
+[A draft description of the new CSC 151](csc151-datascience-draft) (Essay #264);
+[Fun with writing tools: The CSC 151 description](fun-with-writing-tools-csc151) (Essay #265);
+[Writing on the road](writing-on-the-road) (Essay #266); and
+[Inbox zero, stage seven (the story resumes)](inbox-zero-07) (Essay #267).
 
 [Essays, by number](index-by-number.html)
 

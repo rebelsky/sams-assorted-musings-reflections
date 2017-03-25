@@ -69,6 +69,10 @@ Almost everything else
 
 > Sam loses to the computer juggernaut
 
+[Inbox zero, stage seven (the story resumes)](inbox-zero-07) (Essay #267).
+
+> Sam resumes his quest.
+
 ["Sam, you are on too many mailing lists"](mailing-lists) (Essay #254)
 
 > Some of the reasons Inbox zero is difficult.
