@@ -349,3 +349,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Fun with writing tools: The CSC 151 description](fun-with-writing-tools-csc151) (Essay #265);  
 [Writing on the road](writing-on-the-road) (Essay #266)  
 [Inbox zero, stage seven (the story resumes)](inbox-zero-07) (Essay #267).  
+[The C Preprocessor](cnix-c-preprocessor) (Essay #268)  

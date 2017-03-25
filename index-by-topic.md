@@ -704,6 +704,10 @@ Searching files with `find`
 
 > What some of those stages are, and why you should know.
 
+[The C Preprocessor](cnix-c-preprocessor) (Essay #268)
+
+> More information on an early stage.
+
 Additional compiler flags
 
 > C compiler flags you should know.

@@ -7,12 +7,8 @@ students or other people.  Some are rants about topics I'm passionate
 about.  Some are explanations of how I approach the world.  Some are
 just my attempts to think through a topic.
 
-Latest essays:
-[Fighting with Microsoft Surface](microsoft-surface) (Essay #263);
-[A draft description of the new CSC 151](csc151-datascience-draft) (Essay #264);
-[Fun with writing tools: The CSC 151 description](fun-with-writing-tools-csc151) (Essay #265);
-[Writing on the road](writing-on-the-road) (Essay #266); and
-[Inbox zero, stage seven (the story resumes)](inbox-zero-07) (Essay #267).
+Latest essay:
+[The C Preprocessor](cnix-c-preprocessor) (Essay #268)
 
 [Essays, by number](index-by-number.html)
 
