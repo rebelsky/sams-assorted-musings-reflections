@@ -144,3 +144,7 @@ Essays on writing, or at least on writing my essays
 
 > Why I didn't get many essays posted.
 
+[My muse may be on spring break](muse-spring-break) (Essay #269)
+
+> On not writing.
+

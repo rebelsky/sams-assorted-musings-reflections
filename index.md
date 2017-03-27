@@ -8,7 +8,7 @@ about.  Some are explanations of how I approach the world.  Some are
 just my attempts to think through a topic.
 
 Latest essay:
-[The C Preprocessor](cnix-c-preprocessor) (Essay #268)
+[My muse may be on spring break](muse-spring-break) (Essay #269)
 
 [Essays, by number](index-by-number.html)
 
