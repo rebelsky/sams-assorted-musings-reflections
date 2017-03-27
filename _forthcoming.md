@@ -16,6 +16,8 @@ Quick (?)
 *For the days in which I need to "dash off" an essay in order to meet
 my goals.*
 
+1. Conference Swag.
+
 1. (Semi-technical): Resetting passwords.
 
 1. Academic geneaology.
@@ -50,6 +52,8 @@ schools vs closing schools)
 1. Lambert publishing.  (See email from Anastasia Olaru dated 9 February
    2017.)
 
+1. GrinCo, where we make you smile.
+
 ---
 
 General
@@ -58,6 +62,17 @@ General
 *The list of topics that I've thought about writing about, in no particular
 order, other than the ones I've come up with more recently tend to be near
 the top.*
+
+1. Passive: "was surprised"; "was tempted".  See 
+http://www.cs.grinnell.edu/~rebelsky/musings/muse-spring-break-continues
+
+1. www.finedictionary.com
+
+1. More on teaching at Grinnell (currently more-teaching-at-grinnell)
+
+1. Selecting summer students.
+
+1. Jekyll - Better markup (?)
 
 1. Inbox zero.  A multi-part story.
 
@@ -87,16 +102,12 @@ http://www.chronicle.com/article/Citizen-Formation-Is-Not-Our/238913
 
 1. Fundraising.  How much will you pay for me to ....
 
-1. The ultimate outcome of a liberal arts education (bullshitting).
-
 1. Paul Graham on editing and on essays. http://www.paulgraham.com/laundry.html
 http://paulgraham.com/essay.html.  (Part of "Better writers than I")
 
-1. Jekyll - Better markup (?)
-
 1. Peer educators' handbook.
 
-1. SEPC handbook.
+1. SEPC handbook, continued.
 
 1. Words for snow (or better essayists than I).
 http://www.lel.ed.ac.uk/~gpullum/EskimoHoax.pdf
@@ -266,8 +277,6 @@ which I really feel that way.) (It's in the overcommitment section)
 
 1. On advising too many students (grad school, starting job, CS major,
 what courses should I take? ... plus paperwork and more)
-
-1. GrinCo, where we make you smile.
 
 1. Telling a Story vs. Thinking about Language.  (On writing.)
 <http://www.theatlantic.com/magazine/archive/2010/08/how-to-write-in-700-easy-lessons/308043/>
@@ -521,10 +530,8 @@ Notes
   of them.*
 * *Thinking ahead: Alternate months of assorted topics and focused
   topics.*
-    * January: C and Unix (that's right; I should write 'Don't Embarass Me')
-    * February: Assorted 
-    * March: More Grinnellians 
     * April: Assorted
+    * March: More Grinnellians 
     * May: Topics, revisited
     * June: Assorted
     * July: Maybe CSC 151 or CSC 321.
