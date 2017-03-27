@@ -351,3 +351,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Inbox zero, stage seven (the story resumes)](inbox-zero-07) (Essay #267).  
 [The C Preprocessor](cnix-c-preprocessor) (Essay #268)  
 [My muse may be on spring break](muse-spring-break) (Essay #269)  
+[My muse is still away for spring break](muse-spring-break-continues) (Essay #270)  

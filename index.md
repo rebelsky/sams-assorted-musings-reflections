@@ -8,7 +8,7 @@ about.  Some are explanations of how I approach the world.  Some are
 just my attempts to think through a topic.
 
 Latest essay:
-[My muse may be on spring break](muse-spring-break) (Essay #269)
+[My muse is still away for spring break](muse-spring-break-continues) (Essay #270)
 
 [Essays, by number](index-by-number.html)
 

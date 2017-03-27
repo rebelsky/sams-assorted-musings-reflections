@@ -148,3 +148,7 @@ Essays on writing, or at least on writing my essays
 
 > On not writing.
 
+[My muse is still away for spring break](muse-spring-break-continues) (Essay #270)
+
+> On continuing to not write.
+
