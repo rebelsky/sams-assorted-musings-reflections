@@ -8,7 +8,7 @@ about.  Some are explanations of how I approach the world.  Some are
 just my attempts to think through a topic.
 
 Latest essay:
-[My muse is still away for spring break](muse-spring-break-continues) (Essay #270)
+[How not to ask about a position](how-not-to-ask-about-a-position) (Essay #271)
 
 [Essays, by number](index-by-number.html)
 

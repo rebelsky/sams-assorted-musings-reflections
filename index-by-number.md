@@ -352,3 +352,7 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [The C Preprocessor](cnix-c-preprocessor) (Essay #268)  
 [My muse may be on spring break](muse-spring-break) (Essay #269)  
 [My muse is still away for spring break](muse-spring-break-continues) (Essay #270)  
+
+## 271-280
+
+[How not to ask about a position](how-not-to-ask-about-a-position) (Essay #271)  

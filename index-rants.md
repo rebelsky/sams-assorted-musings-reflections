@@ -113,3 +113,7 @@ Why Grinnell staff with Ph.D's should be allowed to teach.
 
 > Why did I try?
 
+[How not to ask about a position](how-not-to-ask-about-a-position) (Essay #271)
+
+> I rant about an email message that I received.
+
