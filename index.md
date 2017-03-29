@@ -8,7 +8,7 @@ about.  Some are explanations of how I approach the world.  Some are
 just my attempts to think through a topic.
 
 Latest essay:
-[How not to ask about a position](how-not-to-ask-about-a-position) (Essay #271)
+[Rhetorical gestures I don't understand](rhetorical-gestures-kelly-tolkien) (Essay #272)
 
 [Essays, by number](index-by-number.html)
 

@@ -1370,6 +1370,10 @@ Almost everything else
 
 > A more positive perspective.
 
+[Rhetorical gestures I don't understand](rhetorical-gestures-kelly-tolkien) (Essay #272)
+
+> Strange ways to use links.
+
 Removed
 -------
 
