@@ -8,7 +8,7 @@ about.  Some are explanations of how I approach the world.  Some are
 just my attempts to think through a topic.
 
 Latest essay:
-[Rhetorical gestures I don't understand](rhetorical-gestures-kelly-tolkien) (Essay #272)
+[A spectrum of international CS majors](international-cs-majors) (Essay #273)
 
 [Essays, by number](index-by-number.html)
 
