@@ -357,3 +357,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 
 [How not to ask about a position](how-not-to-ask-about-a-position) (Essay #271)  
 [Rhetorical gestures I don't understand](rhetorical-gestures-kelly-tolkien) (Essay #272)  
+[A spectrum of international CS majors](international-cs-majors) (Essay #273)  

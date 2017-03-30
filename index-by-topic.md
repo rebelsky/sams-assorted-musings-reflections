@@ -218,6 +218,10 @@ Connecting to our Community
 
 > Why study at a liberal arts college?
 
+[A spectrum of international CS majors](international-cs-majors) (Essay #273)
+
+> A short reflection on the variety of people you will meet in the CS department.
+
 For prospective faculty
 -----------------------
 
