@@ -1378,6 +1378,10 @@ Almost everything else
 
 > Strange ways to use links.
 
+[Scholarly opportunities for all, revisited](scholarly-opportunities-for-all-revisited) (Essay #274)
+
+> My latest in a series of responses to an initiative.
+
 Removed
 -------
 

@@ -8,7 +8,7 @@ about.  Some are explanations of how I approach the world.  Some are
 just my attempts to think through a topic.
 
 Latest essay:
-[A spectrum of international CS majors](international-cs-majors) (Essay #273)
+[Scholarly opportunities for all, revisited](scholarly-opportunities-for-all-revisited) (Essay #274)
 
 [Essays, by number](index-by-number.html)
 
