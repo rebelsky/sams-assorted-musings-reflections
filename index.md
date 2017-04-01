@@ -8,7 +8,7 @@ of how I approach the world.  Some are just my attempts to think through
 a topic.
 
 Latest musing:
-[Scholarly opportunities for all, revisited](scholarly-opportunities-for-all-revisited) (Musing #274)
+[Eight months of musings](eight-months) (Musing #275)
 
 [Musings, by number](index-by-number.html)
 

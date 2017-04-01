@@ -52,6 +52,10 @@ Essays on writing, or at least on writing my essays
 
 > Alternatively, "six consecutive months of daily essays".
 
+[Eight months of musings](eight-months) (Musing #275)
+
+> In which I revise the term I use to refer to these pieces of writing.
+
 [On making, breaking, and remaking the habit of daily writing](habit-of-writing.html) (Essay #41)
 
 > Reflections on trying to restart these essays.

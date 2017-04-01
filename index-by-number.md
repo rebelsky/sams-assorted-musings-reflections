@@ -359,3 +359,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Rhetorical gestures I don't understand](rhetorical-gestures-kelly-tolkien) (Musing #272)  
 [A spectrum of international CS majors](international-cs-majors) (Musing #273)  
 [Scholarly opportunities for all, revisited](scholarly-opportunities-for-all-revisited) (Musing #274)  
+[Eight months of musings](eight-months) (Musing #275)  
