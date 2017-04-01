@@ -63,14 +63,18 @@ General
 order, other than the ones I've come up with more recently tend to be near
 the top.*
 
+1. A readers guide to Sam's musings.
+
+1. Selecting summer students.  (Plus guidance.)
+
+1. Rant about grammarly.  grammarly-repetitive-words.md
+
 1. Passive: "was surprised"; "was tempted".  See 
 http://www.cs.grinnell.edu/~rebelsky/musings/muse-spring-break-continues
 
 1. www.finedictionary.com
 
 1. More on teaching at Grinnell (currently more-teaching-at-grinnell)
-
-1. Selecting summer students.
 
 1. Jekyll - Better markup (?)
 
