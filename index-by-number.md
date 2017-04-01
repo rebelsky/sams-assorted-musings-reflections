@@ -338,24 +338,24 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Textbook prices](textbook-prices) (Essay #257)  
 [Reply to all](reply-to-all) (Essay #258)  
 [The legendary CSC 151 picture quiz](picquiz) (Essay #259)  
-[Mid-semester planning](midsemester-planning-2017-03-16) (Essay #260)  
+[Mid-semester planning](midsemester-planning-2017-03-16) (Musing #260)  
 
 ## 261-270
 
-[Spring break 2017](spring-break-2017-03-17) (Essay #261)  
-[Spring break 2017, revisited](spring-break-2017-03-18) (Essay #262)  
-[Fighting with Microsoft Surface](microsoft-surface) (Essay #263);  
-[A draft description of the new CSC 151](csc151-datascience-draft) (Essay #264)  
-[Fun with writing tools: The CSC 151 description](fun-with-writing-tools-csc151) (Essay #265);  
-[Writing on the road](writing-on-the-road) (Essay #266)  
-[Inbox zero, stage seven (the story resumes)](inbox-zero-07) (Essay #267).  
-[The C Preprocessor](cnix-c-preprocessor) (Essay #268)  
-[My muse may be on spring break](muse-spring-break) (Essay #269)  
-[My muse is still away for spring break](muse-spring-break-continues) (Essay #270)  
+[Spring break 2017](spring-break-2017-03-17) (Musing #261)  
+[Spring break 2017, revisited](spring-break-2017-03-18) (Musing #262)  
+[Fighting with Microsoft Surface](microsoft-surface) (Musing #263);  
+[A draft description of the new CSC 151](csc151-datascience-draft) (Musing #264)  
+[Fun with writing tools: The CSC 151 description](fun-with-writing-tools-csc151) (Musing #265);  
+[Writing on the road](writing-on-the-road) (Musing #266)  
+[Inbox zero, stage seven (the story resumes)](inbox-zero-07) (Musing #267).  
+[The C Preprocessor](cnix-c-preprocessor) (Musing #268)  
+[My muse may be on spring break](muse-spring-break) (Musing #269)  
+[My muse is still away for spring break](muse-spring-break-continues) (Musing #270)  
 
 ## 271-280
 
-[How not to ask about a position](how-not-to-ask-about-a-position) (Essay #271)  
-[Rhetorical gestures I don't understand](rhetorical-gestures-kelly-tolkien) (Essay #272)  
-[A spectrum of international CS majors](international-cs-majors) (Essay #273)  
-[Scholarly opportunities for all, revisited](scholarly-opportunities-for-all-revisited) (Essay #274)  
+[How not to ask about a position](how-not-to-ask-about-a-position) (Musing #271)  
+[Rhetorical gestures I don't understand](rhetorical-gestures-kelly-tolkien) (Musing #272)  
+[A spectrum of international CS majors](international-cs-majors) (Musing #273)  
+[Scholarly opportunities for all, revisited](scholarly-opportunities-for-all-revisited) (Musing #274)  

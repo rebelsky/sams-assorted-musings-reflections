@@ -109,11 +109,11 @@ Why Grinnell staff with Ph.D's should be allowed to teach.
 
 > Learn how to use it correctly!
 
-[Fighting with Microsoft Surface](microsoft-surface) (Essay #263);
+[Fighting with Microsoft Surface](microsoft-surface) (Musing #263);
 
 > Why did I try?
 
-[How not to ask about a position](how-not-to-ask-about-a-position) (Essay #271)
+[How not to ask about a position](how-not-to-ask-about-a-position) (Musing #271)
 
 > I rant about an email message that I received.
 

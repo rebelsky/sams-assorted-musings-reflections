@@ -69,7 +69,7 @@ Almost everything else
 
 > Sam loses to the computer juggernaut
 
-[Inbox zero, stage seven (the story resumes)](inbox-zero-07) (Essay #267).
+[Inbox zero, stage seven (the story resumes)](inbox-zero-07) (Musing #267).
 
 > Sam resumes his quest.
 
@@ -169,19 +169,19 @@ Almost everything else
 
 > One of my strange teaching techniques.
 
-[Spring break 2017](spring-break-2017-03-17) (Essay #261)
+[Spring break 2017](spring-break-2017-03-17) (Musing #261)
 
 > Likely to break me.
 
-[Spring break 2017, revisited](spring-break-2017-03-18) (Essay #262)
+[Spring break 2017, revisited](spring-break-2017-03-18) (Musing #262)
 
 > A more positive perspective.
 
-[Rhetorical gestures I don't understand](rhetorical-gestures-kelly-tolkien) (Essay #272)
+[Rhetorical gestures I don't understand](rhetorical-gestures-kelly-tolkien) (Musing #272)
 
 > Strange ways to use links.
 
-[Scholarly opportunities for all, revisited](scholarly-opportunities-for-all-revisited) (Essay #274)
+[Scholarly opportunities for all, revisited](scholarly-opportunities-for-all-revisited) (Musing #274)
 
 > My latest in a series of responses to an initiative.
 

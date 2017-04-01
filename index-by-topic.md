@@ -135,23 +135,23 @@ Essays on writing, or at least on writing my essays
 
 > On missing the third (?) voice in my head.
 
-[A draft description of the new CSC 151](csc151-datascience-draft) (Essay #264)
+[A draft description of the new CSC 151](csc151-datascience-draft) (Musing #264)
 
 > The evolution of a description.
 
-[Fun with writing tools: The CSC 151 description](fun-with-writing-tools-csc151) (Essay #265);
+[Fun with writing tools: The CSC 151 description](fun-with-writing-tools-csc151) (Musing #265);
 
 > Adventures using Grammarly and the Hemingway Editor.
 
-[Writing on the road](writing-on-the-road) (Essay #266)
+[Writing on the road](writing-on-the-road) (Musing #266)
 
 > Why I didn't get many essays posted.
 
-[My muse may be on spring break](muse-spring-break) (Essay #269)
+[My muse may be on spring break](muse-spring-break) (Musing #269)
 
 > On not writing.
 
-[My muse is still away for spring break](muse-spring-break-continues) (Essay #270)
+[My muse is still away for spring break](muse-spring-break-continues) (Musing #270)
 
 > On continuing to not write.
 
@@ -218,7 +218,7 @@ Connecting to our Community
 
 > Why study at a liberal arts college?
 
-[A spectrum of international CS majors](international-cs-majors) (Essay #273)
+[A spectrum of international CS majors](international-cs-majors) (Musing #273)
 
 > A short reflection on the variety of people you will meet in the CS department.
 
@@ -550,11 +550,11 @@ Why Grinnell staff with Ph.D's should be allowed to teach.
 
 > Learn how to use it correctly!
 
-[Fighting with Microsoft Surface](microsoft-surface) (Essay #263);
+[Fighting with Microsoft Surface](microsoft-surface) (Musing #263);
 
 > Why did I try?
 
-[How not to ask about a position](how-not-to-ask-about-a-position) (Essay #271)
+[How not to ask about a position](how-not-to-ask-about-a-position) (Musing #271)
 
 > I rant about an email message that I received.
 
@@ -720,7 +720,7 @@ Searching files with `find`
 
 > What some of those stages are, and why you should know.
 
-[The C Preprocessor](cnix-c-preprocessor) (Essay #268)
+[The C Preprocessor](cnix-c-preprocessor) (Musing #268)
 
 > More information on an early stage.
 
@@ -1191,7 +1191,7 @@ About SamR
 
 > Reflections on Christmas eves, past and present.
 
-[Mid-semester planning](midsemester-planning-2017-03-16) (Essay #260)
+[Mid-semester planning](midsemester-planning-2017-03-16) (Musing #260)
 
 > A planning session with Karla Erickson.
 
@@ -1266,7 +1266,7 @@ Almost everything else
 
 > Sam loses to the computer juggernaut
 
-[Inbox zero, stage seven (the story resumes)](inbox-zero-07) (Essay #267).
+[Inbox zero, stage seven (the story resumes)](inbox-zero-07) (Musing #267).
 
 > Sam resumes his quest.
 
@@ -1366,19 +1366,19 @@ Almost everything else
 
 > One of my strange teaching techniques.
 
-[Spring break 2017](spring-break-2017-03-17) (Essay #261)
+[Spring break 2017](spring-break-2017-03-17) (Musing #261)
 
 > Likely to break me.
 
-[Spring break 2017, revisited](spring-break-2017-03-18) (Essay #262)
+[Spring break 2017, revisited](spring-break-2017-03-18) (Musing #262)
 
 > A more positive perspective.
 
-[Rhetorical gestures I don't understand](rhetorical-gestures-kelly-tolkien) (Essay #272)
+[Rhetorical gestures I don't understand](rhetorical-gestures-kelly-tolkien) (Musing #272)
 
 > Strange ways to use links.
 
-[Scholarly opportunities for all, revisited](scholarly-opportunities-for-all-revisited) (Essay #274)
+[Scholarly opportunities for all, revisited](scholarly-opportunities-for-all-revisited) (Musing #274)
 
 > My latest in a series of responses to an initiative.
 

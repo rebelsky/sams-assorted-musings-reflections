@@ -132,23 +132,23 @@ Essays on writing, or at least on writing my essays
 
 > On missing the third (?) voice in my head.
 
-[A draft description of the new CSC 151](csc151-datascience-draft) (Essay #264)
+[A draft description of the new CSC 151](csc151-datascience-draft) (Musing #264)
 
 > The evolution of a description.
 
-[Fun with writing tools: The CSC 151 description](fun-with-writing-tools-csc151) (Essay #265);
+[Fun with writing tools: The CSC 151 description](fun-with-writing-tools-csc151) (Musing #265);
 
 > Adventures using Grammarly and the Hemingway Editor.
 
-[Writing on the road](writing-on-the-road) (Essay #266)
+[Writing on the road](writing-on-the-road) (Musing #266)
 
 > Why I didn't get many essays posted.
 
-[My muse may be on spring break](muse-spring-break) (Essay #269)
+[My muse may be on spring break](muse-spring-break) (Musing #269)
 
 > On not writing.
 
-[My muse is still away for spring break](muse-spring-break-continues) (Essay #270)
+[My muse is still away for spring break](muse-spring-break-continues) (Musing #270)
 
 > On continuing to not write.
 

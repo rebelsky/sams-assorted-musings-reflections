@@ -1,18 +1,18 @@
 Front Door
 ==========
 
-Here you will find a variety of short essays that I've written on a
-variety of topics.  Some are responses to questions I received from
-students or other people.  Some are rants about topics I'm passionate 
-about.  Some are explanations of how I approach the world.  Some are
-just my attempts to think through a topic.
+Here you will find a variety of short writings on a variety of topics.
+Some are responses to questions I received from students or other people.
+Some are rants about topics I'm passionate about.  Some are explanations
+of how I approach the world.  Some are just my attempts to think through
+a topic.
 
-Latest essay:
-[Scholarly opportunities for all, revisited](scholarly-opportunities-for-all-revisited) (Essay #274)
+Latest musing:
+[Scholarly opportunities for all, revisited](scholarly-opportunities-for-all-revisited) (Musing #274)
 
-[Essays, by number](index-by-number.html)
+[Musings, by number](index-by-number.html)
 
-[Essays, by topic](index-by-topic.html)
+[Musings, by topic](index-by-topic.html)
 
 * [On writing, or at least on writing these essays](index-on-writing.html)
 * [For prospective students, parents of prospective students, and others with similar interests](index-prospective-students.html)
