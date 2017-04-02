@@ -86,8 +86,9 @@ is a gap between the first set of endnotes and the "surprise statement"
 would sound like [32,33].  Newton North is superior to Newton South.
 You will enjoy the article that I mention in the next paragraph.
 Students do abuse campus bikes [34].  There is no clear rhyme or reason
-to when I italicize words within this paragraph.  That should cover most
-of the claims I made in this musing.
+to when I italicize words within this paragraph.  The page that indicates
+that Gary Cooper returned to Grinnell is not very useful.  That should
+cover most of the claims I made in this musing [35].
 
 _The Grinnell Magazine_ recently ran [a relatively nice article about
 Grinnell myths and legends](https://www.grinnell.edu/news/campus-myth-busters).
@@ -185,6 +186,8 @@ It just seemed useful to add.
 [34] I consider the campus bike program one of the clear pieces of evidence
 of the failure of self governance.
 
+[35] Or maybe not.
+
 ---
 
-*Version 1.1.1 of 2017-04-01.*
+*Version 1.1.2 of 2017-04-01.*
