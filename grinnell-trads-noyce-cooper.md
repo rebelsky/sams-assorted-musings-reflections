@@ -55,44 +55,7 @@ attend Grinnell.
 If you're interested in participating, you are welcome to attend.  Like
 most events on campus, the Noyce/Cooper cookout is free and open to all
 comers.  Unfortunately, you'll have to wait another year, since the
-event happens on April 1 [23].
-
----
-
-Let's see ... I should be a bit clearer.  There is no Noyce/Cooper picnic.
-No, students do not slaughter pigs or cows or horses.  We have large
-numbers of vegetarian and vegan students on campus [26].  Robert N. Noyce
-'49 *did* steal a pig from a local farmer for a hog roast and needed Grant
-Gale's rhetorical chops to avoid expulsion.  While we don't have a the
-Noyce/Cooper picnic a few years ago, the Trustees did create an event
-called "Selah" which included a hog roast that was supposed to harken
-back to the Noyce "incident" [28].  Gary Cooper '26 almost certainly
-did not ride a horse to the top of Gates tower [29].  While Cooper
-never graduated from Grinnell, he left voluntarily rather than being
-expelled.  Gary Cooper was a succesful actor.  Students do have a
-Mary B. James festival.  Because James' name can be heard as "Mary
-*Be* James", the Mary B. James party is a cross-dressing festival.
-Fig Newtons *are* named after Newton, Massachusetts.  Our country *is*
-currently experiencing a significant disconnect between fact and fiction.
-Grinnell was founded by something we refer to as "The Iowa Band", but
-you see little evidence of it on campus.  Lee Running in art does some
-amazing work with bones, but she uses deer bones she collects as a way to
-reflect on the inadvertent slaughter of deer that our highways create.
-I have heard that Dayton Meat has excellent bacon.  Bruce Springsteen
-*did* play in the old Darby [30].  Many of the endnotes in this essay lack
-a corresponding referent.  These endnotes exist primarily so that there
-is a gap between the first set of endnotes and the "surprise statement"
-[31].  I do wonder what a marching band with a hundred and ten cornettos
-would sound like [32,33].  Newton North is superior to Newton South.
-You will enjoy the article that I mention in the next paragraph.
-Students do abuse campus bikes [34].  There is no clear rhyme or reason
-to when I italicize words within this paragraph.  The page that indicates
-that Gary Cooper returned to Grinnell is not very useful.  That should
-cover most of the claims I made in this musing [35].
-
-_The Grinnell Magazine_ recently ran [a relatively nice article about
-Grinnell myths and legends](https://www.grinnell.edu/news/campus-myth-busters).
-You should check it out.
+event happens on April 1 [23,26].
 
 ---
 
@@ -165,29 +128,73 @@ on which people pull stupid pranks or try to convince others of
 [25] Hmmm ... we may have reached the point every day is now April Fools Day 
 in the US.
 
-[26] We even have a vegan bar in the cafeteria [27].
+[26] You can find some followup notes after the endnotes.
 
-[27] They do not serve roast vegan.
+[27] We even have a vegan bar in the cafeteria [28].
 
-[28] Do I find it ironic that they served pork at an event named using a Hebrew
+[28] They do not serve roast vegan.
+
+[29] Do I find it ironic that they served pork at an event named using a Hebrew
 word?  Words can't begin to describe how I felt.
 
-[29] He also did not ride a horse to the top of another building on campus.
+[30] He also did not ride a horse to the top of another building on campus.
 
-[30] No, I made no claims about Bruce Springsteen elsewhere in this article.
+[31] No, I made no claims about Bruce Springsteen elsewhere in this article.
 It just seemed useful to add.
 
-[31] It probably wasn't much of a surpise, but I tried.
+[32] It probably wasn't much of a surpise, but I tried.
 
-[32] In that case, seventy six sackbuts should lead the big parade.
+[33] In that case, seventy six sackbuts should lead the big parade.
 
-[33] They could also play "Zink went the strings of my heart."
+[34] They could also play "Zink went the strings of my heart."
 
-[34] I consider the campus bike program one of the clear pieces of evidence
+[35] I consider the campus bike program one of the clear pieces of evidence
 of the failure of self governance.
 
-[35] Or maybe not.
+[36] In an earlier version of the essay, the paragraph did *not*
+appear before the endnotes.  That earlier version of the essay lacked
+any claim as to the position of that paragraph.
+
+[37] Or maybe not.
 
 ---
 
-*Version 1.1.2 of 2017-04-01.*
+Let's see ... I should be a bit clearer.  There is no Noyce/Cooper picnic.
+No, students do not slaughter pigs or cows or horses.  We have large
+numbers of vegetarian and vegan students on campus [27].  Robert N. Noyce
+'49 *did* steal a pig from a local farmer for a hog roast and needed Grant
+Gale's rhetorical chops to avoid expulsion.  While we don't have a the
+Noyce/Cooper picnic a few years ago, the Trustees did create an event
+called "Selah" which included a hog roast that was supposed to harken
+back to the Noyce "incident" [29].  Gary Cooper '26 almost certainly
+did not ride a horse to the top of Gates tower [30].  While Cooper
+never graduated from Grinnell, he left voluntarily rather than being
+expelled.  Gary Cooper was a succesful actor.  Students do have a
+Mary B. James festival.  Because James' name can be heard as "Mary
+*Be* James", the Mary B. James party is a cross-dressing festival.
+Fig Newtons *are* named after Newton, Massachusetts.  Our country *is*
+currently experiencing a significant disconnect between fact and fiction.
+Grinnell was founded by something we refer to as "The Iowa Band", but
+you see little evidence of it on campus.  Lee Running in art does some
+amazing work with bones, but she uses deer bones she collects as a way to
+reflect on the inadvertent slaughter of deer that our highways create.
+I have heard that Dayton Meat has excellent bacon.  Bruce Springsteen
+*did* play in the old Darby [31].  Many of the endnotes in this essay lack
+a corresponding referent.  These endnotes exist primarily so that there
+is a gap between the first set of endnotes and the "surprise statement"
+[32].  I do wonder what a marching band with a hundred and ten cornettos
+would sound like [33,34].  Newton North is superior to Newton South.
+You will enjoy the article that I mention in the next paragraph.
+Students do abuse campus bikes [35].  There is no clear rhyme or reason
+to when I italicize words within this paragraph.  The page that indicates
+that Gary Cooper returned to Grinnell is not very useful.  This
+paragraph does appear after the endnotes [36].  That should
+cover most of the claims I made in this musing [37].
+
+_The Grinnell Magazine_ recently ran [a relatively nice article about
+Grinnell myths and legends](https://www.grinnell.edu/news/campus-myth-busters).
+You should check it out.
+
+---
+
+*Version 1.2 of 2017-04-01.*
