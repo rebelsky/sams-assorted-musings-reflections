@@ -176,7 +176,7 @@ word?  Words can't begin to describe how I felt.
 [30] No, I made no claims about Bruce Springsteen elsewhere in this article.
 It just seemed useful to add.
 
-[31] It probably wasn't much of a surpise, but I tried my best.
+[31] It probably wasn't much of a surpise, but I tried.
 
 [32] In that case, seventy six sackbuts should lead the big parade.
 
@@ -187,4 +187,4 @@ of the failure of self governance.
 
 ---
 
-*Version 1.1 of 2017-04-01.*
+*Version 1.1.1 of 2017-04-01.*
