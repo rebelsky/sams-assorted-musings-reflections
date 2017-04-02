@@ -39,21 +39,21 @@ task for us [9].
 
 [1] For some reason, Grinnell often sets Lyris [2] lists to use the
 list as the default reply-to address.  I understand that people don't
-necessarily notice that behavior, since it's not typical behavior [3].
+necessarily notice that behavior, since it's not typical behavior [5].
 I'm ranting about the cases in which the message goes to both the sender
 *and* to the list.
 
 [2] Lyris is a mailing list manager, akin to Listserv and Mailman.  It
 differs in that it doesn't provide an archive to subscribers.  It's also
-harder to manage than Listserv [4].  I have no idea why we chose it [5].
+harder to manage than Listserv [3].  I have no idea why we chose it [4].
 
-[3] Yeah, that's another wonderful feature of Lyris.
-
-[4] I manage both Lyris lists and Listserv lists.  I'd much rather use
+[3] I manage both Lyris lists and Listserv lists.  I'd much rather use
 Listserv.
 
-[5] I have no idea why we choose most of the software we choose.  In
+[4] I have no idea why we choose most of the software we choose.  In
 many cases, the reason seems to be "others do it".
+
+[5] Yeah, that's another wonderful feature of Lyris.
 
 [6] Okay, not always everyone.  On the lists I moderate, I do my best
 to catch personal messages and delete them.  So only the other moderator
@@ -78,4 +78,4 @@ for us.
 
 ---
 
-*Version 1.0 of 2017-03-14.*
+*Version 1.0.1 of 2017-04-02.*
