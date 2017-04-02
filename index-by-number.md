@@ -360,3 +360,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [A spectrum of international CS majors](international-cs-majors) (Musing #273)  
 [Scholarly opportunities for all, revisited](scholarly-opportunities-for-all-revisited) (Musing #274)  
 [Eight months of musings](eight-months) (Musing #275)  
+[Grinnell traditions I despise: The Noyce/Cooper cookout](grinnell-trads-noyce-cooper) (Musing #276)  

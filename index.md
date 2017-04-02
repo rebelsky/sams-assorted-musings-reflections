@@ -8,7 +8,7 @@ of how I approach the world.  Some are just my attempts to think through
 a topic.
 
 Latest musing:
-[Eight months of musings](eight-months) (Musing #275)
+[Grinnell traditions I despise: The Noyce/Cooper cookout](grinnell-trads-noyce-cooper) (Musing #276)
 
 [Musings, by number](index-by-number.html)
 

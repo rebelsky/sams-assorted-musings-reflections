@@ -1032,6 +1032,10 @@ categories.*
 
 > Celebrating scholarship.
 
+[Grinnell traditions I despise: The Noyce/Cooper cookout](grinnell-trads-noyce-cooper) (Musing #276)
+
+> Strange.
+
 [Branding the College](branding) (Essay #218)
 
 > Can we find another term?
