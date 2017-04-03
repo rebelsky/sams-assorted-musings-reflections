@@ -4,10 +4,10 @@ What is the ACM?
 One of the side effects of being a computer scientist at a small liberal
 arts college in the midwest is that I find the same acronym regularly
 gets used for two of my primary organizations, and I'm not always sure
-which one is correct.  The letters ACM can stand for the *Association
+which one is intended.  The letters ACM can stand for the *Association
 of Computing Machinery*, one of the main organizations of computing
-professionals [1].  It can also stand for Associated Colleges of the
-Midwest [4], a group of liberal arts colleges in Minnesota, Iowa,
+professionals [1].  It can also stand for *Associated Colleges of the
+Midwest* [4], a group of liberal arts colleges in Minnesota, Iowa,
 Illinois, Wisconsin, and Colorado [5].  When I get email that says "Cool
 ACM opportunity available", it usually takes me a minute or two to figure
 what kind of opportunity it is.
@@ -156,4 +156,4 @@ that ACMs that relate to music or Las Vegas may be infringing.
 
 ---
 
-*Version 1.0 of 2017-04-02.*
+*Version 1.0.1 of 2017-04-02.*
