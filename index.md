@@ -8,7 +8,7 @@ of how I approach the world.  Some are just my attempts to think through
 a topic.
 
 Latest musing:
-[Grinnell traditions I despise: The Noyce/Cooper cookout](grinnell-trads-noyce-cooper) (Musing #276)
+[What is the ACM?](acm) (Musing #277)
 
 [Musings, by number](index-by-number.html)
 
