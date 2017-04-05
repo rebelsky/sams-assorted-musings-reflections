@@ -1,5 +1,5 @@
-A broad spectrum of international CS majors
-===========================================
+A spectrum of international CS majors
+=====================================
 
 There are, of course, many things that I appreciate about teaching
 at Grinnell.  The diversity of student backgrounds, perspectives,
@@ -7,7 +7,7 @@ and interests is one of the top ones.  Now, I realize that almost every
 liberal arts college says that it's diverse [1].  Nonetheless, I seem
 to keep hearing from people "in the know" that it's true [2].  I recall a
 year or so ago when I was meeting with some guidance counselors touring
-campus, and I asked what they were surprised by in their visit.  A few
+campus, and I asked what they surprised them in their visit.  A few
 said, "Every school says they are diverse; you really are!"  Then a few
 months ago, I was eating breakfast with one of our marketing folks and
 asked what they had learned during their visit to campus.  They said,
@@ -19,8 +19,8 @@ I decided to make a list of where our current majors are from so that I
 could give them possible contacts.  Here's what I produced: We have CS
 majors from the US, Albania, Bulgaria, China, England, Georgia, Ghana,
 Greece, Honduras, India, Iran, Nepal, Pakistan, Serbia, Singapore, South
-Korea, Spain, Tanzania, and Vietnam [4].  And no, I don't think that list
-is complete.  We've certainly had students from a much broader array of
+Korea, Spain, Tanzania, and Vietnam [4].  And that list is probably
+incomplete.  We've certainly had students from a much broader array of
 other countries, including Grinnell's first Slovenian student [5].
 
 I appreciate that this broad variety of students brings an equally
@@ -37,7 +37,7 @@ That's not to say that I don't appreciate our domestic students.
 Those students also bring a variety of perspectives and help me learn
 to think differently.  Many are also committed to helping build the
 next generation of computer scientists, and helping expose students
-traditionally underrepresented in the discipline to the wonder that is CS.
+underrepresented in the discipline to the wonder that is CS.
 
 Still, there's something special to know that I am helping students from
 around the world learn CS.  And I think that our domestic students
@@ -47,20 +47,23 @@ with people from around the world while being out here in the middle of
 
 ---
 
-[1] I know of a few who have traditionally brought in under ten domestic
-students of color each year; they are probably more cautious in their
-claim.
+[1] I know of a few who often brought in under ten domestic students of
+color each year; they are probably more cautious in their claim.
 
-[2] I also know that the fall 2016 entering class was approximately 25%
+[2] I do know that the fall 2016 entering class was approximately 25%
 domestic students of color and slightly under 25% international students.
 
 [3] Okay, they didn't say exactly that.  I don't remember the marketers'
-exact quote.  But they implied that they were surprised by the diversity
-of international students.  They had done focus groups with first-gen
-students and with international students, and they were surprised at
-the overlap between those groups.
+exact quote.  But they implied that they found the the diversity
+of international students surprising.  They had also done focus groups
+with first-gen students and with international students, and they were
+equally surprised at the overlap between those two groups.
 
 [4] If we only had one student from each of those countries, we'd still 
 be bigger than about ten other majors at Grinnell.
 
-[5] All of our Slovenian students have been utterly astounding.
+[5] All our Slovenian students have been astounding.
+
+---
+
+*Version 1.0 of 2017-03-29.*
