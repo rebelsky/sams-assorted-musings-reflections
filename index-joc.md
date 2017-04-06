@@ -24,3 +24,7 @@ The joy of code
 
 > How I got the endnote links in these essays.
 
+[The joy of code: Command-line email](joc-command-line-email) (Musing #279)
+
+> Why I need *nix mail, or at least *nix outgoing mail.
+

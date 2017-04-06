@@ -363,3 +363,5 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Grinnell traditions I despise: The Noyce/Cooper cookout](grinnell-trads-noyce-cooper) (Musing #276)  
 [What is the ACM?](acm) (Musing #277)  
 [Bad advice from Grammarly: Quotation marks and punctuation](grammarly-quotation-marks-and-punctuation) (Musing #278)  
+[The joy of code: Command-line email](joc-command-line-email) (Musing #279)  
+[An introduction to C macros](cnix-intro-macros) (Musing #280)  

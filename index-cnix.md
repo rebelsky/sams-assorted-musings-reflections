@@ -79,6 +79,10 @@ Searching files with `find`
 
 > More information on an early stage.
 
+[An introduction to C macros](cnix-intro-macros) (Musing #280)
+
+> More preprocessing!
+
 Additional compiler flags
 
 > C compiler flags you should know.

@@ -8,7 +8,7 @@ of how I approach the world.  Some are just my attempts to think through
 a topic.
 
 Latest musing:
-[Bad advice from Grammarly: Quotation marks and punctuation](grammarly-quotation-marks-and-punctuation) (Musing #278)
+[An introduction to C macros](cnix-intro-macros) (Musing #280)
 
 [Musings, by number](index-by-number.html)
 

@@ -732,6 +732,10 @@ Searching files with `find`
 
 > More information on an early stage.
 
+[An introduction to C macros](cnix-intro-macros) (Musing #280)
+
+> More preprocessing!
+
 Additional compiler flags
 
 > C compiler flags you should know.
@@ -826,6 +830,10 @@ The joy of code
 [The joy of code: Linking endnotes](joc-linking-endnotes.html) (Essay #144)
 
 > How I got the endnote links in these essays.
+
+[The joy of code: Command-line email](joc-command-line-email) (Musing #279)
+
+> Why I need *nix mail, or at least *nix outgoing mail.
 
 Grinnellians you should know (or know about)
 --------------------------------------------
