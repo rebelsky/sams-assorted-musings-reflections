@@ -8,4 +8,4 @@ me, Don't embarrass yourself: Notes on thinking in C and Unix_.**
 
 ---
 
-*Version 1.0 of 2017-01-XX.*
+*Version 1.0 of 2017-04-XX.*
