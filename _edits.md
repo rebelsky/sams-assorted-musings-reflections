@@ -6,3 +6,4 @@ Things I should consider when editing
 * "just", which I seem to abuse.
 * "perhaps", which I seem to abuse.
 * "I wonder"
+* "number of"
