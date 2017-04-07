@@ -8,7 +8,7 @@ of how I approach the world.  Some are just my attempts to think through
 a topic.
 
 Latest musing:
-[An introduction to C macros](cnix-intro-macros) (Musing #280)
+[Bad advice from Grammarly: Repeated words](grammarly-repeated-words) (Musing #281)
 
 [Musings, by number](index-by-number.html)
 

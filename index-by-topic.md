@@ -163,6 +163,10 @@ Essays on writing, or at least on writing my essays
 
 > Why I should not trust electronic editors.
 
+[Bad advice from Grammarly: Repeated words](grammarly-repeated-words) (Musing #281)
+
+> More reasons not to trust electronic editors.
+
 For prospective students, parents of prospective students, and others with similar interests
 --------------------------------------------------------------------------------------------
 
