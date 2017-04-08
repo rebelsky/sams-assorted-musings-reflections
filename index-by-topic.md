@@ -839,6 +839,10 @@ The joy of code
 
 > Why I need *nix mail, or at least *nix outgoing mail.
 
+[The joy of code: Finding repeated words] (Musing #282)
+
+> Synthesizing a simple shell script
+
 Grinnellians you should know (or know about)
 --------------------------------------------
 

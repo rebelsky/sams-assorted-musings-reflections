@@ -369,3 +369,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 ## 281-290
 
 [Bad advice from Grammarly: Repeated words](grammarly-repeated-words) (Musing #281)  
+[The joy of code: Finding repeated words] (Musing #282)  
