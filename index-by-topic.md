@@ -744,7 +744,7 @@ Additional compiler flags
 
 > C compiler flags you should know.
 
-[Using `assert` in C](assert) (Essay #180)
+[Using `assert` in C](cnix-assert) (Essay #180)
 
 > An awesomely useful macro.
 

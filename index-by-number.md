@@ -234,7 +234,7 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [On the termination of Grinnell's relationship with Posse, revisited](posse-termination-revisited) (Essay #177)  
 [Introduction, part 3: Thinking in Unix](cnix-thinking-in-unix) (Essay #178)   
 [Stages of C compilation](cnix-compilation-phases) (Essay #179)   
-[Using `assert` in C](assert) (Essay #180)  
+[Using `assert` in C](cnix-assert) (Essay #180)  
 
 ## 181-190
 
