@@ -370,3 +370,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 
 [Bad advice from Grammarly: Repeated words](grammarly-repeated-words) (Musing #281)  
 [The joy of code: Finding repeated words](joc-finding-repeats) (Musing #282)  
+[Simple macros for testing C programs](cnix-simple-testing-macros) (Musing #283)  

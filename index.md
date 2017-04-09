@@ -8,7 +8,7 @@ of how I approach the world.  Some are just my attempts to think through
 a topic.
 
 Latest musing:
-[The joy of code: Finding repeated words](joc-counting-repeats) (Musing #282)
+[Simple macros for testing C programs](cnix-simple-testing-macros) (Musing #283)
 
 [Musings, by number](index-by-number.html)
 

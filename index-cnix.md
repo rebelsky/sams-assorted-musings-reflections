@@ -83,6 +83,10 @@ Searching files with `find`
 
 > More preprocessing!
 
+[Simple macros for testing C programs](cnix-simple-testing-macros) (Musing #283)
+
+> An appliaction of macros, along with some further exploration of some macro design issues.
+
 Additional compiler flags
 
 > C compiler flags you should know.
