@@ -189,3 +189,11 @@ Almost everything else
 
 > An acronym that continues to mystify.
 
+[Other kinds of writing](other-writing-2017-04-09) (Musing #284)
+
+> Why musing #284 is so short.
+
+[Determining whether or not a string starts with an upper-case letter (or why Sam may fail programming interviews)](starts-with-uppercase) (Musing #285)
+
+> I think the subtitle says it all.
+

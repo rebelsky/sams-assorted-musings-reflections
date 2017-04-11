@@ -8,7 +8,7 @@ of how I approach the world.  Some are just my attempts to think through
 a topic.
 
 Latest musing:
-[Simple macros for testing C programs](cnix-simple-testing-macros) (Musing #283)
+[Determining whether or not a string starts with an upper-case letter (or why Sam may fail programming interviews)](starts-with-uppercase) (Musing #285)
 
 [Musings, by number](index-by-number.html)
 
