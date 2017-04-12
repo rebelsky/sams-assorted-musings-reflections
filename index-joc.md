@@ -28,7 +28,7 @@ The joy of code
 
 > Why I need *nix mail, or at least *nix outgoing mail.
 
-[The joy of code: Finding repeated words](joc-finding-repeats) (Musing #282)
+[The joy of code: Counting repeated words](joc-counting-repeats) (Musing #282)
 
 > Synthesizing a simple shell script
 

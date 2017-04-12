@@ -117,3 +117,7 @@ Why Grinnell staff with Ph.D's should be allowed to teach.
 
 > I rant about an email message that I received.
 
+[Good things about Grinnell that frustrate me: Too many events](too-many-events) (Musing #286)
+
+> Doesn't anyone pay attention to our schedule of events?
+

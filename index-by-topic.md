@@ -570,6 +570,10 @@ Why Grinnell staff with Ph.D's should be allowed to teach.
 
 > I rant about an email message that I received.
 
+[Good things about Grinnell that frustrate me: Too many events](too-many-events) (Musing #286)
+
+> Doesn't anyone pay attention to our schedule of events?
+
 Assorted talks and speeches
 ---------------------------
 
@@ -843,7 +847,7 @@ The joy of code
 
 > Why I need *nix mail, or at least *nix outgoing mail.
 
-[The joy of code: Finding repeated words](joc-finding-repeats) (Musing #282)
+[The joy of code: Counting repeated words](joc-counting-repeats) (Musing #282)
 
 > Synthesizing a simple shell script
 
