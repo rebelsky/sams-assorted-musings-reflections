@@ -612,6 +612,22 @@ That's about as DRY as I can get data structure code in C.
 
 ---
 
+A colleague writes
+
+> A pointer to production quality implementations wouldn't go amiss in your post. The BSD `sys/queue.h` and `sys/tree.h` list/stack/queue and tree implementations run on a few billion devices. `uthash.h` is newer but might be even more popular in new code.
+
+> A cute related trick I saw recently was using macros to generate specialized instances of C sorting functions implementing the posix qsort() interface. They were called from the generic version in the (likely) case that the caller was sorting an array of primitive types.
+
+That note reminds me that I'm definitely not a working professional
+C programmer, since I didn't know about any of this.  *nix users
+can learn more about `sys/queue.h` by typing `man 3 queue`.
+It looks like uthash is an independent project.  The [user
+guide](http://troydhanson.github.io/uthash/userguide.html) is quite
+informative.  I'm sure that my students will appreciate the associated
+assignments.
+
+---
+
 [1] Sorry, I have no idea what it was.
 
 [2] Okay, good programmers use data structures from a library *and*
@@ -660,4 +676,4 @@ comments because we're preprocessing.
 
 ---
 
-*Version 1.0 of 2017-04-12.*
+*Version 1.1 of 2017-04-13.*
