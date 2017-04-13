@@ -87,6 +87,10 @@ Searching files with `find`
 
 > An appliaction of macros, along with some further exploration of some macro design issues.
 
+[Using macros for generic structures in C](cnix-macros-generics) (Musing #287)
+
+> Another application of macros: Writing generic structures that can hold a variety of values.
+
 Additional compiler flags
 
 > C compiler flags you should know.

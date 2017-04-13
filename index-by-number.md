@@ -374,3 +374,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Other kinds of writing](other-writing-2017-04-09) (Musing #284)  
 [Determining whether or not a string starts with an upper-case letter (or why Sam may fail programming interviews)](starts-with-uppercase) (Musing #285)  
 [Good things about Grinnell that frustrate me: Too many events](too-many-events) (Musing #286)  
+[Using macros for generic structures in C](cnix-macros-generics) (Musing #287)  

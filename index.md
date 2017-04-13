@@ -8,7 +8,7 @@ of how I approach the world.  Some are just my attempts to think through
 a topic.
 
 Latest musing:
-[Good things about Grinnell that frustrate me: Too many events](too-many-events) (Musing #286)
+[Using macros for generic structures in C](cnix-macros-generics) (Musing #287)
 
 [Musings, by number](index-by-number.html)
 
