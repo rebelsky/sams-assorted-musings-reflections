@@ -14,11 +14,10 @@ governance and a famous guest speaker give a Faculty Friday session about
 shared governance [1].  Today, we had another meeting that was intended
 to follow up on the faculty-meeting discussion and the presentation.
 We covered some interesting issues today and I wish more people had
-been there to participate.  I appreciate Faculty Chair Reitz's efforts
-to get issues of shared governance out on the table.  I also appreciate
-both President Kington's and Dean Latham's willingness to talk about
-these issues.  Unfortunately, very few faculty members showed up and that
-makes me sad.
+been there.  I appreciate Faculty Chair Reitz's efforts to get issues of
+shared governance out on the table.  I also appreciate both President
+Kington's and Dean Latham's willingness to talk about these issues.
+Unfortunately, very few faculty members showed up and that makes me sad.
 
 An optimist might say that few faculty showed up because the majority of
 faculty are satisfied with the state of shared governance at Grinnell.
