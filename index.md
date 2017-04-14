@@ -8,7 +8,7 @@ of how I approach the world.  Some are just my attempts to think through
 a topic.
 
 Latest musing:
-[Using macros for generic structures in C](cnix-macros-generics) (Musing #287)
+[Shared governance, revisited](shared-governance-revisited-2017-04-13) (Musing #288)
 
 [Musings, by number](index-by-number.html)
 

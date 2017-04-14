@@ -422,6 +422,10 @@ Reflections on some important issues
 > Faculty, staff, administrators, and maybe even students working
   together to govern the College.
 
+[Shared governance, revisited](shared-governance-revisited-2017-04-13) (Musing #288)
+
+> Some followup discussions on shared governance.
+
 [Web Accessibility](web-accessibility.html) (Essay #92)
 
 > What you should pay attention to when building Web pages.
