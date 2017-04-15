@@ -3,6 +3,7 @@ Some forthcoming essays
 
 *Reminder: Look through some of the indices for other forthcoming essays.*
 
+* Essay ??? (Techimcal): Variadic macros
 * Essay ??? (Technical): Your own commands
 * Essay ??? (Technical): Shell variables
 * Essay ??? (Technical): Bash-basics: Command-line patterns
@@ -19,6 +20,8 @@ my goals.*
 1. Conference Swag.
 
 1. (Semi-technical): Resetting passwords.
+
+1. What is a Coaster
 
 1. Academic geneaology.
 
@@ -65,9 +68,7 @@ the top.*
 
 1. A readers guide to Sam's musings.
 
-1. Selecting summer students.  (Plus guidance.)
-
-1. Rant about grammarly.  grammarly-repetitive-words.md
+1. Selecting summer students.
 
 1. Passive: "was surprised"; "was tempted".  See 
 http://www.cs.grinnell.edu/~rebelsky/musings/muse-spring-break-continues
