@@ -376,3 +376,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Good things about Grinnell that frustrate me: Too many events](too-many-events) (Musing #286)  
 [Using macros for generic structures in C](cnix-macros-generics) (Musing #287)  
 [Shared governance, revisited](shared-governance-revisited-2017-04-13) (Musing #288)  
+[Advice for students on interviewing](interviewing-advice) (Musing #289)  

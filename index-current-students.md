@@ -106,3 +106,11 @@ Why a good computer science education includes much more than computer science
 
 > A draft of a speech to prospective majors.
 
+[A letter to our students](professional-email) (Essay #237)
+
+> Advice to students about letters.
+
+[Advice for students on interviewing](interviewing-advice) (Musing #289)
+
+> The title says it all.
+

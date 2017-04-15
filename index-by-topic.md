@@ -356,6 +356,14 @@ Why a good computer science education includes much more than computer science
 
 > A draft of a speech to prospective majors.
 
+[A letter to our students](professional-email) (Essay #237)
+
+> Advice to students about letters.
+
+[Advice for students on interviewing](interviewing-advice) (Musing #289)
+
+> The title says it all.
+
 For alumni and others who donate to the department
 --------------------------------------------------
 
@@ -1361,10 +1369,6 @@ Almost everything else
 [Asking questions](asking-questions) (Essay #236)
 
 > An answer to one.
-
-[A letter to our students](professional-email) (Essay #237)
-
-> A letter about letters.
 
 [Office hours](office-hours) (Essay #239)
 

@@ -121,10 +121,6 @@ Almost everything else
 
 > An answer to one.
 
-[A letter to our students](professional-email) (Essay #237)
-
-> A letter about letters.
-
 [Office hours](office-hours) (Essay #239)
 
 > More thoughts on my professional life.
