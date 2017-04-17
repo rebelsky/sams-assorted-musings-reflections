@@ -8,7 +8,7 @@ of how I approach the world.  Some are just my attempts to think through
 a topic.
 
 Latest musing:
-[Advice for students on interviewing](interviewing-advice) (Musing #289)
+[Grinnell's 2017 Kinetic Sculpture Competition](kinetic-scuplture-2017) (Musing #291)
 
 [Musings, by number](index-by-number.html)
 

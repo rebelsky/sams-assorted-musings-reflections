@@ -586,6 +586,10 @@ Why Grinnell staff with Ph.D's should be allowed to teach.
 
 > Doesn't anyone pay attention to our schedule of events?
 
+[Handling student course demand](course-demand) (Musing #290)
+
+> Yes, we need extra sessions and the occasional overenrolled course.
+
 Assorted talks and speeches
 ---------------------------
 
@@ -1095,6 +1099,10 @@ categories.*
 [A draft handbook for the Computer Science SEPC](sepc-handbook-draft-2017-03-11) (Essay #255)
 
 > Further help.
+
+[Grinnell's 2017 Kinetic Sculpture Competition](kinetic-scuplture-2017) (Musing #291)
+
+> Yet another thing I enjoy about Grinnell.
 
 Reviews and notes about things I enjoy
 --------------------------------------

@@ -89,3 +89,7 @@ categories.*
 
 > Further help.
 
+[Grinnell's 2017 Kinetic Sculpture Competition](kinetic-scuplture-2017) (Musing #291)
+
+> Yet another thing I enjoy about Grinnell.
+

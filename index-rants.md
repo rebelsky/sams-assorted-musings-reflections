@@ -121,3 +121,7 @@ Why Grinnell staff with Ph.D's should be allowed to teach.
 
 > Doesn't anyone pay attention to our schedule of events?
 
+[Handling student course demand](course-demand) (Musing #290)
+
+> Yes, we need extra sessions and the occasional overenrolled course.
+

@@ -377,3 +377,8 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Using macros for generic structures in C](cnix-macros-generics) (Musing #287)  
 [Shared governance, revisited](shared-governance-revisited-2017-04-13) (Musing #288)  
 [Advice for students on interviewing](interviewing-advice) (Musing #289)  
+[Handling student course demand](course-demand) (Musing #290)  
+
+## 291-300
+
+[Grinnell's 2017 Kinetic Sculpture Competition](kinetic-scuplture-2017) (Musing #291)  
