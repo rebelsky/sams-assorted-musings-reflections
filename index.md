@@ -8,7 +8,7 @@ of how I approach the world.  Some are just my attempts to think through
 a topic.
 
 Latest musing:
-[Grinnell's 2017 Kinetic Sculpture Competition](kinetic-scuplture-2017) (Musing #291)
+[Summer research with students](summer-research) (Musing #292)
 
 [Musings, by number](index-by-number.html)
 

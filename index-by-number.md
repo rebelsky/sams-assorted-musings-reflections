@@ -382,3 +382,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 ## 291-300
 
 [Grinnell's 2017 Kinetic Sculpture Competition](kinetic-scuplture-2017) (Musing #291)  
+[Summer research with students](summer-research) (Musing #292)  

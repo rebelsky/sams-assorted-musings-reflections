@@ -234,6 +234,9 @@ Connecting to our Community
 
 > A short reflection on the variety of people you will meet in the CS department.
 
+[Summer research with students](summer-research) (Musing #292)
+
+> Why I offer summer research opportunities.
 For prospective faculty
 -----------------------
 
