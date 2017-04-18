@@ -2,7 +2,7 @@ Selecting summer students
 =========================
 
 There are certainly many reasons I am fortunate to teach at Grinnell, some
-of which I have detailed [elsewhere](teaching-cs-at-grinnell).  One that
+of which [I have detailed elsewhere](teaching-cs-at-grinnell).  One that
 drew me to Grinnell was the support for student-faculty research projects.
 It's not that I want cheap smart labor; rather, it's that I think some
 of my most important teaching happens when I work with summer students.
@@ -10,7 +10,20 @@ Because Grinnell provides summer research students with a small stipend
 [1] and academic credit, students are generally able to choose to do
 summer research regardless of their financial situation [2,4].
 
-Why is summer research some of my most important teaching?  Primarily
+Why is summer research some of my most important teaching?  Because
+it's a very different kind of experience for our students.  They take
+much more ownership of the project and ownership can be a powerful
+motivational factor.  They get to experience more kinds of failure in
+summer projects than we normally allow them to experience in classes [5].
+They get to experience making a wrong choice and seeing what they can pick
+up from the effects of the wrong choice.  But, most importantly, they
+learn that they are good at what they do.  Our top students know that.
+Our middle-tier students are also good at what they do, but they don't
+realize it until the work on a large project.  They see that they can
+teach themselves and others new ideas.  They see that they can work well
+with others in unstructured situations [6].  They also 
+
+
 
 ---
 
@@ -32,4 +45,10 @@ opportunities like interships and research because their families
 do not understand the long-term benefits of those opportunities.
 In order to address those issues, we need to start by making sure that
 students get paid for the work.
+
+[5] We try to provide enough support that they don't fail any class.
+But we learn from mistakes, so we allow small mistakes in our classes.
+
+[6] My summer students will tell you that "unstructured" may be an
+understatement for my summer projects.
 
