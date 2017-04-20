@@ -72,6 +72,7 @@ INDICES = index-by-topic-head.md \
 	index-reviews.md \
         index-autobiographical.md \
 	index-misc.md \
+        index-multiple-entries.md \
 	index-removed.md 
 
 index-by-topic.md: $(INDICES)
