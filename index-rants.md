@@ -125,3 +125,7 @@ Why Grinnell staff with Ph.D's should be allowed to teach.
 
 > Yes, we need extra sessions and the occasional overenrolled course.
 
+[A (nonlinear) rant](nonlinear-rant-2017-04-18) (Musing #293)
+
+> Things that bothered me one day.
+

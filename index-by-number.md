@@ -213,7 +213,7 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 ## 161-170
 
 [The strange pricing of meal plans](meal-plan-pricing) (Essay #161)   
-[Some shorter questions and answers about Grinnell's CS program](cs-faq) (Essay #162).  
+[Some shorter questions and answers about Grinnell's CS program](cs-faq) (Musing #162).  
 [More fun with Harry & David](harry-and-david-2) (Essay #163)  
 [Thank-you letter to donors to the CS department (version of December 2016)](donor-thank-you-2016-12) (Essay #164)  
 [Christmas eve, 2016](christmas-eve-2016) (Essay #165)  
@@ -381,5 +381,7 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 
 ## 291-300
 
-[Grinnell's 2017 Kinetic Sculpture Competition](kinetic-scuplture-2017) (Musing #291)  
+[Grinnell's 2017 Kinetic Sculpture Competition](kinetic-sculpture-2017) (Musing #291)  
 [Summer research with students](summer-research) (Musing #292)  
+[A (nonlinear) rant](nonlinear-rant-2017-04-18) (Musing #293)  
+[Some shorter questions and answers about Grinnell's CS program](cs-faq) (Essay #294).  

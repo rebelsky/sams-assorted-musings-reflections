@@ -179,7 +179,7 @@ For prospective students, parents of prospective students, and others with simil
 > A response to students who ask about the differences between CS at
   Grinnell and CS at our peer institutions.
 
-[Some shorter questions and answers about Grinnell's CS program](cs-faq) (Essay #162).
+[Some shorter questions and answers about Grinnell's CS program](cs-faq) (Essay #294).
 
 > Additional information about the department.
 
@@ -592,6 +592,10 @@ Why Grinnell staff with Ph.D's should be allowed to teach.
 [Handling student course demand](course-demand) (Musing #290)
 
 > Yes, we need extra sessions and the occasional overenrolled course.
+
+[A (nonlinear) rant](nonlinear-rant-2017-04-18) (Musing #293)
+
+> Things that bothered me one day.
 
 Assorted talks and speeches
 ---------------------------
@@ -1103,7 +1107,7 @@ categories.*
 
 > Further help.
 
-[Grinnell's 2017 Kinetic Sculpture Competition](kinetic-scuplture-2017) (Musing #291)
+[Grinnell's 2017 Kinetic Sculpture Competition](kinetic-sculpture-2017) (Musing #291)
 
 > Yet another thing I enjoy about Grinnell.
 
@@ -1452,6 +1456,18 @@ Almost everything else
 [Determining whether or not a string starts with an upper-case letter (or why Sam may fail programming interviews)](starts-with-uppercase) (Musing #285)
 
 > I think the subtitle says it all.
+
+Musings with multiple entries
+-----------------------------
+
+*Most frequently, when I revisit a topic, I make a new document.  However,
+in a few cases, such as [the CS FAQ](cs-faq), it makes more sense to 
+extend an existing document, rather than to create a new one.  I keep the
+old entries for those musings in this file.*
+
+[Some shorter questions and answers about Grinnell's CS program](cs-faq) (Musing #162).
+
+> Additional information about the department.
 
 Removed
 -------
