@@ -8,7 +8,7 @@ of how I approach the world.  Some are just my attempts to think through
 a topic.
 
 Latest musing:
-[A (nonlinear) rant](nonlinear-rant-2017-04-18) (Musing #293)
+[Some shorter questions and answers about Grinnell's CS program](cs-faq) (Essay #294).
 
 [Musings, by number](index-by-number.html)
 
