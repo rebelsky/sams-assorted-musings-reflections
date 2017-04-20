@@ -179,7 +179,7 @@ For prospective students, parents of prospective students, and others with simil
 > A response to students who ask about the differences between CS at
   Grinnell and CS at our peer institutions.
 
-[Some shorter questions and answers about Grinnell's CS program](cs-faq) (Essay #294).
+[Some shorter questions and answers about Grinnell's CS program](cs-faq) (Musing #294).
 
 > Additional information about the department.
 
