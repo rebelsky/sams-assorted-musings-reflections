@@ -1457,6 +1457,10 @@ Almost everything else
 
 > I think the subtitle says it all.
 
+[Making good choices](making-good-choices-2017-04-20) (Musing #295)
+
+> In which I do so.
+
 Musings with multiple entries
 -----------------------------
 

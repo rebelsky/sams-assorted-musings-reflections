@@ -385,3 +385,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Summer research with students](summer-research) (Musing #292)  
 [A (nonlinear) rant](nonlinear-rant-2017-04-18) (Musing #293)  
 [Some shorter questions and answers about Grinnell's CS program](cs-faq) (Musing #294).  
+[Making good choices](making-good-choices-2017-04-20) (Musing #295)  

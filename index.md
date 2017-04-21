@@ -8,7 +8,7 @@ of how I approach the world.  Some are just my attempts to think through
 a topic.
 
 Latest musing:
-[Some shorter questions and answers about Grinnell's CS program](cs-faq) (Musing #294).
+[Making good choices](making-good-choices-2017-04-20) (Musing #295)
 
 [Musings, by number](index-by-number.html)
 
