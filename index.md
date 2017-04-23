@@ -8,7 +8,7 @@ of how I approach the world.  Some are just my attempts to think through
 a topic.
 
 Latest musing:
-[Making good choices](making-good-choices-2017-04-20) (Musing #295)
+[The joy of code: Making acronyms](joc-acronym) (Musing #296)
 
 [Musings, by number](index-by-number.html)
 

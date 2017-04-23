@@ -878,6 +878,10 @@ The joy of code
 
 > Synthesizing a simple shell script
 
+[The joy of code: Making acronyms](joc-acronym) (Musing #296)
+
+> Fun with Scheme.
+
 Grinnellians you should know (or know about)
 --------------------------------------------
 
