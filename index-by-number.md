@@ -387,3 +387,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Some shorter questions and answers about Grinnell's CS program](cs-faq) (Musing #294).  
 [Making good choices](making-good-choices-2017-04-20) (Musing #295)  
 [The joy of code: Making acronyms](joc-acronym) (Musing #296)  
+[The state of the CS department](department-state-2017-04-22) (Musing #297)  

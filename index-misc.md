@@ -197,3 +197,7 @@ Almost everything else
 
 > In which I do so.
 
+[The state of the CS department](department-state-2017-04-22) (Musing #297)
+
+> Numbers!
+

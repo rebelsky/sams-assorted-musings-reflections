@@ -8,7 +8,7 @@ of how I approach the world.  Some are just my attempts to think through
 a topic.
 
 Latest musing:
-[The joy of code: Making acronyms](joc-acronym) (Musing #296)
+[The state of the CS department](department-state-2017-04-22) (Musing #297)
 
 [Musings, by number](index-by-number.html)
 
