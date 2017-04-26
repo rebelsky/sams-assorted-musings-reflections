@@ -8,7 +8,7 @@ of how I approach the world.  Some are just my attempts to think through
 a topic.
 
 Latest musing:
-[Student wages](student-wages) (Musing #299)
+[Too many topics, too little time](too-many-topics-too-little-time) (Musing #300)
 
 [Musings, by number](index-by-number.html)
 

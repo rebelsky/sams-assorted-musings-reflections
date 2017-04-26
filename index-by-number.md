@@ -390,3 +390,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [The state of the CS department](department-state-2017-04-22) (Musing #297)  
 [Inbox zero, stage 8 (email bankruptcy)](inbox-zero-08) (Musing #298)  
 [Student wages](student-wages) (Musing #299)  
+[Too many topics, too little time](too-many-topics-too-little-time) (Musing #300)  

@@ -164,3 +164,7 @@ Essays on writing, or at least on writing my essays
 
 > More reasons not to trust electronic editors.
 
+[Too many topics, too little time](too-many-topics-too-little-time) (Musing #300)
+
+> A potential new name for this collection.
+
