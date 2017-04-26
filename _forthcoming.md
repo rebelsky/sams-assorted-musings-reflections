@@ -1,13 +1,16 @@
 Some forthcoming essays
 =======================
 
-*Reminder: Look through some of the indices for other forthcoming essays.*
-
-* Essay ??? (Techimcal): Variadic macros
+* Essay ??? (Nontechnical): Hotel Grinnell
+* Essay ??? (Nontechnical): Belonging
+* Essay ??? (Semi-technical): Ethics in our curriculum
+* Essay ??? (Technical): Text in mediascheme
+* Essay ??? (Nontechnical): The CSC 151 project
 * Essay ??? (Technical): Your own commands
 * Essay ??? (Technical): Shell variables
 * Essay ??? (Technical): Bash-basics: Command-line patterns
 * Essay ??? (Technical): Bash-basics: I/O redirection
+* Essay ??? (Technical): Variadic macros
 
 ---
 
@@ -17,13 +20,19 @@ Quick (?)
 *For the days in which I need to "dash off" an essay in order to meet
 my goals.*
 
+1. The csstudents mailing list.
+
+1. "a musing" vs. "amusing"
+
+1. "Checking in ..."  A teaching tip.  (and more)
+
 1. Conference Swag.
 
 1. (Semi-technical): Resetting passwords.
 
 1. What is a Coaster
 
-1. Academic geneaology.
+1. Academic geneaology.  <http://veblenhouse.blogspot.com/2017/04/the-usefulness-of-useless-knowledge.html>.  <http://www.towntopics.com/wordpress/2013/02/06/who-is-oswald-veblen-imagine-princeton-without-the-ias-einstein-herrontown-woods/>.  <https://genealogy.math.ndsu.nodak.edu/id.php?id=805>.  <http://etcweb.princeton.edu/CampusWWW/Companion/veblen_oswald.html>.
 
 1. GrinnellParents listserv.
 
@@ -66,9 +75,22 @@ General
 order, other than the ones I've come up with more recently tend to be near
 the top.*
 
-1. A readers guide to Sam's musings.
+1. Useless knowledge.  <http://www.chronicle.com/article/We-Need-More-Useless-/239365>.  <https://www.ias.edu/about/usefulness-useless-knowledge>.
+
+1. Two cultures - Departments with high demand, departments with lower
+demand.
 
 1. Selecting summer students.
+
+1. LaTeX
+
+1. My ugly site.
+
+1. Sarah's responsibilities (?)
+
+1. Gamification vs. Intrinsic motivation.
+
+1. A reader's guide to Sam's musings.
 
 1. Passive: "was surprised"; "was tempted".  See 
 http://www.cs.grinnell.edu/~rebelsky/musings/muse-spring-break-continues
