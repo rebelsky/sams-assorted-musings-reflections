@@ -73,6 +73,10 @@ Almost everything else
 
 > Sam resumes his quest.
 
+[Inbox zero, stage 8 (email bankruptcy)](inbox-zero-08) (Musing #298)
+
+> Although the prior resumption was a failure, Sam tries again.
+
 ["Sam, you are on too many mailing lists"](mailing-lists) (Essay #254)
 
 > Some of the reasons Inbox zero is difficult.

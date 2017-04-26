@@ -8,7 +8,7 @@ of how I approach the world.  Some are just my attempts to think through
 a topic.
 
 Latest musing:
-[The state of the CS department](department-state-2017-04-22) (Musing #297)
+[Inbox zero, stage 8 (email bankruptcy)](inbox-zero-08) (Musing #298)
 
 [Musings, by number](index-by-number.html)
 
