@@ -8,7 +8,7 @@ of how I approach the world.  Some are just my attempts to think through
 a topic.
 
 Latest musing:
-[Inbox zero, stage 8 (email bankruptcy)](inbox-zero-08) (Musing #298)
+[Student wages](student-wages) (Musing #299)
 
 [Musings, by number](index-by-number.html)
 

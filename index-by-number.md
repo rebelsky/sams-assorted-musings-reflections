@@ -389,3 +389,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [The joy of code: Making acronyms](joc-acronym) (Musing #296)  
 [The state of the CS department](department-state-2017-04-22) (Musing #297)  
 [Inbox zero, stage 8 (email bankruptcy)](inbox-zero-08) (Musing #298)  
+[Student wages](student-wages) (Musing #299)  

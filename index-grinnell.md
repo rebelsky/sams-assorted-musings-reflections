@@ -93,3 +93,7 @@ categories.*
 
 > Yet another thing I enjoy about Grinnell.
 
+[Student wages](student-wages) (Musing #299)
+
+> An extended reflection with no real point.
+
