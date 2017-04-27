@@ -8,7 +8,7 @@ of how I approach the world.  Some are just my attempts to think through
 a topic.
 
 Latest musing:
-[Too many topics, too little time](too-many-topics-too-little-time) (Musing #300)
+[Finding room in my schedule](finding-room-in-my-schedule-2017-04-26) (Musing #301)
 
 [Musings, by number](index-by-number.html)
 

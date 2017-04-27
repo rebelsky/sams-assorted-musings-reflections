@@ -391,3 +391,7 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Inbox zero, stage 8 (email bankruptcy)](inbox-zero-08) (Musing #298)  
 [Student wages](student-wages) (Musing #299)  
 [Too many topics, too little time](too-many-topics-too-little-time) (Musing #300)  
+
+## 301-310
+
+[Finding room in my schedule](finding-room-in-my-schedule-2017-04-26) (Musing #301)  

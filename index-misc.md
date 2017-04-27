@@ -205,3 +205,7 @@ Almost everything else
 
 > Numbers!
 
+[Finding room in my schedule](finding-room-in-my-schedule-2017-04-26) (Musing #301)
+
+> Searching for the imaginary.
+
