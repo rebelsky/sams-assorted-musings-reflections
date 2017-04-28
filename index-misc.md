@@ -209,3 +209,7 @@ Almost everything else
 
 > Searching for the imaginary.
 
+[Preregistration (for Fall 2017)](prereg-2017F) (Musing #302)
+
+> What classes over-enroll?
+

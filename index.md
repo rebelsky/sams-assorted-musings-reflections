@@ -8,7 +8,7 @@ of how I approach the world.  Some are just my attempts to think through
 a topic.
 
 Latest musing:
-[Finding room in my schedule](finding-room-in-my-schedule-2017-04-26) (Musing #301)
+[Preregistration (for Fall 2017)](prereg-2017F) (Musing #302)
 
 [Musings, by number](index-by-number.html)
 
