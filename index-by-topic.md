@@ -1489,6 +1489,10 @@ Almost everything else
 
 > What classes over-enroll?
 
+[Planning a department meeting](department-meeting-2017-04-28) (Musing #303)
+
+> What do we talk about each week, or at least this week?
+
 Musings with multiple entries
 -----------------------------
 

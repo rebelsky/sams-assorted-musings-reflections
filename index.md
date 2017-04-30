@@ -8,7 +8,7 @@ of how I approach the world.  Some are just my attempts to think through
 a topic.
 
 Latest musing:
-[Preregistration (for Fall 2017)](prereg-2017F) (Musing #302)
+[Planning a department meeting](department-meeting-2017-04-28) (Musing #303)
 
 [Musings, by number](index-by-number.html)
 
