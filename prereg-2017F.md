@@ -27,7 +27,7 @@ Katya's _Cultural Politics of Fashion_ is over-enrolled by 10, with
 interesting time (Monday, 7:00-9:50 p.m.) and has an interesting
 topic.  It's also a Katya course, which I know many students
 appreciate.  Surprisingly, though, her _Shaping American Identity in
-Moving Images_ [8]
+Moving Images_ [8] is not over-enrolled.
 
 As seems to be the norm, a section of _Introduction to the Studio_ is 
 over-enrolled.  The TuTh morning section has 20 in a course that
@@ -182,6 +182,12 @@ I wrote about it in [an earlier essay](prereg-2017S).
 
 ---
 
+Damn!  I just realized that the list of course offerings doesn't get
+updated after 6:00 p.m.  I wonder how much things have changed since
+then.  Oh well, I'll see tomorrow morning.
+
+---
+
 [1] It's 9:00 p.m. on Thursday evening.  Prereg ends at midnight.
 
 [2] I have another nine who will be studying abroad in the fall and
@@ -252,4 +258,4 @@ amount.
 
 ---
 
-*Version 1.0 of 2017-04-27.*
+*Version 1.0.1 of 2017-04-28.*
