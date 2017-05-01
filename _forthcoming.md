@@ -1,10 +1,10 @@
 Some forthcoming essays
 =======================
 
+* Essay ??? (Nontechnical): Catalog copy
 * Essay ??? (Nontechnical): Hotel Grinnell
 * Essay ??? (Nontechnical): Belonging
 * Essay ??? (Semi-technical): Ethics in our curriculum
-* Essay ??? (Technical): Text in mediascheme
 * Essay ??? (Nontechnical): The CSC 151 project
 * Essay ??? (Technical): Your own commands
 * Essay ??? (Technical): Shell variables
@@ -20,9 +20,11 @@ Quick (?)
 *For the days in which I need to "dash off" an essay in order to meet
 my goals.*
 
-1. The csstudents mailing list.
-
 1. "a musing" vs. "amusing"
+
+1. Shop for Mom.
+
+1. The csstudents mailing list.
 
 1. "Checking in ..."  A teaching tip.  (and more)
 
@@ -75,10 +77,16 @@ General
 order, other than the ones I've come up with more recently tend to be near
 the top.*
 
+1. Falling down the Racket accessibility rabbithole.
+
+1. GSP, the Grinnell Science Project.
+
 1. Useless knowledge.  <http://www.chronicle.com/article/We-Need-More-Useless-/239365>.  <https://www.ias.edu/about/usefulness-useless-knowledge>.
 
 1. Two cultures - Departments with high demand, departments with lower
 demand.
+
+1. Text in mediascheme
 
 1. Selecting summer students.
 
@@ -152,8 +160,6 @@ http://www.lel.ed.ac.uk/~gpullum/EskimoHoax.pdf
 1. Our ASAs.
 
 1. Modeling Many Majors.  (Probably not; too scary.)
-
-1. GSP, the Grinnell Science Project.
 
 1. Rebecca C's comment about UIllinois.
 
