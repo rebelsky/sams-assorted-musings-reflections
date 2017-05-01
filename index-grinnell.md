@@ -97,3 +97,7 @@ categories.*
 
 > An extended reflection with no real point.
 
+[The _Staff Handbook_](staff-handbook-2017-04-29) (Musing #304)
+
+> They asked for suggestions.  
+

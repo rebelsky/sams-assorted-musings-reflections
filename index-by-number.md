@@ -397,3 +397,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Finding room in my schedule](finding-room-in-my-schedule-2017-04-26) (Musing #301)  
 [Preregistration (for Fall 2017)](prereg-2017F) (Musing #302)  
 [Planning a department meeting](department-meeting-2017-04-28) (Musing #303)  
+[The _Staff Handbook_](staff-handbook-2017-04-29) (Musing #304)  

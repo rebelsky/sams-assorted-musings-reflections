@@ -8,7 +8,7 @@ of how I approach the world.  Some are just my attempts to think through
 a topic.
 
 Latest musing:
-[Planning a department meeting](department-meeting-2017-04-28) (Musing #303)
+[The _Staff Handbook_](staff-handbook-2017-04-29) (Musing #304)
 
 [Musings, by number](index-by-number.html)
 
