@@ -56,6 +56,10 @@ Essays on writing, or at least on writing my essays
 
 > In which I revise the term I use to refer to these pieces of writing.
 
+[Nine months of daily musings](nine-months) (Musing #305)
+
+> Or "one year since my first daily musing".
+
 [On making, breaking, and remaking the habit of daily writing](habit-of-writing.html) (Essay #41)
 
 > Reflections on trying to restart these essays.

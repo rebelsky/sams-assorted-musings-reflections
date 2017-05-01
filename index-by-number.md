@@ -398,3 +398,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Preregistration (for Fall 2017)](prereg-2017F) (Musing #302)  
 [Planning a department meeting](department-meeting-2017-04-28) (Musing #303)  
 [The _Staff Handbook_](staff-handbook-2017-04-29) (Musing #304)  
+[Nine months of daily musings](nine-months) (Musing #305)  

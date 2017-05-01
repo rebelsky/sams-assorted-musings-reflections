@@ -8,7 +8,7 @@ of how I approach the world.  Some are just my attempts to think through
 a topic.
 
 Latest musing:
-[The _Staff Handbook_](staff-handbook-2017-04-29) (Musing #304)
+[Nine months of daily musings](nine-months) (Musing #305)
 
 [Musings, by number](index-by-number.html)
 
