@@ -128,6 +128,9 @@ But I assume that he has no time to read what I write.
 [12] David still leaves the occasional comment, but I haven't heard from
 Harley in weeks.
 
+[14] I included a reference to an endnote 14 when I wrote this musing,
+but I forgot to include the endnote.  I wonder what I intended to say.
+
 ---
 
-*Version 1.0 of 2017-04-30.*
+*Version 1.0.1 of 2017-05-01.*
