@@ -8,7 +8,7 @@ of how I approach the world.  Some are just my attempts to think through
 a topic.
 
 Latest musing:
-[Nine months of daily musings](nine-months) (Musing #305)
+[Hotel Grinnell](hotel-grinnell) (Musing #306)
 
 [Musings, by number](index-by-number.html)
 

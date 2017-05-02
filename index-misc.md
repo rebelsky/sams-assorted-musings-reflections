@@ -217,3 +217,7 @@ Almost everything else
 
 > What do we talk about each week, or at least this week?
 
+[Hotel Grinnell](hotel-grinnell) (Musing #306)
+
+> It may actually succeed.
+
