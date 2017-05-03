@@ -221,3 +221,7 @@ Almost everything else
 
 > It may actually succeed.
 
+[Whoops](whoops-2017-05-02) (Musing #307)
+
+> 'nuff said.
+

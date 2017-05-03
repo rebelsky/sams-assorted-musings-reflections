@@ -400,3 +400,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [The _Staff Handbook_](staff-handbook-2017-04-29) (Musing #304)  
 [Nine months of daily musings](nine-months) (Musing #305)  
 [Hotel Grinnell](hotel-grinnell) (Musing #306)  
+[Whoops](whoops-2017-05-02) (Musing #307)  

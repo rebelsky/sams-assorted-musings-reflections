@@ -8,7 +8,7 @@ of how I approach the world.  Some are just my attempts to think through
 a topic.
 
 Latest musing:
-[Hotel Grinnell](hotel-grinnell) (Musing #306)
+[Whoops](whoops-2017-05-02) (Musing #307)
 
 [Musings, by number](index-by-number.html)
 
