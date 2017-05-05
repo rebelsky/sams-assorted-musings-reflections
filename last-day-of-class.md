@@ -29,25 +29,26 @@ and have them work together, and then have them share with the class.)
 I usually give them big areas.  For example, in CSC 151, our first
 course, I ask them to come up with things they've learned about (a)
 problem solving, (b) computer science (particularly in algorithm and
-data design), (c) the Scheme program, (d) methods of creating images
+data design), (c) the Scheme programming language, (d) methods of creating images
 algorithmically, and (e) software design.
 
-Howver, the learning outcomes of a class are more than these disciplinary
+However, the learning outcomes of a class are more than these disciplinary
 issues.  So, in every class, I also tell them that "every Grinnell course
 should help improve some general thinking skills" and ask them to list
 those.  (For most of my classes, my students improve their skills in
 collaborating with others, in "thinking on their feet", and in dealing
 with stress.)
 
-I don't stop there.  (Backstory: When I was a college student, my mother said that
-she was undertaking a project on faculty as "moral models".  I believe
-my response was "Mom, you may be a moral model to your students" (and she
-was), "but I don't believe that most faculty are moral models."  However,
-now that I'm an old faculty member, I see that we do provide moral models,
-particularly in how we interact with our students.  Those interactions
-show the kinds of things we value.)  I also ask my students to
-think about what more general lessons they take from my class.  (Frequent
-responses include "care about others" and "there's more to life than CS".)
+I don't stop there.  (Backstory: When I was a college student, my mother
+said that she was undertaking a project on faculty as "moral models".
+I believe my response was "Mom, you may be a moral model to your students"
+(and she was), "but I don't believe that most faculty are moral models."
+However, now that I'm an old faculty member, I see that we do provide
+moral models, particularly in how we interact with our students.
+Those interactions show the kinds of things we value.)  I also ask my
+students to think about what more general lessons they take from my class.
+(Frequent responses include "care about others" and "there's more to
+life than CS".)
 
 The exercise of listing learning outcomes helps fulfill my need to
 "conclude" the subject matter of the course.  But it's also not enough.
@@ -140,4 +141,4 @@ just that your class felt more complete.)
 
 ---
 
-*Version 1.0  of 2016-05-13.*
+*Version 1.0.1 of 2017-05-04.*
