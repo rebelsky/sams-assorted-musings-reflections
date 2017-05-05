@@ -129,3 +129,11 @@ Why Grinnell staff with Ph.D's should be allowed to teach.
 
 > Things that bothered me one day.
 
+[Summer MAP compensation](summer-map-compensation) (Musing #308)
+
+> A more reasoned rant about two important issues.
+
+[The restrooms in Noyce](noyce-restrooms) (Musing #309)
+
+> A reason I'm ashamed of our students.
+

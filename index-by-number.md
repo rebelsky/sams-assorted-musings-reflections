@@ -401,3 +401,5 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Nine months of daily musings](nine-months) (Musing #305)  
 [Hotel Grinnell](hotel-grinnell) (Musing #306)  
 [Whoops](whoops-2017-05-02) (Musing #307)  
+[Summer MAP compensation](summer-map-compensation) (Musing #308)  
+[The restrooms in Noyce](noyce-restrooms) (Musing #309)  

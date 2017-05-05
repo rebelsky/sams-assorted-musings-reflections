@@ -8,7 +8,7 @@ of how I approach the world.  Some are just my attempts to think through
 a topic.
 
 Latest musing:
-[Whoops](whoops-2017-05-02) (Musing #307)
+[The restrooms in Noyce](noyce-restrooms) (Musing #309)
 
 [Musings, by number](index-by-number.html)
 
