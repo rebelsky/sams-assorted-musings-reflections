@@ -8,7 +8,7 @@ of how I approach the world.  Some are just my attempts to think through
 a topic.
 
 Latest musing:
-[The restrooms in Noyce](noyce-restrooms) (Musing #309)
+[Another speech to Duke TIP award winners](duke-tip-2017) (Musing #310)
 
 [Musings, by number](index-by-number.html)
 

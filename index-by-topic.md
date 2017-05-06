@@ -630,6 +630,12 @@ Assorted talks and speeches
 
 > Notes for a panel on best practices.
 
+[Another speech to Duke TIP award winners](duke-tip-2017) (Musing #310)
+
+> I did something right in 2016, since they asked me to come back
+  in 2017.  Or maybe it's just that I'm the only one who says yes.
+  Given Friday, 5 May 2017.
+
 Thank You Notes
 ---------------
 
