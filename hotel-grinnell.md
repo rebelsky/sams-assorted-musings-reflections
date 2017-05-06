@@ -61,7 +61,7 @@ businesses in town.  She's looking to serve things not served otherwise
 in town, rather than to duplicate existing offerings.  We'll see how
 that goes.
 
-Are there things missing from the hotel?  Yes.  There's no pool [8].
+Are there things missing from the hotel?  Yes.  There's no pool.
 I assume that pools are expensive to build and maintain.  But I'll note
 that my other favorite destination hotel, the Hotel Pattee, manages to
 fit in a sauna and large whirlpool instead.  It would be great to have
@@ -123,4 +123,4 @@ the elevator, rather than the stairs?
 
 ---
 
-*Version 1.0 of 2017-05-01.*
+*Version 1.0.1 of 2017-05-05.*
