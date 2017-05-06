@@ -160,7 +160,7 @@ No!  Lectures end with a quiz.  I hope that you took good notes.
 
 Which of the following were recommendations that I made today?
 
-* Pursue your passions. (Yes)  _Please raise your answer to vote
+* Pursue your passions. (Yes)  _Please raise your hand to vote
   on answers._
 * Do what you love now; it's clearly what you'll always love. (No)
   _Um, I'd like to see more of you raise your hands._
@@ -204,4 +204,4 @@ Windows from your computer."
 
 ---
 
-*Version 1.1 of 2017-05-05.*  
+*Version 1.1.1 of 2017-05-05.*  
