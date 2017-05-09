@@ -225,3 +225,7 @@ Almost everything else
 
 > 'nuff said.
 
+[Cuts, closes, and balances for Fall 2017](ccb-2017F) (Musing #312)
+
+> The aftermath of preregistration.
+

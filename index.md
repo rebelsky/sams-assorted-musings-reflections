@@ -7,8 +7,10 @@ Some are rants about topics I'm passionate about.  Some are explanations
 of how I approach the world.  Some are just my attempts to think through
 a topic.
 
-Latest musing:
-[Another speech to Duke TIP award winners](duke-tip-2017) (Musing #310)
+Latest musings:
+[Cuts, closes, and balances for Fall 2017](ccb-2017F) (Musing #312)
+and
+[Intent vs. impact](intent-vs-impact) (Musing #313)
 
 [Musings, by number](index-by-number.html)
 

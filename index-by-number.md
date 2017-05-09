@@ -404,3 +404,9 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Summer MAP compensation](summer-map-compensation) (Musing #308)  
 [The restrooms in Noyce](noyce-restrooms) (Musing #309)  
 [Another speech to Duke TIP award winners](duke-tip-2017) (Musing #310)  
+
+## 311-320
+
+[Academic honesty](academic-honesty-2017-05-07) (Musing #311)  
+[Cuts, closes, and balances for Fall 2017](ccb-2017F) (Musing #312)  
+[Intent vs. impact](intent-vs-impact) (Musing #313)  

@@ -78,3 +78,11 @@ Reflections on some important issues
 
 > Surviving America.
 
+[Academic honesty](academic-honesty-2017-05-07) (Musing #311)
+
+> Or lack thereof.
+
+[Intent vs. impact](intent-vs-impact) (Musing #313)
+
+> Our words and how people interpret them.
+
