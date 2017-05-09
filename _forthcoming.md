@@ -1,8 +1,8 @@
 Some forthcoming essays
 =======================
 
-* Essay ??? (Nontechnical): Catalog copy
-* Essay ??? (Nontechnical): Hotel Grinnell
+* Essay ??? (Nontechnical): Catalog copy  CRAP
+* Essay ??? (Nontechnical): Baccalaureate
 * Essay ??? (Nontechnical): Belonging
 * Essay ??? (Semi-technical): Ethics in our curriculum
 * Essay ??? (Nontechnical): The CSC 151 project
@@ -11,6 +11,7 @@ Some forthcoming essays
 * Essay ??? (Technical): Bash-basics: Command-line patterns
 * Essay ??? (Technical): Bash-basics: I/O redirection
 * Essay ??? (Technical): Variadic macros
+* Essay ??? (Nontechnical): Admissions
 
 ---
 
@@ -19,6 +20,9 @@ Quick (?)
 
 *For the days in which I need to "dash off" an essay in order to meet
 my goals.*
+
+1. "Get Outlook for Android/iPhone".  ("What can you do to be more successful
+on this exam.")
 
 1. "a musing" vs. "amusing"
 
@@ -52,9 +56,9 @@ my goals.*
 
 1. On names (Misc) (SamR, S.A., Sam, Samuel) [Short!]
 
-1. Are these essays?  (Should I rename them?)  Easy way out.  Google
-defines them as "a short piece of writing on a particular subject".  I
-think that fits.  I just don't write enough argumentative essays.  
+1. Are these essays?  (Should I rename them; I did?)  Easy way out.
+Google defines them as "a short piece of writing on a particular subject".
+I think that fits.  I just don't write enough argumentative essays.
 (Does this one go in end-of-month?)
 
 1. "relatable"
@@ -76,6 +80,9 @@ General
 *The list of topics that I've thought about writing about, in no particular
 order, other than the ones I've come up with more recently tend to be near
 the top.*
+
+1. Reruns.  (End of semester stuff, in particular: Week 14, last day of
+   class, etc.)
 
 1. Falling down the Racket accessibility rabbithole.
 
@@ -114,8 +121,6 @@ http://www.cs.grinnell.edu/~rebelsky/musings/muse-spring-break-continues
 1. HFOSS.
 
 1. <https://www.masterclass.com/classes/james-patterson-teaches-writing#/>
-
-1. The new slogan(s).
 
 1. CVs (or short CVs)  https://chroniclevitae.com/news/1662-how-to-shorten-a-cv
 
