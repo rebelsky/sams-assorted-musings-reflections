@@ -8,12 +8,13 @@ please be moderate in your critiques.  My intent is good*
 The other day, the CS department hosted a discussion of inclusion in
 computing.  I had many reactions to that discussion.  I've described
 one [in a prior musing](intent-vs-impact).  Let's consider another.
-one particularly useful comment I heard.  Maure Smith-Benati, our Director
-of Intercultural Affairs, noted that we don't realize all of the things
-that give us privilege.  She gave two useful examples.  Approximately,
+Maure Smith-Benati, our Director of Intercultural Affairs, noted that
+we don't realize all of the things that give us privilege.  She gave
+two useful examples.  Approximately,
 
 > I had to deal with people regularly telling me "You're a girl.
-You won't do well at math.  What don't you try the humanities."
+You won't do well at math.  Avoid the sciences.  What don't you try 
+the humanities?"
 
 > Getting up this morning, I had to think about whether or not to wear
 this pink shirt, because there are gender assumptions with that color [1].
@@ -68,4 +69,4 @@ hard in the summer as I work during the year [5].
 
 ---
 
-*Version 1.0 of 2017-05-08.*
+*Version 1.0.1 of 2017-05-09.*
