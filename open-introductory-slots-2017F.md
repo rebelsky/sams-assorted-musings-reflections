@@ -56,8 +56,8 @@ _Humanities: Foreign Language_
   160 slots total.
 
 There are 477 open slots in these subjects.  If things balance right,
-every student can take a foreign language.  That's good.  Students should
-study foreign language.
+every incoming student can take a foreign language.  That's good.
+Students should study foreign language.
 
 _Humanities: Other_
 
@@ -74,7 +74,8 @@ _Humanities: Other_
   22 slots in _Studying Religion: East Asia_.  43 slots total.
 
 There are 209 open slots in these subjects.  Fewer than one in two
-students can start with one of these core subjects.
+students can start with one of these subjects that are core to a liberal
+arts education [3].
 
 _Interdisciplinary_
 
@@ -88,7 +89,7 @@ _Interdisciplinary_
 * Linguistics: 12 slots in LIN-114, _Introduction to General Linguistics_.
 
 There are 102 open slots in these subjects.  About one in four students
-can start with an interdisciplinary course.
+can start with an interdisciplinary course [6].
 
 _Sciences_
 
@@ -103,18 +104,18 @@ _Sciences_
   between five sections of MAT-133, _Calculus II_. 7 slots between two
   sections of MAT-215, _Linear Algebra_.  278 total slots.
 * Physics: 31 slots between three sections of PHY-131, _General Physics I_.
-  21 slots between two sections of PHY-132, _General Physics II_.  52 slots
+  21 slots between two sections of PHY-132, _General Physics II_ [7].  52 slots
   total.
 * Psychology: 49 slots between three sections of PSY-113, _Introduction to
   Psychology_.
 
 There are 305 slots in sciences other than math, and another 278 slots 
 in math.  About two-thirds can take a science.  About two-thirds can
-take math.  (I think about two-thirds do take math.)
+take math [8].  
 
 _Social Sciences_
 
-* Antropology:  51 slots between the three sections of
+* Anthropology:  51 slots between the three sections of
   ANT-104, _Anthropological Inquiries_
 * Economics: 107 slots between the six sections of ECN-111, 
   _Introduction to Economics_
@@ -132,7 +133,7 @@ incoming students can take a social science in their first semester.
 _Other_
 
 * Statistics: 31 slots in MAT-115, _Introduction to Statistics_, which
-  is not open to first-year students.
+  is not open to first-year students [9].
 
 ---
 
@@ -145,6 +146,8 @@ a reasonable cushion.  Students may not get the exact courses they want
 the first semester, but they should get a good start to their liberal
 arts education.
 
+Or so I hope.
+
 ---
 
 [1] Wow, that sounds like a lot, doesn't it?  That's about 54 courses,
@@ -153,6 +156,34 @@ more or less.
 [2] Note that because the languages clearly leave spots in 200-level
 classes for incoming students, I've included their 200-level courses.
 
+[3] I've heard it suggested that every liberal arts student should take
+introduction to philosophy.  Grinnell doesn't have general education
+requirements, but if it did, I'd prioritize Philosophy [4,5].
+
+[4] Well, I'd also want students to take Foreign Language, Statistics,
+a course that emphasizes the scientific method, a course that helps them
+understand "the other", and probably some other things.
+
+[5] Hmmm ... if every student had to take _Introduction to Philosophy_,
+the Philosophy department would be in even worse shape than CS is.
+I wouldn't wish that on anyone.
+
+[6] I will admit that I don't think it's that important that students
+start with an interdisciplinary course in their first semester, other
+than _Introduction to Gender, Women's, and Sexuality Studies_. The first
+year should at least partially be about exploring potential majors,
+and most students will be taking a foreign language and math, even if
+those are not their potential majors.
+
+[7] Can students start in _General Physics II_?  I think so.
+
+[8] I'm pretty sure that about two-thirds do take math in their first
+semester.  I'm less sure about the other sciences, but I'd venture to
+guess that it's also about two-thirds..
+
+[9] Given that large number of open slots, do we really need two sections
+of MAT-115?  Fortunately, that's not for me to decide.
+
 ---
 
-*Version 1.0 of 2017-05-07.*
+*Version 1.1 of 2017-05-09.*
