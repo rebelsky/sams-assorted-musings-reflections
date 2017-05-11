@@ -104,14 +104,14 @@ _Sciences_
   between five sections of MAT-133, _Calculus II_. 7 slots between two
   sections of MAT-215, _Linear Algebra_.  278 total slots.
 * Physics: 31 slots between three sections of PHY-131, _General Physics I_.
-  21 slots between two sections of PHY-132, _General Physics II_ [7].  52 slots
+  21 slots between two sections of PHY-132, _General Physics II_ [8].  52 slots
   total.
 * Psychology: 49 slots between three sections of PSY-113, _Introduction to
   Psychology_.
 
 There are 305 slots in sciences other than math, and another 278 slots 
 in math.  About two-thirds can take a science.  About two-thirds can
-take math [8].  
+take math [9].  
 
 _Social Sciences_
 
@@ -133,7 +133,7 @@ incoming students can take a social science in their first semester.
 _Other_
 
 * Statistics: 31 slots in MAT-115, _Introduction to Statistics_, which
-  is not open to first-year students [9].
+  is not open to first-year students [10].
 
 ---
 
@@ -170,20 +170,25 @@ I wouldn't wish that on anyone.
 
 [6] I will admit that I don't think it's that important that students
 start with an interdisciplinary course in their first semester, other
-than _Introduction to Gender, Women's, and Sexuality Studies_. The first
+than _Introduction to Gender, Women's, and Sexuality Studies_ [7]. The first
 year should at least partially be about exploring potential majors,
 and most students will be taking a foreign language and math, even if
 those are not their potential majors.
 
-[7] Can students start in _General Physics II_?  I think so.
+[7] I've been told that that comment was unclear.  Since GWSS is a potential
+major, students *should* be able to take it in their first semester. I'd
+steer my advisees away from environmental studies or linguistics in their
+first semester.
 
-[8] I'm pretty sure that about two-thirds do take math in their first
+[8] Can students start in _General Physics II_?  I think so.
+
+[9] I'm pretty sure that about two-thirds do take math in their first
 semester.  I'm less sure about the other sciences, but I'd venture to
 guess that it's also about two-thirds..
 
-[9] Given that large number of open slots, do we really need two sections
+[10] Given that large number of open slots, do we really need two sections
 of MAT-115?  Fortunately, that's not for me to decide.
 
 ---
 
-*Version 1.1 of 2017-05-09.*
+*Version 1.2 of 2017-05-09.*
