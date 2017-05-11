@@ -482,6 +482,10 @@ Reflections on some important issues
 
 > Our words and how people interpret them.
 
+[Owning your privilege](owning-your-privilege) (Musing #316)
+
+> You know about your privilege, not others'.
+
 Rants
 -----
 
@@ -620,6 +624,10 @@ Why Grinnell staff with Ph.D's should be allowed to teach.
 [The restrooms in Noyce](noyce-restrooms) (Musing #309)
 
 > A reason I'm ashamed of our students.
+
+[Losing it](losing-it) (Musing #314)
+
+> My worries about keeping up with demand.
 
 Assorted talks and speeches
 ---------------------------
@@ -1534,6 +1542,10 @@ Almost everything else
 [Cuts, closes, and balances for Fall 2017](ccb-2017F) (Musing #312)
 
 > The aftermath of preregistration.
+
+[Open slots in Fall 2017 introductory courses](open-introductory-slots-2017F) (Musing #315)
+
+> More on the aftermath of preregistration.
 
 Musings with multiple entries
 -----------------------------

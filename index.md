@@ -8,9 +8,10 @@ of how I approach the world.  Some are just my attempts to think through
 a topic.
 
 Latest musings:
-[Cuts, closes, and balances for Fall 2017](ccb-2017F) (Musing #312)
+[Losing it](losing-it) (Musing #314),
+[Open slots in Fall 2017 introductory courses](open-introductory-slots-2017F) (Musing #315), 
 and
-[Intent vs. impact](intent-vs-impact) (Musing #313)
+[Owning your privilege](owning-your-privilege) (Musing #316).
 
 [Musings, by number](index-by-number.html)
 

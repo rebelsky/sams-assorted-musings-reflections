@@ -410,3 +410,6 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Academic honesty](academic-honesty-2017-05-07) (Musing #311)  
 [Cuts, closes, and balances for Fall 2017](ccb-2017F) (Musing #312)  
 [Intent vs. impact](intent-vs-impact) (Musing #313)  
+[Losing it](losing-it) (Musing #314)  
+[Open slots in Fall 2017 introductory courses](open-introductory-slots-2017F) (Musing #315)  
+[Owning your privilege](owning-your-privilege) (Musing #316)  

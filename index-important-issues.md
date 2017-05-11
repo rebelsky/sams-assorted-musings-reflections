@@ -86,3 +86,7 @@ Reflections on some important issues
 
 > Our words and how people interpret them.
 
+[Owning your privilege](owning-your-privilege) (Musing #316)
+
+> You know about your privilege, not others'.
+

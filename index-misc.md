@@ -229,3 +229,7 @@ Almost everything else
 
 > The aftermath of preregistration.
 
+[Open slots in Fall 2017 introductory courses](open-introductory-slots-2017F) (Musing #315)
+
+> More on the aftermath of preregistration.
+

@@ -137,3 +137,7 @@ Why Grinnell staff with Ph.D's should be allowed to teach.
 
 > A reason I'm ashamed of our students.
 
+[Losing it](losing-it) (Musing #314)
+
+> My worries about keeping up with demand.
+
