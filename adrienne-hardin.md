@@ -164,4 +164,4 @@ and probably something-else-ist.
 
 ---
 
-*Version 1.0.2 of 2016-11-08.*
+*Version 1.0.3 of 2017-05-11.*
