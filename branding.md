@@ -147,7 +147,7 @@ available in an easy to consider form.  Let's hear it for transparency!
 
 I will admit that I'm interested to hear, and did not have a chance
 to ask, what their vision for the role of social media is.  We are
-fortunate to have [a spectacular social-media specialist](adrienne-squier)
+fortunate to have [a spectacular social-media specialist](adrienne-hardin)
 on campus.  Her work regularly strikes me as one of the highlights of
 our communications efforts.  While we shouldn't build the campaign
 around the strengths of one individual, we should take advantage of
@@ -197,4 +197,4 @@ really the case, they adapted really well.
 
 ---
 
-*Version 1.0 of 2017-02-03.*
+*Version 1.0.1 of 2017-05-11.*

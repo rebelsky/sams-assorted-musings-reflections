@@ -124,7 +124,7 @@ Grinnellians you should know (or know about)
 
 > Professor of English.  Digital humanist.  Active faculty member.  And more.
 
-[Adrienne Squier](adrienne-squier.html) (Essay #113)
+[Adrienne Hardin](adrienne-hardin.html) (Essay #113)
 
 > Social media specialist and all-around great person.
 

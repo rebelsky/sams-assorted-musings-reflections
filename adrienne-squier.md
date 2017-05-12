@@ -1,4 +1,4 @@
-Grinnellians you should know (or know about): Adrienne Squier
+Grinnellians you should know (or know about): Adrienne Hardin
 =============================================================
 
 *Part of an ongoing series about the people who inhabit or have
@@ -13,7 +13,7 @@ Students know about the members of student affairs, many administrators,
 folks at the dining hall, their custodial staff (one hopes), and such.
 But there are a lot of people who also work "behind the scenes" to make
 Grinnell successful.  They are usually worth knowing; they also deserve
-both thanks and respect.  One such person is Adrienne Squier, our Social
+both thanks and respect.  One such person is Adrienne Hardin, our Social
 Media Specialist [2].  I will admit that I don't know Adrienne nearly
 as well as I should, so this essay will be less complete or extensive
 than I would like [4].  Nonetheless, I think you'll find it a useful
