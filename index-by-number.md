@@ -413,3 +413,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Losing it](losing-it) (Musing #314)  
 [Open slots in Fall 2017 introductory courses](open-introductory-slots-2017F) (Musing #315)  
 [Owning your privilege](owning-your-privilege) (Musing #316)  
+[(Lack of) sleep cycles](lack-of-sleep-cycles) (Musing #317)  

@@ -7,11 +7,8 @@ Some are rants about topics I'm passionate about.  Some are explanations
 of how I approach the world.  Some are just my attempts to think through
 a topic.
 
-Latest musings:
-[Losing it](losing-it) (Musing #314),
-[Open slots in Fall 2017 introductory courses](open-introductory-slots-2017F) (Musing #315), 
-and
-[Owning your privilege](owning-your-privilege) (Musing #316).
+Latest musing:
+[(Lack of) sleep cycles](lack-of-sleep-cycles) (Musing #317)
 
 [Musings, by number](index-by-number.html)
 

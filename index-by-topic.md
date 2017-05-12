@@ -1046,7 +1046,7 @@ Grinnellians you should know (or know about)
 
 > Professor of English.  Digital humanist.  Active faculty member.  And more.
 
-[Adrienne Squier](adrienne-squier.html) (Essay #113)
+[Adrienne Hardin](adrienne-hardin.html) (Essay #113)
 
 > Social media specialist and all-around great person.
 
@@ -1546,6 +1546,10 @@ Almost everything else
 [Open slots in Fall 2017 introductory courses](open-introductory-slots-2017F) (Musing #315)
 
 > More on the aftermath of preregistration.
+
+[(Lack of) sleep cycles](lack-of-sleep-cycles) (Musing #317)
+
+> Getting rest.
 
 Musings with multiple entries
 -----------------------------
