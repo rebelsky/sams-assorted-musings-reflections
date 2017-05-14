@@ -1,4 +1,4 @@
-Grinnellians you should know (or know about): Mike Latham
-=========================================================
+Dean Michael Latham
+===================
 
-*Not yet available.*
+*Forthcoming.*
