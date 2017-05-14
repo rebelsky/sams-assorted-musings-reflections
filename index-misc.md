@@ -237,3 +237,15 @@ Almost everything else
 
 > Getting rest.
 
+[Great (?) conversations](great-conversations-2017-05-11) (Musing #318)
+
+> No, not really.
+
+[How do you do it?](how-do-you-do-it-2017-05-12) (Musing #319)
+
+> I'm fortunate.
+
+[Apologies](apologies-2017-05-13) (Musing #320)
+
+> Some that are necessary.
+

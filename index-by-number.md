@@ -149,7 +149,7 @@ Essay #3 was about Grinnell's relationship with Posse.
 
 [Erik Simpson](erik-simpson.html) (Essay #111)  
 [Assessing candidates](assessing-candidates.html) (Essay #112)  
-[Adrienne Squier](adrienne-squier.html) (Essay #113)  
+[Adrienne Hardin](adrienne-hardin.html) (Essay #113)  
 [Dave Robinson](dave-robinson.html) (Essay #114)  
 [The election](the-election.html) (Essay #115)  
 [Sarah Purcell '92](sarah-purcell.html) (Essay #116)  
@@ -414,3 +414,6 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Open slots in Fall 2017 introductory courses](open-introductory-slots-2017F) (Musing #315)  
 [Owning your privilege](owning-your-privilege) (Musing #316)  
 [(Lack of) sleep cycles](lack-of-sleep-cycles) (Musing #317)  
+[Great (?) conversations](great-conversations-2017-05-11) (Musing #318)  
+[How do you do it?](how-do-you-do-it-2017-05-12) (Musing #319)  
+[Apologies](apologies-2017-05-13) (Musing #320)  

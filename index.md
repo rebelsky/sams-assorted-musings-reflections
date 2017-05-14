@@ -8,7 +8,7 @@ of how I approach the world.  Some are just my attempts to think through
 a topic.
 
 Latest musing:
-[(Lack of) sleep cycles](lack-of-sleep-cycles) (Musing #317)
+[Apologies](apologies-2017-05-13) (Musing #320)
 
 [Musings, by number](index-by-number.html)
 
