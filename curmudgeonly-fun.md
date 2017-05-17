@@ -4,19 +4,19 @@ Curmudgeonly fun
 While my curmudgeonly personality generally arises in response to
 things that truly bother me, such as [elided for politeness' sake],
 some of my curmudgeonliness [1] does provide me with a modicum of
-fun.  In particular, I pick things that are important and that I
-care about and, when I have a spare moment [2], I find ways to
+fun [2].  In particular, I pick things that are important and that I
+care about and, when I have a spare moment [3], I find ways to
 address them "in the small".
 
 The two that come up the most recently are Web accessibility and FERPA
-[3] issues with regards to cloud software.  The former is something that I
+[4] issues with regards to cloud software.  The former is something that I
 consider both a moral and a legal obligation of the College.  The latter
 is something that others tell me is a legal obligation of the College
-[4].  I've been thinking about accessibility because I think it's the
+[5].  I've been thinking about accessibility because I think it's the
 right thing to do, because I got tasked to serve on an accessibility
-committee [5], and because I have students for whom it is a real issue..
+committee [6], and because I have students for whom it is a real issue..
 I've been thinking about the latter ever since we designated Microsoft as
-a College official [6] so that we could outsource email hosting to them.
+a College official [7] so that we could outsource email hosting to them.
 It's a common hack, which lots of institutions use; because they have
 accepted the designation as a College official, they have the same
 responsibility to protect records that we do.
@@ -26,7 +26,7 @@ me to a College site, I do a quick accessibility check.  The quick
 check isn't hard: I look at images to see if they have alt text,
 I watch videos to see if they are captioned, and, if I'm feeling
 energetic, I run it through [WAVE, the Web accessibility evaluation
-tool](http://wave.webaim.org/) [7].  Much of the time, that gives me
+tool](http://wave.webaim.org/) [8].  Much of the time, that gives me
 the chance to dash off a latter.
 
 > Dear Colleague, I was looking at the Web site at [elided].
@@ -36,7 +36,7 @@ inappropriate alt text, such as "image 23".  As I hope you know, we have
 both a moral and a legal obligation to make sure our sites are accessible.
 In fact, the College has new accessibility guidelines.  Both I and
 our affected students would appreciate it if you'd make changes asap.
-If you have questions, I'm sure that Communications can help [8].
+If you have questions, I'm sure that Communications can help [9].
 
 Ah, that was fun!  It raises awareness, helps the College, and helps 
 students.  What could be better?  I'd advise you to try the same.
@@ -108,7 +108,7 @@ Top Stories
 </pre>
 
 You know what's really fun about that?  Everything in that huge paragraph
-is a link [9,10].   But "Top Stories", "More Headlines", and "Pioneer Events"
+is a link [10,11].   But "Top Stories", "More Headlines", and "Pioneer Events"
 are not links.
 
 Believe it or not, but I'm not going to rant about that right now.  I know
@@ -127,7 +127,7 @@ I should ask about FERPA issues when I'm using cloud services.
 
 > Of course not; Grinnell has no contract with Google.  
 
-> *Is Blackboard [12], now that we've moved hosting to the Web?*  
+> *Is Blackboard [14], now that we've moved hosting to the Web?*  
 
 > Yes, of course; they are designated as a College official.  
 
@@ -172,7 +172,7 @@ information?*
 
 Wasn't that fun?  I know that those questions improve my relationship
 with the CIO and the FERPA officer because they like to see others take
-these issues seriously [15].  Some of these cases are also an opportunity
+these issues seriously [16].  Some of these cases are also an opportunity
 to raise awareness.
 
 > I'd love to fill out that survey.  However, it appears to ask me to
@@ -182,62 +182,64 @@ FERPA compliant, it appears to be hosted off campus?
 You too can have curmudgeonly fun.  Think about accessibility when
 you visit College Web sites.  Think about FERPA issues when you are
 asked for information.  Raise issues when you note them.  It will make
-you feel better [16].  
+you feel better [17].  
 
 ---
 
-As they say, "What's sauce for the goose is sauce for the gander [17]."  If
+As they say, "What's sauce for the goose is sauce for the gander [18]."  If
 you notice accessibility or FERPA issues with any of my Web sites, please
-let me know and I will do my best to repair them promptly [18].  
+let me know and I will do my best to repair them promptly [19].  
 
 ---
 
 [1] Is that a word?  It's kind of like cuddliness, isn't it?  There's
 even a saying: "Curmudgeonliness is next to G-dliness."
 
-[2] I rarely have a spare moment.  So perhaps it's when the inclination
+[2] Even when dealing with things that truly bother me.
+
+[3] I rarely have a spare moment.  So perhaps it's when the inclination
 hits me.
 
-[3] The Federal Education Rights and Privacy Act.  It's the thing that
+[4] The Federal Education Rights and Privacy Act.  It's the thing that
 says that I cannot reveal things about your academic performance to others.
 
-[4] And it probably is.
+[5] And it probably is.
 
-[5] Yes, I know, who would ask me to be on a committee?  It does make
+[6] Yes, I know, who would ask me to be on a committee?  It does make
 you worry about their sanity, doesn't it?  Perhaps it's that the person
 picking the members of the committee isn't on the committee.
 
-[6] No, really.
+[7] No, really.
 
-[7] I don't know why it seems to be an acronym, but that's how they
+[8] I don't know why it seems to be an acronym, but that's how they
 treat it.
 
-[8] It's a bit different when I'm sending the message to Communications.
+[9] It's a bit different when I'm sending the message to Communications.
 In that case, I just carbon copy the Webmaster.
 
-[9] Lots and lots of links, to be precise.
+[10] Lots and lots of links, to be precise.
 
-[10] There's a reason that "Skip to body" is a recommended practice [11].
+[11] There's a reason that "Skip to body" is a recommended practice [12].
 
-[11] Not that there is a body on that page, but you know what I mean.
+[12] Not that there is a body on that page, but you know what I mean.
 
-[12] Also known as [PioneerWeb](https://pioneerweb.grinnell.edu) or P'Web.
+[14] Also known as [PioneerWeb](https://pioneerweb.grinnell.edu) or P'Web.
 
-[14] Visiting the [Vovici](http://vovici.net/) Web site is fun.  I have
+[15] Visiting the [Vovici](http://vovici.net/) Web site is fun.  I have
 Flash turned off for security reasons, and it appears that the majority
 of the page is in Flash.
 
-[15] Actually, I do think they like to see others take this seriously,
+[16] Actually, I do think they like to see others take this seriously,
 and both would rather that someone be proactive on these issues than
 have to deal the fallout if we violate FERPA.
 
-[16] And maybe some day I'll pass on my badge to you.
+[17] And maybe some day I'll pass on my badge to you.
 
-[17] And what's better than saucy ganders?
+[18] And what's better than saucy ganders?
 
-[18] I do know that I have to make my newer course web sites friendly
+[19] I do know that I have to make my newer course web sites friendly
 for Javascript-free browsing.  It's on my agenda for the summer.
 
 ---
 
-*Version 1.0 of 2017-05-16.*
+*Version 1.0.1 of 2017-05-16.*
