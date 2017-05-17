@@ -37,7 +37,7 @@ Regards,
 
 ---
 
-Dear [Sarah and Donna](anderson-draulus),
+Dear [Sarah and Donna](anderson-draulus) and [Adrienne](adrienne-hardin) [2],
 
 I've been complaining a lot about our Web site, particularly with
 regards to accessibility issues.  I know that you care deeply about
@@ -56,7 +56,7 @@ Dear select other Communications staff,
 You have a legal and a moral responsibility to make sure that what you post
 to our site is accessible and that you consider accessibility when you 
 contract work out to others.  I'm sorry that you don't understand those
-responsibilities [2].
+responsibilities [3].
 
 -- SamR
 
@@ -88,7 +88,7 @@ Given my normal demeanor in class, I think you know how I feel about
 you.  (And if you're not sure, I think I've set a record for snarkiness
 this year.)  
 
-I'm sorry.  I'll do my best to be better [3].
+I'm sorry.  I'll do my best to be better [4].
 
 -- SamR
 
@@ -110,10 +110,14 @@ Love,
 
 [1] A bit.
 
-[2] Hey, I have to be my curmudgeonly self once in a while.
+[2] Adrienne: Sorry for forgetting you in the original version of this
+musing.  I was not intending to target you in the next apology.  I know
+that you are thoughtful about these issues.
 
-[3] Historical evidence suggests that I'll fail.
+[3] Hey, I have to be my curmudgeonly self once in a while.
+
+[4] Historical evidence suggests that I'll fail.
 
 ---
 
-*Version 1.0 of 2017-05-13.*
+*Version 1.0.1 of 2017-05-13.*
