@@ -1,8 +1,7 @@
 Some forthcoming essays
 =======================
 
-NOTE: FIX ADRIENNE'S ESSAY!
-
+* Essay ??? (Nontechnical): Respect
 * Essay ??? (Nontechnical): Catalog copy  CRAP
 * Essay ??? (Nontechnical): Baccalaureate
 * Essay ??? (Nontechnical): Belonging
@@ -23,11 +22,11 @@ Quick (?)
 *For the days in which I need to "dash off" an essay in order to meet
 my goals.*
 
-1. Great recent comments: "Thank you."  "For what?"  "For not ranting
-during my talk."  / "And 3 sophomores."  "We don't use the term 
-'sophomore' at Grinnell, since it's inappropriate to consider only
-1/4 of our students sophomoric."  "It's not just the students."  Maybe
-I should tone things down.
+1. Fundraising (this year's donations; last year's; should I donate
+"Sam will muse about a subject of your choice"?)
+
+1. Memorizing vs process; Google.  (Pearl Before Swine, NYT quote of
+Google, etc.)
 
 1. "Get Outlook for Android/iPhone".  ("What can you do to be more successful
 on this exam.")
@@ -89,8 +88,10 @@ General
 order, other than the ones I've come up with more recently tend to be near
 the top.*
 
+1. Karla's stuff.
+
 1. Reruns.  (End of semester stuff, in particular: Week 14, last day of
-   class, etc.)
+class, etc.)
 
 1. Treating your faculty with respect.  (You should treat everyone with
 respect.  But you should understand the power dynamics in a classroom.
