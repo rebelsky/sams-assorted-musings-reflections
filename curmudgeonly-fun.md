@@ -1,8 +1,6 @@
 Curmudgeonly fun
 ================
 
-*I think I promised to write this one a few days ago ...*
-
 While my curmudgeonly personality generally arises in response to
 things that truly bother me, such as [elided for politeness' sake],
 some of my curmudgeonliness [1] does provide me with a modicum of
