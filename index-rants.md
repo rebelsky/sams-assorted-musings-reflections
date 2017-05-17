@@ -141,3 +141,7 @@ Why Grinnell staff with Ph.D's should be allowed to teach.
 
 > My worries about keeping up with demand.
 
+[The Ologie marketing concept survey](ologie-survey-2017-05-14) (Musing #321)
+
+> Some good, some bad.
+

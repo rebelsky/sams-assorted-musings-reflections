@@ -8,7 +8,7 @@ of how I approach the world.  Some are just my attempts to think through
 a topic.
 
 Latest musing:
-[Apologies](apologies-2017-05-13) (Musing #320)
+[The Ologie marketing concept survey](ologie-survey-2017-05-14) (Musing #321)
 
 [Musings, by number](index-by-number.html)
 

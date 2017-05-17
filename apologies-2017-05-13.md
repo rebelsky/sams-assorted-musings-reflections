@@ -56,7 +56,7 @@ Dear select other Communications staff,
 You have a legal and a moral responsibility to make sure that what you post
 to our site is accessible and that you consider accessibility when you 
 contract work out to others.  I'm sorry that you don't understand those
-responsibilities [3].
+responsibilities [2].
 
 -- SamR
 
@@ -88,7 +88,7 @@ Given my normal demeanor in class, I think you know how I feel about
 you.  (And if you're not sure, I think I've set a record for snarkiness
 this year.)  
 
-I'm sorry.  I'll do my best to be better [2].
+I'm sorry.  I'll do my best to be better [3].
 
 -- SamR
 
@@ -110,9 +110,9 @@ Love,
 
 [1] A bit.
 
-[2] Historical evidence suggests that I'll fail.
+[2] Hey, I have to be my curmudgeonly self once in a while.
 
-[3] Hey, I have to be my curmudgeonly self once in a while.
+[3] Historical evidence suggests that I'll fail.
 
 ---
 
