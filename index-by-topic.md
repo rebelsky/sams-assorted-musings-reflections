@@ -486,6 +486,11 @@ Reflections on some important issues
 
 > You know about your privilege, not others'.
 
+[Curmudgeonly fun](curmudgeonly-fun) (Musing #322)
+
+> Asking others to pay attention to Web accessibility and FERPA issues
+in Web hosting.
+
 Rants
 -----
 
