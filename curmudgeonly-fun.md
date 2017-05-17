@@ -107,17 +107,18 @@ Top Stories
    Facebook Twitter Instagram YouTube RSS Feed
 </pre>
 
-You know what's really fun about that?  Everything in that huge paragraph
-is a link [10,11].   But "Top Stories", "More Headlines", and "Pioneer Events"
-are not links.
+Yes, that's everything.  You know what else is really fun about that page?
+Everything in that huge paragraph is a link [10,11].   But "Top Stories",
+"More Headlines", and "Pioneer Events" are not links.
 
-Believe it or not, but I'm not going to rant about that right now.  I know
-that Athletics has been working hard on issues like captioning their videos.
-I'm not even sure that the site needs to be accessible through Lynx.  But
-it's interesting to see what it looks like.
+Believe it or not, but I'm not going to rant about that page right now.
+I know that Athletics has been working hard on issues like captioning
+their videos.  I'm not even sure that the site needs to be accessible
+through Lynx.  But it's interesting to see what it looks like.
 
-What about FERPA?  Well, I've decided that in order to be responsible,
-I should ask about FERPA issues when I'm using cloud services.  
+Let's turn our attention to FERPA.  What about FERPA?  Well, I've decided
+that in order to be responsible, I should ask about FERPA issues when
+I'm using or being asked to use cloud-based services.
 
 > *Is GrinCo FERPA-compliant?*  
 
@@ -242,4 +243,4 @@ for Javascript-free browsing.  It's on my agenda for the summer.
 
 ---
 
-*Version 1.0.1 of 2017-05-16.*
+*Version 1.0.2 of 2017-05-16.*
