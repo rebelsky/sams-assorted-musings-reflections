@@ -21,7 +21,7 @@ use pointers for the values in their data structures.  When they
 want to store strings, they can store pointers to strings, or even
 just the strings themselves.  When they want to store `People` structs, 
 they can store pointers to those structs.  And so on and so forth.
-That's not particularly elegant, and it seems to work less well if y0u
+That's not particularly elegant, and it seems to work less well if you
 want to store primitive types.  Storing pointers also seems to be a
 step on a dangerous path toward memory errors [10].
 
