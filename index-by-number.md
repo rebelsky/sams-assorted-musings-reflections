@@ -422,3 +422,5 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 
 [The Ologie marketing concept survey](ologie-survey-2017-05-14) (Musing #321)  
 [Curmudgeonly fun](curmudgeonly-fun) (Musing #322)  
+[End-of-semester/start-of-summer reflections (Spring 2017)](reflections-2017-05) (Musing #323)  
+[Campus rumors](campus-rumors) (Musing #324)  

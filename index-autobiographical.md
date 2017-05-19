@@ -99,3 +99,7 @@ About SamR
 
 > A planning session with Karla Erickson.
 
+[End-of-semester/start-of-summer reflections (Spring 2017)](reflections-2017-05) (Musing #323)
+
+> Another planning session.
+

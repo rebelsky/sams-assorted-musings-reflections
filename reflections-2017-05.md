@@ -51,6 +51,10 @@ but they are not realistic.  I should ask.
 Your goal here is just to get things down, it is not to reflect or prioritize.
 We'll reflect and prioritize next.**
 
+The buckets often serve as a key part of the sessions.  But Karla does
+a nice job of changing what buckets we think about to reflect the time
+of the year or semester.
+
 **Bucket one: Deferred maintenance on self, family, and home.**
 
 * I need to work on weight and health [9].
@@ -106,106 +110,185 @@ I asked for (and received) permission to include class preparation here.
 Karla also suggested that I include the daily musings in my writing and
 research.
 
-* Daily essays: Profiles series
-* Daily essays: Finish the Cnix series (or at least progress)
-* Daily essays: Start a Rails series?
-* Daily essays: A class Web site: Jekyll, Bootstrap, and more
-* Representations in code camps
-* Design of code camp 1
-* Design of code camp 2
-* Papers on each of those
-* Improved version of last summer's paper.
-* Design of new CSC 151
-* Department-level NSF proposal?  (Damn, what was that?)
-* NSF proposal for digital humanities?
-* Something on accessibility
-* Rails stuff!  (Hidden in daily essays, but ...)
+I started with the daily musings.
+
+* I'd like to restart the "Grinnellians you should know (or know about)"
+  series.  There is certainly a backlog of "placeholder" musings about
+  some people.  
+* I never finished all of the musings on C and Unix.  I'm not teaching
+  the class again next year, but it's probably a good idea to get the
+  musings written before then [11].
+* I'm planning to spend part of the summer building a Rails project that
+  uses the Gems my students more commonly employ.  It may be worth
+  writing those as musings [12].  
+* I'm almost at the point that I have a general model for my course 
+  Web sites that is built on Jekyll and Bootstrap.  That could serve
+  as the source of a series of musings, particularly as I look at overall
+  design and accessibility, which would make it more than just a 
+  technical series.
+
+I added the projects that I plan to do with my summer research students.
+
+* We are doing a research paper on the way in which "who does CS" is
+  represented in online advertisements for summer code camps that are
+  targeted at middle-school students.
+* We are taking the design of last summer's "Coding for the Arts" and
+  redesigning it to work with elementary-school students.  
+* We are designing a new "Data Science for Social Justice" summer camp
+  for middle-school students.
+* We are designing a new version of CSC 151 that focuses on data science.
+* We should probably write a SIGCSE paper on each of these.
+* We should take last-year's SIGCSE poster on topics of code camps
+  and extend it into a paper.
+
+And then there are other things.
+
+* We had talked about a department-level NSF proposal last year.  I
+  should revisit that.  Now if I only I could remember the topic.
+* I have plans for an NSF IUSE proposal regarding digital humanities in the
+  introductory CS sequence.
+* I'd like to do something related to accessibility, even if it's just 
+  reading
+* I'd like to do some Rails development, mostly so that I can teach
+  CSC 321/22 better.
+    * Alternately, I can think about changing what I teach CSC 321/22
+      in, in which case I should spend some time on that kind of
+      development.
 
 At that point, I decided that I had written enough.  Interestingly, I found
 less anxiety here than in the home/personal stuff.  The quantity builds
-some anxiety, but each of these are things that I am enthusiastic about [n]
-
-[n] Part of my problem is that I am enthusiastic about too many things.
+some anxiety, but each of these are things that I am enthusiastic about [14].
 
 **Bucket three: Professional and pedagogical.  Think about what you
 need to wrap up from spring and prepare for fall.**
 
 Wrapping up
 
-* Wrapping up 
-   * Exams for 151
-   * Grading for 151
-   * Grading for 321 and 322
-   * Letter to Jerod: Welcome to being a chair.  (Sections are a musing.)
-   * Get department materials in order and write description.  (Also a musing?)
-   * Plans for Sarah
-   * Tapia/Hopper.
-   * NCWIT!
-   * List of responsibilities
-   * Change size.
+* I have to write final exams for CSC 151 [15].
+* I need to finish grading CSC 321.
+* I need to finish grading CSC 322.
+* I need to gather materials for Jerod.
+    * I should write a letter of the form "welcome to being chair; 
+      these are your responsibilities" [16].
+    * I have folders and folders of materials.  I should put those 
+      in order, remove anything pertaining to him, and add a Manifest.
+    * Karla suggested that I also write a one-page summary.
+* I need to work with our Peer Education Coordinator on rethinking
+  or revisiting her balance of duties.
+* I should send out requests for funding for Tapia and Hopper as well
+  as requests for student applications.  I should also pre-purchase
+  some tickets.
+* I should finish our application to NCWIT.
+* _I don't understand my other notes._
 
 Preparing for fall
 
-* Preparing for fall
-   * Lots fell under scholarship - prep for 321, prep for new 151.
-   * Finish details of site-building tool.
-   * Support for Anya?  (What is necessary?)
-   * Pedagogical workshop.
+* A lot of the preparation for fall fell under the previous bucket.
+    * I need to prep for the new CSC 151.  
+    * I need to rethink how I teach CSC 321.  
+* I need to finish building my course-web site template.
+* I also need to think about what support should be in place for our
+  new faculty member.
+* I need to work with my department on preparing for our department
+  workshop.
 
 **Pick five things that need to be done for fall.**
+
+_That is pick five of the things you listed already as the most
+important._
+
+I found it interesting that the first four things were easy to do, but
+the fifth was hard.
 
 * New CSC 151
 * Weight and health (I keep saying that and I keep failing)
 * Transition stuff for Jerod
 * Course Web site stuff
-* Set up for Tapia/Hopper/etc.
-* Extra: Omnifocus
+
+Now, there are many things that have to be done in the summer.  At this
+point, I need to have the curricula for the camps.  I need to go grade
+AP exams [17].  I have a bunch of workshops [18].  I need to run GSP [19].
+But beyond those, what's a good fifth?
+
+* Oh, that's right, I really need to make sure that we're set for Tapia
+  and GHC.
+
+After reflecting a bit more, I realized that I really need to have a
+system in place to keep track of all my work [20].
 
 **Out of those five: How many days or parts of days do you need to dedicate?**
 
-* New CSC 151: 42 days of class, about three hours prep per day.  One month of half days.
-* Weight and health: One hour per day.
-* Transition stuff for Jerod: About two full days.
-* Course Web site stuff: About two full days.
-* Set up for Tapia/Hopper/etc. About two days, distributed.
-* "I'm screwed."
+The new CSC 151 requires 42 days of class.  Each class has a reading and
+lab.  I also need to look at big picture issues.  I have a bunch of 
+collaborators: Another faculty member, our Peer Education Coordinator,
+and my summer students.  It will still require about three hours of prep
+per day of class.  So one month of half days.
+
+I should devote at least one hour per day to my health and weight.
+
+It will take about two full days of work to get the transition stuff
+together to Jerod.  That can probably be distributed over a few weeks.
+
+Setting up the general course Web materials will also take about two full
+days of work.  That can also be distributed over a week or two, but I
+know that I work better on these thins in large chunks.
+
+The various tasks related to Tapia and GHC are another two full days.
+
+Plus there's the work with the summer students.
+
+My conclusion after writing all of that down: *I'm screwed* [21].
 
 **Remember: The semester lingers. When will you be really done with the semester?**
 
-Karla drew a nice chart of the decline in semester work and the increase [n]
-in summer work.
+_Karla drew a nice chart of the decline in semester work and the increase [22]
+in summer work._
 
-[n] incline?
+My goal is June 5.
 
-* Goal: June 5.
-* Includes transition stuff for Jerod.
-* Can we claim a little of the time this spring befoe then for these things.
-* How much do I have to claim?
-   * One hour per day for wellness, starting next week.
-   * Walking with Michelle, starting today (?)
-   * Four hours per day for students, starting next Tuesday.
-   * One hour per day for transition stuff, starting next Tuesday.
-   * A chunk for the course Web site stuff, if possible.
-   * Tapia/Hopper?????
-   * GTD/Omnifocus: 30 minutes per day starting Thursday?  (Yay evenings.)
-   * Think about a one-pager for Jerod.
+That includes the chair transition materials to prepare for Jerod.
+
+**Can you claim time before June 5 for the summer things?**
+
+Let's see.
+
+* I can do one hour per day for wellness, starting next week.
+* I can walk with Michelle after dinner, starting this week [23].
+* I should plan about four hours per day for my summer students, starting
+  next Tuesday.
+* I should plan about one hour per day to work on the transition materials,
+  starting next Tuesday.
+* I should find a few chunks for the course Web site stuff, starting
+  some time afterwards.
+* I'm not sure when I will work on Tapia and Hopper.
+* Organizing myself.  I should spend thirty minutes per day on reading
+  _Getting Things Done_ or playing with Omnifocus, starting this Thursday
+  [24].
 
 **What's easy to cut?**
 
-Nothing  
+Nothing  .
 
 **What's possible for you to cut.**
 
-* Department-level NSF proposal?  (Damn, what was that?)
-* NSF proposal for digital humanities?
-* Not all of the papers need to be written.
-* Something on accessibility (ouch ouch ouch / work with students)
+* I probably don't have to write the NSF proposals.
+* Don't have to write all of the planned SIGCSE papers.
+* While accessibility is important to me, I probably don't need to 
+  do a big project related to it.
 
 **Let's consider a few other ideas.**
 
-* Summer meeting?
-* Think about putting a fence around things.
-* What momentum would be good?
+* Have a meeting with your family to discuss the summer.
+* Think about putting a fence around things [25].
+* Find ways to share the work with others [26].
+* Think about what momentum would be good for entering summer.
+
+---
+
+I think that's everything we covered in the session.  I found it
+useful.  I found it equally useful to muse a bit more in writing.
+
+Stay tuned for September when I'll do my next session with Karla!
 
 ---
 
@@ -241,6 +324,48 @@ actually work on my weight and health.  I'm hoping that it's this summer.
 [10] "shattered" might be the right word.  It's usable, but it's
 pretty bad.
 
+[11] I apologize to those of you who prefer not to read technical 
+musings.
+
+[12] I apologize again to those of you who prefer not to read technical
+musings.
+
+[14] Part of my problem is that I am enthusiastic about too many things.
+
+[15] More precisely, I had to write exams for CSC 151.  Those are now
+written.  I'm giving the final at three different times, so I had to
+write three final exams.  Yay!
+
+[16] The public parts of that letter may appear as a series of musings.
+
+[17] That didn't fit in any of the buckets.
+
+[18] Those also didn't fit in the buckets.  Some could probably be
+dropped, but I'd prefer not to drop them.
+
+[19] The Grinnell Science Project.
+
+[20] I added that up above, but I'm mentioning it here because that's
+when I realized it.
+
+[21] Maybe that's why I started my notes with "I'm an idiot."
+
+[22] incline?
+
+[23] That does assume we find time to sit down for dinner together.
+
+[24] Yeah, it looks like I'll still be working evenings.
+
+[25] That's another phrase I wrote down without completely understanding.
+I'll have to reflect back on it later.
+
+[26] I'm generally bad at sharing.  But a lot is planned with my
+awesome summer students, so that's good.  We'll certainly share the
+code camps [27].  I have colleagues and students to work on CSC 151
+with.  But the rest, well, that's me.
+
+[27] If things go well, they will even take the lead.
+
 ---
 
-*Version 0.x of 2017-05-17.*
+*Version 1.0 of 2017-05-17.*

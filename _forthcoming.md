@@ -81,6 +81,48 @@ schools vs closing schools)
 
 ---
 
+Jerod
+-----
+
+1. Tasks [Standard chair].  Some can be shared.  Paperwork.  Hiring.
+Mentoring.  Reviews.  SEPC.  Schedule (Sam usually does).  Signing major
+declaration forms.  Divide department tasks.  Department meetings (okay,
+not so standard).  Reviews.  Budget.  More paperwork.  Communicating
+with various groups around campus.  Meet with prospective students.
+Keep on top of things.  Monthly chairs meeting.  Conduit of information.
+Deal with special student requests.  Honors.
+
+1. Tasks [CS-department specific].  (Somewhat collaborative.) 
+Web site (changing).  Thursday extras.  CS Table.  Predictive modeling.
+Additional student groups.  Mailing lists (Sam).  Opportunities boards?
+(I haven't done them.)  Tapia and GHC (Sam).
+
+1. Tasks [This stage].  Dealing with rise in number of majors - more
+position requests, more predictive modeling, more hiring, thinking
+about spaces for teaching and for faculty.  Upcoming decennial review.
+Change in Linux system administration.  Research opportunities for all.
+Need to rethink parts of the curriculum.  Diversity issues.  Data science
+and our role in that.  Digitial liberal arts and our role in that.
+
+1. Important deadlines.
+
+1. Allies.  (Everyone, even Retta (who is as overworked as we are).)
+Your colleagues.  Your students.  Our ASAs.  Admissions, Registrar,
+....
+
+1. Department data: Department snapshot, Fuller things from P'Web,
+EOCEs, Infro from others (Carlie, Admissions, Registrar, Shonda ...)
+https://grinco.sharepoint.com/sites/dean/Pages/DepartmentData.aspx
+
+1. Working with the SEPC.
+
+1. The Department "folder": A manifest.
+
+1. Student groups.  SEPC.  Community outreach.  AppDev.  Makerspace.
+VR club.  
+
+---
+
 General
 -------
 

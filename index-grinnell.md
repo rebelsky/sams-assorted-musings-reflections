@@ -101,3 +101,7 @@ categories.*
 
 > They asked for suggestions.  
 
+[Campus rumors](campus-rumors) (Musing #324)
+
+> Students come up with the strangest rumors.  But some might be true.
+

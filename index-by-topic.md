@@ -1170,6 +1170,10 @@ categories.*
 
 > They asked for suggestions.  
 
+[Campus rumors](campus-rumors) (Musing #324)
+
+> Students come up with the strangest rumors.  But some might be true.
+
 Reviews and notes about things I enjoy
 --------------------------------------
 
@@ -1320,6 +1324,10 @@ About SamR
 [Mid-semester planning](midsemester-planning-2017-03-16) (Musing #260)
 
 > A planning session with Karla Erickson.
+
+[End-of-semester/start-of-summer reflections (Spring 2017)](reflections-2017-05) (Musing #323)
+
+> Another planning session.
 
 Almost everything else
 ----------------------
