@@ -34,7 +34,7 @@ particularly if you are in the middle of Iowa.  But tenure-line positions
 are significant commitments; you should normally think of a tenure-line
 hire as a thirty-year position.  So even I would be reluctant to add
 more than one tenure-line position, even though I think we need about
-more faculty members in the department.
+three more faculty members in the department.
 
 Writing to the Dean is unlikely to be helpful.  He does not make the
 decisions on how to allocate tenure-line positions.  Our Executive Council
@@ -89,4 +89,4 @@ I worry about whatever department would be cut in the future.
 
 ---
 
-*Version 1.1 of 2017-05-18.*
+*Version 1.1.1 of 2017-05-18.*
