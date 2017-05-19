@@ -145,3 +145,7 @@ Why Grinnell staff with Ph.D's should be allowed to teach.
 
 > Some good, some bad.
 
+[What's sauce for the goose ...](saucy-gander) (Musing #325)
+
+> What goes around, comes around.
+

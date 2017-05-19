@@ -424,3 +424,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Curmudgeonly fun](curmudgeonly-fun) (Musing #322)  
 [End-of-semester/start-of-summer reflections (Spring 2017)](reflections-2017-05) (Musing #323)  
 [Campus rumors](campus-rumors) (Musing #324)  
+[What's sauce for the goose ...](saucy-gander) (Musing #325)  

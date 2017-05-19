@@ -7,10 +7,8 @@ Some are rants about topics I'm passionate about.  Some are explanations
 of how I approach the world.  Some are just my attempts to think through
 a topic.
 
-Latest musings:
-[End-of-semester/start-of-summer reflections (Spring 2017)](reflections-2017-05) (Musing #323)
-and
-[Campus rumors](campus-rumors) (Musing #324)
+Latest musing:
+[What's sauce for the goose ...](saucy-gander) (Musing #325)
 
 [Musings, by number](index-by-number.html)
 
