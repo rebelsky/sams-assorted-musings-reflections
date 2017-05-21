@@ -8,7 +8,7 @@ of how I approach the world.  Some are just my attempts to think through
 a topic.
 
 Latest musing:
-[What's sauce for the goose ...](saucy-gander) (Musing #325)
+[Scenes from Graduation Weekend 2017](scenes-from-graduation-2017) (Musing #327)
 
 [Musings, by number](index-by-number.html)
 
@@ -31,6 +31,7 @@ Latest musing:
 * [The joy of code](index-joc.html)
 * [Cool Grinnellians you should know (or know about)](index-grinnellians.html)
 * [Other essays on Grinnell](index-grinnell.html)
+* [A letter to the incoming chair](index-incoming-chair.html)
 * [Reviews and notes about things I enjoy](index-reviews.html)
 * [Autobiographical essays, more or less](index-autobiographical.html)
 * [Almost everything else](index-misc.html)

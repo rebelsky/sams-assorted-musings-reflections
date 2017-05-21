@@ -249,3 +249,8 @@ Almost everything else
 
 > Some that are necessary.
 
+[Scenes from Graduation Weekend 2017](scenes-from-graduation-2017) (Musing #327)
+
+> Things to remember (or not).
+
+

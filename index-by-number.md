@@ -425,3 +425,5 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [End-of-semester/start-of-summer reflections (Spring 2017)](reflections-2017-05) (Musing #323)  
 [Campus rumors](campus-rumors) (Musing #324)  
 [What's sauce for the goose ...](saucy-gander) (Musing #325)  
+[A draft introduction to a letter to the incoming chair](letter-to-incoming-chair-intro) (Musing #326)  
+[Scenes from Graduation Weekend 2017](scenes-from-graduation-2017) (Musing #327)  

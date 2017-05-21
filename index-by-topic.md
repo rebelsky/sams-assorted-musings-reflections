@@ -1178,6 +1178,13 @@ categories.*
 
 > Students come up with the strangest rumors.  But some might be true.
 
+A letter to the incoming chair
+------------------------------
+
+[A draft introduction to a letter to the incoming chair](letter-to-incoming-chair-intro) (Musing #326)
+
+> Getting started.
+
 Reviews and notes about things I enjoy
 --------------------------------------
 
@@ -1583,6 +1590,11 @@ Almost everything else
 [Apologies](apologies-2017-05-13) (Musing #320)
 
 > Some that are necessary.
+
+[Scenes from Graduation Weekend 2017](scenes-from-graduation-2017) (Musing #327)
+
+> Things to remember (or not).
+
 
 Musings with multiple entries
 -----------------------------
