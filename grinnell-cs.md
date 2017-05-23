@@ -101,7 +101,7 @@ department, we feel that we have a responsibility to make sure that the
 people who build these technologies represent a diverse set of interests
 and backgrounds.  So we work to provide a department that is open to many
 different kinds of students.  We must be doing something right: We have
-over 40% women majors (compared to a nationwide average of under 20%),
+over 35% women majors (compared to a nationwide average of under 20%),
 we have large numbers of international students, and we have comparatively
 high numbers of first-generation students and domestic students of color.
 Our LGBTQA students tell me that the department is welcoming. (I will
@@ -134,8 +134,8 @@ specific characteristics of our department, they make us an excellent
 place to study CS.
 
 *Some things I've missed.*  I have no idea what these are, or I would
-not have missed them.  But, I know that I have not covered everything
-I appreciate about our department, and so I leave this category at the 
+not have missed them.  But I know that I have not covered everything
+I appreciate about our department and so I leave this category at the 
 end.
 
 As much as I love our department, I don't think it's the reason that you
@@ -154,4 +154,4 @@ Science_.  December 20, 2013.
 
 ---
 
-*Version 1.0 of 2016-04-26.*
+*Version 1.0.1 of 2017-05-23.*
