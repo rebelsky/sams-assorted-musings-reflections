@@ -8,7 +8,7 @@ of how I approach the world.  Some are just my attempts to think through
 a topic.
 
 Latest musing:
-[Scenes from Graduation Weekend 2017](scenes-from-graduation-2017) (Musing #327)
+[Baccalaureate (non-)address 2017](baccalaureate-2017) (Musing #328)
 
 [Musings, by number](index-by-number.html)
 

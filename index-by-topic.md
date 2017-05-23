@@ -665,6 +665,10 @@ Assorted talks and speeches
   in 2017.  Or maybe it's just that I'm the only one who says yes.
   Given Friday, 5 May 2017.
 
+[Baccalaureate (non-)address 2017](baccalaureate-2017) (Musing #328)
+
+> A speech I did not give.
+
 Thank You Notes
 ---------------
 
