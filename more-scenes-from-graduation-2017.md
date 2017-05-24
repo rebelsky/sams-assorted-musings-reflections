@@ -148,8 +148,8 @@ possible that no one actually records honorary membership from reunions [19].
 ---
 
 President's reception, Sunday afternoon.  Enjoy the great cheeses.
-Particularly appreciate the beautiful carving job that someone has
-done with the melons.
+Particularly appreciate the beautiful carving job that Judy Arendt
+in catering has done with the melons.
 
 ---
 
@@ -246,4 +246,4 @@ a million twitter followers.  I have 262.3.
 
 ---
 
-*Version 1.0 of 2017-05-23.*
+*Version 1.0.1 of 2017-05-24.*
