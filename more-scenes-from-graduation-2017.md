@@ -1,10 +1,10 @@
-More scenes from Graduation Weekend 2017
+More scenes from graduation weekend 2017
 ========================================
 
-_Rather than attempt a coherent musing, in this piece I report on
-a variety of experiences from the second half of the weekend.  These
-are a bit shorter than my previous scenes, perhaps because there were
-more of them and because I'm dealing with a day of joy and sadness [1]._
+_Rather than attempt coherency, in this piece I report briefly on a
+variety of experiences from the second half of the weekend.  These are
+a bit shorter than my previous scenes, perhaps because there were more
+of them and because I'm dealing with a day of joy and sadness [1]._
 
 ---
 
