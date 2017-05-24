@@ -428,3 +428,5 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [A draft introduction to a letter to the incoming chair](letter-to-incoming-chair-intro) (Musing #326)  
 [Scenes from Graduation Weekend 2017](scenes-from-graduation-2017) (Musing #327)  
 [Baccalaureate (non-)address 2017](baccalaureate-2017) (Musing #328)  
+[More scenes from graduation weekend 2017](more-scenes-from-graduation-2017) (Musing #329)  
+[Common chair responsibilities (part of a draft letter to the incoming chair)](letter-to-incoming-chair-common-tasks) (Musing #330)  

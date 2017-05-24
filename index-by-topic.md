@@ -1189,6 +1189,11 @@ A letter to the incoming chair
 
 > Getting started.
 
+[Common chair responsibilities (part of a draft letter to the incoming chair)](letter-to-incoming-chair-common-tasks) (Musing #330)
+
+> Although all chairs have these responsibilities, different chairs do them with different frequencies and levels of depth.
+
+
 Reviews and notes about things I enjoy
 --------------------------------------
 
@@ -1599,6 +1604,9 @@ Almost everything else
 
 > Things to remember (or not).
 
+[More scenes from graduation weekend 2017](more-scenes-from-graduation-2017) (Musing #329)
+
+> More things to remember.
 
 Musings with multiple entries
 -----------------------------

@@ -253,4 +253,7 @@ Almost everything else
 
 > Things to remember (or not).
 
+[More scenes from graduation weekend 2017](more-scenes-from-graduation-2017) (Musing #329)
+
+> More things to remember.
 

@@ -5,3 +5,8 @@ A letter to the incoming chair
 
 > Getting started.
 
+[Common chair responsibilities (part of a draft letter to the incoming chair)](letter-to-incoming-chair-common-tasks) (Musing #330)
+
+> Although all chairs have these responsibilities, different chairs do them with different frequencies and levels of depth.
+
+

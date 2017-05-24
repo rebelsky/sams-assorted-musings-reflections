@@ -8,7 +8,9 @@ of how I approach the world.  Some are just my attempts to think through
 a topic.
 
 Latest musing:
-[Baccalaureate (non-)address 2017](baccalaureate-2017) (Musing #328)
+[More scenes from graduation weekend 2017](more-scenes-from-graduation-2017) (Musing #329)
+and
+[Common chair responsibilities (part of a draft letter to the incoming chair)](letter-to-incoming-chair-common-tasks) (Musing #330)
 
 [Musings, by number](index-by-number.html)
 
