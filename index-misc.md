@@ -257,3 +257,7 @@ Almost everything else
 
 > More things to remember.
 
+[Self-catering the senior breakfast (graduation 2017)](self-catering-breakfast-2017) (Musing #331)
+
+> Lists for next year.
+

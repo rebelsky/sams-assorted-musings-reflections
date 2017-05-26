@@ -8,9 +8,7 @@ of how I approach the world.  Some are just my attempts to think through
 a topic.
 
 Latest musing:
-[More scenes from graduation weekend 2017](more-scenes-from-graduation-2017) (Musing #329)
-and
-[Common chair responsibilities (part of a draft letter to the incoming chair)](letter-to-incoming-chair-common-tasks) (Musing #330)
+[Self-catering the senior breakfast (graduation 2017)](self-catering-breakfast-2017) (Musing #331)
 
 [Musings, by number](index-by-number.html)
 
