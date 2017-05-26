@@ -111,4 +111,4 @@ Word to achieve one of these goals.
 
 ---
 
-*Version 1.1 of 2017-01-04.*
+*Version 1.1.1 of 2017-01-04.*

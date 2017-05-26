@@ -145,4 +145,4 @@ I really love Linux.
 
 ---
 
-*Version 1.0 of 2016-09-11.*
+*Version 1.0.1 of 2016-09-11.*

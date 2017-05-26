@@ -359,4 +359,4 @@ as I write the remaining sections of this letter.
 
 ---
 
-*Version 1.0 of 2017-05-25.*
+*Version 1.0.1 of 2017-05-25.*

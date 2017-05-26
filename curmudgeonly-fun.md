@@ -243,4 +243,4 @@ for Javascript-free browsing.  It's on my agenda for the summer.
 
 ---
 
-*Version 1.0.2 of 2017-05-16.*
+*Version 1.0.3 of 2017-05-16.*
