@@ -27,7 +27,7 @@ for me.  As I noted earlier, Linux provides a variety of tools for
 programmers that are easy to chain together.  In this case, I could
 rely on `grep`, a tool that extracts lines that match a pattern, and
 `sort`, a tool that, well, sorts things into order.  Since each entry
-had an octothorpe, I could extra the entries with `grep '#' index.md`.
+had an octothorpe, I could extract the entries with `grep '#' index.md`.
 
 Here's the first few lines of the result.
 
@@ -145,4 +145,4 @@ I really love Linux.
 
 ---
 
-*Version 1.0 of 2016-09-11.*
+*Version 1.0.1 of 2016-09-11.*

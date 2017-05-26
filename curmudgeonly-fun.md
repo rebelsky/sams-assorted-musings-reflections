@@ -161,8 +161,8 @@ Can I use Formstack for gathering those?*
 > No one has every asked that before.  But yes, you may do so.  
 
 > *I've been asked to fill out this form on survey.grinnell.edu that
-includes grade information.  It appears to be hosted off campus at Vovici.
-Does our contract with Vovici permit me to enter confidential grade
+includes grade information.  It appears to be hosted off campus at Vovici
+[15].  Does our contract with Vovici permit me to enter confidential grade
 information?*
 
 > What did someone ask you to enter?  
@@ -243,4 +243,4 @@ for Javascript-free browsing.  It's on my agenda for the summer.
 
 ---
 
-*Version 1.0.2 of 2017-05-16.*
+*Version 1.0.3 of 2017-05-16.*

@@ -219,7 +219,7 @@ What should you take from this discussion?
   other streams) relying on associated buffers.  
 * Amazingly, not knowing this issue can lead you to make incorrect assumptions
   about where your code is segfaulting.
-* If you are using `prtinf` to debug, you should really use 
+* If you are using `printf` to debug, you should really use 
   `fprintf(stderr, ...)`.
 * Of course, you shouldn't use *either* to debug.  That's why debuggers 
   exist [5].
