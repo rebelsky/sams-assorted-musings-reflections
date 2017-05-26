@@ -434,3 +434,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 ## 331-340
 
 [Self-catering the senior breakfast (graduation 2017)](self-catering-breakfast-2017) (Musing #331)  
+[CS-specific chair responsibilities (part of a letter to the incoming chair)](letter-to-incoming-chair-cs-tasks) (Musing #332)  

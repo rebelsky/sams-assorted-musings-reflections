@@ -8,7 +8,7 @@ of how I approach the world.  Some are just my attempts to think through
 a topic.
 
 Latest musing:
-[Self-catering the senior breakfast (graduation 2017)](self-catering-breakfast-2017) (Musing #331)
+[CS-specific chair responsibilities (part of a letter to the incoming chair)](letter-to-incoming-chair-cs-tasks) (Musing #332)
 
 [Musings, by number](index-by-number.html)
 

@@ -1193,6 +1193,9 @@ A letter to the incoming chair
 
 > Although all chairs have these responsibilities, different chairs do them with different frequencies and levels of depth.
 
+[CS-specific chair responsibilities (part of a letter to the incoming chair)](letter-to-incoming-chair-cs-tasks) (Musing #332)
+
+> We also have some tasks that are specific to the CS department.
 
 Reviews and notes about things I enjoy
 --------------------------------------
