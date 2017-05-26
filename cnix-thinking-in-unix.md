@@ -107,8 +107,8 @@ programming.
 the sections of my "Thinking in C and Unix" course.
 
 [8] You cannot, for example, open a file in Microsoft Word and use
-Word to achieve one tf these goals.
+Word to achieve one of these goals.
 
 ---
 
-*Version 1.1 of 2017-01-04.*
+*Version 1.1.1 of 2017-01-04.*

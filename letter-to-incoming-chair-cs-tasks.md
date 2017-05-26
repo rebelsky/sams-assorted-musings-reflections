@@ -84,7 +84,7 @@ In addition to convincing one of us to take on that role, you'll need
 to check in to make sure that we are on top of things.  (Most of
 us are busy enough that we usually let some things drop.)
 
-We spent some time this year discussing the timing of CS table.  4:15
+We spent some time this year discussing the timing of CS Extras.  4:15
 p.m. on Thursdays works well for the faculty and for many students, but
 does not work well for athletes during season.  Unfortunately, we could not
 come up with another time that was likely to be available to large numbers
@@ -359,4 +359,4 @@ as I write the remaining sections of this letter.
 
 ---
 
-*Version 1.0 of 2017-05-25.*
+*Version 1.0.1 of 2017-05-25.*
