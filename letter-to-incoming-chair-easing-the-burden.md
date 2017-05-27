@@ -22,6 +22,12 @@ aphorism that "hours of planning can save days of corrections", but it's
 probably worth figuring out when planning is and is not necessary.
 
 Delegate!  Students can do a lot.  You can get money for them from Ang.
+We share.
+
+Michelle says that you should not delegate to much to me and, if you
+try, I should say no.  Try not to delegate too much too our early-career
+faculty.  They should be working on their teaching and scholarship so
+that they can earn tenure.
 
 Warning: Sometimes delegation doesn't work the way it's supposed to.
 I tried to delegate the Linux SysAdmin search.  I still spent way too 
@@ -35,3 +41,7 @@ Eliminate!
 ---
 
 [1] Or at least as some of the readers of the draft of this letter noted.
+
+---
+
+*Version 0.1 of 2017-??-??.*
