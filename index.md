@@ -8,7 +8,7 @@ of how I approach the world.  Some are just my attempts to think through
 a topic.
 
 Latest musing:
-[CS-specific chair responsibilities (part of a letter to the incoming chair)](letter-to-incoming-chair-cs-tasks) (Musing #332)
+[Current CS initiatives (part of a draft letter to the incoming chair)](letter-to-incoming-chair-current-initiatives) (Musing #333)
 
 [Musings, by number](index-by-number.html)
 

@@ -13,3 +13,7 @@ A letter to the incoming chair
 
 > We also have some tasks that are specific to the CS department.
 
+[Current CS initiatives (part of a draft letter to the incoming chair)](letter-to-incoming-chair-current-initiatives) (Musing #333)
+
+> As well as soem larger initiatives.
+
