@@ -673,7 +673,7 @@ Assorted talks and speeches
 
 > A speech I did not give.
 
-Thank You Notes
+Thank-You Notes
 ---------------
 
 [Thank You](thank-you-01) (Essay #50)
