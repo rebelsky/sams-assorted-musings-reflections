@@ -3,7 +3,7 @@ The joy of code
 
 *Occasional essays on programs I've had fun writing or reading.*
 
-[Generating a Table of Contents](joc-canvas-toc.html) (Essay #43)
+[Generating a Table of Contents](joc-canvas-toc) (Essay #43)
 
 > On writing code to make better course Web sites (or at least better
   Canvas sites).
@@ -12,15 +12,15 @@ The joy of code
 
 > Computers were not my friends tonight.  Here's the story.
 
-[Small scripts for indexing musings](joc-indexing-musings.html) (Essay #53)
+[Small scripts for indexing musings](joc-indexing-musings) (Essay #53)
 
 > The joy of writing really small programs in Linux.
 
-[Playing with Processing, Example 1](joc-processing-01.html) (Essay #89)
+[Playing with Processing, Example 1](joc-processing-01) (Essay #89)
 
 > A simple, yet interesting, animation.
 
-[The joy of code: Linking endnotes](joc-linking-endnotes.html) (Essay #144)
+[The joy of code: Linking endnotes](joc-linking-endnotes) (Essay #144)
 
 > How I got the endnote links in these essays.
 

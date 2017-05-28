@@ -85,7 +85,7 @@ Searching files with `find`
 
 [Simple macros for testing C programs](cnix-simple-testing-macros) (Musing #283)
 
-> An appliaction of macros, along with some further exploration of some macro design issues.
+> An application of macros, along with some further exploration of some macro design issues.
 
 [Using macros for generic structures in C](cnix-macros-generics) (Musing #287)
 

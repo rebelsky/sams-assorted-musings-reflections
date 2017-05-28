@@ -5,7 +5,7 @@ For prospective students, parents of prospective students, and others with simil
 
 > A response to parents and prospectives who asked about the differences.
 
-[Grinnell's CS department](grinnell-cs.html) (Essay #8)
+[Grinnell's CS department](grinnell-cs) (Essay #8)
 
 > A response to students who ask about the differences between CS at
   Grinnell and CS at our peer institutions.
@@ -14,7 +14,7 @@ For prospective students, parents of prospective students, and others with simil
 
 > Additional information about the department.
 
-[Grinnell's Individually Advised Curriculum](individually-advised-curriculum.html) (Essay #24)
+[Grinnell's Individually Advised Curriculum](individually-advised-curriculum) (Essay #24)
 
 > One of the highlights of a Grinnell education.
 
@@ -22,11 +22,11 @@ For prospective students, parents of prospective students, and others with simil
 
 > The statement that guides a Grinnell education.
 
-[MathLAN: Grinnell's Linux Network](mathlan.html) (Essay #52)
+[MathLAN: Grinnell's Linux Network](mathlan) (Essay #52)
 
 > How Linux integrates with a Grinnell education.
 
-[Research in CS at Grinnell (2016 Edition)](research-in-cs-2016.html) (Essay #59)
+[Research in CS at Grinnell (2016 Edition)](research-in-cs-2016) (Essay #59)
 
 > A short overview of student-faculty research, with some details about
   the topics from summer 2016.
@@ -42,12 +42,12 @@ Connecting to our Community
 > A consideration of the ways in which our CS department connects
   to the town and beyond.
 
-[What kind of computer should you buy?](buy-computer.html) (Essay #2)
+[What kind of computer should you buy?](buy-computer) (Essay #2)
 
 > A response to a recent question from a prospective student.  Also
   a response to a question that I get way too often.
 
-[Why study CS?](why-study-cs.html) (Essay #33)
+[Why study CS?](why-study-cs) (Essay #33)
 
 > Computer science is an awesome discipline.  Here, I reflect not only
   on some of the reasons that I study CS, but also reasons that students

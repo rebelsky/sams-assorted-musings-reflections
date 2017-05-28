@@ -7,7 +7,7 @@ at least provide joy.  (Other than my family.)  I'm starting a list.
 I'm also including some reviews here, since I generally only review
 things I enjoy.*
 
-[Cyro Baptista and Banquet of Spirits](cyro-baptista.html) (Essay #51)
+[Cyro Baptista and Banquet of Spirits](cyro-baptista) (Essay #51)
 
 > Reflections on an awesome concert.
 

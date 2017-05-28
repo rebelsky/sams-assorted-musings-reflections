@@ -7,32 +7,34 @@ Some are rants about topics I'm passionate about.  Some are explanations
 of how I approach the world.  Some are just my attempts to think through
 a topic.
 
-Latest musing:
-[Current CS initiatives (part of a draft letter to the incoming chair)](letter-to-incoming-chair-current-initiatives) (Musing #333)
+Latest musings:
+[Delegate! To whom?](delegate-2017-05-27) (Musing #334) 
+and
+[Useful data (part of a draft letter to the incoming chair)](letter-to-incoming-chair-data) (Musing #335)
 
-[Musings, by number](index-by-number.html)
+[Musings, by number](index-by-number)
 
-[Musings, by topic](index-by-topic.html)
+[Musings, by topic](index-by-topic)
 
-* [On writing, or at least on writing these essays](index-on-writing.html)
-* [For prospective students, parents of prospective students, and others with similar interests](index-prospective-students.html)
-* [For prospective faculty](index-prospective-faculty.html)
-* [For current students, and others with similar interests](index-current-students.html)
-* [For alumni, and for others who donate to the department](index-alumni.html)
-* [Reflections on some important issues](index-important-issues.html)
-* [Rants](index-rants.html)
-* [Assorted talks and speeches](index-talks-speeches.html)
-* [Thank-you notes](index-thank-you.html)
-* [On overcommitment](index-overcommitment.html)
-* [On teaching online](index-teaching-online.html)
-* [On writing letters of recommendation](index-recommendations.html)
-* [Essays I removed](index-removed.html)
+* [On writing, or at least on writing these essays](index-on-writing)
+* [For prospective students, parents of prospective students, and others with similar interests](index-prospective-students)
+* [For prospective faculty](index-prospective-faculty)
+* [For current students, and others with similar interests](index-current-students)
+* [For alumni, and for others who donate to the department](index-alumni)
+* [Reflections on some important issues](index-important-issues)
+* [Rants](index-rants)
+* [Assorted talks and speeches](index-talks-speeches)
+* [Thank-you notes](index-thank-you)
+* [On overcommitment](index-overcommitment)
+* [On teaching online](index-teaching-online)
+* [On writing letters of recommendation](index-recommendations)
+* [Essays I removed](index-removed)
 * [Don't embarrass me; Don't embarrass yourself: Thoughts on thinking in C and Unix](index-cnix)
-* [The joy of code](index-joc.html)
-* [Cool Grinnellians you should know (or know about)](index-grinnellians.html)
-* [Other essays on Grinnell](index-grinnell.html)
-* [A letter to the incoming chair](index-incoming-chair.html)
-* [Reviews and notes about things I enjoy](index-reviews.html)
-* [Autobiographical essays, more or less](index-autobiographical.html)
-* [Almost everything else](index-misc.html)
+* [The joy of code](index-joc)
+* [Cool Grinnellians you should know (or know about)](index-grinnellians)
+* [Other essays on Grinnell](index-grinnell)
+* [A letter to the incoming chair](index-incoming-chair)
+* [Reviews and notes about things I enjoy](index-reviews)
+* [Autobiographical essays, more or less](index-autobiographical)
+* [Almost everything else](index-misc)
 

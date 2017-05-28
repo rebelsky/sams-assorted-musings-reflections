@@ -1,7 +1,7 @@
 For alumni and others who donate to the department
 ==================================================
 
-[How we spend your donations](donor-thank-you.html) (Essay #4)
+[How we spend your donations](donor-thank-you) (Essay #4)
 
 > A thank-you note, of sorts.
 
@@ -9,11 +9,11 @@ For alumni and others who donate to the department
 
 > A revised version of the thank-you note, about six months later.
 
-[Planning a CS Affinity Reunion](planning-cs-reunion.html) (Essay #49)
+[Planning a CS Affinity Reunion](planning-cs-reunion) (Essay #49)
 
 > Thoughts on an upcoming event.
 
-[Donating to Grinnell](donating-to-grinnell.html) (Essay #157)
+[Donating to Grinnell](donating-to-grinnell) (Essay #157)
 
 > Some reasons to donate.
 

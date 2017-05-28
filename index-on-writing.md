@@ -1,42 +1,42 @@
 Essays on writing, or at least on writing my essays
 ===================================================
 
-[On the genesis of _Sam's Assorted Musings and Rants_](genesis.html) (Essay #5)
+[On the genesis of _Sam's Assorted Musings and Rants_](genesis) (Essay #5)
 
 > Why I started this site.
 
-[On the form of these musings and rants](form.html) (Essay #11)
+[On the form of these musings and rants](form) (Essay #11)
 
 > Why I'm putting my essays on a Web site and not a 'blog or Twitter
   feed.
 
-[My audience](audience.html) (Essay #10)
+[My audience](audience) (Essay #10)
 
 > I tell my students to pay attention to their audience when they 
   write.  This essay reflects my attempts to consider the audience
   (or audiences) for these essays.
 
-[Finding the time to write](finding-time-to-write.html) (Essay #17)
+[Finding the time to write](finding-time-to-write) (Essay #17)
 
 > Relatively early into the "essay a day" experiment, one of my colleagues
   said "Sam, I don't know how you find time to write an essay each day.
   I don't even find time to read your essays."  Here, I attempt to consider
   how and why I am trying to find the time to write.
 
-[One month of musings](one-month.html) (Essay #31)
+[One month of musings](one-month) (Essay #31)
 
 > Reflections on my first month of writing.
 
-[A second month of daily essays](two-months.html) (Essay #71)
+[A second month of daily essays](two-months) (Essay #71)
 
 > Reflections on my second month of writing, including an explanation of
   why this is essay #71.
 
-[A third month of essays](three-months.html) (Essay #104)
+[A third month of essays](three-months) (Essay #104)
 
 > Reflections on my third month of essay writing.
 
-[A fourth month of essays](four-months.html) (Essay #138)
+[A fourth month of essays](four-months) (Essay #138)
 
 > I bet you can figure this one out.
 
@@ -60,54 +60,54 @@ Essays on writing, or at least on writing my essays
 
 > Or "one year since my first daily musing".
 
-[On making, breaking, and remaking the habit of daily writing](habit-of-writing.html) (Essay #41)
+[On making, breaking, and remaking the habit of daily writing](habit-of-writing) (Essay #41)
 
 > Reflections on trying to restart these essays.
 
-[Essays I did not post](essays-i-did-not-post.html) (Essay #48)
+[Essays I did not post](essays-i-did-not-post) (Essay #48)
 
 > In which I explore two (or maybe three) essays that I wrote and realized
   that I should not post.
 
-[Writing about people](writing-about-people.html) (Essay #57)
+[Writing about people](writing-about-people) (Essay #57)
 
 > In which I think about a slightly different genre of essay.
 
-[Wrapping up](wrapping-up.html) (Essay #84)
+[Wrapping up](wrapping-up) (Essay #84)
 
 > On ending essays and other forms of writing.
 
-[Following my muse](following-my-muse.html) (Essay #88)
+[Following my muse](following-my-muse) (Essay #88)
 
 > How I choose what to write about each day.
 
-[Closing in on one-hundred essays](closing-in-on-100.html) (Essay #95)
+[Closing in on one-hundred essays](closing-in-on-100) (Essay #95)
 
 > Getting ready for some kind of milestone (or centistone).
 
-[My one-hundredth essay of the day](essay-100.html) (Essay #100)
+[My one-hundredth essay of the day](essay-100) (Essay #100)
 
 > Self-evident.
 
-["Do you take requests?"](requests.html) (Essay #140)
+["Do you take requests?"](requests) (Essay #140)
 
 > Thoughts on what I should do when readers request that I write about
   something.
 
-["Why are you doing this?"](why-musings.html) (Essay #141)
+["Why are you doing this?"](why-musings) (Essay #141)
 
 > An answer to a series of questions I received about these essays.
 
-[Removing another essay](removing-another-essay.html) (Essay #145)
+[Removing another essay](removing-another-essay) (Essay #145)
 
-[A few forthcoming essays](forthcoming-146.html) (Essay #146)
+[A few forthcoming essays](forthcoming-146) (Essay #146)
 
 > Almost what it says.  A potential preview of some upcoming essay
   topics.
 
 > Reflections on the need to remove essays.
 
-[Pursuing the serious, settling for the frivolous](serious-or-frivolous.html) (Essay #156)
+[Pursuing the serious, settling for the frivolous](serious-or-frivolous) (Essay #156)
 
 > Why I'm recently been writing essays about myself rather than other topics.
 

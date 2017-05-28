@@ -1,13 +1,13 @@
 On writing letters of recommendation
 ====================================
 
-[Writing letters of recommendation](recommendation-letters.html) (Essay #35)
+[Writing letters of recommendation](recommendation-letters) (Essay #35)
 
 > What it feels like when I have to write a letter of recommendation.
   Initially intended as a stand-alone essay.  Now serving as a bit
   of an introduction to a series of essays.
 
-[Are my recommendation letters gendered?](gendered-recommendations.html) (Essay #36)
+[Are my recommendation letters gendered?](gendered-recommendations) (Essay #36)
 
 > Implicit bias creeps into recommendation letters, both in how we read them
   and how we write them.  Does it appear in mine?

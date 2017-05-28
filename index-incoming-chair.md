@@ -17,3 +17,7 @@ A letter to the incoming chair
 
 > As well as soem larger initiatives.
 
+[Useful data (part of a draft letter to the incoming chair)](letter-to-incoming-chair-data) (Musing #335)
+
+> Data that help us predict, reflect, and argue.
+
