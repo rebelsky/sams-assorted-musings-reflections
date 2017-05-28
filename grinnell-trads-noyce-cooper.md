@@ -169,7 +169,7 @@ called "Selah" which included a hog roast that was supposed to harken
 back to the Noyce "incident" [29].  Gary Cooper '26 almost certainly
 did not ride a horse to the top of Gates tower [30].  While Cooper
 never graduated from Grinnell, he left voluntarily rather than being
-expelled.  Gary Cooper was a succesful actor.  Students do have a
+expelled.  Gary Cooper was a successful actor.  Students do have a
 Mary B. James festival.  Because James' name can be heard as "Mary
 *Be* James", the Mary B. James party is a cross-dressing festival.
 Fig Newtons *are* named after Newton, Massachusetts.  Our country *is*
@@ -197,4 +197,4 @@ You should check it out.
 
 ---
 
-*Version 1.2 of 2017-04-01.*
+*Version 1.2.1 of 2017-05-28.*

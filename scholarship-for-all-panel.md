@@ -79,7 +79,7 @@ appropriate to their skills and interests._"
   in that second semester.
 
 * Students will be able to enroll in some upper-level electives that
-  we designate as "research courses", coursese that will include a 3-
+  we designate as "research courses", courses that will include a 3-
   or 4-week module in which students either develop something new or
   replicate an existing scholarly project.
 
@@ -167,4 +167,4 @@ However, it appears that Celtically is not regularly used.
 
 ---
 
-*Version 1.0.2 of 2016-10-28.*
+*Version 1.0.3 of 2017-05-28.*

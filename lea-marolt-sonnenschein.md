@@ -111,7 +111,7 @@ you to useful resources.  Given her history at Grinnell, she's likely
 quite willing to do so.
 
 What puzzles me is that in the midst of all these strengths, Lea does not
-readily acknowldge how awesome she is.  She told my Learning from Alumni
+readily acknowledge how awesome she is.  She told my Learning from Alumni
 students that she struggled with imposter syndrome [26] and I recall
 many conversations in which she did not acknowledge her strengths.  Lea,
 you should know that you are awesome.  You do your (host) father proud.
@@ -265,4 +265,4 @@ I got all of the referrents corrected.
 
 ---
 
-*Version 1.1.2 of 2016-12-06.*
+*Version 1.1.3 of 2017-05-28.*

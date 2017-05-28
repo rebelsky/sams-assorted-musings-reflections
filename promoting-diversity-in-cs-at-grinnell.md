@@ -144,7 +144,7 @@ Taulbee Survey,
 
 [3] My colleague, Janet Davis, asked whether she should also set up
 the fridge, coffee pot, and microwave at her new institution.  I must
-say that I think these public applicances work because we have a strong
+say that I think these public appliances work because we have a strong
 community to support them.  Henry and John fill the urn in the morning.
 Helen used to fill it throughout the day.  Henry plunges the sink when
 students aren't sensible.  The SEPC often washes dishes.  And we usually
@@ -173,4 +173,4 @@ of gender identity or physical differences.
 
 ---
 
-*Version 1.2.1 of 2016-09-25.*
+*Version 1.2.2 of 2017-05-28.*

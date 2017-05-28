@@ -110,7 +110,7 @@ whose architectural drawings make it look like a convention center".
 closed doors.
 
 [6] You might think of them as "the Frisbee teams" or "The Sticky Tongue 
-Frogs, Grinnealeanor Roosevelts, and Grinnellephants" [7].
+Frogs, Grinneleanor Roosevelts, and Grinnellephants" [7].
 
 [7] Don't you love the names students choose for their teams?  Bonus
 points for those who know which team used to be "the Buddhas".
@@ -131,4 +131,4 @@ a new position.
 
 ---
 
-*Version 1.0 of 2017-05-17.*
+*Version 1.0.1 of 2017-05-28.*

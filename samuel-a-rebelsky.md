@@ -69,7 +69,7 @@ where they may.*"  Do you buy that?  I don't.  I think Sam also says
 "I intentionally keep my office like this so that students feel
 more comfortable; after all, it looks like their dorm rooms."  I
 don't buy that either.  Is it perhaps that he accumulates too much
-stuff and has too little time to organize it?  ALmost certainly.
+stuff and has too little time to organize it?  Almost certainly.
 
 Is he serious about losing student folders?  I do know for a fact that
 there have been times he's been digging through a box of papers and
@@ -323,4 +323,4 @@ didn't even know that the consultants were coming.  Yay transparency!
 
 ---
 
-*Version 1.0.1 of 2016-12-06.* 
+*Version 1.0.2 of 2017-05-28.* 

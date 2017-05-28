@@ -205,7 +205,7 @@ philosophy of software.  We saw it with Blackboard.  We see it with
 Sharepointless.  We'll soon see it with Salesforce.
 
 [14] I think my message was "Erik, you'll enjoy this.  Rabbit holes
-multiply almost as quickliy as rabbits."  His response was as 
+multiply almost as quickly as rabbits."  His response was as 
 sarcastic as you would expect.
 
 [15] See, Erik.  They just keep multiplying and multiplying.
@@ -234,4 +234,4 @@ that faculty meeting minutes do not have to be public.
 
 ---
 
-*Version 1.1.3 of 2016-09-28.*
+*Version 1.1.4 of 2017-05-28.*

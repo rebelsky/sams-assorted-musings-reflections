@@ -94,7 +94,7 @@ discussion should be the general improvement of the faculty member's
 teaching, scholarship, and service to the College.
 
 I find that our department meetings mostly work for that purpose.  If we
-talk regularly, we consider aour teaching, scholarship, and service and
+talk regularly, we consider our teaching, scholarship, and service and
 even mentor each other a bit.  Henry and I also both tend to do informal
 "stop in and chat" sessions, rather than formal meetings.  You will find
 your own best approach.
@@ -312,4 +312,4 @@ which I will address in the next section.
 
 ---
 
-*Version 1.0 of 2017-05-23.*
+*Version 1.0.1 of 2017-05-28.*

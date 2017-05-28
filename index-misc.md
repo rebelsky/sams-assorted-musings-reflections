@@ -159,7 +159,7 @@ Almost everything else
 
 [Enjoying listserve chaos](listserve-chaos) (Essay #253)
 
-> Watching computer professionals be unprofessioanal
+> Watching computer professionals be unprofessional
 
 [Textbook prices](textbook-prices) (Essay #257)
 

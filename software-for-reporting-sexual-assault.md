@@ -315,7 +315,7 @@ the hands of professionals.
 Finally, if you've been assaulted, please (a) [**get
 support**](http://www.grinnell.edu/campus-life/sexual-respect/support-resources);
 (b) record as much information as you comfortably can (even if you don't
-plan to report now, you may eventually) [16]; (c) collect evidience,
+plan to report now, you may eventually) [16]; (c) collect evidence,
 if you are comfortable doing so, (d) consider reporting the assault
 (anonymously, if necessary, even using EthicsPoint); and (e) consider
 speaking to our Title IX officer.

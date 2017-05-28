@@ -21,7 +21,7 @@ since it contains important stuff and we no longer have a MathLAN server.
 I think those files need to move to my Mac.  Now I can delete my MathLAN
 account.  Yay!  
 
-Or maybe not.  Deleting the MathLAN account crashs Mail.app [1,2].  I hate
+Or maybe not.  Deleting the MathLAN account crashes Mail.app [1,2].  I hate
 computers.
 
 Moving things from "Recovered messages" is slower, particularly since I
@@ -128,4 +128,4 @@ at the beginning.
 
 ---
 
-*Version 1.0 of 2017-01-11.*
+*Version 1.0.1 of 2017-05-28.*

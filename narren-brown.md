@@ -79,7 +79,7 @@ Oakland through work as a chef to an undergraduate degree at Luther
 College and a graduate degree from Iowa State [12].  His wide-ranging
 background gave us the opportunity to talk about many different things,
 from the joy of assessment (no, really) to knowing Pete Brownell to
-assessing restaurants in Grinell to the frustrations of CPAPs [14],
+assessing restaurants in Grinnell to the frustrations of CPAPs [14],
 and beyond.
 
 This past month, Narren took the next step in his career and accepted

@@ -81,7 +81,7 @@ and then later I could describe what that link meant with
 
 and somehow Markdown would tie it all together.  So here's the fun part:
 Markdown treats anything of the form "*left bracket, character sequence,
-right bracket, colon, single word*" as a link to be incorprated elsewhere.
+right bracket, colon, single word*" as a link to be incorporated elsewhere.
 However, most of the time that it sees the quite similar "*left bracket,
 character sequence, right bracket, colon, multiple words*", it leaves
 it as is.  How had I never learned that previously?
@@ -100,7 +100,7 @@ in Perl [18].  And then I came up with the following:
 
 Isn't that beautiful?  That's why some people call regular expressions
 a "write-only language" [19].  But it's not as bad as you think.
-The initial "`s`" means "substitue".  Substitute commands in Perl
+The initial "`s`" means "substitute".  Substitute commands in Perl
 have three parameters, separated by forward slashes: a pattern, its
 replacement, and any modifiers for the match.
 
@@ -245,4 +245,4 @@ It's probably because curly braces ended up marking stuff in C code.
 
 ---
 
-*Version 1.0.1 of 2016-12-06.*
+*Version 1.0.2 of 2017-05-28.*

@@ -33,7 +33,7 @@ achieve similar things, if on a smaller scale.
 
 [1] On the southwest corner of 7th and Park
 
-[2] Not to be confused with the Harry Hopkins (childhood) HOme, which
+[2] Not to be confused with the Harry Hopkins (childhood) Home, which
 is on 6th.
 
 [3] Robert Noyce is another.  Those are my top two, but I'm sure others
@@ -44,4 +44,4 @@ Reformer_, p. 2.  I'm too lazy to find the original.
 
 ---
 
-*Version 1.0 of 2016-11-12.*
+*Version 1.0.1 of 2017-05-28.*

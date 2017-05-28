@@ -40,7 +40,7 @@ each time I updated a greeting, it reloaded the page, slowly.
 
 I started at 10:30 p.m. or so.  I should have finished at a reasonable
 hour.  But all of the stupid UI stuff meant that it was suddenly midnight.
-What happeneded at midnight?  If you guessed "All of the prices went up",
+What happened at midnight?  If you guessed "All of the prices went up",
 you'd be right.  But you probably didn't guess that it decided that all
 of the presents should ship to the same person.  Yes, that's right, some
 bug in the system converted every address into one address (the last address).
@@ -220,4 +220,4 @@ a common test.  Isn't that fun?
 
 ---
 
-*Version 1.1.2 of 2016-12-06.*
+*Version 1.1.3 of 2017-05-28.*

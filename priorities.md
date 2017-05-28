@@ -38,10 +38,10 @@ above.  I'm just not sure what it is.
 [5] It really was fascinating; Leslie Lyons is awesome.
 
 [6] I suppose I could have tried the approach I tried in English in
-high schoool.  We were supposed to journal for a page each day.  I wrote
+high school.  We were supposed to journal for a page each day.  I wrote
 my history notes in stanza form, and turned those in, claiming that I
 was writing poetry.  I think it worked for over a month.  
 
 ---
 
-*Version 1.0 of 2017-02-17.*
+*Version 1.0.1 of 2017-05-28.*

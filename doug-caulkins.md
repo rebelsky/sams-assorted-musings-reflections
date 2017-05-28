@@ -154,11 +154,11 @@ laws; but a lot of it may be voluntary, driven by the perspectives
 of administrators and certain trustees.
 
 [11] Caulkins, D. (2:09 p.m. CST, 15 November 2016).  Personal communication:
-Electronic mail message entiteld "Re: Sam's Blog".
+Electronic mail message titled "Re: Sam's Blog".
 
 [12] A program which has now evolved into the Gender, Women's, and
 Sexuality Studies major.
 
 ---
 
-*Version 1.1.1 of 2016-11-16.*
+*Version 1.1.2 of 2017-05-28.*

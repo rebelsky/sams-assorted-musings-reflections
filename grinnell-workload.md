@@ -27,7 +27,7 @@ expect to be less time-consuming for that student, so that their total
 workload is reasonable.  With these new policies, we shouldn't have those
 lighter classes.  And it's not like most students can take fewer than
 16 credits; to graduate from Grinnell, you should take 16 credits seven
-of your eight seemesters (or take more than 16 credits a few semesters).
+of your eight semesters (or take more than 16 credits a few semesters).
 
 I'll also admit that I'm not sure whose hours we are measuring.  I know
 that I see factors of two or more in how long it takes different *good*
@@ -111,4 +111,4 @@ it too, right?) it all.
 
 *First version released on 2016-05-06.*
 
-*Version 1.1.1 of 2016-10-13.*
+*Version 1.1.2 of 2017-05-28.*

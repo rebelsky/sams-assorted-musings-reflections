@@ -56,7 +56,7 @@ in a much better mood.  We'll see.
 
 [1] Actually, that's not quite accurate.  I thought about
 removing the [essay about software for reporting sexual
-assault](software-for-reporting-sexual-assault.html) because I learned
+assault](software-for-reporting-sexual-assault) because I learned
 that critiques of reporting process can sometimes dissuade people from
 reporting.  However, I do feel that the essay encourages people to report,
 even with software that is less good than I'd like, so I left it up.
@@ -86,4 +86,4 @@ no chance to reply?  Perhaps it is, at least in our new America.
 
 ---
 
-*Version 1.0 of 2016-12-07.*
+*Version 1.0.1 of 2017-05-28.*

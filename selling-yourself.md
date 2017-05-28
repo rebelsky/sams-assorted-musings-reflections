@@ -63,11 +63,13 @@ nor empowering, nor sex positive.
 
 [5] I did a quick Google search of "Sell Yourself",
 and one of the firs things to come up was [an article at
-_Forbes_](www.forbes.com/sites/susannahbreslin/2012/06/08/how-to-sell-yourself/)
+_Forbes_](http://www.forbes.com/sites/susannahbreslin/2012/06/08/how-to-sell-yourself/)
 that includes the sentence "I've spent a fair amount of my career
 hanging around pimps, prostitutes, and porn stars, and, boy, do they
 know how to sell themselves."
 
 ---
 
-*Version 1.0 of 2016-10-08.*
+*Original version 2016-10-08.*
+
+*Version 1.0.1 of 2017-05-28.*
