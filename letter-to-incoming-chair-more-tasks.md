@@ -60,6 +60,10 @@ _Fundraising_
 
 Mostly coordinating with DAR.
 
+_Research opportunities for all_
+
+_Second-year planning_
+
 Department-specific responsibilities
 ------------------------------------
 
@@ -77,8 +81,44 @@ _Exit Interviews_
 
 Make sure that they happen.
 
+_Other groups_
+
+IP policy?  (Or is that just me.)
+
 Special projects
 ----------------
+
+_Change in Linux System administration_
+
+_Research opportunities for all_
+
+While this will become a regular task, there are also some "one time"
+responsibilities.  Here are the ones that come to mind.
+
+Probably more forms from the Dean's office.
+
+Will probably need to be incorporated in the Catalog.
+
+May need to figure out more about funding.
+
+_Enrollments: Predictive modeling_
+
+No one else will do it unless you ask.  Council does not ask admissions
+for data.  Mike didn't know how many people were in each major.
+
+_Students of color in computing_
+
+Request that we form such a group, similar to our women-in-computing group.
+Still questions of intersectionality.
+
+Allies
+------
+
+_Our Alumni_.  Our alumni are often willing to step up when we need
+help.  They can be particularly useful for giving career advice and
+for heping with mock interviews.  Many serve as externship sponsors.
+
+
 
 ---
 

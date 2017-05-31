@@ -64,11 +64,6 @@ systems and will be running decennial review in a year or two.  Each of
 these special responsibilities needs some treatment, and they appear
 in the third section of this letter [4].
 
-One of the duties of the chair is to keep track of important deadlines,
-such as the deadlines for course changes, academic equipment requests,
-or summer funding.  I've done my best to put together a table of those
-deadlines.
-
 President Kington has suggested that we should be more of a data-driven
 institution.  I don't know whether or not I agree, but I do think that
 it is useful to have a variety of kinds of data available, particularly
@@ -80,28 +75,29 @@ those data.
 You will not do everything yourself.  (I expect that you cannot do
 everything yourself.)  As you know, you have many people within the
 department who will help you: Faculty colleagues, staff, and students.
-But there are also people throughout the College who can make your
-job easier, or at least help support.  In the next section, I describe
-some of the people I think of "allies" of our department.  I'll probably
-miss some, but it's a good starting point.
-
-One of your important allies is the Student Educational Policy Committee.
-Different departments seem to have very different approaches to their
-SEPCs.  I have a few things to suggest to help make your relationship
-with them more productive.
+But there are also people throughout the College who can make your job
+easier, or at least help support.  In the next section, I describe some
+of the people I think of "allies" of our department.  I'll probably miss
+some, but it's a good starting point.  One of your important allies is
+the Student Educational Policy Committee.
 
 The SEPC is also not the only student group in or related to our
-department.  We have an ACM student chapter.  We have a group of students
-who are coordinating outreach to the community.  Many CS students are
-actively involved in AppDev and the VR club.  A few are participating
-in the design of a Makerspace.  And I think there are plans for a
-hack-a-thon club.  In the next section, I provide a bit more information
-about each of these groups.
+department.  We have an active Women in Computing group.  We have an
+ACM student chapter.  We have a group of students who are coordinating
+outreach to the community.  Many CS students are actively involved in
+AppDev and the VR club.  A few are participating in the design of a
+Makerspace.  And I think there are plans for a hack-a-thon club.  In the
+next section, I provide a bit more information about each of these groups.
 
 I've done my best to organize the many materials I have gathered as chair
 and as member of the department into a Department Folder.  In this letter,
 I provide a short manifest for that Folder, including an explanation of
 the kinds of materials I have gathered..
+
+One of the duties of the chair is to keep track of important deadlines,
+such as the deadlines for course changes, academic equipment requests,
+or summer funding.  I've done my best to put together a table of those
+deadlines.
 
 I realize that that's a lot, so I will conclude with an executive summary.
 
@@ -126,4 +122,4 @@ go back and rewrite the rest again, too.
 
 ---
 
-*Version 1.0 of 2017-05-19.*
+*Version 1.0.1 of 2017-05-28.*
