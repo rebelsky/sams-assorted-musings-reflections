@@ -312,4 +312,4 @@ which I will address in the next section.
 
 ---
 
-*Version 1.0.1 of 2017-05-28.*
+*Version 1.0.2 of 2017-05-28.*
