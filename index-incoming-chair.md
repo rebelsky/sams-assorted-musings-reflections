@@ -21,3 +21,11 @@ A letter to the incoming chair
 
 > Data that help us predict, reflect, and argue.
 
+[Allies (part of a draft letter to the incoming chair)](letter-to-incoming-chair-department-roles) (Musing #337)
+
+> People who help with the work.
+
+[Department roles and responsibilities (part of a draft letter to the incoming chair)](letter-to-incoming-chair-department-roles) (Musing #338)
+
+> It's not just me that has boundary issues.
+

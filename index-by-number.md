@@ -438,3 +438,6 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Current CS initiatives (part of a draft letter to the incoming chair)](letter-to-incoming-chair-current-initiatives) (Musing #333)  
 [Delegate! To whom?](delegate-2017-05-27) (Musing #334)   
 [Useful data (part of a draft letter to the incoming chair)](letter-to-incoming-chair-data) (Musing #335)  
+[Self-catering, revisited](self-catering-2017-05-28) (Musing #336)  
+[Allies (part of a draft letter to the incoming chair)](letter-to-incoming-chair-department-roles) (Musing #337)  
+[Department roles and responsibilities (part of a draft letter to the incoming chair)](letter-to-incoming-chair-department-roles) (Musing #338)  

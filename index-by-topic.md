@@ -646,6 +646,10 @@ Why Grinnell staff with Ph.D's should be allowed to teach.
 
 > In which I try to delegate and fail.
 
+[Self-catering, revisited](self-catering-2017-05-28) (Musing #336)
+
+> In which I respond to a question about catering.
+
 Assorted talks and speeches
 ---------------------------
 
@@ -1208,6 +1212,14 @@ A letter to the incoming chair
 [Useful data (part of a draft letter to the incoming chair)](letter-to-incoming-chair-data) (Musing #335)
 
 > Data that help us predict, reflect, and argue.
+
+[Allies (part of a draft letter to the incoming chair)](letter-to-incoming-chair-department-roles) (Musing #337)
+
+> People who help with the work.
+
+[Department roles and responsibilities (part of a draft letter to the incoming chair)](letter-to-incoming-chair-department-roles) (Musing #338)
+
+> It's not just me that has boundary issues.
 
 Reviews and notes about things I enjoy
 --------------------------------------

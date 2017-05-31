@@ -153,3 +153,7 @@ Why Grinnell staff with Ph.D's should be allowed to teach.
 
 > In which I try to delegate and fail.
 
+[Self-catering, revisited](self-catering-2017-05-28) (Musing #336)
+
+> In which I respond to a question about catering.
+

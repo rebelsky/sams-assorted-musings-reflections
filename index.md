@@ -8,9 +8,7 @@ of how I approach the world.  Some are just my attempts to think through
 a topic.
 
 Latest musings:
-[Delegate! To whom?](delegate-2017-05-27) (Musing #334) 
-and
-[Useful data (part of a draft letter to the incoming chair)](letter-to-incoming-chair-data) (Musing #335)
+[Department roles and responsibilities (part of a draft letter to the incoming chair)](letter-to-incoming-chair-department-roles) (Musing #338)
 
 [Musings, by number](index-by-number)
 
