@@ -47,6 +47,9 @@ the spreadsheets and the explanatory documents.
 Any documents of found related to course proposals.  These include some
 new course proposals and a variety of special topics courses.
 
+`Data Buddies`  
+Our reports from the Data Buddies project.  We should discuss these more.
+
 `Department Chairs Info`  
 At the fall Department Chairs Meeting, they give us a flash drive of
 information, most of which appears somewhere on GrinCo.  I've copied it
