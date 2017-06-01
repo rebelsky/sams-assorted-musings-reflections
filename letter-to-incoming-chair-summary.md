@@ -1,5 +1,5 @@
-Executive summary (part of a letter to the incoming chair)
-==========================================================
+Executive summary of a letter to the incoming chair
+===================================================
 
 _I am now almost done with [my letter to the incoming
 chair](index-incoming-chair).  After this summary, I only have to go
