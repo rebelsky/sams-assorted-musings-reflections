@@ -1659,6 +1659,10 @@ Almost everything else
 
 > Lists for next year.
 
+[Questions of the day](questions-2017-06-01) (Musing #344)
+
+> What Sam does when he doesn't have a lot of time to muse.
+
 Musings with multiple entries
 -----------------------------
 

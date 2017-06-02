@@ -7,9 +7,8 @@ Some are rants about topics I'm passionate about.  Some are explanations
 of how I approach the world.  Some are just my attempts to think through
 a topic.
 
-Latest musings:
-[Ten months of daily musings](ten-months) (Musing #342) and
-[Executive summary (part of a draft letter to the incoming chair)](letter-to-incoming-chair-summary) (Musing #343).
+Latest musing:
+[Questions of the day](questions-2017-06-01) (Musing #344)
 
 [Musings, by number](index-by-number)
 

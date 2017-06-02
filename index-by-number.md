@@ -449,3 +449,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Dates and deadlines (part of a draft letter to the incoming chair)](letter-to-incoming-chair-deadlines) (Musing #341)  
 [Ten months of daily musings](ten-months) (Musing #342)   
 [Executive summary (part of a draft letter to the incoming chair)](letter-to-incoming-chair-summary) (Musing #343).  
+[Questions of the day](questions-2017-06-01) (Musing #344)  
