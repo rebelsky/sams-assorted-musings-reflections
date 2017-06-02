@@ -157,3 +157,7 @@ Why Grinnell staff with Ph.D's should be allowed to teach.
 
 > In which I respond to a question about catering.
 
+[Mailing list etiquette](mailing-list-etiquette-2017-05-30) (Musing #339),
+
+> In which I wonder why people send the messages they do to mailing lists.
+

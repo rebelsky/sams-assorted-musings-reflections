@@ -441,3 +441,11 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Self-catering, revisited](self-catering-2017-05-28) (Musing #336)  
 [Allies (part of a draft letter to the incoming chair)](letter-to-incoming-chair-department-roles) (Musing #337)  
 [Department roles and responsibilities (part of a draft letter to the incoming chair)](letter-to-incoming-chair-department-roles) (Musing #338)  
+[Mailing list etiquette](mailing-list-etiquette-2017-05-30) (Musing #339),  
+[A manifest of the department folder (part of a draft letter to the incoming chair)](letter-to-incoming-chair-manifest) (Musing #340)  
+
+## 341-350
+
+[Dates and deadlines (part of a draft letter to the incoming chair)](letter-to-incoming-chair-deadlines) (Musing #341)  
+[Ten months of daily musings](ten-months) (Musing #342)   
+[Executive summary (part of a draft letter to the incoming chair)](letter-to-incoming-chair-summary) (Musing #343).  

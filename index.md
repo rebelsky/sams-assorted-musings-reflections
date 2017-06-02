@@ -8,7 +8,8 @@ of how I approach the world.  Some are just my attempts to think through
 a topic.
 
 Latest musings:
-[Department roles and responsibilities (part of a draft letter to the incoming chair)](letter-to-incoming-chair-department-roles) (Musing #338)
+[Ten months of daily musings](ten-months) (Musing #342) and
+[Executive summary (part of a draft letter to the incoming chair)](letter-to-incoming-chair-summary) (Musing #343).
 
 [Musings, by number](index-by-number)
 

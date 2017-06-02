@@ -60,6 +60,10 @@ Essays on writing, or at least on writing my essays
 
 > Or "one year since my first daily musing".
 
+[Ten months of daily musings](ten-months) (Musing #342) 
+
+> Is it time to stop (again)?
+
 [On making, breaking, and remaking the habit of daily writing](habit-of-writing) (Essay #41)
 
 > Reflections on trying to restart these essays.

@@ -63,6 +63,10 @@ Essays on writing, or at least on writing my essays
 
 > Or "one year since my first daily musing".
 
+[Ten months of daily musings](ten-months) (Musing #342) 
+
+> Is it time to stop (again)?
+
 [On making, breaking, and remaking the habit of daily writing](habit-of-writing) (Essay #41)
 
 > Reflections on trying to restart these essays.
@@ -650,6 +654,10 @@ Why Grinnell staff with Ph.D's should be allowed to teach.
 
 > In which I respond to a question about catering.
 
+[Mailing list etiquette](mailing-list-etiquette-2017-05-30) (Musing #339),
+
+> In which I wonder why people send the messages they do to mailing lists.
+
 Assorted talks and speeches
 ---------------------------
 
@@ -1220,6 +1228,18 @@ A letter to the incoming chair
 [Department roles and responsibilities (part of a draft letter to the incoming chair)](letter-to-incoming-chair-department-roles) (Musing #338)
 
 > It's not just me that has boundary issues.
+
+[A manifest of the department folder (part of a draft letter to the incoming chair)](letter-to-incoming-chair-manifest) (Musing #340)
+
+> Files to peruse
+
+[Dates and deadlines (part of a draft letter to the incoming chair)](letter-to-incoming-chair-deadlines) (Musing #341)
+
+> More things to do!
+
+[Executive summary (part of a draft letter to the incoming chair)](letter-to-incoming-chair-summary) (Musing #343).
+
+> Almost done!
 
 Reviews and notes about things I enjoy
 --------------------------------------

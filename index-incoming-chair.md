@@ -29,3 +29,15 @@ A letter to the incoming chair
 
 > It's not just me that has boundary issues.
 
+[A manifest of the department folder (part of a draft letter to the incoming chair)](letter-to-incoming-chair-manifest) (Musing #340)
+
+> Files to peruse
+
+[Dates and deadlines (part of a draft letter to the incoming chair)](letter-to-incoming-chair-deadlines) (Musing #341)
+
+> More things to do!
+
+[Executive summary (part of a draft letter to the incoming chair)](letter-to-incoming-chair-summary) (Musing #343).
+
+> Almost done!
+
