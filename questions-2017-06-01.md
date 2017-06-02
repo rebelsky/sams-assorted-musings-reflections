@@ -20,8 +20,15 @@ Will I ever get to teach Tutorial again? [2]
 Given that Senior Showcase is at the high school Friday night and
 youngest's birthday is Sunday, when will I see alumni? [3]
 
+What should I say when alums say, "It's clear that you need more faculty.
+What can I do to help?"?
+
+Should that question have had two question marks?  Why or why not?
+
 How much time do I have to write musings after watching _Wonder Woman_
 with my family? [4]
+
+Is that the only question to which I know the answer? [5]
 
 ---
 
@@ -38,6 +45,8 @@ find me on Friday.
 
 [4] Not very much if I want to get to bed at a reasonable hour.
 
+[5] Yes.
+
 ---
 
-*Version 1.0 of 2017-06-01.*
+*Version 1.0.1 of 2017-06-01.*
