@@ -70,9 +70,12 @@ _Fall Break_
 _Late Fall (after Fall break)_
 
 * Tenure reviews due.  (None to worry about at the moment, but ....)
+* Distribute Data Buddies survey.
 * Faculty salary reviews due (early December).
 * Budget due (early December).
 * Major FM requests due (early December).
+* ACM NDC Survey.  (Ask Jim Mulholland to do the salaries and make it
+  clear that he *only* has to do the salaries.)
 * CS extra on summer opportunities (usually last Thursday of the semester).
 
 _Early Spring (before Spring break)_

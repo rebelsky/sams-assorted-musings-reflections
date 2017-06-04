@@ -105,6 +105,8 @@ waiting for a response.
 
 _Advise on study abroad opportunities_
 
+[This responsibility will move to another section.]
+
 Someone in the department needs to be available to talk to students about
 the various CS-related study-abroad options and, more generally, about
 how to fit a study-abroad opportunity into their four-year plan.
@@ -178,6 +180,8 @@ and will likely be on the mail chains.
 
 _Coordinate the senior lunch_
 
+[This responsibility will move to another section.]
+
 We have a senior lunch on the Monday of finals week.  Our tradition is
 to hold it at Relish.  We need to reserve Relish, gather orders from
 students and faculty, remind students and faculty who have not ordered,
@@ -243,6 +247,8 @@ to bug their students to fill out a survey).
 
 _Coordinate Tapia and GHC_
 
+[This responsibility will move to another section.]
+
 The department helps support our students from underrepresented groups
 by supporting trips to the Richard Tapia Celebration of Diversity in
 Computing, the Grace Hopper Celebration of Women in Computing, and 
@@ -258,7 +264,9 @@ We currently gather funds from the following sources: the HHMI grant
 (now expired), the Wilson Center, the Chief Diversity Officer, and
 our own Diversity Fund.
 
-_Coordinate the Pledge of the Computing Professional_
+_Manage the Pledge of the Computing Professional_
+
+[This responsibility will move to another section.]
 
 We are the `cadr` of the linked list of nodes that constitute the Iowa
 branch of the Pledge of the Computing Professional.  We hold one induction
@@ -359,4 +367,4 @@ as I write the remaining sections of this letter.
 
 ---
 
-*Version 1.0.1 of 2017-05-25.*
+*Version 1.0.2 of 2017-05-28.*
