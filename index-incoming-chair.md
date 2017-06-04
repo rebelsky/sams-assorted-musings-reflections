@@ -41,3 +41,11 @@ A letter to the incoming chair
 
 > Almost done!
 
+[Additional issues (part of a letter to the incoming chair)](letter-to-incoming-chair-more-tasks) (Musing #345)
+
+> Some things I forgot while writing the previous sections.
+
+[A letter to the incoming chair](letter-to-incoming-chair) (Musing #347).
+
+> Done!
+

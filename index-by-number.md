@@ -450,3 +450,6 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Ten months of daily musings](ten-months) (Musing #342)   
 [Executive summary (part of a draft letter to the incoming chair)](letter-to-incoming-chair-summary) (Musing #343).  
 [Questions of the day](questions-2017-06-01) (Musing #344)  
+[Additional issues (part of a letter to the incoming chair)](letter-to-incoming-chair-more-tasks) (Musing #345)  
+[Deanly stressors](deanly-stressors) (Musing #346)   
+[A letter to the incoming chair](letter-to-incoming-chair) (Musing #347).  

@@ -1241,6 +1241,14 @@ A letter to the incoming chair
 
 > Almost done!
 
+[Additional issues (part of a letter to the incoming chair)](letter-to-incoming-chair-more-tasks) (Musing #345)
+
+> Some things I forgot while writing the previous sections.
+
+[A letter to the incoming chair](letter-to-incoming-chair) (Musing #347).
+
+> Done!
+
 Reviews and notes about things I enjoy
 --------------------------------------
 
@@ -1662,6 +1670,10 @@ Almost everything else
 [Questions of the day](questions-2017-06-01) (Musing #344)
 
 > What Sam does when he doesn't have a lot of time to muse.
+
+[Deanly stressors](deanly-stressors) (Musing #346) 
+
+> Feeling sorry for my dean.
 
 Musings with multiple entries
 -----------------------------

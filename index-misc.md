@@ -265,3 +265,7 @@ Almost everything else
 
 > What Sam does when he doesn't have a lot of time to muse.
 
+[Deanly stressors](deanly-stressors) (Musing #346) 
+
+> Feeling sorry for my dean.
+

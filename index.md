@@ -7,8 +7,9 @@ Some are rants about topics I'm passionate about.  Some are explanations
 of how I approach the world.  Some are just my attempts to think through
 a topic.
 
-Latest musing:
-[Questions of the day](questions-2017-06-01) (Musing #344)
+Latest musings:
+[Deanly stressors](deanly-stressors) (Musing #346) and
+[A letter to the incoming chair](letter-to-incoming-chair) (Musing #347).
 
 [Musings, by number](index-by-number)
 
