@@ -1675,6 +1675,10 @@ Almost everything else
 
 > Feeling sorry for my dean.
 
+[A workshop on Universal Design for Learning](udl-workshop-2017) (Musing #350).
+
+> A report.
+
 Musings with multiple entries
 -----------------------------
 

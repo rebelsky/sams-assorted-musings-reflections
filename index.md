@@ -7,9 +7,8 @@ Some are rants about topics I'm passionate about.  Some are explanations
 of how I approach the world.  Some are just my attempts to think through
 a topic.
 
-Latest musings:
-[Deanly stressors](deanly-stressors) (Musing #346) and
-[A letter to the incoming chair](letter-to-incoming-chair) (Musing #347).
+Latest musing:
+[A workshop on Universal Design for Learning](udl-workshop-2017) (Musing #350).
 
 [Musings, by number](index-by-number)
 
