@@ -1679,6 +1679,10 @@ Almost everything else
 
 > A report.
 
+[Reading CS Principles, Take 1](csp-2017-06-09) (Musing #351).
+
+> Starting a series?
+
 Musings with multiple entries
 -----------------------------
 

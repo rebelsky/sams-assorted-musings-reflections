@@ -454,3 +454,7 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Deanly stressors](deanly-stressors) (Musing #346)   
 [A letter to the incoming chair](letter-to-incoming-chair) (Musing #347).  
 [A workshop on Universal Design for Learning](udl-workshop-2017) (Musing #350).  
+
+## 351-360
+
+[Reading CS Principles, Take 1](csp-2017-06-09) (Musing #351).  

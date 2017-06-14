@@ -8,7 +8,7 @@ of how I approach the world.  Some are just my attempts to think through
 a topic.
 
 Latest musing:
-[A workshop on Universal Design for Learning](udl-workshop-2017) (Musing #350).
+[Reading CS Principles, Take 1](csp-2017-06-09) (Musing #351).
 
 [Musings, by number](index-by-number)
 
