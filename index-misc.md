@@ -277,3 +277,11 @@ Almost everything else
 
 > Starting a series?
 
+[Reading CS Principles, Take 2](csp-2017-06-13) (Musing #352)
+
+> Continuing the series.
+
+[Bananas](bananas) (Musing #353).
+
+> A slight detour.
+

@@ -103,3 +103,7 @@ About SamR
 
 > Another planning session.
 
+[Implications](curmudgeon-2017-06-14) (Musing #354)
+
+> Things people say that make me worry.
+

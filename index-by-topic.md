@@ -1404,6 +1404,10 @@ About SamR
 
 > Another planning session.
 
+[Implications](curmudgeon-2017-06-14) (Musing #354)
+
+> Things people say that make me worry.
+
 Almost everything else
 ----------------------
 
@@ -1682,6 +1686,14 @@ Almost everything else
 [Reading CS Principles, Take 1](csp-2017-06-09) (Musing #351).
 
 > Starting a series?
+
+[Reading CS Principles, Take 2](csp-2017-06-13) (Musing #352)
+
+> Continuing the series.
+
+[Bananas](bananas) (Musing #353).
+
+> A slight detour.
 
 Musings with multiple entries
 -----------------------------

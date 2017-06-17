@@ -458,3 +458,6 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 ## 351-360
 
 [Reading CS Principles, Take 1](csp-2017-06-09) (Musing #351).  
+[Reading CS Principles, Take 2](csp-2017-06-13) (Musing #352)  
+[Bananas](bananas) (Musing #353).  
+[Implications](curmudgeon-2017-06-14) (Musing #354)  

@@ -8,7 +8,7 @@ of how I approach the world.  Some are just my attempts to think through
 a topic.
 
 Latest musing:
-[Reading CS Principles, Take 1](csp-2017-06-09) (Musing #351).
+[Implications](curmudgeon-2017-06-14) (Musing #354)
 
 [Musings, by number](index-by-number)
 
