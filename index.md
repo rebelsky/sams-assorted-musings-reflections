@@ -8,7 +8,7 @@ of how I approach the world.  Some are just my attempts to think through
 a topic.
 
 Latest musing:
-[Implications](curmudgeon-2017-06-14) (Musing #354)
+[I'm back!](im-back-2017-06-25) (Musing #357)
 
 [Musings, by number](index-by-number)
 

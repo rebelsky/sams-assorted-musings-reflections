@@ -285,3 +285,15 @@ Almost everything else
 
 > A slight detour.
 
+[Conversations](strange-conversations-2017-06-16) (Musing #355)
+
+> Yet another conversation that I don't expect.
+
+[Reading AP CS Principles, Take 3](csp-2017-06-16) (Musing #356)
+
+> Returning to the series.
+
+[I'm back!](im-back-2017-06-25) (Musing #357)
+
+> Returning from a break.
+
