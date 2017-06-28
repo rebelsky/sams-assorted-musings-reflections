@@ -724,6 +724,10 @@ Overcommitment
 > The first in a new series about my workload (originally intended as
   the third in the previous series).
 
+[Taskcading (or tasks cascading)](taskcading-2017-06-26) (Musing #358)
+
+> A return to reflections on my workload.
+
 On teaching online
 ------------------
 

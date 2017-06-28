@@ -8,7 +8,7 @@ of how I approach the world.  Some are just my attempts to think through
 a topic.
 
 Latest musing:
-[I'm back!](im-back-2017-06-25) (Musing #357)
+[Taskcading (or tasks cascading)](taskcading-2017-06-26) (Musing #358)
 
 [Musings, by number](index-by-number)
 
