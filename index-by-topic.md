@@ -1711,6 +1711,10 @@ Almost everything else
 
 > Returning from a break.
 
+[Reading AP CS Principles, Take 4](csp-2017-06-27) (Musing #359)
+
+> Now that I'm back from the break, I'm adding to the series.
+
 Musings with multiple entries
 -----------------------------
 

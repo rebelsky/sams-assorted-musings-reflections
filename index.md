@@ -8,7 +8,7 @@ of how I approach the world.  Some are just my attempts to think through
 a topic.
 
 Latest musing:
-[Taskcading (or tasks cascading)](taskcading-2017-06-26) (Musing #358)
+[Reading AP CS Principles, Take 4](csp-2017-06-27) (Musing #359)
 
 [Musings, by number](index-by-number)
 
