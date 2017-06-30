@@ -8,7 +8,7 @@ of how I approach the world.  Some are just my attempts to think through
 a topic.
 
 Latest musing:
-[Reading AP CS Principles, Take 4](csp-2017-06-27) (Musing #359)
+[What do you listen to? part one](Musing #360)
 
 [Musings, by number](index-by-number)
 
