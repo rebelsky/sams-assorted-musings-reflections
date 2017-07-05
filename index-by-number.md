@@ -212,7 +212,7 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 ## 161-170
 
 [The strange pricing of meal plans](meal-plan-pricing) (Essay #161)   
-[Some shorter questions and answers about Grinnell's CS program](cs-faq) (Musing #162).  
+[Some shorter questions and answers about Grinnell's CS program](cs-faq) (Musing #162)  
 [More fun with Harry & David](harry-and-david-2) (Essay #163)  
 [Thank-you letter to donors to the CS department (version of December 2016)](donor-thank-you-2016-12) (Essay #164)  
 [Christmas eve, 2016](christmas-eve-2016) (Essay #165)  
@@ -347,7 +347,7 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [A draft description of the new CSC 151](csc151-datascience-draft) (Musing #264)  
 [Fun with writing tools: The CSC 151 description](fun-with-writing-tools-csc151) (Musing #265);  
 [Writing on the road](writing-on-the-road) (Musing #266)  
-[Inbox zero, stage seven (the story resumes)](inbox-zero-07) (Musing #267).  
+[Inbox zero, stage seven (the story resumes)](inbox-zero-07) (Musing #267)  
 [The C Preprocessor](cnix-c-preprocessor) (Musing #268)  
 [My muse may be on spring break](muse-spring-break) (Musing #269)  
 [My muse is still away for spring break](muse-spring-break-continues) (Musing #270)  
@@ -383,7 +383,7 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Grinnell's 2017 Kinetic Sculpture Competition](kinetic-sculpture-2017) (Musing #291)  
 [Summer research with students](summer-research) (Musing #292)  
 [A (nonlinear) rant](nonlinear-rant-2017-04-18) (Musing #293)  
-[Some shorter questions and answers about Grinnell's CS program](cs-faq) (Musing #294).  
+[Some shorter questions and answers about Grinnell's CS program](cs-faq) (Musing #294)  
 [Making good choices](making-good-choices-2017-04-20) (Musing #295)  
 [The joy of code: Making acronyms](joc-acronym) (Musing #296)  
 [The state of the CS department](department-state-2017-04-22) (Musing #297)  
@@ -447,20 +447,20 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 
 [Dates and deadlines (part of a draft letter to the incoming chair)](letter-to-incoming-chair-deadlines) (Musing #341)  
 [Ten months of daily musings](ten-months) (Musing #342)   
-[Executive summary (part of a draft letter to the incoming chair)](letter-to-incoming-chair-summary) (Musing #343).  
+[Executive summary (part of a draft letter to the incoming chair)](letter-to-incoming-chair-summary) (Musing #343)  
 [Questions of the day](questions-2017-06-01) (Musing #344)  
 [Additional issues (part of a letter to the incoming chair)](letter-to-incoming-chair-more-tasks) (Musing #345)  
 [Deanly stressors](deanly-stressors) (Musing #346)   
-[A letter to the incoming chair](letter-to-incoming-chair) (Musing #347).  
+[A letter to the incoming chair](letter-to-incoming-chair) (Musing #347)  
 [A new CSC 151](new-csc151-2017-06-05) (Musing #348)  
 [Fun with Grammarly](grammarly-2017-06-05) (Musing #349)  
-[A workshop on Universal Design for Learning](udl-workshop-2017) (Musing #350).  
+[A workshop on Universal Design for Learning](udl-workshop-2017) (Musing #350)  
 
 ## 351-360
 
-[Reading CS Principles, Take 1](csp-2017-06-09) (Musing #351).  
+[Reading CS Principles, Take 1](csp-2017-06-09) (Musing #351)  
 [Reading CS Principles, Take 2](csp-2017-06-13) (Musing #352)  
-[Bananas](bananas) (Musing #353).  
+[Bananas](bananas) (Musing #353)  
 [Implications](curmudgeon-2017-06-14) (Musing #354)  
 [Conversations](strange-conversations-2017-06-16) (Musing #355)  
 [Reading AP CS Principles, Take 3](csp-2017-06-16) (Musing #356)  

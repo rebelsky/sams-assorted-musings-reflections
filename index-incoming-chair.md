@@ -37,7 +37,7 @@ A letter to the incoming chair
 
 > More things to do!
 
-[Executive summary (part of a draft letter to the incoming chair)](letter-to-incoming-chair-summary) (Musing #343).
+[Executive summary (part of a draft letter to the incoming chair)](letter-to-incoming-chair-summary) (Musing #343)
 
 > Almost done!
 
@@ -45,7 +45,7 @@ A letter to the incoming chair
 
 > Some things I forgot while writing the previous sections.
 
-[A letter to the incoming chair](letter-to-incoming-chair) (Musing #347).
+[A letter to the incoming chair](letter-to-incoming-chair) (Musing #347)
 
 > Done!
 

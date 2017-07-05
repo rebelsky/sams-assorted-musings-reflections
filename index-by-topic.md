@@ -199,7 +199,7 @@ For prospective students, parents of prospective students, and others with simil
 > A response to students who ask about the differences between CS at
   Grinnell and CS at our peer institutions.
 
-[Some shorter questions and answers about Grinnell's CS program](cs-faq) (Musing #294).
+[Some shorter questions and answers about Grinnell's CS program](cs-faq) (Musing #294)
 
 > Additional information about the department.
 
@@ -1249,7 +1249,7 @@ A letter to the incoming chair
 
 > More things to do!
 
-[Executive summary (part of a draft letter to the incoming chair)](letter-to-incoming-chair-summary) (Musing #343).
+[Executive summary (part of a draft letter to the incoming chair)](letter-to-incoming-chair-summary) (Musing #343)
 
 > Almost done!
 
@@ -1257,7 +1257,7 @@ A letter to the incoming chair
 
 > Some things I forgot while writing the previous sections.
 
-[A letter to the incoming chair](letter-to-incoming-chair) (Musing #347).
+[A letter to the incoming chair](letter-to-incoming-chair) (Musing #347)
 
 > Done!
 
@@ -1499,7 +1499,7 @@ Almost everything else
 
 > Sam loses to the computer juggernaut
 
-[Inbox zero, stage seven (the story resumes)](inbox-zero-07) (Musing #267).
+[Inbox zero, stage seven (the story resumes)](inbox-zero-07) (Musing #267)
 
 > Sam resumes his quest.
 
@@ -1703,11 +1703,11 @@ Almost everything else
 
 > Thinking about the new version of the course.
 
-[A workshop on Universal Design for Learning](udl-workshop-2017) (Musing #350).
+[A workshop on Universal Design for Learning](udl-workshop-2017) (Musing #350)
 
 > A report.
 
-[Reading CS Principles, Take 1](csp-2017-06-09) (Musing #351).
+[Reading CS Principles, Take 1](csp-2017-06-09) (Musing #351)
 
 > Starting a series?
 
@@ -1715,7 +1715,7 @@ Almost everything else
 
 > Continuing the series.
 
-[Bananas](bananas) (Musing #353).
+[Bananas](bananas) (Musing #353)
 
 > A slight detour.
 
@@ -1743,7 +1743,7 @@ in a few cases, such as [the CS FAQ](cs-faq), it makes more sense to
 extend an existing document, rather than to create a new one.  I keep the
 old entries for those musings in this file.*
 
-[Some shorter questions and answers about Grinnell's CS program](cs-faq) (Musing #162).
+[Some shorter questions and answers about Grinnell's CS program](cs-faq) (Musing #162)
 
 > Additional information about the department.
 

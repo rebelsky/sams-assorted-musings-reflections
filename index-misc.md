@@ -69,7 +69,7 @@ Almost everything else
 
 > Sam loses to the computer juggernaut
 
-[Inbox zero, stage seven (the story resumes)](inbox-zero-07) (Musing #267).
+[Inbox zero, stage seven (the story resumes)](inbox-zero-07) (Musing #267)
 
 > Sam resumes his quest.
 
@@ -273,11 +273,11 @@ Almost everything else
 
 > Thinking about the new version of the course.
 
-[A workshop on Universal Design for Learning](udl-workshop-2017) (Musing #350).
+[A workshop on Universal Design for Learning](udl-workshop-2017) (Musing #350)
 
 > A report.
 
-[Reading CS Principles, Take 1](csp-2017-06-09) (Musing #351).
+[Reading CS Principles, Take 1](csp-2017-06-09) (Musing #351)
 
 > Starting a series?
 
@@ -285,7 +285,7 @@ Almost everything else
 
 > Continuing the series.
 
-[Bananas](bananas) (Musing #353).
+[Bananas](bananas) (Musing #353)
 
 > A slight detour.
 
