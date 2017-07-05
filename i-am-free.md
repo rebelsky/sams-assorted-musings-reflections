@@ -53,6 +53,9 @@ have fewer opportunities to rant, either in messages to administrators
 I am sure that in the next few months, I will discover more advantages
 and disadvantages.  Perhaps you will hear about them.  Perhaps not.
 
+The worst part?  I know that in three or four years, I'll be chair
+again.  I hope that things have settled down by then.
+
 ---
 
 [1] Surprisingly, the transition date for chairs is in no official 

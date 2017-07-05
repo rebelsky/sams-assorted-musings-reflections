@@ -452,6 +452,8 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Additional issues (part of a letter to the incoming chair)](letter-to-incoming-chair-more-tasks) (Musing #345)  
 [Deanly stressors](deanly-stressors) (Musing #346)   
 [A letter to the incoming chair](letter-to-incoming-chair) (Musing #347).  
+[A new CSC 151](new-csc151-2017-06-05) (Musing #348)  
+[Fun with Grammarly](grammarly-2017-06-05) (Musing #349)  
 [A workshop on Universal Design for Learning](udl-workshop-2017) (Musing #350).  
 
 ## 351-360
@@ -465,4 +467,9 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [I'm back!](im-back-2017-06-25) (Musing #357)  
 [Taskcading (or tasks cascading)](taskcading-2017-06-26) (Musing #358)  
 [Reading AP CS Principles, Take 4](csp-2017-06-27) (Musing #359)  
-[What do you listen to? part one] (Musing #360)  
+[What do you listen to? part one](musing-01) (Musing #360)  
+
+## 361-370
+
+[Eleven months of daily musings](eleven-months) (Musing #361)   
+[I'm free!](i-am-free) (Musing #362)  

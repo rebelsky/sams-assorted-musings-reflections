@@ -25,7 +25,7 @@ I also have a fairly large backlog of things to muse about.  Perhaps I'll
 write them in the morning, rather than at night.  Perhaps I'll find a
 time during the day that I want to take a break.  We'll see.
 
-But I've missed a lot of musings this past month [3].  Perhaps I'll
+But I've missed a lot of musings this past month [5].  Perhaps I'll
 try doing two musings per day until I catch up.  Or perhaps not.
 
 What will I muse about this month?  Each month, I say that I should
@@ -34,7 +34,12 @@ I also need to write the daily readings and labs for CSC 151.  Will
 the drafts of those make good musings?  We will see.  There are also
 a few series that I should continue, including notes on my tastes
 in music and comments on CS principles.  I've also promised to start
-a series on summer code camps.
+a series on our summer code camps.
+
+I also seemed to have trouble keeping up with the indexing.  As I 
+was putting this reflection together, I realized that I had never
+indexed musings [348](new-csc151-2017-06-05) and [349](grammarly-2017-06-05).  
+I've now rectified that situation [6].
 
 As I say each month, stay tuned!
 
@@ -42,9 +47,21 @@ As I say each month, stay tuned!
 
 [1] Well, eleven months and a few days, since I'm posting this late.
 
-[2] More precisely, it's difficult to say exactly how many months of
-daily musings I've written.  But I'm counting the end of each month
-starting with September 1, 2016.  So August 31, 2017 will be one year.
+[2] I'm using a variety of counting schemes.  I number each essay I
+post in order.  But there are days I post two [3] musings and there
+are days in which I forget to post a musing.  At the end of each month, I
+post one of these reflections.  For anniversaries, I'm counting from when
+I restarted in September 1, 2016.  August 31, 2017 will be one year [4].
 
-[3] I posted sixteen musings in June.  That means that I'm fourteen
+[3] Or more.
+
+[4] That counting assumes that I get back to posting daily musings.
+
+[5] I posted eighteen musings in June.  That means that I'm twelve
 musings behind.  
+
+[6] I've also fixed some inconsistencies in the index by number.
+
+---
+
+*Version 1.0 of 2017-07-04.*

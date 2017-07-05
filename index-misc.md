@@ -269,6 +269,10 @@ Almost everything else
 
 > Feeling sorry for my dean.
 
+[A new CSC 151](new-csc151-2017-06-05) (Musing #348)
+
+> Thinking about the new version of the course.
+
 [A workshop on Universal Design for Learning](udl-workshop-2017) (Musing #350).
 
 > A report.

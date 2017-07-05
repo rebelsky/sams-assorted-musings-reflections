@@ -107,7 +107,11 @@ About SamR
 
 > Things people say that make me worry.
 
-[What do you listen to? part one] (Musing #360)
+[What do you listen to? part one](musing-01) (Musing #360)
 
 > My students asked.  I promised to try to answer.
+
+[I'm free!](i-am-free) (Musing #362)
+
+> Reflections on finishing a three-year term as chair.
 

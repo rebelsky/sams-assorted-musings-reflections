@@ -64,6 +64,10 @@ Essays on writing, or at least on writing my essays
 
 > Is it time to stop (again)?
 
+[Eleven months of daily musings](eleven-months) (Musing #361) 
+
+>  Having trouble keeping up with daily musings.
+
 [On making, breaking, and remaking the habit of daily writing](habit-of-writing) (Essay #41)
 
 > Reflections on trying to restart these essays.
@@ -175,4 +179,8 @@ Essays on writing, or at least on writing my essays
 [Too many topics, too little time](too-many-topics-too-little-time) (Musing #300)
 
 > A potential new name for this collection.
+
+[Fun with Grammarly](grammarly-2017-06-05) (Musing #349)
+
+> What I learn (or don't learn) from a writing tool.
 

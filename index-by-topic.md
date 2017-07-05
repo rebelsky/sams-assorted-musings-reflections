@@ -67,6 +67,10 @@ Essays on writing, or at least on writing my essays
 
 > Is it time to stop (again)?
 
+[Eleven months of daily musings](eleven-months) (Musing #361) 
+
+>  Having trouble keeping up with daily musings.
+
 [On making, breaking, and remaking the habit of daily writing](habit-of-writing) (Essay #41)
 
 > Reflections on trying to restart these essays.
@@ -178,6 +182,10 @@ Essays on writing, or at least on writing my essays
 [Too many topics, too little time](too-many-topics-too-little-time) (Musing #300)
 
 > A potential new name for this collection.
+
+[Fun with Grammarly](grammarly-2017-06-05) (Musing #349)
+
+> What I learn (or don't learn) from a writing tool.
 
 For prospective students, parents of prospective students, and others with similar interests
 --------------------------------------------------------------------------------------------
@@ -1412,9 +1420,13 @@ About SamR
 
 > Things people say that make me worry.
 
-[What do you listen to? part one] (Musing #360)
+[What do you listen to? part one](musing-01) (Musing #360)
 
 > My students asked.  I promised to try to answer.
+
+[I'm free!](i-am-free) (Musing #362)
+
+> Reflections on finishing a three-year term as chair.
 
 Almost everything else
 ----------------------
@@ -1686,6 +1698,10 @@ Almost everything else
 [Deanly stressors](deanly-stressors) (Musing #346) 
 
 > Feeling sorry for my dean.
+
+[A new CSC 151](new-csc151-2017-06-05) (Musing #348)
+
+> Thinking about the new version of the course.
 
 [A workshop on Universal Design for Learning](udl-workshop-2017) (Musing #350).
 

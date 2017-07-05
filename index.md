@@ -7,8 +7,10 @@ Some are rants about topics I'm passionate about.  Some are explanations
 of how I approach the world.  Some are just my attempts to think through
 a topic.
 
-Latest musing:
-[What do you listen to? part one] (Musing #360)
+Latest musings:
+[Eleven months of daily musings](eleven-months) (Musing #361) 
+and
+[I'm free!](i-am-free) (Musing #362).
 
 [Musings, by number](index-by-number)
 
