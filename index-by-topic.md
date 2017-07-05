@@ -1412,7 +1412,7 @@ About SamR
 
 > Things people say that make me worry.
 
-[What do you listen to? part one](Musing #360)
+[What do you listen to? part one] (Musing #360)
 
 > My students asked.  I promised to try to answer.
 

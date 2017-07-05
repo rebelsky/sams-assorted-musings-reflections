@@ -3,7 +3,6 @@ Essays, in numerical order
 
 ## 1-10
 
-## Introduction  
 [Contacting faculty members on behalf of students](contacting-faculty) (Essay #1)  
 [What kind of computer should you buy?](buy-computer) (Essay #2)  
 Essay #3 was about Grinnell's relationship with Posse.    
@@ -466,4 +465,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [I'm back!](im-back-2017-06-25) (Musing #357)  
 [Taskcading (or tasks cascading)](taskcading-2017-06-26) (Musing #358)  
 [Reading AP CS Principles, Take 4](csp-2017-06-27) (Musing #359)  
-[What do you listen to? part one](Musing #360)  
+[What do you listen to? part one] (Musing #360)  

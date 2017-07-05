@@ -80,7 +80,7 @@ index-by-topic.md: $(INDICES)
 	cat $^ | sed -e '2!s/=/-/g' > $@
 
 index-by-number.md: index-by-topic.md
-	grep '#' index-by-topic.md  \
+	grep '#[0-9]' index-by-topic.md  \
 	| sort -k2 -t# -n -u \
 	| by-number \
 	> index-by-number.md
