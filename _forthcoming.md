@@ -22,8 +22,11 @@ Quick (?)
 *For the days in which I need to "dash off" an essay in order to meet
 my goals.*
 
+1. Facebook page edits.
+
 1. Fundraising (this year's donations; last year's; should I donate
-"Sam will muse about a subject of your choice"?)
+"Sam will muse about a subject of your choice"?  Should I offer to
+have my hair cut?)
 
 1. Memorizing vs process; Google.  (Pearl Before Swine, NYT quote of
 Google, etc.)
@@ -33,7 +36,7 @@ on this exam.")
 
 1. "a musing" vs. "amusing"
 
-1. Shop for Mom.
+1. Shop for Mom. (Related to mothers day.)
 
 1. The csstudents mailing list.
 
@@ -79,47 +82,7 @@ schools vs closing schools)
 
 1. GrinCo, where we make you smile.
 
----
-
-Jerod
------
-
-1. Tasks [Standard chair].  Some can be shared.  Paperwork.  Hiring.
-Mentoring.  Reviews.  SEPC.  Schedule (Sam usually does).  Signing major
-declaration forms.  Divide department tasks.  Department meetings (okay,
-not so standard).  Reviews.  Budget.  More paperwork.  Communicating
-with various groups around campus.  Meet with prospective students.
-Keep on top of things.  Monthly chairs meeting.  Conduit of information.
-Deal with special student requests.  Honors.
-
-1. Tasks [CS-department specific].  (Somewhat collaborative.) 
-Web site (changing).  Thursday extras.  CS Table.  Predictive modeling.
-Additional student groups.  Mailing lists (Sam).  Opportunities boards?
-(I haven't done them.)  Tapia and GHC (Sam).
-
-1. Tasks [This stage].  Dealing with rise in number of majors - more
-position requests, more predictive modeling, more hiring, thinking
-about spaces for teaching and for faculty.  Upcoming decennial review.
-Change in Linux system administration.  Research opportunities for all.
-Need to rethink parts of the curriculum.  Diversity issues.  Data science
-and our role in that.  Digitial liberal arts and our role in that.
-
-1. Important deadlines.
-
-1. Allies.  (Everyone, even Retta (who is as overworked as we are).)
-Your colleagues.  Your students.  Our ASAs.  Admissions, Registrar,
-....
-
-1. Department data: Department snapshot, Fuller things from P'Web,
-EOCEs, Infro from others (Carlie, Admissions, Registrar, Shonda ...)
-https://grinco.sharepoint.com/sites/dean/Pages/DepartmentData.aspx
-
-1. Working with the SEPC.
-
-1. The Department "folder": A manifest.
-
-1. Student groups.  SEPC.  Community outreach.  AppDev.  Makerspace.
-VR club.  
+1. Should I link these essays?  (Make these essays more public.) 
 
 ---
 
@@ -130,10 +93,24 @@ General
 order, other than the ones I've come up with more recently tend to be near
 the top.*
 
-1. Karla's stuff.
+1. Mindstorms.
+
+1. CSC 322 summary?
+
+1. CS department Outreach.
+
+1. Scheduling grading time.  I really need to have grading time as part
+of my schedule, or I won't get it done.  Should I start building Fall's
+schedule now?  Let's see ... for CSC 321, I need two hours per class period
+for the reading journals and three hours per week for the homework.  For
+CSC 322, I should probably spend an hour per project per week reading 
+through journals and code.  Each class needs at least an hour prep.  Oh,
+this is going to be a fun fall!
+
+1. More broadly: Putting together my schedule.
 
 1. Reruns.  (End of semester stuff, in particular: Week 14, last day of
-class, etc.)
+class, etc.) (May wait until Spring 2018).
 
 1. Treating your faculty with respect.  (You should treat everyone with
 respect.  But you should understand the power dynamics in a classroom.
@@ -311,11 +288,11 @@ that's not so true.)
 1. Nibbled to death by ducks, episode 3 (the to-do list).
 
 1. What I write (recommendation letters, memos (lots of memos), answers
-to surveys from the Dean, ...)
+to surveys from the Dean, ...) (Have I done this already?)
 
 1. Dumb Things I do: CS Alumni Mailing List
 
-1. I've become my mother (articles).
+1. I've become my mother (sending articles to people).
 
 1. Why a good CS education includes much more than CS (for current students).
 
@@ -329,15 +306,11 @@ the US in the world.)
 
 1. FAQ (Should I really write this?)
 
-1. Outreach.
-
 1. Mistrust.
 
 1. Working in public.
 
 1. git (support for working in public)
-
-1. Should I link these essays?  (Make these essays more public.) 
 
 1. Book Sales
 
