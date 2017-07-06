@@ -1420,7 +1420,7 @@ About SamR
 
 > Things people say that make me worry.
 
-[What do you listen to? part one](musing-01) (Musing #360)
+[What do you listen to? part one](music-01) (Musing #360)
 
 > My students asked.  I promised to try to answer.
 
@@ -1734,6 +1734,14 @@ Almost everything else
 [Reading AP CS Principles, Take 4](csp-2017-06-27) (Musing #359)
 
 > Now that I'm back from the break, I'm adding to the series.
+
+[Surface problems](surface-problems) (Musing #363)
+
+> The joy of Microsoft.
+
+[Today's question](todays-question-2017-07-05) (Musing #364)
+
+> Are we selling the Chrystal center?
 
 Musings with multiple entries
 -----------------------------

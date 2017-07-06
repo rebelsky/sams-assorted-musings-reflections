@@ -8,9 +8,9 @@ of how I approach the world.  Some are just my attempts to think through
 a topic.
 
 Latest musings:
-[Eleven months of daily musings](eleven-months) (Musing #361) 
+[Surface problems](surface-problems) (Musing #363)
 and
-[I'm free!](i-am-free) (Musing #362).
+[Today's question](todays-question-2017-07-05) (Musing #364).
 
 [Musings, by number](index-by-number)
 

@@ -305,3 +305,11 @@ Almost everything else
 
 > Now that I'm back from the break, I'm adding to the series.
 
+[Surface problems](surface-problems) (Musing #363)
+
+> The joy of Microsoft.
+
+[Today's question](todays-question-2017-07-05) (Musing #364)
+
+> Are we selling the Chrystal center?
+

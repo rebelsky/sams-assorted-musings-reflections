@@ -467,9 +467,11 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [I'm back!](im-back-2017-06-25) (Musing #357)  
 [Taskcading (or tasks cascading)](taskcading-2017-06-26) (Musing #358)  
 [Reading AP CS Principles, Take 4](csp-2017-06-27) (Musing #359)  
-[What do you listen to? part one](musing-01) (Musing #360)  
+[What do you listen to? part one](music-01) (Musing #360)  
 
 ## 361-370
 
 [Eleven months of daily musings](eleven-months) (Musing #361)   
 [I'm free!](i-am-free) (Musing #362)  
+[Surface problems](surface-problems) (Musing #363)  
+[Today's question](todays-question-2017-07-05) (Musing #364)  
