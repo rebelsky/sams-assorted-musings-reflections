@@ -577,11 +577,6 @@ Why Grinnell staff with Ph.D's should be allowed to teach.
 > Frustrations with yet another piece of software on campus, one that
   is particularly important to get right.
 
-[Doug Cutchins' Essay](doug-cutchins-essay) (#102)
-
-> Much-too defensive (or offensive) responses to an essay by a friend 
-  and valued former colleague.
-
 [Ordering from Harry and David](harry-and-david) (Essay #139)
 
 > A comedy of (technical) errors.
@@ -1771,6 +1766,10 @@ I have now learned that the situation is even more complex than I thought,
 and my knowledge is clearly incomplete.  I remain frustrated by many
 issues in the situation, but I don't think it's appropriate to keep my
 essay up.
+
+Essay #102 was about a 'blog post by Doug Cutchins.
+Doug has taken down his post.  I think it is appropriate that I also
+take down my response.
 
 Essay #142 was about Web accessibility, focusing on a particular Web site.
 My critiques, while accurate, were not appropriate, particularly given

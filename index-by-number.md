@@ -134,7 +134,7 @@ Essay #3 was about Grinnell's relationship with Posse.
 ## 101-110
 
 [Software for reporting sexual assault](software-for-reporting-sexual-assault) (Essay #101)  
-[Doug Cutchins' Essay](doug-cutchins-essay) (#102)  
+Essay #102 was about a 'blog post by Doug Cutchins.  
 [Cultivating the gross mindset](gross-mindset) (Essay #103)  
 [A third month of essays](three-months) (Essay #104)  
 [The Tigger suit](tigger-suit) (Essay #105)  

@@ -68,11 +68,6 @@ Why Grinnell staff with Ph.D's should be allowed to teach.
 > Frustrations with yet another piece of software on campus, one that
   is particularly important to get right.
 
-[Doug Cutchins' Essay](doug-cutchins-essay) (#102)
-
-> Much-too defensive (or offensive) responses to an essay by a friend 
-  and valued former colleague.
-
 [Ordering from Harry and David](harry-and-david) (Essay #139)
 
 > A comedy of (technical) errors.
