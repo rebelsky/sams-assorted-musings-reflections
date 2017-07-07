@@ -66,7 +66,11 @@ Essays on writing, or at least on writing my essays
 
 [Eleven months of daily musings](eleven-months) (Musing #361) 
 
->  Having trouble keeping up with daily musings.
+> Having trouble keeping up with daily musings.
+
+[Three-hundred and sixty-five musings](365) (Musing #365)
+
+> Not an anniversary.
 
 [On making, breaking, and remaking the habit of daily writing](habit-of-writing) (Essay #41)
 

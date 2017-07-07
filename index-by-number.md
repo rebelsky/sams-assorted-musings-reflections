@@ -475,3 +475,5 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [I'm free!](i-am-free) (Musing #362)  
 [Surface problems](surface-problems) (Musing #363)  
 [Today's question](todays-question-2017-07-05) (Musing #364)  
+[Three-hundred and sixty-five musings](365) (Musing #365)  
+[Assembling advising folders](advising-folders) (Musing #366)  

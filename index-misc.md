@@ -313,3 +313,7 @@ Almost everything else
 
 > Are we selling the Chrystal center?
 
+[Assembling advising folders](advising-folders) (Musing #366)
+
+> A requested musing
+

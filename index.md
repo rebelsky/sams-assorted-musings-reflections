@@ -8,9 +8,9 @@ of how I approach the world.  Some are just my attempts to think through
 a topic.
 
 Latest musings:
-[Surface problems](surface-problems) (Musing #363)
+[Three-hundred and sixty-five musings](365) (Musing #365)
 and
-[Today's question](todays-question-2017-07-05) (Musing #364).
+[Assembling advising folders](advising-folders) (Musing #366)
 
 [Musings, by number](index-by-number)
 
