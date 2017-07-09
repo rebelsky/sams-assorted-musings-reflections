@@ -1,0 +1,23 @@
+table.table tbody tr.week-header {
+  background-color: #dddddd;
+  font-weight: bold;
+  color: #ffffff;
+}
+
+nav.navbar-inverse, 
+nav.navbar-inverse
+.navbar-inverse .navbar-collapse,
+.navbar-inverse .navbar-form,
+.navbar-collapse.collapse,
+.navbar-collapse.collapsing {
+  background-color: #cc0000;
+  border-color: #a30000;
+}
+
+nav.navbar-inverse .navbar-nav .active a,
+nav.navbar-inverse .navbar-nav a:hover,
+nav.navbar-inverse .navbar-nav .active a:hover,
+.navbar-inverse .navbar-toggle:hover,
+.navbar-inverse .navbar-toggle:focus {
+  background-color: #a30000;
+}

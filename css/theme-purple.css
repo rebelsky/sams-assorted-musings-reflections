@@ -1,0 +1,23 @@
+table.table tbody tr.week-header {
+  background-color: #6a51a3;
+  font-weight: bold;
+  color: #ffffff;
+}
+
+nav.navbar-inverse, 
+nav.navbar-inverse
+.navbar-inverse .navbar-collapse,
+.navbar-inverse .navbar-form,
+.navbar-collapse.collapse,
+.navbar-collapse.collapsing {
+  background-color: #54278f;
+  border-color: #3f007d;
+}
+
+nav.navbar-inverse .navbar-nav .active a,
+nav.navbar-inverse .navbar-nav a:hover,
+nav.navbar-inverse .navbar-nav .active a:hover,
+.navbar-inverse .navbar-toggle:hover,
+.navbar-inverse .navbar-toggle:focus {
+  background-color: #3f007d;
+}

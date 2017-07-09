@@ -1,0 +1,34 @@
+body {
+ padding-top: 0px;
+ padding: 30px;
+ padding-top: 15px;
+ font-size: 10pt;
+ text-align: left;
+ font-weight: 300;
+}
+
+h1 { font-size: 24pt; }
+h2 { font-size: 20pt; }
+h3 { font-size: 16pt; }
+h4 { font-size: 14pt; }
+
+div {
+ padding-right: 10px;
+}
+
+div.row {
+ margin-top: -20px;
+}
+
+.container {
+ display: inline;
+}
+
+nav.navbar {
+ visibility: hidden;
+}
+
+pre, pre code {
+  font-size: 10pt;
+  page-break-inside: auto;
+}
