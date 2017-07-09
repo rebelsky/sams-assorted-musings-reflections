@@ -8,9 +8,9 @@ of how I approach the world.  Some are just my attempts to think through
 a topic.
 
 Latest musings:
-[Three-hundred and sixty-five musings](365) (Musing #365)
+[What do you listen to? part two](music-02) (Musing #369)
 and
-[Assembling advising folders](advising-folders) (Musing #366)
+[Introversion](introversion) (Musing #370)
 
 [Musings, by number](index-by-number)
 

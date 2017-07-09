@@ -477,3 +477,7 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Today's question](todays-question-2017-07-05) (Musing #364)  
 [Three-hundred and sixty-five musings](365) (Musing #365)  
 [Assembling advising folders](advising-folders) (Musing #366)  
+[A message to SIGCSE-members](sigcse-members-2017-07-07) (Musing #367)  
+[Poor Jerod](poor-jerod) (Musing #368)  
+[What do you listen to? part two](music-02) (Musing #369)  
+[Introversion](introversion) (Musing #370)  

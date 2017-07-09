@@ -1427,6 +1427,14 @@ About SamR
 
 > Reflections on finishing a three-year term as chair.
 
+[What do you listen to? part two](music-02) (Musing #369)
+
+> Continuing my answer to my students.
+
+[Introversion](introversion) (Musing #370)
+
+> Embracing a core characteristic.
+
 Almost everything else
 ----------------------
 
@@ -1745,6 +1753,14 @@ Almost everything else
 [Assembling advising folders](advising-folders) (Musing #366)
 
 > A requested musing
+
+[A message to SIGCSE-members](sigcse-members-2017-07-07) (Musing #367)
+
+> One of my responsibilities.
+
+[Poor Jerod](poor-jerod) (Musing #368)
+
+> Passing on responsibilities.
 
 Musings with multiple entries
 -----------------------------

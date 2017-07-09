@@ -317,3 +317,11 @@ Almost everything else
 
 > A requested musing
 
+[A message to SIGCSE-members](sigcse-members-2017-07-07) (Musing #367)
+
+> One of my responsibilities.
+
+[Poor Jerod](poor-jerod) (Musing #368)
+
+> Passing on responsibilities.
+

@@ -115,3 +115,11 @@ About SamR
 
 > Reflections on finishing a three-year term as chair.
 
+[What do you listen to? part two](music-02) (Musing #369)
+
+> Continuing my answer to my students.
+
+[Introversion](introversion) (Musing #370)
+
+> Embracing a core characteristic.
+
