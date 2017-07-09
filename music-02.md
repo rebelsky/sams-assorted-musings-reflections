@@ -56,7 +56,7 @@ the group.  Contains "Hey St. Peter", which may be the kids'
 favorite (and least appropriate) song.  The chorus goes "Hey
 St. Peter, won't you open up your gate?  I hear the devil calling.
 Now please don't make me late.  He's got loud guitars, alcohol,
-cheap Jamaican whore.  I don't want to stay in Heaven no more."
+cheap Jamaican whores.  I don't want to stay in Heaven no more."
 We're great parents, aren't we?
 
 _Gordon_ by Barenaked Ladies.  Joyful and silly music.  I'd 
@@ -199,4 +199,4 @@ Bruce Springsteen.  But this musing focuses more on the new things we
 
 ---
 
-*Version 1.0.1 of 2017-07-08.*
+*Version 1.0.2 of 2017-07-08.*
