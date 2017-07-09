@@ -6,25 +6,29 @@ h1, h2 {
   border-bottom: 0.5px solid gray;
 }
 
+blockquote {
+  color: #808080;
+  border: none;
+  padding-top: 0px;
+  padding-bottom: 5px;
+  margin-bottom: 5px;
+}
+
 nav.navbar {
   margin-bottom: 0;
 }
 
 .navbar-brand {
-    line-height: 12px;
+    line-height: 15px;
     color: white;
 }
 .navbar-brand link {
     color: white;
-}
-
-/*
     line-height: 15px;
     font-size: 15px;
-    padding-top: 2px;
+    padding-top: 4px;
     padding-bottom: 2px;
 }
-*/
 
 .subtitle {
   font-size: 12px;
