@@ -60,6 +60,8 @@ div.footer {
 nav.navbar-inverse .navbar-nav .dropdown,
 nav.navbar-inverse .navbar-nav .dropdown a,
 nav.navbar-inverse, 
+nav.navbar-inverse .navbar-nav > li > a,
+nav.navbar-inverse .navbar-nav > li > a:hover,
 .navbar-inverse .navbar-collapse,
 .navbar-inverse .navbar-form,
 .navbar-collapse.collapse,
