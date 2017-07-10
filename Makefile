@@ -67,6 +67,7 @@ INDICES = index-by-topic-head.md \
 	index-recommendations.md \
         index-cnix.md \
 	index-joc.md \
+        index-151.md \
 	index-grinnellians.md \
         index-grinnell.md \
         index-incoming-chair.md \

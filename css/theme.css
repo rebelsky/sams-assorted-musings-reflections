@@ -57,22 +57,33 @@ div.footer {
   font-size: 80%;
 }
 
+nav.navbar-inverse .navbar-nav .dropdown,
+nav.navbar-inverse .navbar-nav .dropdown a,
 nav.navbar-inverse, 
-nav.navbar-inverse
 .navbar-inverse .navbar-collapse,
 .navbar-inverse .navbar-form,
 .navbar-collapse.collapse,
 .navbar-collapse.collapsing {
-  background-color: #0000ff;
-  border-color: #3f007d;
+  background-color: var(--primary-bg-color);
+  border-color: var(--highlight-color);
+  color: white;
 }
 
 nav.navbar-inverse .navbar-nav .active a,
 nav.navbar-inverse .navbar-nav a:hover,
 nav.navbar-inverse .navbar-nav .active a:hover,
 .navbar-inverse .navbar-toggle:hover,
-.navbar-inverse .navbar-toggle:focus {
-  background-color: #3f007d;
+.navbar-inverse .navbar-toggle:focus,
+.navbar-inverse .navbar-nav > .open > a,
+.navbar-inverse .navbar-nav > .open > a:hover,
+.navbar-inverse .navbar-nav > .open > a:focus {
+  background-color: var(--highlight-color);
+}
+
+table.table tbody tr.week-header {
+  background-color: var(--primary-bg-color);
+  font-weight: bold;
+  color: #000000;
 }
 
 table ul.list-unstyled {
