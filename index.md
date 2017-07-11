@@ -7,10 +7,8 @@ Some are rants about topics I'm passionate about.  Some are explanations
 of how I approach the world.  Some are just my attempts to think through
 a topic.
 
-Latest musings:
-[What do you listen to? part two](music-02) (Musing #369)
-and
-[Introversion](introversion) (Musing #370)
+Latest musing:
+[Yammering](yammering) (Musing #372)
 
 [Musings, by number](index-by-number)
 

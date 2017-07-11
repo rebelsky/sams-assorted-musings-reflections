@@ -156,3 +156,7 @@ Why Grinnell staff with Ph.D's should be allowed to teach.
 
 > In which I wonder why people send the messages they do to mailing lists.
 
+[Yammering](yammering) (Musing #372)
+
+> Misusing annoying social media  systems.
+

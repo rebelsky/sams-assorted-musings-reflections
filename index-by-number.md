@@ -481,3 +481,8 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Poor Jerod](poor-jerod) (Musing #368)  
 [What do you listen to? part two](music-02) (Musing #369)  
 [Introversion](introversion) (Musing #370)  
+
+## 371-380
+
+[Bootstrapping my musings](bootstrapping-musings) (Musing #371)  
+[Yammering](yammering) (Musing #372)  

@@ -325,3 +325,7 @@ Almost everything else
 
 > Passing on responsibilities.
 
+[Bootstrapping my musings](bootstrapping-musings) (Musing #371)
+
+> More fun with Bootstrap.
+

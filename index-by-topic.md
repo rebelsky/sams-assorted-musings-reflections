@@ -665,6 +665,10 @@ Why Grinnell staff with Ph.D's should be allowed to teach.
 
 > In which I wonder why people send the messages they do to mailing lists.
 
+[Yammering](yammering) (Musing #372)
+
+> Misusing annoying social media  systems.
+
 Assorted talks and speeches
 ---------------------------
 
@@ -963,6 +967,13 @@ The joy of code
 [The joy of code: Making acronyms](joc-acronym) (Musing #296)
 
 > Fun with Scheme.
+
+A new CSC 151
+-------------
+
+[A new CSC 151](new-csc151-2017-06-05) (Musing #348)
+
+> Thinking about the new version of the course.
 
 Grinnellians you should know (or know about)
 --------------------------------------------
@@ -1761,6 +1772,10 @@ Almost everything else
 [Poor Jerod](poor-jerod) (Musing #368)
 
 > Passing on responsibilities.
+
+[Bootstrapping my musings](bootstrapping-musings) (Musing #371)
+
+> More fun with Bootstrap.
 
 Musings with multiple entries
 -----------------------------
