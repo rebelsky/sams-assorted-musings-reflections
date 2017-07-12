@@ -1,10 +1,32 @@
-Some forthcoming essays
-=======================
+Some forthcoming musings
+========================
+
+New forthcoming musings
+
+* Building the CSC 151 Web site.
+* Report from OER workshop - accessibility?
+* Fundraising again?
+* Overcommitment?  (Or the end of Sam's summer.)  Tapia et al.  Spreadsheets.
+  Meetings.  Interviews.  Workshops.  More workshops.  Even more workshops.
+  Responding to email.
+* Kate Walker.
+* "Did I miss anything?" (Poem, student question, etc.)
+* Revisiting Tutorial.  I'd forgotten that I'd written some of the things
+  that I've done.  Tutee birthdays.  "Please Raynard, can't I teach Tutorial 
+  again?"
+* Dates in musing URLs - why I do it
+* Building value for Grinnell (?)
+
+Year anniversary
+
+* Anniversary essay for Michelle.
+* A new introduction.
+* Favorites?
+
+Old forthcoming musings
 
 * Essay ??? (Nontechnical): Respect
-* Essay ??? (Nontechnical): Catalog copy  CRAP
-* Essay ??? (Nontechnical): Baccalaureate
-* Essay ??? (Nontechnical): Belonging
+* Essay ??? (Nontechnical): Belonging (?)
 * Essay ??? (Semi-technical): Ethics in our curriculum
 * Essay ??? (Nontechnical): The CSC 151 project
 * Essay ??? (Technical): Your own commands
@@ -92,6 +114,8 @@ General
 *The list of topics that I've thought about writing about, in no particular
 order, other than the ones I've come up with more recently tend to be near
 the top.*
+
+1. LBRY.
 
 1. Mindstorms.
 
@@ -425,7 +449,7 @@ https://www.insidehighered.com/news/2017/01/26/research-midcareer-professors-mak
 
 1. Susan Ferrari
 
-1. Dan and Patricia Jipp Finkelman
+1. Dan and Patricia Jipp Finkelman (public figures?)
 
 1. Richard Fyffe
 
@@ -461,7 +485,8 @@ https://www.insidehighered.com/news/2017/01/26/research-midcareer-professors-mak
 
 1. Mike Latham
 
-1. Glenn Leggett
+1. Glenn Leggett (and his pamphlets) (and whether I should make
+pamphlets)
 
 1. Mark Levandoski
 
@@ -484,6 +509,8 @@ https://www.insidehighered.com/news/2017/01/26/research-midcareer-professors-mak
 1. Eryn O'Neill
 
 1. Russell K. Osgood
+
+1. William Lloyd Rebelsky
 
 1. Henry Rietz '89
 
@@ -635,4 +662,4 @@ Okay, I'm on leave from teaching. Why am I still finding that I have more work t
 
 ---
 
-Here's an honest question that sounds snarky no matter how I phrase it: why subscribe to something like Grammarly and put up with all its frustrations when you could just keep a style manual near your keyboard and pay attention to what you write?
+Note from Harly: Here's an honest question that sounds snarky no matter how I phrase it: why subscribe to something like Grammarly and put up with all its frustrations when you could just keep a style manual near your keyboard and pay attention to what you write?
