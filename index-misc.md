@@ -329,3 +329,11 @@ Almost everything else
 
 > More fun with Bootstrap.
 
+[Some notes on open educational resources for CS](cs-oer-2017-07-11) (Musing #373)
+
+> Yet another report from a workshop.
+
+[Budgeting screwups](budgeting-screwups-2017-07-11) (Musing #374)
+
+> Why do they let me be chair?  (Alternately: "Sorry Jerod!")
+

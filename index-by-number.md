@@ -486,3 +486,5 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 
 [Bootstrapping my musings](bootstrapping-musings) (Musing #371)  
 [Yammering](yammering) (Musing #372)  
+[Some notes on open educational resources for CS](cs-oer-2017-07-11) (Musing #373)  
+[Budgeting screwups](budgeting-screwups-2017-07-11) (Musing #374)  

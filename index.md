@@ -7,8 +7,10 @@ Some are rants about topics I'm passionate about.  Some are explanations
 of how I approach the world.  Some are just my attempts to think through
 a topic.
 
-Latest musing:
-[Yammering](yammering) (Musing #372)
+Latest musings:
+[Some notes on open educational resources for CS](cs-oer-2017-07-11) (Musing #373)
+and
+[Budgeting screwups](budgeting-screwups-2017-07-11) (Musing #374)
 
 [Musings, by number](index-by-number)
 
