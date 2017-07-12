@@ -16,6 +16,8 @@ New forthcoming musings
   again?"
 * Dates in musing URLs - why I do it
 * Building value for Grinnell (?)
+* Will you ever stop?  (Still have hundreds more to write.)
+* BBC Micro:Bit
 
 Year anniversary
 
