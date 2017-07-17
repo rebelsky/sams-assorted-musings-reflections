@@ -337,3 +337,11 @@ Almost everything else
 
 > Why do they let me be chair?  (Alternately: "Sorry Jerod!")
 
+[A possible OER project: A more open CSC 151](oer-project-2017-07-15) (Musing #375)
+
+> Adding work to my plate.
+
+[A chair problem](chair-problem) (Musing #376)
+
+> A problem for the new chair about chairs.
+
