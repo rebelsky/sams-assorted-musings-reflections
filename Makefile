@@ -72,6 +72,7 @@ INDICES = index-by-topic-head.md \
         index-grinnell.md \
         index-incoming-chair.md \
 	index-reviews.md \
+        index-mixtapes.md \
         index-autobiographical.md \
 	index-misc.md \
         index-multiple-entries.md \

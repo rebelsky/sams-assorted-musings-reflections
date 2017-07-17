@@ -490,3 +490,5 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Budgeting screwups](budgeting-screwups-2017-07-11) (Musing #374)  
 [A possible OER project: A more open CSC 151](oer-project-2017-07-15) (Musing #375)  
 [A chair problem](chair-problem) (Musing #376)  
+[Musings on mix "tapes"](mixtapes-intro) (Musing #377)  
+[A mix "tape" - Music for Michelle, vol. 1](mixtape-michelle-01) (Musing #378)  
