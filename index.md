@@ -8,9 +8,9 @@ of how I approach the world.  Some are just my attempts to think through
 a topic.
 
 Latest musings:
-[Some notes on open educational resources for CS](cs-oer-2017-07-11) (Musing #373)
+[A possible OER project: A more open CSC 151](oer-project-2017-07-15) (Musing #375)
 and
-[Budgeting screwups](budgeting-screwups-2017-07-11) (Musing #374)
+[A chair problem](chair-problem) (Musing #376)
 
 [Musings, by number](index-by-number)
 
