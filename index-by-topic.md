@@ -1332,6 +1332,10 @@ Mixtapes
 
 > The first mix "tape", a series of songs for my wonderful wife.
 
+[Preparing to make the mix "tapes"](mixtapes-preparation) (Musing #380)
+
+> What I did to get ready to make that tape.
+
 Autobiographical essays, more or less
 -------------------------------------
 
@@ -1803,6 +1807,10 @@ Almost everything else
 [A chair problem](chair-problem) (Musing #376)
 
 > A problem for the new chair about chairs.
+
+[Fun(d)raising](fundraising) (Musing #379)
+
+> Ideas for putting some fun in fundraising.
 
 Musings with multiple entries
 -----------------------------

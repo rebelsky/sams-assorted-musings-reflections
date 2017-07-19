@@ -9,3 +9,7 @@ Mixtapes
 
 > The first mix "tape", a series of songs for my wonderful wife.
 
+[Preparing to make the mix "tapes"](mixtapes-preparation) (Musing #380)
+
+> What I did to get ready to make that tape.
+

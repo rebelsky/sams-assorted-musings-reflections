@@ -345,3 +345,7 @@ Almost everything else
 
 > A problem for the new chair about chairs.
 
+[Fun(d)raising](fundraising) (Musing #379)
+
+> Ideas for putting some fun in fundraising.
+

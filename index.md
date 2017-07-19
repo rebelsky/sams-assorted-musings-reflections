@@ -8,9 +8,9 @@ of how I approach the world.  Some are just my attempts to think through
 a topic.
 
 Latest musings:
-[Musings on mix "tapes"](mixtapes-intro) (Musing #377)
+[Fun(d)raising](fundraising) (Musing #379)
 and
-[A mix "tape" - Music for Michelle, vol. 1](mixtape-michelle-01) (Musing #378)
+[Preparing to make the mix "tapes"](mixtapes-preparation) (Musing #380)
 
 [Musings, by number](index-by-number)
 
