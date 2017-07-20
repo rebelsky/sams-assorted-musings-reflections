@@ -7,10 +7,8 @@ Some are rants about topics I'm passionate about.  Some are explanations
 of how I approach the world.  Some are just my attempts to think through
 a topic.
 
-Latest musings:
-[Fun(d)raising](fundraising) (Musing #379)
-and
-[Preparing to make the mix "tapes"](mixtapes-preparation) (Musing #380)
+Latest musing:
+[Keys](keys) (Musing #381)
 
 [Musings, by number](index-by-number)
 

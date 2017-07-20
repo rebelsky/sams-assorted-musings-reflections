@@ -494,3 +494,7 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [A mix "tape" - Music for Michelle, vol. 1](mixtape-michelle-01) (Musing #378)  
 [Fun(d)raising](fundraising) (Musing #379)  
 [Preparing to make the mix "tapes"](mixtapes-preparation) (Musing #380)  
+
+## 381-390
+
+[Keys](keys) (Musing #381)  

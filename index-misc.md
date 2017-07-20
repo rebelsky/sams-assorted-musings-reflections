@@ -349,3 +349,7 @@ Almost everything else
 
 > Ideas for putting some fun in fundraising.
 
+[Keys](keys) (Musing #381)
+
+> The joy of building keys.
+
