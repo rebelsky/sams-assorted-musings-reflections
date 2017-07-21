@@ -1816,6 +1816,10 @@ Almost everything else
 
 > The joy of building keys.
 
+[Good will, trust, relationships, and rules](rules-vs-goodwill) (Musing #382)
+
+> One of these things is not like the others.
+
 Musings with multiple entries
 -----------------------------
 

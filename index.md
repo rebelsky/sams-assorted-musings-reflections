@@ -8,7 +8,7 @@ of how I approach the world.  Some are just my attempts to think through
 a topic.
 
 Latest musing:
-[Keys](keys) (Musing #381)
+[Good will, trust, relationships, and rules](rules-vs-goodwill) (Musing #382)
 
 [Musings, by number](index-by-number)
 
