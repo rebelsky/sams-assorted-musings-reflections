@@ -92,7 +92,7 @@ quoted on eNotes](https://www.enotes.com/topics/bruce-springsteen/critical-essay
 > Springsteen is still the prototypical '60s-style punk, the rebel tearing up the highways in his '69 Chevy, the teenaged loner whose last chance for freedom is almost within his reach. But he's not a kid anymore.... Work is on his mind, numbing jobs that grind a man down, leave him empty...
 
 I should mention to my younger readers that Mark is riffing on [a famous 1974
-statement by [rock cricic Jon Landau](http://web.archive.org/web/20030202021626/http://home.theboots.net/theboots/articles/future.html).
+statement by [rock cricic Jon Landau](https://brucebase.wikispaces.com/1974-05-09+-+HARVARD+SQUARE+THEATRE%2C+CAMBRIDGE%2C+MA).
 
 >  Last Thursday, at the Harvard Square theatre, I saw my rock'n'roll past flash before my eyes. And I saw something else: I saw rock and roll future and its name is Bruce Springsteen. And on a night when I needed to feel young, he made me feel like I was hearing music for the very first time. 
 
