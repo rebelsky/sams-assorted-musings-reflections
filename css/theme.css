@@ -18,7 +18,7 @@ div.footer {
  * Collapsing navbar from
  *   https://coderwall.com/p/wpjw4w/change-the-bootstrap-navbar-breakpoint
  */
-@media (max-width: 1200px) {
+@media (max-width: 1600px) {
     .navbar-header {
         float: none;
     }
