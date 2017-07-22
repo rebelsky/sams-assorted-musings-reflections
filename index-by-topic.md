@@ -1820,6 +1820,10 @@ Almost everything else
 
 > One of these things is not like the others.
 
+[An easy question (or maybe not)](question-2017-07-21) (Musing #383)
+
+> Definitely not.
+
 Musings with multiple entries
 -----------------------------
 

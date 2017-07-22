@@ -8,7 +8,7 @@ of how I approach the world.  Some are just my attempts to think through
 a topic.
 
 Latest musing:
-[Good will, trust, relationships, and rules](rules-vs-goodwill) (Musing #382)
+[An easy question (or maybe not)](question-2017-07-21) (Musing #383)
 
 [Musings, by number](index-by-number)
 
