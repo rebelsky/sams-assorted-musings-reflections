@@ -500,3 +500,5 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Keys](keys) (Musing #381)  
 [Good will, trust, relationships, and rules](rules-vs-goodwill) (Musing #382)  
 [An easy question (or maybe not)](question-2017-07-21) (Musing #383)  
+[Meanderings](meanderings-2017-07-22) (Musing #384)  
+["I don't read your footnotes"](i-dont-read-your-footnotes) (Musing #385)  

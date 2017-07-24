@@ -188,3 +188,7 @@ Essays on writing, or at least on writing my essays
 
 > What I learn (or don't learn) from a writing tool.
 
+["I don't read your footnotes"](i-dont-read-your-footnotes) (Musing #385)
+
+> Then why read my musings?  The end notes are the best part.
+

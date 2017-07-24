@@ -191,6 +191,10 @@ Essays on writing, or at least on writing my essays
 
 > What I learn (or don't learn) from a writing tool.
 
+["I don't read your footnotes"](i-dont-read-your-footnotes) (Musing #385)
+
+> Then why read my musings?  The end notes are the best part.
+
 For prospective students, parents of prospective students, and others with similar interests
 --------------------------------------------------------------------------------------------
 
@@ -1460,6 +1464,10 @@ About SamR
 [Introversion](introversion) (Musing #370)
 
 > Embracing a core characteristic.
+
+[Meanderings](meanderings-2017-07-22) (Musing #384)
+
+> Whatever happened to M Mark and related musical questions
 
 Almost everything else
 ----------------------

@@ -123,3 +123,7 @@ About SamR
 
 > Embracing a core characteristic.
 
+[Meanderings](meanderings-2017-07-22) (Musing #384)
+
+> Whatever happened to M Mark and related musical questions
+
