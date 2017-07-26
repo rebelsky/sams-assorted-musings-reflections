@@ -7,10 +7,8 @@ Some are rants about topics I'm passionate about.  Some are explanations
 of how I approach the world.  Some are just my attempts to think through
 a topic.
 
-Latest musings:
-[Meanderings](meanderings-2017-07-22) (Musing #384)
-and
-["I don't read your footnotes"](i-dont-read-your-footnotes) (Musing #385)
+Latest musing:
+[Nibbled to death by ducks, Episode 2](ndd-02) (Musing #388)
 
 [Musings, by number](index-by-number)
 

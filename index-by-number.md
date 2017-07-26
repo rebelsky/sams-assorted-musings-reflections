@@ -502,3 +502,6 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [An easy question (or maybe not)](question-2017-07-21) (Musing #383)  
 [Meanderings](meanderings-2017-07-22) (Musing #384)  
 ["I don't read your footnotes"](i-dont-read-your-footnotes) (Musing #385)  
+[A draft article on our data science code camp](code-camp-article-2017-07-24) (Musing #386)  
+[Overcommitment, late summer 2017](overcommitment-late-summer-2017) (Musing #387)  
+[Nibbled to death by ducks, episode 2](ndd-02) (Essay #388)  

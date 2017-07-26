@@ -265,6 +265,11 @@ Connecting to our Community
 [Summer research with students](summer-research) (Musing #292)
 
 > Why I offer summer research opportunities.
+
+[A draft article on our data science code camp](code-camp-article-2017-07-24) (Musing #386)
+
+> A short description of one of the summer code camps that our students design and run.
+
 For prospective faculty
 -----------------------
 
@@ -742,6 +747,14 @@ Overcommitment
 [Taskcading (or tasks cascading)](taskcading-2017-06-26) (Musing #358)
 
 > A return to reflections on my workload.
+
+[Overcommitment, late summer 2017](overcommitment-late-summer-2017) (Musing #387)
+
+> What I have left to do this summer.
+
+[Nibbled to death by ducks, episode 2](ndd-02) (Essay #388)
+
+> In which I continue to reflect on my workload.
 
 On teaching online
 ------------------

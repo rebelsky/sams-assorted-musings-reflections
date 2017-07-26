@@ -90,7 +90,8 @@ scholarships.  And there's the usual stuff that always comes up.
 
 I should also reserve time for my daily musings.
 
-Let the fun begin!
+Let the fun begin!  At least I now have an advisory committee that I use
+whenever I'm tempted to commit to something new.
 
 ---
 

@@ -68,3 +68,8 @@ Connecting to our Community
 [Summer research with students](summer-research) (Musing #292)
 
 > Why I offer summer research opportunities.
+
+[A draft article on our data science code camp](code-camp-article-2017-07-24) (Musing #386)
+
+> A short description of one of the summer code camps that our students design and run.
+
