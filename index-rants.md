@@ -160,3 +160,7 @@ Why Grinnell staff with Ph.D's should be allowed to teach.
 
 > Misusing annoying social media  systems.
 
+[It shouldn't be my job](it-should-not-be-my-job-2017-07-26) (Musing #392),
+
+> Stupid answers to unnecessary questions.
+

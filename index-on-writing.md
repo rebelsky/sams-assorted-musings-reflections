@@ -192,3 +192,7 @@ Essays on writing, or at least on writing my essays
 
 > Then why read my musings?  The end notes are the best part.
 
+[A new record?](record-2017-07-26) (Musing #393).
+
+> Something like five or six.
+

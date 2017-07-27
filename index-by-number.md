@@ -505,3 +505,11 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [A draft article on our data science code camp](code-camp-article-2017-07-24) (Musing #386)  
 [Overcommitment, late summer 2017](overcommitment-late-summer-2017) (Musing #387)  
 [Nibbled to death by ducks, episode 2](ndd-02) (Essay #388)  
+[Nibbled to death by ducks, Episode 3: Revenge of the ducks](ndd-03) (Musing #389)  
+[Why some email messages need context](incomplete-context-2017-07-26) (Musing #390)  
+
+## 391-400
+
+[Among the reasons SamR is not a SysAdmin](sysadmin-failings-2017-07-26) (Musing #391),  
+[It shouldn't be my job](it-should-not-be-my-job-2017-07-26) (Musing #392),  
+[A new record?](record-2017-07-26) (Musing #393).  

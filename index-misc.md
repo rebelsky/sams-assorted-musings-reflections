@@ -361,3 +361,7 @@ Almost everything else
 
 > Definitely not.
 
+[Why some email messages need context](incomplete-context-2017-07-26) (Musing #390)
+
+> Otherwise, comments may have an unclear subject.
+

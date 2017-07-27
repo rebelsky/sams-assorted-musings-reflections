@@ -195,6 +195,10 @@ Essays on writing, or at least on writing my essays
 
 > Then why read my musings?  The end notes are the best part.
 
+[A new record?](record-2017-07-26) (Musing #393).
+
+> Something like five or six.
+
 For prospective students, parents of prospective students, and others with similar interests
 --------------------------------------------------------------------------------------------
 
@@ -678,6 +682,10 @@ Why Grinnell staff with Ph.D's should be allowed to teach.
 
 > Misusing annoying social media  systems.
 
+[It shouldn't be my job](it-should-not-be-my-job-2017-07-26) (Musing #392),
+
+> Stupid answers to unnecessary questions.
+
 Assorted talks and speeches
 ---------------------------
 
@@ -755,6 +763,10 @@ Overcommitment
 [Nibbled to death by ducks, episode 2](ndd-02) (Essay #388)
 
 > In which I continue to reflect on my workload.
+
+[Nibbled to death by ducks, Episode 3: Revenge of the ducks](ndd-03) (Musing #389)
+
+> And then I start to lose.
 
 On teaching online
 ------------------
@@ -1482,6 +1494,10 @@ About SamR
 
 > Whatever happened to M Mark and related musical questions
 
+[Among the reasons SamR is not a SysAdmin](sysadmin-failings-2017-07-26) (Musing #391),
+
+> Screwing things up, once again.
+
 Almost everything else
 ----------------------
 
@@ -1844,6 +1860,10 @@ Almost everything else
 [An easy question (or maybe not)](question-2017-07-21) (Musing #383)
 
 > Definitely not.
+
+[Why some email messages need context](incomplete-context-2017-07-26) (Musing #390)
+
+> Otherwise, comments may have an unclear subject.
 
 Musings with multiple entries
 -----------------------------

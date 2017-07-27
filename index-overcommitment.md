@@ -36,3 +36,7 @@ Overcommitment
 
 > In which I continue to reflect on my workload.
 
+[Nibbled to death by ducks, Episode 3: Revenge of the ducks](ndd-03) (Musing #389)
+
+> And then I start to lose.
+

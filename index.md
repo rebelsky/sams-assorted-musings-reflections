@@ -7,8 +7,13 @@ Some are rants about topics I'm passionate about.  Some are explanations
 of how I approach the world.  Some are just my attempts to think through
 a topic.
 
-Latest musing:
-[Nibbled to death by ducks, Episode 2](ndd-02) (Musing #388)
+Latest musings:
+[Nibbled to death by ducks, Episode 3: Revenge of the ducks](ndd-03) (Musing #389),
+[Why some email messages need context](incomplete-context-2017-07-26) (Musing #390),
+[Among the reasons SamR is not a SysAdmin](sysadmin-failings-2017-07-26) (Musing #391),
+[It shouldn't be my job](it-should-not-be-my-job-2017-07-26) (Musing #392),
+and
+[A new record?](record-2017-07-26) (Musing #393).
 
 [Musings, by number](index-by-number)
 

@@ -127,3 +127,7 @@ About SamR
 
 > Whatever happened to M Mark and related musical questions
 
+[Among the reasons SamR is not a SysAdmin](sysadmin-failings-2017-07-26) (Musing #391),
+
+> Screwing things up, once again.
+
