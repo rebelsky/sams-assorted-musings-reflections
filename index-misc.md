@@ -365,3 +365,7 @@ Almost everything else
 
 > Otherwise, comments may have an unclear subject.
 
+[A short musing](short-2017-07-27) (Musing #394)
+
+> Too much to do, too little time.
+

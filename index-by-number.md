@@ -513,3 +513,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Among the reasons SamR is not a SysAdmin](sysadmin-failings-2017-07-26) (Musing #391),  
 [It shouldn't be my job](it-should-not-be-my-job-2017-07-26) (Musing #392),  
 [A new record?](record-2017-07-26) (Musing #393).  
+[A short musing](short-2017-07-27) (Musing #394)  
