@@ -726,6 +726,11 @@ Thank-You Notes
 > Not so much a thank you note to an individual as a reflection on
   all of the parts of my profession for which I am thankful.
 
+[I am fortunate to have worked with my summer research team because ...](fortunate-2017-07-28) (Musing #395)
+
+> Okay, this one isn't a thank-you note either.  But it does reflect
+  thanks toward my aweseome summer research students.
+
 Overcommitment
 --------------
 

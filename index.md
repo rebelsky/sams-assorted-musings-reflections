@@ -7,8 +7,8 @@ Some are rants about topics I'm passionate about.  Some are explanations
 of how I approach the world.  Some are just my attempts to think through
 a topic.
 
-Latest musings:
-[A short musing](short-2017-07-27) (Musing #394)
+Latest musing:
+[I am fortunate to have worked with my summer research team because ...](fortunate-2017-07-28) (Musing #395)
 
 [Musings, by number](index-by-number)
 
