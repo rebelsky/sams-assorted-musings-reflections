@@ -773,6 +773,14 @@ Overcommitment
 
 > And then I start to lose.
 
+[Saturday with SamR](saturday-2017-07-29) (Musing #396)
+
+> One day in my life.
+
+[Sunday with SamR](sunday-2017-07-30) (Musing #397)
+
+> And another.
+
 On teaching online
 ------------------
 

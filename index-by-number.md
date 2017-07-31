@@ -515,3 +515,5 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [A new record?](record-2017-07-26) (Musing #393).  
 [A short musing](short-2017-07-27) (Musing #394)  
 [I am fortunate to have worked with my summer research team because ...](fortunate-2017-07-28) (Musing #395)  
+[Saturday with SamR](saturday-2017-07-29) (Musing #396)  
+[Sunday with SamR](sunday-2017-07-30) (Musing #397)  
