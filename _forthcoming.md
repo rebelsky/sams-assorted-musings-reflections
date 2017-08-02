@@ -1,14 +1,36 @@
 Some forthcoming musings
 ========================
 
+Thoughts on one-year musing
+
+* Greatest hits.
+* Awards (most footnotes, longest series, longest musing, shortest musing,
+  favorites, most read (do I have those data?))
+* New introduction.
+* Word count - probably for real.
+* Most frequent words.
+* A musing about what the musing might be like, listing all of the above.
+
 New forthcoming musings
 
+* Something about Kumail?
+* Shuffling shelves.
+* Why facebook doesn't provide context.  (Followup to insufficient context.)
+* Organization - No one who sees my office and laba may believe this,
+  but I really like organization.  Why aren't they neat?  Addication
+  to accumulation and inability to get rid of things.  (`organization.md`)
+* Addication to accumulation.  Might find the next thing that makes me
+  really really happy. (`addiction.md`)
+* Evolution of CS department research labs.  Old format: Tables for
+  pair programming.  New format: More open tables.  TVs.
+* "Data People" and other people.
+* Tandy 102 vs. the Freewrite.
+* Business-size cards.  (Buying too many.  Then realizing their many uses.
+  Codes of conduct in code camp.  Random cards for CSC 151.  Machine names
+  (with directions) for CSC 151.  And more!)
+* Islandwood and GOA.
+* Finish last Wednesday's mail piece.  (Maybe never.)
 * Building the CSC 151 Web site.
-* Report from OER workshop - accessibility?
-* Fundraising again?
-* Overcommitment?  (Or the end of Sam's summer.)  Tapia et al.  Spreadsheets.
-  Meetings.  Interviews.  Workshops.  More workshops.  Even more workshops.
-  Responding to email.
 * Kate Walker.
 * "Did I miss anything?" (Poem, student question, etc.)
 * Revisiting Tutorial.  I'd forgotten that I'd written some of the things
@@ -17,7 +39,9 @@ New forthcoming musings
 * Dates in musing URLs - why I do it
 * Building value for Grinnell (?)
 * Will you ever stop?  (Still have hundreds more to write.)
-* BBC Micro:Bit
+* BBC micro:bit
+* Norman Bins (vs. Norman doors)
+* Musing records.
 
 Year anniversary
 
