@@ -28,7 +28,7 @@ equally bad. Here's the biggest pain: Because there are four different
 student wage categories, if your students are not in the "typical" wage
 category, you have to manually switch them to the correct wage category
 *for every single shift that they work*. How's that for a good use of
-manager time [2]?
+manager time [2,3]?
 
 I've asked whether we can just set a default for each student/department
 pair and I've been told that that's not possible, since the system
@@ -84,6 +84,8 @@ But boy, I'd expect better from "best of breed".
 
 [2] Or anyone, for that matter.
 
+[3] One of my manager friends says "I dread the biweekly email prompt."
+
 ---
 
-*Version 1.0.1 of 2017-08-01.*
+*Version 1.0.2 of 2017-08-01.*
