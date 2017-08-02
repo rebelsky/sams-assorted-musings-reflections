@@ -7,10 +7,8 @@ Some are rants about topics I'm passionate about.  Some are explanations
 of how I approach the world.  Some are just my attempts to think through
 a topic.
 
-Latest musings:
-[Saturday with SamR](saturday-2017-07-29) (Musing #396)
-and
-[Sunday with SamR](sunday-2017-07-30) (Musing #397)
+Latest musing:
+[Best of breed?](best-of-breed-etime) (Musing #401).
 
 [Musings, by number](index-by-number)
 

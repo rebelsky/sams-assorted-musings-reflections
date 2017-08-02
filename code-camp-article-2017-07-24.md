@@ -92,8 +92,8 @@ all students.  The students who designed last summer's camp were able to
 present their associated research at the SIGCSE Symposium on Computer
 Science Education, held in Seattle.  Professor Rebelsky says "I am so
 proud of our students.  Most presenters at SIGCSE are faculty members
-and advanced graduate students.  Other faculty members in audience
-the told me how thoughtful and professional they found the students'
+and advanced graduate students.  Other faculty members in the audience
+told me how thoughtful and professional they found the students'
 presentation."  Some of this summer's students will be giving a workshop
 on the craft of code at the upcoming Richard Tapia Celebration of
 Diversity in Computing.  This summer's students are already planning to

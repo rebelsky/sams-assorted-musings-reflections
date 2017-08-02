@@ -108,6 +108,10 @@ Grinnellians you should know (or know about)
 
 > Curmudgeon.
 
+[William Lloyd Rebelsky '17](william-lloyd-rebelsky) (Musing #398)
+
+> Eldest.
+
 [Dave Robinson](dave-robinson) (Essay #114)
 
 > CITO, woodworker, Ph.D. in Neuroscience (or something similar).

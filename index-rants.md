@@ -164,3 +164,7 @@ Why Grinnell staff with Ph.D's should be allowed to teach.
 
 > Stupid answers to unnecessary questions.
 
+[Best of breed?](best-of-breed-etime) (Musing #401)
+
+> Our strange software choices.
+

@@ -72,6 +72,14 @@ Essays on writing, or at least on writing my essays
 
 > Not an anniversary.
 
+[Eleven and one months of daily musings](twelve-months) (Musing #399)
+
+> Starting new series.
+
+[Four-hundred musings](four-hundred) (Musing #400)
+
+> Another milestone, or perhaps millstone.
+
 [On making, breaking, and remaking the habit of daily writing](habit-of-writing) (Essay #41)
 
 > Reflections on trying to restart these essays.

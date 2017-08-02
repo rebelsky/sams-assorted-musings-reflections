@@ -75,6 +75,14 @@ Essays on writing, or at least on writing my essays
 
 > Not an anniversary.
 
+[Eleven and one months of daily musings](twelve-months) (Musing #399)
+
+> Starting new series.
+
+[Four-hundred musings](four-hundred) (Musing #400)
+
+> Another milestone, or perhaps millstone.
+
 [On making, breaking, and remaking the habit of daily writing](habit-of-writing) (Essay #41)
 
 > Reflections on trying to restart these essays.
@@ -686,6 +694,10 @@ Why Grinnell staff with Ph.D's should be allowed to teach.
 
 > Stupid answers to unnecessary questions.
 
+[Best of breed?](best-of-breed-etime) (Musing #401)
+
+> Our strange software choices.
+
 Assorted talks and speeches
 ---------------------------
 
@@ -1126,6 +1138,10 @@ Grinnellians you should know (or know about)
 [Samuel A. Rebelsky](samuel-a-rebelsky) (Essay #137)
 
 > Curmudgeon.
+
+[William Lloyd Rebelsky '17](william-lloyd-rebelsky) (Musing #398)
+
+> Eldest.
 
 [Dave Robinson](dave-robinson) (Essay #114)
 
