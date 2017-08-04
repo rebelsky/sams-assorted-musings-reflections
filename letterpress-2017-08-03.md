@@ -33,10 +33,10 @@ That last characteristic was perhaps most evident to the larger group when
 we were talking about setting up the inkjet printer to make negatives;
 I quickly suggested that rather than running through a series of new
 settings each time, we save the group of settings as a printer option.
-But it was also obvious to my in my approach to the project.  I had 
-started the project using Adobe Illustrator, but I quickly switched to
-LaTeX because I think better about typesetting in LaTex.  Using LaTeX
-both freed and constrained me.
+But it was also obvious (at least to myself) in my approach to the
+project.  I had started the project using Adobe Illustrator, but I quickly
+switched to LaTeX because I think better about typesetting in LaTex.
+Using LaTeX both freed and constrained me.
 
 I will admit that I was a bit disappointed to hear on the first day
 that we were limited to only one color in our project [1].  I was also
@@ -262,4 +262,4 @@ parallel structure to the following sentences.
 
 ---
 
-*version 1.0.1 of 2017-08-03.*
+*version 1.0.2 of 2017-08-03.*
