@@ -8,9 +8,9 @@ of how I approach the world.  Some are just my attempts to think through
 a topic.
 
 Latest musing:
-[Game night](www.cs.grinnell.edu/~rebelsky/musings/game-night-2017-08-02) (Musing #402)
+[A report from the Grinnell summer 2017 letterpress workshop](letterpress-2017-08-03) (Musing #403)
 
-[Musings, by number](index-by-number)
+[Musings, by number](index-by-number) 
 
 [Musings, by topic](index-by-topic)
 
