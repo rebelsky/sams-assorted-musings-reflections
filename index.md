@@ -8,7 +8,7 @@ of how I approach the world.  Some are just my attempts to think through
 a topic.
 
 Latest musing:
-[Best of breed?](best-of-breed-etime) (Musing #401).
+[Game night](www.cs.grinnell.edu/~rebelsky/musings/game-night-2017-08-02) (Musing #402)
 
 [Musings, by number](index-by-number)
 

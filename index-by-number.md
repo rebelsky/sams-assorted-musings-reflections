@@ -524,3 +524,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 ## 401-410
 
 [Best of breed?](best-of-breed-etime) (Musing #401)  
+[Game night](www.cs.grinnell.edu/~rebelsky/musings/game-night-2017-08-02) (Musing #402)  

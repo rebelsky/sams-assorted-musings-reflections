@@ -1898,6 +1898,10 @@ Almost everything else
 
 > Too much to do, too little time.
 
+[Game night](www.cs.grinnell.edu/~rebelsky/musings/game-night-2017-08-02) (Musing #402)
+
+> A weekly summer activity, more or less.
+
 Musings with multiple entries
 -----------------------------
 
