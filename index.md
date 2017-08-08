@@ -7,7 +7,11 @@ Some are rants about topics I'm passionate about.  Some are explanations
 of how I approach the world.  Some are just my attempts to think through
 a topic.
 
-Latest musing:
+Latest musings:
+[A report from the Summer 2017 CS Department Workshop](department-workshop-report-2017-08-07) (Musing #404)
+and
+[A new CSC 151, revisited](new-csc151-2017-08-07) (Musing #405)
+
 [A report from the Grinnell summer 2017 letterpress workshop](letterpress-2017-08-03) (Musing #403)
 
 [Musings, by number](index-by-number) 

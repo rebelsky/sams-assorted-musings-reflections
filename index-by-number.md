@@ -526,3 +526,5 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Best of breed?](best-of-breed-etime) (Musing #401)  
 [Game night](game-night-2017-08-02) (Musing #402)  
 [A report from the Grinnell summer 2017 letterpress workshop](letterpress-2017-08-03) (Musing #403)  
+[A report from the Summer 2017 CS Department Workshop](department-workshop-report-2017-08-07) (Musing #404)  
+[A new CSC 151, revisited](new-csc151-2017-08-07) (Musing #405)  

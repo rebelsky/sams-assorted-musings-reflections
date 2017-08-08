@@ -5,3 +5,7 @@ A new CSC 151
 
 > Thinking about the new version of the course.
 
+[A new CSC 151, revisited](new-csc151-2017-08-07) (Musing #405)
+
+> More thoughts.
+

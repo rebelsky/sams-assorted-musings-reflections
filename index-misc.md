@@ -377,3 +377,7 @@ Almost everything else
 
 > A break from my other work, more or less.
 
+[A report from the Summer 2017 CS Department Workshop](department-workshop-report-2017-08-07) (Musing #404)
+
+> The other work that I was breaking from.
+
