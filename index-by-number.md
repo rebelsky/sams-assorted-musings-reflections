@@ -528,3 +528,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [A report from the Grinnell summer 2017 letterpress workshop](letterpress-2017-08-03) (Musing #403)  
 [A report from the Summer 2017 CS Department Workshop](department-workshop-report-2017-08-07) (Musing #404)  
 [A new CSC 151, revisited](new-csc151-2017-08-07) (Musing #405)  
+[It seemed like a good idea at the time](it-seemed-like-a-good-idea-2017-08-08) (Musing #406)  

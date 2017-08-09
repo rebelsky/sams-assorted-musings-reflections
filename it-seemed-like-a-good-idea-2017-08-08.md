@@ -1,8 +1,8 @@
 It seemed like a good idea at the time ...
 ==========================================
 
-_Yet another episode in the comedrama of "Watch Sam do too much stuff without
-thinking about the implications._
+_Yet another episode in the tragicomedy of "Watch Sam do too much stuff
+without thinking about the implications."_
 
 A week or so ago, Michelle was looking at the dining room after
 [game night](game-night-2017-08-02) and said something like the
@@ -56,18 +56,21 @@ find games when I'm looking for them [9].  I'm less fond of having to
 put games in cabinets, but it worked well for some of the huge ones,
 particularly _Yacht Race_ and the League of Legends board game [10].
 
-How long did all of that take?  I had predicted one morNing.  It took
-all of Saturday and half of Sunday.  That probably wasn't the best choice
-of how to spend a weekend given that classes start in less than three
-weeks.  But, as I said, it's nice to see all of the big games in one place.
+How long did all of that take?  I had predicted that it would take one
+morning.  In reality, it took all of Saturday and half of Sunday.
+That probably wasn't the best choice of how to spend a weekend given
+that classes start in less than three weeks.  But, as I said, it's nice
+to see all of the big games in one place.
 
-Am I done?  Unfortunately, no.  I still have to do something with the 
-books from the second floor, which are currently in boxes.  I have to decide
-where to put the box of _The Year's Best ..._ [11].  I have two boxes
-of games that didn't fit in the cabinets that I have to decide where to
-put.  I wonder when I'll find time to put them somewhere.  And I have a
-bunch of small boxes that lived on the upstairs shelves that need to
-go somewhere, probably under the cabinets in the family room.
+Am I done?  Unfortunately, no.  I still have to do something with the
+books from the second floor, which are currently in boxes.  I have to
+decide where to put the box of _The Year's Best ..._ [11].  I have two
+boxes of games that didn't fit in the cabinets that I have to decide
+where to put.  I've started to move them back to the game cabinet in
+the family room, but haven't finished.  I wonder when I'll find time to
+do the rest of the work.  And I have a bunch of small boxes that lived
+on the upstairs shelves that need to go somewhere, probably under the
+cabinets in the family room.
 
 It will be nice to get all of that done.  Unfortunately, I think it will
 have to wait until my classes are all prepared, as will alphabetizing the
@@ -84,11 +87,11 @@ it again.  Let's see ...  where are the board games?  Out in various
 places in the dining room.  In the south cabinet in the dining room.
 In the all-but-south cabinet in the dining room.  In the north cabinet
 in the dining room.  On a table in my home office.  On the top of the
-bookshelves in my home office.  On a side table in the family room.
-On the south bookshelves in the family room.  In the cabinet in the
-south bookshelves in the family room.  On the north bookshelves in the
-family room.  In the cabinet in the north bookshelves in the family room.
-Maybe elsewhere [2].
+bookshelves in my home office.  Under the desk in my office.  On a side
+table in the family room.  On the south bookshelves in the family room.
+In the cabinet in the south bookshelves in the family room.  On the north
+bookshelves in the family room.  In the cabinet in the north bookshelves
+in the family room.  Maybe elsewhere [2].
 
 [2] Yeah, I'm an addict.  I'll muse about the game addiction at some 
 other point.
@@ -124,4 +127,4 @@ less), Salva Luria.
 
 ---
 
-*Version 0.1 of 2017-08-07.*
+*Version 1.0 of 2017-08-08.*

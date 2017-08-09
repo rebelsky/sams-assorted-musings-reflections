@@ -793,6 +793,10 @@ Overcommitment
 
 > And another.
 
+[It seemed like a good idea at the time](it-seemed-like-a-good-idea-2017-08-08) (Musing #406)
+
+> One of the reasons I don't always get things done.
+
 On teaching online
 ------------------
 
