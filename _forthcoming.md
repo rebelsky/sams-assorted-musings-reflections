@@ -3,83 +3,100 @@ Some forthcoming musings
 
 Thoughts on one-year musing
 
-* Greatest hits.
-* Awards (most footnotes, longest series, longest musing, shortest musing,
-  favorites, most read (do I have those data?))
-* New introduction.
-* Word count - probably for real.
-* Most frequent words.
-* A musing about what the musing might be like, listing all of the above.
+1. Greatest hits.
+1. Awards (most footnotes, longest series, longest musing, shortest musing,
+ favorites, most read (do I have those data?))
+1. New introduction and home page. "Welcome to Sam's Assorted Musings and Rants. I am
+ Samuel A. Rebelsky, typically referred to as SamR. I am ...."
+1. Word count - probably for real.
+1. Most frequent words.
+1. Reorganizing
+1. Lost musings. (Well, musings that I never finished.)
+1. Will you ever stop? (Still have hundreds more to write.)
+1. A survey. Nice to know. But I'm lazy. And I expect most of you wouldn't 
+ respond. And, in any case, I write for me, not for you (exceptions for
+ some individuals and some situations ...)
+1. A musing about what the musing might be like, listing all of the
+ above.
 
 New forthcoming musings
 
-* Something about Kumail?
-* Shuffling shelves.
-* Why facebook doesn't provide context.  (Followup to insufficient context.)
-* Organization - No one who sees my office and laba may believe this,
-  but I really like organization.  Why aren't they neat?  Addication
-  to accumulation and inability to get rid of things.  (`organization.md`)
-* Addication to accumulation.  Might find the next thing that makes me
-  really really happy. (`addiction.md`)
-* Evolution of CS department research labs.  Old format: Tables for
-  pair programming.  New format: More open tables.  TVs.
-* "Data People" and other people.
-* Tandy 102 vs. the Freewrite.
-* Business-size cards.  (Buying too many.  Then realizing their many uses.
-  Codes of conduct in code camp.  Random cards for CSC 151.  Machine names
-  (with directions) for CSC 151.  And more!)
-* Islandwood and GOA.
-* Finish last Wednesday's mail piece.  (Maybe never.)
-* Building the CSC 151 Web site.
-* Kate Walker.
-* "Did I miss anything?" (Poem, student question, etc.)
-* Revisiting Tutorial.  I'd forgotten that I'd written some of the things
-  that I've done.  Tutee birthdays.  "Please Raynard, can't I teach Tutorial 
-  again?"
-* Dates in musing URLs - why I do it
-* Building value for Grinnell (?)
-* Will you ever stop?  (Still have hundreds more to write.)
-* BBC micro:bit
-* Norman Bins (vs. Norman doors)
-* Musing records.
+1. Anniversary essay for Michelle - Thirty years!
+1. David Feldman. One of the more interesting pickups from this series.
+ Imponderables - clearly an area for a liberal arts
+ student. Got Michelle through med school. Continues to be diverse
+ in intersts - bridge, music, Posse, more. I'm still not sure why
+ he reads my musings each day.
+1. Self-study - Institutional information. (Should Rietz be in the
+ discussions of self studies?)
+1. CLS Communities.
+1. Sedona - Best of breed?
+1. CLC 17 - Contemporary Literary Criticism
+1. Something about Kumail?
+1. Curmudgeon - Letterpress "There's nothing in the world that can't
+ be made a bit better by adding a curmdugeon. Except, maybe,
+ ice cream."
+1. Walrus series - Letterpress?
+1. Why facebook doesn't provide context. (Followup to insufficient context.)
+1. Evolution of CS department research labs. Old format: Tables for
+ pair programming. New format: More open tables. TVs.
+1. "Data People" and other people.
+1. Tandy 102 vs. the Freewrite.
+1. Business-size cards. (Buying too many. Then realizing their many uses.
+ Codes of conduct in code camp. Random cards for CSC 151. Machine names
+ (with directions) for CSC 151. And more!)
+1. Islandwood and GOA.
+1. Finish last Wednesday's mail piece. (Maybe never.)
+1. Building the CSC 151 Web site.
+1. Kate Walker - you only learn about people too late ....
+1. "Did I miss anything?" (Poem, student question, etc.)
+1. Revisiting Tutorial. I'd forgotten that I'd written some of the things
+ that I've done. Tutee birthdays. "Please Raynard, can't I teach Tutorial 
+ again?"
+1. Dates in musing URLs - why I do it
+1. Building value for Grinnell (?)
+1. BBC micro:bit
+1. Norman Bins (vs. Norman doors)
 
-Year anniversary
+A series on addiction and organization
 
-* Anniversary essay for Michelle.
-* A new introduction.
-* Favorites?
+1. Organization - No one who sees my office and laba may believe this,
+ but I really like organization. Why aren't they neat? Addication
+ to accumulation and inability to get rid of things. (`organization.md`)
+1. Addication to accumulation. Might find the next thing that makes me
+ really really happy. (`addiction.md`)
 
 Old forthcoming musings
 
-* Essay ??? (Nontechnical): Respect
-* Essay ??? (Nontechnical): Belonging (?)
-* Essay ??? (Semi-technical): Ethics in our curriculum
-* Essay ??? (Nontechnical): The CSC 151 project
-* Essay ??? (Technical): Your own commands
-* Essay ??? (Technical): Shell variables
-* Essay ??? (Technical): Bash-basics: Command-line patterns
-* Essay ??? (Technical): Bash-basics: I/O redirection
-* Essay ??? (Technical): Variadic macros
-* Essay ??? (Nontechnical): Admissions
+1. Essay ??? (Nontechnical): Respect
+1. Essay ??? (Nontechnical): Belonging (?)
+1. Essay ??? (Semi-technical): Ethics in our curriculum
+1. Essay ??? (Nontechnical): The CSC 151 project
+1. Essay ??? (Technical): Your own commands
+1. Essay ??? (Technical): Shell variables
+1. Essay ??? (Technical): Bash-basics: Command-line patterns
+1. Essay ??? (Technical): Bash-basics: I/O redirection
+1. Essay ??? (Technical): Variadic macros
+1. Essay ??? (Nontechnical): Admissions
 
 ---
 
 Quick (?)
 ---------
 
-*For the days in which I need to "dash off" an essay in order to meet
+1. For the days in which I need to "dash off" an essay in order to meet
 my goals.*
 
 1. Facebook page edits.
 
 1. Fundraising (this year's donations; last year's; should I donate
-"Sam will muse about a subject of your choice"?  Should I offer to
+"Sam will muse about a subject of your choice"? Should I offer to
 have my hair cut?)
 
-1. Memorizing vs process; Google.  (Pearl Before Swine, NYT quote of
+1. Memorizing vs process; Google. (Pearl Before Swine, NYT quote of
 Google, etc.)
 
-1. "Get Outlook for Android/iPhone".  ("What can you do to be more successful
+1. "Get Outlook for Android/iPhone". ("What can you do to be more successful
 on this exam.")
 
 1. "a musing" vs. "amusing"
@@ -88,7 +105,7 @@ on this exam.")
 
 1. The csstudents mailing list.
 
-1. "Checking in ..."  A teaching tip.  (and more)
+1. "Checking in ..." A teaching tip. (and more)
 
 1. Conference Swag.
 
@@ -96,7 +113,7 @@ on this exam.")
 
 1. What is a Coaster
 
-1. Academic geneaology.  <http://veblenhouse.blogspot.com/2017/04/the-usefulness-of-useless-knowledge.html>.  <http://www.towntopics.com/wordpress/2013/02/06/who-is-oswald-veblen-imagine-princeton-without-the-ias-einstein-herrontown-woods/>.  <https://genealogy.math.ndsu.nodak.edu/id.php?id=805>.  <http://etcweb.princeton.edu/CampusWWW/Companion/veblen_oswald.html>.
+1. Academic geneaology. <http://veblenhouse.blogspot.com/2017/04/the-usefulness-of-useless-knowledge.html>. <http://www.towntopics.com/wordpress/2013/02/06/who-is-oswald-veblen-imagine-princeton-without-the-ias-einstein-herrontown-woods/>. <https://genealogy.math.ndsu.nodak.edu/id.php?id=805>. <http://etcweb.princeton.edu/CampusWWW/Companion/veblen_oswald.html>.
 
 1. GrinnellParents listserv.
 
@@ -108,38 +125,40 @@ on this exam.")
 
 1. Grinnell traditions I miss: Addressing people
 
-1. Grinnell trads: [Press].  Is press a tradition?  Perhaps.
+1. Grinnell trads: [Press]. Is press a tradition? Perhaps.
 
-1. Fidgets?  (Short?)
+1. Fidgets? (Short?)
 
 1. On names (Misc) (SamR, S.A., Sam, Samuel) [Short!]
 
-1. Are these essays?  (Should I rename them; I did?)  Easy way out.
+1. Are these essays? (Should I rename them; I did?) Easy way out.
 Google defines them as "a short piece of writing on a particular subject".
-I think that fits.  I just don't write enough argumentative essays.
+I think that fits. I just don't write enough argumentative essays.
 (Does this one go in end-of-month?)
 
 1. "relatable"
 
 1. Misreadings: "Modern Python demands modern techniques" vs. "Monty
-Python demands modern techniques".  (There was the one about choosing
+Python demands modern techniques". (There was the one about choosing
 schools vs closing schools)
 
-1. Lambert publishing.  (See email from Anastasia Olaru dated 9 February
-   2017.)
+1. Lambert publishing. (See email from Anastasia Olaru dated 9 February
+  2017.)
 
 1. GrinCo, where we make you smile.
 
-1. Should I link these essays?  (Make these essays more public.) 
+1. Should I link these essays? (Make these essays more public.) 
 
 ---
 
 General
 -------
 
-*The list of topics that I've thought about writing about, in no particular
+1. The list of topics that I've thought about writing about, in no particular
 order, other than the ones I've come up with more recently tend to be near
 the top.*
+
+1. The old CSC 151.
 
 1. LBRY.
 
@@ -149,29 +168,29 @@ the top.*
 
 1. CS department Outreach.
 
-1. Scheduling grading time.  I really need to have grading time as part
-of my schedule, or I won't get it done.  Should I start building Fall's
-schedule now?  Let's see ... for CSC 321, I need two hours per class period
-for the reading journals and three hours per week for the homework.  For
+1. Scheduling grading time. I really need to have grading time as part
+of my schedule, or I won't get it done. Should I start building Fall's
+schedule now? Let's see ... for CSC 321, I need two hours per class period
+for the reading journals and three hours per week for the homework. For
 CSC 322, I should probably spend an hour per project per week reading 
-through journals and code.  Each class needs at least an hour prep.  Oh,
+through journals and code. Each class needs at least an hour prep. Oh,
 this is going to be a fun fall!
 
 1. More broadly: Putting together my schedule.
 
-1. Reruns.  (End of semester stuff, in particular: Week 14, last day of
+1. Reruns. (End of semester stuff, in particular: Week 14, last day of
 class, etc.) (May wait until Spring 2018).
 
-1. Treating your faculty with respect.  (You should treat everyone with
-respect.  But you should understand the power dynamics in a classroom.
-Don't do your homework for another class during class.  If you have to
-be late, send an apology.  If you miss class, send an apology.)
+1. Treating your faculty with respect. (You should treat everyone with
+respect. But you should understand the power dynamics in a classroom.
+Don't do your homework for another class during class. If you have to
+be late, send an apology. If you miss class, send an apology.)
 
 1. Falling down the Racket accessibility rabbithole.
 
 1. GSP, the Grinnell Science Project.
 
-1. Useless knowledge.  <http://www.chronicle.com/article/We-Need-More-Useless-/239365>.  <https://www.ias.edu/about/usefulness-useless-knowledge>.
+1. Useless knowledge. <http://www.chronicle.com/article/We-Need-More-Useless-/239365>. <https://www.ias.edu/about/usefulness-useless-knowledge>.
 
 1. Two cultures - Departments with high demand, departments with lower
 demand.
@@ -190,7 +209,7 @@ demand.
 
 1. A reader's guide to Sam's musings.
 
-1. Passive: "was surprised"; "was tempted".  See 
+1. Passive: "was surprised"; "was tempted". See 
 http://www.cs.grinnell.edu/~rebelsky/musings/muse-spring-break-continues
 
 1. www.finedictionary.com
@@ -199,34 +218,34 @@ http://www.cs.grinnell.edu/~rebelsky/musings/muse-spring-break-continues
 
 1. Jekyll - Better markup (?)
 
-1. Inbox zero.  A multi-part story.
+1. Inbox zero. A multi-part story.
 
 1. HFOSS.
 
 1. <https://www.masterclass.com/classes/james-patterson-teaches-writing#/>
 
-1. CVs (or short CVs)  https://chroniclevitae.com/news/1662-how-to-shorten-a-cv
+1. CVs (or short CVs) https://chroniclevitae.com/news/1662-how-to-shorten-a-cv
 
 1. Facebook memory about overwork.
 
-1. Recommendations (again).  Great quote from Amy something on 
+1. Recommendations (again). Great quote from Amy something on 
 https://chroniclevitae.com/news/1657-claiming-your-right-to-say-no
 
-1. Retiring.  http://www.chronicle.com/article/Leaving-the-Academic-Stage/238901
+1. Retiring. http://www.chronicle.com/article/Leaving-the-Academic-Stage/238901
 
-1. Questioning numbers.  http://www.chronicle.com/article/The-Fine-Art-of-Sniffing-Out/238907
+1. Questioning numbers. http://www.chronicle.com/article/The-Fine-Art-of-Sniffing-Out/238907
 
-1. Missouri Lawmaker on Tenure  www.chronicle.com/article/Missouri-Lawmaker-Who-Wants-to/238886
+1. Missouri Lawmaker on Tenure www.chronicle.com/article/Missouri-Lawmaker-Who-Wants-to/238886
 
 1. Growing a Language (the Guy Steele video/essay).
 
-1. Creating citizens.  Respond to Stanley Fish article.  
+1. Creating citizens. Respond to Stanley Fish article. 
 http://www.chronicle.com/article/Citizen-Formation-Is-Not-Our/238913
 
-1. Fundraising.  How much will you pay for me to ....
+1. Fundraising. How much will you pay for me to ....
 
 1. Paul Graham on editing and on essays. http://www.paulgraham.com/laundry.html
-http://paulgraham.com/essay.html.  (Part of "Better writers than I")
+http://paulgraham.com/essay.html. (Part of "Better writers than I")
 
 1. Peer educators' handbook.
 
@@ -247,12 +266,12 @@ http://www.lel.ed.ac.uk/~gpullum/EskimoHoax.pdf
 
 1. Our ASAs.
 
-1. Modeling Many Majors.  (Probably not; too scary.)
+1. Modeling Many Majors. (Probably not; too scary.)
 
 1. Rebecca C's comment about UIllinois.
 
 1. Something about the Chronicle article on a prof criticizing his 
-students.  http://www.chronicle.com/article/When-Do-Public-Rebukes-of/238552
+students. http://www.chronicle.com/article/When-Do-Public-Rebukes-of/238552
 
 1. Transitions (between paragraphs).
 
@@ -260,21 +279,21 @@ students.  http://www.chronicle.com/article/When-Do-Public-Rebukes-of/238552
 
 1. Missed opportunties again (the Joe stories).
 
-1. Balancing input and output.  (How much should you read vs. how much
+1. Balancing input and output. (How much should you read vs. how much
 should you write?) (An issue for creativity.)
 
-1. Outlook.  (More precisely, Outlook Calendar.)
+1. Outlook. (More precisely, Outlook Calendar.)
 
 1. RSS feeds.
 
-1. Bob Dylan wins Nobel prize.  (Mongo says "Rock n Roll. Form a band. Arts are important.  Students never know, one may win a Nobel for Rock n Roll!")
+1. Bob Dylan wins Nobel prize. (Mongo says "Rock n Roll. Form a band. Arts are important. Students never know, one may win a Nobel for Rock n Roll!")
 
 1. Planning the next code camps.
 
-1. Better writers than I.  (Essays on Vocation by Campbell, Skerett, and ...)
+1. Better writers than I. (Essays on Vocation by Campbell, Skerett, and ...)
 (This could fit in the Grinnellians month.)
 
-1. Is pioneers.grinnell.edu accessible?  (Hmmm ... that's a good
+1. Is pioneers.grinnell.edu accessible? (Hmmm ... that's a good
 reason to read the guidelines.)
 
 1. vi vs. emacs
@@ -289,49 +308,49 @@ reason to read the guidelines.)
 
 1. Web Advisor.
 
-1. What we vote, what they tell us.  (Did we vote on using qualitative
+1. What we vote, what they tell us. (Did we vote on using qualitative
 comments in faculty reviews?)
 
 1. Growth Mindset
 
 1. Faculty nightmares
 
-1. Michelle's comment: "If other people care, they'll pick it up."  But
-I seem to remember more than most people.  Or maybe I just care more.
+1. Michelle's comment: "If other people care, they'll pick it up." But
+I seem to remember more than most people. Or maybe I just care more.
 
 1. Citizenship test for voting.
 
 1. Indexing these pages.
 
-1. Code camp papers for SIGCSE.  (About writing them?  Oh, yeah, about
+1. Code camp papers for SIGCSE. (About writing them? Oh, yeah, about
 the weirdness of the papers getting the opposite responses that I
 expected.)
 
 1. Family First (comment that "Family comes before students.")
 
-1. Becoming Deadwood.  (As you may know, after many years at an institution,
-some faculty become Deadwood.  The myth is that they no longer care.  I
-think the reality is somewhat more complex.  Dealing with frustration.)
+1. Becoming Deadwood. (As you may know, after many years at an institution,
+some faculty become Deadwood. The myth is that they no longer care. I
+think the reality is somewhat more complex. Dealing with frustration.)
 
 1. Focusing on Failure (vs Celebrating Successes)
 
-1. Being nice.  (Flowers, flasks, maybe these essays, whatever)
+1. Being nice. (Flowers, flasks, maybe these essays, whatever)
 
 1. Sleeping in. 
 
 1. Creativity.
 
 1. Algorithmic art . I am happiest when I write programs that make art,
-or when I make art that has a computational component.  In this essay,
+or when I make art that has a computational component. In this essay,
 I attempt to describe the relationship between these areas and the
-pleasure I derive.  (Or at least I think that's what I'll write about.)
+pleasure I derive. (Or at least I think that's what I'll write about.)
 
-1. Burnout.  (One of Michelle's many roles has her exploring issues of
-physician burnout.  For a long time, folks thought that a sense of 
-accomplishment helped people cope with burnout.  It turns out that
+1. Burnout. (One of Michelle's many roles has her exploring issues of
+physician burnout. For a long time, folks thought that a sense of 
+accomplishment helped people cope with burnout. It turns out that
 that's not so true.)
 
-1. PCards (Narren's done.  Will I write more about this?)
+1. PCards (Narren's done. Will I write more about this?)
 
 1. Nibbled to death by ducks, episode 2.
 
@@ -346,13 +365,13 @@ to surveys from the Dean, ...) (Have I done this already?)
 
 1. Why a good CS education includes much more than CS (for current students).
 
-1. Discussing important topics.  (An attempt to reflect on what I learned
+1. Discussing important topics. (An attempt to reflect on what I learned
 from 321 students about how students talk about things like the role of
 the US in the world.)
 
 1. Building a personal brand. (I think this is based on a comment from Graham.)
 
-1. Collaboration.  (Or why some committees succeed better than others.)
+1. Collaboration. (Or why some committees succeed better than others.)
 
 1. FAQ (Should I really write this?)
 
@@ -377,17 +396,17 @@ use them too much?) (Maybe that just goes in the four-months essay.)
 
 1. Avoiding too much writing. (on writing)
 
-1. On getting old.  (New faculty, new music.)
+1. On getting old. (New faculty, new music.)
 
 1. Is it time to quit? (rants)
 
-1. On being organized.  (On writing.)
+1. On being organized. (On writing.)
 
-1. On being picky.  (On writing?  Rants?  Some followup to
+1. On being picky. (On writing? Rants? Some followup to
 Ralph Savarese's comment.)
 
-1. On doing too much (or have I written that one already?  I probably haven't
-written "Nibbled to death by ducks".  But it should probably wait for a day in 
+1. On doing too much (or have I written that one already? I probably haven't
+written "Nibbled to death by ducks". But it should probably wait for a day in 
 which I really feel that way.) (It's in the overcommitment section)
 
 1. On editing my own work.
@@ -395,14 +414,14 @@ which I really feel that way.) (It's in the overcommitment section)
 1. On advising too many students (grad school, starting job, CS major,
 what courses should I take? ... plus paperwork and more)
 
-1. Telling a Story vs. Thinking about Language.  (On writing.)
+1. Telling a Story vs. Thinking about Language. (On writing.)
 <http://www.theatlantic.com/magazine/archive/2010/08/how-to-write-in-700-easy-lessons/308043/>
 <http://www.salon.com/2010/11/02/nanowrimo/>
 
 1. Amazon Pricing Bots.
 
-1. Digital signatures.  The technology has been around for more than a
-decade.  And it's **free**.
+1. Digital signatures. The technology has been around for more than a
+decade. And it's **free**.
 
 1. The CS Commons.
 
@@ -434,10 +453,10 @@ decade.  And it's **free**.
 
 1. Television.
 
-1. Lolita and the Reluctant Deubtantes.  (Don't forget to mention 
+1. Lolita and the Reluctant Deubtantes. (Don't forget to mention 
 Dodge Dart.)
 
-1. Facebook.  (???  Maybe why I don't wite?)
+1. Facebook. (??? Maybe why I don't wite?)
 
 1. CTLA.
 
@@ -448,7 +467,7 @@ Dodge Dart.)
 Grinnellians
 ------------
 
-*Profiles I should write when I get back to the next month of profiles.*
+1. Profiles I should write when I get back to the next month of profiles.*
 
 1. Rachel Bly '93
 
@@ -464,7 +483,7 @@ Grinnellians
 
 1. Jeff Dickey-Chaisins '81
 
-1. George Drake.  (Include the two things he's done that irk me.)
+1. George Drake. (Include the two things he's done that irk me.)
 
 1. Karla Erickson
 https://www.insidehighered.com/news/2017/01/26/research-midcareer-professors-makes-case-support-after-tenure
@@ -583,7 +602,7 @@ pamphlets)
 Other People
 ------------
 
-*Yes, there are other people to profile.  I'm not sure most of these
+1. Yes, there are other people to profile. I'm not sure most of these
 will be public, though.*
 
 1. Jon Strymish.
@@ -605,27 +624,27 @@ will be public, though.*
 Revisiting Topics
 -----------------
 
-*At some point, I'll come back to topics.*
+1. At some point, I'll come back to topics.*
 
 1. Naming week 14, revisited.
 
 1. Dad jokes, revisited. (Misc)
 
-1. How Grinnell has changed in twenty years, revisited.  (Hmmm ... maybe
+1. How Grinnell has changed in twenty years, revisited. (Hmmm ... maybe
 I'm less upset than when I thought about revisiting this.)
 
-1. Maybe I should have used a 'blogging platform.  (Or 'the form of this 
-site', revisited.)  Adena's community comment.
+1. Maybe I should have used a 'blogging platform. (Or 'the form of this 
+site', revisited.) Adena's community comment.
 
 1. Feeling fortunate, revisited.
 
 1. Thinking the best of others, revisited.
 
-1. Convocation, revisited.  (Some others share my opinions.  Others
-do not.  That's not surprising.  I still think we should have weekly
-convocation.  Here's a plan for doing so.)
+1. Convocation, revisited. (Some others share my opinions. Others
+do not. That's not surprising. I still think we should have weekly
+convocation. Here's a plan for doing so.)
 
-1. Accumulation, revisited.  (Do I do the "Dad-iction" joke?)
+1. Accumulation, revisited. (Do I do the "Dad-iction" joke?)
 
 1. Mondegreens, revisited. (Find another name for them).
 
@@ -638,44 +657,44 @@ convocation.  Here's a plan for doing so.)
 Notes
 -----
 
-* *Note: Try to have about one hundred forthcoming topics at all times,
-  at least until I reach the three-hundred essays month.*  (See below.)
-* *Note: When I have writer's block, I should pick ten of the topics
-  above and write an essay about what I plan to write for those ten.
-  There should be an almost never-ending supply of that kind of essay.
-  Title: "Things I plan to write about (Part of a continuing series.)"*
-    * The first time I did this, I think I only wrote three of the ten
-      essays within the next two weeks.
-* *Note: At some point, I might consider top-ten lists.  Maybe a month
-  of them.*
-* *Thinking ahead: Alternate months of assorted topics and focused
-  topics.*
-    * April: Assorted
-    * March: More Grinnellians 
-    * May: Topics, revisited
-    * June: Assorted
-    * July: Maybe CSC 151 or CSC 321.
-    * August: Assorted
-    * September: Planning three-hundred more essays (I'd have to write one 
-      set of ten topics each day; that could be an interesting challenge)
-    * October: Assorted
-    * November: The not-so-great, excessively end-noted, American novel.
-      (A novel as a series of essays.)
-    * December: Assorted
-    * January: Preparing the next book?
-    * Eventually: Top-ten lists (?)
-    * Eventually: Autobiographical (?; probably not)
+1. *Note: Try to have about one hundred forthcoming topics at all times,
+ at least until I reach the three-hundred essays month.* (See below.)
+1. *Note: When I have writer's block, I should pick ten of the topics
+ above and write an essay about what I plan to write for those ten.
+ There should be an almost never-ending supply of that kind of essay.
+ Title: "Things I plan to write about (Part of a continuing series.)"*
+  * The first time I did this, I think I only wrote three of the ten
+   essays within the next two weeks.
+1. *Note: At some point, I might consider top-ten lists. Maybe a month
+ of them.*
+1. *Thinking ahead: Alternate months of assorted topics and focused
+ topics.*
+  * April: Assorted
+  * March: More Grinnellians 
+  * May: Topics, revisited
+  * June: Assorted
+  * July: Maybe CSC 151 or CSC 321.
+  * August: Assorted
+  * September: Planning three-hundred more essays (I'd have to write one 
+   set of ten topics each day; that could be an interesting challenge)
+  * October: Assorted
+  * November: The not-so-great, excessively end-noted, American novel.
+   (A novel as a series of essays.)
+  * December: Assorted
+  * January: Preparing the next book?
+  * Eventually: Top-ten lists (?)
+  * Eventually: Autobiographical (?; probably not)
 
 ---
 
 Software for indexing these pages.
 
-* Strip punctuation with sed.
-* Chop into individual words.
-* Sort uniquely. [Up to now, we have one essay: How many unique words have
-  I used?]
-* Separate program that finds word in each essay.
-* Put it all together.
+1. Strip punctuation with sed.
+1. Chop into individual words.
+1. Sort uniquely. [Up to now, we have one essay: How many unique words have
+ I used?]
+1. Separate program that finds word in each essay.
+1. Put it all together.
 
 ---
 
