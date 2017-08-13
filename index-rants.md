@@ -168,3 +168,7 @@ Why Grinnell staff with Ph.D's should be allowed to teach.
 
 > Our strange software choices.
 
+[Another unposted rant](unposted-2017-08-09) (Musing #407)
+
+> Deciding not to post a rant.
+

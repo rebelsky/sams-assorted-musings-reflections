@@ -698,6 +698,10 @@ Why Grinnell staff with Ph.D's should be allowed to teach.
 
 > Our strange software choices.
 
+[Another unposted rant](unposted-2017-08-09) (Musing #407)
+
+> Deciding not to post a rant.
+
 Assorted talks and speeches
 ---------------------------
 
@@ -796,6 +800,10 @@ Overcommitment
 [It seemed like a good idea at the time](it-seemed-like-a-good-idea-2017-08-08) (Musing #406)
 
 > One of the reasons I don't always get things done.
+
+[Missing a musing](missing-a-musing-2017-08-12) (Musing #409)
+
+> One of the things I didn't get done.
 
 On teaching online
 ------------------
@@ -1917,6 +1925,14 @@ Almost everything else
 [A report from the Summer 2017 CS Department Workshop](department-workshop-report-2017-08-07) (Musing #404)
 
 > The other work that I was breaking from.
+
+[Musing too much (or too little)](musing-too-much-2017-08-10) (Musing #408)
+
+> Yet another reason my musings don't always appear when they should.
+
+[Placing incoming students in Mathematics, Statistics, and Computer Science](placement-2017) (Musing #410)
+
+> How I've spent way too much time of late.
 
 Musings with multiple entries
 -----------------------------

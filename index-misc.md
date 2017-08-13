@@ -381,3 +381,11 @@ Almost everything else
 
 > The other work that I was breaking from.
 
+[Musing too much (or too little)](musing-too-much-2017-08-10) (Musing #408)
+
+> Yet another reason my musings don't always appear when they should.
+
+[Placing incoming students in Mathematics, Statistics, and Computer Science](placement-2017) (Musing #410)
+
+> How I've spent way too much time of late.
+

@@ -529,3 +529,7 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [A report from the Summer 2017 CS Department Workshop](department-workshop-report-2017-08-07) (Musing #404)  
 [A new CSC 151, revisited](new-csc151-2017-08-07) (Musing #405)  
 [It seemed like a good idea at the time](it-seemed-like-a-good-idea-2017-08-08) (Musing #406)  
+[Another unposted rant](unposted-2017-08-09) (Musing #407)  
+[Musing too much (or too little)](musing-too-much-2017-08-10) (Musing #408)  
+[Missing a musing](missing-a-musing-2017-08-12) (Musing #409)  
+[Placing incoming students in Mathematics, Statistics, and Computer Science](placement-2017) (Musing #410)  

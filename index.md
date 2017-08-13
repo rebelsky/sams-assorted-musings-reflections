@@ -7,8 +7,12 @@ Some are rants about topics I'm passionate about.  Some are explanations
 of how I approach the world.  Some are just my attempts to think through
 a topic.
 
-Latest musing:
-[It seemed like a good idea at the time](it-seemed-like-a-good-idea-2017-08-08) (Musing #406)
+Latest musings:
+[Missing a musing](missing-a-musing-2017-08-12) (Musing #409)
+and
+[Placing incoming students in Mathematics, Statistics, and Computer Science](placement-2017) (Musing #410)
+
+[Musing too much (or too little)](musing-too-much-2017-08-10) (Musing #408)
 
 [Musings, by number](index-by-number) 
 
