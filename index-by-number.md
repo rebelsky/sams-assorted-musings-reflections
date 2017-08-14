@@ -533,3 +533,7 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Musing too much (or too little)](musing-too-much-2017-08-10) (Musing #408)  
 [Missing a musing](missing-a-musing-2017-08-12) (Musing #409)  
 [Placing incoming students in Mathematics, Statistics, and Computer Science](placement-2017) (Musing #410)  
+
+## 411-420
+
+[Breakfast in the Marketplace](marketplace-breakfast-2017-08-13) (Musing #411)  

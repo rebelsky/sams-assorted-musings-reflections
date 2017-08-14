@@ -172,3 +172,7 @@ Why Grinnell staff with Ph.D's should be allowed to teach.
 
 > Deciding not to post a rant.
 
+[Breakfast in the Marketplace](marketplace-breakfast-2017-08-13) (Musing #411)
+
+> A healthy breakfast, not.
+
