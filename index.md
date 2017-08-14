@@ -8,7 +8,7 @@ of how I approach the world.  Some are just my attempts to think through
 a topic.
 
 Latest musing:
-[Breakfast in the Marketplace](marketplace-breakfast-2017-08-13) (Musing #411)
+[Another good rant ruined](good-rant-ruined-2017-08-14) (Musing #412)
 
 [Musings, by number](index-by-number) 
 

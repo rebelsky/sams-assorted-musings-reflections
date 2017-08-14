@@ -706,6 +706,10 @@ Why Grinnell staff with Ph.D's should be allowed to teach.
 
 > A healthy breakfast, not.
 
+[Another good rant ruined](good-rant-ruined-2017-08-14) (Musing #412)
+
+> A danger of paying attention to broader issues.
+
 Assorted talks and speeches
 ---------------------------
 

@@ -537,3 +537,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 ## 411-420
 
 [Breakfast in the Marketplace](marketplace-breakfast-2017-08-13) (Musing #411)  
+[Another good rant ruined](good-rant-ruined-2017-08-14) (Musing #412)  
