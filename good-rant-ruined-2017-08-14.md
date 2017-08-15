@@ -35,10 +35,10 @@ so one might hope that 45% of the communities would be related to the
 sciences, which would suggest that we should have three STEM-communities,
 rather than two.  Given that 1/7 of all majors are in CS or Math, we
 should probably separate the STEM community into a Science Community
-and a CS/Math [10] community.
+and a CS/Math [10] community [11].
 
 But the communities were decided, in large part, but what people were
-willing to donate to.  Daniel '77 and Patricia '80 Finkelman Dean [11]
+willing to donate to.  Daniel '77 and Patricia '80 Finkelman Dean [12]
 Mark Peltz spent endless hours talking with donors across the country
 about these communities, and the donations he raised shaped the choice
 of communities.  As I understand it, we expect the set of communities
@@ -51,7 +51,7 @@ Rather, the budgets are based on donations raised, along with some more
 adjustable funds.
 
 So there we have it.  We have a cool new initiative.  I don't particularly
-like some of the details, but CLS [12] doesn't have control over many
+like some of the details, but CLS [16] doesn't have control over many
 of those details.  I was so looking forward to ranting, but I'll have
 to leave it at that.  I don't even feel comfortable ranting about the
 lack of public information about the new communities on the Web site,
@@ -62,7 +62,7 @@ I look forward to seeing what happens with the communities over the next
 few years.  And I applaud the folks at CLS for coming up with the big
 picture idea.
 
-I'm worried that I will lose my curmudgeon badge [14].
+I'm worried that I will lose my curmudgeon badge [17].
 
 ---
 
@@ -97,13 +97,28 @@ The only triple major I know of graduated last year.
 
 [10] TEM?
 
-[11] Finkeldean?
+[11] My readers have pointed out that most students' majors don't
+necessarily correspond to their chosen career path.  I agree.  It's also
+a good thing.  But I expect that a similar percentage are thinking of
+careers in STeM fields.
 
-[12] Careers, Life, and Service.
+[12] Finkeldean? Maybe [14].
 
-[14] Communications has already told me that I can't get a new one.
+[14] Someone who knows the Patricia and Dan suggested that they might 
+enjoy hearing that term.  I hope it doesn't get me in trouble.  Fortunately,
+Patricia and Dan know how much I appreciate all that they do for the
+College [15].
+
+[15] That comment is perfectly serious.  I had the good fortune to have
+a day-long retreat with a small group that included both of them, and both
+are clearly passionate about Grinnell.  I also appreciate the ways in which
+they invest their time and money in the College.
+
+[16] Careers, Life, and Service.
+
+[17] Communications has already told me that I can't get a new one.
 Sniff.
 
 ---
 
-*Version 1.1 of 2017-08-14.*
+*Version 1.2 of 2017-08-14.*
