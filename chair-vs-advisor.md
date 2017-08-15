@@ -60,21 +60,35 @@ your department.
 > [Email from Registrar's office to department chairs entitled "Harris
 Center registration forum" and dated August 14, 2017 at 3:51:20 PM CDT]
 
-I don't know what makes me sadder: that the Dean's office would insist
+I don't know what makes me sadder [5]: that the Dean's office would insist
 on prioritizing the chair's retreat or that they think all that happens
 with advisors at the registration forum is signing forms.  I worry that
 this is yet another sign that the administration really has no clue
 about what we do.
 
-Were I still chair [5] and also teaching Tutorial [6,8], I know what my
+Were I still chair [6] and also teaching Tutorial [7,9], I know what my
 comment would be.
 
-> I have a responsibility to my tutees.  Would you prefer that I miss
-the Chairs Retreat or that I resign as Department Chair?
+> I have a responsibility to my tutees.  I will therefore leave the
+Chairs' Retreat in time to talk to them before and at the Registration
+Forum.  If my inability to attend that session of the Chairs' Retreat
+makes me ineligible to serve as chair, I am happy to step down from
+the position.  Let me know whether or not that's the case [11].
 
 Of course, that's me.  I would not require that my colleagues say
 the same.  However, my experience suggests that many feel that way,
-even if they would not say it [10].
+even if they would not say it in quite the same way [12,14].
+
+---
+
+*Clarification*
+
+I was angry about this issue the first time I heard about it in the
+middle of the summer.  But folks talked me down, saying something like
+"Let's assume that no one has raised why this is problematic with the
+Dean."  That's a reasonable comment; folks don't always think about the
+implications of their decisions.  But faculty did raise the issue and
+this idiotic decision was still made [15].
 
 ---
 
@@ -101,25 +115,41 @@ many.  I don't care.
 can't make it to the Wednesday Harris Registration Forum.  But those
 times are the exception.
 
-[5] I am glad that I am not currently chair.
+[5] or angrier.
 
-[6] In violation of many conventions, I capitalize Tutorial because
-it refers to a particular kind of tutorial [7] and not just the broader
+[6] I am glad that I am not currently chair.
+
+[7] In violation of many conventions, I capitalize Tutorial because
+it refers to a particular kind of tutorial [8] and not just the broader
 notion of activity in which students receive assistance.
 
-[7] A seminar-style course required of all first-year Grinnell students
+[8] A seminar-style course required of all first-year Grinnell students
 that has three core foci: learning about a topic or topics, developing 
 skills for success  in school, and building an advising relationship.
 
-[8] I am sad that I'm not currently teaching tutorial.  I miss teaching
-Tutorial [9].
+[9] I am sad that I'm not currently teaching tutorial.  I miss teaching
+Tutorial [10].
 
-[9] Although, given my schedule for the fall, it's probably for the best
+[10] Although, given my schedule for the fall, it's probably for the best
 that I'm not teaching Tutorial.
 
-[10] I expect some will just skip the Chairs Retreat, rather than be
+[11] Here's what I first wrote.  I've updated it slightly.
+
+> I have a responsibility to my tutees.  Would you prefer that I miss
+the Chairs Retreat or that I resign as Department Chair?
+
+[12] I expect some will just skip the Chairs Retreat, rather than be
 confrontational.  That is likely a more sane approach.
+
+[14] Some of the comments I've received: "I don't care what they've
+told me.  I'm leaving the retreat."  "When I got the message, I was
+tempted to throw my computer out the Window."  "I hope that at 2:45 p.m.,
+all of the Chairs stand up an leave the retreat."  It's clear to me that
+the faculty are all on the same page.
+
+[15] I intentionally used the passive voice in this sentence.  I do not
+know who is responsible.
 
 ---
 
-*Version 1.0 of 2017-08-14.*
+*Version 1.1 of 2017-08-15.*
