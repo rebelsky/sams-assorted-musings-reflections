@@ -180,3 +180,7 @@ Why Grinnell staff with Ph.D's should be allowed to teach.
 
 > A danger of paying attention to broader issues.
 
+[Which role has priority: Department Chair or Tutorial Advisor?](chair-vs-advisor) (Musing #413)
+
+> I thought I was done musing today, then the email arrived.
+
