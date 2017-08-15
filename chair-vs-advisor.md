@@ -92,6 +92,17 @@ this idiotic decision was still made [15].
 
 ---
 
+*Followup*
+
+I've been told that there were good reasons to schedule it that day.
+I accept that; organizing faculty is like herding cats, very vocal cats.
+I'm told that the Dean's office is trying to accommodate folks who
+have both obligations.  That's great to hear.  But when you send out a
+semi-public message that implies that advising is just signing paperwork,
+you are still undermining what we do.
+
+---
+
 I've been wrong about a lot of things lately.  I look forward to
 hearing from my readers why the Chairs Retreat is more important than
 our responsibility to our Tutorial students.  More generally, I look
@@ -152,4 +163,6 @@ know who is responsible.
 
 ---
 
-*Version 1.1 of 2017-08-15.*
+*Version 1.0 posted on 2017-08-14.*
+
+*Version 1.2 of 2017-08-15.*
