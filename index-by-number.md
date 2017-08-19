@@ -539,3 +539,7 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Breakfast in the Marketplace](marketplace-breakfast-2017-08-13) (Musing #411)  
 [Another good rant ruined](good-rant-ruined-2017-08-14) (Musing #412)  
 [Which role has priority: Department Chair or Tutorial Advisor?](chair-vs-advisor) (Musing #413)  
+[Local, national, and global](local-national-global) (Musing #414)  
+[Shandow](shadow) (Musing #415)  
+[The Big Sick](big-sick) (Musing #417)  
+[Thank You](thank-you-2017-08-18) (Musing #418)  

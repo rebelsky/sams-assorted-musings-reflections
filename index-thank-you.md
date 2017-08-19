@@ -16,3 +16,7 @@ Thank-You Notes
 > Okay, this one isn't a thank-you note either.  But it does reflect
   thanks toward my aweseome summer research students.
 
+[Thank You](thank-you-2017-08-18) (Musing #418)
+
+> A note to my Dean and President.
+

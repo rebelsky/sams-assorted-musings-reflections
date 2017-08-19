@@ -759,6 +759,10 @@ Thank-You Notes
 > Okay, this one isn't a thank-you note either.  But it does reflect
   thanks toward my aweseome summer research students.
 
+[Thank You](thank-you-2017-08-18) (Musing #418)
+
+> A note to my Dean and President.
+
 Overcommitment
 --------------
 
@@ -1555,6 +1559,10 @@ About SamR
 
 > Screwing things up, once again.
 
+[Shandow](shadow) (Musing #415)
+
+> My mother-in-law's dog.
+
 Almost everything else
 ----------------------
 
@@ -1945,6 +1953,14 @@ Almost everything else
 [Placing incoming students in Mathematics, Statistics, and Computer Science](placement-2017) (Musing #410)
 
 > How I've spent way too much time of late.
+
+[Local, national, and global](local-national-global) (Musing #414)
+
+> Why I focus on the local, and sometimes the hyper-local.
+
+[The Big Sick](big-sick) (Musing #417)
+
+> A great movie.
 
 Musings with multiple entries
 -----------------------------

@@ -389,3 +389,11 @@ Almost everything else
 
 > How I've spent way too much time of late.
 
+[Local, national, and global](local-national-global) (Musing #414)
+
+> Why I focus on the local, and sometimes the hyper-local.
+
+[The Big Sick](big-sick) (Musing #417)
+
+> A great movie.
+

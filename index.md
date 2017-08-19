@@ -8,9 +8,9 @@ of how I approach the world.  Some are just my attempts to think through
 a topic.
 
 Latest musings:
-[Another good rant ruined](good-rant-ruined-2017-08-14) (Musing #412)
+[The Big Sick](big-sick) (Musing #417)
 and
-[Which role has priority: Department Chair or Tutorial Advisor?](chair-vs-advisor) (Musing #413)
+[Thank You](thank-you-2017-08-18) (Musing #418)
 
 [Musings, by number](index-by-number) 
 
