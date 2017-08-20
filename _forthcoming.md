@@ -21,6 +21,14 @@ Thoughts on one-year musing
 
 New forthcoming musings
 
+1. "Get Outlook for Android/iPhone". ("What can you do to be more successful
+on this exam.")
+1. Stopping sooner.  (Didn't need second section in local/national/global.
+   Didn't need more than "I had criticisms.  I was mistaken."
+1. CSC 322.
+1. Microagressions?
+1. Curmudgeon or Cheerful - Both!
+1. How to be a curmudgeon in N easy steps.
 1. Anniversary essay for Michelle - Thirty years!
 1. David Feldman. One of the more interesting pickups from this series.
  Imponderables - clearly an area for a liberal arts
@@ -29,10 +37,8 @@ New forthcoming musings
  he reads my musings each day.
 1. Self-study - Institutional information. (Should Rietz be in the
  discussions of self studies?)
-1. CLS Communities.
 1. Sedona - Best of breed?
 1. CLC 17 - Contemporary Literary Criticism
-1. Something about Kumail?
 1. Curmudgeon - Letterpress "There's nothing in the world that can't
  be made a bit better by adding a curmdugeon. Except, maybe,
  ice cream."
@@ -49,7 +55,7 @@ New forthcoming musings
 1. Finish last Wednesday's mail piece. (Maybe never.)
 1. Building the CSC 151 Web site.
 1. Kate Walker - you only learn about people too late ....
-1. "Did I miss anything?" (Poem, student question, etc.)
+1. "Did I miss anything?" (There's a poem by that name, How does it feel when a student asks that question, etc.)
 1. Revisiting Tutorial. I'd forgotten that I'd written some of the things
  that I've done. Tutee birthdays. "Please Raynard, can't I teach Tutorial 
  again?"
@@ -84,20 +90,16 @@ Old forthcoming musings
 Quick (?)
 ---------
 
-1. For the days in which I need to "dash off" an essay in order to meet
+*For the days in which I need to "dash off" an essay in order to meet
 my goals.*
 
-1. Facebook page edits.
+1. Notes to myself.  "What was I thinking?"
 
-1. Fundraising (this year's donations; last year's; should I donate
-"Sam will muse about a subject of your choice"? Should I offer to
-have my hair cut?)
+1. Facebook page edits.
 
 1. Memorizing vs process; Google. (Pearl Before Swine, NYT quote of
 Google, etc.)
 
-1. "Get Outlook for Android/iPhone". ("What can you do to be more successful
-on this exam.")
 
 1. "a musing" vs. "amusing"
 
@@ -148,6 +150,8 @@ schools vs closing schools)
 1. GrinCo, where we make you smile.
 
 1. Should I link these essays? (Make these essays more public.) 
+
+1. IDGaFF
 
 ---
 
