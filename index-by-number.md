@@ -544,3 +544,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [The Big Sick](big-sick) (Musing #417)  
 [Thank You](thank-you-2017-08-18) (Musing #418)  
 [The meaning of ROF](rof) (Musing #419)  
+[Ridding myself of random stuff](random-stuff-2017-08-20) (Musing #420)  

@@ -1563,6 +1563,10 @@ About SamR
 
 > My mother-in-law's dog.
 
+[Ridding myself of random stuff](random-stuff-2017-08-20) (Musing #420)
+
+> A step towards a less disorganized SamR.
+
 ROF musings
 -----------
 

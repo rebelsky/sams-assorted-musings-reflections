@@ -8,7 +8,7 @@ of how I approach the world.  Some are just my attempts to think through
 a topic.
 
 Latest musing:
-[Acronyms you don't need: ROF](rof) (Musing #419)
+[Ridding myself of random stuff](random-stuff-2017-08-20) (Musing #420)
 
 [Musings, by number](index-by-number) 
 
