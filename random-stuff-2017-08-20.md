@@ -4,14 +4,14 @@ Ridding [1] myself of random stuff
 This past week, I've been attempting the Sisyphusan [4] task of cleaning
 out my lab [5].  As part of that task, I'm trying to rid myself of stuff.
 I've given away two exercise balls, a pair of speakers, a bunch of
-potentially-working flash drives, a huge box of pencils [6], a medium
-box of Post-It flags [7], and some other stuff that I forget.  I also
+potentially-working flash drives, a huge box of pencils [6,7], a medium
+box of Post-It flags [8], and some other stuff that I forget.  I also
 moved some of the office supplies to the department storage closet, since
 they were intended for department use.
 
 But I'm not done getting rid of stuff.  I have about ten boxes (more or
 less) that I don't need that I accumulated for a variety of projects,
-in the OfficeMax clearance sale, or both.  On 31 August 2017 [8],
+in the OfficeMax clearance sale, or both.  On 31 August 2017 [9],
 I plan to haul most of them over to the Studio Art "free stuff" area.
 But if any of my readers would like them, I'm happy to give them to you,
 provided you make arrangements to pick them up.  Let's see ...
@@ -40,7 +40,7 @@ way too many things for these cases.  I thought about gluing them
 together to make a tower and then inserting different images in each case.
 I've thought about using them as supplies for the laser cutter. But I've
 never gotten around to doing anything with them in something like five
-years [9].
+years [10].
 
 I think that's it for now.  As I said, I'm happy to give those to anyone
 willing to come to campus and get them.  Just drop me a line.
@@ -48,7 +48,7 @@ willing to come to campus and get them.  Just drop me a line.
 Oh, please wish me luck in making progress on the lab.  The start of
 the semester is close enough that I probably won't be able to do much
 more until fall break, but I may try from time to time.  I have at least
-fifteen boxes of assorted papers to sort through [10].
+fifteen boxes of assorted papers to sort through [11].
 
 ---
 
@@ -71,20 +71,23 @@ down on me, perhaps somewhat literal.
 
 [6] Those went to the high school.
 
-[7] Those went to academic advising.
+[7] "huge" = 24"x18"x18" or so.  Bought on clearance at OfficeMax.  I
+love pencils, but I'll never use that many.
 
-[8] I hate reading old 'blog posts that say things like "Ask by September
+[8] Those went to academic advising.
+
+[9] I hate reading old 'blog posts that say things like "Ask by September
 1 and I'll send you X."  I get all excited, and then deep down in the
 post I discover that it's two years old.  So I'm including the year
 explicitly.
 
-[9] Almost certainly more than five years.
+[10] Almost certainly more than five years.
 
-[10] I know what you're thinking: "They've almost certainly been in his 
+[11] I know what you're thinking: "They've almost certainly been in his 
 lab long enough that he should just throw them out or recycle them."  But
 I find gems every time I go through a box.  I also have an obligation to
 shred some contents in each box.
 
 ---
 
-*Version 1.0 of 2017-08-20.*
+*Version 1.0.1 of 2017-08-20.*
