@@ -1563,6 +1563,17 @@ About SamR
 
 > My mother-in-law's dog.
 
+ROF musings
+-----------
+
+[The meaning of ROF](rof) (Musing #419)
+
+> An explanation of the category.
+
+[The Big Sick](big-sick) (Musing #417)
+
+> Notes on a great movie.  Also contains a narrative about Main hall.
+
 Almost everything else
 ----------------------
 
@@ -1957,10 +1968,6 @@ Almost everything else
 [Local, national, and global](local-national-global) (Musing #414)
 
 > Why I focus on the local, and sometimes the hyper-local.
-
-[The Big Sick](big-sick) (Musing #417)
-
-> A great movie.
 
 Musings with multiple entries
 -----------------------------

@@ -74,6 +74,7 @@ INDICES = index-by-topic-head.md \
 	index-reviews.md \
         index-mixtapes.md \
         index-autobiographical.md \
+        index-rof.md \
 	index-misc.md \
         index-multiple-entries.md \
 	index-removed.md 

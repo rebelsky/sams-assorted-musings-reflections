@@ -7,10 +7,8 @@ Some are rants about topics I'm passionate about.  Some are explanations
 of how I approach the world.  Some are just my attempts to think through
 a topic.
 
-Latest musings:
-[The Big Sick](big-sick) (Musing #417)
-and
-[Thank You](thank-you-2017-08-18) (Musing #418)
+Latest musing:
+[Acronyms you don't need: ROF](rof) (Musing #419)
 
 [Musings, by number](index-by-number) 
 
@@ -36,5 +34,6 @@ and
 * [A letter to the incoming chair](index-incoming-chair)
 * [Reviews and notes about things I enjoy](index-reviews)
 * [Autobiographical essays, more or less](index-autobiographical)
+* [ROF musings](index-rof)
 * [Almost everything else](index-misc)
 

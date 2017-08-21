@@ -393,7 +393,3 @@ Almost everything else
 
 > Why I focus on the local, and sometimes the hyper-local.
 
-[The Big Sick](big-sick) (Musing #417)
-
-> A great movie.
-
