@@ -30,7 +30,7 @@ three encounters really leave a huge impression on me.
 
 For the first visit to LFA, Megan did a lot of planning. She asked
 students to do a bit of homework (although I don't remember what it was)
-and to bring their r&eacute;sume&eacute;s to class.  In class, she had
+and to bring their r&eacute;sum&eacute;s to class.  In class, she had
 planned to talk about her career path and then do a r&eacute;sum&eacute;
 review.  But she had so many interesting side notes and tips on her life
 story, and so many questions from the students, that we went over the
@@ -157,4 +157,6 @@ next year.  Cross your fingers!
 
 ---
 
-*Version 1.0 of 2016-11-03.*
+*Version 1.0 posted on 2016-11-03.*
+
+*Version 1.0.1 of 2017-08-22.*
