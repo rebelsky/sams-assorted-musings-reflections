@@ -132,7 +132,7 @@ recommendation letter.  Oh well, maybe it will get done by Winter break
 ---
 
 In receiving this email, Lea shared [a video of her playing
-piano(https://www.youtube.com/watch?v=Sn0vybzqwGk) [31] and a [Code
+piano](https://www.youtube.com/watch?v=Sn0vybzqwGk) [31] and a [Code
 like a girl video](https://www.youtube.com/watch?v=MyGh89qizME&t=85s)
 that she crops up in repeatedly [32,33] - she's the one talking about
 the presidential app and "I just hope that I'd have something to say
@@ -265,4 +265,6 @@ I got all of the referrents corrected.
 
 ---
 
-*Version 1.1.3 of 2017-05-28.*
+*Version 1.0 released 2016-12-01.*
+
+*Version 1.1.4 of 2017-08-26.*
