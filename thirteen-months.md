@@ -1,7 +1,7 @@
 Eleven and one months of daily musings
 =======================================
 
-It's the end of the month [1].  I have acheived another milestone [2].
+It's the end of the month [1].  I have achieved another milestone [2].
 Since it's the end of the month, it's time to step back and reflect on
 what I've learned from musing this month.  In the past month, I wrote
 N musings.  Here are the titles of the musings, at least according to 
@@ -21,7 +21,17 @@ since there are at least four workshop reports included.  I may have
 written too much in each of those reports.  While I didn't get to
 many more of the ["overcommitted" and "nibbled to death by ducks"
 series](index-overcommitted), I did experience the constant pressure of
-having more tasks than I could reasonably handle.
+having more tasks than I could reasonably handle.  That pressure led [4]
+to a long streak of days in which I got no musings posted.  I made up
+for it with a day of musings.
+
+I spent the last week of the month trying to write shorter musings.
+In doing so, I was reminded about the difficulty that I have writing
+shorter musings.  Even for short musings, I find myself going off to the
+Interweb or my filesystem to look for followup information, detouring
+off on other topics, and more.  I do need to find ways to be more concise.
+
+The being nicer musing.
 
 ---
 
@@ -30,6 +40,9 @@ having more tasks than I could reasonably handle.
 [2] Or perhaps millstone [3].
 
 [3] Is the millstone around my neck or around my readers'?
+
+[4] I know that some people write "lead", but I'm 99% sure that's
+incorrect.
 
 ---
 
