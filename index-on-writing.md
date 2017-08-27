@@ -204,3 +204,11 @@ Essays on writing, or at least on writing my essays
 
 > Something like five or six.
 
+[What happened?](what-happened-2017-08-26) (Musing #421)
+
+> An explanation for a week off of musing.
+
+[Wrapping up](wrapping-up-2017-08-26) (Musing #426)
+
+> The last musing of a day of musings (or is that a day of musing).
+

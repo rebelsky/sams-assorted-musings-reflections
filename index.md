@@ -7,8 +7,13 @@ Some are rants about topics I'm passionate about.  Some are explanations
 of how I approach the world.  Some are just my attempts to think through
 a topic.
 
-Latest musing:
-[Ridding myself of random stuff](random-stuff-2017-08-20) (Musing #420)
+Latest musings:
+[What happened?](what-happened-2017-08-26) (Musing #421),
+[The eclipse](eclipse-2017-08-26) (Musing #422), 
+[Getting rid of stuff](stuff-2017-08-26) Musing #423),
+[Being nicer](being-nicer-2017-08-26) (Musing #424),
+[Begin nice](being-nice-2017-08-26) (Musing #425), and
+[Wrapping up](wrapping-up-2017-08-26) (Musing #426).
 
 [Musings, by number](index-by-number) 
 

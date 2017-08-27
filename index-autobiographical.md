@@ -139,3 +139,15 @@ About SamR
 
 > A step towards a less disorganized SamR.
 
+[Getting rid of stuff](stuff-2017-08-26) Musing #423)
+
+> A follow up to the prior musing.
+
+[Being nicer](being-nicer-2017-08-26) (Musing #424)
+
+> On changing my initial inclinations.
+
+[Begin nice](being-nice-2017-08-26) (Musing #425)
+
+> A follow up on the prior musing, more or less.
+

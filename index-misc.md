@@ -393,3 +393,7 @@ Almost everything else
 
 > Why I focus on the local, and sometimes the hyper-local.
 
+[The eclipse](eclipse-2017-08-26) (Musing #422)
+
+> My experience trying to see a total eclipse in 2017.
+

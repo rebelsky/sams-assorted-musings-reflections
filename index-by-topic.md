@@ -207,6 +207,14 @@ Essays on writing, or at least on writing my essays
 
 > Something like five or six.
 
+[What happened?](what-happened-2017-08-26) (Musing #421)
+
+> An explanation for a week off of musing.
+
+[Wrapping up](wrapping-up-2017-08-26) (Musing #426)
+
+> The last musing of a day of musings (or is that a day of musing).
+
 For prospective students, parents of prospective students, and others with similar interests
 --------------------------------------------------------------------------------------------
 
@@ -1567,6 +1575,18 @@ About SamR
 
 > A step towards a less disorganized SamR.
 
+[Getting rid of stuff](stuff-2017-08-26) Musing #423)
+
+> A follow up to the prior musing.
+
+[Being nicer](being-nicer-2017-08-26) (Musing #424)
+
+> On changing my initial inclinations.
+
+[Begin nice](being-nice-2017-08-26) (Musing #425)
+
+> A follow up on the prior musing, more or less.
+
 ROF musings
 -----------
 
@@ -1972,6 +1992,10 @@ Almost everything else
 [Local, national, and global](local-national-global) (Musing #414)
 
 > Why I focus on the local, and sometimes the hyper-local.
+
+[The eclipse](eclipse-2017-08-26) (Musing #422)
+
+> My experience trying to see a total eclipse in 2017.
 
 Musings with multiple entries
 -----------------------------
