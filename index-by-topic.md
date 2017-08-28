@@ -829,6 +829,10 @@ Overcommitment
 
 > One of the things I didn't get done.
 
+[Dreading September 1](dreading-1-sept-2017) (Musing #427)
+
+> Too many projects, too little time.
+
 On teaching online
 ------------------
 

@@ -554,3 +554,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Being nicer](being-nicer-2017-08-26) (Musing #424)  
 [Begin nice](being-nice-2017-08-26) (Musing #425)  
 [Wrapping up](wrapping-up-2017-08-26) (Musing #426)  
+[Dreading September 1](dreading-1-sept-2017) (Musing #427)  
