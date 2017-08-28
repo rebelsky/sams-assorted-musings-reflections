@@ -1,5 +1,5 @@
-Dreading 1 September 2017
-=========================
+Dreading September 1
+====================
 
 The 1st of September 2017 is nearly upon us.  I do not look forward to
 is advent.  Why?  Because way too much work that I'm doing has a deadline
@@ -8,7 +8,16 @@ have.
 
 _A tenure/promotion review for a colleague at another institution_.
 These reviews are one of the important, often uncompensated, work we do
-as faculty.  And that's about all I'll say.
+as faculty.  And that's about all I'll say.  (Since I'm indicating lengths
+below, I should mention that the current draft is about 1600 words.)
+
+_Readings for week 2 of CSC 151._  Those are sketched, but not finished.
+I promised my colleagues and mentors that I'd have them ready about a
+week in advance, so those need to be ready very soon.  September 1 is the
+latest possible.  Let's see ... that's about four readings and two labs.
+I also have a reading and lab to write today.  I completed the reading,
+which is about 3000 words and eight printed pages.  I also wrote a lot
+of related code, which are not included in those limits.
 
 _A paper submission for SIGCSE [1] with my students on the "Data Science
 for Social Good" code camp._  My students worked really hard to design
@@ -18,7 +27,8 @@ capped at 6 pages (two column, 10pt, ACM format), which I think ends
 up being closer to 20 if you do them in "standard draft form (12 pt,
 double spaced, single column).  See [last year's paper](http://dl.acm.org/citation.cfm?id=3017795&CFID=977541732&CFTOKEN=81497281) for more details [3].
 Circumstances dictated that we could not write this paper over the summer,
-so we are writing it now.
+so we are writing it now.  I'm fortunate that the students are taking
+the lead and that they've already chosen times for us to meet.
 
 _An application for an Obermann Fellowship_.  That fellowship will allow
 me to continue to reflect on the ways that we can better support the
@@ -76,7 +86,8 @@ day.
 
 [4] My [current
 CV](http://www.cs.grinnell.edu/~rebelsky/CV/rebelsky-cv-full.pdf) is 17
-pages long.  A targeted reduction to five pages will take some time.
+pages long plus an orphan (more or less) on p. 18.  A targeted reduction
+to five pages will take some time.
 
 [5] "Functional" does not mean "it functions"; all of our courses function
 [6].  "Functional" means that the language treats functions as first-class
