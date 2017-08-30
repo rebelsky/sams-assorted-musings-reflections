@@ -151,3 +151,11 @@ About SamR
 
 > A follow up on the prior musing, more or less.
 
+[A biography, of sorts](bio-2017-08-29) (Musing #429) 
+
+> A few paragraphs for a poster.
+
+[Thirty years](thirty-years) (Musing #430)
+
+> Happy thirtieth anniversary, Michelle!
+

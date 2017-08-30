@@ -722,6 +722,10 @@ Why Grinnell staff with Ph.D's should be allowed to teach.
 
 > I thought I was done musing today, then the email arrived.
 
+[Browser expectations](browser-expectations-2017-08-28) (Musing #428)
+
+> Why do people continue to expect that I use a browser that does not exist for my operating systems?
+
 Assorted talks and speeches
 ---------------------------
 
@@ -1590,6 +1594,14 @@ About SamR
 [Begin nice](being-nice-2017-08-26) (Musing #425)
 
 > A follow up on the prior musing, more or less.
+
+[A biography, of sorts](bio-2017-08-29) (Musing #429) 
+
+> A few paragraphs for a poster.
+
+[Thirty years](thirty-years) (Musing #430)
+
+> Happy thirtieth anniversary, Michelle!
 
 ROF musings
 -----------

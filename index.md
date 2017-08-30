@@ -7,8 +7,9 @@ Some are rants about topics I'm passionate about.  Some are explanations
 of how I approach the world.  Some are just my attempts to think through
 a topic.
 
-Latest musing:
-[Dreading September 1](dreading-1-sept-2017) (Musing #427).
+Latest musings:
+[A biography, of sorts](bio-2017-08-29) (Musing #429) and
+[Thirty years](thirty-years) (Musing #430).
 
 [Musings, by number](index-by-number) 
 

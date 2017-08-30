@@ -184,3 +184,7 @@ Why Grinnell staff with Ph.D's should be allowed to teach.
 
 > I thought I was done musing today, then the email arrived.
 
+[Browser expectations](browser-expectations-2017-08-28) (Musing #428)
+
+> Why do people continue to expect that I use a browser that does not exist for my operating systems?
+
