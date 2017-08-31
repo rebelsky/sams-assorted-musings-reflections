@@ -36,3 +36,7 @@ The joy of code
 
 > Fun with Scheme.
 
+[Why Scheme?](why-scheme-2017-08-30) (Musing #431).
+
+> Explaining why Scheme should be joyful.
+

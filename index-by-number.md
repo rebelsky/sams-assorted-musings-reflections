@@ -558,3 +558,7 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Browser expectations](browser-expectations-2017-08-28) (Musing #428)  
 [A biography, of sorts](bio-2017-08-29) (Musing #429)   
 [Thirty years](thirty-years) (Musing #430)  
+
+## 431-440
+
+[Why Scheme?](why-scheme-2017-08-30) (Musing #431).  
