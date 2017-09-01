@@ -550,7 +550,7 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 
 [What happened?](what-happened-2017-08-26) (Musing #421)  
 [The eclipse](eclipse-2017-08-26) (Musing #422)  
-[Getting rid of stuff](stuff-2017-08-26) Musing #423)  
+[Getting rid of stuff](stuff-2017-08-26) (Musing #423)  
 [Being nicer](being-nicer-2017-08-26) (Musing #424)  
 [Begin nice](being-nice-2017-08-26) (Musing #425)  
 [Wrapping up](wrapping-up-2017-08-26) (Musing #426)  

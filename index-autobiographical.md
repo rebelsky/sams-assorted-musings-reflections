@@ -139,7 +139,7 @@ About SamR
 
 > A step towards a less disorganized SamR.
 
-[Getting rid of stuff](stuff-2017-08-26) Musing #423)
+[Getting rid of stuff](stuff-2017-08-26) (Musing #423)
 
 > A follow up to the prior musing.
 
