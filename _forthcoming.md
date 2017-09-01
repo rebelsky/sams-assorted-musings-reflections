@@ -1,26 +1,9 @@
 Some forthcoming musings
 ========================
 
-Thoughts on one-year musing
-
-1. Greatest hits.
-1. Awards (most footnotes, longest series, longest musing, shortest musing,
- favorites, most read (do I have those data?))
-1. New introduction and home page. "Welcome to Sam's Assorted Musings and Rants. I am
- Samuel A. Rebelsky, typically referred to as SamR. I am ...."
-1. Word count - probably for real.
-1. Most frequent words.
-1. Reorganizing
-1. Lost musings. (Well, musings that I never finished.)
-1. Will you ever stop? (Still have hundreds more to write.)
-1. A survey. Nice to know. But I'm lazy. And I expect most of you wouldn't 
- respond. And, in any case, I write for me, not for you (exceptions for
- some individuals and some situations ...)
-1. A musing about what the musing might be like, listing all of the
- above.
-
 New forthcoming musings
 
+1. Sharepointless workflows.
 1. "Get Outlook for Android/iPhone". ("What can you do to be more successful
 on this exam.")
 1. Stopping sooner.  (Didn't need second section in local/national/global.
@@ -29,12 +12,11 @@ on this exam.")
 1. Microagressions?
 1. Curmudgeon or Cheerful - Both!
 1. How to be a curmudgeon in N easy steps.
-1. Anniversary essay for Michelle - Thirty years!
 1. David Feldman. One of the more interesting pickups from this series.
  Imponderables - clearly an area for a liberal arts
  student. Got Michelle through med school. Continues to be diverse
  in intersts - bridge, music, Posse, more. I'm still not sure why
- he reads my musings each day.
+ he reads my musings each day.  (He did write his own autobiographical.)
 1. Self-study - Institutional information. (Should Rietz be in the
  discussions of self studies?)
 1. Sedona - Best of breed?
@@ -93,6 +75,13 @@ Quick (?)
 *For the days in which I need to "dash off" an essay in order to meet
 my goals.*
 
+1. Woody Guthrie: Ballad of Jesse James, Jesus Christ.  Not the order
+I thought. I assumed that "Jesus Christ" was a classic melody and that
+Guthrie modified it for Jesse James.  But it's the other way around.
+(Probably doesn't help that I listen to Rum, Sodomy and the Lash way
+too much. <http://www.pogues.com/Releases/Lyrics/LPs/RumSodomy/Jesse.html>)  
+Perhaps call it "Getting it backwards?"
+
 1. Notes to myself.  "What was I thinking?"
 
 1. Facebook page edits.
@@ -150,8 +139,6 @@ schools vs closing schools)
 1. GrinCo, where we make you smile.
 
 1. Should I link these essays? (Make these essays more public.) 
-
-1. IDGaFF
 
 ---
 
@@ -471,7 +458,7 @@ Dodge Dart.)
 Grinnellians
 ------------
 
-1. Profiles I should write when I get back to the next month of profiles.*
+*Profiles I should write when I get back to the next month of profiles.*
 
 1. Rachel Bly '93
 
@@ -549,6 +536,8 @@ pamphlets)
 
 1. Brian Mitchell
 
+1. Claire Moisan
+
 1. Wayne Moyer
 
 1. Kumail Nanjiani '01
@@ -601,6 +590,8 @@ pamphlets)
 
 1. Tilly Woodward
 
+1. Ian Young
+
 ---
 
 Other People
@@ -611,7 +602,7 @@ will be public, though.*
 
 1. Jon Strymish.
 
-1. Michelle.
+1. Andy.
 
 1. Kathy (for mother's day)
 
@@ -619,7 +610,9 @@ will be public, though.*
 
 1. Lloyd (for Father's Day)
 
-1. The boys (private)
+1. Jonathan (private)
+
+1. Daniel (private).
 
 1. Chuck (private)
 
