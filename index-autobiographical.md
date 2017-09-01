@@ -131,7 +131,7 @@ About SamR
 
 > Screwing things up, once again.
 
-[Shandow](shadow) (Musing #415)
+[Shadow](shadow) (Musing #415)
 
 > My mother-in-law's dog.
 
