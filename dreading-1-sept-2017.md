@@ -53,7 +53,7 @@ we achieve what we want from the course.  SIGCSE submissions are
 six pages [8].
 
 _A paper submission for SIGCSE with my students on their "Craft of Code"
-camp.  They also worked hard on this camp.  In choosing which one to
+camp._  They also worked hard on this camp.  In choosing which one to
 focus on, they chose the data science one.  But it would be good to 
 write up this one, too.  You learn by writing.  
 
@@ -114,4 +114,6 @@ are better than that.
 
 ---
 
-*Version 1.0 of 2017-08-27.*
+*Version 1.0 posted on 2017-08-27.*
+
+*Version 1.0.1 of 2017-09-02.*
