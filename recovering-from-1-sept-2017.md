@@ -3,7 +3,7 @@ Recovering from September 1
 
 In [a recent musing](dreading-1-sept-2017), I wrote about the wide
 variety of things that I had to write before September 1.  I've now
-made it to September 2.  Let's see where we are on all of this.
+made it past that date.  Let's see where I got on all of the tasks.
 
 _A tenure/promotion review for a colleague at another institution_.
 Amazingly, I finished a strong draft early so that I would have some
@@ -26,23 +26,25 @@ Friday's reading on Documentation.  **Failed!**
 _A paper submission for SIGCSE [1] with my students on the "Data Science
 for Social Good" code camp._  My students worked hard on this paper and
 even had a schedule in which a draft would be ready on Tuesday night.
-But they had trouble writing.  I had trouble finding time to write
-this paper [2].  And so when I sat down to finish it on the evening
-of September 1, there was a *lot* of work left to do.  Plus, I had
-to get it to format with the new ACM LaTeX style [3].  I wrote a lot.
-The final paper has about 4,500 words.  The "vomit draft" [5] that they
-wrote had 3,000.  But I edited a lot of the words.  Counting those words
-is hard.  Let's pretend that I wrote 3,000.  **Done!**
+But they had trouble writing.  I also had trouble finding time to write
+my part of the paper [2].  And so when I sat down to finish it on the
+evening of September 1, there was a *lot* of work left to do.  Plus, I
+had to get it to format with the new ACM LaTeX style [3].  I wrote a lot.
+Even though it was later than I would have liked, we got something
+done that reasonably represents our work.  The final paper has about
+4,500 words.  The "vomit draft" [5] that they wrote had 3,000.  But I
+edited a lot of the words.  Counting those words is hard.  Let's pretend
+that I wrote 3,000.  **Done!**
 
-_An application for an Obermann Fellowship_.  I'm not sure what the odds
-are that I can get an Obermann Fellowship, but it's worth a try to have
-a semester to work on a new, digital-humanities focused, CSC 151.  The
-four or so pages took a few hours.  Rewriting after valuable feedback 
+_An application for an Obermann Fellowship_.  I'm not sure what the
+odds are that I can get an Obermann Fellowship, but it's worth a try to
+have a semester to work on a new, digital-humanities focused, CSC 151.
+The four or so pages took a few hours.  Rewriting after valuable feedback
 took a few more.  And cutting the CV down from seventeen pages to five
-was an interesting exercise.  I submitted this at about 5:30 p.m. on
-the due date.  I got an immediate email reply: "I am out of the office
-until Tuesday".  Why was this due on Friday, anyway?  This was 2,500
-words.  **Done!**
+was an interesting exercise.  I submitted this at about 5:30 p.m. on the
+due date.  I got an immediate email reply: "I am out of the office until
+Tuesday".  Why was this due on Friday, anyway?  This was 2,500 words.
+I realized a day later that I had a typo or two.  Oh well.  **Done!**
 
 _My musing on "[one year of daily musings](one-year)"_.  I felt a bit
 bad working on this rather than on my students' paper.  But I knew
@@ -52,11 +54,21 @@ I always do my SIGCSE papers at the last second.   This musing was
 musings](thirteen-months)" [6] was another 1,100 words.  **Done!**
 
 _A paper submission for SIGCSE with my colleagues on our new functional
-data-science-oriented introduction to computer science._  I don't envy
-my colleagues.  I didn't warn them I was going to put them on the paper,
-or even that I was going to write the paper.  They offered to help.  I
-turned it down.  And the draft got done at the last minute.  Or maybe
-it didn't get done. **???**
+data-science-oriented introduction to computer science, which I have
+decided to refer to as DataCSCi._  I don't envy my colleagues.  I didn't
+warn them I was going to put them on the paper, or even that I was going
+to write the paper. But they are co-authors because we had worked on
+the design of the course together.  They learned that when I submitted
+the abstract a week ago.  They offered to help.  I turned it down.  And,
+as hard as I tried, I did not finish by September 1.  But they were busy
+this week and so was I.  I thought that was it.  And then I got a note
+from the conference organizers that they were extending the deadline by
+a day.  So I finished the paper.  Another 5,000 words written.  And I've
+not only had the opportunity to think more carefully about the course,
+I've also come up with much of the text for a reading for the course on
+data science.  If this paper gets accepted [7], we will work together
+on getting something that better represents our collective viewpoint.
+**Done!**
 
 _A paper submission for SIGCSE with my students on their "Craft of Code"
 camp._  While the students worked hard on this camp, none of us had time
@@ -64,43 +76,49 @@ to work hard on this paper.  I don't think anything got drafted.  So,
 by the time I finished dealing with the data science for social good
 camp, I decided to withdraw this one.  **Withdrawn!**
 
-_Bidding on papers for SIGCSE_.  I'm not surethat I'm up to bidding.  I
-realize that if I don't bid, I'll probably get the dregs.  But someone
-has to get the dregs.  And I find that I learn something even when I 
-meta-review weak papers.  **Dropped**
+_Bidding on papers for SIGCSE_.  I'm not sure that I'm up to bidding.
+I realize that if I don't bid, I'll probably get the dregs.  But someone
+has to get the dregs.  And I find that I learn something even when I
+meta-review weak papers.  **Skipped!**
 
-How much did I write over the past five days, not including some of the
-musings?  Let's see ... 1,600 + 3,000 + 1,300 + 1,500 + 1,500 + 3,000 +
-2,500 + 1,400 + 1,100 + ???.  That's 16,900 + ??? words.  Not too shabby.
-And that doesn't count most of the musings, including the 1,100 or so
-words in this musing.
+How much did I write over the past week, including the two "end of time
+period" musings, but not including the others?  Let's see ... 1,600 +
+3,000 + 1,300 + 1,500 + 1,500 + 3,000 + 2,500 + 1,400 + 1,100 + 5,000.
+That's 21,900 words, or about the length of a short novella.  Not too
+shabby.  And that doesn't count most of the musings, including the 1,100
+or so words in this musing.
 
+Even though I wrote a lot last week, I am not done with writing.  
 What comes next?
 
-_Another week of readings for CSC 151_.  Let's see ... that week includes
-the delayed work on documentation, testing, debugging, and tables and
-compound data [n].  For the reading on documentation, I can probably
-borrow from a past reading.  The testing reading will probably need to 
-be new or at least the lab will; there was a lab that worked great in
-concept and horribly in practice.  I had revised it to one that worked
-reasonably well in practice, but that one depends on various color procedures
-that we are not teaching this semester.  The debugging reading is brand
-new.  I also have to learn how to debug in DrRacket [n].  And the tables
-and compound data reading is completely new.  Oh, I should probably write
-something about data science, too.
-
-[n] I'm not really a debugger person.  I like to look at my code and 
-think through what the issues might be.  But I think students benefit
-from good debuggers.
-
-[n] "tables and compound data" is a single reading.
+_Another week of readings for CSC 151_.  Let's see ... the week of
+September 11 includes work on testing, debugging, and tables and
+compound data [8].  I try to work a week ahead, so that needs to get done
+soon.  It also includes the delayed work on documentation from above For
+the reading on documentation, I can probably borrow from a past reading.
+The testing reading will probably need to be new or at least the lab will;
+there was a lab that worked great in concept and horribly in practice.
+I had revised it to one that worked reasonably well in practice, but
+that one depends on various color procedures that we are not teaching
+this semester.  The debugging reading is brand new.  I also have to
+learn how to debug in DrRacket [9].  And the tables and compound data
+reading is completely new.  Oh, I should probably write something about
+data science, too [10].
 
 _Delayed proposals to send students to Tapia_.  We've bought the tickets
 under the assumption that I'll find funding.  I should apply for that 
-funding asap.
+funding asap.  I have two forms to go to the Dean's office and one to 
+go to the Wilson program.
 
-And there's a host of non-writing tasks.  But at least there aren't 
-deadlines, other than self-imposed deadlines.
+_Regular musings_.  The two SIGCSE papers ate my time Friday night and
+Saturday night.  But I'm back to musing and I'll need to keep it up.
+
+Hmmm ... it feels like I'm missing something.  Oh well, I'll figure it
+out later.  Maybe some day I'll have a real to-do list system.
+
+I mustn't forget that there is a host of non-writing tasks, such as
+grading and normal class prep.  But at least there aren't deadlines for
+large tasks, other than self-imposed deadlines [11].
 
 ---
 
@@ -124,6 +142,21 @@ since it first came out.
 
 [6] Don't ask.
 
+[7] SIGCSE has an acceptance rate of about 30%.
+
+[8] "tables and compound data" is a single reading.
+
+[9] I'm not really a debugger person.  I like to look at my code and 
+think through what the issues might be.  But I think students benefit
+from good debuggers.
+
+[10] Fortunately, much of the data science reading is contained somewhere
+in the SIGCSE paper.
+
+[11] I have "natural" deadlines for many small tasks.  Class prep needs
+to get done before class.  Assignments have to be written before they
+are distributed.
+
 ---
 
-*Version 0.1 of 2017-09-02.*
+*Version 1.0 of 2017-09-03.*

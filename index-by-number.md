@@ -562,3 +562,7 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 ## 431-440
 
 [Why Scheme?](why-scheme-2017-08-30) (Musing #431).  
+[Thirteen months of daily musings](thirteen-months) (Musing #432)  
+[One year of nearly-daily musings](one-year) (Musing #433)  
+[Recovering from 1 September 2017](recovering-from-1-sept-2017) (Musing #434)  
+[Get Outlook for iOS](get-outlook) (Musing #435)  

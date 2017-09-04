@@ -215,6 +215,14 @@ Essays on writing, or at least on writing my essays
 
 > The last musing of a day of musings (or is that a day of musing).
 
+[Thirteen months of daily musings](thirteen-months) (Musing #432)
+
+> Annother anniversary.
+
+[One year of nearly-daily musings](one-year) (Musing #433)
+
+> And a related anniversary.
+
 For prospective students, parents of prospective students, and others with similar interests
 --------------------------------------------------------------------------------------------
 
@@ -726,6 +734,10 @@ Why Grinnell staff with Ph.D's should be allowed to teach.
 
 > Why do people continue to expect that I use a browser that does not exist for my operating systems?
 
+[Get Outlook for iOS](get-outlook) (Musing #435)
+
+> Why shill for a felon?
+
 Assorted talks and speeches
 ---------------------------
 
@@ -836,6 +848,10 @@ Overcommitment
 [Dreading September 1](dreading-1-sept-2017) (Musing #427)
 
 > Too many projects, too little time.
+
+[Recovering from 1 September 2017](recovering-from-1-sept-2017) (Musing #434)
+
+> Which of those projects got done.
 
 On teaching online
 ------------------

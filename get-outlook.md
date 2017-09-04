@@ -2,11 +2,13 @@ Get Outlook for iOS!
 ====================
 
 A surprising number of the messages I receive from students end with the
-line ``Get Outlook for iOS''.
+line ``Get Outlook for iOS''.  The strangest time was in response to
+a survey I sent out to the class asking ``What will you do to be more
+successful on the exam next time?''  
 
-I'm always tempted to respond "**No thank you.  And why would you make 
-such a suggestion?  Don't you know that I generally avoid Microsoft products
-when I can [1]?**"
+Except in cases like that, I'm tempted to respond "**No thank you.
+And why would you make such a suggestion?  Don't you know that I generally
+avoid Microsoft products when I can [1]?**"  
 
 But then I realize that they probably didn't actually write that
 suggestion.  It's probably not that they are being paid to shill for
@@ -26,26 +28,44 @@ would be useful for me to use Outlook for iOS and, more particularly,
 why it is preferable to the default mail application on iOS.  For example,
 does it support PGP [3]?
 
-But that seems a bit over the top, even for me.  Maybe I should let
-it go.
+But that seems a bit over the top, even for me.  Alternately,
+
+> I'm not sure why you are shilling for Microsoft without receiving
+any compensation.  If you'd like to change your default signature
+in Outlook for iOS to something other than that advertisement, (1) click
+on the hamburger menu in the upper-left-hand corner, (2) click on the
+gear icon in the lower-left-hand corner, (3) click on "Signature", and
+(4) enter a new signature.
+
+Maybe I should let it go.
 
 Or maybe I should even consider using Outlook for iOS.
 After all, [at least one 'blog calls it the best iPhone mail
 app](https://thesweetsetup.com/apps/the-best-third-party-email-app-for-ios/)
-
-Perhaps I should say.
+If I do that, I might even end up replying.
 
 > Thank you for that amazing recommendation.  I never would have
-considered using Outlook for iOS without the constant reminders in
-your email messages.  Using Outlook for iOS has transformed my life
+considered using Outlook for iOS without the constant reminders like
+this I have received.  Using Outlook for iOS has transformed my life
 and my phone.  Thank you thank you thank you.
 
 But that would require me to try it.  And, well, I'm not all that
 inclined to play around with new software this semester.  Maybe some
-other day.
+other day.  
 
-Get _insert name of software product_ for _insert name of operating
+---
+
+How should I end this musing?  Here's one attempt.
+
+> Get _insert name of software product_ for _insert name of operating
 system_!
+
+Here's another.
+
+> Get Outlook for iOS!  Put a felon on your phone.
+
+Maybe I'll use the latter as my signature if I ever switch to 
+Outlook for iOS.
 
 ---
 

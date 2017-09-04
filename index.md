@@ -7,8 +7,10 @@ Some are rants about topics I'm passionate about.  Some are explanations
 of how I approach the world.  Some are just my attempts to think through
 a topic.
 
-Latest musing:
-[Why Scheme?](why-scheme-2017-08-30) (Musing #431).
+Latest musings:
+[Recovering from 1 September 2017](recovering-from-1-sept-2017) (Musing #434)
+and
+[Get Outlook for iOS](get-outlook) (Musing #435).
 
 [Musings, by number](index-by-number) 
 

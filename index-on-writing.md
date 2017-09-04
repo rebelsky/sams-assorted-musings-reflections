@@ -212,3 +212,11 @@ Essays on writing, or at least on writing my essays
 
 > The last musing of a day of musings (or is that a day of musing).
 
+[Thirteen months of daily musings](thirteen-months) (Musing #432)
+
+> Annother anniversary.
+
+[One year of nearly-daily musings](one-year) (Musing #433)
+
+> And a related anniversary.
+

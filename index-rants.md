@@ -188,3 +188,7 @@ Why Grinnell staff with Ph.D's should be allowed to teach.
 
 > Why do people continue to expect that I use a browser that does not exist for my operating systems?
 
+[Get Outlook for iOS](get-outlook) (Musing #435)
+
+> Why shill for a felon?
+

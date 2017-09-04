@@ -60,3 +60,7 @@ Overcommitment
 
 > Too many projects, too little time.
 
+[Recovering from 1 September 2017](recovering-from-1-sept-2017) (Musing #434)
+
+> Which of those projects got done.
+
