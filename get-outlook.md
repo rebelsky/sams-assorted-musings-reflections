@@ -2,13 +2,18 @@ Get Outlook for iOS!
 ====================
 
 A surprising number of the messages I receive from students end with the
-line ``Get Outlook for iOS''.  The strangest time was in response to
-a survey I sent out to the class asking ``What will you do to be more
-successful on the exam next time?''  
+line "Get Outlook for iOS".  The strangest time was in response to
+a survey I sent out to the class asking "What will you do to be more
+successful on the next exam?"
 
-Except in cases like that, I'm tempted to respond "**No thank you.
-And why would you make such a suggestion?  Don't you know that I generally
-avoid Microsoft products when I can [1]?**"  
+Except in cases like that, I'm tempted to respond,
+
+> No thank you.  And why would you make such a suggestion?  Don't you
+know that I generally avoid Microsoft products when I can [1]?
+
+I'm also tempted to suggest an update.
+
+> Get Outlook for iOS!  Put a felon on your phone.
 
 But then I realize that they probably didn't actually write that
 suggestion.  It's probably not that they are being paid to shill for
@@ -41,7 +46,7 @@ Maybe I should let it go.
 
 Or maybe I should even consider using Outlook for iOS.
 After all, [at least one 'blog calls it the best iPhone mail
-app](https://thesweetsetup.com/apps/the-best-third-party-email-app-for-ios/)
+app](https://thesweetsetup.com/apps/the-best-third-party-email-app-for-ios/).
 If I do that, I might even end up replying.
 
 > Thank you for that amazing recommendation.  I never would have
@@ -49,23 +54,11 @@ considered using Outlook for iOS without the constant reminders like
 this I have received.  Using Outlook for iOS has transformed my life
 and my phone.  Thank you thank you thank you.
 
-But that would require me to try it.  And, well, I'm not all that
-inclined to play around with new software this semester.  Maybe some
-other day.  
+But that would require me to try Outlook for iOS.  And, well, I'm
+not all that inclined to play around with new software this semester.
+Maybe some other day.
 
----
-
-How should I end this musing?  Here's one attempt.
-
-> Get _insert name of software product_ for _insert name of operating
-system_!
-
-Here's another.
-
-> Get Outlook for iOS!  Put a felon on your phone.
-
-Maybe I'll use the latter as my signature if I ever switch to 
-Outlook for iOS.
+**Get _software product_ for _operating system_!**
 
 ---
 
@@ -82,4 +75,4 @@ asking.
 
 ---
 
-*Version 1.0 of 2017-09-03.*
+*Version 1.0.1 of 2017-09-03.*
