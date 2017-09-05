@@ -64,3 +64,8 @@ Overcommitment
 
 > Which of those projects got done.
 
+[Making bad choices, small and large](bad-choices-2017-09-04) (Musing #436)
+
+> Helping students rather than writing stuff.  Is that really such a
+  bad choice?
+

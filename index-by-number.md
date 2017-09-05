@@ -566,3 +566,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [One year of nearly-daily musings](one-year) (Musing #433)  
 [Recovering from 1 September 2017](recovering-from-1-sept-2017) (Musing #434)  
 [Get Outlook for iOS](get-outlook) (Musing #435)  
+[Making bad choices, small and large](bad-choices-2017-09-04) (Musing #436)  
