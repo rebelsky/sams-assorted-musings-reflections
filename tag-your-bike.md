@@ -25,6 +25,13 @@ Bikes To You did have the serial number.  Fingers crossed [4]!
 
 ---
 
+A student reader reminded me that even with a tag, they are unlikely to be
+able to recover your bike.  However, tags do help with the all-too-common
+situation of someone deciding to "borrow" your bike to get somewhere
+else on campus or in town.
+
+---
+
 [1] Campus Safety is the office formerly known as "Campus Safety and
 Security" and before that as "Security".  The hope is that by renaming,
 we make it seem less intimidating to those who have had less-than-positive
@@ -41,5 +48,7 @@ bike magically shows up.
 
 ---
 
-*Version 1.0 of 2017-09-06.*
+*Version 1.1 of 2017-09-07.*
+
+*Version 1.0 posted 2017-09-06.*
 
