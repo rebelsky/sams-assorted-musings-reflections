@@ -9,7 +9,7 @@ Here's a small one.  Tonight, I decided to do some work in my office.
 But when I do work in my office, students see me and ask questions.
 Some of the questions were a lot of fun.  For example, I enjoyed helping
 students think through an inductive proof [2], even though I gave some
-bad advice along the way.  And I even enjoyed helping a slew of CSC 151
+bad advice along the way [3].  And I even enjoyed helping a slew of CSC 151
 students with an assortment of problems.
 
 But, well, when I'm helping students individually, I'm not getting my
@@ -40,4 +40,6 @@ leads to the need for them, at least in my case.
 
 ---
 
-*Version 1.0 of 2017-09-04.*
+*Version 1.0 released 2017-09-04.*
+
+*Version 1.0.1 of 2017-09-06.*

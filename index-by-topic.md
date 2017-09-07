@@ -428,6 +428,10 @@ Why a good computer science education includes much more than computer science
 
 > The title says it all.
 
+[Tag your bike: Some advice to students](tag-your-bike) (Musing #438)
+
+> This title says it all, too.
+
 For alumni and others who donate to the department
 --------------------------------------------------
 
@@ -858,6 +862,10 @@ Overcommitment
 > Helping students rather than writing stuff.  Is that really such a
   bad choice?
 
+[Making bad choices, or perhaps good choices](bad-choices-2017-09-06) (Musing #437)
+
+> Getting sleep rather than doing work.  Is that really such a bad choice?
+
 On teaching online
 ------------------
 
@@ -1101,6 +1109,10 @@ A new CSC 151
 [A new CSC 151, revisited](new-csc151-2017-08-07) (Musing #405)
 
 > More thoughts.
+
+[Writing about documentation](csc151-documentation) (Musing #439)
+
+> One of the sections I rewrote this semester.
 
 Grinnellians you should know (or know about)
 --------------------------------------------

@@ -69,3 +69,7 @@ Overcommitment
 > Helping students rather than writing stuff.  Is that really such a
   bad choice?
 
+[Making bad choices, or perhaps good choices](bad-choices-2017-09-06) (Musing #437)
+
+> Getting sleep rather than doing work.  Is that really such a bad choice?
+

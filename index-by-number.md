@@ -567,3 +567,6 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Recovering from 1 September 2017](recovering-from-1-sept-2017) (Musing #434)  
 [Get Outlook for iOS](get-outlook) (Musing #435)  
 [Making bad choices, small and large](bad-choices-2017-09-04) (Musing #436)  
+[Making bad choices, or perhaps good choices](bad-choices-2017-09-06) (Musing #437)  
+[Tag your bike: Some advice to students](tag-your-bike) (Musing #438)  
+[Writing about documentation](csc151-documentation) (Musing #439)  

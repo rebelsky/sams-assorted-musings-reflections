@@ -114,3 +114,7 @@ Why a good computer science education includes much more than computer science
 
 > The title says it all.
 
+[Tag your bike: Some advice to students](tag-your-bike) (Musing #438)
+
+> This title says it all, too.
+

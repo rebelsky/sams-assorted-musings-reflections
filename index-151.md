@@ -9,3 +9,7 @@ A new CSC 151
 
 > More thoughts.
 
+[Writing about documentation](csc151-documentation) (Musing #439)
+
+> One of the sections I rewrote this semester.
+
