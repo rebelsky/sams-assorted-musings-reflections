@@ -866,6 +866,10 @@ Overcommitment
 
 > Getting sleep rather than doing work.  Is that really such a bad choice?
 
+[Planning ahead](plan-ahead-2017-09-07) (Musing #440)
+
+> Avoiding my current situation.
+
 On teaching online
 ------------------
 

@@ -570,3 +570,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Making bad choices, or perhaps good choices](bad-choices-2017-09-06) (Musing #437)  
 [Tag your bike: Some advice to students](tag-your-bike) (Musing #438)  
 [Writing about documentation](csc151-documentation) (Musing #439)  
+[Planning ahead](plan-ahead-2017-09-07) (Musing #440)  

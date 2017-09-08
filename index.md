@@ -7,10 +7,8 @@ Some are rants about topics I'm passionate about.  Some are explanations
 of how I approach the world.  Some are just my attempts to think through
 a topic.
 
-Latest musings:
-[Making bad choices, or perhaps good choices](bad-choices-2017-09-06) (Musing #437),
-[Tag your bike: Some advice to students](tag-your-bike) (Musing #438), and
-[Writing about documentation](csc151-documentation) (Musing #439)
+Latest musing:
+[Planning ahead](plan-ahead-2017-09-07) (Musing #440)
 
 [Musings, by number](index-by-number) 
 
