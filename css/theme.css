@@ -10,6 +10,10 @@ blockquote p {
   font-size: 15px;
 }
 
+blockquote li {
+  font-size: 15px;
+}
+
 div.footer {
   font-size: 13px;
 }
