@@ -791,6 +791,10 @@ Thank-You Notes
 
 > A note to my Dean and President.
 
+[Thankful for President Kington](thank-you-raynard-2017-09-08) (Musing #441)
+
+> Another note to my (college) president.
+
 Overcommitment
 --------------
 
@@ -1643,6 +1647,10 @@ About SamR
 [Thirty years](thirty-years) (Musing #430)
 
 > Happy thirtieth anniversary, Michelle!
+
+[How are you, Sam?](how-are-you-2017-09-08) (Musing #442)
+
+> A new/old answer.
 
 ROF musings
 -----------

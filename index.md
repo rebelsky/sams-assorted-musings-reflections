@@ -7,8 +7,10 @@ Some are rants about topics I'm passionate about.  Some are explanations
 of how I approach the world.  Some are just my attempts to think through
 a topic.
 
-Latest musing:
-[Planning ahead](plan-ahead-2017-09-07) (Musing #440)
+Latest musings:
+[Thankful for President Kington](thank-you-raynard-2017-09-08) (Musing #441)
+and
+[How are you, Sam?](how-are-you-2017-09-08) (Musing #442)
 
 [Musings, by number](index-by-number) 
 

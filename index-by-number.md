@@ -571,3 +571,8 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Tag your bike: Some advice to students](tag-your-bike) (Musing #438)  
 [Writing about documentation](csc151-documentation) (Musing #439)  
 [Planning ahead](plan-ahead-2017-09-07) (Musing #440)  
+
+## 441-450
+
+[Thankful for President Kington](thank-you-raynard-2017-09-08) (Musing #441)  
+[How are you, Sam?](how-are-you-2017-09-08) (Musing #442)  

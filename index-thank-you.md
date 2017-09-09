@@ -20,3 +20,7 @@ Thank-You Notes
 
 > A note to my Dean and President.
 
+[Thankful for President Kington](thank-you-raynard-2017-09-08) (Musing #441)
+
+> Another note to my (college) president.
+

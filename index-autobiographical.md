@@ -159,3 +159,7 @@ About SamR
 
 > Happy thirtieth anniversary, Michelle!
 
+[How are you, Sam?](how-are-you-2017-09-08) (Musing #442)
+
+> A new/old answer.
+
