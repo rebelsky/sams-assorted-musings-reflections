@@ -172,6 +172,9 @@ expressed in this too-long commentary.
 
 [1] A former chair of the faculty tells me that I'm incorrect.  In fact,
 the point of the tags was to provide some information for assessment.
+Another faculty member active in the tagging movement supports my view
+that the primary goal was for advising.  In the end, I expect that both
+issues were at play.
 
 [2] I should note that it's the Curriculum Committee, rather than the
 Dean's Office, that proposed the list of topics.  In some areas, shared
@@ -224,5 +227,5 @@ ignores or twists faculty legislation.
 ---
 *Version 1.0 released on 2017-09-09.*
 
-*Version 1.1 of 2017-09-09.*
+*Version 1.2 of 2017-09-10.*
 
