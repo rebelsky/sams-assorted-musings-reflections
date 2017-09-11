@@ -577,4 +577,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Thankful for President Kington](thank-you-raynard-2017-09-08) (Musing #441)  
 [How are you, Sam?](how-are-you-2017-09-08) (Musing #442)  
 [Course tags](course-tags-2017-09-09) (Musing #443)  
-[Too many (lists of) goals](http://www.cs.grinnell.edu/~rebelsky/musings/too-many-goals-2017-09-10) (Musing #444)  
+[Too many (lists of) learning goals](http://www.cs.grinnell.edu/~rebelsky/musings/too-many-goals-2017-09-10) (Musing #444)  

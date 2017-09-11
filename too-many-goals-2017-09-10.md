@@ -1,5 +1,5 @@
-Too many (lists of) goals
-=========================
+Too many (lists of) learning goals
+==================================
 
 In reflecting on [course tags](course-tags-2017-09-09), I found myself
 realizing that we have way too many lists of learning outcomes and
