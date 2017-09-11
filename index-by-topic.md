@@ -742,6 +742,10 @@ Why Grinnell staff with Ph.D's should be allowed to teach.
 
 > Why shill for a felon?
 
+[Course tags](course-tags-2017-09-09) (Musing #443)
+
+> A good idea misused (not mused).
+
 Assorted talks and speeches
 ---------------------------
 
@@ -2061,6 +2065,10 @@ Almost everything else
 [The eclipse](eclipse-2017-08-26) (Musing #422)
 
 > My experience trying to see a total eclipse in 2017.
+
+[Too many (lists of) goals](http://www.cs.grinnell.edu/~rebelsky/musings/too-many-goals-2017-09-10) (Musing #444)
+
+> What do we try to teach, anyway?
 
 Musings with multiple entries
 -----------------------------

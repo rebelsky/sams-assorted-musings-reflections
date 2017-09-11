@@ -7,10 +7,8 @@ Some are rants about topics I'm passionate about.  Some are explanations
 of how I approach the world.  Some are just my attempts to think through
 a topic.
 
-Latest musings:
-[Thankful for President Kington](thank-you-raynard-2017-09-08) (Musing #441)
-and
-[How are you, Sam?](how-are-you-2017-09-08) (Musing #442)
+Latest musing:
+[Too many (lists of) goals](http://www.cs.grinnell.edu/~rebelsky/musings/too-many-goals-2017-09-10) (Musing #444)
 
 [Musings, by number](index-by-number) 
 

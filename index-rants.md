@@ -192,3 +192,7 @@ Why Grinnell staff with Ph.D's should be allowed to teach.
 
 > Why shill for a felon?
 
+[Course tags](course-tags-2017-09-09) (Musing #443)
+
+> A good idea misused (not mused).
+
