@@ -578,3 +578,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [How are you, Sam?](how-are-you-2017-09-08) (Musing #442)  
 [Course tags](course-tags-2017-09-09) (Musing #443)  
 [Too many (lists of) learning goals](http://www.cs.grinnell.edu/~rebelsky/musings/too-many-goals-2017-09-10) (Musing #444)  
+[Embracing three-by-eighty](eighty-minutes-2017-09-11) (Musing #445)  

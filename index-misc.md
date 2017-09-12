@@ -401,3 +401,7 @@ Almost everything else
 
 > What do we try to teach, anyway?
 
+[Embracing three-by-eighty](eighty-minutes-2017-09-11) (Musing #445)
+
+> My new favorite class block.
+
