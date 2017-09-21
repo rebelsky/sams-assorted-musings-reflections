@@ -7,8 +7,10 @@ Some are rants about topics I'm passionate about.  Some are explanations
 of how I approach the world.  Some are just my attempts to think through
 a topic.
 
-Latest musing:
-[Embracing three-by-eighty](eighty-minutes-2017-09-11) (Musing #445)
+Latest musings:
+[Where have you been?](where-have-you-bben-2017-09-20) (Musing #446)
+and
+[We are all shipwrecks](we-are-all-shipwrecks) (Musing #447)
 
 [Musings, by number](index-by-number) 
 

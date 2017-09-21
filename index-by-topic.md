@@ -878,6 +878,10 @@ Overcommitment
 
 > Avoiding my current situation.
 
+[Where have you been?](where-have-you-bben-2017-09-20) (Musing #446)
+
+> Behind.
+
 On teaching online
 ------------------
 
@@ -2073,6 +2077,10 @@ Almost everything else
 [Embracing three-by-eighty](eighty-minutes-2017-09-11) (Musing #445)
 
 > My new favorite class block.
+
+[We are all shipwrecks](we-are-all-shipwrecks) (Musing #447)
+
+> Traveling to hear a book reading.
 
 Musings with multiple entries
 -----------------------------
