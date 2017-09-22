@@ -8,9 +8,7 @@ of how I approach the world.  Some are just my attempts to think through
 a topic.
 
 Latest musing:
-[Where have you been?](where-have-you-been-2017-09-20) (Musing #446)
-and
-[We are all shipwrecks](we-are-all-shipwrecks) (Musing #447)
+[A computer scientist's perspective on introductory data science](intro-datacsci) (Musing #448)
 
 [Musings, by number](index-by-number) 
 

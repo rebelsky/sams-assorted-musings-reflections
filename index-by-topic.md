@@ -1130,6 +1130,10 @@ A new CSC 151
 
 > One of the sections I rewrote this semester.
 
+[A computer scientist's perspective on introductory data science](intro-datacsci) (Musing #448)
+
+> What should have been the introduction to the course.
+
 Grinnellians you should know (or know about)
 --------------------------------------------
 

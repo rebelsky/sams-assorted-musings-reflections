@@ -581,3 +581,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Embracing three-by-eighty](eighty-minutes-2017-09-11) (Musing #445)  
 [Where have you been?](where-have-you-been-2017-09-20) (Musing #446)  
 [We are all shipwrecks](we-are-all-shipwrecks) (Musing #447)  
+[A computer scientist's perspective on introductory data science](intro-datacsci) (Musing #448)  
