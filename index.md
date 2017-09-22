@@ -7,8 +7,8 @@ Some are rants about topics I'm passionate about.  Some are explanations
 of how I approach the world.  Some are just my attempts to think through
 a topic.
 
-Latest musings:
-[Where have you been?](where-have-you-bben-2017-09-20) (Musing #446)
+Latest musing:
+[Where have you been?](where-have-you-been-2017-09-20) (Musing #446)
 and
 [We are all shipwrecks](we-are-all-shipwrecks) (Musing #447)
 

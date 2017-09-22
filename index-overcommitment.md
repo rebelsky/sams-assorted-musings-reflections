@@ -77,7 +77,7 @@ Overcommitment
 
 > Avoiding my current situation.
 
-[Where have you been?](where-have-you-bben-2017-09-20) (Musing #446)
+[Where have you been?](where-have-you-been-2017-09-20) (Musing #446)
 
 > Behind.
 
