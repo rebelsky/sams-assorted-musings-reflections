@@ -8,7 +8,7 @@ of how I approach the world.  Some are just my attempts to think through
 a topic.
 
 Latest musing:
-[A computer scientist's perspective on introductory data science](intro-datacsci) (Musing #448)
+[Watching terms lose their meaning: Algorithm](losing-meaning-algorithm) (Musing #449)
 
 [Musings, by number](index-by-number) 
 

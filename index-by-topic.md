@@ -2086,6 +2086,10 @@ Almost everything else
 
 > Traveling to hear a book reading.
 
+[Watching terms lose their meaning: Algorithm](losing-meaning-algorithm) (Musing #449)
+
+> Frustrated at seeing a term coopted.
+
 Musings with multiple entries
 -----------------------------
 
