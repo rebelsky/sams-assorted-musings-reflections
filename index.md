@@ -7,10 +7,8 @@ Some are rants about topics I'm passionate about.  Some are explanations
 of how I approach the world.  Some are just my attempts to think through
 a topic.
 
-Latest musings:
-[Grinnell things I don't understand: Student meal stipends](grinnell-things-i-dont-understand-student-meal-stipends) (Musing #450)
-and
-[Grinnell things I don't understand: Accounting practices](grinnell-things-i-dont-understand-accounting-practices) (Musing #451).
+Latest musing:
+[Recovering from Tapia 2017](recovering-from-tapia-2017) (Musing #452).
 
 [Musings, by number](index-by-number) 
 

@@ -81,3 +81,7 @@ Overcommitment
 
 > Behind.
 
+[Recovering from Tapia 2017](recovering-from-tapia-2017) (Musing #452)
+
+> Putting myself more behind.
+
