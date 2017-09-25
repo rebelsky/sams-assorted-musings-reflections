@@ -570,7 +570,7 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Making bad choices, or perhaps good choices](bad-choices-2017-09-06) (Musing #437)  
 [Tag your bike: Some advice to students](tag-your-bike) (Musing #438)  
 [Writing about documentation](csc151-documentation) (Musing #439)  
-[Planning ahead](plan-ahead-2017-09-07) (Musing #440)  
+[Grinnell things I don't understand: Student meal stipends](grinnell-things-i-dont-understand-student-meal-stipends) (Musing #440)  
 
 ## 441-450
 
@@ -583,3 +583,7 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [We are all shipwrecks](we-are-all-shipwrecks) (Musing #447)  
 [A computer scientist's perspective on introductory data science](intro-datacsci) (Musing #448)  
 [Watching terms lose their meaning: Algorithm](losing-meaning-algorithm) (Musing #449)  
+
+## 451-460
+
+[Grinnell things I don't understand: Accounting practices](grinnell-things-i-dont-understand-accounting-practices) (Musing #451)  

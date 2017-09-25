@@ -746,6 +746,14 @@ Why Grinnell staff with Ph.D's should be allowed to teach.
 
 > A good idea misused (not mused).
 
+[Grinnell things I don't understand: Student meal stipends](grinnell-things-i-dont-understand-student-meal-stipends) (Musing #440)
+
+> Why do we charge more than we'll allow them to spend?
+
+[Grinnell things I don't understand: Accounting practices](grinnell-things-i-dont-understand-accounting-practices) (Musing #451)
+
+> Why can't *they* itemize?
+
 Assorted talks and speeches
 ---------------------------
 
