@@ -204,3 +204,7 @@ Why Grinnell staff with Ph.D's should be allowed to teach.
 
 > Why can't *they* itemize?
 
+[Words I hate: Relatable](words-i-hate-relatable) (Musing #453)
+
+> I don't relate.
+

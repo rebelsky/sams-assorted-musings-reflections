@@ -8,7 +8,7 @@ of how I approach the world.  Some are just my attempts to think through
 a topic.
 
 Latest musing:
-[Recovering from Tapia 2017](recovering-from-tapia-2017) (Musing #452).
+[Words I hate: Relatable](words-i-hate-relatable) (Musing #453).
 
 [Musings, by number](index-by-number) 
 

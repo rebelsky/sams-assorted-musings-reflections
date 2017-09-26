@@ -588,3 +588,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 
 [Grinnell things I don't understand: Accounting practices](grinnell-things-i-dont-understand-accounting-practices) (Musing #451)  
 [Recovering from Tapia 2017](recovering-from-tapia-2017) (Musing #452)  
+[Words I hate: Relatable](words-i-hate-relatable) (Musing #453)  
