@@ -7,8 +7,10 @@ Some are rants about topics I'm passionate about.  Some are explanations
 of how I approach the world.  Some are just my attempts to think through
 a topic.
 
-Latest musing:
-[Words I hate: Relatable](words-i-hate-relatable) (Musing #453).
+Latest musings:
+[Advising at Grinnell](advising-at-grinnell) (Musing #457)
+and
+[Writing to learn](writing-to-learn-2017-10-18) (Musing #458)
 
 [Musings, by number](index-by-number) 
 

@@ -589,3 +589,8 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Grinnell things I don't understand: Accounting practices](grinnell-things-i-dont-understand-accounting-practices) (Musing #451)  
 [Recovering from Tapia 2017](recovering-from-tapia-2017) (Musing #452)  
 [Words I hate: Relatable](words-i-hate-relatable) (Musing #453)  
+[I lied](i-lied) (Musing #454)  
+[On hiatus](on-hiatus-2017-10-03) (Musing #455)  
+[Fall break](fall-break-2017) (Musing #456)  
+[Advising at Grinnell](advising-at-grinnell) (Musing #457)  
+[Writing to learn](writing-to-learn-2017-10-18) (Musing #458)  

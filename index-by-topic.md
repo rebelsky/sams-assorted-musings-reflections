@@ -223,6 +223,14 @@ Essays on writing, or at least on writing my essays
 
 > And a related anniversary.
 
+[On hiatus](on-hiatus-2017-10-03) (Musing #455)
+
+> Pausing musing, not because I want to, but because I have to.
+
+[Writing to learn](writing-to-learn-2017-10-18) (Musing #458)
+
+> One of the important reasons that I write.
+
 For prospective students, parents of prospective students, and others with similar interests
 --------------------------------------------------------------------------------------------
 
@@ -758,6 +766,10 @@ Why Grinnell staff with Ph.D's should be allowed to teach.
 
 > I don't relate.
 
+[I lied](i-lied) (Musing #454)
+
+> How are you doing, Sam?
+
 Assorted talks and speeches
 ---------------------------
 
@@ -897,6 +909,11 @@ Overcommitment
 [Recovering from Tapia 2017](recovering-from-tapia-2017) (Musing #452)
 
 > Putting myself more behind.
+
+[Fall break](fall-break-2017) (Musing #456)
+
+> Break is a time to overcommit, or to clean up from overcommitment,
+  or both, or something like that.
 
 On teaching online
 ------------------
@@ -1398,6 +1415,11 @@ categories.*
 [Campus rumors](campus-rumors) (Musing #324)
 
 > Students come up with the strangest rumors.  But some might be true.
+
+[Advising at Grinnell](advising-at-grinnell) (Musing #457)
+
+> My response to a request from the Dean to reflect on advising at
+Grinnell.
 
 A letter to the incoming chair
 ------------------------------

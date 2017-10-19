@@ -208,3 +208,7 @@ Why Grinnell staff with Ph.D's should be allowed to teach.
 
 > I don't relate.
 
+[I lied](i-lied) (Musing #454)
+
+> How are you doing, Sam?
+

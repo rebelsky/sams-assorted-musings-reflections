@@ -105,3 +105,8 @@ categories.*
 
 > Students come up with the strangest rumors.  But some might be true.
 
+[Advising at Grinnell](advising-at-grinnell) (Musing #457)
+
+> My response to a request from the Dean to reflect on advising at
+Grinnell.
+

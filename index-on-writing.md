@@ -220,3 +220,11 @@ Essays on writing, or at least on writing my essays
 
 > And a related anniversary.
 
+[On hiatus](on-hiatus-2017-10-03) (Musing #455)
+
+> Pausing musing, not because I want to, but because I have to.
+
+[Writing to learn](writing-to-learn-2017-10-18) (Musing #458)
+
+> One of the important reasons that I write.
+

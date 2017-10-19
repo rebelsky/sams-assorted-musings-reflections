@@ -85,3 +85,8 @@ Overcommitment
 
 > Putting myself more behind.
 
+[Fall break](fall-break-2017) (Musing #456)
+
+> Break is a time to overcommit, or to clean up from overcommitment,
+  or both, or something like that.
+
