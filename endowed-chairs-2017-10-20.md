@@ -1,5 +1,5 @@
-Endowed chairs
-==============
+The price of endowed chairs
+===========================
 
 I know that our deparmtment is loved and appreciated because a group
 of alums has started a campaign to endow a chair in CS.  When last I
@@ -28,4 +28,4 @@ again by the time you read this.
 
 ---
 
-*Version 1.0 of 2017-10-20.*
+*Version 1.0.1 of 2017-10-20.*
