@@ -594,3 +594,10 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Fall break](fall-break-2017) (Musing #456)  
 [Advising at Grinnell](advising-at-grinnell) (Musing #457)  
 [Writing to learn](writing-to-learn-2017-10-18) (Musing #458)  
+[Feeling fortunate](feeling-fortunate-2017-10-20) (Musing #459)  
+[Experiencing SamR](experiencing-samr-2017-10-20) (Musing #460)  
+
+## 461-470
+
+[Endowed chairs](endowed-chairs-2017-10-20) (Musing #461)  
+[Weeknight concerts](weeknight-concerts-nov-2017) (Musing #462)  

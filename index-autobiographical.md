@@ -163,3 +163,7 @@ About SamR
 
 > A new/old answer.
 
+[Feeling fortunate](feeling-fortunate-2017-10-20) (Musing #459)
+
+> A better answer.
+

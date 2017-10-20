@@ -110,3 +110,7 @@ categories.*
 > My response to a request from the Dean to reflect on advising at
 Grinnell.
 
+[Endowed chairs](endowed-chairs-2017-10-20) (Musing #461)
+
+>  Wow, they're expensive.
+

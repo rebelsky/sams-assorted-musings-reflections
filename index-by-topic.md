@@ -1421,6 +1421,10 @@ categories.*
 > My response to a request from the Dean to reflect on advising at
 Grinnell.
 
+[Endowed chairs](endowed-chairs-2017-10-20) (Musing #461)
+
+>  Wow, they're expensive.
+
 A letter to the incoming chair
 ------------------------------
 
@@ -1701,6 +1705,10 @@ About SamR
 [How are you, Sam?](how-are-you-2017-09-08) (Musing #442)
 
 > A new/old answer.
+
+[Feeling fortunate](feeling-fortunate-2017-10-20) (Musing #459)
+
+> A better answer.
 
 ROF musings
 -----------
@@ -2127,6 +2135,14 @@ Almost everything else
 [Watching terms lose their meaning: Algorithm](losing-meaning-algorithm) (Musing #449)
 
 > Frustrated at seeing a term coopted.
+
+[Experiencing SamR](experiencing-samr-2017-10-20) (Musing #460)
+
+> The different ways that people on campus seem to react to me.
+
+[Weeknight concerts](weeknight-concerts-nov-2017) (Musing #462)
+
+> Making choices.
 
 Musings with multiple entries
 -----------------------------

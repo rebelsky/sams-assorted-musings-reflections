@@ -8,9 +8,11 @@ of how I approach the world.  Some are just my attempts to think through
 a topic.
 
 Latest musings:
-[Advising at Grinnell](advising-at-grinnell) (Musing #457)
+[Feeling fortunate](feeling-fortunate-2017-10-20) (Musing #459),
+[Experiencing SamR](experiencing-samr-2017-10-20) (Musing #460),
+[Endowed chairs](endowed-chairs-2017-10-20) (Musing #461),
 and
-[Writing to learn](writing-to-learn-2017-10-18) (Musing #458)
+[Weeknight concerts](weeknight-concerts-nov-2017) (Musing #462).
 
 [Musings, by number](index-by-number) 
 

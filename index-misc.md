@@ -413,3 +413,11 @@ Almost everything else
 
 > Frustrated at seeing a term coopted.
 
+[Experiencing SamR](experiencing-samr-2017-10-20) (Musing #460)
+
+> The different ways that people on campus seem to react to me.
+
+[Weeknight concerts](weeknight-concerts-nov-2017) (Musing #462)
+
+> Making choices.
+
