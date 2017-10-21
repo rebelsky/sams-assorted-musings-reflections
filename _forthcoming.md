@@ -1,14 +1,30 @@
 Some forthcoming musings
 ========================
 
+Today's musings
+
+1. "Things I wrote for other reasons".  Why am I labeling those when
+   that's the initial reason I started this thing, whatever this thing is.
+1. Makes no sense to me - Amount for student meals at conferences.
+1. Whatever I do in 151 today - joy of tables?.
+1. Five sentences.
+1. Syntactic sugar.
+
 New forthcoming musings
 
+1. Terri Phipps.
+1. Andrew Sherburne.
+1. Mentor vs. Sponsor
+1. Blasters and Del-Lords (?)
+1. Universal design: Don't rely on text in images in email messages.
+1. Blasters and Del-Lords mixtape
+1. Fun books: The 1924 College catalog
+1. Losing the members of President's Council?  Effect on ability to search?
+1. CSC 322.
+1. Course design: CSC 321/322.
 1. Sharepointless workflows.
-1. "Get Outlook for Android/iPhone". ("What can you do to be more successful
-on this exam.")
 1. Stopping sooner.  (Didn't need second section in local/national/global.
    Didn't need more than "I had criticisms.  I was mistaken."
-1. CSC 322.
 1. Microagressions?
 1. Curmudgeon or Cheerful - Both!
 1. How to be a curmudgeon in N easy steps.
@@ -20,7 +36,6 @@ on this exam.")
 1. Self-study - Institutional information. (Should Rietz be in the
  discussions of self studies?)
 1. Sedona - Best of breed?
-1. CLC 17 - Contemporary Literary Criticism
 1. Curmudgeon - Letterpress "There's nothing in the world that can't
  be made a bit better by adding a curmdugeon. Except, maybe,
  ice cream."
@@ -45,6 +60,18 @@ on this exam.")
 1. Building value for Grinnell (?)
 1. BBC micro:bit
 1. Norman Bins (vs. Norman doors)
+
+A series on fun books?
+
+1. CLC 17 - Contemporary Literary Criticism
+1. Whatever book my Grandmother is holding in that picture?
+
+All those outstanding anniversary musings (if it's not too late)
+
+1. Favorites.
+1. Longest
+1. How much did I write?  (I can roll back.)
+1. ...
 
 A series on addiction and organization
 
