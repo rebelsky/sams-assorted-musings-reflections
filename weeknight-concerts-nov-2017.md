@@ -8,7 +8,7 @@ through the mailing list [1].  He's playing in [Cedar Rapids on November
 That's a Tuesday night.  I teach early on Wednesday mornings.
 
 Sitting on my desk next to the invitation is a flyer
-for the BoDeans, who are playing in [Des Moines on October
+for the BoDeans, who are playing in [Des Moines on November
 9](http://www.woolysdm.com/event/1557549-bodeans-stripped-down-des-moines/).
 That's a Thursday night.  I teach early on Friday mornings, too.
 
@@ -40,4 +40,4 @@ then wondering whether it's misspelled?
 
 --- 
 
-*Version 1.0 of 2017-10-20.*
+*Version 1.0.1 of 2017-10-20.*
