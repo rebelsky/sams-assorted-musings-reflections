@@ -1710,6 +1710,17 @@ About SamR
 
 > A better answer.
 
+Salary reviews
+--------------
+
+[I win! (I think)](i-win-2017-10-22) (Musing #464)
+
+> Counting courses for my salary review.
+
+[Triennial salary reviews](triennial-salary-reviews) (MUsing #465)
+
+> Some background.
+
 ROF musings
 -----------
 
@@ -2143,6 +2154,10 @@ Almost everything else
 [Weeknight concerts](weeknight-concerts-nov-2017) (Musing #462)
 
 > Making choices.
+
+[CSC 321/22 - The evolution of Grinnell's software design curriculum](csc321-and-csc322) (Musing #463).
+
+> A (potentially) great course that's still evolving.
 
 Musings with multiple entries
 -----------------------------

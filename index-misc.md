@@ -421,3 +421,7 @@ Almost everything else
 
 > Making choices.
 
+[CSC 321/22 - The evolution of Grinnell's software design curriculum](csc321-and-csc322) (Musing #463).
+
+> A (potentially) great course that's still evolving.
+

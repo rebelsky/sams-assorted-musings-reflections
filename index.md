@@ -7,12 +7,10 @@ Some are rants about topics I'm passionate about.  Some are explanations
 of how I approach the world.  Some are just my attempts to think through
 a topic.
 
-Latest musings:
-[Feeling fortunate](feeling-fortunate-2017-10-20) (Musing #459),
-[Experiencing SamR](experiencing-samr-2017-10-20) (Musing #460),
-[Endowed chairs](endowed-chairs-2017-10-20) (Musing #461),
+Latest musing:
+[I win! (I think)](i-win-2017-10-22) (Musing #464)
 and
-[Weeknight concerts](weeknight-concerts-nov-2017) (Musing #462).
+[Triennial salary reviews](triennial-salary-reviews) (MUsing #465).
 
 [Musings, by number](index-by-number) 
 

@@ -601,3 +601,6 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 
 [Endowed chairs](endowed-chairs-2017-10-20) (Musing #461)  
 [Weeknight concerts](weeknight-concerts-nov-2017) (Musing #462)  
+[CSC 321/22 - The evolution of Grinnell's software design curriculum](csc321-and-csc322) (Musing #463).  
+[I win! (I think)](i-win-2017-10-22) (Musing #464)  
+[Triennial salary reviews](triennial-salary-reviews) (MUsing #465)  
