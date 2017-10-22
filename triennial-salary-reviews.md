@@ -132,9 +132,9 @@ use the same rubric and process.
 [6] Since the rubric is on GrinCo, it is likely available only to people 
 at Grinnell.
 
-[7] I admit that last comment was a bit sarcastic.  I actually think it's
-basically the best process we can have, particularly given that there is 
-an option to handle special circumstances differently.  
+[7] I admit that that last comment was a bit sarcastic.  I actually
+think it's basically the best process we can have, particularly given
+that there is an option to handle special circumstances differently.
 
 [8] Yes, terrifyingly enough, I was elected Chair of the Science Division
 about a decade ago.
