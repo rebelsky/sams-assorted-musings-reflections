@@ -8,9 +8,7 @@ of how I approach the world.  Some are just my attempts to think through
 a topic.
 
 Latest musing:
-[I win! (I think)](i-win-2017-10-22) (Musing #464)
-and
-[Triennial salary reviews](triennial-salary-reviews) (MUsing #465).
+[I was wrong](i-was-wrong-2017-10-24) (Musing #466)
 
 [Musings, by number](index-by-number) 
 
