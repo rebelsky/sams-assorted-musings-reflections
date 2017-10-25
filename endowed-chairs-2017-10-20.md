@@ -1,7 +1,7 @@
 The price of endowed chairs
 ===========================
 
-I know that our deparmtment is loved and appreciated because a group
+I know that our department is loved and appreciated because a group
 of alums has started a campaign to endow a chair in CS.  When last I
 heard, it cost $2 million to endow a chair.  I thought that was a lot.
 Then I talked to Development and Alumni Relations [1].  It appears the
@@ -28,4 +28,6 @@ again by the time you read this.
 
 ---
 
-*Version 1.0.1 of 2017-10-20.*
+*Version 1.0.2 of 2017-10-24.*
+
+*Original post: Version 1.0.1 of 2017-10-20.*
