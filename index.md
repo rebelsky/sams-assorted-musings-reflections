@@ -8,7 +8,7 @@ of how I approach the world.  Some are just my attempts to think through
 a topic.
 
 Latest musing:
-[I was wrong](i-was-wrong-2017-10-24) (Musing #466)
+[Fall broken](fall-broken-2017) (Musing #467)
 
 [Musings, by number](index-by-number) 
 

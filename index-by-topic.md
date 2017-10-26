@@ -915,6 +915,10 @@ Overcommitment
 > Break is a time to overcommit, or to clean up from overcommitment,
   or both, or something like that.
 
+[Fall broken](fall-broken-2017) (Musing #467)
+
+> The results of break.
+
 On teaching online
 ------------------
 
