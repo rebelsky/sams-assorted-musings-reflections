@@ -40,6 +40,12 @@ Faculty Workload will use.
 
 ---
 
+Someone asked "Sam, did you write this because someone pointed out the
+issue?"  No, no one pointed out this issue.  I was just thinking through
+the data again and realized that there were more factors at play.
+
+---
+
 [1] That's only in the SCH counting system.  Grinnell science faculty
 do, by and large, receive teaching credit for teaching labs.
 
@@ -48,4 +54,6 @@ after "S".
 
 ---
 
-*Version 1.0 of 2017-10-24.*
+*Version 1.1 of 2017-10-25.*
+
+*Version 1.0 released 2017-10-24.*
