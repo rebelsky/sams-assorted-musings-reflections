@@ -606,3 +606,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Triennial salary reviews](triennial-salary-reviews) (Musing #465)  
 [I was wrong](i-was-wrong-2017-10-24) (Musing #466)  
 [Fall broken](fall-broken-2017) (Musing #467)  
+[Show me the data](show-me-the-data) (Musing #468)  

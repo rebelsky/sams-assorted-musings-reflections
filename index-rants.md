@@ -212,3 +212,7 @@ Why Grinnell staff with Ph.D's should be allowed to teach.
 
 > How are you doing, Sam?
 
+[Show me the data](show-me-the-data) (Musing #468)
+
+> Why is that such a hard request?
+

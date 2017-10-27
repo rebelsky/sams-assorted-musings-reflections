@@ -8,7 +8,7 @@ of how I approach the world.  Some are just my attempts to think through
 a topic.
 
 Latest musing:
-[Fall broken](fall-broken-2017) (Musing #467)
+[Show me the data](show-me-the-data) (Musing #468)
 
 [Musings, by number](index-by-number) 
 
