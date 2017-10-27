@@ -10,11 +10,14 @@ a lot of students, it's always on my mind.
 
 I decided to record as many of the advising activities as I could recall
 for a one-week period.  In this musing, I describe what I recorded.
-I think it's a fairly typical week.  It's nearly two weeks until
-preregistration starts, so there are a few planning questions, but
-not more than normal.  It's after fall break, so I think I've already
-covered most of the fall APR [2] issues.  I wonder if the Dean will find
-this useful?
+I know that the musing is not complete, but it's about as close as I
+can get it.  I think it's been a fairly typical week.  We have nearly
+two weeks until preregistration starts, so there are a few planning
+questions, but not more than normal [2].  It's after fall break, so I
+think I've already covered most of the fall APR [3] issues.
+
+The Dean has noted that he doesn't know as much as he should about advising
+at Grinnell.  I wonder if this will be helpful to him.
 
 Academic planning
 -----------------
@@ -31,9 +34,9 @@ acceptable.
 Suggest courses for next semester to a student who is unsure of what
 might work.
 
-Review declaration of major essay for prospective advisee.
-Needs rewriting.  Some grammatical issues and does not address the
-key questions.
+Review declaration of major essay for prospective advisee.  Needs
+rewriting.  Some grammatical issues and does not address the key
+questions.
 
 Review declaration of major for essay for another prospective advisee.
 Get frustrated that someone decided that these essay should only be
@@ -65,6 +68,15 @@ I declare with given that you probably won't be taking more advisees?"
 Suggest they talk to the Chair as a starting point.  Suggest that they
 talk to another student who is doing a similar double major.
 
+Quick chat in the hallway with advisee about the importance of attending
+classes.
+
+Chat with double major advisese about courses for next semester [4].
+Suggest some additional courses.  Discuss the value of music lessons.
+
+"It is highly unlikely that I will allow a first-year student into CSC
+321 next semester."
+
 Career and post-graduation issues
 ---------------------------------
 
@@ -84,19 +96,30 @@ Quick question: "Should I try to fit my résumé on one page?"  Quick answer:
 "Should I take a year off before graduate school?"  Discuss why.  Consider
 options.
 
+Non-advisee senior: How do I decide between these two very different
+career options?  Discuss some of the characteristics of the two jobs.
+Remind them that they are lucky to have two cool options.  Suggest that
+teammates and learning are good things to think about.  Recommend that
+they also work with CLS advisor.
+
 Recommendation Letters
 ----------------------
 
 Study abroad recommendation.  Approximately 800 words.
 
-Realize that I need to find a place to store all of the damn FERPA forms.
+Realize that I need to find a place to store all of the 
+[FERPA forms](http://www.grinnell.edu/sites/default/files/documents/FERPA%20Authorization%20for%20Reference%20or%20Recommendation.pdf).
+
+Write a last-minute recommendation (about 600 words) for student who is
+panicing that they have not heard from their recommender.  Discover that
+the letter was submitted fifteen minutes after mine.
 
 Other
 -----
 
-Discuss status of 3-2 plan with 3rd-year student.
+Discuss status of 3-2 plan with 3rd-year advisee.
 
-Email another 3rd-year student to check on the status of their 3-2 plan.
+Email another 3rd-year advisee to check on the status of their 3-2 plan.
 
 Email faculty member to check on advisee who had been struggling.
 
@@ -106,16 +129,52 @@ Update advisee list in preparation for preregistration.  I use that list
 to keep track of who has and who has not registered for classes since
 WebAdvisor/SelfService does not easily provide that information.  I also
 need to keep track of who is currently abroad and who is going abroad.
-And I got to mark one advisee as "graduating mid year" [3].
+And I got to mark one advisee as "graduating mid year" [5].
+
+Follow up with faculty member about students in academic difficulty.
+
+"The CSC 322 project from a few semesters ago that I've been working on
+completing has become irrelevant.  What do I do?"  Start some simple
+brainstorming (pick another CSC 322 project to finish).  Suggest that
+we follow up with a meeting next week.
+
+Follow up with another faculty member about student potentially in
+academic difficulty.
+
+Talk to first-year student not yet in CS who is thinking about a 3-2
+program.  No, we don't offer a course in Python.  No, I don't have
+recommendations of where to learn Python.  But I do have students who
+might have recommendations.  The biggest proponent of Python in the
+department is Prof. V.  Let's walk down the hall and see what she has
+planned.  Oh, if the program also wants you to have Data Structures and
+Algorithms, that's our CSC 207 course.  You'll need to take CSC 151 and
+CSC 161 first, in that order.  Other students who are doing 3:2 programs?
+Here are three.
+
+Chat with a variety of students about the Facebook problem and some
+related issues [6].
+
+Catch student walking down hallway to see if they are feeling less 
+stressed after break.
 
 ---
 
 [1] STaLG.  Elaine M. and I coined the abbrev. back when we ran it.
 
-[2] Academic Progress Report.
+[2] Some students really like to think ahead.
 
-[3] Congratulations!
+[3] Academic Progress Report.
+
+[4] Since the student has two advisors, they want to make sure that they have
+time to talk to both of us, in case they have changes that they need both
+of us to approve.
+
+[5] Congratulations!
+
+[6] Some of the chatting was joking.  But we also talked about the more
+serious issues of how students should treat each other and about broader
+decision making.
 
 ---
 
-*Version 0.1 of 2017-10-25.*
+*Version 0.2 of 2017-10-26.*
