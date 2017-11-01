@@ -95,3 +95,7 @@ Reflections on some important issues
 > Asking others to pay attention to Web accessibility and FERPA issues
 in Web hosting.
 
+[Complexity and simplicity](complexity-and-simplicity) (Musing #469)
+
+> Finding myself frustrated by reductionist approaches.
+

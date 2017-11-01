@@ -425,3 +425,7 @@ Almost everything else
 
 > A (potentially) great course that's still evolving.
 
+[A week of advising activities](week-of-advising-oct-2017) (Musing #472)
+
+> Some of the other things I do.
+

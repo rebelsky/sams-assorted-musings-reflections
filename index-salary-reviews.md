@@ -13,3 +13,11 @@ Salary reviews
 
 > A correction to "I win!"
 
+[Whine, whine, whine (or "An introduction to my triennial review")](whine-whine-whine) (Musing #470)
+
+> Context for the other review statements.
+
+[A teaching statement for my triennial review](teaching-statement-2017) (Musing #471)
+
+> The core of what I do, summarized in a few paragraphs.
+

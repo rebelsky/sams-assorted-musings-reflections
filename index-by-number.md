@@ -607,3 +607,10 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [I was wrong](i-was-wrong-2017-10-24) (Musing #466)  
 [Fall broken](fall-broken-2017) (Musing #467)  
 [Show me the data](show-me-the-data) (Musing #468)  
+[Complexity and simplicity](complexity-and-simplicity) (Musing #469)  
+[Whine, whine, whine (or "An introduction to my triennial review")](whine-whine-whine) (Musing #470)  
+
+## 471-480
+
+[A teaching statement for my triennial review](teaching-statement-2017) (Musing #471)  
+[A week of advising activities](week-of-advising-oct-2017) (Musing #472)  

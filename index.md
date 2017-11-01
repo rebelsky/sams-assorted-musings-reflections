@@ -8,7 +8,7 @@ of how I approach the world.  Some are just my attempts to think through
 a topic.
 
 Latest musing:
-[Show me the data](show-me-the-data) (Musing #468)
+[A week of advising activities](week-of-advising-oct-2017) (Musing #472)
 
 [Musings, by number](index-by-number) 
 

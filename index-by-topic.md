@@ -556,6 +556,10 @@ Reflections on some important issues
 > Asking others to pay attention to Web accessibility and FERPA issues
 in Web hosting.
 
+[Complexity and simplicity](complexity-and-simplicity) (Musing #469)
+
+> Finding myself frustrated by reductionist approaches.
+
 Rants
 -----
 
@@ -1733,6 +1737,14 @@ Salary reviews
 
 > A correction to "I win!"
 
+[Whine, whine, whine (or "An introduction to my triennial review")](whine-whine-whine) (Musing #470)
+
+> Context for the other review statements.
+
+[A teaching statement for my triennial review](teaching-statement-2017) (Musing #471)
+
+> The core of what I do, summarized in a few paragraphs.
+
 ROF musings
 -----------
 
@@ -2170,6 +2182,10 @@ Almost everything else
 [CSC 321/22 - The evolution of Grinnell's software design curriculum](csc321-and-csc322) (Musing #463).
 
 > A (potentially) great course that's still evolving.
+
+[A week of advising activities](week-of-advising-oct-2017) (Musing #472)
+
+> Some of the other things I do.
 
 Musings with multiple entries
 -----------------------------
