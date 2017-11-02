@@ -8,7 +8,7 @@ of how I approach the world.  Some are just my attempts to think through
 a topic.
 
 Latest musing:
-[A week of advising activities](week-of-advising-oct-2017) (Musing #472)
+[A statement on scholarship for my triennial review](scholarship-statement-2017) (Musing #473)
 
 [Musings, by number](index-by-number) 
 

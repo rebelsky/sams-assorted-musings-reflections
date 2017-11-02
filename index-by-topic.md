@@ -1745,6 +1745,10 @@ Salary reviews
 
 > The core of what I do, summarized in a few paragraphs.
 
+[A statement on scholarship for my triennial review](scholarship-statement-2017) (Musing #473)
+
+> Some other stuff I do, also summarized in a few paragraphs.
+
 ROF musings
 -----------
 
