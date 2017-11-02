@@ -3,6 +3,11 @@ Some forthcoming musings
 
 Today's musings
 
+1. When can I grade? 
+1. What you didn't see.
+1. Rating myself.  (And I won't even know the results for more than six months.)
+1. Learning to advise.
+1. "Can I have an extension?"
 1. "Things I wrote for other reasons".  Why am I labeling those when
    that's the initial reason I started this thing, whatever this thing is.
 1. Makes no sense to me - Amount for student meals at conferences.
@@ -12,8 +17,10 @@ Today's musings
 
 New forthcoming musings
 
-1. Terri Phipps.
-1. Andrew Sherburne.
+1. Overwhelmed by forthcoming musings?  (Many have been in the queue for
+   more than a year.)
+1. Implicit bias.  (What I know.  What I believe.  What the evidence 
+   suggests.  Vs. Explicit bias.  Etc. Etc.)
 1. Mentor vs. Sponsor
 1. Blasters and Del-Lords (?)
 1. Universal design: Don't rely on text in images in email messages.
@@ -501,7 +508,7 @@ Grinnellians
 
 1. Jeff Dickey-Chaisins '81
 
-1. George Drake. (Include the two things he's done that irk me.)
+1. George Drake. (Include the two things he's done that irk me.  Calculus is one.  Nursing is the other.)
 
 1. Karla Erickson
 https://www.insidehighered.com/news/2017/01/26/research-midcareer-professors-makes-case-support-after-tenure
@@ -575,13 +582,15 @@ pamphlets)
 
 1. Russell K. Osgood
 
-1. William Lloyd Rebelsky
+1. Terri Phipps.
 
 1. Henry Rietz '89
 
 1. Rachel Rose '01
 
 1. Susan Sanning
+
+1. Ralph Savarese
 
 1. Mark Schneider
 
