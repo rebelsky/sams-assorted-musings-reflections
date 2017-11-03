@@ -25,3 +25,7 @@ Salary reviews
 
 > Some other stuff I do, also summarized in a few paragraphs.
 
+[A statement on "other significant activities" for my triennial review](other-significant-activities-2017) (Musing #474)
+
+> Musing and complaining.  (It's their fault; they asked.)
+

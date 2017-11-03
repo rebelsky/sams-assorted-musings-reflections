@@ -8,7 +8,8 @@ of how I approach the world.  Some are just my attempts to think through
 a topic.
 
 Latest musing:
-[A statement on scholarship for my triennial review](scholarship-statement-2017) (Musing #473)
+
+[A statement on "other significant activities" for my triennial review](other-significant-activities-2017) (Musing #474)
 
 [Musings, by number](index-by-number) 
 

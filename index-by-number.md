@@ -615,3 +615,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [A teaching statement for my triennial review](teaching-statement-2017) (Musing #471)  
 [A week of advising activities](week-of-advising-oct-2017) (Musing #472)  
 [A statement on scholarship for my triennial review](scholarship-statement-2017) (Musing #473)  
+[A statement on "other significant activities" for my triennial review](other-significant-activities-2017) (Musing #474)  
