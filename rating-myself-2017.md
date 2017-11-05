@@ -94,12 +94,13 @@ I don't get a 5 for service, there's something wrong with the system.
 
 **Calculating**
 
-Here goes.  3*0.45 + 3*0.25 + 5*0.3 = 3.6.  We round to the nearest
-half, and that's 3.5.  That's good.  I now have a number that represents
-my value to the College.  I expect that's either average or slightly
-below average [10].  C'est la vie.  Given my EOCEs in CSC 321/22, it's
-an appropriate score; the stress stress overload should incur a bit of
-compromise, but not too much.
+Here goes.  3\*0.45 + 3\*0.25 + 5\*0.3 = 3.6.  We round to the nearest
+half, and that's 3.5.  I now have a number that represents
+my value to the College.  I expect that 3.5 is either average or slightly
+below average [10].  It's the lowest score I've received in however many
+years I've been receiving scores.  _C'est la vie._  Given my EOCEs in
+CSC 321/22, it's an appropriate score; the stress overload should
+incur a bit of compromise, but not too much.
 
 I look forward to seeing what number I end up with at the end of the year.
 Fortunately, I'll have this somewhere on the Interweb to compare my
@@ -170,4 +171,4 @@ to Senior Faculty Status.
 
 ---
 
-*Version 1.1 of 2017-11-04.*
+*Version 1.2 of 2017-11-04.*
