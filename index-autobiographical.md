@@ -167,3 +167,7 @@ About SamR
 
 > A better answer.
 
+[Understanding a bit more about my father](understanding-my-father-2017-11-03) (Musing #475)
+
+> A complex and moral man.
+

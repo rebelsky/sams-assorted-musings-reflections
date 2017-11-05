@@ -1722,6 +1722,10 @@ About SamR
 
 > A better answer.
 
+[Understanding a bit more about my father](understanding-my-father-2017-11-03) (Musing #475)
+
+> A complex and moral man.
+
 Salary reviews
 --------------
 
@@ -1752,6 +1756,10 @@ Salary reviews
 [A statement on "other significant activities" for my triennial review](other-significant-activities-2017) (Musing #474)
 
 > Musing and complaining.  (It's their fault; they asked.)
+
+[Assorted sections from my salary review](assorted-sections-review-2017) (Musing #476)
+
+> A few remaining materials.
 
 ROF musings
 -----------

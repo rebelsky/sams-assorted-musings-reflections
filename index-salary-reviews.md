@@ -29,3 +29,7 @@ Salary reviews
 
 > Musing and complaining.  (It's their fault; they asked.)
 
+[Assorted sections from my salary review](assorted-sections-review-2017) (Musing #476)
+
+> A few remaining materials.
+
