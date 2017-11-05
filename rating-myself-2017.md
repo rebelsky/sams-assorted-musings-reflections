@@ -107,6 +107,27 @@ score to.
 
 ---
 
+If I count correctly, I only have to do this process two or three more times
+[11]!
+
+<!--
+2017-18, age 53: Review
+2018-19, age 54: Eligible for sabbatical; taking fellowship instead
+2019-20, age 55: Sabbatical + Teaching credits + MAP credits
+2020-21, age 56: Review + Leave: MAP credits
+2021-22, age 57:
+2022-23, age 58:
+2023-24, age 59: Review
+2024-25, age 60:
+2025-26, age 61: Eligible for sabbatical (probably taking sabbatical)
+2026-27, age 62: Review (last?) or move to SFS
+2027-28, age 63:
+2028-29, age 64:
+2029-30, age 65: Eligible for half-year sabbatical (3 course); move to SFS; optional review?
+-->
+
+---
+
 [1] We get our raise letters on graduation day.  That's May 21, 2018.
 I turned in my materials on November 3, 2017.  So it will be six months
 and 18 days between when I turned in my materials and when I receive a
@@ -144,6 +165,9 @@ be improved.
 [10] I found some data in the spring 2016 report from the chair of
 the faculty.  That year, the average faculty merit score was 3.55.
 
+[11] Assuming they don't make me undergo a salary review the year I move
+to Senior Faculty Status.
+
 ---
 
-*Version 1.0 of 2017-11-04.*
+*Version 1.1 of 2017-11-04.*
