@@ -33,3 +33,7 @@ Salary reviews
 
 > A few remaining materials.
 
+[Rating myself](rating-myself-2017) (Musing #477)
+
+> Trying to figure out what score I think I deserve.
+
