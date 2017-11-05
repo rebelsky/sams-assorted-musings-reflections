@@ -7,9 +7,11 @@ Some are rants about topics I'm passionate about.  Some are explanations
 of how I approach the world.  Some are just my attempts to think through
 a topic.
 
-Latest musing:
+Latest musings:
 
-[A statement on "other significant activities" for my triennial review](other-significant-activities-2017) (Musing #474)
+[Understanding a bit more about my father](understanding-my-father-2017-11-03) (Musing #475)
+and
+[Assorted sections from my salary review](assorted-sections-review-2017) (Musing #476)
 
 [Musings, by number](index-by-number) 
 
