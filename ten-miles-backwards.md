@@ -27,14 +27,15 @@ Hypthoses:
 * The sign makers in Missouri got confused.  Unlikely.
 * A warp in the weft of the universe.  Highly unlikely.
 
-So, what next?
+So, what next?  Two requests to my readers.
 
-* A request to my readers.  If you drive north on I-35 from Missouri to 
-  Des Moines, please repeat my experiment to see if you have the same
-  experience.
-* If you have recommendations on who, if anyone, I might resport this
-  discrepancy to, please let me know.  (My assumption is MOdot, but I'm
-  not really sure what I say.)
+1. If you drive north on I-35 from Missouri to Des Moines, please repeat
+my experiment to see if you have the same experience of losing ten
+miles.
+
+2. If you have recommendations on who, if anyone, I might resport this
+discrepancy to, please let me know.  (My assumption is MOdot, but I'm
+not really sure what I say.)
 
 ---
 
