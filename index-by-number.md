@@ -619,3 +619,6 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Understanding a bit more about my father](understanding-my-father-2017-11-03) (Musing #475)  
 [Assorted sections from my salary review](assorted-sections-review-2017) (Musing #476)  
 [Rating myself](rating-myself-2017) (Musing #477)  
+[Ten miles backwards](ten-miles-backwards) (Musing #478)  
+[Finding time to grade](finding-time-to-grade-2017-11-05) (Musing #479)  
+[Preparing to perform](preparing-to-perform) (Musing #480)  

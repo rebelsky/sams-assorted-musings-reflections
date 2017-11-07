@@ -429,3 +429,15 @@ Almost everything else
 
 > Some of the other things I do.
 
+[Ten miles backwards](ten-miles-backwards) (Musing #478)
+
+> From Missouri to Iowa.
+
+[Finding time to grade](finding-time-to-grade-2017-11-05) (Musing #479)
+
+> More precisely, *not* finding time to grade.
+
+[Preparing to perform](preparing-to-perform) (Musing #480)
+
+> I need a green room.
+

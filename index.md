@@ -8,8 +8,7 @@ of how I approach the world.  Some are just my attempts to think through
 a topic.
 
 Latest musing:
-
-[Rating myself](rating-myself-2017) (Musing #477)
+[Preparing to perform](preparing-to-perform) (Musing #480)
 
 [Musings, by number](index-by-number) 
 
