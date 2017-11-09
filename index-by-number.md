@@ -622,3 +622,7 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Ten miles backwards](ten-miles-backwards) (Musing #478)  
 [Finding time to grade](finding-time-to-grade-2017-11-05) (Musing #479)  
 [Preparing to perform](preparing-to-perform) (Musing #480)  
+
+## 481-490
+
+[Caring about (handbook) language](caring-about-language-2017-11-07) (Musing #481)  

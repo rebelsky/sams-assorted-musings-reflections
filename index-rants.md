@@ -216,3 +216,7 @@ Why Grinnell staff with Ph.D's should be allowed to teach.
 
 > Why is that such a hard request?
 
+[Caring about (handbook) language](caring-about-language-2017-11-07) (Musing #481)
+
+> Am I the only one who cares?  Does that mean I should stop caring?
+
