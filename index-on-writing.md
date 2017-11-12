@@ -228,3 +228,7 @@ Essays on writing, or at least on writing my essays
 
 > One of the important reasons that I write.
 
+[Learning to satisfice](satisfice) (Musing #483)
+
+> A great word.
+

@@ -231,6 +231,10 @@ Essays on writing, or at least on writing my essays
 
 > One of the important reasons that I write.
 
+[Learning to satisfice](satisfice) (Musing #483)
+
+> A great word.
+
 For prospective students, parents of prospective students, and others with similar interests
 --------------------------------------------------------------------------------------------
 
@@ -2222,6 +2226,10 @@ Almost everything else
 [Preparing to perform](preparing-to-perform) (Musing #480)
 
 > I need a green room.
+
+[An exam question on loop invariants](silly-invariants-question) (Musing #482)
+
+> Not a lot of time to muse.
 
 Musings with multiple entries
 -----------------------------

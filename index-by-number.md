@@ -626,3 +626,5 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 ## 481-490
 
 [Caring about (handbook) language](caring-about-language-2017-11-07) (Musing #481)  
+[An exam question on loop invariants](silly-invariants-question) (Musing #482)  
+[Learning to satisfice](satisfice) (Musing #483)  

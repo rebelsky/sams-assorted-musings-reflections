@@ -8,7 +8,7 @@ of how I approach the world.  Some are just my attempts to think through
 a topic.
 
 Latest musing:
-[Caring about (handbook) language](caring-about-language-2017-11-07) (Musing #481)
+[Learning to satisfice](satisfice) (Musing #483)
 
 [Musings, by number](index-by-number) 
 
