@@ -1445,6 +1445,15 @@ Grinnell.
 
 >  Wow, they're expensive.
 
+[Midway through preregistration for spring 2018](midway-through-prereg-for-2018S) (Musing #484)
+
+> Where do I stand?
+
+[The role of the humanities in a Grinnell education](grinnell-education-humanities) (Musing #485)
+
+> Oh, that's right.  I need to explain this to some of my students.
+"Core" is probably a good summary.
+
 A letter to the incoming chair
 ------------------------------
 

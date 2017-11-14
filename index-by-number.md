@@ -628,3 +628,5 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Caring about (handbook) language](caring-about-language-2017-11-07) (Musing #481)  
 [An exam question on loop invariants](silly-invariants-question) (Musing #482)  
 [Learning to satisfice](satisfice) (Musing #483)  
+[Midway through preregistration for spring 2018](midway-through-prereg-for-2018S) (Musing #484)  
+[The role of the humanities in a Grinnell education](grinnell-education-humanities) (Musing #485)  

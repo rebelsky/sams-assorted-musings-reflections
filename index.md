@@ -8,7 +8,9 @@ of how I approach the world.  Some are just my attempts to think through
 a topic.
 
 Latest musing:
-[Learning to satisfice](satisfice) (Musing #483)
+[Midway through preregistration for spring 2018](midway-through-prereg-for-2018S) (Musing #484)
+and
+[The role of the humanities in a Grinnell education](grinnell-education-humanities) (Musing #485)
 
 [Musings, by number](index-by-number) 
 
