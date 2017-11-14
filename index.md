@@ -7,10 +7,10 @@ Some are rants about topics I'm passionate about.  Some are explanations
 of how I approach the world.  Some are just my attempts to think through
 a topic.
 
-Latest musing:
-[Midway through preregistration for spring 2018](midway-through-prereg-for-2018S) (Musing #484)
+Latest musings:
+[Damn, I'm old](damn-im-old-2017-11-13) (Musing #486)
 and
-[The role of the humanities in a Grinnell education](grinnell-education-humanities) (Musing #485)
+[My annual Thanksgiving Shuttle rant](thanksgiving-shuttle-rant) (Musing #487)
 
 [Musings, by number](index-by-number) 
 

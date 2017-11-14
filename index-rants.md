@@ -220,3 +220,11 @@ Why Grinnell staff with Ph.D's should be allowed to teach.
 
 > Am I the only one who cares?  Does that mean I should stop caring?
 
+[Damn, I'm old](damn-im-old-2017-11-13) (Musing #486)
+
+> Modern musical taste.
+
+[My annual Thanksgiving Shuttle rant](thanksgiving-shuttle-rant) (Musing #487)
+
+> Thanks for suggesting my class is unimportant.
+
