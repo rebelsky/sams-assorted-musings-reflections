@@ -630,3 +630,6 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Learning to satisfice](satisfice) (Musing #483)  
 [Midway through preregistration for spring 2018](midway-through-prereg-for-2018S) (Musing #484)  
 [The role of the humanities in a Grinnell education](grinnell-education-humanities) (Musing #485)  
+[Damn, I'm old](damn-im-old-2017-11-13) (Musing #486)  
+[My annual Thanksgiving Shuttle rant](thanksgiving-shuttle-rant) (Musing #487)  
+[The class before (Thanksgiving) break](class-before-turkey-break) (Musing #488)  

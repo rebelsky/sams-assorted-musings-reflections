@@ -445,3 +445,7 @@ Almost everything else
 
 > Not a lot of time to muse.
 
+[The class before (Thanksgiving) break](class-before-turkey-break) (Musing #488)
+
+> How to handle that class.
+

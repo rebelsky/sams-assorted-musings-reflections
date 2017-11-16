@@ -26,7 +26,7 @@ We need to revisit the shuttle schedule or the class schedule.
 I'd suggest one of the following.
 
 1. Accept that students want to travel home for Thanksgiving and stop
-offering classes on the Wednesday before Thanksgiving.  To avoid moving
+holding classes on the Wednesday before Thanksgiving.  To avoid moving
 the "12:30 problem" back a day, we would have to ensure that FM doesn't
 offer Tuesday 12:30 shuttles.  I would suggest Tuesday 4:30 p.m. and
 Wednesday 8:00 a.m.  shuttles.  I think an extra day of travel time will
@@ -41,9 +41,9 @@ a lot of things, but it would make fall break *very* late.
 
 I know of some colleagues that give high-stakes quizzes or examinations
 in their Wednesday 3 p.m. classes.  I don't think that's the solution.
-I'd much rather help students get home (options 1 and 3), and acknowledge 
-that some of them will need to miss.  But we should not be sending a
-message that classes are unimportant.
+I'd much rather help students get home (options 1 and 3), and acknowledge
+that some of them will need to miss class in any case [3].  But we should
+not be sending a message that afternoon classes are unimportant.
 
 ---
 
@@ -55,6 +55,10 @@ If you look, you'll see that there are two shuttles on Wednesday, one
 to the Des Moines airport and one to Chicago.  Both are at 12:30 p.m.
 
 [2] "We", in this case, is The University of Chicago.
+
+[3] Sometimes it takes a long time to get home.  Sometimes there are
+other family events on Wednesday night.  Sometimes it's that it's much
+cheaper to leave earlier in the day.
 
 ---
 

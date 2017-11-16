@@ -7,10 +7,8 @@ Some are rants about topics I'm passionate about.  Some are explanations
 of how I approach the world.  Some are just my attempts to think through
 a topic.
 
-Latest musings:
-[Damn, I'm old](damn-im-old-2017-11-13) (Musing #486)
-and
-[My annual Thanksgiving Shuttle rant](thanksgiving-shuttle-rant) (Musing #487)
+Latest musing:
+[The class before (Thanksgiving) break](class-before-turkey-break) (Musing #488)
 
 [Musings, by number](index-by-number) 
 
