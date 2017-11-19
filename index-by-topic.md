@@ -2256,6 +2256,10 @@ Almost everything else
 
 > How to handle that class.
 
+[Vignettes and followups](vignettes-2017-nov) (Musing #490)
+
+> Lots of little things.
+
 Musings with multiple entries
 -----------------------------
 

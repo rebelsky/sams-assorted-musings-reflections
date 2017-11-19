@@ -8,7 +8,7 @@ of how I approach the world.  Some are just my attempts to think through
 a topic.
 
 Latest musing:
-[A note to Curriculum Committee](note-to-cc-2017-11-15) (Musing #489)
+[Vignettes and followups](vignettes-2017-nov) (Musing #490)
 
 [Musings, by number](index-by-number) 
 

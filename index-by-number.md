@@ -634,3 +634,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [My annual Thanksgiving Shuttle rant](thanksgiving-shuttle-rant) (Musing #487)  
 [The class before (Thanksgiving) break](class-before-turkey-break) (Musing #488)  
 [A note to Curriculum Committee](note-to-cc-2017-11-15) (Musing #489)  
+[Vignettes and followups](vignettes-2017-nov) (Musing #490)  
