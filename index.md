@@ -8,7 +8,7 @@ of how I approach the world.  Some are just my attempts to think through
 a topic.
 
 Latest musing:
-[The class before (Thanksgiving) break](class-before-turkey-break) (Musing #488)
+[A note to Curriculum Committee](note-to-cc-2017-11-15) (Musing #489)
 
 [Musings, by number](index-by-number) 
 

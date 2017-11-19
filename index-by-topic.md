@@ -794,6 +794,10 @@ Why Grinnell staff with Ph.D's should be allowed to teach.
 
 > Thanks for suggesting my class is unimportant.
 
+[A note to Curriculum Committee](note-to-cc-2017-11-15) (Musing #489)
+
+> Please make sure that faculty know about their advisees.
+
 Assorted talks and speeches
 ---------------------------
 
