@@ -8,7 +8,7 @@ of how I approach the world.  Some are just my attempts to think through
 a topic.
 
 Latest musing:
-[Vignettes and followups](vignettes-2017-nov) (Musing #490)
+[Getting my weekends back](getting-weekends-back) (Musing #491)
 
 [Musings, by number](index-by-number) 
 

@@ -2260,6 +2260,10 @@ Almost everything else
 
 > Lots of little things.
 
+[Getting my weekends back](getting-weekends-back) (Musing #491)
+
+> One of the reasons I'm looking forward to the fall.
+
 Musings with multiple entries
 -----------------------------
 
