@@ -5,8 +5,8 @@
 
 # Print the header
 print <<"HEAD";
-Essays, in numerical order
-==========================
+Musings, in numerical order
+===========================
 
 ## 1-10
 
