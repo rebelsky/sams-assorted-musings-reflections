@@ -1,3 +1,3 @@
-Essays, by topic
-================
+Musings, by topic
+=================
 
