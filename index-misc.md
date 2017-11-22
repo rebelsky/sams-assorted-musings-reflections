@@ -457,3 +457,7 @@ Almost everything else
 
 > One of the reasons I'm looking forward to the fall.
 
+[Achieving sympathy](achieving-sympathy) (Musing #493)
+
+> It's not quite nirvana, but it's still important.
+

@@ -123,3 +123,7 @@ Grinnell.
 > Oh, that's right.  I need to explain this to some of my students.
 "Core" is probably a good summary.
 
+[Double majors](double-majors) (Musing #492)
+
+> Why students might choose more than one.
+

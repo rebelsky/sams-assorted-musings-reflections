@@ -1,5 +1,5 @@
-Essays, by topic
-================
+Musings, by topic
+=================
 
 Essays on writing, or at least on writing my essays
 ---------------------------------------------------
@@ -1466,6 +1466,10 @@ Grinnell.
 > Oh, that's right.  I need to explain this to some of my students.
 "Core" is probably a good summary.
 
+[Double majors](double-majors) (Musing #492)
+
+> Why students might choose more than one.
+
 A letter to the incoming chair
 ------------------------------
 
@@ -2263,6 +2267,10 @@ Almost everything else
 [Getting my weekends back](getting-weekends-back) (Musing #491)
 
 > One of the reasons I'm looking forward to the fall.
+
+[Achieving sympathy](achieving-sympathy) (Musing #493)
+
+> It's not quite nirvana, but it's still important.
 
 Musings with multiple entries
 -----------------------------

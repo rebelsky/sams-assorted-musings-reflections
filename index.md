@@ -7,8 +7,10 @@ Some are rants about topics I'm passionate about.  Some are explanations
 of how I approach the world.  Some are just my attempts to think through
 a topic.
 
-Latest musing:
-[Getting my weekends back](getting-weekends-back) (Musing #491)
+Latest musings:
+[Double majors](double-majors) (Musing #492)
+and
+[Achieving sympathy](achieving-sympathy) (Musing #493)
 
 [Musings, by number](index-by-number) 
 

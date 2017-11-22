@@ -1,5 +1,5 @@
-Essays, in numerical order
-==========================
+Musings, in numerical order
+===========================
 
 ## 1-10
 
@@ -639,3 +639,5 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 ## 491-500
 
 [Getting my weekends back](getting-weekends-back) (Musing #491)  
+[Double majors](double-majors) (Musing #492)  
+[Achieving sympathy](achieving-sympathy) (Musing #493)  
