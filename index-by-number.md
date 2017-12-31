@@ -641,3 +641,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Getting my weekends back](getting-weekends-back) (Musing #491)  
 [Double majors](double-majors) (Musing #492)  
 [Achieving sympathy](achieving-sympathy) (Musing #493)  
+[I'm back (I think)](im-back-2017-12-30) (Musing #494)  

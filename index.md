@@ -1,16 +1,13 @@
 Front Door
 ==========
 
-Here you will find a variety of short writings on a variety of topics.
-Some are responses to questions I received from students or other people.
-Some are rants about topics I'm passionate about.  Some are explanations
-of how I approach the world.  Some are just my attempts to think through
-a topic.
+Here you will find short writings on a variety of topics.  Some are
+responses to questions I received from students or other people.  Some are
+rants about topics I'm passionate about.  Some are explanations of how
+I approach the world.  Some are just my attempts to think through a topic.
 
-Latest musings:
-[Double majors](double-majors) (Musing #492)
-and
-[Achieving sympathy](achieving-sympathy) (Musing #493)
+Latest musing:
+[I'm back (I think)](im-back-2017-12-30) (Musing #494)
 
 [Musings, by number](index-by-number) 
 

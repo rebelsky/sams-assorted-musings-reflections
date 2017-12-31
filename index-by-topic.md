@@ -2272,6 +2272,10 @@ Almost everything else
 
 > It's not quite nirvana, but it's still important.
 
+[I'm back (I think)](im-back-2017-12-30) (Musing #494)
+
+> Starting to muse again.
+
 Musings with multiple entries
 -----------------------------
 
