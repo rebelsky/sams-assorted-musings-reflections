@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss>
+  <channel>
+    <title>SamR's Assorted Musings and Rants</title>
+    <link>http://www.cs.grinnell.edu/~rebelsky/musings/</link>
+    <description>
+      A curmudegonly faculty member writes about a variety of topics.
+    </description>
+    <item>
+      <title>Musing #495: Measurable course learning outcomes</title>
+      <link>http://www.cs.grinnell.edu/~rebelsky/musings/measurable-course-outcomes</link>
+      <guid>http://www.cs.grinnell.edu/~rebelsky/musings/measurable-course-outcomes</guid>
+      <pubDate>Mon, 01 Jan 2018 01:26:13 GMT</pubDate>
+      <description>Reflecting on the Dean's recommendations on how to update my syllabi.</description>
+   </item>
+    <item>
+      <title>Musing #494: I'm back (I think)</title>
+      <link>http://www.cs.grinnell.edu/~rebelsky/musings/im-back-2017-12-30</link>
+      <guid>http://www.cs.grinnell.edu/~rebelsky/musings/im-back-2017-12-30</guid>
+      <pubDate>Sun, 31 Dec 2017 02:47:27 GMT</pubDate>
+      <description>Starting to muse again.</description>
+    </item>
+  </channel>
+</rss>
