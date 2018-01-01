@@ -7,7 +7,7 @@ rants about topics I'm passionate about.  Some are explanations of how
 I approach the world.  Some are just my attempts to think through a topic.
 
 Latest musing:
-[I'm back (I think)](im-back-2017-12-30) (Musing #494)
+[Measurable course learning outcomes](measurable-course-outcomes) (Musing #495)
 
 [Musings, by number](index-by-number) 
 
@@ -23,7 +23,7 @@ Latest musing:
 * [Assorted talks and speeches](index-talks-speeches)
 * [Thank-you notes](index-thank-you)
 * [On overcommitment](index-overcommitment)
-* [On teaching online](index-teaching-online)
+* [On teaching](index-teaching)
 * [On writing letters of recommendation](index-recommendations)
 * [Essays I removed](index-removed)
 * [Don't embarrass me; Don't embarrass yourself: Thoughts on thinking in C and Unix](index-cnix)

@@ -63,7 +63,7 @@ INDICES = index-by-topic-head.md \
 	index-talks-speeches.md \
 	index-thank-you.md \
 	index-overcommitment.md \
-	index-teaching-online.md \
+	index-teaching.md \
 	index-recommendations.md \
         index-cnix.md \
 	index-joc.md \
