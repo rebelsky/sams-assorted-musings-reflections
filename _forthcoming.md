@@ -1,11 +1,28 @@
 Some forthcoming musings
 ========================
 
-Today's musings
+New "soon"
 
-1. When can I grade? 
-1. What you didn't see.
-1. Rating myself.  (And I won't even know the results for more than six months.)
+1. RSS feed.
+1. Academic honesty in CS.
+1. Winter break plans.  Week one: Family time.  Week two: Grading.  (Some
+   overlap.) Week three: Write syllabi (due January 8).  Weeks four and
+   five: Clean office, who knows what else.  SIGCAS Web pages.  Build a
+   Rails site.  Try to learn GTD.  A bunch of recommendations.
+1. Teaching CS is teaching writing.
+1. Don't embarrass me.
+
+Old "soon"
+
+1. Fall job interviews.  (Tapia + GHC + A third conference + interviews)
+   A huge change.
+1. My first campus job(s).  (Too many!  Mentor for Math.  TC.  Mentor for
+   CS.  When I hit more than 20 hpw, they told me that I had to quit.  But
+   I volunteered instead.)
+   <http://www.chronicle.com/article/What-I-Learned-From-My-Campus/241573>
+   Learned community.  Learned teaching strategies.  Learned to be more
+   careful about hacking the system.  That I like teaching.  That sleep
+   is optional.  (Positives and negatives.)
 1. Learning to advise.
 1. "Can I have an extension?"
 1. "Things I wrote for other reasons".  Why am I labeling those when
@@ -13,7 +30,6 @@ Today's musings
 1. Makes no sense to me - Amount for student meals at conferences.
 1. Whatever I do in 151 today - joy of tables?.
 1. Five sentences.
-1. Syntactic sugar.
 
 New forthcoming musings
 
@@ -27,8 +43,6 @@ New forthcoming musings
 1. Blasters and Del-Lords mixtape
 1. Fun books: The 1924 College catalog
 1. Losing the members of President's Council?  Effect on ability to search?
-1. CSC 322.
-1. Course design: CSC 321/322.
 1. Sharepointless workflows.
 1. Stopping sooner.  (Didn't need second section in local/national/global.
    Didn't need more than "I had criticisms.  I was mistaken."
@@ -90,6 +104,7 @@ A series on addiction and organization
 
 Old forthcoming musings
 
+1. Syntactic sugar.
 1. Essay ??? (Nontechnical): Respect
 1. Essay ??? (Nontechnical): Belonging (?)
 1. Essay ??? (Semi-technical): Ethics in our curriculum
