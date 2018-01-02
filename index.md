@@ -9,6 +9,8 @@ I approach the world.  Some are just my attempts to think through a topic.
 Latest musing:
 [Academic (dis)honesty](academic-honesty-2018-01-01) (Musing #496)
 
+<a type="application/rss+xml" href="rss">RSS feed for this page</a>
+
 [Musings, by number](index-by-number) 
 
 [Musings, by topic](index-by-topic)
