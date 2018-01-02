@@ -7,6 +7,7 @@ New "soon"
    overlap.) Week three: Write syllabi (due January 8).  Weeks four and
    five: Clean office, who knows what else.  SIGCAS Web pages.  Build a
    Rails site.  Try to learn GTD.  A bunch of recommendations.
+1. RSS feed.
 1. Continuing to muse.  Use David Feldman quote.  Then add something like
    "I'm not sure that I have anything to prove.  It turns out that I seem 
    to be happier if I muse daily.  It's likely a combination of things.
@@ -14,12 +15,16 @@ New "soon"
    sustained reflection, even if it's only a brief opportunity.  Plus,
    Michelle really appreciates the opportunity to read what I'm thinking
    about."
-1. RSS feed.
 1. Transfering my digital workspace.
+1. Sokal, revisited  `sokal-revisited`
 1. Detailed learning outcomes for CSC 151.
 1. Teaching CS is teaching writing.
 1. Don't embarrass me.  (Whatever happened to ...?  Will I ever teach
    it again.)
+1. Cleaning up musings?  (Somewhere between three and four dozen drafts
+   of musings.  I'm not sure how many will see the light of day.  Some
+   I just deleted and will never remember.  Others I moved to a separate
+   folder to look at later.)
 
 Old "soon"
 
