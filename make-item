@@ -1,12 +1,16 @@
 #!/usr/bin/perl
 
-my $title = `head -1 $ARGV[0]`;
+# Usage: make-item FILE.md
+
+# Extract basic information
+my $file = $ARGV[0];
 my $date = `TZ=gmt date +"%a, %d %b %Y %H:%M:%S GMT"`;
-my $document = $ARGV[0];
+chomp($date);
+my $title = `head -1 $file`;
+chomp($title);
+my $document = $file;
 $document =~ s/\.md$//;
 
-chomp($title);
-chomp($date);
 
 print <<"ITEM";
     <item>
