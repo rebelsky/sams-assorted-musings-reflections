@@ -39,12 +39,12 @@ half of the twelve hours were spent writing those letters.
 
 Why does all of this matter?  Because twelve hours I spent on academic
 honesty cases was twelve hours I couldn't spend grading other materials,
-or writing study guides, or, well, anything.  It took a lot of mental
+or writing study guides, or, well, anything.  It also took a lot of mental
 and emotional energy which I then did not have for my other activities.
 
-It also meant that in the classes that had associated cases, I had to
-delay the release of tentative grades.  Does that matter?  In classes
-with an optional final [8], it does.
+And, in classes with associated cases, it mean that I had to delay the
+release of tentative grades.  Does that matter?  In classes with an
+optional final [8], it does.
 
 In the past, I've told students that they should follow standards of
 academic honesty because of the penalties they may suffer if they don't
@@ -91,4 +91,6 @@ everything by the end of the semester.
 
 ---
 
-*Version 1.0 of 2018-01-01.*
+*Version 1.0 released 2018-01-01.*
+
+*Version 1.0.1 of 2018-01-02.*
