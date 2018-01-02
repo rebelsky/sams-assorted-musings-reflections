@@ -1,0 +1,120 @@
+.text-nowrap {
+  white-space: nowrap;
+}
+
+h1, h2 {
+  border-bottom: 0.5px solid gray;
+}
+
+blockquote {
+  color: #808080;
+  border: none;
+  padding-top: 0px;
+  padding-bottom: 5px;
+  margin-bottom: 5px;
+}
+
+nav.navbar {
+  margin-bottom: 0;
+}
+
+.subtitle {
+  font-size: 12px;
+}
+
+table.table thead tr th {
+  text-align: center;
+}
+
+table.table tbody tr td {
+  vertical-align: middle;
+}
+
+table.table tbody tr.week-header {
+  background-color: #0000df;
+  font-weight: bold;
+  color: #ffffff;
+}
+
+table.table tbody tr.column-header {
+  background-color: #dddddd;
+  font-weight: bold;
+}
+
+div.footer {
+  font-size: 80%;
+}
+
+nav.navbar-inverse, 
+nav.navbar-inverse
+.navbar-inverse .navbar-collapse,
+.navbar-inverse .navbar-form,
+.navbar-collapse.collapse,
+.navbar-collapse.collapsing {
+  background-color: #0000ff;
+  border-color: #3f007d;
+}
+
+nav.navbar-inverse .navbar-nav .active a,
+nav.navbar-inverse .navbar-nav a:hover,
+nav.navbar-inverse .navbar-nav .active a:hover,
+.navbar-inverse .navbar-toggle:hover,
+.navbar-inverse .navbar-toggle:focus {
+  background-color: #3f007d;
+}
+
+table ul.list-unstyled {
+  margin-bottom: 0;
+}
+
+blockquote p {
+  font-size: 15px;
+}
+
+/*
+ * The code below changes the collapse point of the navbar
+ * so that it collapses before any of the links fall into
+ * multiple rows.
+ *
+ * This was written by ZimSystem in response to question
+ * http://stackoverflow.com/questions/19827605/.
+ *
+ * There might be a simpler way to do this, but it works
+ * perfectly.
+ */
+@media (max-width: 991px) {
+  .navbar-header {
+      float: none;
+  }
+  .navbar-left,.navbar-right {
+      float: none !important;
+  }
+  .navbar-toggle {
+      display: block;
+  }
+  .navbar-collapse {
+      border-top: 1px solid transparent;
+      box-shadow: inset 0 1px 0 rgba(255,255,255,0.1);
+  }
+  .navbar-fixed-top {
+      top: 0;
+      border-width: 0 0 1px;
+  }
+  .navbar-collapse.collapse {
+      display: none!important;
+  }
+  .navbar-nav {
+      float: none!important;
+      margin-top: 7.5px;
+  }
+  .navbar-nav>li {
+      float: none;
+  }
+  .navbar-nav>li>a {
+      padding-top: 10px;
+      padding-bottom: 10px;
+  }
+  .collapse.in{
+      display:block !important;
+  }
+}
