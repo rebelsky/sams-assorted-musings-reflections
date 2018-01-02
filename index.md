@@ -7,7 +7,7 @@ rants about topics I'm passionate about.  Some are explanations of how
 I approach the world.  Some are just my attempts to think through a topic.
 
 Latest musing:
-[Measurable course learning outcomes](measurable-course-outcomes) (Musing #495)
+[Academic (dis)honesty](academic-honesty-2018-01-01) (Musing #496)
 
 [Musings, by number](index-by-number) 
 

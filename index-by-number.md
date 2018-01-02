@@ -642,3 +642,5 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Double majors](double-majors) (Musing #492)  
 [Achieving sympathy](achieving-sympathy) (Musing #493)  
 [I'm back (I think)](im-back-2017-12-30) (Musing #494)  
+[Measurable course learning outcomes](measurable-course-outcomes) (Musing #495)  
+[Academic (dis)honesty](academic-honesty-2018-01-01) (Musing #496)  

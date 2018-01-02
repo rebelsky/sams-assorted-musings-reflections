@@ -16,3 +16,7 @@ online, but they will soon expand to more general issues about teaching._
 
 > A recommendation from the Dean's office.
 
+[Academic (dis)honesty](academic-honesty-2018-01-01) (Musing #496)
+
+> And those it affects.
+

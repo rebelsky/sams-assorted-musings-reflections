@@ -543,10 +543,6 @@ Reflections on some important issues
 
 > Surviving America.
 
-[Academic honesty](academic-honesty-2017-05-07) (Musing #311)
-
-> Or lack thereof.
-
 [Intent vs. impact](intent-vs-impact) (Musing #313)
 
 > Our words and how people interpret them.
@@ -947,12 +943,27 @@ Overcommitment
 
 > The results of break.
 
-On teaching online
-------------------
+On teaching 
+-----------
+
+_Notes on teaching.  These were orginally just my notes on teaching
+online, but they will soon expand to more general issues about teaching._
 
 [Making talking-head videos](online-teaching-talking-head-videos) (Essay #46)
 
 > Short reflections on having to make "talking head" videos.
+
+[Academic honesty](academic-honesty-2017-05-07) (Musing #311)
+
+> Or lack thereof.
+
+[Measurable course learning outcomes](measurable-course-outcomes) (Musing #495)
+
+> A recommendation from the Dean's office.
+
+[Academic (dis)honesty](academic-honesty-2018-01-01) (Musing #496)
+
+> And those it affects.
 
 On writing letters of recommendation
 ------------------------------------
