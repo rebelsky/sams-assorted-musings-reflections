@@ -45,7 +45,7 @@ I had thought that you could readily see the space between pixels increasing.
 And, at times, you can.  But you also get some very interesting
 patterns and transitions between patterns.  Download Processing, run
 this program, and maybe you'll understand what I mean about it being
-somewhat surprising.  You can also try to view the [video](pixels.mp4],
+somewhat surprising.  You can also try to view the [video](pixels.mp4),
 but I haven't had much luck with it.
 
 Here's what I like most about the program.  It took me less than ten
@@ -76,5 +76,7 @@ you tell how the use led me to this one?
 
 ---
 
-*Version 1.0 of 2016-10-17.*
+*Version 1.0 released on 2016-10-17.*
+
+*Version 1.0.1 of 2018-01-02.*
 
