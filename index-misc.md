@@ -465,3 +465,7 @@ Almost everything else
 
 > Starting to muse again.
 
+[Setting up an RSS feed](rss-feed) (Musing #497)
+
+> Trying to make the musings more readily available.
+

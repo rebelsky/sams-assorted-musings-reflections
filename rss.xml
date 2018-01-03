@@ -1,17 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss>
+<rss version="2.0">
   <channel>
     <title>SamR's Assorted Musings and Rants</title>
     <link>http://www.cs.grinnell.edu/~rebelsky/musings/</link>
     <description>
-      A curmudegonly faculty member writes about a variety of topics.
+      A curmudgeonly faculty member writes about a variety of topics.
     </description>
+    <item>
+      <title>Musing #497: Setting up an RSS feed</title>
+      <link>http://www.cs.grinnell.edu/~rebelsky/musings/rss-feed</link>
+      <guid>http://www.cs.grinnell.edu/~rebelsky/musings/rss-feed</guid>
+      <pubDate>Wed, 03 Jan 2018 01:46:34 GMT</pubDate>
+      <description>Trying to make the musings more readily available.</description>
+    </item>
+    <item>
+      <title>Musing #496: Academic (dis)honesty</title>
+      <link>http://www.cs.grinnell.edu/~rebelsky/musings/academic-honesty-2018-01-01</link>
+      <guid>http://www.cs.grinnell.edu/~rebelsky/musings/academic-honesty-2018-01-01</guid>
+      <pubDate>Tue, 02 Jan 2018 01:48:40 GMT</pubDate>
+      <description>Those it affects.</description>
+    </item>
     <item>
       <title>Musing #495: Measurable course learning outcomes</title>
       <link>http://www.cs.grinnell.edu/~rebelsky/musings/measurable-course-outcomes</link>
       <guid>http://www.cs.grinnell.edu/~rebelsky/musings/measurable-course-outcomes</guid>
       <pubDate>Mon, 01 Jan 2018 01:26:13 GMT</pubDate>
-      <description>Reflecting on the Dean's recommendations on how to update my syllabi.</description>
+      <description>Reflecting on recommendations from the Dean's Office on how to update my syllabi.</description>
    </item>
     <item>
       <title>Musing #494: I'm back (I think)</title>

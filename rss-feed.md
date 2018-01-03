@@ -3,7 +3,7 @@ Setting up an RSS feed
 
 A variety of people have asked that I set up an RSS feed for the musings.
 This semester was too busy to spend time looking into such topics; I
-[didn't even have time to muse for the past month](im-back-2017-12-30).  
+[didn't even have time to muse for the past month](im-back-2017-12-30).
 However, it's now winter break and I'm restarting my musings.  It seemed
 like the appropriate time to see if I could set up a feed.
 
@@ -11,7 +11,7 @@ For those who don't know, RSS ("Really Simple Syndication") is a fairly
 old technology by which Web sites can provide their readers with updates
 about the most recent articles on the sites.  A variety of readers track
 those lists of articles (called "feeds").  While I advertise my latest
-musings on Facebook and Twitter, many people would prefer to just use 
+musings on Facebook and Twitter, many people would prefer to just use
 their feed reader to identify the new musings.
 
 While my long-term plan is to automate the generation of an RSS feed, my
@@ -31,7 +31,7 @@ feed, starting with two recent posts [2].
         <title>SamR's Assorted Musings and Rants</title>
         <link>http://www.cs.grinnell.edu/~rebelsky/musings/</link>
         <description>
-          A curmudegonly faculty member writes about a variety of topics.
+          A curmudgeonly faculty member writes about a variety of topics.
         </description>
         <item>
           <title>Musing #496: Academic (dis)honesty</title>
@@ -59,7 +59,7 @@ feed, starting with two recent posts [2].
 
 Pretty simple, right?  I'm not sure why there are separate `link` and
 `guid` fields, but my quick reading is that the `guid` is a permanent
-identifier (and hence should not be duplicated) while the `link` may be 
+identifier (and hence should not be duplicated) while the `link` may be
 temporary (and may therefore be used for multiple items).
 
 I took about five minutes to figure out how to generate the `pubDate`
@@ -85,7 +85,7 @@ to
     <rss>
 
 Of course, that meant that the feed was no longer *correct* XML, but it
-*was* readable.  And most RSS readers are pretty adaptable.  But it still 
+*was* readable.  And most RSS readers are pretty adaptable.  But it still
 irked me.
 
 Then I wondered, *I'm trying to access it from off campus.  Could someone
@@ -95,7 +95,7 @@ I could access the feed from on campus but not from off campus.  I was
 trying to do this over the period that the College was closed.  Happily,
 ITS responded quickly to my question about the firewall.
 
-> [A]ccess to RSS was not previously permited to www.cs.  I've added the
+> [A]ccess to RSS was not previously permitted to www.cs.  I've added the
 application to the security policy.  Please test again.
 
 Happily, things now seem to work.  Let me know if they don't.
@@ -110,10 +110,10 @@ the site [6].
 ---
 
 [1] Hmmm ... maybe I should look into automating those tasks, too.  But
-then I have to worry about acccess tokens and the like.  Oh well; it's 
+then I have to worry about access tokens and the like.  Oh well; it's
 something to consider long term.
 
-[2] I figured out the form of an XML file from 
+[2] I figured out the form of an XML file from
 <https://www.wikihow.com/Create-an-RSS-Feed>.
 
 [3] No, I'm not going to explain it.
@@ -124,13 +124,13 @@ a program that generates content.  CGI scripts let you specify the content
 type, which seemed useful to me.  If you care, I've been doing this stuff
 long enough that I still write my CGI scripts in Perl.
 
-[5] I realize that "firewall" is a noun.  But I think it functions 
+[5] I realize that "firewall" is a noun.  But I think it functions
 perfectly well as a verb.
 
-[6] Yes, restructuring the site is one of my plans for 
+[6] Yes, restructuring the site is one of my plans for
 [winter break](winter-break-2017-2018).
 
 ---
 
-*Version 0.9 of 2018-01-02.*
+*Version 1.0 of 2018-01-02.*
 

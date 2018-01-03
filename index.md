@@ -7,7 +7,7 @@ rants about topics I'm passionate about.  Some are explanations of how
 I approach the world.  Some are just my attempts to think through a topic.
 
 Latest musing:
-[Academic (dis)honesty](academic-honesty-2018-01-01) (Musing #496)
+[Setting up an RSS feed](rss-feed) (Musing #497)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
