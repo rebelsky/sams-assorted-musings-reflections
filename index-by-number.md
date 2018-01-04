@@ -645,3 +645,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Measurable course learning outcomes](measurable-course-outcomes) (Musing #495)  
 [Academic (dis)honesty](academic-honesty-2018-01-01) (Musing #496)  
 [Setting up an RSS feed](rss-feed) (Musing #497)  
+[What are you doing during winter break?](winter-break-2017-2018) (Musing #498)  

@@ -943,6 +943,10 @@ Overcommitment
 
 > The results of break.
 
+[What are you doing during winter break?](winter-break-2017-2018) (Musing #498)
+
+> Too many plans.
+
 On teaching 
 -----------
 
