@@ -7,7 +7,7 @@ rants about topics I'm passionate about.  Some are explanations of how
 I approach the world.  Some are just my attempts to think through a topic.
 
 Latest musing:
-[What are you doing during winter break?](winter-break-2017-2018) (Musing #498)
+[Transferring my digital workspace](transferring-digital-workspace-2018-01-04) (Musing #499)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

@@ -2295,6 +2295,11 @@ Almost everything else
 
 > Trying to make the musings more readily available.
 
+[Transferring my digital workspace](transferring-digital-workspace-2018-01-04) (Musing #499)
+
+> Getting ready to send my workstation in for repairs.
+
+
 Musings with multiple entries
 -----------------------------
 
