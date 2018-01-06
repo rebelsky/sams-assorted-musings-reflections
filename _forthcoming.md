@@ -3,33 +3,24 @@ Some forthcoming musings
 
 New "soon"
 
-1. Winter break plans.  Week one: Family time.  Week two: Grading.  (Some
-   overlap.) Week three: Write syllabi (due January 8).  Weeks four and
-   five: Clean office, who knows what else.  SIGCAS Web pages.  Build a
-   Rails site.  Try to learn GTD.  A bunch of recommendations.
-1. RSS feed.
-1. Continuing to muse.  Use David Feldman quote.  Then add something like
-   "I'm not sure that I have anything to prove.  It turns out that I seem 
-   to be happier if I muse daily.  It's likely a combination of things.
-   There's a sense of accomplishment.  I've had an opportunity for
-   sustained reflection, even if it's only a brief opportunity.  Plus,
-   Michelle really appreciates the opportunity to read what I'm thinking
-   about."
-1. Transfering my digital workspace.
+1. Schedule. `updating-course-schedule`.
+1. Fall job interviews.  (Tapia + GHC + A third conference + interviews)
+   A huge change.
+1. Coarse-grained grading.
 1. Sokal, revisited  `sokal-revisited`
 1. Detailed learning outcomes for CSC 151.
 1. Teaching CS is teaching writing.
 1. Don't embarrass me.  (Whatever happened to ...?  Will I ever teach
-   it again.)
+   it again.
 1. Cleaning up musings?  (Somewhere between three and four dozen drafts
    of musings.  I'm not sure how many will see the light of day.  Some
    I just deleted and will never remember.  Others I moved to a separate
    folder to look at later.)
+1. Grading Student Projects (See Janet's facebook post on Dec. 19, now at
+   the end of this file).
 
 Old "soon"
 
-1. Fall job interviews.  (Tapia + GHC + A third conference + interviews)
-   A huge change.
 1. My first campus job(s).  (Too many!  Mentor for Math.  TC.  Mentor for
    CS.  When I hit more than 20 hpw, they told me that I had to quit.  But
    I volunteered instead.)
@@ -311,13 +302,11 @@ http://www.lel.ed.ac.uk/~gpullum/EskimoHoax.pdf
 
 1. Questbridge.
 
-1. Grading Student Projects (See Janet's facebook post on Dec. 19).
-
 1. Heap sort.
 
 1. USITE.
 
-1. Backticks.
+1. Backticks. (Students don't understand what I call them.)
 
 1. Our ASAs.
 
@@ -338,8 +327,6 @@ students. http://www.chronicle.com/article/When-Do-Public-Rebukes-of/238552
 should you write?) (An issue for creativity.)
 
 1. Outlook. (More precisely, Outlook Calendar.)
-
-1. RSS feeds.
 
 1. Bob Dylan wins Nobel prize. (Mongo says "Rock n Roll. Form a band. Arts are important. Students never know, one may win a Nobel for Rock n Roll!")
 
@@ -771,3 +758,31 @@ Okay, I'm on leave from teaching. Why am I still finding that I have more work t
 ---
 
 Note from Harly: Here's an honest question that sounds snarky no matter how I phrase it: why subscribe to something like Grammarly and put up with all its frustrations when you could just keep a style manual near your keyboard and pay attention to what you write?
+
+---
+
+Grading Student Projects
+
+Janet: Why are student-defined projects so tedious to grade, despite giving students the opportunity to demonstrate their creativity? I think because they require real concentration to understand and careful judgment to assign grades to. Unlike homework assignments, there's not much benefit to grading them in batches because they have so little in common. The context switches get tiring. Next time I need to find a different way to approach this.
+
+Jim Huggins: There's no opportunity for you to gain expertise in grading. This is what we see all the time in grading the APCSA exam. Most questions experience a speed-up in time required to score a given response as the week progresses, because readers gain experience with most of the common patterns of responses. (That assumes that a given question has only a few response patterns; when that doesn't happen, neither does the speedup.)
+
+Susan Sanning: I've often thought it would be interesting to ask students to create a grading rubric for their self-defined project.
+
+Janet Burge:  One of my colleagues has 20% of their project grade marked as "interestingness" and assigns it at the end. Then I can score the other deliverables using the same rubric (test coverage, use of tools, ...) and save the tough value judgements towards the end. Unless they want me to tell them in advance if what they did was interesting enough for full credit...
+
+Patter Mattison Boothe: I was never able to find a homework grading rhythm, and preferred grading the student defined projects as a result.
+
+I recommend taking an artist's view. Art professors grade student defined work constantly, and as such they trust their gut and sense of taste much more than most CS professionals are willing to do. Explicitly deciding to trust my sense of taste made grading custom projects a lot nicer.
+
+Ellen Walker: Yes, but what is really frustrating is the need to justify your grades. I grade individualized student projects and I know going in what grade it deserves (using the "artists view") and then I have to make all the pieces add up right and the comments to justify it.
+
+Janet Davis:  I have a hard time trusting my gut. I have a feeling this project will go one of two ways over time: Either I will figure out what I'm looking for and develop a detailed rubric grid, or I will go the other way altogether and grade only on the number of times students revise their work based on my feedback (great idea, Devon Wootten!)
+
+Clif Kussmual:  I still struggle with this too. Some people me that they don't assign such projects because grading is too difficult or problematic - I feel my duty is to assign work that will most benefit the students, then figure out how best to grade it. I try to be up front about this with students and acknowledge that project grading tends to be more subjective than CS1 HW.
+I try to use rubrics to clarify expectations for me & students, but sometimes I find that: a) the rubric and my instinct ("sense of taste") don't always match, and b) students try to game the rubric rather than work towards a good project. So I try to make the rubrics specific enough to clarify what I want, and vague enough that they can adapt to different projects, teams, etc.
+
+Arielle Cooley:  I agree. Especially since we know that qualitative measures increase implicit bias, so for me it ends up being a little bit stressful and a lot of second-guessing (did I score this student too low because of a bias that I have? or too high because I am overcompensating for one I think I have?). Ack! The content is more interesting though.
+
+Melissa Marks:  I've been experimenting with specifications grading - it does require that you know what you're generally looking for, but it results in a grading system where they did or didn't meet the minimum specifications for a basic passing grade (i.e. C). Higher grades can come from doing extra work or doing more sophisticated work (it's pretty easy to reward risk, interest, effort, etc. that goes beyond the minimum requirement without being more difficult or time consuming).
+
