@@ -235,6 +235,10 @@ Essays on writing, or at least on writing my essays
 
 > A great word.
 
+[Why keep musing?](why-keep-musing-2018-01-05) (Musing #500)
+
+> Because.
+
 For prospective students, parents of prospective students, and others with similar interests
 --------------------------------------------------------------------------------------------
 
