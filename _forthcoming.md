@@ -4,10 +4,11 @@ Some forthcoming musings
 New "soon"
 
 1. Schedule. `updating-course-schedule`.
+1. Sokal, revisited  `sokal-revisited`
 1. Fall job interviews.  (Tapia + GHC + A third conference + interviews)
    A huge change.
 1. Coarse-grained grading.
-1. Sokal, revisited  `sokal-revisited`
+1. Annotation software?
 1. Detailed learning outcomes for CSC 151.
 1. Teaching CS is teaching writing.
 1. Don't embarrass me.  (Whatever happened to ...?  Will I ever teach
@@ -18,6 +19,7 @@ New "soon"
    folder to look at later.)
 1. Grading Student Projects (See Janet's facebook post on Dec. 19, now at
    the end of this file).
+1. Eboards. (`sketches/eboards.md`)
 
 Old "soon"
 
