@@ -2,63 +2,63 @@
 <rss version="2.0">
   <channel>
     <title>SamR's Assorted Musings and Rants</title>
-    <link>http://www.cs.grinnell.edu/~rebelsky/musings/</link>
+    <link>https://www.cs.grinnell.edu/~rebelsky/musings/</link>
     <description>
       A curmudgeonly faculty member writes about a variety of topics.
     </description>
     <item>
       <title>Musing #501: The spectre of Spectre</title>
-      <link>http://www.cs.grinnell.edu/~rebelsky/musings/spectre-of-spectre</link>
-      <guid>http://www.cs.grinnell.edu/~rebelsky/musings/spectre-of-spectre</guid>
+      <link>https://www.cs.grinnell.edu/~rebelsky/musings/spectre-of-spectre</link>
+      <guid>https://www.cs.grinnell.edu/~rebelsky/musings/spectre-of-spectre</guid>
       <pubDate>Sun, 07 Jan 2018 02:34:38 GMT</pubDate>
       <description>Some things I learned by reading about security flaws.</description>
     </item>
     <item>
       <title>Musing #500: Why keep musing?</title>
-      <link>http://www.cs.grinnell.edu/~rebelsky/musings/why-keep-musing-2018-01-05</link>
-      <guid>http://www.cs.grinnell.edu/~rebelsky/musings/why-keep-musing-2018-01-05</guid>
+      <link>https://www.cs.grinnell.edu/~rebelsky/musings/why-keep-musing-2018-01-05</link>
+      <guid>https://www.cs.grinnell.edu/~rebelsky/musings/why-keep-musing-2018-01-05</guid>
       <pubDate>Sat, 06 Jan 2018 01:16:16 GMT</pubDate>
       <description>Because.</description>
     </item>
     <item>
       <title>Musing #499: Transferring my digital workspace</title>
-      <link>http://www.cs.grinnell.edu/~rebelsky/musings/transferring-digital-workspace-2018-01-04</link>
-      <guid>http://www.cs.grinnell.edu/~rebelsky/musings/transferring-digital-workspace-2018-01-04</guid>
+      <link>https://www.cs.grinnell.edu/~rebelsky/musings/transferring-digital-workspace-2018-01-04</link>
+      <guid>https://www.cs.grinnell.edu/~rebelsky/musings/transferring-digital-workspace-2018-01-04</guid>
       <pubDate>Fri, 05 Jan 2018 03:44:21 GMT</pubDate>
       <description>Getting ready to send my workstation in for repairs.</description>
     </item>
     <item>
       <title>Musing #498: What are you doing during winter break?</title>
-      <link>http://www.cs.grinnell.edu/~rebelsky/musings/winter-break-2017-2018</link>
-      <guid>http://www.cs.grinnell.edu/~rebelsky/musings/winter-break-2017-2018</guid>
+      <link>https://www.cs.grinnell.edu/~rebelsky/musings/winter-break-2017-2018</link>
+      <guid>https://www.cs.grinnell.edu/~rebelsky/musings/winter-break-2017-2018</guid>
       <pubDate>Thu, 04 Jan 2018 02:41:31 GMT</pubDate>
       <description>Too many plans.</description>
     </item>
     <item>
       <title>Musing #497: Setting up an RSS feed</title>
-      <link>http://www.cs.grinnell.edu/~rebelsky/musings/rss-feed</link>
-      <guid>http://www.cs.grinnell.edu/~rebelsky/musings/rss-feed</guid>
+      <link>https://www.cs.grinnell.edu/~rebelsky/musings/rss-feed</link>
+      <guid>https://www.cs.grinnell.edu/~rebelsky/musings/rss-feed</guid>
       <pubDate>Wed, 03 Jan 2018 01:46:34 GMT</pubDate>
       <description>Trying to make the musings more readily available.</description>
     </item>
     <item>
       <title>Musing #496: Academic (dis)honesty</title>
-      <link>http://www.cs.grinnell.edu/~rebelsky/musings/academic-honesty-2018-01-01</link>
-      <guid>http://www.cs.grinnell.edu/~rebelsky/musings/academic-honesty-2018-01-01</guid>
+      <link>https://www.cs.grinnell.edu/~rebelsky/musings/academic-honesty-2018-01-01</link>
+      <guid>https://www.cs.grinnell.edu/~rebelsky/musings/academic-honesty-2018-01-01</guid>
       <pubDate>Tue, 02 Jan 2018 01:48:40 GMT</pubDate>
       <description>Those it affects.</description>
     </item>
     <item>
       <title>Musing #495: Measurable course learning outcomes</title>
-      <link>http://www.cs.grinnell.edu/~rebelsky/musings/measurable-course-outcomes</link>
-      <guid>http://www.cs.grinnell.edu/~rebelsky/musings/measurable-course-outcomes</guid>
+      <link>https://www.cs.grinnell.edu/~rebelsky/musings/measurable-course-outcomes</link>
+      <guid>https://www.cs.grinnell.edu/~rebelsky/musings/measurable-course-outcomes</guid>
       <pubDate>Mon, 01 Jan 2018 01:26:13 GMT</pubDate>
       <description>Reflecting on recommendations from the Dean's Office on how to update my syllabi.</description>
    </item>
     <item>
       <title>Musing #494: I'm back (I think)</title>
-      <link>http://www.cs.grinnell.edu/~rebelsky/musings/im-back-2017-12-30</link>
-      <guid>http://www.cs.grinnell.edu/~rebelsky/musings/im-back-2017-12-30</guid>
+      <link>https://www.cs.grinnell.edu/~rebelsky/musings/im-back-2017-12-30</link>
+      <guid>https://www.cs.grinnell.edu/~rebelsky/musings/im-back-2017-12-30</guid>
       <pubDate>Sun, 31 Dec 2017 02:47:27 GMT</pubDate>
       <description>Starting to muse again.</description>
     </item>
