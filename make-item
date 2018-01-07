@@ -15,8 +15,8 @@ $document =~ s/\.md$//;
 print <<"ITEM";
     <item>
       <title>Musing #XXX: $title</title>
-      <link>http://www.cs.grinnell.edu/~rebelsky/musings/$document</link>
-      <guid>http://www.cs.grinnell.edu/~rebelsky/musings/$document</guid>
+      <link>https://www.cs.grinnell.edu/~rebelsky/musings/$document</link>
+      <guid>https://www.cs.grinnell.edu/~rebelsky/musings/$document</guid>
       <pubDate>$date</pubDate>
       <description>XXX.</description>
     </item>
