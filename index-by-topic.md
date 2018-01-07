@@ -2303,6 +2303,9 @@ Almost everything else
 
 > Getting ready to send my workstation in for repairs.
 
+[The spectre of Spectre](spectre-of-spectre) (Musing #501)
+
+> Some things I learned by reading about security flaws.
 
 Musings with multiple entries
 -----------------------------

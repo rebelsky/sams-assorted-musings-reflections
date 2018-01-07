@@ -648,3 +648,7 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [What are you doing during winter break?](winter-break-2017-2018) (Musing #498)  
 [Transferring my digital workspace](transferring-digital-workspace-2018-01-04) (Musing #499)  
 [Why keep musing?](why-keep-musing-2018-01-05) (Musing #500)  
+
+## 501-510
+
+[The spectre of Spectre](spectre-of-spectre) (Musing #501)  

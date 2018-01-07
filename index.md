@@ -7,7 +7,7 @@ rants about topics I'm passionate about.  Some are explanations of how
 I approach the world.  Some are just my attempts to think through a topic.
 
 Latest musing: 
-[Why keep musing?](why-keep-musing-2018-01-05) (Musing #500)
+[The spectre of Spectre](spectre-of-spectre) (Musing #501)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
