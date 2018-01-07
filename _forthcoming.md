@@ -8,7 +8,7 @@ New "soon"
 1. Fall job interviews.  (Tapia + GHC + A third conference + interviews)
    A huge change.
 1. Coarse-grained grading.
-1. Annotation software?
+1. Annotation software?: `sketches/annotating-the-web`.
 1. Detailed learning outcomes for CSC 151.
 1. Teaching CS is teaching writing.
 1. Don't embarrass me.  (Whatever happened to ...?  Will I ever teach
@@ -19,6 +19,12 @@ New "soon"
    folder to look at later.)
 1. Grading Student Projects (See Janet's facebook post on Dec. 19, now at
    the end of this file).
+1. Graders.  (I use student graders.  Discussion with colleague.  List of
+   things that I assign in CSC 151.)  4.5 hours in class.  4.5 hours of
+   prep.  Three lab writeups per week.  That would be six hours.  One
+   quiz per week.  That's about two hours.  One assignment.  6-8 hours.
+   Writing the quiz.  One hour.  Writing the assignment.  Two hours.
+   Total: More than twenty hours.  Too much for one class.
 1. Eboards. (`sketches/eboards.md`)
 
 Old "soon"
@@ -30,8 +36,8 @@ Old "soon"
    Learned community.  Learned teaching strategies.  Learned to be more
    careful about hacking the system.  That I like teaching.  That sleep
    is optional.  (Positives and negatives.)
-1. Learning to advise.  (Did I write that?)
-1. "Can I have an extension?"
+1. Learning to advise.  (Did I write that already?)
+1. "Can I have an extension?"  When to ask.  When not to ask.
 1. "Things I wrote for other reasons".  Why am I labeling those when
    that's the initial reason I started this thing, whatever this thing is.
 1. Makes no sense to me - Amount for student meals at conferences.
