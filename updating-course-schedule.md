@@ -35,6 +35,13 @@ the schedule and list of assignments.  That means that I have a lot of
 documents to edit: the assignments, the quizzes, the exams, and almost
 anything else with a due date [7].
 
+There are also associated problems with using custom software to build
+the site.  We generate the syllabus based on information on the class
+days.  What do we do if an assignment is due on a day in which we don't
+have class?  That might require rewriting software.  Or it might require
+a hack like my colleague made of putting fake days in the list of topics.
+But that breaks other parts.  Change can be hard.
+
 But even if I didn't have a weird site-development strategy [8] and
 did not change the order of topics, it would take some time.  Why?
 Because Grinnell semesters are not consistent.  In the fall, classes start
@@ -104,4 +111,4 @@ semester, we start the next day.
 
 ---
 
-*Version 0.2 of 2018-01-06.*
+*Version 0.3 of 2018-01-07.*
