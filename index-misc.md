@@ -477,3 +477,7 @@ Almost everything else
 
 > Some things I learned by reading about security flaws.
 
+[A question about tuition from an ACT survey](act-tuition-survey) (Musing #503)
+
+> Where do they get their numbers?
+

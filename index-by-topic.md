@@ -951,6 +951,10 @@ Overcommitment
 
 > Too many plans.
 
+[Another taskcade](taskcading-2018-01-07) (Musing #502)
+
+> One in a series.
+
 On teaching 
 -----------
 
@@ -2306,6 +2310,10 @@ Almost everything else
 [The spectre of Spectre](spectre-of-spectre) (Musing #501)
 
 > Some things I learned by reading about security flaws.
+
+[A question about tuition from an ACT survey](act-tuition-survey) (Musing #503)
+
+> Where do they get their numbers?
 
 Musings with multiple entries
 -----------------------------

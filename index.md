@@ -7,7 +7,7 @@ rants about topics I'm passionate about.  Some are explanations of how
 I approach the world.  Some are just my attempts to think through a topic.
 
 Latest musing: 
-[The spectre of Spectre](spectre-of-spectre) (Musing #501)
+[A question about tuition from an ACT survey](act-tuition-survey) (Musing #503)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
