@@ -26,6 +26,12 @@ New "soon"
    Writing the quiz.  One hour.  Writing the assignment.  Two hours.
    Total: More than twenty hours.  Too much for one class.
 1. Eboards. (`sketches/eboards.md`)
+1. Every ten minutes.  (My new policy of standing up every ten minutes.
+   I tend to get too focused.  ANy relation to Pomodoro?  I should look.)
+   iPhone makes it nice.  But ten minutes always seems so quick.  And it's
+   usually eleven, since I should walk for eleven.
+1. Room and Board at Grinnell and elsewhere.  (See the `act-tuition-survey`
+   musing for links.)
 
 Old "soon"
 
