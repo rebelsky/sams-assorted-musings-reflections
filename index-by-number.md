@@ -656,3 +656,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [A question about tuition from an ACT survey](act-tuition-survey) (Musing #503)  
 [Excused and unexcused class absences](excused-absences) (Musing #504)  
 [Sokal, revisited](sokal-revisited) (Musing #505)  
+[Coarse-grained grading](coarse-grained-grading) (Musing #506)  

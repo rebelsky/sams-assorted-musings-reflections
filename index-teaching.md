@@ -24,3 +24,7 @@ online, but they will soon expand to more general issues about teaching._
 
 > Dealing with students who miss class.
 
+[Coarse-grained grading](coarse-grained-grading) (Musing #506)
+
+> Looking at the big picture, rather than individual details.
+
