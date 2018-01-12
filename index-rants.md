@@ -232,3 +232,8 @@ Why Grinnell staff with Ph.D's should be allowed to teach.
 
 > Please make sure that faculty know about their advisees.
 
+[Sokal, revisited](sokal-revisited) (Musing #505)
+
+> Getting not only the science, but also the citations, wrong.
+
+

@@ -798,6 +798,11 @@ Why Grinnell staff with Ph.D's should be allowed to teach.
 
 > Please make sure that faculty know about their advisees.
 
+[Sokal, revisited](sokal-revisited) (Musing #505)
+
+> Getting not only the science, but also the citations, wrong.
+
+
 Assorted talks and speeches
 ---------------------------
 
@@ -976,6 +981,10 @@ online, but they will soon expand to more general issues about teaching._
 [Academic (dis)honesty](academic-honesty-2018-01-01) (Musing #496)
 
 > And those it affects.
+
+[Excused and unexcused class absences](excused-absences) (Musing #504)
+
+> Dealing with students who miss class.
 
 On writing letters of recommendation
 ------------------------------------

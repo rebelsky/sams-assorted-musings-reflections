@@ -654,3 +654,5 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [The spectre of Spectre](spectre-of-spectre) (Musing #501)  
 [Another taskcade](taskcading-2018-01-07) (Musing #502)  
 [A question about tuition from an ACT survey](act-tuition-survey) (Musing #503)  
+[Excused and unexcused class absences](excused-absences) (Musing #504)  
+[Sokal, revisited](sokal-revisited) (Musing #505)  

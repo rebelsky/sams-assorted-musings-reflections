@@ -20,3 +20,7 @@ online, but they will soon expand to more general issues about teaching._
 
 > And those it affects.
 
+[Excused and unexcused class absences](excused-absences) (Musing #504)
+
+> Dealing with students who miss class.
+
