@@ -1,37 +1,78 @@
 Some forthcoming musings
 ========================
 
-New "soon"
+New "soon", normal length or possibly long.
 
+1. Codecademy Ruby tutorial.  (I assign it; I think there are good reasons
+   to use this kind of Tutorial; but, boy, there are many things I don't
+   like.)  "Puts out every element inside the sub-arrays inside `s`."
+   (This may have to wait until after students turn in the assignment,
+   but I may want to write it earlier.)  `alphabetize` calls sort! (so it
+   should be `alphabetize!`.  Mixes snake_style and camelCase for variables.
+   Mixes puts and return strings.  (Dragon example. ...)
 1. Schedule. `updating-course-schedule`.
-1. Sokal, revisited  `sokal-revisited`
-1. Fall job interviews.  (Tapia + GHC + A third conference + interviews)
-   A huge change.
-1. Coarse-grained grading.
 1. Annotation software?: `sketches/annotating-the-web`.
+1. Rubrics.
+1. Advising assignment (for Joyce).
 1. Detailed learning outcomes for CSC 151.
 1. Teaching CS is teaching writing.
 1. Don't embarrass me.  (Whatever happened to ...?  Will I ever teach
    it again.
 1. Cleaning up musings?  (Somewhere between three and four dozen drafts
-   of musings.  I'm not sure how many will see the light of day.  Some
-   I just deleted and will never remember.  Others I moved to a separate
-   folder to look at later.)
+   of musings.  I'm not sure how many will see the light of day.  So a
+   bit less than 10%.  Some I just deleted and will never remember.
+   Others I moved to a separate folder to look at later.)
 1. Grading Student Projects (See Janet's facebook post on Dec. 19, now at
    the end of this file).
-1. Graders.  (I use student graders.  Discussion with colleague.  List of
-   things that I assign in CSC 151.)  4.5 hours in class.  4.5 hours of
-   prep.  Three lab writeups per week.  That would be six hours.  One
-   quiz per week.  That's about two hours.  One assignment.  6-8 hours.
-   Writing the quiz.  One hour.  Writing the assignment.  Two hours.
-   Total: More than twenty hours.  Too much for one class.
 1. Eboards. (`sketches/eboards.md`)
+1. Outstanding / Excellent / Very Good / Average/Below Average.  Who
+   puts average and below average together?  Who doesn't give approximate
+   percentages?  Here's a better one: Top 1%, Next 4%, Next 5%, next 15%,
+   next 25%, lowest 50%.  How long have you known the candidate?
+   Less than 1 year / 1-2 years / 3-5 years / 6-10 years / more than
+   ten years.  Truly exceptoinal (Top 1%), Outsstanding (96-99%),
+   Superior (91-95%), Good (81-90%) Somewhat above average (71-80%),
+   Average (51-70%), Below average (< 50%).
+1. Customizing cover letters.  (I spend the few minutes to customize
+   each recommendation letter.  Why do so many candidates fail to 
+   customize their cover letter?  (No, we don't downgrade their 
+   application for being generic.  But you can upgrade your own
+   application by doing the homework.)
+
+New "soon", potentially short
+
+1. Expanding list.  How many of these are new since I restarted?
+1. Fall job interviews.  (Tapia + GHC + A third conference + interviews)
+   A huge change.
+1. Inbox zero.  Your Memories on Facebook recently came up with musing
+   #189, "Inbox zero, stage 1."  `inbox-zero-01`.  Boy, was "inbox zero" 
+   a failure.  Let's see ... as of today ....  WHy?  No system.  Mail
+   comes in at an incredibly rapid rate.  Random spam because I have
+   "popular" Web pages ("We've written this great resource on copyright;
+   wouldn't you like to link it?") or because senders are incompetent
+   (I've unsusbscribed from Democratic Party mailings at least a dozen
+   times).  Too many professional emails (SIGCSE volunteers and SIGCSE
+   listservs).
 1. Every ten minutes.  (My new policy of standing up every ten minutes.
    I tend to get too focused.  ANy relation to Pomodoro?  I should look.)
    iPhone makes it nice.  But ten minutes always seems so quick.  And it's
    usually eleven, since I should walk for eleven.
 1. Room and Board at Grinnell and elsewhere.  (See the `act-tuition-survey`
    musing for links.)
+1. Forgetting musings.  (Example: Graders.  Was going to do the math,
+   focusing on CSC 151, the course in which I most frequently use graders.
+   My job is 50 hpw (some say 40; I've rarely been able to keep it
+   under 60).  Should be about 50% teaching, 30% scholarship, 20% service.
+   We teach the equivalent of five four-credit courses per year.  So about
+   10 hours per week per course.  (there's also time on office hours,
+   email questions, etc).  Let's see how that breaks down for CSC 151.
+   Graders.  (I use student graders.  Discussion with colleague.
+   List of things that I assign in CSC 151.)  4.5 hours in class.
+   4.5 hours of prep.  Three lab writeups per week.  That would be six
+   hours.  One quiz per week.  That's about two hours.  One assignment.
+   6-8 hours.  Writing the quiz.  One hour.  Writing the assignment.
+   Two hours.  Total: More than twenty hours.  Too much for one class.
+   Old one: #202, `student-graders`.
 
 Old "soon"
 
@@ -800,3 +841,35 @@ Arielle Cooley:  I agree. Especially since we know that qualitative measures inc
 
 Melissa Marks:  I've been experimenting with specifications grading - it does require that you know what you're generally looking for, but it results in a grading system where they did or didn't meet the minimum specifications for a basic passing grade (i.e. C). Higher grades can come from doing extra work or doing more sophisticated work (it's pretty easy to reward risk, interest, effort, etc. that goes beyond the minimum requirement without being more difficult or time consuming).
 
+----
+
+Codecademy Ruby Dragon Example, Step 14
+
+<pre>
+class Creature
+  def initialize(name)
+    @name = name
+  end
+  
+  def fight
+    return "Punch to the chops!"
+  end
+end
+
+# Add your code below!
+
+class Dragon < Creature
+  def fight
+    puts "Instead of breathing fire..."
+    super
+  end
+end
+
+d = Dragon.new("Fred")
+puts d.fight
+</pre>
+
+<blockquote>
+    Add `puts "Instead of breathing fire..."` as the first line in our Dragon's fight method.
+    Replace the return statement inside `Dragon`'s definition of fight with the keyword `super`. (No need to pass any arguments to super, since Creature's fight method doesn't take any.)
+</blockquote>
