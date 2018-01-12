@@ -83,6 +83,13 @@ behavior [15].
 
 ---
 
+An alum reminds me that I should also explicitly note in my syllabus that
+I understand that certain disabilities may lead to absences and that I
+will not penalize students for such absences.  I appreciate that excellent
+recommendation.
+
+---
+
 [1] Since the Grinnell faculty vote on the athletic schedule, it's
 hard to tell students that they can't attend an event.  But when a team
 is away a lot, most of our coaches are willing to negotiate a bit.
@@ -134,4 +141,7 @@ struggle with the concept of fixed URLs.
 
 --
 
-*Version 1.0 of 2018-01-09.*
+*Version 1.0 released on 2018-01-09.*
+
+*Version 1.1 of 2018-01-11.*
+
