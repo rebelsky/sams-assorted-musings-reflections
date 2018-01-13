@@ -38,6 +38,7 @@ New "soon", normal length or possibly long.
    customize their cover letter?  (No, we don't downgrade their 
    application for being generic.  But you can upgrade your own
    application by doing the homework.)
+1. Social Media (and why I don't tend to use it except to announce musings).
 
 New "soon", potentially short
 
@@ -73,6 +74,7 @@ New "soon", potentially short
    6-8 hours.  Writing the quiz.  One hour.  Writing the assignment.
    Two hours.  Total: More than twenty hours.  Too much for one class.
    Old one: #202, `student-graders`.
+1. My first big programmign project (`sketches/first-big-programming-project`)
 
 Old "soon"
 
