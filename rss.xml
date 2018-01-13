@@ -7,6 +7,13 @@
       A curmudgeonly faculty member writes about a variety of topics.
     </description>
     <item>
+      <title>Musing #507: Some coding reminders to myself (and my students)</title>
+      <link>https://www.cs.grinnell.edu/~rebelsky/musings/coding-reminders-to-self-and-students</link>
+      <guid>https://www.cs.grinnell.edu/~rebelsky/musings/coding-reminders-to-self-and-students</guid>
+      <pubDate>Sat, 13 Jan 2018 03:28:37 GMT</pubDate>
+      <description>A reaction to the joy of dealing with crappy code.</description>
+    </item>
+    <item>
       <title>Musing #506: Coarse-grained grading</title>
       <link>https://www.cs.grinnell.edu/~rebelsky/musings/coarse-grained-grading</link>
       <guid>https://www.cs.grinnell.edu/~rebelsky/musings/coarse-grained-grading</guid>
@@ -68,13 +75,6 @@
       <guid>https://www.cs.grinnell.edu/~rebelsky/musings/winter-break-2017-2018</guid>
       <pubDate>Thu, 04 Jan 2018 02:41:31 GMT</pubDate>
       <description>Too many plans.</description>
-    </item>
-    <item>
-      <title>Musing #497: Setting up an RSS feed</title>
-      <link>https://www.cs.grinnell.edu/~rebelsky/musings/rss-feed</link>
-      <guid>https://www.cs.grinnell.edu/~rebelsky/musings/rss-feed</guid>
-      <pubDate>Wed, 03 Jan 2018 01:46:34 GMT</pubDate>
-      <description>Trying to make the musings more readily available.</description>
     </item>
   </channel>
 </rss>

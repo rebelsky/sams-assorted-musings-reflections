@@ -657,3 +657,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Excused and unexcused class absences](excused-absences) (Musing #504)  
 [Sokal, revisited](sokal-revisited) (Musing #505)  
 [Coarse-grained grading](coarse-grained-grading) (Musing #506)  
+[Some coding reminders to myself (and my students)](coding-reminders-to-self-and-students) (Musing #507)  

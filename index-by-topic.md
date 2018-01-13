@@ -802,6 +802,9 @@ Why Grinnell staff with Ph.D's should be allowed to teach.
 
 > Getting not only the science, but also the citations, wrong.
 
+[Some coding reminders to myself (and my students)](coding-reminders-to-self-and-students) (Musing #507)
+
+> A reaction to the joy of dealing with crappy code.
 
 Assorted talks and speeches
 ---------------------------
