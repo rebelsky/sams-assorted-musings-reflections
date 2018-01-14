@@ -102,3 +102,7 @@ Overcommitment
 
 > One in a series.
 
+[Prioritizing what's left of winter break](prioritizing-2018-01-13) (Musing #508)
+
+> An update on musing #498.
+

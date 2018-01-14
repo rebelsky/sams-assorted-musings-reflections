@@ -658,3 +658,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Sokal, revisited](sokal-revisited) (Musing #505)  
 [Coarse-grained grading](coarse-grained-grading) (Musing #506)  
 [Some coding reminders to myself (and my students)](coding-reminders-to-self-and-students) (Musing #507)  
+[Prioritizing what's left of winter break](prioritizing-2018-01-13) (Musing #508)  

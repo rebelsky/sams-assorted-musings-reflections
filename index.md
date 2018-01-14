@@ -7,7 +7,7 @@ rants about topics I'm passionate about.  Some are explanations of how
 I approach the world.  Some are just my attempts to think through a topic.
 
 Latest musing: 
-[Some coding reminders to myself (and my students)](coding-reminders-to-self-and-students) (Musing #507)
+[Prioritizing what's left of winter break](prioritizing-2018-01-13) (Musing #508)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
