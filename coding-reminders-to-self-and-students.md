@@ -154,7 +154,7 @@ I see is that it should stand for "Pretty Horrible Programming".
 But the explanation started to get long. So I'll just say "Stay tuned
 for a forthcoming musing".
 
-[2] And cursing a lot.
+[3] And cursing a lot.
 
 [4] E.g., the [GNU standards](https://www.gnu.org/prep/standards/standards.html)
 and [one of the more common Ruby standards](https://github.com/bbatsov/ruby-style-guide).
@@ -212,4 +212,6 @@ it's sometimes nice to pretend.
 
 ---
 
-*Version 1.0 of 2018-01-12.*
+*Version 1.0 released 2018-01-12.*
+
+*Version 1.0.1 of 2018-01-13.*
