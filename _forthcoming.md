@@ -10,6 +10,7 @@ New "soon", normal length or possibly long.
    but I may want to write it earlier.)  `alphabetize` calls sort! (so it
    should be `alphabetize!`.  Mixes snake_style and camelCase for variables.
    Mixes puts and return strings.  (Dragon example. ...)
+1. The evolution of CSC 151.  `csc151-evolution`.
 1. Schedule. `updating-course-schedule`.
 1. Annotation software?: `sketches/annotating-the-web`.
 1. Rubrics.
@@ -39,10 +40,15 @@ New "soon", normal length or possibly long.
    application for being generic.  But you can upgrade your own
    application by doing the homework.)
 1. Social Media (and why I don't tend to use it except to announce musings).
+1. Take-home exams.  (Why I give them, etc.)
+1. The challenge of CS (You know when it doesn't work) and its broader
+   effects, particularly given what we know about personalities.  Does
+   "You are wrong" discourage women?
 
 New "soon", potentially short
 
 1. Expanding list.  How many of these are new since I restarted?
+1. The weekly CSC 322 reports.
 1. Fall job interviews.  (Tapia + GHC + A third conference + interviews)
    A huge change.
 1. Inbox zero.  Your Memories on Facebook recently came up with musing
@@ -74,7 +80,8 @@ New "soon", potentially short
    6-8 hours.  Writing the quiz.  One hour.  Writing the assignment.
    Two hours.  Total: More than twenty hours.  Too much for one class.
    Old one: #202, `student-graders`.
-1. My first big programmign project (`sketches/first-big-programming-project`)
+1. My first big programming project (`sketches/first-big-programming-project`)
+1. DRYing out my course webs.
 
 Old "soon"
 
