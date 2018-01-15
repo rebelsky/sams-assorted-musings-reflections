@@ -997,6 +997,11 @@ online, but they will soon expand to more general issues about teaching._
 
 > Looking at the big picture, rather than individual details.
 
+[Setting up a "rhythm" for CSC 322](csc322-rhythm) (Musing #509)
+
+> Helping students by making weeks (or two-week blocks) follow the 
+  same pattern.
+
 On writing letters of recommendation
 ------------------------------------
 

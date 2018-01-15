@@ -7,7 +7,7 @@ rants about topics I'm passionate about.  Some are explanations of how
 I approach the world.  Some are just my attempts to think through a topic.
 
 Latest musing: 
-[Prioritizing what's left of winter break](prioritizing-2018-01-13) (Musing #508)
+[Setting up a "rhythm" for CSC 322](csc322-rhythm) (Musing #509)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
