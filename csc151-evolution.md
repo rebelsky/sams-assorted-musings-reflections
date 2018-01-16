@@ -18,7 +18,7 @@ of graded work (homework, lab write-ups, quizzes, exams, and a multi-week
 project), a variety of "sanity policies", and even the Web site.
 
 John David Stone and Henry Walker taught the first version of CSC 151
-more than two decades ago, in Fall 2016 [3].   That version contained
+more than two decades ago, in Fall 1996 [3].   That version contained
 all of the core hallmarks of CSC 151: A workshop-style approach [4,5]
 using the Scheme programming language and locally written materials.
 I wasn't here, but I think Henry and John traded off writing the daily
@@ -271,4 +271,4 @@ to go to the students.
 
 ---
 
-*Version 1.0 of 2018-01-15.*
+*Version 1.0.1 of 2018-01-15.*
