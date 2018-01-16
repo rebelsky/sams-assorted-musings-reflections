@@ -1002,6 +1002,10 @@ online, but they will soon expand to more general issues about teaching._
 > Helping students by making weeks (or two-week blocks) follow the 
   same pattern.
 
+[The evolution of CSC 151](csc151-evolution) (Musing #510)
+
+> How the course came to its current state.
+
 On writing letters of recommendation
 ------------------------------------
 

@@ -660,3 +660,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Some coding reminders to myself (and my students)](coding-reminders-to-self-and-students) (Musing #507)  
 [Prioritizing what's left of winter break](prioritizing-2018-01-13) (Musing #508)  
 [Setting up a "rhythm" for CSC 322](csc322-rhythm) (Musing #509)  
+[The evolution of CSC 151](csc151-evolution) (Musing #510)  
