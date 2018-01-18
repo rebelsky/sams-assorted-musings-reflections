@@ -56,7 +56,9 @@ Where was I?  Oh, yeah.  I was thinking about my discussion with
 a colleague.  I decided to calculate times as a starting point in my
 reflection.  You can read those calculations above.  What next?  Oh,
 I went back to see if I could find the context.  And you know what?
-[I'd already written about using student graders](student-graders).
+I'd already written about using student graders back in [musing
+#202](student-graders).  
+
 It appears that I have reached the point in my musings that I no longer
 remember everything I've written about.  Or perhaps I'm just old enough
 that I no longer remember lots of things [8].
@@ -107,4 +109,4 @@ did you hear about it?"  And they say "From you."
 
 ---
 
-* Version 1.0 of 2018-01-16.*
+* Version 0.9 of 2018-01-17.*
