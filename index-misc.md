@@ -481,3 +481,7 @@ Almost everything else
 
 > Where do they get their numbers?
 
+[Benny Goodman at Carnegie Hall](benny-goodman-at-carnegie-hall) (Musing #511)
+
+> Eighty years ago today.
+
