@@ -7,6 +7,13 @@
       A curmudgeonly faculty member writes about a variety of topics.
     </description>
     <item>
+      <title>Musing #512: Unsubscribe</title>
+      <link>https://www.cs.grinnell.edu/~rebelsky/musings/unsubscribe</link>
+      <guid>https://www.cs.grinnell.edu/~rebelsky/musings/unsubscribe</guid>
+      <pubDate>Thu, 18 Jan 2018 03:12:17 GMT</pubDate>
+      <description>It should be an easy process.</description>
+    </item>
+    <item>
       <title>Musing #511: Benny Goodman at Carnegie Hall</title>
       <link>https://www.cs.grinnell.edu/~rebelsky/musings/benny-goodman-at-carnegie-hall</link>
       <guid>https://www.cs.grinnell.edu/~rebelsky/musings/benny-goodman-at-carnegie-hall</guid>
@@ -68,13 +75,6 @@
       <guid>https://www.cs.grinnell.edu/~rebelsky/musings/act-tuition-survey</guid>
       <pubDate>Tue, 09 Jan 2018 02:15:43 GMT</pubDate>
       <description>Where do they get their numbers?</description>
-    </item>
-    <item>
-      <title>Musing #502: Another taskcade</title>
-      <link>https://www.cs.grinnell.edu/~rebelsky/musings/taskcading-2018-01-07</link>
-      <guid>https://www.cs.grinnell.edu/~rebelsky/musings/taskcading-2018-01-07</guid>
-      <pubDate>Mon, 08 Jan 2018 02:54:38 GMT</pubDate>
-      <description>One in a series.</description>
     </item>
   </channel>
 </rss>
