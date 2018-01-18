@@ -3,6 +3,7 @@ Some forthcoming musings
 
 New "soon", normal length or possibly long.
 
+1. Pages in a course Web.
 1. Codecademy Ruby tutorial.  (I assign it; I think there are good reasons
    to use this kind of Tutorial; but, boy, there are many things I don't
    like.)  "Puts out every element inside the sub-arrays inside `s`."
@@ -10,7 +11,6 @@ New "soon", normal length or possibly long.
    but I may want to write it earlier.)  `alphabetize` calls sort! (so it
    should be `alphabetize!`.  Mixes snake_style and camelCase for variables.
    Mixes puts and return strings.  (Dragon example. ...)
-1. The evolution of CSC 151.  `csc151-evolution`.
 1. Schedule. `updating-course-schedule`.
 1. Annotation software?: `sketches/annotating-the-web`.
 1. Rubrics.
@@ -47,6 +47,7 @@ New "soon", normal length or possibly long.
 
 New "soon", potentially short
 
+1. Forgetting musings.  `forgetting-musings`
 1. Expanding list.  How many of these are new since I restarted?
 1. The weekly CSC 322 reports.
 1. Fall job interviews.  (Tapia + GHC + A third conference + interviews)
@@ -66,22 +67,28 @@ New "soon", potentially short
    usually eleven, since I should walk for eleven.
 1. Room and Board at Grinnell and elsewhere.  (See the `act-tuition-survey`
    musing for links.)
-1. Forgetting musings.  (Example: Graders.  Was going to do the math,
-   focusing on CSC 151, the course in which I most frequently use graders.
-   My job is 50 hpw (some say 40; I've rarely been able to keep it
-   under 60).  Should be about 50% teaching, 30% scholarship, 20% service.
-   We teach the equivalent of five four-credit courses per year.  So about
-   10 hours per week per course.  (there's also time on office hours,
-   email questions, etc).  Let's see how that breaks down for CSC 151.
-   Graders.  (I use student graders.  Discussion with colleague.
-   List of things that I assign in CSC 151.)  4.5 hours in class.
-   4.5 hours of prep.  Three lab writeups per week.  That would be six
-   hours.  One quiz per week.  That's about two hours.  One assignment.
-   6-8 hours.  Writing the quiz.  One hour.  Writing the assignment.
-   Two hours.  Total: More than twenty hours.  Too much for one class.
-   Old one: #202, `student-graders`.
 1. My first big programming project (`sketches/first-big-programming-project`)
 1. DRYing out my course webs.
+1. Weekly reports in CSC 322.  (Things I was going to write anyway?)
+1. SIGCSE mailing list workflows.
+1. How do you choose what to muse about?  I trust my muse.  Sometimes my
+   muse says "It's time to muse about this."  Sometimes I have to show
+   my muse the list of potential topics we've come up with in the past
+   and the muse picks one for me.  Believe it or not, but there are times
+   my muse is wrong ([1] or I'm not listening well) and I get partway
+   through a musing before I realize that it's not the right topic for
+   the day.  I set those aside, update the list of potential topics, and
+   ask my muse to consider another.  Then there are the days that I'm
+   really lazy and find a musing that has a substantial draft ([2]
+   I write most musings from scratch, but there are also a number of
+   partial ones I write either for the aforemention "start and give up"
+   reason or because I wanted to get some ideas down and those provide
+   a good start.)  I spend a few minutes cleaning it up and then post it.
+   But those days are rare.  When I clean up a draft musing, even one that
+   is mostly complete, I often get caught up in the topi and revise it
+   substantially.
+1. Cpanel?
+1. Blue recycling bins ("Norman Bins" vs. Norman doors)
 
 Old "soon"
 
@@ -108,7 +115,9 @@ New forthcoming musings
 1. Implicit bias.  (What I know.  What I believe.  What the evidence 
    suggests.  Vs. Explicit bias.  Etc. Etc.)
 1. Mentor vs. Sponsor
-1. Blasters and Del-Lords (?)
+1. Blasters and Del-Lords.  (If I recall correctly, some out there is
+   a newspaper article that calls the Del-Lords the Blasters of NYC
+   or something similar.)
 1. Universal design: Don't rely on text in images in email messages.
 1. Blasters and Del-Lords mixtape
 1. Fun books: The 1924 College catalog
@@ -150,7 +159,6 @@ New forthcoming musings
 1. Dates in musing URLs - why I do it
 1. Building value for Grinnell (?)
 1. BBC micro:bit
-1. Norman Bins (vs. Norman doors)
 
 A series on fun books?
 
