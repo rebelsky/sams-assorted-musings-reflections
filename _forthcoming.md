@@ -1,6 +1,17 @@
 Some forthcoming musings
 ========================
 
+Tonight
+
+1. Assessment. Two musings for the price of one?  Experience assessing
+   courses.  Mistrusting assessment.  Split 'em.
+   `assessment-revisited.md` "What's sad is that I really do believe in
+   "closing the loop": Reflect on what you've seen in your classes.
+   Think about what that means you should change.  Make the change.
+   Consider the impact.  Repeat."  But you don't need formalized
+   assessment practices for that loop.  You just need to pay attention,
+   introspect, and discuss.
+
 New "soon", normal length or possibly long.
 
 1. Pages in a course Web.
