@@ -666,3 +666,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 
 [Benny Goodman at Carnegie Hall](benny-goodman-at-carnegie-hall) (Musing #511)  
 [Unsubscribe](unsubscribe) (Musing #512)  
+[Forgetting what I've written](forgetting-musings) (Musing #513)  

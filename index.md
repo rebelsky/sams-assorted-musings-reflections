@@ -7,7 +7,7 @@ rants about topics I'm passionate about.  Some are explanations of how
 I approach the world.  Some are just my attempts to think through a topic.
 
 Latest musing: 
-[Unsubscribe](unsubscribe) (Musing #512)
+[Forgetting what I've written](forgetting-musings) (Musing #513)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
