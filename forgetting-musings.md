@@ -61,8 +61,7 @@ Where was I?  Oh, yeah.  I was thinking about my discussion with
 a colleague.  I decided to calculate times as a starting point in my
 reflection.  You can read those calculations above.  What next?  Oh,
 I went back to see if I could find the context.  And you know what?
-I'd already written about using student graders back in [musing
-#202](student-graders).  
+I'd already written about using student graders back in [musing #202](student-graders).  
 
 It appears that I have reached the point in my musings that I no longer
 remember everything I've written about.  Or perhaps I'm just old enough
@@ -82,6 +81,18 @@ This musing also serves a second purpose: We have a new thread to carry
 through the musings: Sam forgets way too much.  Or have I said that before?
 
 Now what was this musing about?
+
+---
+
+Postscript: When I went to post this musing on Facebook, the;standard 
+"Your memories on Facebook" post was at the top of the page.  And you
+know what the memory was?  Yes, that's right.  
+
+<img src="memory-musing-202.png">
+
+It appears that Facebook has a better memory than I do.  It also appears
+that there's something about this time of year that leads me to muse about
+my workload as it relates to grading.
 
 ---
 
@@ -122,4 +133,4 @@ there were a lot more questions!
 
 ---
 
-* Version 1.0 of 2018-01-18.*
+* Version 1.1 of 2018-01-18.*
