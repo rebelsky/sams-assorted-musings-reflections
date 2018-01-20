@@ -59,6 +59,10 @@ Algol 68 compiler written in Algol 60 [12].
 
 ---
 
+Postscript: Although I have a series of musings called "[the joy of code](index-joc)", this musing does not belong in that series.
+
+---
+
 [1] A.k.a. "Oddball".
 
 [2] There was a tendency at one time for languages to end with "bol".
@@ -85,7 +89,11 @@ or `cdr`.  In the second, the selector value is whether we use `#t` or
 most language implementers make the initial determination that you
 evaluate the second parameter to `if` before looking at the other
 parameters.  He felt that the language system, rather than the implementer,
-should make that determination.  
+should make that determination.
+
+I should also note that my use of Scheme syntax is for the reader's
+benefit.  Mike believed that the language should be indepedent of the
+external representation and so ELP had multiple "front end" syntaxes.
 
 [5] T is a variant of Scheme, T bears no relation to S or R [6].  It
 appears that Paul Graham has an interesting [History of T](http://www.paulgraham.com/thist.html).
@@ -120,4 +128,4 @@ of the compiler that I hope still lives somewhere in my lab.
 
 ---
 
-*Version 1.0 of 2018-01-19.*
+*Version 1.0.1 of 2018-01-19.*

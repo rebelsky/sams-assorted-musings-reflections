@@ -2354,6 +2354,10 @@ Almost everything else
 
 > Eighty years ago today.
 
+[My first big programming project](first-big-programming-project) (Musing #514)
+
+> My "zero knowledge port".
+
 Musings with multiple entries
 -----------------------------
 

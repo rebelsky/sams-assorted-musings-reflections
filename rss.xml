@@ -7,6 +7,13 @@
       A curmudgeonly faculty member writes about a variety of topics.
     </description>
     <item>
+      <title>Musing #514: My first big programming project</title>
+      <link>https://www.cs.grinnell.edu/~rebelsky/musings/first-big-programming-project</link>
+      <guid>https://www.cs.grinnell.edu/~rebelsky/musings/first-big-programming-project</guid>
+      <pubDate>Sat, 20 Jan 2018 03:07:48 GMT</pubDate>
+      <description>My "zero knowledge port".</description>
+    </item>
+    <item>
       <title>Musing #513: Forgetting what I've written</title>
       <link>https://www.cs.grinnell.edu/~rebelsky/musings/forgetting-musings</link>
       <guid>https://www.cs.grinnell.edu/~rebelsky/musings/forgetting-musings</guid>
@@ -68,13 +75,6 @@
       <guid>https://www.cs.grinnell.edu/~rebelsky/musings/sokal-revisited-continued</guid>
       <pubDate>Thu, 11 Jan 2018 03:30:39 GMT</pubDate>
       <description>Getting not only the science, but also the citations, wrong..</description>
-    </item>
-    <item>
-      <title>Musing #504: Excused and unexcused class absences</title>
-      <link>https://www.cs.grinnell.edu/~rebelsky/musings/excused-absences</link>
-      <guid>https://www.cs.grinnell.edu/~rebelsky/musings/excused-absences</guid>
-      <pubDate>Wed, 10 Jan 2018 03:15:33 GMT</pubDate>
-      <description>Dealing with students who miss class..</description>
     </item>
   </channel>
 </rss>
