@@ -1,16 +1,6 @@
 Some forthcoming musings
 ========================
 
-Tonight
-
-1. Assessment. Two musings for the price of one?  Experience assessing
-   courses.  Mistrusting assessment.  Split 'em.
-   `assessment-revisited.md` "What's sad is that I really do believe in
-   "closing the loop": Reflect on what you've seen in your classes.
-   Think about what that means you should change.  Make the change.
-   Consider the impact.  Repeat."  But you don't need formalized
-   assessment practices for that loop.  You just need to pay attention,
-   introspect, and discuss.
 
 New "soon", normal length or possibly long.
 
@@ -55,10 +45,18 @@ New "soon", normal length or possibly long.
 1. The challenge of CS (You know when it doesn't work) and its broader
    effects, particularly given what we know about personalities.  Does
    "You are wrong" discourage women?
+1. Assessment. Two musings for the price of one?  Experience assessing
+   courses.  Mistrusting assessment.  Split 'em.
+   `assessment-revisited.md` "What's sad is that I really do believe in
+   "closing the loop": Reflect on what you've seen in your classes.
+   Think about what that means you should change.  Make the change.
+   Consider the impact.  Repeat."  But you don't need formalized
+   assessment practices for that loop.  You just need to pay attention,
+   introspect, and discuss.
 
 New "soon", potentially short
 
-1. Forgetting musings.  `forgetting-musings`
+1. Blue recycling bins ("Norman Bins" vs. Norman doors)
 1. Expanding list.  How many of these are new since I restarted?
 1. The weekly CSC 322 reports.
 1. Fall job interviews.  (Tapia + GHC + A third conference + interviews)
@@ -75,10 +73,10 @@ New "soon", potentially short
 1. Every ten minutes.  (My new policy of standing up every ten minutes.
    I tend to get too focused.  ANy relation to Pomodoro?  I should look.)
    iPhone makes it nice.  But ten minutes always seems so quick.  And it's
-   usually eleven, since I should walk for eleven.
+   usually eleven, since I should walk for eleven.  But I haven't been
+   doing it enough.
 1. Room and Board at Grinnell and elsewhere.  (See the `act-tuition-survey`
    musing for links.)
-1. My first big programming project (`sketches/first-big-programming-project`)
 1. DRYing out my course webs.
 1. Weekly reports in CSC 322.  (Things I was going to write anyway?)
 1. SIGCSE mailing list workflows.
@@ -99,7 +97,10 @@ New "soon", potentially short
    is mostly complete, I often get caught up in the topi and revise it
    substantially.
 1. Cpanel?
-1. Blue recycling bins ("Norman Bins" vs. Norman doors)
+1. Academic geneaology. <http://veblenhouse.blogspot.com/2017/04/the-usefulness-of-useless-knowledge.html>. <http://www.towntopics.com/wordpress/2013/02/06/who-is-oswald-veblen-imagine-princeton-without-the-ias-einstein-herrontown-woods/>. <https://genealogy.math.ndsu.nodak.edu/id.php?id=805>. <http://etcweb.princeton.edu/CampusWWW/Companion/veblen_oswald.html>.  [Moved up]
+1. Socks and VPN?
+1. The metal thing from Eckhart library - conic and plane.
+
 
 Old "soon"
 
@@ -241,8 +242,6 @@ Google, etc.)
 1. (Semi-technical): Resetting passwords.
 
 1. What is a Coaster
-
-1. Academic geneaology. <http://veblenhouse.blogspot.com/2017/04/the-usefulness-of-useless-knowledge.html>. <http://www.towntopics.com/wordpress/2013/02/06/who-is-oswald-veblen-imagine-princeton-without-the-ias-einstein-herrontown-woods/>. <https://genealogy.math.ndsu.nodak.edu/id.php?id=805>. <http://etcweb.princeton.edu/CampusWWW/Companion/veblen_oswald.html>.
 
 1. GrinnellParents listserv.
 
