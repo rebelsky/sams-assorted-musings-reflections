@@ -810,6 +810,10 @@ Why Grinnell staff with Ph.D's should be allowed to teach.
 
 > What should be an easy process.
 
+[Norman bins](norman-bins) (Musing #515)
+
+> Bad design.
+
 Assorted talks and speeches
 ---------------------------
 

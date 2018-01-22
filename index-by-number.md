@@ -668,3 +668,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Unsubscribe](unsubscribe) (Musing #512)  
 [Forgetting what I've written](forgetting-musings) (Musing #513)  
 [My first big programming project](first-big-programming-project) (Musing #514)  
+[Norman bins](norman-bins) (Musing #515)  

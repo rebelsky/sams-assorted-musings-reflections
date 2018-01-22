@@ -4,8 +4,15 @@
     <title>SamR's Assorted Musings and Rants</title>
     <link>https://www.cs.grinnell.edu/~rebelsky/musings/</link>
     <description>
-      A curmudgeonly faculty member writes about a variety of topics.
+      A curmudgeonly faculty member in cmoputer science writes about a variety of topics.
     </description>
+    <item>
+      <title>Musing #515: Norman bins</title>
+      <link>https://www.cs.grinnell.edu/~rebelsky/musings/norman-bins</link>
+      <guid>https://www.cs.grinnell.edu/~rebelsky/musings/norman-bins</guid>
+      <pubDate>Sun, 21 Jan 2018 02:00:24 GMT</pubDate>
+      <description>Bad design.</description>
+    </item>
     <item>
       <title>Musing #514: My first big programming project</title>
       <link>https://www.cs.grinnell.edu/~rebelsky/musings/first-big-programming-project</link>
@@ -68,13 +75,6 @@
       <guid>https://www.cs.grinnell.edu/~rebelsky/musings/coarse-grained-grading</guid>
       <pubDate>Fri, 12 Jan 2018 02:32:20 GMT</pubDate>
       <description>Looking at the big picture, rather than individual details.</description>
-    </item>
-    <item>
-      <title>Musing #505: Sokal, revisited, continued</title>
-      <link>https://www.cs.grinnell.edu/~rebelsky/musings/sokal-revisited-continued</link>
-      <guid>https://www.cs.grinnell.edu/~rebelsky/musings/sokal-revisited-continued</guid>
-      <pubDate>Thu, 11 Jan 2018 03:30:39 GMT</pubDate>
-      <description>Getting not only the science, but also the citations, wrong..</description>
     </item>
   </channel>
 </rss>
