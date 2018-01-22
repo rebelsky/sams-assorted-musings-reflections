@@ -1,9 +1,9 @@
 Some forthcoming musings
 ========================
 
+New "soon", normal length or possibly long (teaching)
 
-New "soon", normal length or possibly long.
-
+1. Schedule. `updating-course-schedule-revisited`.
 1. Pages in a course Web.
 1. Codecademy Ruby tutorial.  (I assign it; I think there are good reasons
    to use this kind of Tutorial; but, boy, there are many things I don't
@@ -12,29 +12,31 @@ New "soon", normal length or possibly long.
    but I may want to write it earlier.)  `alphabetize` calls sort! (so it
    should be `alphabetize!`.  Mixes snake_style and camelCase for variables.
    Mixes puts and return strings.  (Dragon example. ...)
-1. Schedule. `updating-course-schedule`.
-1. Annotation software?: `sketches/annotating-the-web`.
 1. Rubrics.
 1. Advising assignment (for Joyce).
 1. Detailed learning outcomes for CSC 151.
 1. Teaching CS is teaching writing.
+1. Grading Student Projects (See Janet's facebook post on Dec. 19, now at
+   the end of this file).
+1. Assessment. Two musings for the price of one?  Experience assessing
+   courses.  Mistrusting assessment.  Split 'em.
+   `assessment-revisited.md` "What's sad is that I really do believe in
+   "closing the loop": Reflect on what you've seen in your classes.
+   Think about what that means you should change.  Make the change.
+   Consider the impact.  Repeat."  But you don't need formalized
+   assessment practices for that loop.  You just need to pay attention,
+   introspect, and discuss.
+1. Eboards. (`sketches/eboards.md`)
+
+New "soon", normal length or possibly long (other)
+
+1. Annotation software?: `sketches/annotating-the-web`.
 1. Don't embarrass me.  (Whatever happened to ...?  Will I ever teach
    it again.
 1. Cleaning up musings?  (Somewhere between three and four dozen drafts
    of musings.  I'm not sure how many will see the light of day.  So a
    bit less than 10%.  Some I just deleted and will never remember.
    Others I moved to a separate folder to look at later.)
-1. Grading Student Projects (See Janet's facebook post on Dec. 19, now at
-   the end of this file).
-1. Eboards. (`sketches/eboards.md`)
-1. Outstanding / Excellent / Very Good / Average/Below Average.  Who
-   puts average and below average together?  Who doesn't give approximate
-   percentages?  Here's a better one: Top 1%, Next 4%, Next 5%, next 15%,
-   next 25%, lowest 50%.  How long have you known the candidate?
-   Less than 1 year / 1-2 years / 3-5 years / 6-10 years / more than
-   ten years.  Truly exceptoinal (Top 1%), Outsstanding (96-99%),
-   Superior (91-95%), Good (81-90%) Somewhat above average (71-80%),
-   Average (51-70%), Below average (< 50%).
 1. Customizing cover letters.  (I spend the few minutes to customize
    each recommendation letter.  Why do so many candidates fail to 
    customize their cover letter?  (No, we don't downgrade their 
@@ -45,20 +47,17 @@ New "soon", normal length or possibly long.
 1. The challenge of CS (You know when it doesn't work) and its broader
    effects, particularly given what we know about personalities.  Does
    "You are wrong" discourage women?
-1. Assessment. Two musings for the price of one?  Experience assessing
-   courses.  Mistrusting assessment.  Split 'em.
-   `assessment-revisited.md` "What's sad is that I really do believe in
-   "closing the loop": Reflect on what you've seen in your classes.
-   Think about what that means you should change.  Make the change.
-   Consider the impact.  Repeat."  But you don't need formalized
-   assessment practices for that loop.  You just need to pay attention,
-   introspect, and discuss.
+
+New "soon", potentially short, teaching topics.
+
+1. DRYing out my course webs.
+1. Weekly reports in CSC 322.  (Things I was going to write anyway?)
+1. Timeboxing (in CSC 321, from Janet)
 
 New "soon", potentially short
 
-1. Blue recycling bins ("Norman Bins" vs. Norman doors)
+1. JAVA.  All caps.  Why?  What might it stand for?
 1. Expanding list.  How many of these are new since I restarted?
-1. The weekly CSC 322 reports.
 1. Fall job interviews.  (Tapia + GHC + A third conference + interviews)
    A huge change.
 1. Inbox zero.  Your Memories on Facebook recently came up with musing
@@ -77,8 +76,6 @@ New "soon", potentially short
    doing it enough.
 1. Room and Board at Grinnell and elsewhere.  (See the `act-tuition-survey`
    musing for links.)
-1. DRYing out my course webs.
-1. Weekly reports in CSC 322.  (Things I was going to write anyway?)
 1. SIGCSE mailing list workflows.
 1. How do you choose what to muse about?  I trust my muse.  Sometimes my
    muse says "It's time to muse about this."  Sometimes I have to show
@@ -100,7 +97,14 @@ New "soon", potentially short
 1. Academic geneaology. <http://veblenhouse.blogspot.com/2017/04/the-usefulness-of-useless-knowledge.html>. <http://www.towntopics.com/wordpress/2013/02/06/who-is-oswald-veblen-imagine-princeton-without-the-ias-einstein-herrontown-woods/>. <https://genealogy.math.ndsu.nodak.edu/id.php?id=805>. <http://etcweb.princeton.edu/CampusWWW/Companion/veblen_oswald.html>.  [Moved up]
 1. Socks and VPN?
 1. The metal thing from Eckhart library - conic and plane.
-
+1. Outstanding / Excellent / Very Good / Average/Below Average.  Who
+   puts average and below average together?  Who doesn't give approximate
+   percentages?  Here's a better one: Top 1%, Next 4%, Next 5%, next 15%,
+   next 25%, lowest 50%.  How long have you known the candidate?
+   Less than 1 year / 1-2 years / 3-5 years / 6-10 years / more than
+   ten years.  Truly exceptoinal (Top 1%), Outsstanding (96-99%),
+   Superior (91-95%), Good (81-90%) Somewhat above average (71-80%),
+   Average (51-70%), Below average (< 50%).
 
 Old "soon"
 
