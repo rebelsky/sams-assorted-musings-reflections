@@ -66,7 +66,7 @@ Postscript: Although I have a series of musings called "[the joy of code](index-
 [1] A.k.a. "Oddball".
 
 [2] There was a tendency at one time for languages to end with "bol".
-Snobol [3] and Cobol are the ones that come to mind, but I'm sure
+SNOBOL [3] and COBOL are the ones that come to mind, but I'm sure
 there were others.
 
 [3] Really.  Even though I misspelled it as "Snowbol" in my first
