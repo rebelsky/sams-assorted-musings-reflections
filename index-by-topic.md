@@ -1016,6 +1016,11 @@ online, but they will soon expand to more general issues about teaching._
 [Forgetting what I've written](forgetting-musings) (Musing #513)
 
 > Did I already muse about using graders?  I forget.  In any case, this musing ends up serving as another explanation of why I use graders and an excuse to whine about my workload.  
+
+[Updating a course schedule for a new semester](updating-course-schedule) (Musing #516)
+
+> Unexpected complexities.
+
 On writing letters of recommendation
 ------------------------------------
 

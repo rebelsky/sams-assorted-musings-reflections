@@ -7,6 +7,13 @@
       A curmudgeonly faculty member in cmoputer science writes about a variety of topics.
     </description>
     <item>
+      <title>Musing #516: Updating a course schedule for a new semester</title>
+      <link>https://www.cs.grinnell.edu/~rebelsky/musings/updating-course-schedule</link>
+      <guid>https://www.cs.grinnell.edu/~rebelsky/musings/updating-course-schedule</guid>
+      <pubDate>Mon, 22 Jan 2018 03:07:24 GMT</pubDate>
+      <description>Unexpected complexities.</description>
+    </item>
+    <item>
       <title>Musing #515: Norman bins</title>
       <link>https://www.cs.grinnell.edu/~rebelsky/musings/norman-bins</link>
       <guid>https://www.cs.grinnell.edu/~rebelsky/musings/norman-bins</guid>
@@ -68,13 +75,6 @@
       <guid>https://www.cs.grinnell.edu/~rebelsky/musings/coding-reminders-to-self-and-students</guid>
       <pubDate>Sat, 13 Jan 2018 03:28:37 GMT</pubDate>
       <description>A reaction to the joy of dealing with crappy code.</description>
-    </item>
-    <item>
-      <title>Musing #506: Coarse-grained grading</title>
-      <link>https://www.cs.grinnell.edu/~rebelsky/musings/coarse-grained-grading</link>
-      <guid>https://www.cs.grinnell.edu/~rebelsky/musings/coarse-grained-grading</guid>
-      <pubDate>Fri, 12 Jan 2018 02:32:20 GMT</pubDate>
-      <description>Looking at the big picture, rather than individual details.</description>
     </item>
   </channel>
 </rss>
