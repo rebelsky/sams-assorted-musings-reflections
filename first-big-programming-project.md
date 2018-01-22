@@ -66,10 +66,11 @@ Postscript: Although I have a series of musings called "[the joy of code](index-
 [1] A.k.a. "Oddball".
 
 [2] There was a tendency at one time for languages to end with "bol".
-Snowbol [3] and Cobol are the ones that come to mind, but I'm sure
+Snobol [3] and Cobol are the ones that come to mind, but I'm sure
 there were others.
 
-[3] Really.
+[3] Really.  Even though I misspelled it as "Snowbol" in my first
+iteration of this musing.
 
 [4] It's been awhile; let's see if I can remember.  It was something to
 do with the relationship between the equations
@@ -128,4 +129,7 @@ of the compiler that I hope still lives somewhere in my lab.
 
 ---
 
-*Version 1.0.1 of 2018-01-19.*
+*Version 1.0.1 released 2018-01-19.*
+
+*Version 1.0.2 of 2018-01-21.*
+
