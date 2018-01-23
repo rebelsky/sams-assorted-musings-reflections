@@ -1,5 +1,5 @@
-Updating a course schedule for a new semester
-=============================================
+Updating course schedules for a new semester
+============================================
 
 During winter break, I updated my syllabi and course schedules [1] for a
 new semester.  You think it would be easy; most things in the course stay
@@ -135,4 +135,6 @@ and readings.
 
 ---
 
-*Version 1.0 of 2018-01-21.*
+*Version 1.0 released 2018-01-21.*
+
+*Version 1.0.1 of 2018-01-22.*
