@@ -44,3 +44,7 @@ online, but they will soon expand to more general issues about teaching._
 
 > Unexpected complexities.
 
+[Updating course schedules for a new semester, continued](updating-course-schedule-continued) (Musing #517)
+
+> Expected complexities.
+

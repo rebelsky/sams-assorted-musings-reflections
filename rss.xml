@@ -7,7 +7,14 @@
       A curmudgeonly faculty member in cmoputer science writes about a variety of topics.
     </description>
     <item>
-      <title>Musing #516: Updating a course schedule for a new semester</title>
+      <title>Musing #517: Updating course schedules for a new semester, continued</title>
+      <link>https://www.cs.grinnell.edu/~rebelsky/musings/updating-course-schedule-continued</link>
+      <guid>https://www.cs.grinnell.edu/~rebelsky/musings/updating-course-schedule-continued</guid>
+      <pubDate>Tue, 23 Jan 2018 02:59:32 GMT</pubDate>
+      <description>Expected complexities.</description>
+    </item>
+    <item>
+      <title>Musing #516: Updating course schedules for a new semester</title>
       <link>https://www.cs.grinnell.edu/~rebelsky/musings/updating-course-schedule</link>
       <guid>https://www.cs.grinnell.edu/~rebelsky/musings/updating-course-schedule</guid>
       <pubDate>Mon, 22 Jan 2018 03:07:24 GMT</pubDate>
@@ -68,13 +75,6 @@
       <guid>https://www.cs.grinnell.edu/~rebelsky/musings/prioritizing-2018-01-13</guid>
       <pubDate>Sun, 14 Jan 2018 04:15:02 GMT</pubDate>
       <description>An update on musing #498.</description>
-    </item>
-    <item>
-      <title>Musing #507: Some coding reminders to myself (and my students)</title>
-      <link>https://www.cs.grinnell.edu/~rebelsky/musings/coding-reminders-to-self-and-students</link>
-      <guid>https://www.cs.grinnell.edu/~rebelsky/musings/coding-reminders-to-self-and-students</guid>
-      <pubDate>Sat, 13 Jan 2018 03:28:37 GMT</pubDate>
-      <description>A reaction to the joy of dealing with crappy code.</description>
     </item>
   </channel>
 </rss>
