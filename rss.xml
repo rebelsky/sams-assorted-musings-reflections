@@ -7,6 +7,13 @@
       A curmudgeonly faculty member in cmoputer science writes about a variety of topics.
     </description>
     <item>
+      <title>Musing #519: Updating course schedules for a new semester, complicated</title>
+      <link>https://www.cs.grinnell.edu/~rebelsky/musings/updating-course-schedule-complicated</link>
+      <guid>https://www.cs.grinnell.edu/~rebelsky/musings/updating-course-schedule-complicated</guid>
+      <pubDate>Thu, 25 Jan 2018 01:42:10 GMT</pubDate>
+      <description>Increasing the complexity.</description>
+    </item>
+    <item>
       <title>Musing #518: Thoughts on proposed changes to Grinnell's gift policy</title>
       <link>https://www.cs.grinnell.edu/~rebelsky/musings/gift-policy</link>
       <guid>https://www.cs.grinnell.edu/~rebelsky/musings/gift-policy</guid>
@@ -18,14 +25,14 @@
       <link>https://www.cs.grinnell.edu/~rebelsky/musings/updating-course-schedule-continued</link>
       <guid>https://www.cs.grinnell.edu/~rebelsky/musings/updating-course-schedule-continued</guid>
       <pubDate>Tue, 23 Jan 2018 02:59:32 GMT</pubDate>
-      <description>Expected complexities.</description>
+      <description>Expected complexity.</description>
     </item>
     <item>
       <title>Musing #516: Updating course schedules for a new semester</title>
       <link>https://www.cs.grinnell.edu/~rebelsky/musings/updating-course-schedule</link>
       <guid>https://www.cs.grinnell.edu/~rebelsky/musings/updating-course-schedule</guid>
       <pubDate>Mon, 22 Jan 2018 03:07:24 GMT</pubDate>
-      <description>Unexpected complexities.</description>
+      <description>Unexpected complexity.</description>
     </item>
     <item>
       <title>Musing #515: Norman bins</title>
@@ -68,20 +75,6 @@
       <guid>https://www.cs.grinnell.edu/~rebelsky/musings/csc151-evolution</guid>
       <pubDate>Tue, 16 Jan 2018 01:49:42 GMT</pubDate>
       <description>How the course came to its current state.</description>
-    </item>
-    <item>
-      <title>Musing #509: Setting up a "rhythm" for CSC 322</title>
-      <link>https://www.cs.grinnell.edu/~rebelsky/musings/csc322-rhythm</link>
-      <guid>https://www.cs.grinnell.edu/~rebelsky/musings/csc322-rhythm</guid>
-      <pubDate>Mon, 15 Jan 2018 04:56:32 GMT</pubDate>
-      <description> Helping students by making weeks (or two-week blocks) follow the same pattern.</description>
-    </item>
-    <item>
-      <title>Musing #508: Prioritizing what's left of winter break</title>
-      <link>https://www.cs.grinnell.edu/~rebelsky/musings/prioritizing-2018-01-13</link>
-      <guid>https://www.cs.grinnell.edu/~rebelsky/musings/prioritizing-2018-01-13</guid>
-      <pubDate>Sun, 14 Jan 2018 04:15:02 GMT</pubDate>
-      <description>An update on musing #498.</description>
     </item>
   </channel>
 </rss>

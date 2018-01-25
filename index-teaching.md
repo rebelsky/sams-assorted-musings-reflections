@@ -42,9 +42,13 @@ online, but they will soon expand to more general issues about teaching._
 
 [Updating course schedules for a new semester](updating-course-schedule) (Musing #516)
 
-> Unexpected complexities.
+> Unexpected complexity.
 
 [Updating course schedules for a new semester, continued](updating-course-schedule-continued) (Musing #517)
 
-> Expected complexities.
+> Expected complexity.
+
+[Updating course schedules for a new semester, complicated](updating-course-schedule-complicated) (Musing #519)
+
+> Increasing the complexity.
 
