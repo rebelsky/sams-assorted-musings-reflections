@@ -671,3 +671,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Norman bins](norman-bins) (Musing #515)  
 [Updating course schedules for a new semester](updating-course-schedule) (Musing #516)  
 [Updating course schedules for a new semester, continued](updating-course-schedule-continued) (Musing #517)  
+[Thoughts on proposed changes to Grinnell's gift policy](gift-policy) (Musing #518)  

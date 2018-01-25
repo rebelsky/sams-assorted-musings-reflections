@@ -814,6 +814,10 @@ Why Grinnell staff with Ph.D's should be allowed to teach.
 
 > Bad design.
 
+[Thoughts on proposed changes to Grinnell's gift policy](gift-policy) (Musing #518)
+
+> Urging caution.
+
 Assorted talks and speeches
 ---------------------------
 

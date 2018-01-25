@@ -7,7 +7,7 @@ rants about topics I'm passionate about.  Some are explanations of how
 I approach the world.  Some are just my attempts to think through a topic.
 
 Latest musing: 
-[Updating course schedules for a new semester, continued](updating-course-schedule-continued) (Musing #517)
+[Thoughts on proposed changes to Grinnell's gift policy](gift-policy) (Musing #518)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
