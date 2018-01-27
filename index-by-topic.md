@@ -983,6 +983,10 @@ Overcommitment
 
 > An update on musing #498.
 
+[One hour](one-hour-2018-01-26) (Musing #521)
+
+> Work I might do if I had an extra one.
+
 On teaching 
 -----------
 

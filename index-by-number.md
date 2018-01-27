@@ -674,3 +674,7 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Thoughts on proposed changes to Grinnell's gift policy](gift-policy) (Musing #518)  
 [Updating course schedules for a new semester, complicated](updating-course-schedule-complicated) (Musing #519)  
 [Too much to write](too-much-to-write-2018-01-25) (Musing #520)  
+
+## 521-530
+
+[One hour](one-hour-2018-01-26) (Musing #521)  
