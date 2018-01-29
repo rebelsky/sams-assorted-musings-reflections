@@ -2391,6 +2391,10 @@ Almost everything else
 
 > My "zero knowledge port".
 
+[The 2018 Grinnell Posse Plus Retreat](posse-plus-2018) (Musing #523)
+
+> Reflections on a weekend discussing complex topics with students and colleagues.
+
 Musings with multiple entries
 -----------------------------
 
