@@ -7,7 +7,7 @@ rants about topics I'm passionate about.  Some are explanations of how
 I approach the world.  Some are just my attempts to think through a topic.
 
 Latest musing: 
-[One hour](one-hour-2018-01-26) (Musing #521)
+[Potato bars](potato-bar) (Musing #522)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

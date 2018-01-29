@@ -822,6 +822,10 @@ Why Grinnell staff with Ph.D's should be allowed to teach.
 
 > Urging caution.
 
+[Potato bars](potato-bar) (Musing #522)
+
+> Food choices.
+
 Assorted talks and speeches
 ---------------------------
 

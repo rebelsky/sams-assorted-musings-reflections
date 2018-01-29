@@ -678,3 +678,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 ## 521-530
 
 [One hour](one-hour-2018-01-26) (Musing #521)  
+[Potato bars](potato-bar) (Musing #522)  
