@@ -80,7 +80,7 @@ For most of the retreat, the tone seemed much less positive than I recall;
 I heard the same from others.  It is likely a number of things contribute
 to that tone.  Certainly, our country feels less positive; while Posse
 Plus Retreats have always had to contend with systemic racism, rarely
-has that systemic racism been less visible.  There's also the sadness
+has that systemic racism been so visible.  There's also the sadness
 of seeing the end of Posse at Grinnell in sight.
 
 However, our final activity allowed small groups to come up with ideas
@@ -167,4 +167,6 @@ Calendar](http://www.grinnell.edu/calendar) just says "Community Hour".
 
 ---
 
-*Version 1.0 of 2018-01-28.*
+*Version 1.0 released 2018-01-28.*
+
+*Version 1.0.1 of 2018-01-29.*
