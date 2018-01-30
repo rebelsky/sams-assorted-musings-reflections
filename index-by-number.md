@@ -680,3 +680,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [One hour](one-hour-2018-01-26) (Musing #521)  
 [Potato bars](potato-bar) (Musing #522)  
 [The 2018 Grinnell Posse Plus Retreat](posse-plus-2018) (Musing #523)  
+[JAVA](JAVA) (Musing #524)  

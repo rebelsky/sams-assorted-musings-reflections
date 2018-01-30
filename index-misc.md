@@ -493,3 +493,7 @@ Almost everything else
 
 > Reflections on a weekend discussing complex topics with students and colleagues.
 
+[JAVA](JAVA) (Musing #524)
+
+> What does that acronym stand for?
+

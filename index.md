@@ -7,7 +7,7 @@ rants about topics I'm passionate about.  Some are explanations of how
 I approach the world.  Some are just my attempts to think through a topic.
 
 Latest musing: 
-[The 2018 Grinnell Posse Plus Retreat](posse-plus-2018) (Musing #523)
+[JAVA](JAVA) (Musing #524)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
