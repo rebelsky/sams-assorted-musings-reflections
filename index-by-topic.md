@@ -1850,6 +1850,10 @@ About SamR
 
 > A complex and moral man.
 
+[A coat and tie](coat-and-tie) (Musing #525)
+
+> What I seem to be wearing this semester.
+
 Salary reviews
 --------------
 

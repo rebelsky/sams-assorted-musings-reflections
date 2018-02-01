@@ -681,3 +681,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Potato bars](potato-bar) (Musing #522)  
 [The 2018 Grinnell Posse Plus Retreat](posse-plus-2018) (Musing #523)  
 [JAVA](JAVA) (Musing #524)  
+[A coat and tie](coat-and-tie) (Musing #525)  
