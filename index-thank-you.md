@@ -24,3 +24,7 @@ Thank-You Notes
 
 > Another note to my (college) president.
 
+[The magic commons fairies](magic-commons-fairies) (Musing #527)
+
+> I have no idea who you are, but I appreciate you.
+

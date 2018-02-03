@@ -243,6 +243,14 @@ Essays on writing, or at least on writing my essays
 
 > Why doesn't the length of my list of topics to write about ever decrease?
 
+[Another month of musing](another-month-2018-01) (Musing #526)
+
+> Restarting the monthly meta-musings.
+
+[Failing to muse](failing-to-muse-2018-02-02) (Musing #528)
+
+> One of those days that I just can't write.
+
 For prospective students, parents of prospective students, and others with similar interests
 --------------------------------------------------------------------------------------------
 
@@ -878,6 +886,10 @@ Thank-You Notes
 [Thankful for President Kington](thank-you-raynard-2017-09-08) (Musing #441)
 
 > Another note to my (college) president.
+
+[The magic commons fairies](magic-commons-fairies) (Musing #527)
+
+> I have no idea who you are, but I appreciate you.
 
 Overcommitment
 --------------

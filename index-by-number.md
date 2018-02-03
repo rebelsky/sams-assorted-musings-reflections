@@ -682,3 +682,6 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [The 2018 Grinnell Posse Plus Retreat](posse-plus-2018) (Musing #523)  
 [JAVA](JAVA) (Musing #524)  
 [A coat and tie](coat-and-tie) (Musing #525)  
+[Another month of musing](another-month-2018-01) (Musing #526)  
+[The magic commons fairies](magic-commons-fairies) (Musing #527)  
+[Failing to muse](failing-to-muse-2018-02-02) (Musing #528)  
