@@ -203,7 +203,7 @@ is not a liberal arts college.
 one can do a postdoc at such an institution.
 
 [24] I so much appreciate that when their son decided that he wanted a
-Nerf gun in spite of their objects to weapons, he wrote a long, footnoted,
+Nerf gun in spite of their objections to weapons, he wrote a long, footnoted,
 argumentative essay to convince them.  I even more appreciate that they
 sent it back for revisions.
 
@@ -217,4 +217,4 @@ across Park.
 
 ---
 
-*Version 1.0.1 of 2016-11-06.*
+*Version 1.0.2 of 2018-01-02.*
