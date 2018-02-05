@@ -6,8 +6,8 @@ responses to questions I received from students or other people.  Some are
 rants about topics I'm passionate about.  Some are explanations of how
 I approach the world.  Some are just my attempts to think through a topic.
 
-Latest musing: 
-[Shared governance](shared-governance-2018-02-03) (Musing #529)
+Latest musing:
+[A nine-month contract](nine-month-contract) (Musing #530)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

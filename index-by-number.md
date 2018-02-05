@@ -686,3 +686,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [The magic commons fairies](magic-commons-fairies) (Musing #527)  
 [Failing to muse](failing-to-muse-2018-02-02) (Musing #528)  
 [Shared governance](shared-governance-2018-02-03) (Musing #529)  
+[A nine-month contract](nine-month-contract) (Musing #530)  

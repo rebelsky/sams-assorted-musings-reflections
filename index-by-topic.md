@@ -838,6 +838,10 @@ Why Grinnell staff with Ph.D's should be allowed to teach.
 
 > Food choices.
 
+[A nine-month contract](nine-month-contract) (Musing #530)
+
+> If we have nine-month contracts, why can't we do three months of paid work over the summer?
+
 Assorted talks and speeches
 ---------------------------
 
