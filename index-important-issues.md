@@ -95,3 +95,7 @@ in Web hosting.
 
 > Finding myself frustrated by reductionist approaches.
 
+[Shared governance](shared-governance-2018-02-03) (Musing #529)
+
+> Something Grinnell needs to work on.
+

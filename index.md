@@ -7,7 +7,7 @@ rants about topics I'm passionate about.  Some are explanations of how
 I approach the world.  Some are just my attempts to think through a topic.
 
 Latest musing: 
-[Failing to muse](failing-to-muse-2018-02-02) (Musing #528)
+[Shared governance](shared-governance-2018-02-03) (Musing #529)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
