@@ -24,8 +24,8 @@ the students in the class.  Here's what I wrote, more or less.  I know
 that it will offend some and confuse others, but it's what I'm going with.
 
 In any case, this is what my students are reading about four weeks into
-the semester.  Next semester, they [1] will probably get to read it at the
-beginning fo the semester.
+the semester.  Next semester [1], they [2] will probably get to read it at the
+beginning of the semester.
 
 ## What is data science?
 
@@ -158,8 +158,19 @@ regularity.
 
 ---
 
-[1] And by "they", I mean the students who take it next semester.
+[1] This musing was written in Fall 2017.  "Next semester" refers to
+spring 2018.
+
+[2] And by "they", I mean the students who take it [3] next semester.
+
+[3] By "it", I mean CSC 151, our introductory course [4].
+
+[4] Due to the wonders of the Interweb, it may be that "it" might also
+mean "students in _Lighting the Page_, Grinnell's innovative course
+on literary analysis in a digital world".
 
 ---
 
 *Version 1.0 of 2017-09-21.*
+
+*Version 1.1 of 2018-02-06.*
