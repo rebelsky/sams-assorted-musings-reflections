@@ -251,6 +251,10 @@ Essays on writing, or at least on writing my essays
 
 > One of those days that I just can't write.
 
+[Becoming someone else's assigned reading](someone-elses-reading) (Musing #532)
+
+> Something I had not expected.
+
 For prospective students, parents of prospective students, and others with similar interests
 --------------------------------------------------------------------------------------------
 
@@ -1010,6 +1014,10 @@ Overcommitment
 [One hour](one-hour-2018-01-26) (Musing #521)
 
 > Work I might do if I had an extra one.
+
+[Logging my time](time-logs-2018-02-05) (Musing #531)
+
+> Where does the time go?
 
 On teaching 
 -----------

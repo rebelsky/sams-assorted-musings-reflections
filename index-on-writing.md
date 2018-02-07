@@ -248,3 +248,7 @@ Essays on writing, or at least on writing my essays
 
 > One of those days that I just can't write.
 
+[Becoming someone else's assigned reading](someone-elses-reading) (Musing #532)
+
+> Something I had not expected.
+

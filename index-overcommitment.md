@@ -110,3 +110,7 @@ Overcommitment
 
 > Work I might do if I had an extra one.
 
+[Logging my time](time-logs-2018-02-05) (Musing #531)
+
+> Where does the time go?
+
