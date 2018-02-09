@@ -497,3 +497,7 @@ Almost everything else
 
 > What does that acronym stand for?
 
+["Minnesota nice"](minnesota-nice) (Musing #533)
+
+> What does the term mean?
+

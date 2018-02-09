@@ -7,7 +7,7 @@ rants about topics I'm passionate about.  Some are explanations of how
 I approach the world.  Some are just my attempts to think through a topic.
 
 Latest musing:
-[Becoming someone else's assigned reading](someone-elses-reading) (Musing #532)
+["Minnesota nice"](minnesota-nice) (Musing #533)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
