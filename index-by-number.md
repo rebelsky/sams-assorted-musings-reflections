@@ -693,3 +693,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Logging my time](time-logs-2018-02-05) (Musing #531)  
 [Becoming someone else's assigned reading](someone-elses-reading) (Musing #532)  
 ["Minnesota nice"](minnesota-nice) (Musing #533)  
+[Making a slide deck](slide-deck-2018-02-08) (Musing #534)  

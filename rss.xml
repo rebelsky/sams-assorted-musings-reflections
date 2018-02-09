@@ -7,6 +7,13 @@
       A curmudgeonly faculty member in cmoputer science writes about a variety of topics.
     </description>
     <item>
+      <title>Musing #534: Sleep Cycles</title>
+      <link>https://www.cs.grinnell.edu/~rebelsky/musings/sleep-cycles</link>
+      <guid>https://www.cs.grinnell.edu/~rebelsky/musings/sleep-cycles</guid>
+      <pubDate>Fri, 09 Feb 2018 04:47:22 GMT</pubDate>
+      <description>What's the point of Powerpoint?</description>
+    </item>
+    <item>
       <title>Musing #533: "Minnesota nice"</title>
       <link>https://www.cs.grinnell.edu/~rebelsky/musings/minnesota-nice</link>
       <guid>https://www.cs.grinnell.edu/~rebelsky/musings/minnesota-nice</guid>
@@ -138,13 +145,6 @@
       <guid>https://www.cs.grinnell.edu/~rebelsky/musings/norman-bins</guid>
       <pubDate>Sun, 21 Jan 2018 02:00:24 GMT</pubDate>
       <description>Bad design.</description>
-    </item>
-    <item>
-      <title>Musing #514: My first big programming project</title>
-      <link>https://www.cs.grinnell.edu/~rebelsky/musings/first-big-programming-project</link>
-      <guid>https://www.cs.grinnell.edu/~rebelsky/musings/first-big-programming-project</guid>
-      <pubDate>Sat, 20 Jan 2018 03:07:48 GMT</pubDate>
-      <description>My "zero knowledge port".</description>
     </item>
   </channel>
 </rss>

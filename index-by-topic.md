@@ -2435,6 +2435,10 @@ Almost everything else
 
 > What does the term mean?
 
+[Making a slide deck](slide-deck-2018-02-08) (Musing #534)
+
+> What's the point of Powerpoint?
+
 Musings with multiple entries
 -----------------------------
 
