@@ -7,6 +7,13 @@
       A curmudgeonly faculty member in cmoputer science writes about a variety of topics.
     </description>
     <item>
+      <title>Musing #535: Friday nights</title>
+      <link>https://www.cs.grinnell.edu/~rebelsky/musings/friday-nights-2018-02-09</link>
+      <guid>https://www.cs.grinnell.edu/~rebelsky/musings/friday-nights-2018-02-09</guid>
+      <pubDate>Sat, 10 Feb 2018 03:04:32 GMT</pubDate>
+      <description>They provide less time for work than I need..</description>
+    </item>
+    <item>
       <title>Musing #534: Sleep Cycles</title>
       <link>https://www.cs.grinnell.edu/~rebelsky/musings/sleep-cycles</link>
       <guid>https://www.cs.grinnell.edu/~rebelsky/musings/sleep-cycles</guid>
@@ -138,13 +145,6 @@
       <guid>https://www.cs.grinnell.edu/~rebelsky/musings/updating-course-schedule</guid>
       <pubDate>Mon, 22 Jan 2018 03:07:24 GMT</pubDate>
       <description>Unexpected complexity.</description>
-    </item>
-    <item>
-      <title>Musing #515: Norman bins</title>
-      <link>https://www.cs.grinnell.edu/~rebelsky/musings/norman-bins</link>
-      <guid>https://www.cs.grinnell.edu/~rebelsky/musings/norman-bins</guid>
-      <pubDate>Sun, 21 Jan 2018 02:00:24 GMT</pubDate>
-      <description>Bad design.</description>
     </item>
   </channel>
 </rss>

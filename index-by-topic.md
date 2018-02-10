@@ -1019,6 +1019,10 @@ Overcommitment
 
 > Where does the time go?
 
+[Friday nights](friday-nights-2018-02-09) (Musing #535)
+
+> They provide less time for work than I need.
+
 On teaching 
 -----------
 

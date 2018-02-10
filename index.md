@@ -7,7 +7,7 @@ rants about topics I'm passionate about.  Some are explanations of how
 I approach the world.  Some are just my attempts to think through a topic.
 
 Latest musing:
-[Making a slide deck](slide-deck-2018-02-08) (Musing #534)
+[Friday nights](friday-nights-2018-02-09) (Musing #535)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
