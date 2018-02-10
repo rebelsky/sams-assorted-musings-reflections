@@ -32,6 +32,28 @@ way [4,5].  But I do now.  I'm sure that my students will understand.
 
 ---
 
+Postscript: I drafted this musing while waiting for the start of 
+one of Youngest Son's concerts.  I could have been talking to Michelle,
+or working on grading, or getting the SIGCSE Volunteer System running,
+or ....  So maybe I now have a Work-Family-Musing conflict.
+
+---
+
+Postscript: At the occasional campus discussion of "[Work-Life
+Balance](work-life-balance)", there's always someone [6] who says
+something like "Don't use the term 'balance', which suggests the two
+things are in conflict with each other."  But here's the thing, in these
+kinds of situations, and many others, there is a clear conflict.  So
+here's my recommendation to you and to myself: When work and family
+conflict, family should win.  So get to the stage in your career in which
+you can choose family.
+
+---
+
+Postscript: Yes, I realize that last postscript also reflects my privilege.
+
+---
+
 [1] Unfortunately, the schedule for the plays and concerts often comes out
 long after I've made the travel plans.  And we live in Iowa.  So even when
 I've made appropriate plans, the weather gets in the way.
@@ -47,6 +69,8 @@ up early that Sunday.
 forgetting my less-good decisions.
 
 [5] Michelle probably knows.
+
+[6] Usually an administrator.
 
 ---
 
