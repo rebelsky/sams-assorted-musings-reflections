@@ -1,10 +1,32 @@
 Some forthcoming musings
 ========================
 
-New "soon", normal length or possibly long (teaching)
+Even more immediate.
 
-1. Schedule. `updating-course-schedule-revisited`.
-1. Pages in a course Web.
+1. About Grinnell.  (Another in a series.)
+1. A second week of logging my life.
+1. Work-family conflicts.
+1. Workaholics - Just another name for faculty.  Sometimes I feel like
+I'm a workaholic because I bring grading everywhere.  Then I remember.
+It's not just me.  I've seen colleagues grade at their kids concerts 
+(hopefully between numbers), at plays (at intermission), at talks, and
+even at College graduation.  Maybe it's not that we're workaholics.  Maybe
+it's that work gives us too much work.
+1. Missing fifty-five musings.
+
+End of month
+
+* The ever-expanding list of topics.
+* Realized that I was behind.
+* Started a new series.
+
+Almost immediate (?)
+
+1. Introducing awesome people to each other.  "I am fortunate enough to know a variety of incredibly awesome people: colleagues (faculty and staff), friends, alumni, students, anad even some folks who cross those boundaries.  Once in a while, I notice connections between these people and a send a short note.  "You two share common interests.  You should talk."  I love when it works really well.  A month ago, I suggested that two of my favorite "empowerment" people meet.  I can't wait to see what they come up with."  (Add note about "these are the people I refer students to.  But sometimes, I can connect them to each other.")
+1. Endnotes in electronic documents (From "the end of ownership").  And how
+  we read.
+1. The Hartl questions.  (Went from "Do the work; reflect."  To "Do the work, share it with me, reflect *on these particular questions*.  Take a long time to write, since I have to go through the whole chapter again, picking out the important things behind the schenes.)
+1. Goodwill.  When you treat us as piece workers and contract employees, things break down.
 1. Codecademy Ruby tutorial.  (I assign it; I think there are good reasons
    to use this kind of Tutorial; but, boy, there are many things I don't
    like.)  "Puts out every element inside the sub-arrays inside `s`."
@@ -12,6 +34,11 @@ New "soon", normal length or possibly long (teaching)
    but I may want to write it earlier.)  `alphabetize` calls sort! (so it
    should be `alphabetize!`.  Mixes snake_style and camelCase for variables.
    Mixes puts and return strings.  (Dragon example. ...)
+1. One of the assessment notes (see below).
+1. Annotation software?: `sketches/annotating-the-web`.
+
+New "soon", normal length or possibly long (teaching)
+
 1. Rubrics.
 1. Advising assignment (for Joyce).
 1. Detailed learning outcomes for CSC 151.
@@ -27,10 +54,11 @@ New "soon", normal length or possibly long (teaching)
    assessment practices for that loop.  You just need to pay attention,
    introspect, and discuss.
 1. Eboards. (`sketches/eboards.md`)
+1. Take-home exams.  (Why I give them, etc.)
 
 New "soon", normal length or possibly long (other)
 
-1. Annotation software?: `sketches/annotating-the-web`.
+1. Twelve-month contracts.
 1. Don't embarrass me.  (Whatever happened to ...?  Will I ever teach
    it again.
 1. Cleaning up musings?  (Somewhere between three and four dozen drafts
@@ -43,21 +71,52 @@ New "soon", normal length or possibly long (other)
    application for being generic.  But you can upgrade your own
    application by doing the homework.)
 1. Social Media (and why I don't tend to use it except to announce musings).
-1. Take-home exams.  (Why I give them, etc.)
 1. The challenge of CS (You know when it doesn't work) and its broader
    effects, particularly given what we know about personalities.  Does
    "You are wrong" discourage women?
+1. Taking classes.  One of the benefits of being at an academic institution
+   is that I can sit in on classes of interest, at least when time permits
+   [1].  During my last sabbatical, I was able to devote full-time work
+   to Intro Studio and Sculpture, and part-time work to digital, intro art
+   history, and art since 1945.  Since this semester is a bit quieter,
+   I've made a list of courses that I'd like to sit in on.  There are
+   three, and each is offered only this semester. ...
+   [1] I must admit that time rarely permits.
+1. Too Much Music.  <https://www.npr.org/sections/therecord/2018/01/16/578216674/too-much-music-a-failed-experiment-in-dedicated-listening?utm_source=npr_newsletter&utm_medium=email&utm_content=20180118&utm_campaign=youmusthearthis&utm_term=music>
+1. Grinnell is differnt.  Inspired by my "recent" dialog with Maddie K.
+   Her email is entitled "Re: DIS" and is dated 2018-01-25.
+1. Something about my notes from Amanda Hinchman-D.  Maybe "unexpected
+   effects"?
+1. Should I write something about cluelessness on economic status
+   (my own, others')
 
 New "soon", potentially short, teaching topics.
 
-1. DRYing out my course webs.
+1. Pause for breath.
+1. Reconfigurable classrooms.  Whose responsibility is it to "put it
+   back"?  Probably add rant about the computer podium - we asked for
+   a fixed one.  They gave us a movable one.  Guess what?  That means
+   the cords get pulled out of the floor.  Things appear and disappear.
+   (Or is this sharing a classroom.)
 1. Weekly reports in CSC 322.  (Things I was going to write anyway?)
-1. Timeboxing (in CSC 321, from Janet)
+1. Annotating the course Web?
+1. Usurping the faculty's primary responsibility.  The common reading.
+   I don't object to the books.  But I strenuously object to non-faclty
+   setting what seems to be the "common intellectual heritage" of Grinnell.
+1. Pages in a course Web.
+1. DRYing out my course webs.
+1. Timeboxing (in CSC 321, from Janet).  Recent frustration at how
+   to deal with timeboxing when students don't do as well as I would
+   hope and I've guaranteed a minimum grade.  Adding reflections to
+   timeboxed work.  ALl sorts of things.
 
 New "soon", potentially short
 
-1. JAVA.  All caps.  Why?  What might it stand for?
-1. Expanding list.  How many of these are new since I restarted?
+1. Advisory panel.
+1. SIGCSE list workflows.  `sigcse-list-workflow`
+1. Sentient and malicious.  See day 3 of CSC 151.
+1. Biscuit pizza on plastic tray.  (Dumb things I did in my young
+   adulthood.)
 1. Fall job interviews.  (Tapia + GHC + A third conference + interviews)
    A huge change.
 1. Inbox zero.  Your Memories on Facebook recently came up with musing
@@ -76,7 +135,6 @@ New "soon", potentially short
    doing it enough.
 1. Room and Board at Grinnell and elsewhere.  (See the `act-tuition-survey`
    musing for links.)
-1. SIGCSE mailing list workflows.
 1. How do you choose what to muse about?  I trust my muse.  Sometimes my
    muse says "It's time to muse about this."  Sometimes I have to show
    my muse the list of potential topics we've come up with in the past
@@ -92,7 +150,7 @@ New "soon", potentially short
    a good start.)  I spend a few minutes cleaning it up and then post it.
    But those days are rare.  When I clean up a draft musing, even one that
    is mostly complete, I often get caught up in the topi and revise it
-   substantially.
+   substantially.  End of next month?
 1. Cpanel?
 1. Academic geneaology. <http://veblenhouse.blogspot.com/2017/04/the-usefulness-of-useless-knowledge.html>. <http://www.towntopics.com/wordpress/2013/02/06/who-is-oswald-veblen-imagine-princeton-without-the-ias-einstein-herrontown-woods/>. <https://genealogy.math.ndsu.nodak.edu/id.php?id=805>. <http://etcweb.princeton.edu/CampusWWW/Companion/veblen_oswald.html>.  [Moved up]
 1. Socks and VPN?
@@ -105,6 +163,13 @@ New "soon", potentially short
    ten years.  Truly exceptoinal (Top 1%), Outsstanding (96-99%),
    Superior (91-95%), Good (81-90%) Somewhat above average (71-80%),
    Average (51-70%), Below average (< 50%).
+1. Github.  (I use it in so many places.  It's strange not to use it.)
+1. A new introduction.
+1. Boundaries and limits.  In most occupations, when your workday (8-5,
+   4am-12:30 pm, whatever) is over, you are done for the day.  As a faculty
+   member, I find it harder to set boundaries.  There are always other
+   things to do - more articles to read (and write), more teaching materials
+   to prepare, more things to think about.  And boy this needs work.
 
 Old "soon"
 
