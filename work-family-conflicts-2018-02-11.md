@@ -65,9 +65,9 @@ such as faculty members, don't think that they can really make the choice.
 ---
 
 Postscript: In this instance, I am also privileged in being male.  As a
-male, I get positive reactions when I choose family over work.  Women,
-on the other hand, may be told that they do not take their work seriously
-if they make the same choice that I make.
+male, I usually get positive reactions when I choose family over work.
+Women, on the other hand, may be told that they do not take their work
+seriously if they make the same choice that I make.
 
 ---
 
@@ -118,4 +118,4 @@ to me.
 
 ---
 
-*Version 1.1 of 2018-02-11.*
+*Version 1.1.1 of 2018-02-11.*
