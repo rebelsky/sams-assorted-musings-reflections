@@ -7,6 +7,13 @@
       A curmudgeonly faculty member in cmoputer science writes about a variety of topics.
     </description>
     <item>
+      <title>Musing #536: On being a workaholic</title>
+      <link>https://www.cs.grinnell.edu/~rebelsky/musings/workaholic-2018-02-10</link>
+      <guid>https://www.cs.grinnell.edu/~rebelsky/musings/workaholic-2018-02-10</guid>
+      <pubDate>Sun, 11 Feb 2018 04:51:24 GMT</pubDate>
+      <description>Work the AP reading or take a cruise?  The answer should be obvious.</description>
+    </item>
+    <item>
       <title>Musing #535: Friday nights</title>
       <link>https://www.cs.grinnell.edu/~rebelsky/musings/friday-nights-2018-02-09</link>
       <guid>https://www.cs.grinnell.edu/~rebelsky/musings/friday-nights-2018-02-09</guid>
@@ -138,13 +145,6 @@
       <guid>https://www.cs.grinnell.edu/~rebelsky/musings/updating-course-schedule-continued</guid>
       <pubDate>Tue, 23 Jan 2018 02:59:32 GMT</pubDate>
       <description>Expected complexity.</description>
-    </item>
-    <item>
-      <title>Musing #516: Updating course schedules for a new semester</title>
-      <link>https://www.cs.grinnell.edu/~rebelsky/musings/updating-course-schedule</link>
-      <guid>https://www.cs.grinnell.edu/~rebelsky/musings/updating-course-schedule</guid>
-      <pubDate>Mon, 22 Jan 2018 03:07:24 GMT</pubDate>
-      <description>Unexpected complexity.</description>
     </item>
   </channel>
 </rss>

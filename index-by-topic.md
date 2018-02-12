@@ -1023,6 +1023,9 @@ Overcommitment
 
 > They provide less time for work than I need.
 
+[On being a workaholic](workaholic-2018-02-10) (Musing #536)
+
+> Work the AP reading or take a cruise?  The answer should be obvious.
 On teaching 
 -----------
 

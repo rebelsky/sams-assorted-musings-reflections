@@ -7,7 +7,7 @@ rants about topics I'm passionate about.  Some are explanations of how
 I approach the world.  Some are just my attempts to think through a topic.
 
 Latest musing:
-[Friday nights](friday-nights-2018-02-09) (Musing #535)
+[On being a workaholic](workaholic-2018-02-10) (Musing #536)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

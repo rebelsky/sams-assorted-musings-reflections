@@ -695,3 +695,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 ["Minnesota nice"](minnesota-nice) (Musing #533)  
 [Making a slide deck](slide-deck-2018-02-08) (Musing #534)  
 [Friday nights](friday-nights-2018-02-09) (Musing #535)  
+[On being a workaholic](workaholic-2018-02-10) (Musing #536)  
