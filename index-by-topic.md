@@ -255,6 +255,10 @@ Essays on writing, or at least on writing my essays
 
 > Something I had not expected.
 
+[Missing fifty-five musings](missing-55-musings) (Musing #538)
+
+> It appears that I don't muse every day.
+
 For prospective students, parents of prospective students, and others with similar interests
 --------------------------------------------------------------------------------------------
 
@@ -1026,6 +1030,11 @@ Overcommitment
 [On being a workaholic](workaholic-2018-02-10) (Musing #536)
 
 > Work the AP reading or take a cruise?  The answer should be obvious.
+
+[When work and family conflict](work-family-conflicts-2018-02-11) (Musing #537)
+
+> What happens when work obligations and family obligations conflict?  The answer should be obvious.
+
 On teaching 
 -----------
 

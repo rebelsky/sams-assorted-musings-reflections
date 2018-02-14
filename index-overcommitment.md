@@ -121,3 +121,8 @@ Overcommitment
 [On being a workaholic](workaholic-2018-02-10) (Musing #536)
 
 > Work the AP reading or take a cruise?  The answer should be obvious.
+
+[When work and family conflict](work-family-conflicts-2018-02-11) (Musing #537)
+
+> What happens when work obligations and family obligations conflict?  The answer should be obvious.
+

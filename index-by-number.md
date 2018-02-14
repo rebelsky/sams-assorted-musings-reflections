@@ -696,3 +696,5 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Making a slide deck](slide-deck-2018-02-08) (Musing #534)  
 [Friday nights](friday-nights-2018-02-09) (Musing #535)  
 [On being a workaholic](workaholic-2018-02-10) (Musing #536)  
+[When work and family conflict](work-family-conflicts-2018-02-11) (Musing #537)  
+[Missing fifty-five musings](missing-55-musings) (Musing #538)  

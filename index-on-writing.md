@@ -252,3 +252,7 @@ Essays on writing, or at least on writing my essays
 
 > Something I had not expected.
 
+[Missing fifty-five musings](missing-55-musings) (Musing #538)
+
+> It appears that I don't muse every day.
+
