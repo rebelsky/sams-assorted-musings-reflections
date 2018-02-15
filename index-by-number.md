@@ -698,3 +698,5 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [On being a workaholic](workaholic-2018-02-10) (Musing #536)  
 [When work and family conflict](work-family-conflicts-2018-02-11) (Musing #537)  
 [Missing fifty-five musings](missing-55-musings) (Musing #538)  
+[Logging my time (Week three of Spring Semester 2018)](time-logs-2018-02-13) (Musing #539)  
+[Today's question](conical-bore) (Musing #540)  

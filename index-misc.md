@@ -505,3 +505,7 @@ Almost everything else
 
 > What's the point of Powerpoint?
 
+[Today's question](conical-bore) (Musing #540)
+
+> The things my children ask.
+

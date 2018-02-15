@@ -126,3 +126,7 @@ Overcommitment
 
 > What happens when work obligations and family obligations conflict?  The answer should be obvious.
 
+[Logging my time (Week three of Spring Semester 2018)](time-logs-2018-02-13) (Musing #539)
+
+> Learning too much about my (bad) work habits.
+

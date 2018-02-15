@@ -1035,6 +1035,10 @@ Overcommitment
 
 > What happens when work obligations and family obligations conflict?  The answer should be obvious.
 
+[Logging my time (Week three of Spring Semester 2018)](time-logs-2018-02-13) (Musing #539)
+
+> Learning too much about my (bad) work habits.
+
 On teaching 
 -----------
 
@@ -2454,6 +2458,10 @@ Almost everything else
 [Making a slide deck](slide-deck-2018-02-08) (Musing #534)
 
 > What's the point of Powerpoint?
+
+[Today's question](conical-bore) (Musing #540)
+
+> The things my children ask.
 
 Musings with multiple entries
 -----------------------------

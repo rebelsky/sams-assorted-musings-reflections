@@ -7,6 +7,13 @@
       A curmudgeonly faculty member in cmoputer science writes about a variety of topics.
     </description>
     <item>
+      <title>Musing #540: Today's question</title>
+      <link>https://www.cs.grinnell.edu/~rebelsky/musings/conical-bore</link>
+      <guid>https://www.cs.grinnell.edu/~rebelsky/musings/conical-bore</guid>
+      <pubDate>Thu, 15 Feb 2018 05:53:50 GMT</pubDate>
+      <description>The things my children ask.</description>
+    </item>
+    <item>
       <title>Musing #539: Logging my time (Week three of Spring Semester 2018)</title>
       <link>https://www.cs.grinnell.edu/~rebelsky/musings/time-logs-2018-02-13</link>
       <guid>https://www.cs.grinnell.edu/~rebelsky/musings/time-logs-2018-02-13</guid>
@@ -138,13 +145,6 @@
       <guid>https://www.cs.grinnell.edu/~rebelsky/musings/one-hour-2018-01-26</guid>
       <pubDate>Sat, 27 Jan 2018 05:25:04 GMT</pubDate>
       <description>Work I might do if I had an extra one.</description>
-    </item>
-    <item>
-      <title>Musing #520: Too much to write</title>
-      <link>https://www.cs.grinnell.edu/~rebelsky/musings/too-much-to-write-2018-01-25</link>
-      <guid>https://www.cs.grinnell.edu/~rebelsky/musings/too-much-to-write-2018-01-25</guid>
-      <pubDate>Fri, 26 Jan 2018 03:20:06 GMT</pubDate>
-      <description>Why doesn't the length of my list of topics to write about ever decrease?</description>
     </item>
   </channel>
 </rss>
