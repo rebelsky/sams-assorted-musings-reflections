@@ -175,3 +175,7 @@ About SamR
 
 > What I seem to be wearing this semester.
 
+[My coding habits](coding-habits-2018-02-15) (Musing #541)
+
+> Ways I think about updating code.  (At least that's what I planned to write about.)
+

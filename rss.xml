@@ -7,6 +7,13 @@
       A curmudgeonly faculty member in cmoputer science writes about a variety of topics.
     </description>
     <item>
+      <title>Musing #541: My coding habits</title>
+      <link>https://www.cs.grinnell.edu/~rebelsky/musings/coding-habits-2018-02-15</link>
+      <guid>https://www.cs.grinnell.edu/~rebelsky/musings/coding-habits-2018-02-15</guid>
+      <pubDate>Fri, 16 Feb 2018 04:15:30 GMT</pubDate>
+      <description>Ways I think about updating code.  (At least that's what I planned to write about.)</description>
+    </item>
+    <item>
       <title>Musing #540: Today's question</title>
       <link>https://www.cs.grinnell.edu/~rebelsky/musings/conical-bore</link>
       <guid>https://www.cs.grinnell.edu/~rebelsky/musings/conical-bore</guid>
@@ -138,13 +145,6 @@
       <guid>https://www.cs.grinnell.edu/~rebelsky/musings/potato-bar</guid>
       <pubDate>Sun, 28 Jan 2018 05:09:10 GMT</pubDate>
       <description>Food choices.</description>
-    </item>
-    <item>
-      <title>Musing #521: One hour</title>
-      <link>https://www.cs.grinnell.edu/~rebelsky/musings/one-hour-2018-01-26</link>
-      <guid>https://www.cs.grinnell.edu/~rebelsky/musings/one-hour-2018-01-26</guid>
-      <pubDate>Sat, 27 Jan 2018 05:25:04 GMT</pubDate>
-      <description>Work I might do if I had an extra one.</description>
     </item>
   </channel>
 </rss>

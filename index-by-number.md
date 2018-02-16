@@ -700,3 +700,7 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Missing fifty-five musings](missing-55-musings) (Musing #538)  
 [Logging my time (Week three of Spring Semester 2018)](time-logs-2018-02-13) (Musing #539)  
 [Today's question](conical-bore) (Musing #540)  
+
+## 541-550
+
+[My coding habits](coding-habits-2018-02-15) (Musing #541)  
