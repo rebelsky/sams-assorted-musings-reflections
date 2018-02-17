@@ -907,6 +907,11 @@ Thank-You Notes
 
 > I have no idea who you are, but I appreciate you.
 
+[Making connections](making-connections-2018-02-16) (Musing #542)
+
+> Not quite a real "thank you", but still an appreciation of the wonderful
+  people I know.
+
 Overcommitment
 --------------
 

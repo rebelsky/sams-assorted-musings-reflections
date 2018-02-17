@@ -7,7 +7,7 @@ rants about topics I'm passionate about.  Some are explanations of how
 I approach the world.  Some are just my attempts to think through a topic.
 
 Latest musing:
-[My coding habits](coding-habits-2018-02-15) (Musing #541)
+[Making connections](making-connections-2018-02-16) (Musing #542)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
