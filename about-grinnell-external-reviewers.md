@@ -4,30 +4,30 @@ About Grinnell (some draft notes for external reviewers)
 _Part of the ongoing series "Things I was going to write already."_
 
 I recently wrote [a prologue to this
-piece](prologue-about-grinnell-external-reviewers).  In case you've
+piece](prologue-about-grinnell-external-reviewers) [1].  In case you've
 forgotten, I think the College needs a description of Grinnell that can
 be used for external reviews, and I've been enough of a pain that I now
 get to write that description.
 
 Here's what I've come up with.  It is based closely on the text we used
 in our prior review.  I appreciate any comments and criticisms you wish
-to provide [1].  I expect that no matter what I write, it will also get
-modified by the Dean's office and by Council [2].  I did not have fun
+to provide [2].  I expect that no matter what I write, it will also get
+modified by the Dean's office and by Council [3].  I did not have fun
 trying to look up numbers, such as the number of departments, majors,
 or trustees.  It doesn't help that some of the information online
 is not quite accurate, such as a list of departments that includes
-"Biological Chemistry" [3].  It also seems that some numbers have changed
+"Biological Chemistry" [4].  It also seems that some numbers have changed
 significantly.  The prior text said, "The College is governed by a Board
 of forty-eight trustees, forty-one of whom are alumni of the College."
 The Web site now says that "The board consists of not less than 16 and
 not more than 32 regular members, at least one-quarter (1/4) of whom
-are alumni or alumnae of the College." [4]  I count 27, all but five
+are alumni or alumnae of the College." [5]  I count 27, all but five
 of whom are alums.
 
 Now that I've written it, it feels a bit long.  But it strikes me that
 the data and information need to be there somewhere.  It's probably better
 to have this information in one place, rather than making reviewers seek
-it out [5].  Even with the length, there may also be things missing.
+it out [6].  Even with the length, there may also be things missing.
 For example, I wonder if I should list one of the many [lists of learning
 goals](too-many-goals-2017-09-10) that the College provides.  I should
 probably run it by Henry Walker, who has done more external reviews than
@@ -196,15 +196,18 @@ Humanities and Social Science Complex and a new Admissions Center.
 
 ---
 
-[1] Even if they take the tone of my normal comments and criticisms.
+[1] In this case, "recently" means "the same day I wrote this piece".
+That wasn't my intent, but that's how things happened.
 
-[2] Hopefully, for the better.
+[2] Even if they take the tone of my normal comments and criticisms.
 
-[3] Click on "Departments" under <https://www.grinnell.edu/academics/majors>.
+[3] Hopefully, for the better.
 
-[4] <http://www.grinnell.edu/about/trustees>
+[4] Click on "Departments" under <https://www.grinnell.edu/academics/majors>.
 
-[5] Okay, I'll admit that I don't think we need a paragraph on the Trustees.
+[5] <http://www.grinnell.edu/about/trustees>
+
+[6] Okay, I'll admit that I don't think we need a paragraph on the Trustees.
 But it was in the old version, so I'm keeping it here.  Maybe someone else
 can choose to remove it.
 
@@ -212,4 +215,4 @@ can choose to remove it.
 
 *Version 1.0 released 2018-02-18.*
 
-*Version 1.0.1 of 2018-02-19.*
+*Version 1.0.2 of 2018-02-19.*
