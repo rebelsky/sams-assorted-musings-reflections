@@ -705,3 +705,5 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 
 [My coding habits](coding-habits-2018-02-15) (Musing #541)  
 [Making connections](making-connections-2018-02-16) (Musing #542)  
+[A prologue to some notes for external reviewers about Grinnell](prologue-about-grinnell-external-reviewers) (Musing #543)  
+[About Grinnell (some draft notes for external reviewers)](about-grinnell-external-reviewers) (Musing #544)  

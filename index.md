@@ -6,8 +6,10 @@ responses to questions I received from students or other people.  Some are
 rants about topics I'm passionate about.  Some are explanations of how
 I approach the world.  Some are just my attempts to think through a topic.
 
-Latest musing:
-[Making connections](making-connections-2018-02-16) (Musing #542)
+Latest musings:
+[A prologue to some notes for external reviewers about Grinnell](prologue-about-grinnell-external-reviewers) (Musing #543)
+and
+[About Grinnell (some draft notes for external reviewers)](about-grinnell-external-reviewers) (Musing #544)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

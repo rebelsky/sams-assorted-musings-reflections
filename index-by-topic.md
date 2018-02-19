@@ -1614,6 +1614,14 @@ Grinnell.
 
 > Why students might choose more than one.
 
+[A prologue to some notes for external reviewers about Grinnell](prologue-about-grinnell-external-reviewers) (Musing #543)
+
+> I think the title says it all.
+
+[About Grinnell (some draft notes for external reviewers)](about-grinnell-external-reviewers) (Musing #544)
+
+> Why do I end up drafting institutional documents?
+
 A letter to the incoming chair
 ------------------------------
 
