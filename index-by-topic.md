@@ -2480,6 +2480,10 @@ Almost everything else
 
 > The things my children ask.
 
+[It's not just me!](its-not-just-me) (Musing #545)
+
+> I'm not the only curmudgeon!
+
 Musings with multiple entries
 -----------------------------
 

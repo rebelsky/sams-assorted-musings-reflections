@@ -7,6 +7,13 @@
       A curmudgeonly faculty member in cmoputer science writes about a variety of topics.
     </description>
     <item>
+      <title>Musing #545: It's not just me!</title>
+      <link>https://www.cs.grinnell.edu/~rebelsky/musings/its-not-just-me</link>
+      <guid>https://www.cs.grinnell.edu/~rebelsky/musings/its-not-just-me</guid>
+      <pubDate>Tue, 20 Feb 2018 02:23:14 GMT</pubDate>
+      <description>I'm not the only curmudgeon!</description>
+    </item>
+    <item>
       <title>Musing #544: About Grinnell (some draft notes for external reviewers)</title>
       <link>https://www.cs.grinnell.edu/~rebelsky/musings/about-grinnell-external-reviewers</link>
       <guid>https://www.cs.grinnell.edu/~rebelsky/musings/about-grinnell-external-reviewers</guid>
@@ -138,27 +145,6 @@
       <guid>https://www.cs.grinnell.edu/~rebelsky/musings/another-month-2018-01</guid>
       <pubDate>Thu, 01 Feb 2018 03:43:36 GMT</pubDate>
       <description>Restarting the monthly meta-musings.</description>
-    </item>
-    <item>
-      <title>Musing #525: A coat and tie</title>
-      <link>https://www.cs.grinnell.edu/~rebelsky/musings/coat-and-tie</link>
-      <guid>https://www.cs.grinnell.edu/~rebelsky/musings/coat-and-tie</guid>
-      <pubDate>Wed, 31 Jan 2018 00:39:29 GMT</pubDate>
-      <description>What I seem to be wearing this semester.</description>
-    </item>
-    <item>
-      <title>Musing #524: JAVA</title>
-      <link>https://www.cs.grinnell.edu/~rebelsky/musings/JAVA</link>
-      <guid>https://www.cs.grinnell.edu/~rebelsky/musings/JAVA</guid>
-      <pubDate>Tue, 30 Jan 2018 03:00:10 GMT</pubDate>
-      <description>What does that acronym stand for?</description>
-    </item>
-    <item>
-      <title>Musing #523: The 2018 Grinnell Posse Plus Retreat</title>
-      <link>https://www.cs.grinnell.edu/~rebelsky/musings/posse-plus-2018</link>
-      <guid>https://www.cs.grinnell.edu/~rebelsky/musings/posse-plus-2018</guid>
-      <pubDate>Mon, 29 Jan 2018 02:07:14 GMT</pubDate>
-      <description>Reflections on a weekend discussing complex topics with students and colleagues.</description>
     </item>
   </channel>
 </rss>
