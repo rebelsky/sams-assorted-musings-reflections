@@ -1044,6 +1044,10 @@ Overcommitment
 
 > Learning too much about my (bad) work habits.
 
+[Logging my time (Week four of Spring Semester 2018)](time-logs-2018-02-20) (Musing #546)
+
+> Getting better, I think.
+
 On teaching 
 -----------
 

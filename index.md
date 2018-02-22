@@ -7,7 +7,7 @@ rants about topics I'm passionate about.  Some are explanations of how
 I approach the world.  Some are just my attempts to think through a topic.
 
 Latest musing:
-[It's not just me!](its-not-just-me) (Musing #545)
+[Logging my time (Week four of Spring Semester 2018)](time-logs-2018-02-20) (Musing #546)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
