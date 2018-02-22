@@ -3,26 +3,41 @@ Some forthcoming musings
 
 Even more immediate.
 
-1. About Grinnell.  (Another in a series.)
-1. A second week of logging my life.
-1. Work-family conflicts.
 1. Workaholics - Just another name for faculty.  Sometimes I feel like
 I'm a workaholic because I bring grading everywhere.  Then I remember.
 It's not just me.  I've seen colleagues grade at their kids concerts 
 (hopefully between numbers), at plays (at intermission), at talks, and
 even at College graduation.  Maybe it's not that we're workaholics.  Maybe
 it's that work gives us too much work.
-1. Missing fifty-five musings.
 
 End of month
 
 * The ever-expanding list of topics.
 * Realized that I was behind.
-* Started a new series.
+* Started a new series on workaholism.
+* Started a new series on logging my life.
+* "A long time ago [n] we (briefly) met when you came to Bordeaux to visit 
+  [the person who had to deal with being your office mate
+  for five years]."
+  [n] I believe "a long time ago" is 1992.  At some time, I should muse
+  about my brilliant idea of going to France for a conference on Michelle
+  and my fifth anniversary when it was not possible for her to go.
+
+Next workaholic?
+
+<https://www.chronicle.com/article/Why-I-Collapsed-on-the-Job/242537>
+
+> We are so free to work whenever we want that many of us end up working all the time, not having full weekends and rarely taking off more than just a few days, despite popular perceptions to the contrary. We bring our work home or anywhere we go — on flights or long drives, to vacations or family reunions. We are constantly checking email, responding to colleagues and students.  
+
+* My thoughts: In my case, I have base requirements that take about
+  fifty hours per week.  Then there are the extra tasks that regularly
+  get added: grading a larger assignment, reading through dossiers for
+  candidates and conducting interviews, reviewing papers for a conference,
+  support a student who is having severe difficulties, writing a series
+  of recommendation letters, ...
 
 Almost immediate (?)
 
-1. Introducing awesome people to each other.  "I am fortunate enough to know a variety of incredibly awesome people: colleagues (faculty and staff), friends, alumni, students, anad even some folks who cross those boundaries.  Once in a while, I notice connections between these people and a send a short note.  "You two share common interests.  You should talk."  I love when it works really well.  A month ago, I suggested that two of my favorite "empowerment" people meet.  I can't wait to see what they come up with."  (Add note about "these are the people I refer students to.  But sometimes, I can connect them to each other.")
 1. Endnotes in electronic documents (From "the end of ownership").  And how
   we read.
 1. The Hartl questions.  (Went from "Do the work; reflect."  To "Do the work, share it with me, reflect *on these particular questions*.  Take a long time to write, since I have to go through the whole chapter again, picking out the important things behind the schenes.)
@@ -58,7 +73,8 @@ New "soon", normal length or possibly long (teaching)
 
 New "soon", normal length or possibly long (other)
 
-1. Twelve-month contracts.
+1. History vs. CS.  Tenure-track jobs.  Alternative opportunities.
+1. Twelve-month contracts.  (And how they are not nice to staff.)
 1. Don't embarrass me.  (Whatever happened to ...?  Will I ever teach
    it again.
 1. Cleaning up musings?  (Somewhere between three and four dozen drafts
@@ -115,8 +131,7 @@ New "soon", potentially short
 1. Advisory panel.
 1. SIGCSE list workflows.  `sigcse-list-workflow`
 1. Sentient and malicious.  See day 3 of CSC 151.
-1. Biscuit pizza on plastic tray.  (Dumb things I did in my young
-   adulthood.)
+1. The old shotgun apartment.  (Walking by Powell's.  Etc.)
 1. Fall job interviews.  (Tapia + GHC + A third conference + interviews)
    A huge change.
 1. Inbox zero.  Your Memories on Facebook recently came up with musing
