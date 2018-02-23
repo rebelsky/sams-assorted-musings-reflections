@@ -709,3 +709,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [About Grinnell (some draft notes for external reviewers)](about-grinnell-external-reviewers) (Musing #544)  
 [It's not just me!](its-not-just-me) (Musing #545)  
 [Logging my time (Week four of Spring Semester 2018)](time-logs-2018-02-20) (Musing #546)  
+[Dumb cooking mistakes](dumb-cooking-mistakes-2018-02-21) (Musing #547)  

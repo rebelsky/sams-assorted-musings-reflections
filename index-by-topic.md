@@ -1923,6 +1923,10 @@ About SamR
 
 > Ways I think about updating code.  (At least that's what I planned to write about.)
 
+[Dumb cooking mistakes](dumb-cooking-mistakes-2018-02-21) (Musing #547)
+
+> An adventure from my college days.
+
 Salary reviews
 --------------
 
