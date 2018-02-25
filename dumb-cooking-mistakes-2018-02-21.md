@@ -39,7 +39,13 @@ But you know what? I miss that tray! [7]
 
 Postscript: I had hoped that by writing this musing, I would remember why
 I had included it on a list of potential musing.  But I can't remember.  Oh
-well.  It's done.  If I ever remember, I'll write a followup.
+well.  It's done.  If I ever remember, I may write a followup.
+
+---
+
+Postscript: Someone reminded me.  I had sent a note to Adrienne Hardin
+in which I promised to write about biscuit pizzas.  But I don't remember
+why I promised.
 
 ---
 
@@ -69,4 +75,7 @@ spruced it up.
 
 ---
 
-*Version 1.0 of 2018-02-21.*
+*Version 1.0 posted on 2018-02-21.*
+
+*Version 1.1 of 2018-02-22.*
+

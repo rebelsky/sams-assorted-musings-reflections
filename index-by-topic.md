@@ -1110,6 +1110,10 @@ online, but they will soon expand to more general issues about teaching._
 
 > A note to my students.
 
+[Pausing for breath](pause-for-breath-2018-02-24) (Musing #550)
+
+> A strategy for designing syllabi.
+
 On writing letters of recommendation
 ------------------------------------
 
