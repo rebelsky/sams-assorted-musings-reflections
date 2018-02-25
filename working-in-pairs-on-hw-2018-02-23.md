@@ -57,7 +57,7 @@ As I said in class, one of the best pairs I've ever seen was A and B.
 A was the SGA president. B was one of the best CS students I've taught;
 they now have a Technical Achievement Academy Award.  The two treated each
 other with respect.  B was a better programmer and better problem solver.
-But they talked through problems together, A asked good questions, and RR
+But they talked through problems together, A asked good questions, and B 
 tells me that they regularly found that (a) they learned something new
 through the questions and (b) every four questions or so, A's question
 helped B discover that they weren't as correct as they thought they were.
@@ -109,3 +109,9 @@ Regards,
 [1] Wray, Stuart.  2010.  How pair programming really works.
 _IEEE Computer_, Jan/Feb 2010, pp. 50--55.  Available online at
 <https://www.computer.org/cms/Computer.org/ComputingNow/homepage/2010/0110/W_SW_PairProgramming.pdf>
+
+---
+
+*Version 1.0 released on 2018-02-23.*
+
+*Version 1.0.1 of 2018-02-25.*
