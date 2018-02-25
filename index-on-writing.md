@@ -256,3 +256,7 @@ Essays on writing, or at least on writing my essays
 
 > It appears that I don't muse every day.
 
+[Choosing a topic](choosing-a-topic) (Musing #548)
+
+> My current strategy for choosing a musing.
+

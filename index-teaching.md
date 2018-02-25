@@ -52,3 +52,7 @@ online, but they will soon expand to more general issues about teaching._
 
 > Increasing the complexity.
 
+[Working in pairs on assignments](working-in-pairs-on-hw-2018-02-23) (Musing #549)
+
+> A note to my students.
+

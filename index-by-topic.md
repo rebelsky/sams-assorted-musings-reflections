@@ -259,6 +259,10 @@ Essays on writing, or at least on writing my essays
 
 > It appears that I don't muse every day.
 
+[Choosing a topic](choosing-a-topic) (Musing #548)
+
+> My current strategy for choosing a musing.
+
 For prospective students, parents of prospective students, and others with similar interests
 --------------------------------------------------------------------------------------------
 
@@ -1101,6 +1105,10 @@ online, but they will soon expand to more general issues about teaching._
 [Updating course schedules for a new semester, complicated](updating-course-schedule-complicated) (Musing #519)
 
 > Increasing the complexity.
+
+[Working in pairs on assignments](working-in-pairs-on-hw-2018-02-23) (Musing #549)
+
+> A note to my students.
 
 On writing letters of recommendation
 ------------------------------------

@@ -7,7 +7,7 @@ rants about topics I'm passionate about.  Some are explanations of how
 I approach the world.  Some are just my attempts to think through a topic.
 
 Latest musing:
-[Dumb cooking mistakes](dumb-cooking-mistakes-2018-02-21) (Musing #547)
+[Working in pairs on assignments](working-in-pairs-on-hw-2018-02-23) (Musing #549)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
