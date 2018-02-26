@@ -3,14 +3,15 @@ Some forthcoming musings
 
 Latest set of ideas (post SIGCSE).
 
-1. Sunday: Being thankful
 1. Going to Waste vs. Going to Waist.
+1. Logging my time?
 1. Maybe I'm *not* a curmudgeon.  Mike G's "kill 'em all" in response
    to the growth of administrators.  Another colleague's comment about
    student affairs' empire building.  And it was pretty clear that I
    served the "good cop" role in the SV Headquarters.  Oh well.  I'm still
    keeping my name tag.
 1. Thanking people.
+1. Old white guys on a committee.  (Should I have said no?)
 
 Next set
 
@@ -28,6 +29,8 @@ It's not just me.  I've seen colleagues grade at their kids concerts
 (hopefully between numbers), at plays (at intermission), at talks, and
 even at College graduation.  Maybe it's not that we're workaholics.  Maybe
 it's that work gives us too much work.
+1. SIGACT submission system?
+1. Peoples' names.
 
 End of month
 
