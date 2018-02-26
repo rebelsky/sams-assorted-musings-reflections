@@ -26,7 +26,7 @@ What?  You mean to tell me that "JAVA" is s how some people write "Java"?
 Is it really the case that there are technical people who don't understand
 that all-caps words are supposed to represent acronyms?  How do these
 people get jobs [6]?  And what's their relationship to the people who can't
-distinguish between Java and Javascript, two very different languages who
+distinguish between Java and JavaScript, two very different languages who
 share only a C-based syntax [7], a legacy of being named by marketers,
 and an incomplete embrace of object-oriented principles.
 
@@ -62,4 +62,6 @@ Do we need a syntax that seems to treat every byte as costly?
 
 ---
 
-*Version 1.0 of 2018-01-29.*
+*Version 1.0 released 2018-01-29.*
+
+*Version 1.0.1 of released 2018-02-25.*

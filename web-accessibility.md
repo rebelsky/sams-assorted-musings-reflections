@@ -51,8 +51,8 @@ to help.
 
 Are there other things?  Well, I've found that if you rely on fairly
 straightforward HTML and CSS, you are more likely to create an accessible
-page.  If you use Javascript, you should also see what it's like to
-read your page with Javascript disabled.  This doesn't mean that you
+page.  If you use JavaScript, you should also see what it's like to
+read your page with JavaScript disabled.  This doesn't mean that you
 can't do creative things on the page; it just means that you have to
 think about the implications.
 
@@ -82,4 +82,6 @@ whatever is in the caption, or a short phrase, or whatever.
 
 ---
 
-*Version 1.0 of 2016-10-20.*
+*Version 1.0 released 2016-10-20.*
+
+*Version 1.0.1 of 2018-02-25.*

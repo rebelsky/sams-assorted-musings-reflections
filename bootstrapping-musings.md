@@ -64,7 +64,7 @@ materials.
 
 ---
 
-[1] It turns out that I needed some Javascript in the footer.
+[1] It turns out that I needed some JavaScript in the footer.
 
 [2] Perhaps I should just stick with the default Readable theme.
 I'll probably figure out how to switch back to that some time soon [3].
@@ -75,4 +75,7 @@ I'll probably figure out how to switch back to that some time soon [3].
 
 ---
 
-*Version 1.0 of 2017-07-09.*
+*Version 1.0 released 2017-07-09.*
+
+*Version 1.0.1 of 2018-02-25.*
+

@@ -81,7 +81,7 @@ and in edited volumes.
 
 *Other extra-curricular opportunities.*  We run a weekly reading group,
 CS Table, that considers a wide variety of topics, from community-based
-mobile networks in developing nations, to controversies about Javascript
+mobile networks in developing nations, to controversies about JavaScript
 libraries, to issues of race and gender in computing.  In those
 discussions, that include students, faculty, and staff, we draw on
 readings that span the gamut from recent academic papers to classics to
@@ -154,4 +154,6 @@ Science_.  December 20, 2013.
 
 ---
 
-*Version 1.0.1 of 2017-05-23.*
+*Version 1.0.1 released 2017-05-23.*
+
+*Version 1.0.2 of 2018-02-25.*

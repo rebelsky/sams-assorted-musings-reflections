@@ -239,8 +239,10 @@ have to deal the fallout if we violate FERPA.
 [18] And what's better than saucy ganders?
 
 [19] I do know that I have to make my newer course web sites friendly
-for Javascript-free browsing.  It's on my agenda for the summer.
+for JavaScript-free browsing.  It's on my agenda for the summer.
 
 ---
 
-*Version 1.0.3 of 2017-05-16.*
+*Version 1.0.3 released 2017-05-16.*
+
+*Version 1.0.4 of 2018-02-25.*

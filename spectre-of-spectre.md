@@ -25,8 +25,8 @@ code onto your machine.
 
 However, as I started to read more on other sites, I realized that what
 the _Times_ calls "moves code onto your machine" can just mean "includes
-a Javascript program that takes advantage of the flaw".  In fact, the
-researchers who found the flaw had already written a short Javascript
+a JavaScript program that takes advantage of the flaw".  In fact, the
+researchers who found the flaw had already written a short JavaScript
 program that dumps the memory of the browser.  That's a serious problem.
 So I've patched my primary computers as best I can.  The folks at
 Mozilla, makers of Firefox, have found one approach that disables
@@ -140,10 +140,10 @@ We can generalize this technique to find the exact value and
 not just whether `m` contains 42.  It's slow, but it's doable.  And
 processors are fast.
 
-So, here's the thing: Javascript code runs in the same memory space as
-your browser.  Javascript code gets compiled.  When Javascript code gets
+So, here's the thing: JavaScript code runs in the same memory space as
+your browser.  JavaScript code gets compiled.  When JavaScript code gets
 compiled, the new code likely has checks about array indices.  Even if
-it doesn't, you can force some.  Hence, a bit of Javascript code can use
+it doesn't, you can force some.  Hence, a bit of JavaScript code can use
 this technique to probe any area of browser memory, even if the browser
 has tried to "sandbox" the code.  But writing the code understands some
 understanding of various aspects of the browser, and different browsers
@@ -256,3 +256,8 @@ the same location as `array1[x]`.
 
 > Google said it informed the affected companies about the Spectre flaw on 1 June 2017 and later reported the Meltdown flaw before 28 July 2017. Both Intel and Google said they were planning to release details of the flaws on 9 January, when they said more fixes would be available, but that their hand had been forced after early reports led to Intel stock falling by 3.4% on Wednesday.
 
+---
+
+*Version 1.0 released 2018-01-06.*
+
+*Version 1.0.1 of 2018-02-25.*

@@ -74,7 +74,7 @@ structurally, rather than in terms of particular text that appears.
 In this case, I want the contents of the span elements with class
 `"field-content"` that fall within div elements with class `"views-field
 views-field-created"`.  (It's too late at night for me to write the
-Javascript for that, but it's pretty straightforward.)
+JavaScript for that, but it's pretty straightforward.)
 
 Those sound similar.  And they are for the date.  But what happens when we
 get to the title of the article?  The text matching approach says that we
@@ -108,7 +108,7 @@ my great-grand advisor).  And regular expressions are their hammers.
 You process text, even annotated structured text, by looking for textual
 patterns.  However, regular expressions are not always the right tool.
 Sometimes we should use a language that lets us talk about the elements
-of the structure, such as Javascript and the Document Object Model.
+of the structure, such as JavaScript and the Document Object Model.
 Sometimes, we want to look for things that can't be expressed by regular
 expressions.  (The obvious, but silly, example is looking for palindromes
 in a longer text.)  Knowing more than regular expressions helps.
@@ -135,9 +135,9 @@ process.
 
 ---
 
-Although I said that I wasn't going to, I wrote the Javascript code
+Although I said that I wasn't going to, I wrote the JavaScript code
 for getting the date.  It's either the time of day, my knowledge of
-Javascript, or the design of Javascript and the DOM, but this is the
+JavaScript, or the design of JavaScript and the DOM, but this is the
 first thing that I came up with.
 
     parts = document.getElementsByClassName("views-field views-field-created")
@@ -166,4 +166,6 @@ This was supposed to be a quick essay.  It wasn't.
 
 ---
 
-*Version 1.0 of 2016-06-01.*
+*Version 1.0 released 2016-06-01.*
+
+*Version 1.0.1 of 2018-02-25.*

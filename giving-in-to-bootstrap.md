@@ -46,7 +46,7 @@ going along with the Bootstrap.  Why?  Well, there is one really nice part
 of Bootstrap, at least from my perspective.  Bootstrap does a pretty nice
 job of adapting to different screen sizes.  For example, if the page shrinks
 enough, Bootstrap changes the navigation bar to a "hamburger" [9].  I do
-have some concerns, such as Bootstrap's reliance on Javascript [10].  But
+have some concerns, such as Bootstrap's reliance on JavaScript [10].  But
 I think I'll see just how troublesome that really is.  In the end, I think
 Charlie is smart and thoughtful, so if he uses Bootstrap, there are
 probably good reasons for it.
@@ -98,4 +98,6 @@ with.
 
 ---
 
-*Version 1.0.1 of 2017-01-19.*
+*Version 1.0.1 released 2017-01-19.*
+
+*Version 1.0.2 of 2018-02-25.*
