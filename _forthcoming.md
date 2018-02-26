@@ -1,8 +1,27 @@
 Some forthcoming musings
 ========================
 
-Even more immediate.
+Latest set of ideas (post SIGCSE).
 
+1. Sunday: Being thankful
+1. Going to Waste vs. Going to Waist.
+1. Maybe I'm *not* a curmudgeon.  Mike G's "kill 'em all" in response
+   to the growth of administrators.  Another colleague's comment about
+   student affairs' empire building.  And it was pretty clear that I
+   served the "good cop" role in the SV Headquarters.  Oh well.  I'm still
+   keeping my name tag.
+1. Thanking people.
+
+Next set
+
+1. Bad software.  Is it worse to use or to support?  Our projectors
+   New UI, even worse than the old UI.  Old: Click PC.  Click On.
+   New: Click PC.  Click "Yes".  Click "OK".  Wait.  Respond to new
+   modal dialog "Did the projector turn on?"  Stupid questions: Which
+   connection do you want to use?  (There is none.)  But here's the fun
+   part: I don't think AV chose the system and I think they even 
+   discoruaged the initial choice of using ...."
+1. The evolution of a musing.  (Refers to prior musing.)
 1. Workaholics - Just another name for faculty.  Sometimes I feel like
 I'm a workaholic because I bring grading everywhere.  Then I remember.
 It's not just me.  I've seen colleagues grade at their kids concerts 
@@ -22,6 +41,10 @@ End of month
   [n] I believe "a long time ago" is 1992.  At some time, I should muse
   about my brilliant idea of going to France for a conference on Michelle
   and my fifth anniversary when it was not possible for her to go.
+* At SIGCSE, I discovered that Some professional colleagues [n] read my
+  musings. I'm still not sure why. [n] By "professional colleagues", I
+  mean colleagues outside of Grinnell who share my profession.  I do
+  not mean people who make a profession of being a colleague.
 
 Next workaholic?
 
@@ -70,9 +93,13 @@ New "soon", normal length or possibly long (teaching)
    introspect, and discuss.
 1. Eboards. (`sketches/eboards.md`)
 1. Take-home exams.  (Why I give them, etc.)
+1. Grading.  <https://www.chronicle.com/article/Why-I-Stopped-Writing-on-My/242477>
 
 New "soon", normal length or possibly long (other)
 
+1. Scheduling students.  Update, rewrite, or buy?  
+   <https://www.shiftboard.com/product/scheduling/>.
+   <http://www.cervistech.com/>
 1. History vs. CS.  Tenure-track jobs.  Alternative opportunities.
 1. Twelve-month contracts.  (And how they are not nice to staff.)
 1. Don't embarrass me.  (Whatever happened to ...?  Will I ever teach
@@ -128,7 +155,11 @@ New "soon", potentially short, teaching topics.
 
 New "soon", potentially short
 
+1. My blue blazer.
+1. Version numbers.  Why do I change after one period, or two, or ...?
+1. "Myself" ("Please send it to myself")
 1. Advisory panel.
+1. Signatures (speeding up my life with those).
 1. SIGCSE list workflows.  `sigcse-list-workflow`
 1. Sentient and malicious.  See day 3 of CSC 151.
 1. The old shotgun apartment.  (Walking by Powell's.  Etc.)
@@ -150,22 +181,6 @@ New "soon", potentially short
    doing it enough.
 1. Room and Board at Grinnell and elsewhere.  (See the `act-tuition-survey`
    musing for links.)
-1. How do you choose what to muse about?  I trust my muse.  Sometimes my
-   muse says "It's time to muse about this."  Sometimes I have to show
-   my muse the list of potential topics we've come up with in the past
-   and the muse picks one for me.  Believe it or not, but there are times
-   my muse is wrong ([1] or I'm not listening well) and I get partway
-   through a musing before I realize that it's not the right topic for
-   the day.  I set those aside, update the list of potential topics, and
-   ask my muse to consider another.  Then there are the days that I'm
-   really lazy and find a musing that has a substantial draft ([2]
-   I write most musings from scratch, but there are also a number of
-   partial ones I write either for the aforemention "start and give up"
-   reason or because I wanted to get some ideas down and those provide
-   a good start.)  I spend a few minutes cleaning it up and then post it.
-   But those days are rare.  When I clean up a draft musing, even one that
-   is mostly complete, I often get caught up in the topi and revise it
-   substantially.  End of next month?
 1. Cpanel?
 1. Academic geneaology. <http://veblenhouse.blogspot.com/2017/04/the-usefulness-of-useless-knowledge.html>. <http://www.towntopics.com/wordpress/2013/02/06/who-is-oswald-veblen-imagine-princeton-without-the-ias-einstein-herrontown-woods/>. <https://genealogy.math.ndsu.nodak.edu/id.php?id=805>. <http://etcweb.princeton.edu/CampusWWW/Companion/veblen_oswald.html>.  [Moved up]
 1. Socks and VPN?
