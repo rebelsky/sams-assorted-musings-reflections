@@ -3,13 +3,9 @@ Some forthcoming musings
 
 Latest set of ideas (post SIGCSE).
 
-1. Going to Waste vs. Going to Waist.
-1. Logging my time?
-1. Maybe I'm *not* a curmudgeon.  Mike G's "kill 'em all" in response
-   to the growth of administrators.  Another colleague's comment about
-   student affairs' empire building.  And it was pretty clear that I
-   served the "good cop" role in the SV Headquarters.  Oh well.  I'm still
-   keeping my name tag.
+1. Maybe I'm *not* a curmudgeon.  
+1. Logging my time (SIGCSE)?
+1. End of month.
 1. Thanking people.
 1. Old white guys on a committee.  (Should I have said no?)
 
@@ -21,7 +17,13 @@ Next set
    modal dialog "Did the projector turn on?"  Stupid questions: Which
    connection do you want to use?  (There is none.)  But here's the fun
    part: I don't think AV chose the system and I think they even 
-   discoruaged the initial choice of using ...."
+   discoruaged the initial choice of using ...."  Fifteen minutes before
+   class.  Neither the screen nor the projector show what's on the
+   computer (but it works for another computer) . Reboot computer.  Turn 
+   off and on projector.  Try it again.  Class starts, and it's still not
+   working.  Someone from ITS comes.  They turn the projector off and on.
+   It still doesn't work.  Someone else comes from ITS.  They move the
+   cart.  It magically works.
 1. The evolution of a musing.  (Refers to prior musing.)
 1. Workaholics - Just another name for faculty.  Sometimes I feel like
 I'm a workaholic because I bring grading everywhere.  Then I remember.
@@ -158,6 +160,8 @@ New "soon", potentially short, teaching topics.
 
 New "soon", potentially short
 
+1. Proscrastination or Overwork?  (Reflection on Michelle's response
+   to "Feeling fortunate."  " No- you definitely procrastinate along with being overworked.")
 1. My blue blazer.
 1. Version numbers.  Why do I change after one period, or two, or ...?
 1. "Myself" ("Please send it to myself")
