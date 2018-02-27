@@ -717,3 +717,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 ## 551-560
 
 [Feeling fortunate](feeling-fortunate-2018-02-25) (Musing #551)  
+[Should it go to waste or to waist?](waste-vs-waist) (Musing #552)  

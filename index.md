@@ -7,7 +7,7 @@ rants about topics I'm passionate about.  Some are explanations of how
 I approach the world.  Some are just my attempts to think through a topic.
 
 Latest musing:
-[Feeling fortunate](feeling-fortunate-2018-02-25) (Musing #551)
+[Should it go to waste or to waist?](waste-vs-waist) (Musing #552)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

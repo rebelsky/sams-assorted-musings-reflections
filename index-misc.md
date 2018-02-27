@@ -513,3 +513,7 @@ Almost everything else
 
 > I'm not the only curmudgeon!
 
+[Should it go to waste or to waist?](waste-vs-waist) (Musing #552)
+
+> What to do with leftover sweets.
+
