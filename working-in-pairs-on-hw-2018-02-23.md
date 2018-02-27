@@ -50,8 +50,8 @@ You may be right.  But you will learn more by explaining things to your
 partner.  Remember that you have to be pretty damn smart to get into
 Grinnell; if your partner seems to be having trouble, they probably still
 have some useful ideas that you would benefit from hearing and debating.
-I have watched many students with experience solutions that they could
-come up with quickly that are, nonetheless, not very good solutions.
+I have watched many students with experience quickly develop solutions
+that are, nonetheless, not very good solutions.
 
 As I said in class, one of the best pairs I've ever seen was A and B.
 A was the SGA president. B was one of the best CS students I've taught;
@@ -114,4 +114,4 @@ _IEEE Computer_, Jan/Feb 2010, pp. 50--55.  Available online at
 
 *Version 1.0 released on 2018-02-23.*
 
-*Version 1.0.1 of 2018-02-25.*
+*Version 1.0.2 of 2018-02-26.*
