@@ -713,3 +713,7 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Choosing a topic](choosing-a-topic) (Musing #548)  
 [Working in pairs on assignments](working-in-pairs-on-hw-2018-02-23) (Musing #549)  
 [Pausing for breath](pause-for-breath-2018-02-24) (Musing #550)  
+
+## 551-560
+
+[Feeling fortunate](feeling-fortunate-2018-02-25) (Musing #551)  

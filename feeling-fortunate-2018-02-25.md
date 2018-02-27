@@ -26,7 +26,7 @@ for good reasons.  Thanks for caring."
 
 I am fortunate to have excellent students.  My students may not know
 this, but I regularly got comments throughout the conference on the
-wonderful interactions people had without them.  And they are excellent
+wonderful interactions people had with them.  And they are excellent
 in many ways.  They are not afraid to engage in difficult concepts.
 They speak well about their work [4].  They are helpful and friendly.
 And, when they are asked to do work, they work hard and well.
@@ -54,7 +54,7 @@ life.
 
 ---
 
-Postscript: I am fortunate about many other aspects of my professional
+Postscript: I am fortunate in many other aspects of my professional
 life.  These are just the ones that immediately came to mind at SIGCSE.
 
 ---
@@ -72,17 +72,19 @@ apply for).
 
 [5] Or any other conference.
 
-[6] Students get travel, hotel, registration, and meals (up to $25/day)
-paid for.  I'm trying to convince the College to make the per-diem for
-meals more sensible.
+[6] The College pays for students' travel, hotel, registration, and
+meal costs.  Meals are currently cappted at $25/day.  I'm trying to
+convince the College to make the per-diem for meals more sensible.
 
 [7] It may be worse than that.  I seem to be good at saying "I can do that."
 
 [8] Some people know that I struggle with procrastination [9] and have
 learned not to ask me to take particularly time-sensitive roles.
 
-[9] Or perhaps just overcommittment.
+[9] Or perhaps just overcommitment.
 
 ---
 
-*Version 1.0 of 2018-02-25.*
+*Version 1.0 released 2018-02-25.*
+
+*Version 1.0.1 of 2018-02-25.*

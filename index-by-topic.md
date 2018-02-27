@@ -916,6 +916,10 @@ Thank-You Notes
 > Not quite a real "thank you", but still an appreciation of the wonderful
   people I know.
 
+[Feeling fortunate](feeling-fortunate-2018-02-25) (Musing #551)
+
+> A few of the many things for which I am thankful.
+
 Overcommitment
 --------------
 
