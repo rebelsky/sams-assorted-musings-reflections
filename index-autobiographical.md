@@ -183,3 +183,7 @@ About SamR
 
 > An adventure from my college days.
 
+[Maybe I'm not a curmudgeon](not-a-curmudgeon-2018-02-27) (Musing #553)
+
+> Questioning my identity.
+
