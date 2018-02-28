@@ -3,7 +3,6 @@ Some forthcoming musings
 
 Latest set of ideas (post SIGCSE).
 
-1. Maybe I'm *not* a curmudgeon.  
 1. Logging my time (SIGCSE)?
 1. End of month.
 1. Thanking people.
@@ -140,7 +139,6 @@ New "soon", normal length or possibly long (other)
 
 New "soon", potentially short, teaching topics.
 
-1. Pause for breath.
 1. Reconfigurable classrooms.  Whose responsibility is it to "put it
    back"?  Probably add rant about the computer podium - we asked for
    a fixed one.  They gave us a movable one.  Guess what?  That means
@@ -160,6 +158,21 @@ New "soon", potentially short, teaching topics.
 
 New "soon", potentially short
 
+1. Cascading consequences.  Change in schedule of courses that eliminates
+   one of our primary teaching slots.  So we start to move from 4x50
+   to 3x80.  That's fine.  But then they tell us that we need to offer
+   a minimum nubmer of 8:00 a.m. classes and they don't offer 3x80 slots
+   that start at 8:00 a.m.  They don't count the 8:30 a.m. 3x80 slots as
+   meeting the "start at 8:00 a.m." goal.  Putting together a workshop
+   class is an incredibly time-consuming task.  So what do we do? (a)
+   Move to 3x110, which start at 8:00 a.m.?  (That adds to faculty workload.)
+   (b) Convince them to create an 8:00-9:20 slot?  (That's not so sensible;
+   8:30-9:50 is better for eveyrone involved.)  (c) Get them to do the
+   reasonable thing, and treat 8:30 classes as meeting the goal?  (It's
+   CC.  There's no evidence they would do something so reasonable, even
+   though I think that was their original plan.)
+1. Followup on plastic pizza.  Something to with Adrienne seeing instructions
+   to remove plastic from fish sticks.
 1. Proscrastination or Overwork?  (Reflection on Michelle's response
    to "Feeling fortunate."  " No- you definitely procrastinate along with being overworked.")
 1. My blue blazer.
