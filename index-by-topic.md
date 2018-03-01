@@ -2520,6 +2520,10 @@ Almost everything else
 
 > What to do with leftover sweets.
 
+[Thanking people](thanking-people) (Musing #555)
+
+> A good habit.
+
 Musings with multiple entries
 -----------------------------
 

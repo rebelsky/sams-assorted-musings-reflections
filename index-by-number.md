@@ -720,3 +720,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Should it go to waste or to waist?](waste-vs-waist) (Musing #552)  
 [Maybe I'm not a curmudgeon](not-a-curmudgeon-2018-02-27) (Musing #553)  
 [Another month of musing](another-month-2018-02) (Musing #554)  
+[Thanking people](thanking-people) (Musing #555)  
