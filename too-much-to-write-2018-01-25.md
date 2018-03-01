@@ -7,7 +7,7 @@ me is that the backlog keeps growing.  And growing.  And growing.
 When I'm musing, or doing other work, I tend to record other topics
 that I expect to muse about in the near future.  I restarted musing less
 than a month ago.  In that period, I have not only written about nearly
-thirty new topics that add had not been on my backlog [1], I've added
+thirty new topics that had not been on my backlog [1], I've added
 about forty new topics to my "to muse about" list [2].
 
 What are they?  A number have to do with teaching: A note on what it's
@@ -125,4 +125,6 @@ a lot of reflection.
 
 ---
 
-*Version 1.0 of 2018-01-25.*
+*Version 1.0 released 2018-01-25.*
+
+*Version 1.0.1 of 2018-02-28.*
