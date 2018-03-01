@@ -260,3 +260,7 @@ Essays on writing, or at least on writing my essays
 
 > My current strategy for choosing a musing.
 
+[Another month of musing](another-month-2018-02) (Musing #554)
+
+> Continuing the monthly meta-musings.
+

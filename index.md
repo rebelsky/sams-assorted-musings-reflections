@@ -7,7 +7,7 @@ rants about topics I'm passionate about.  Some are explanations of how
 I approach the world.  Some are just my attempts to think through a topic.
 
 Latest musing:
-[Maybe I'm not a curmudgeon](not-a-curmudgeon-2018-02-27) (Musing #553)
+[Another month of musing](another-month-2018-02) (Musing #554)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
