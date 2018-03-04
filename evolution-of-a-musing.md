@@ -30,13 +30,36 @@ New: Click PC.  Click "Yes".  Click "OK".  Wait.  Respond to new
 modal dialog "Did the projector turn on?"  Stupid questions: Which
 connection do you want to use?  (There is none.)  But here's the fun
 part: I don't think AV chose the system and I think they even
-discouraged the initial choice of using ...."
+discouraged the initial choice of using ....
 
 Then it sat in the journal for some time.  I don't date the entries, and
 I don't check it in to GitHub often enough, so I can't be completely sure
 how long it was there.  But it wasn't all that long.
 
-So I wrote a draft.  And ...
+Then I had another bad day with the system.  So I added the following 
+comments to my notes.
+
+> Fifteen minutes before class.  Neither the screen nor the projector
+show what's on the computer (but it works for another computer) . Reboot
+computer.  Turn off and on projector.  Try it again.  Class starts,
+and it's still not working.  Someone from ITS comes.  They turn the
+projector off and on.  It still doesn't work.  Someone else comes
+from ITS.  They move the cart.  It magically works.
+
+So I wrote a draft.  The 150 or so words in my initial notes turned
+into about 1000 words of a musing.  I did a quick spell check
+using the Linux `spell` program [6,7].  I ran the text through
+[Grammarly](https://www.grammarly.com/), which has become a common
+practice.  Grammarly catches a few of the small mistakes and also
+sometimes sends me silly reports on the number of unique words I use.  In
+any case, Grammarly identifed two "critical" issues: I'd mis-capitalized
+"MacBook" as "Macbook" [8] and it thought I misused the word the word
+"connection", although I had not.  It also claimed 28 advanced issues.
+However, after my last experience with Grammarly Pro, I'm not going
+to upgrade.
+
+But the musing didn't feel quite right, so I set it aside for a day or
+so.
 
 ---
 
@@ -56,4 +79,11 @@ and other things that help me muse.
 [5] You may be thinking of a physical journal.  This one is electronic.
 Really just a text file that I edit in `vi`, to be honest.
 
+[6] Apparently, I tend to spell apparently wrong.  (I use an "a" instead
+of the "e".)
+
+[7] Why don't Macs come with `spell`?
+
 ---
+
+*Version 0.6 of 2018-03-03.*
