@@ -7,7 +7,7 @@ rants about topics I'm passionate about.  Some are explanations of how
 I approach the world.  Some are just my attempts to think through a topic.
 
 Latest musing:
-[Thanking people](thanking-people) (Musing #555)
+[A committee of old white guys](committee-old-white-guys) (Musing #556)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

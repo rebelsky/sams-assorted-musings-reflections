@@ -521,3 +521,7 @@ Almost everything else
 
 > A good habit.
 
+[A committee of old white guys](committee-old-white-guys) (Musing #556)
+
+> Should I be another owg?
+
