@@ -1,62 +1,30 @@
 Some forthcoming musings
 ========================
 
-Latest set of ideas (post SIGCSE).
-
-1. Logging my time (SIGCSE)?
-1. End of month.
-1. Thanking people.
-1. Old white guys on a committee.  (Should I have said no?)
-
 Next set
 
-1. Bad software.  Is it worse to use or to support?  Our projectors
-   New UI, even worse than the old UI.  Old: Click PC.  Click On.
-   New: Click PC.  Click "Yes".  Click "OK".  Wait.  Respond to new
-   modal dialog "Did the projector turn on?"  Stupid questions: Which
-   connection do you want to use?  (There is none.)  But here's the fun
-   part: I don't think AV chose the system and I think they even 
-   discoruaged the initial choice of using ...."  Fifteen minutes before
-   class.  Neither the screen nor the projector show what's on the
-   computer (but it works for another computer) . Reboot computer.  Turn 
-   off and on projector.  Try it again.  Class starts, and it's still not
-   working.  Someone from ITS comes.  They turn the projector off and on.
-   It still doesn't work.  Someone else comes from ITS.  They move the
-   cart.  It magically works.
-1. The evolution of a musing.  (Refers to prior musing.)
-1. Workaholics - Just another name for faculty.  Sometimes I feel like
-I'm a workaholic because I bring grading everywhere.  Then I remember.
-It's not just me.  I've seen colleagues grade at their kids concerts 
-(hopefully between numbers), at plays (at intermission), at talks, and
-even at College graduation.  Maybe it's not that we're workaholics.  Maybe
-it's that work gives us too much work.
-1. SIGACT submission system?
+1. Sunday: Bad software.
+1. Monday: Another week logged.  (And I was sick!)
+1. Tuesday: The evolution of a musing.  (Refers to bad-software musing.)
+1. Wednesday: Reminding me.  In a recent musing on workaholism, I mentioned the
+   things that I miss because of my job.  Here's what Facebook 
+   tells me:  March 3, 2012.  "Things that suck about being at a conference: Missing Jonathan's jazz band performance (William and Michelle sent me clips) and William's too many bit parts in the musical (but I can watch the DVD)."  Yeah,
+   it's time to think about my priorities.
+1. Implicit bias.  (Implicit Association) (What I know.  What I believe.  
+   What the evidence suggests.  Vs. Explicit bias.  Etc. Etc.)
+   <https://implicit.harvard.edu/implicit/>
+   <http://www.lookdifferent.org/what-can-i-do/bias-cleanse>
+   What about weight and age and ...?
 1. Peoples' names.
+1. SIGACT submission system?
+1. What happens when a faculty member gets sick
+1. Next workaholic?
 
-End of month
+    <https://www.chronicle.com/article/Why-I-Collapsed-on-the-Job/242537>
 
-* The ever-expanding list of topics.
-* Realized that I was behind.
-* Started a new series on workaholism.
-* Started a new series on logging my life.
-* "A long time ago [n] we (briefly) met when you came to Bordeaux to visit 
-  [the person who had to deal with being your office mate
-  for five years]."
-  [n] I believe "a long time ago" is 1992.  At some time, I should muse
-  about my brilliant idea of going to France for a conference on Michelle
-  and my fifth anniversary when it was not possible for her to go.
-* At SIGCSE, I discovered that Some professional colleagues [n] read my
-  musings. I'm still not sure why. [n] By "professional colleagues", I
-  mean colleagues outside of Grinnell who share my profession.  I do
-  not mean people who make a profession of being a colleague.
+    > We are so free to work whenever we want that many of us end up working all the time, not having full weekends and rarely taking off more than just a few days, despite popular perceptions to the contrary. We bring our work home or anywhere we go — on flights or long drives, to vacations or family reunions. We are constantly checking email, responding to colleagues and students.  
 
-Next workaholic?
-
-<https://www.chronicle.com/article/Why-I-Collapsed-on-the-Job/242537>
-
-> We are so free to work whenever we want that many of us end up working all the time, not having full weekends and rarely taking off more than just a few days, despite popular perceptions to the contrary. We bring our work home or anywhere we go — on flights or long drives, to vacations or family reunions. We are constantly checking email, responding to colleagues and students.  
-
-* My thoughts: In my case, I have base requirements that take about
+    * My thoughts: In my case, I have base requirements that take about
   fifty hours per week.  Then there are the extra tasks that regularly
   get added: grading a larger assignment, reading through dossiers for
   candidates and conducting interviews, reviewing papers for a conference,
@@ -158,6 +126,26 @@ New "soon", potentially short, teaching topics.
 
 New "soon", potentially short
 
+1. Red-green color blindness.  I'm red-green color blind.  I'm not sure
+   if everyone experiences this difference the same way, so I can just
+   report on my own experience.  Being red-green color blind does not mean
+   that I can't see the color red.  It doesn't mean that I can't see
+   the color green.  It doesn't even mean that I can't distinguish
+   a red light from a green light.  I can.  It means that I can't
+   distinguish some shades of red from some shades of green, and that
+   I can't distinguish some shades of both colors from shades of grey.
+   Here are some examples: One of the textbooks that I use highlights
+   text in dark green.  It took me a half semester of teaching with the
+   textbook to realize that there was highlighted text in the book.
+   The SIGCSE Student Volunteer System has a little symbol that is
+   supposed to indicate whether or not a volunteer has checked in.
+   Green means "checked in".  Red means "not checked in".  But the
+   symbols are otherwise indistinguishable.  I had no idea that we were
+   using the symbols to mean anything, since they looked identical to me.
+   I even attended one youth soccer match in which I couldn't tell the
+   teams apart (I think they were dark maroon and something close to
+   dark forest green) [1]  [1] Ne, the teams were not sponsored by
+   the University of Chicago and Dartmouth.
 1. Cascading consequences.  Change in schedule of courses that eliminates
    one of our primary teaching slots.  So we start to move from 4x50
    to 3x80.  That's fine.  But then they tell us that we need to offer
@@ -173,6 +161,17 @@ New "soon", potentially short
    though I think that was their original plan.)
 1. Followup on plastic pizza.  Something to with Adrienne seeing instructions
    to remove plastic from fish sticks.
+1. Facebook, March 2 2012
+   So, tonight one of my students asked me how I am different now than
+   I was in college. I said there are obvious physical differences:
+   While I have always been overweight, I am much larger now. My hair was
+   also much longer in college. I said that I've always been obnoxious,
+   introverted, and geeky. I told them Michelle said that I was clueless
+   in college, although I did not relay her normal anecdotes. Michelle
+   noted that while I've always been responsible about things like I
+   work, I am now responsible for a family. Michelle also noted that
+   I have more of a sense of social justice. Can my long-time friends
+   suggest any other differences?  Andy: "You were never obnoxious, Sam. I'd add loyal and always intellectually curious.".  Michelle: "If I think back to college: the beginnings of who you are now were present. Today You are more confident and self assured. But you were always willing to try new things."  Rose: " i never thought u were obnoxious - - u were always very thoughtful. But i never knew how u found anything on your desk - - and yet u did".  Rose Ijaz: "I never thought of you as obnoxious. I always liked your sense of humor and judging from your Facebook postings, your humor has mellowed somewhat."  Charles: "Stronger and way more self confident. A bit less humble. More introverted. And you tend to a greater "big picture" philosophy."
 1. Proscrastination or Overwork?  (Reflection on Michelle's response
    to "Feeling fortunate."  " No- you definitely procrastinate along with being overworked.")
 1. My blue blazer.
@@ -220,6 +219,9 @@ New "soon", potentially short
    member, I find it harder to set boundaries.  There are always other
    things to do - more articles to read (and write), more teaching materials
    to prepare, more things to think about.  And boy this needs work.
+1. Facebook memories.  Found in my Facebook feed.
+   _February 24, 2012_
+   Okay, I'm on leave from teaching. Why am I still finding that I have more work to do than I feel like I can physically do? (Some answers: I'm still doing lots of administrative work as department chair and a member of too many committees, the classes I'm taking take time, and thinking about studio art projects is really engaging.)
 
 Old "soon"
 
@@ -243,15 +245,12 @@ New forthcoming musings
 1. My next Tutorial.
 1. Overwhelmed by forthcoming musings?  (Many have been in the queue for
    more than a year.)
-1. Implicit bias.  (What I know.  What I believe.  What the evidence 
-   suggests.  Vs. Explicit bias.  Etc. Etc.)
 1. Mentor vs. Sponsor
 1. Blasters and Del-Lords.  (If I recall correctly, some out there is
    a newspaper article that calls the Del-Lords the Blasters of NYC
    or something similar.)
 1. Universal design: Don't rely on text in images in email messages.
 1. Blasters and Del-Lords mixtape
-1. Fun books: The 1924 College catalog
 1. Losing the members of President's Council?  Effect on ability to search?
 1. Sharepointless workflows.
 1. Stopping sooner.  (Didn't need second section in local/national/global.
@@ -294,6 +293,7 @@ New forthcoming musings
 A series on fun books?
 
 1. CLC 17 - Contemporary Literary Criticism
+1. Fun books: The 1924 College catalog
 1. Whatever book my Grandmother is holding in that picture?
 
 All those outstanding anniversary musings (if it's not too late)
