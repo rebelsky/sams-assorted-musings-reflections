@@ -7,7 +7,7 @@ rants about topics I'm passionate about.  Some are explanations of how
 I approach the world.  Some are just my attempts to think through a topic.
 
 Latest musing:
-[Grading](gradeaholics) (Musing #557)
+[Paul Nossiter](paul-nossiter) (Musing #558)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

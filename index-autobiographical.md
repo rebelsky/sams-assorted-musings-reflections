@@ -187,3 +187,7 @@ About SamR
 
 > Questioning my identity.
 
+[Paul Nossiter](paul-nossiter) (Musing #558)
+
+> Mom's first and last boyfriend.
+

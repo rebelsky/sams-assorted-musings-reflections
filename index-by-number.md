@@ -723,3 +723,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Thanking people](thanking-people) (Musing #555)  
 [A committee of old white guys](committee-old-white-guys) (Musing #556)  
 [Grading](gradeaholics) (Musing #557)  
+[Paul Nossiter](paul-nossiter) (Musing #558)  
