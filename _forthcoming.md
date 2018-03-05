@@ -3,13 +3,53 @@ Some forthcoming musings
 
 Next set
 
-1. Sunday: Bad software.
-1. Monday: Another week logged.  (And I was sick!)
-1. Tuesday: The evolution of a musing.  (Refers to bad-software musing.)
-1. Wednesday: Reminding me.  In a recent musing on workaholism, I mentioned the
+1. Another week logged.  (And I was sick!)
+1. Forgetting The Joe Stories.  I know and remember a lot. But I also
+   forget a lot.  Names.  Faces.  Things I promised Michelle that I'd
+   do soon.  The syntax and semantics of APL [1].  How I know people.
+   That I once taught a course that included three weeks of PHP [2].
+   I accept that I forget things; there are enough new inputs that I'm
+   not sure that my brain could store anything and I also accept that
+   my memory weakness is likely tied to some positive strength.  But
+   I get sad about forgetting some things.  One such thing are what
+   I call "The Joe Stories".
+   [1] Yes, I took a Computer Graphics in APL course back in 1986 or
+   so.  We even had the nifty IBM terminals that let you type the Greek
+   characters that APL uses.
+   [2] Seriously.  I was ranting about PHP.  An alum said "But you taught
+   me PHP".  [3]
+   [3] I've even forgotten whether or not I've told that story already.
+1. Bad software.
+1. The evolution of a musing.  (Refers to bad-software musing.)
+1. The value of things.  (The start of a new series on being a packrat.)
+   Michelle and I argue about stuff.  A lot.
+   Anyone who knows me knows that I accumulate.  I accumulate for a
+   variety of reasons.  But one reason that I accumulate is that I
+   assign meaning to things.  That Willa Cather book?  I bought it for
+   my mother.  And, even though mom eventually learned enough about Cather's
+   anti-semitism that she could no longer stomach reading Cather, I still
+   think about the shelf of Willa Cather books on the landing at home and
+   about the joy of finding a new one for her.  That Willa Cather book that
+   mom never even owned, but wasn't in her collection?  Same thing.  The
+   object ties me to my mother [1].  That old issue of _Scientific American_
+   that I'll probably never read.  It's one of the huge collection that
+   Salva Luria gave to me.  I kept one issue [2] to remember the gift.
+   Next musing: But the number of things I accumulate, particularly things 
+   that I accumulate for other reasons, means that the special things also 
+   get lost.  And so I'm always reluctant to throw something away, because
+   a special thing may be there, even if I'm not sure what the special
+   thing is.  Michelle says "Take a picture".  But a picture is not the
+   same as the item.
+   [1] Amazingly, even thinking about that issue makes me cry.
+   [2] Well, probably a half dozen issues.
+1. Reminding me.  In a recent musing on workaholism, I mentioned the
    things that I miss because of my job.  Here's what Facebook 
    tells me:  March 3, 2012.  "Things that suck about being at a conference: Missing Jonathan's jazz band performance (William and Michelle sent me clips) and William's too many bit parts in the musical (but I can watch the DVD)."  Yeah,
    it's time to think about my priorities.
+1. Feeling maudlin.  (Reflection on the last few  musings, all of which
+   made me sad - Paul Nossiter, The Joe Stories, The Meaning of Things,
+   Facebook reminders.)  I wonder why.  Is it that mom's birthday is
+   this week?  Is it feeling my own mortality?
 1. Implicit bias.  (Implicit Association) (What I know.  What I believe.  
    What the evidence suggests.  Vs. Explicit bias.  Etc. Etc.)
    <https://implicit.harvard.edu/implicit/>
@@ -18,7 +58,10 @@ Next set
 1. Peoples' names.
 1. SIGACT submission system?
 1. What happens when a faculty member gets sick
-1. Next workaholic?
+1. Another workacholic: Little things add up?  An hour here.  An hour there.
+   If you have thirty hours planned per week, you can spare about ten such
+   hours.  But if you have fifty hours planned per week ....
+1. And another workaholic (maybe?)
 
     <https://www.chronicle.com/article/Why-I-Collapsed-on-the-Job/242537>
 
