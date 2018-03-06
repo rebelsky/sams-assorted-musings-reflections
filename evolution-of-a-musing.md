@@ -59,7 +59,8 @@ However, after my last experience with Grammarly Pro, I'm not going
 to upgrade.
 
 But the musing didn't feel quite right, so I set it aside for a day or
-so.
+so.  It ended up being a few more days than I expected.  In that time,
+I encountered one of the "old" UIs.  And so I added notes about that.
 
 ---
 
@@ -86,4 +87,4 @@ of the "e".)
 
 ---
 
-*Version 0.6 of 2018-03-03.*
+*Version 0.7 of 2018-03-05.*

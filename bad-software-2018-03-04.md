@@ -34,7 +34,7 @@ so after clicking "Yes", the dialog stays up until you hit "OK" [3].
 Then it waits two minutes, about long enough for the projector to actually
 start up, and then puts up a new modal dialog that says something like
 "Wait for the projector to start".  So what used to be two button clicks
-has now ended up being four button clicks.  And for no clear purpose.
+has now ended up being four button clicks [4].  And for no clear purpose.
 
 It that's not enough, not all of the dialogs are even correct.  You may
 recall that I said that they switched from VGA to HDMI.  So what happens
@@ -44,7 +44,7 @@ programming", is that I'm told.  It's senseless.
 
 The first time I tried to use the VGA connection to my laptop, a 15"
 MacBook Pro, the color scheme was off.  Way off.  And it wasn't just
-off on the projector; it was also off on the monitor.  ITS [4] came in
+off on the projector; it was also off on the monitor.  ITS [5] came in
 to look at it.  They couldn't figure it out.  We decided to leave it
 as a winter break project.  At some point, they figured out that the
 Macintosh HDMI output does not match the HDMI input the system expects.
@@ -59,7 +59,7 @@ I arrived in my classroom fifteen minutes early.  I made sure that
 it was on the PC and hit the enter key.  Nothing showed up on the
 monitor or the projector.  I switched to the Mac, and while the Mac
 showed up on the monitor, nothing showed up on the projector.  So I
-rebooted the PC.  It eventually showed up on the monitor [5], but not
+rebooted the PC.  It eventually showed up on the monitor [6], but not
 the projector.    Then I turned the projector off and on.  That had the
 great effect of making the monitor stop working with the PC and didn't
 fix the projector.  At that point, I had reached the start of class.
@@ -70,7 +70,7 @@ But it ended up wasting ten minutes of class time.
 
 I've had lots of other problems with the system.  The "Mute Image"
 button doesn't work.  They've had to physically reboot the hardware part
-of the system at least twice [6].  At some point when they rebooted it,
+of the system at least twice [7].  At some point when they rebooted it,
 the resolution changed and we have not been able to get it back to the
 old resolution.  I don't know why they don't just accept that we got a
 lemon and ask the vendor to fix it.
@@ -97,15 +97,19 @@ do anything else.
 
 [3] Or maybe "Close".
 
-[4] Well, the A/V Center, but they are part of ITS.
+[4] I used one of the old systems today.  It turns out that I was wrong.
+Those systems also require a complex sequence.  First you tap the screen
+to get out of sleep mode.  Then you click the system you want.  Then ....
 
-[5] You know how I said they never checked the laptop connection with a
+[5] Well, the A/V Center, but they are part of ITS.
+
+[6] You know how I said they never checked the laptop connection with a
 Mac?  I'm pretty sure they never checked the PC connection with a Linux
 box.  Some signals that should be sent back and forth aren't.
 
-[6] Rebooting the physical part requires someone to unscrew the back of
+[7] Rebooting the physical part requires someone to unscrew the back of
 the podium.
 
 ---
 
-*Version 0.9 of 2018-03-03.*
+*Version 0.95 of 2018-03-05.*
