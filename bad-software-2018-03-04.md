@@ -99,7 +99,10 @@ do anything else.
 
 [4] I used one of the old systems today.  It turns out that I was wrong.
 Those systems also require a complex sequence.  First you tap the screen
-to get out of sleep mode.  Then you click the system you want.  Then ....
+to get out of sleep mode.  Then you click the system you want.  Then a
+new screen shows up that says "Please wait while the system starts
+up."  You can click *anywhere* on it.  That's still significantly better 
+than having to click a "Close" box repeatedly.
 
 [5] Well, the A/V Center, but they are part of ITS.
 
