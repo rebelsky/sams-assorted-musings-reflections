@@ -69,8 +69,8 @@ They turned the projector off and on and moved the cart.  That fixed it.
 But it ended up wasting ten minutes of class time.
 
 I've had lots of other problems with the system.  The "Mute Image"
-button doesn't work.  They've had to physically reboot the hardware part
-of the system at least twice [7].  At some point when they rebooted it,
+button doesn't work [7].  They've had to physically reboot the hardware part
+of the system at least twice [8].  At some point when they rebooted it,
 the resolution changed and we have not been able to get it back to the
 old resolution.  I don't know why they don't just accept that we got a
 lemon and ask the vendor to fix it.
@@ -79,7 +79,9 @@ I should note that while this situation is bad for me and my students,
 it's equally painful for ITS.  They get regular "tickets" from me about
 problems.  And it appears that the system is not easy to debug.  Worse
 yet, it sounds like the folks called upon to support the damn system
-may not have recommended it.  
+may not have recommended it.    And a system that reports that the software
+is correct, but ony works when you re-download the same software, is not
+something I'd want to have to deal with.
 
 I'm not sure what's worse, having to use bad software or having to
 support bad software.
@@ -110,9 +112,19 @@ than having to click a "Close" box repeatedly.
 Mac?  I'm pretty sure they never checked the PC connection with a Linux
 box.  Some signals that should be sent back and forth aren't.
 
-[7] Rebooting the physical part requires someone to unscrew the back of
-the podium.
+[7] My experience in reporting the problm:  I waited two
+weeks. Eventually, they said said "The programming is correct".  I waited
+to see if they did anything else.  So I said "But it doesn't work."
+They said "This is the second room we have had in which image mute stopped
+working and programming was correct. Visited the other room yesterday
+and resent programming and image mute worked once programming was sent
+again. Visited this room this morning and did the same. Image mute is
+working now."  If the program needs to be re-downloaded, then I would
+say that the program is *not* correct.
+
+[8] Rebooting the physical part requires someone to unscrew the back of
+the podium.  I hope that re-downloading the program doesn't.
 
 ---
 
-*Version 0.95 of 2018-03-05.*
+*Version 0.96 of 2018-03-07.*

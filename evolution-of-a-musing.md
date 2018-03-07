@@ -61,6 +61,9 @@ to upgrade.
 But the musing didn't feel quite right, so I set it aside for a day or
 so.  It ended up being a few more days than I expected.  In that time,
 I encountered one of the "old" UIs.  And so I added notes about that.
+Then I eventually got a response to my three-week-old questions about
+the mute button.  So I added that [8].  By then, the musing was a bit of
+a mess, and so I went back to clean it up.  
 
 ---
 
@@ -85,6 +88,8 @@ of the "e".)
 
 [7] Why don't Macs come with `spell`?
 
+[8] I added enough that I'm glad I delayed the release of the musing.
+
 ---
 
-*Version 0.7 of 2018-03-05.*
+*Version 0.8 of 2018-03-07.*
