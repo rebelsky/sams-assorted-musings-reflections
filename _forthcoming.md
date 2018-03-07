@@ -105,6 +105,7 @@ Next set
 
 Almost immediate (?)
 
+1. <https://www.nytimes.com/2018/03/05/smarter-living/today-do-that-one-thing-youve-been-putting-off.html>
 1. Endnotes in electronic documents (From "the end of ownership").  And how
   we read.
 1. The Hartl questions.  (Went from "Do the work; reflect."  To "Do the work, share it with me, reflect *on these particular questions*.  Take a long time to write, since I have to go through the whole chapter again, picking out the important things behind the schenes.)
