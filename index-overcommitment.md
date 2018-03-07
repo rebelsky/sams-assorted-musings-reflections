@@ -138,3 +138,7 @@ Overcommitment
 
 > More on being a workaholic.
 
+[Logging my time (Week six of Spring Semester 2018)](time-logs-2018-03-05) (Musing #559)
+
+> Getting sick.
+

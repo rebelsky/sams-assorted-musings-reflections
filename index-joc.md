@@ -40,3 +40,7 @@ The joy of code
 
 > Explaining why Scheme should be joyful.
 
+[Class wrappers](patterns-wrappers) (Musing #560)
+
+> One of my favorite categories of design patterns.
+

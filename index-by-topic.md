@@ -1064,6 +1064,10 @@ Overcommitment
 
 > More on being a workaholic.
 
+[Logging my time (Week six of Spring Semester 2018)](time-logs-2018-03-05) (Musing #559)
+
+> Getting sick.
+
 On teaching 
 -----------
 
@@ -1351,6 +1355,10 @@ The joy of code
 [Why Scheme?](why-scheme-2017-08-30) (Musing #431).
 
 > Explaining why Scheme should be joyful.
+
+[Class wrappers](patterns-wrappers) (Musing #560)
+
+> One of my favorite categories of design patterns.
 
 A new CSC 151
 -------------

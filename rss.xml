@@ -7,6 +7,20 @@
       A curmudgeonly faculty member in cmoputer science writes about a variety of topics.
     </description>
     <item>
+      <title>Musing #560: Class wrappers</title>
+      <link>https://www.cs.grinnell.edu/~rebelsky/musings/patterns-wrappers</link>
+      <guid>https://www.cs.grinnell.edu/~rebelsky/musings/patterns-wrappers</guid>
+      <pubDate>Wed, 07 Mar 2018 00:42:00 GMT</pubDate>
+      <description>One of my favorite categories of design patterns.</description>
+    </item>
+    <item>
+      <title>Musing #559: Logging my time (Week six of Spring Semester 2018)</title>
+      <link>https://www.cs.grinnell.edu/~rebelsky/musings/time-logs-2018-03-05</link>
+      <guid>https://www.cs.grinnell.edu/~rebelsky/musings/time-logs-2018-03-05</guid>
+      <pubDate>Tue, 06 Mar 2018 03:13:35 GMT</pubDate>
+      <description>Getting sick.</description>
+    </item>
+    <item>
       <title>Musing #558: Paul Nossiter</title>
       <link>https://www.cs.grinnell.edu/~rebelsky/musings/paul-nossiter</link>
       <guid>https://www.cs.grinnell.edu/~rebelsky/musings/paul-nossiter</guid>
@@ -201,34 +215,6 @@
       <guid>https://www.cs.grinnell.edu/~rebelsky/musings/time-logs-2018-02-05</guid>
       <pubDate>Tue, 06 Feb 2018 03:05:10 GMT</pubDate>
       <description>Where does the time go?</description>
-    </item>
-    <item>
-      <title>Musing #530: A nine-month contract</title>
-      <link>https://www.cs.grinnell.edu/~rebelsky/musings/nine-month-contract</link>
-      <guid>https://www.cs.grinnell.edu/~rebelsky/musings/nine-month-contract</guid>
-      <pubDate>Mon, 05 Feb 2018 01:45:34 GMT</pubDate>
-      <description>If we have nine-month contracts, why can't we be paid for three months over the summer?</description>
-    </item>
-    <item>
-      <title>Musing #529: Shared governance</title>
-      <link>https://www.cs.grinnell.edu/~rebelsky/musings/shared-governance-2018-02-03</link>
-      <guid>https://www.cs.grinnell.edu/~rebelsky/musings/shared-governance-2018-02-03</guid>
-      <pubDate>Sun, 04 Feb 2018 04:03:38 GMT</pubDate>
-      <description>Something Grinnell needs to work on..</description>
-    </item>
-    <item>
-      <title>Musing #528: Failing to muse</title>
-      <link>https://www.cs.grinnell.edu/~rebelsky/musings/failing-to-muse-2018-02-02</link>
-      <guid>https://www.cs.grinnell.edu/~rebelsky/musings/failing-to-muse-2018-02-02</guid>
-      <pubDate>Sat, 03 Feb 2018 01:27:27 GMT</pubDate>
-      <description>One of those days that I just can't write.</description>
-    </item>
-    <item>
-      <title>Musing #527: The magic commons fairies</title>
-      <link>https://www.cs.grinnell.edu/~rebelsky/musings/magic-commons-fairies</link>
-      <guid>https://www.cs.grinnell.edu/~rebelsky/musings/magic-commons-fairies</guid>
-      <pubDate>Fri, 02 Feb 2018 03:56:48 GMT</pubDate>
-      <description>I have no idea who you are, but I appreciate you..</description>
     </item>
   </channel>
 </rss>

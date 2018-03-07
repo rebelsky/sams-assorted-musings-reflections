@@ -724,3 +724,5 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [A committee of old white guys](committee-old-white-guys) (Musing #556)  
 [Grading](gradeaholics) (Musing #557)  
 [Paul Nossiter](paul-nossiter) (Musing #558)  
+[Logging my time (Week six of Spring Semester 2018)](time-logs-2018-03-05) (Musing #559)  
+[Class wrappers](patterns-wrappers) (Musing #560)  
