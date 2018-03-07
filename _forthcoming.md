@@ -1,9 +1,37 @@
 Some forthcoming musings
 ========================
 
+The next weekly log
+
+* Started to use it as a to-do list.  What do I know I will do during
+  the day?  Lay that out in advance.  Then add entries (w/o times) for
+  the things that I plan to do
+* How do I log a musing that's also something that I'm writing for class?
+  In the end, I decided that the part that I needed to write anyway
+  counted for class, and the extra "cruft" counted for musing.
+
+The next end of month musing
+
+* Am I writing faster?  Jerod needed a one-page description of CSC 326.
+  I could write something relatively decent in under an hour.  But I
+  suppose I've always [1] been able to spew reasonably coherent text.
+  [1] Well, at least since I've been at Grinnell.
+* I do worry that my thinking/writing is getting less good.
+
+Today?
+
+1. Writing <https://www.chronicle.com/article/The-Tough-Love-Approach-to/242648>
+* Not everyone needs to free write.  Some people write better when
+they craft the individual sentences.  (I'd like to see a study, but
+I expect that while the amount per time spent is more for people
+who freewrite, the final quality per time spent is more for people
+who polish as they go.)
+* Where is outlining?
+* And yes, I counted "reread the article" in my time spent.
+
 Next set
 
-1. Another week logged.  (And I was sick!)
+
 1. Forgetting The Joe Stories.  I know and remember a lot. But I also
    forget a lot.  Names.  Faces.  Things I promised Michelle that I'd
    do soon.  The syntax and semantics of APL [1].  How I know people.
@@ -56,6 +84,7 @@ Next set
    <http://www.lookdifferent.org/what-can-i-do/bias-cleanse>
    What about weight and age and ...?
 1. Peoples' names.
+1. The writing assignment for CSC 322
 1. SIGACT submission system?
 1. What happens when a faculty member gets sick
 1. Another workacholic: Little things add up?  An hour here.  An hour there.
@@ -147,6 +176,9 @@ New "soon", normal length or possibly long (other)
    effects"?
 1. Should I write something about cluelessness on economic status
    (my own, others')
+1. Attending academic talks.  (Why I appreciate the abiity to do so.
+   How I fit it into my too-busy week.  The tradeoffs involved.  See
+   `time-logs-2018-03-05.md`.)
 
 New "soon", potentially short, teaching topics.
 
@@ -169,6 +201,9 @@ New "soon", potentially short, teaching topics.
 
 New "soon", potentially short
 
+1. My favorite mug.  ("Where God drinks coffee".  I'd prefer that it were
+   more inclusive and read "Where G-d drinks coffee", but you can't have
+   everything.  Broke.)  (Or maybe "one of my favorite mugs")
 1. Red-green color blindness.  I'm red-green color blind.  I'm not sure
    if everyone experiences this difference the same way, so I can just
    report on my own experience.  Being red-green color blind does not mean
