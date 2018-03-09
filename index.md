@@ -7,7 +7,7 @@ rants about topics I'm passionate about.  Some are explanations of how
 I approach the world.  Some are just my attempts to think through a topic.
 
 Latest musing:
-[Class wrappers](patterns-wrappers) (Musing #560)
+[My favorite mug](my-favorite-mug) (Musing #561)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

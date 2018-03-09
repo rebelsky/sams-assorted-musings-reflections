@@ -1967,6 +1967,10 @@ About SamR
 
 > Mom's first and last boyfriend.
 
+[My favorite mug](my-favorite-mug) (Musing #561)
+
+> A quick musing for a late night.
+
 Salary reviews
 --------------
 

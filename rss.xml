@@ -7,6 +7,13 @@
       A curmudgeonly faculty member in cmoputer science writes about a variety of topics.
     </description>
     <item>
+      <title>Musing #561: My favorite mug</title>
+      <link>https://www.cs.grinnell.edu/~rebelsky/musings/my-favorite-mug</link>
+      <guid>https://www.cs.grinnell.edu/~rebelsky/musings/my-favorite-mug</guid>
+      <pubDate>Thu, 08 Mar 2018 05:40:50 GMT</pubDate>
+      <description>A quick musing for a late night.</description>
+    </item>
+    <item>
       <title>Musing #560: Class wrappers</title>
       <link>https://www.cs.grinnell.edu/~rebelsky/musings/patterns-wrappers</link>
       <guid>https://www.cs.grinnell.edu/~rebelsky/musings/patterns-wrappers</guid>
@@ -208,13 +215,6 @@
       <guid>https://www.cs.grinnell.edu/~rebelsky/musings/someone-elses-reading</guid>
       <pubDate>Wed, 07 Feb 2018 04:31:17 GMT</pubDate>
       <description>Something I had not expected.</description>
-    </item>
-    <item>
-      <title>Musing #531: Logging my time</title>
-      <link>https://www.cs.grinnell.edu/~rebelsky/musings/time-logs-2018-02-05</link>
-      <guid>https://www.cs.grinnell.edu/~rebelsky/musings/time-logs-2018-02-05</guid>
-      <pubDate>Tue, 06 Feb 2018 03:05:10 GMT</pubDate>
-      <description>Where does the time go?</description>
     </item>
   </channel>
 </rss>

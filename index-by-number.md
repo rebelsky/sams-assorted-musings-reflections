@@ -726,3 +726,7 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Paul Nossiter](paul-nossiter) (Musing #558)  
 [Logging my time (Week six of Spring Semester 2018)](time-logs-2018-03-05) (Musing #559)  
 [Class wrappers](patterns-wrappers) (Musing #560)  
+
+## 561-570
+
+[My favorite mug](my-favorite-mug) (Musing #561)  
