@@ -3,7 +3,11 @@ The evolution of a musing
 
 You may be wondering what the process is that takes a musing from my 
 muse, to my brain, to words on paper [1], and, finally, to you [2].
-Let's consider, as an example, a recent musing on [bad software](...).
+Let's consider, as an example, a recent musing on [bad 
+software](bad-classroom-software-2018-03-08).  That musing had a 
+slightly more tortured path from conception to posting than normal.
+Nonetheless, its story still reveals something about how musings
+(sometimes) happen.
 
 My muse planted the idea in my brain late last semester.  I kept saying
 to myself "Boy, this new podium software is frustrating."  Eventually,
@@ -14,11 +18,11 @@ note card and wrote something like the following [3].
 New version: Click "PC" -> Click "Yes" -> Click "OK" -> Wait -> Click "OK"
 again.
 
-But the podium software in our main classroom has lots of problems.  So
-some of those problems accumulated in my brain along the way.  For example,
-I got frustrated about resolution changes, a non-working "Mute Image" button,
-screens that don't always come on, and more.  I also talked to the A/V staff
-about it a bit.
+But the podium software in our main classroom has lots of problems.
+So some of those problems accumulated in my brain along the way.
+For example, I got frustrated about resolution changes, a non-working
+"Mute Image" button, screens that don't always come on, and more.
+I also talked to the A/V staff about it a bit.
 
 At some point, the index card miraculously appeared in my pocket while I
 was near my computer, and I added the following notes to myself in my
@@ -32,12 +36,12 @@ connection do you want to use?  (There is none.)  But here's the fun
 part: I don't think AV chose the system and I think they even
 discouraged the initial choice of using ....
 
-Then it sat in the journal for some time.  I don't date the entries, and
-I don't check it in to GitHub often enough, so I can't be completely sure
-how long it was there.  But it wasn't all that long.
+Then it sat in the journal for some time.  I don't date the entries,
+and I don't check it in to GitHub often enough, so I can't be completely
+sure how long it was there.  But it wasn't all that long.
 
-Then I had another bad day with the system.  So I added the following 
-comments to my notes.
+Soon thereafter, I had another really bad day with the system.  So I
+added the following comments to my notes.
 
 > Fifteen minutes before class.  Neither the screen nor the projector
 show what's on the computer (but it works for another computer) . Reboot
@@ -62,8 +66,76 @@ But the musing didn't feel quite right, so I set it aside for a day or
 so.  It ended up being a few more days than I expected.  In that time,
 I encountered one of the "old" UIs.  And so I added notes about that.
 Then I eventually got a response to my three-week-old questions about
-the mute button.  So I added that [8].  By then, the musing was a bit of
-a mess, and so I went back to clean it up.  
+the mute button.  So I added that [8].  By then, the musing was up to
+1250 words and, honestly, was a bit of a mess. 
+
+Somewhere in the middle, I thought about adding a really snarky comment
+about the classroom technology in the HSSC.  But it didn't strike me
+that the snarky comment added anything positive, so I left it out.
+
+A few days later, I went back to clean up the musing.  I rewrote some
+sentences [9].  I added more text.  I added some jokes [10].  I thought
+about the impact of the musing on my valued colleagues in ITS and added a
+few more disclaimers about what it's like to deal with me [11].  Somehow,
+the musing grew to about 1600 words.  It also grew from eight endnotes
+in the prior version to fifteen or so in the "final" version.
+
+It feels like I was getting close to being done, doesnt it?  I was.
+
+Once a musing is close to release, I do a quick spell check using the
+Unix `spell` utility.  And I did so for this musing, too.  The first pass
+found one real error [12]: I had spelled "ony" and "only".  After that,
+I also do a quick pass through Grammarly.  Grammarly is good at catching
+my doubled words [14] and some spelling errors.  I also find that running
+Grammarly gets me to reread the text again, which helps me catch other
+errors.
+
+Grammarly reported five critical issues [15] and forty-two advanced
+issues [16].
+
+* Grammarly doesn't like the word "borken".  I've used that word
+  intentionally.
+* Grammarly thinks I should put a comma after "Eventually".  I agree.
+* Grammarly missed a comma after "I said", but before some quoted material
+  [17].  That's strange, since it's usually an issue it catches.
+* Grammarly thinks I should have a comma after "First" at the start of
+  sentence, as in "First, you tap the screen."
+* Grammarly doesn't like the word "connection" in "laptop connection
+  with a Mac".
+* Grammarly doesn't like my use of a comma in a "not only, but also"
+  structure.  Not all such structures need commas, but I think the one
+  I used does [18].  The Interweb appears to give inconsistent advice
+  on the matter.
+
+I fixed the issues I agreed with and then gave the musing to Grammarly
+a second time.  It appears I'd added a new problem as I made the prior
+edits: I added the word "followup" when I should have used "follow-up".
+
+How long did the last set of edits take?  About forty-five minutes.
+This musing is longer than most, not only in number of words, but in
+total time spent.  I expect I'd spent about another hour on the draft
+and the various additions.
+
+But the musing seemed finished.  I was almost done!  What was left? 
+I updated the [general index](index.html), chose an appropriate subindex
+[19], added a one-sentence description [20] to the subindex, updated the
+[rss feed](rss.xml), ran a `make` command to rebuild the pages from the
+Markdown, checked that the links worked online, posted to Twitter, posted 
+to Facebook [21], checked everything in to GitHub, and called it a night.
+
+---
+
+Postscript: How did I remember all this?  At some point, I decided to log
+what I was doing in this particular musing.  So each time I made a change
+to the original musing, I added a note to myself in this musing.  The day
+after I posted the original musing, I came back and edited this musing.
+
+---
+
+Postscript: Just think: If I hadn't put the musing aside, I would have
+had to write one or two followup musings.  Is it better as a semi-coherent
+whole?  Probably.  Am I wanting for musings?  Certainly not.  It seems
+best that I waited.
 
 ---
 
@@ -90,6 +162,41 @@ of the "e".)
 
 [8] I added enough that I'm glad I delayed the release of the musing.
 
+[9] As hard as it may be to believe, but I do sometimes edit my writing.
+
+[10] You probably can't tell.
+
+[11] I'd already had some.  I just thought it needed more.  I also already
+had comments on what it's like to deal with mediocre software that you
+did not necessarily choose.
+
+[12] Unix spell check has a limited dictionary.  Here are words in that
+musing that I think I spelled correctly, but `spell` thinks I misspelled:
+borken, dongle, dongles, DT, GrinCo, HDMI, MacBook, Sedona, SelfService,
+and UI.
+
+[14] I write the same word twice in a row a surprising number of times,
+an average of at least every-other musing.
+
+[15] The Critical Issues are the ones it will report for non-paying
+customers.
+
+[16] It appears that the question is "How many critical errors did
+Sam have in a draft of a recent musing?"
+
+[17] I told you that Grammarly gets me to revisit my text.
+
+[18] "Probably the worst part is having to deal with people like me, who
+not only complain about the software, but also do so in a public fashion."
+
+[19] [Rants](index-rants), of course.
+
+[20] "Something that makes it harder to teach."
+
+[21] And got only slightly distracted, particularly by watching a YouTube
+video of a friend's child singing on TV and reading their "Proud Father"
+comments.
+
 ---
 
-*Version 0.8 of 2018-03-07.*
+*Version 0.9 of 2018-03-08.*
