@@ -2,6 +2,7 @@ Some forthcoming musings
 ========================
 
 The next weekly log
+-------------------
 
 * Started to use it as a to-do list.  What do I know I will do during
   the day?  Lay that out in advance.  Then add entries (w/o times) for
@@ -13,8 +14,10 @@ The next weekly log
 * Things I missed:  Simpson's class.  Choir concert.
 * Things I got to attend: CS extras.  CS table.  Arlo Guthrie Concert.
   Daniel's show.
+* Maybe "Time spent per day"
 
 The next end of month musing
+----------------------------
 
 * Am I writing faster?  Jerod needed a one-page description of CSC 326.
   I could write something relatively decent in under an hour.  But I
@@ -22,6 +25,11 @@ The next end of month musing
   [1] Well, at least since I've been at Grinnell.
 * I do worry that my thinking/writing is getting less good.
 * The meta-musing (Evolution of a Musing)
+* Where do I stand on the number of forthcoming musings?  (And how many
+  lines are in the file?)
+
+Stack-o-musings
+---------------
 
 Next set
 
@@ -113,6 +121,7 @@ Next set
 
 Almost immediate (?)
 
+1. Cleaning a GitHub repo.
 1. <https://www.nytimes.com/2018/03/05/smarter-living/today-do-that-one-thing-youve-been-putting-off.html>
 1. Endnotes in electronic documents (From "the end of ownership").  And how
   we read.
@@ -150,7 +159,8 @@ New "soon", normal length or possibly long (teaching)
 
 New "soon", normal length or possibly long (other)
 
-1. Scheduling students.  Update, rewrite, or buy?  
+1. Cleaning up my list of forthcoming musings.
+1. Scheduling students (for SIGCSE volunteers).  Update, rewrite, or buy?  
    <https://www.shiftboard.com/product/scheduling/>.
    <http://www.cervistech.com/>
 1. History vs. CS.  Tenure-track jobs.  Alternative opportunities.
