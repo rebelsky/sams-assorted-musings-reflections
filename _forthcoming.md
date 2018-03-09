@@ -9,6 +9,10 @@ The next weekly log
 * How do I log a musing that's also something that I'm writing for class?
   In the end, I decided that the part that I needed to write anyway
   counted for class, and the extra "cruft" counted for musing.
+* Week started badly.  Monday and Tuesday were both 13-hour days.
+* Things I missed:  Simpson's class.  Choir concert.
+* Things I got to attend: CS extras.  CS table.  Arlo Guthrie Concert.
+  Daniel's show.
 
 The next end of month musing
 
@@ -17,21 +21,26 @@ The next end of month musing
   suppose I've always [1] been able to spew reasonably coherent text.
   [1] Well, at least since I've been at Grinnell.
 * I do worry that my thinking/writing is getting less good.
-
-Today?
-
-1. Writing <https://www.chronicle.com/article/The-Tough-Love-Approach-to/242648>
-* Not everyone needs to free write.  Some people write better when
-they craft the individual sentences.  (I'd like to see a study, but
-I expect that while the amount per time spent is more for people
-who freewrite, the final quality per time spent is more for people
-who polish as they go.)
-* Where is outlining?
-* And yes, I counted "reread the article" in my time spent.
+* The meta-musing (Evolution of a Musing)
 
 Next set
 
-
+1. CSC 32x ethics assignment.
+1. Guthrie Family Concert
+    * Phil Ochs
+    * This Land is Your Land.  (Arlo's story; not quite accurate.)
+    * Fifty years of Alice's Restaurant.
+    * Old folkie songs?
+1. Writing <https://www.chronicle.com/article/The-Tough-Love-Approach-to/242648>
+    * Not everyone needs to free write.  Some people write better when
+      they craft the individual sentences.  (I'd like to see a study, but
+      I expect that while the amount per time spent is more for people
+      who freewrite, the final quality per time spent is more for people
+      who polish as they go.)
+    * Where is outlining?
+    * And yes, I counted "reread the article" in my time spent.
+1. Logging my week
+1. The evolution of a musing.  (Refers to bad-software musing.)
 1. Forgetting The Joe Stories.  I know and remember a lot. But I also
    forget a lot.  Names.  Faces.  Things I promised Michelle that I'd
    do soon.  The syntax and semantics of APL [1].  How I know people.
@@ -47,8 +56,6 @@ Next set
    [2] Seriously.  I was ranting about PHP.  An alum said "But you taught
    me PHP".  [3]
    [3] I've even forgotten whether or not I've told that story already.
-1. Bad software.
-1. The evolution of a musing.  (Refers to bad-software musing.)
 1. The value of things.  (The start of a new series on being a packrat.)
    Michelle and I argue about stuff.  A lot.
    Anyone who knows me knows that I accumulate.  I accumulate for a
@@ -86,6 +93,7 @@ Next set
 1. Peoples' names.
 1. The writing assignment for CSC 322
 1. SIGACT submission system?
+1. A thirty-year committment.  (What they say about a new tenure-line position.)
 1. What happens when a faculty member gets sick
 1. Another workacholic: Little things add up?  An hour here.  An hour there.
    If you have thirty hours planned per week, you can spare about ten such
@@ -202,9 +210,6 @@ New "soon", potentially short, teaching topics.
 
 New "soon", potentially short
 
-1. My favorite mug.  ("Where God drinks coffee".  I'd prefer that it were
-   more inclusive and read "Where G-d drinks coffee", but you can't have
-   everything.  Broke.)  (Or maybe "one of my favorite mugs")
 1. Red-green color blindness.  I'm red-green color blind.  I'm not sure
    if everyone experiences this difference the same way, so I can just
    report on my own experience.  Being red-green color blind does not mean
