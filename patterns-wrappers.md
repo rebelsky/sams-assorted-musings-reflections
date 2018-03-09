@@ -108,7 +108,7 @@ Let's write that.
       /** Where the log goes. */
       PrintWriter out;
 
-      public SimpleToDoListOne(LoggingSimpleToDoList core, PrintWriter out) {
+      public LoggingSimpleToDoList(SimpleToDoList core, PrintWriter out) {
         this.core = core;
         this.out = out;
       }
@@ -232,4 +232,4 @@ or at least Racket, scopes a bit differently than I expected.
 
 ---
 
-*Version 1.0.1 of 2018-03-06.*
+*Version 1.1.0 of 2018-03-06.*
