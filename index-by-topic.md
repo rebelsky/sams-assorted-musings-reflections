@@ -858,6 +858,10 @@ Why Grinnell staff with Ph.D's should be allowed to teach.
 
 > If we have nine-month contracts, why can't we do three months of paid work over the summer?
 
+[Bad software](bad-classroom-software-2018-03-08) (Musing #562)
+
+> Something that makes it harder to teach.
+
 Assorted talks and speeches
 ---------------------------
 

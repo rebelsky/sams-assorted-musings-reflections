@@ -730,3 +730,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 ## 561-570
 
 [My favorite mug](my-favorite-mug) (Musing #561)  
+[Bad software](bad-classroom-software-2018-03-08) (Musing #562)  
