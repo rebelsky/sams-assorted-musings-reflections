@@ -7,7 +7,7 @@ rants about topics I'm passionate about.  Some are explanations of how
 I approach the world.  Some are just my attempts to think through a topic.
 
 Latest musing:
-[Bad software](bad-classroom-software-2018-03-08) (Musing #562)
+[Vignettes from a Guthrie Family Concert](guthrie-family-concert) (Musing #563)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

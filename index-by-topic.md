@@ -2552,6 +2552,10 @@ Almost everything else
 
 > Should I be another owg?
 
+[Vignettes from a Guthrie Family Concert](guthrie-family-concert) (Musing #563)
+
+> Gee, I'm old.
+
 Musings with multiple entries
 -----------------------------
 
