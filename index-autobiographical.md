@@ -195,3 +195,8 @@ About SamR
 
 > A quick musing for a late night.
 
+[Red-green color blindness](red-green-color-blind) (Musing #564)
+
+> I see red.  I see green.  But I'm still red-green color blind.
+
+

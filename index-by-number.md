@@ -732,3 +732,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [My favorite mug](my-favorite-mug) (Musing #561)  
 [Bad software](bad-classroom-software-2018-03-08) (Musing #562)  
 [Vignettes from a Guthrie Family Concert](guthrie-family-concert) (Musing #563)  
+[Red-green color blindness](red-green-color-blind) (Musing #564)  

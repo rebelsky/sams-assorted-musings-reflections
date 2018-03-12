@@ -7,6 +7,13 @@
       A curmudgeonly faculty member in cmoputer science writes about a variety of topics.
     </description>
     <item>
+      <title>Musing #564: Red-green color blindness</title>
+      <link>https://www.cs.grinnell.edu/~rebelsky/musings/red-green-color-blind</link>
+      <guid>https://www.cs.grinnell.edu/~rebelsky/musings/red-green-color-blind</guid>
+      <pubDate>Sun, 11 Mar 2018 05:24:08 GMT</pubDate>
+      <description>I see red.  I see green.  But I'm still red-green color blind.</description>
+    </item>
+    <item>
       <title>Musing #563: Vignettes from a Guthrie Family Concert</title>
       <link>https://www.cs.grinnell.edu/~rebelsky/musings/guthrie-family-concert</link>
       <guid>https://www.cs.grinnell.edu/~rebelsky/musings/guthrie-family-concert</guid>
@@ -208,20 +215,6 @@
       <guid>https://www.cs.grinnell.edu/~rebelsky/musings/friday-nights-2018-02-09</guid>
       <pubDate>Sat, 10 Feb 2018 03:04:32 GMT</pubDate>
       <description>They provide less time for work than I need..</description>
-    </item>
-    <item>
-      <title>Musing #534: Sleep Cycles</title>
-      <link>https://www.cs.grinnell.edu/~rebelsky/musings/sleep-cycles</link>
-      <guid>https://www.cs.grinnell.edu/~rebelsky/musings/sleep-cycles</guid>
-      <pubDate>Fri, 09 Feb 2018 04:47:22 GMT</pubDate>
-      <description>What's the point of Powerpoint?</description>
-    </item>
-    <item>
-      <title>Musing #533: "Minnesota nice"</title>
-      <link>https://www.cs.grinnell.edu/~rebelsky/musings/minnesota-nice</link>
-      <guid>https://www.cs.grinnell.edu/~rebelsky/musings/minnesota-nice</guid>
-      <pubDate>Thu, 08 Feb 2018 02:51:19 GMT</pubDate>
-      <description>What does that term mean?</description>
     </item>
   </channel>
 </rss>
