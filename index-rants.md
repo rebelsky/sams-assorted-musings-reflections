@@ -264,3 +264,7 @@ Why Grinnell staff with Ph.D's should be allowed to teach.
 
 > Something that makes it harder to teach.
 
+[I hate computers](i-hate-computers-2018-03-11) (Musing #565)
+
+> The black screen of death.
+
