@@ -142,3 +142,6 @@ Overcommitment
 
 > Getting sick.
 
+[Logging my time (Week seven of Spring Semester 2018)](time-logs-2018-03-12) (Musing #566)
+
+> Getting better again.
