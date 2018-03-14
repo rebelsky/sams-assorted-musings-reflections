@@ -4,21 +4,22 @@ Some forthcoming musings
 The next weekly log
 -------------------
 
-* Started to use it as a to-do list.  What do I know I will do during
-  the day?  Lay that out in advance.  Then add entries (w/o times) for
-  the things that I plan to do
+* Further experience using it as a to-do list.
 * How do I log a musing that's also something that I'm writing for class?
   In the end, I decided that the part that I needed to write anyway
   counted for class, and the extra "cruft" counted for musing.
-* Week started badly.  Monday and Tuesday were both 13-hour days.
-* Things I missed:  Simpson's class.  Choir concert.
-* Things I got to attend: CS extras.  CS table.  Arlo Guthrie Concert.
-  Daniel's show.
-* Maybe "Time spent per day"
+* Missed: Three interesting talks on Monday (conflicts for all three).  
+  Simpson's class.  Georgiana's class.
+* Attended: High school concert.  Jazz band concert.  Singers (again).
+  Extra meetings, some of which made me angry, some of which made me
+  happy.
 
 The next end of month musing
 ----------------------------
 
+* Still staying exactly 310 musings ahead of last year.  I think the
+  lost musings were more likely in fall.  I'm tempted to write an extra
+  one or two once in a while to get a bit ahead.
 * Am I writing faster?  Jerod needed a one-page description of CSC 326.
   I could write something relatively decent in under an hour.  But I
   suppose I've always [1] been able to spew reasonably coherent text.
@@ -27,6 +28,15 @@ The next end of month musing
 * The meta-musing (Evolution of a Musing)
 * Where do I stand on the number of forthcoming musings?  (And how many
   lines are in the file?)
+    * Can I rearrange this first?
+* Things get in the way.  How long did it take to respond to that piece
+  on writing?
+* Some really disjoint and/or last-minute musings.
+* I keep falling behind on things I want to write.  Sometimes that's
+  because of things like [An unexpected musing that was longer than normal](overloads).
+* Comment from someone who I did not know read me: "As a relatively new
+  faculty member, I appreciate the alternate narrative to what I hear 
+  from the administration."
 
 Stack-o-musings
 ---------------
@@ -34,11 +44,11 @@ Stack-o-musings
 Next set
 
 1. CSC 32x ethics assignment.
-1. Guthrie Family Concert
-    * Phil Ochs
-    * This Land is Your Land.  (Arlo's story; not quite accurate.)
-    * Fifty years of Alice's Restaurant.
-    * Old folkie songs?
+1. Planning for spring break
+1. I love Grinnell.  (Reflections from meeting with Ologie.  I love our
+   students.  I love my thoughtful colleagues.  I love the College's
+   ability to support many of our students.  Whenever I get frustrated
+   with the institution, I have to remember those things.)  [short]
 1. Writing <https://www.chronicle.com/article/The-Tough-Love-Approach-to/242648>
     * Not everyone needs to free write.  Some people write better when
       they craft the individual sentences.  (I'd like to see a study, but
@@ -47,7 +57,6 @@ Next set
       who polish as they go.)
     * Where is outlining?
     * And yes, I counted "reread the article" in my time spent.
-1. Logging my week
 1. The evolution of a musing.  (Refers to bad-software musing.)
 1. Forgetting The Joe Stories.  I know and remember a lot. But I also
    forget a lot.  Names.  Faces.  Things I promised Michelle that I'd
@@ -64,6 +73,7 @@ Next set
    [2] Seriously.  I was ranting about PHP.  An alum said "But you taught
    me PHP".  [3]
    [3] I've even forgotten whether or not I've told that story already.
+1. Woody Guthrie Jesus Christ and Jesse James (getting-it-backwards)
 1. The value of things.  (The start of a new series on being a packrat.)
    Michelle and I argue about stuff.  A lot.
    Anyone who knows me knows that I accumulate.  I accumulate for a
@@ -85,6 +95,8 @@ Next set
    same as the item.
    [1] Amazingly, even thinking about that issue makes me cry.
    [2] Well, probably a half dozen issues.
+1. Bad classroom software, continued.  Carolyn's  quote
+   "I would say that the first version of the software-based system significantly changed my experience teaching with technology for the better. In the classrooms I taught in, it made the technology more reliable and the experience of doing what I wanted to do more uniform across classrooms. // My experience this semester has been rocky, but it's hard for me to isolate whether the source of my problems is the software or the hardware. At the same time the software was updated I also started teaching in two completely new classrooms for me--one set up for art (no PC, two screens) and one for music (which seems to have more audio inputs to choose from, in addition to the new options you are writing about with the updated software). So this semester has been a little frustrating, but I've usually been able to get things working, other than the first day when I realized I didn't have a PC available and so couldn't get to the teaching files I have on my H: drive. The mute screen buttons have worked, the coloring of the projection has been a lot better than in JRC. // I'm not sure why I have fallen into writing my own musing here, but that's my field report from Bucksbaum."  In contrast, I find less uniformity and less reliability.  I hate computers.  And, after that musing, I had yet another bad day.
 1. Reminding me.  In a recent musing on workaholism, I mentioned the
    things that I miss because of my job.  Here's what Facebook 
    tells me:  March 3, 2012.  "Things that suck about being at a conference: Missing Jonathan's jazz band performance (William and Michelle sent me clips) and William's too many bit parts in the musical (but I can watch the DVD)."  Yeah,
@@ -92,7 +104,8 @@ Next set
 1. Feeling maudlin.  (Reflection on the last few  musings, all of which
    made me sad - Paul Nossiter, The Joe Stories, The Meaning of Things,
    Facebook reminders.)  I wonder why.  Is it that mom's birthday is
-   this week?  Is it feeling my own mortality?
+   this week?  Is it feeling my own mortality?  (Interestingly, these
+   got spread out a bit.)
 1. Implicit bias.  (Implicit Association) (What I know.  What I believe.  
    What the evidence suggests.  Vs. Explicit bias.  Etc. Etc.)
    <https://implicit.harvard.edu/implicit/>
@@ -103,6 +116,13 @@ Next set
 1. SIGACT submission system?
 1. A thirty-year committment.  (What they say about a new tenure-line position.)
 1. What happens when a faculty member gets sick
+1. Proto-musings: Facebook reminds me that when I was last on sabbatical, 
+  back in spring 2012, I regularly posted a short note [1].  In some sense,
+  they feel like "proto musings".  Some are about things I still feel,
+  such as being overwhelmed.  Some are about large projects, although most
+  of those were about art projects.  Blah blah blah.
+  [1] Yes, I understand that that's how you're supposed to use Facebook.
+ 
 1. Another workacholic: Little things add up?  An hour here.  An hour there.
    If you have thirty hours planned per week, you can spare about ten such
    hours.  But if you have fifty hours planned per week ....
@@ -220,26 +240,6 @@ New "soon", potentially short, teaching topics.
 
 New "soon", potentially short
 
-1. Red-green color blindness.  I'm red-green color blind.  I'm not sure
-   if everyone experiences this difference the same way, so I can just
-   report on my own experience.  Being red-green color blind does not mean
-   that I can't see the color red.  It doesn't mean that I can't see
-   the color green.  It doesn't even mean that I can't distinguish
-   a red light from a green light.  I can.  It means that I can't
-   distinguish some shades of red from some shades of green, and that
-   I can't distinguish some shades of both colors from shades of grey.
-   Here are some examples: One of the textbooks that I use highlights
-   text in dark green.  It took me a half semester of teaching with the
-   textbook to realize that there was highlighted text in the book.
-   The SIGCSE Student Volunteer System has a little symbol that is
-   supposed to indicate whether or not a volunteer has checked in.
-   Green means "checked in".  Red means "not checked in".  But the
-   symbols are otherwise indistinguishable.  I had no idea that we were
-   using the symbols to mean anything, since they looked identical to me.
-   I even attended one youth soccer match in which I couldn't tell the
-   teams apart (I think they were dark maroon and something close to
-   dark forest green) [1]  [1] Ne, the teams were not sponsored by
-   the University of Chicago and Dartmouth.
 1. Cascading consequences.  Change in schedule of courses that eliminates
    one of our primary teaching slots.  So we start to move from 4x50
    to 3x80.  That's fine.  But then they tell us that we need to offer
@@ -427,12 +427,6 @@ Quick (?)
 *For the days in which I need to "dash off" an essay in order to meet
 my goals.*
 
-1. Woody Guthrie: Ballad of Jesse James, Jesus Christ.  Not the order
-I thought. I assumed that "Jesus Christ" was a classic melody and that
-Guthrie modified it for Jesse James.  But it's the other way around.
-(Probably doesn't help that I listen to Rum, Sodomy and the Lash way
-too much. <http://www.pogues.com/Releases/Lyrics/LPs/RumSodomy/Jesse.html>)  
-Perhaps call it "Getting it backwards?"
 
 1. Notes to myself.  "What was I thinking?"
 
