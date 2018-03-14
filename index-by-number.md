@@ -735,3 +735,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Red-green color blindness](red-green-color-blind) (Musing #564)  
 [I hate computers](i-hate-computers-2018-03-11) (Musing #565)  
 [Logging my time (Week seven of Spring Semester 2018)](time-logs-2018-03-12) (Musing #566)  
+[Overloads](overloads) (Musing #567)  

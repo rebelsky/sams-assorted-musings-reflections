@@ -7,7 +7,7 @@ rants about topics I'm passionate about.  Some are explanations of how
 I approach the world.  Some are just my attempts to think through a topic.
 
 Latest musing:
-[Logging my time (Week seven of Spring Semester 2018)](time-logs-2018-03-12) (Musing #566)
+[Overloads](overloads) (Musing #567)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

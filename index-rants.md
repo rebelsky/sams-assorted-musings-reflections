@@ -268,3 +268,7 @@ Why Grinnell staff with Ph.D's should be allowed to teach.
 
 > The black screen of death.
 
+[Overloads](overloads) (Musing #567)
+
+> Exciting opportunities lead to bad decisions.
+
