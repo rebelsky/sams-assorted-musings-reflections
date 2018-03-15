@@ -174,9 +174,9 @@ deserve more.  In addition, the high end is also exactly what I earned
 teaching one course at Dartmouth in Spring 1993.
 
 [12] For example, Department Chairs can no longer accumulate their releases
-when they are unable to take them.  They must instead take an which I
-am told was intentionally kept low to discourage Chairs from giving up
-their releases.
+when they are unable to take them.  They must instead take an amount
+which I am told was intentionally kept low to discourage Chairs from
+giving up their releases.
 
 [14] There are excellent reasons for moving away from future course
 releases.  They are a complicated liability for the College.
@@ -223,4 +223,6 @@ I wonder if anyone who didn't know it existed would ever notice it.
 
 ---
 
-*Version 1.0 of 2018-03-13.*
+*Version 1.0 released 2018-03-13.*
+
+*Version 1.0.1 of 2018-03-14.*
