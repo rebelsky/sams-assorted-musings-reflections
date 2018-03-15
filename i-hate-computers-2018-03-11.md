@@ -95,6 +95,13 @@ terminal, and say were my friends.  I used command-space to get to Mail.
 I crossed my fingers that Ctrl-Q would work correctly.  I used `ps`
 in the terminal, along with `say`, to figure out if I'd succeeded.
 
+[4] It turns out that the messages were easy to misread.  I thought
+I was getting a SMART error from my disk, which is a sign that the disk
+is likely to die soon.  But it turns out I just had some damaged files
+(which I had downloaded from somewhere).
+
 ---
 
-*Version 1.0 of 2018-03-11.*
+*Version 1.0 released 2018-03-11.*
+
+*Version 1.1 of 2018-03-14.*
