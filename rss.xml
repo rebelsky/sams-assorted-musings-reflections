@@ -7,6 +7,13 @@
       A curmudgeonly faculty member in cmoputer science writes about a variety of topics.
     </description>
     <item>
+      <title>Musing #568: An ethics assignment for CSC 322</title>
+      <link>https://www.cs.grinnell.edu/~rebelsky/musings/csc322-ethics-assignment</link>
+      <guid>https://www.cs.grinnell.edu/~rebelsky/musings/csc322-ethics-assignment</guid>
+      <pubDate>Thu, 15 Mar 2018 01:03:21 GMT</pubDate>
+      <description>Designing a different kind of writing assignment.</description>
+    </item>
+    <item>
       <title>Musing #567: Overloads</title>
       <link>https://www.cs.grinnell.edu/~rebelsky/musings/overloads</link>
       <guid>https://www.cs.grinnell.edu/~rebelsky/musings/overloads</guid>
@@ -208,13 +215,6 @@
       <guid>https://www.cs.grinnell.edu/~rebelsky/musings/time-logs-2018-02-13</guid>
       <pubDate>Wed, 14 Feb 2018 05:06:19 GMT</pubDate>
       <description>Learning too much about my (bad) work habits.</description>
-    </item>
-    <item>
-      <title>Musing #538: Missing fifty-five musings</title>
-      <link>https://www.cs.grinnell.edu/~rebelsky/musings/missing-55-musings</link>
-      <guid>https://www.cs.grinnell.edu/~rebelsky/musings/missing-55-musings</guid>
-      <pubDate>Tue, 13 Feb 2018 04:44:25 GMT</pubDate>
-      <description>It appears that I don't muse every day.</description>
     </item>
   </channel>
 </rss>

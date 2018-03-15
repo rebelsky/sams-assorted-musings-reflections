@@ -60,3 +60,7 @@ online, but they will soon expand to more general issues about teaching._
 
 > A strategy for designing syllabi.
 
+[An ethics assignment for CSC 322](csc322-ethics-assignment) (Musing #568)
+
+> Designing a different kind of writing assignment.
+

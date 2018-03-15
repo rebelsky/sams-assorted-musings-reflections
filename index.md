@@ -6,8 +6,7 @@ responses to questions I received from students or other people.  Some are
 rants about topics I'm passionate about.  Some are explanations of how
 I approach the world.  Some are just my attempts to think through a topic.
 
-Latest musing:
-[Overloads](overloads) (Musing #567)
+Latest musing:[An ethics assignment for CSC 322](csc322-ethics-assignment) (Musing #568)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

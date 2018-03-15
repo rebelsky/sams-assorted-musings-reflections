@@ -1,7 +1,7 @@
 An ethics assignment for CSC 322
 ================================
 
-Part of the ongoing series "things Sam was going to write anyway" [1].
+_Part of the ongoing series "things Sam was going to write anyway" [1]._
 
 The question of where to cover ethics in the CS curriculum is a thorny
 one.  One the one hand, we have a responsibility to talk about ethical
@@ -12,28 +12,32 @@ addition to trying to do both, we also incorporate discussions of social
 issues in our weekly CS table.
 
 I'm not sure we've ever formally discussed having a separate "Ethics in
-Computing" course [3].  So for now, the deeper dive is part of the expected
-curriculum in our software design course.  Students generally report that
-that seems to be an appropriate place, or at least that they have to
-do a deep dive by the time they do their software design project.  As
-they work in teams on real projects, they clearly need to consider their
-responsibilities as professionals.
+Computing" course [3].  If we have, we likely decided it was the
+wrong approach.  So for now, the deeper dive is part of the expected
+curriculum in our software design course.  Students generally report
+that that seems to be an appropriate place, or at least that they have
+to do a deep dive by the time they do their software design project.
+As they work in teams on real projects, they clearly need to consider
+their responsibilities as professionals.
 
 Since I've inherited [our software design courses](csc321-and-csc322),
-I get to teach these issues.  I admit that I sometimes struggle a bit.
-I don't have deep training in ethical theory, and there are certainly
-times that I'd prefer that deep training to my informal approach.
-It's not hard to find readings; we start with the [ACM Code of
-Ethics](https://ethics.acm.org) and build from there.  But I'm not sure
-about the best way to cover these issues in class.  This semester I
-tried two new approaches: I asked students to read and reflect on six
-basic ethical frameworks that I've heard suggested at SIGCSE/SIGCAS [4] 
-discussions (social contract theory, deontology, consequentialism,
-utilitarianism, virtue ethics, and justice as fairness) and I used
-two of the [draft ACM Case Studies](https://github.com/kirkpams/ACM-Code).
-I have realized that I need more time to discuss ethics in the course;
+I get to teach about these issues.  I admit that I sometimes struggle
+a bit.  I don't have deep training in ethical theory, and there are
+certainly times that I'd prefer that deep training to my informal
+approach.  It's not hard to find readings; we start with the [ACM Code
+of Ethics](https://ethics.acm.org) and build from there.  And I'm comfortable
+with the issue that there's not one "correct" answer to many of these
+problems.  But I'm not always sure about the best way to cover
+these issues in class.  This semester I tried two new approaches:
+I asked students to read and reflect on six basic ethical frameworks
+that I've heard suggested at SIGCSE/SIGCAS [4] discussions (social
+contract theory, deontology, consequentialism, utilitarianism, virtue
+ethics, and justice as fairness) and I used two of the [draft ACM Case
+Studies](https://github.com/kirkpams/ACM-Code).  I'm not sure I'll
+continue the frameworks, but I will continue the case studies.  In any
+case [5], I think we need more time to discuss ethics in the course;
 when we design the new version next year, we should think about how to
-add that extra time [5].
+add that extra time [6].
 
 Of course, our classroom discussions are not enough.  Just as we find
 that students learn programming better when they actually write programs,
@@ -49,10 +53,10 @@ Ethics between the 1992 version and the current draft.
 
 This semester, I reflected on the new discussion approach and on the needs
 of the ACM and decided to have my students write their own case studies.
-Given the characteristics I see in my students, I expect that some [6] of
+Given the characteristics I see in my students, I expect that some [7] of
 these case studies will be good enough to make part of the ACM repository.
 Fortunately, I know folks on the ACM Committee on Professional Ethics
-(COPE) [7], so I can at least make sure that they get passed along.  Here
+(COPE) [8], so I can at least make sure that they get passed along.  Here
 goes.
 
 ---
@@ -117,7 +121,7 @@ this assignment reduces even further the individual work in the course,
 but that's a natural consequence of it being a group project course.  But
 I like the attitude that "We learn better by discussing the issues".  Given
 the students in the course, I'm not worried that they will shirk the work.
-Hence, I added one more paragraph [8] to the assignment._
+Hence, I added one more paragraph [9] to the assignment._
 
 You may choose to work alone or in a group of two or three students. 
 If you choose to work in a group, you should only submit one copy of
@@ -143,12 +147,13 @@ at Access Computing for other ideas.
 
 ---
 
-Postscript: I said this musing was on something I was going to write in
-any case.  And I was going to write the assignment in any case.  However,
-I had not planned to write the framing text.  It seems that even when I'm
-matching the original goal of the musings, I'm writing extra material.
-In this case, adding the introduction and other materials tripled the
-number of words in the musing.
+Postscript: I started this musing with the claim that it represented
+something I was writing anyway.  In some sense that's true; I was
+going to write the assignment in any case.  However, I had not planned
+to write the framing text.  It seems that even when I'm matching the
+original goal of the musings, I'm writing extra material.  In this case,
+adding the introduction and other materials tripled the number of words
+in the musing.
 
 ---
 
@@ -164,15 +169,17 @@ the deeper dives.
 [4] SIGCSE is the ACM Special Interest Group on Computer Science Education.
 SIGCAS is the ACM Special Interest Group on Computers and Society.
 
-[5] More precisely, I should think about what to remove in order to
+[5] No pun intended.
+
+[6] More precisely, I should think about what to remove in order to
 make room for more coverage of ethics.
 
-[6] most, all
+[7] most, all
 
-[7] ACM loves acronyms.
+[8] ACM loves acronyms.
 
-[8] Well, sentence.
+[9] Well, sentence.
 
 ---
 
-*Version 0.9 of 2018-03-14.*
+*Version 1.0 of 2018-03-14.*
