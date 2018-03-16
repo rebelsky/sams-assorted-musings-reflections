@@ -8,11 +8,18 @@ The next weekly log
 * How do I log a musing that's also something that I'm writing for class?
   In the end, I decided that the part that I needed to write anyway
   counted for class, and the extra "cruft" counted for musing.
+  (Refers to `csc322-ethics-assignment`).
 * Missed: Three interesting talks on Monday (conflicts for all three).  
-  Simpson's class.  Georgiana's class.
-* Attended: High school concert.  Jazz band concert.  Singers (again).
-  Extra meetings, some of which made me angry, some of which made me
-  happy.
+  Simpson's class.  Georgiana's class.  Scholar's Convocation (Didn't
+  even know it was happening because no one bothered to put a sign on
+  our floor.)
+* Attended: High school concert.  Jazz band concert.  Singers (again).  
+  STaLG.  Beer with Council.  Extra meetings, some of which made me angry,
+  some of which made me happy.
+* Realized: Although I won't do a weekly log analysis during spring break,
+  it may be useful to go back and see how much time I spent on each of
+  the activities I had [planned for springb reak](planning-spring-break-
+  2018).
 
 The next end of month musing
 ----------------------------
@@ -28,12 +35,14 @@ The next end of month musing
 * The meta-musing (Evolution of a Musing)
 * Where do I stand on the number of forthcoming musings?  (And how many
   lines are in the file?)
-    * Can I rearrange this first?
-* Things get in the way.  How long did it take to respond to that piece
-  on writing?
-* Some really disjoint and/or last-minute musings.
+    * Can I rearrange the lsit of forthcoming musings first?
+* A few really disjoint and/or last-minute musings.
 * I keep falling behind on things I want to write.  Sometimes that's
   because of things like [An unexpected musing that was longer than normal](overloads).
+  How long did it take to respond to that piece on writing?
+  The "evolution of a musing" musing took more than a week to finish
+  from the original version.
+  The CodeCademy Ruby Tutorial got delayed for half a semester.
 * Comment from someone who I did not know read me: "As a relatively new
   faculty member, I appreciate the alternate narrative to what I hear 
   from the administration."
@@ -43,12 +52,8 @@ Stack-o-musings
 
 Next set
 
-1. CSC 32x ethics assignment.
-1. Planning for spring break
-1. I love Grinnell.  (Reflections from meeting with Ologie.  I love our
-   students.  I love my thoughtful colleagues.  I love the College's
-   ability to support many of our students.  Whenever I get frustrated
-   with the institution, I have to remember those things.)  [short]
+1. The evolution of a musing.  (Refers to bad-software musing.)
+
 1. Writing <https://www.chronicle.com/article/The-Tough-Love-Approach-to/242648>
     * Not everyone needs to free write.  Some people write better when
       they craft the individual sentences.  (I'd like to see a study, but
@@ -57,7 +62,12 @@ Next set
       who polish as they go.)
     * Where is outlining?
     * And yes, I counted "reread the article" in my time spent.
-1. The evolution of a musing.  (Refers to bad-software musing.)
+
+1. The picquiz (maybe)
+
+1. Teaching CS is teaching writing.  Maybe use all the versions of
+   `iota` that I recently covered in class.
+
 1. Forgetting The Joe Stories.  I know and remember a lot. But I also
    forget a lot.  Names.  Faces.  Things I promised Michelle that I'd
    do soon.  The syntax and semantics of APL [1].  How I know people.
@@ -73,7 +83,15 @@ Next set
    [2] Seriously.  I was ranting about PHP.  An alum said "But you taught
    me PHP".  [3]
    [3] I've even forgotten whether or not I've told that story already.
-1. Woody Guthrie Jesus Christ and Jesse James (getting-it-backwards)
+
+1. I love Grinnell.  (Reflections from meeting with Ologie.  I love our
+   students.  I love my thoughtful colleagues.  I love the College's
+   ability to support many of our students.  Whenever I get frustrated
+   with the institution, I have to remember those things.)  [short]
+
+1. Preliminary planning for the new mediascheme version of CSC 151.
+   `preliminary-planning-new-mediascheme-csc151.md`.
+
 1. The value of things.  (The start of a new series on being a packrat.)
    Michelle and I argue about stuff.  A lot.
    Anyone who knows me knows that I accumulate.  I accumulate for a
@@ -95,27 +113,37 @@ Next set
    same as the item.
    [1] Amazingly, even thinking about that issue makes me cry.
    [2] Well, probably a half dozen issues.
+
+1. Woody Guthrie Jesus Christ and Jesse James (getting-it-backwards)
+
 1. Bad classroom software, continued.  Carolyn's  quote
    "I would say that the first version of the software-based system significantly changed my experience teaching with technology for the better. In the classrooms I taught in, it made the technology more reliable and the experience of doing what I wanted to do more uniform across classrooms. // My experience this semester has been rocky, but it's hard for me to isolate whether the source of my problems is the software or the hardware. At the same time the software was updated I also started teaching in two completely new classrooms for me--one set up for art (no PC, two screens) and one for music (which seems to have more audio inputs to choose from, in addition to the new options you are writing about with the updated software). So this semester has been a little frustrating, but I've usually been able to get things working, other than the first day when I realized I didn't have a PC available and so couldn't get to the teaching files I have on my H: drive. The mute screen buttons have worked, the coloring of the projection has been a lot better than in JRC. // I'm not sure why I have fallen into writing my own musing here, but that's my field report from Bucksbaum."  In contrast, I find less uniformity and less reliability.  I hate computers.  And, after that musing, I had yet another bad day.
+
 1. Reminding me.  In a recent musing on workaholism, I mentioned the
    things that I miss because of my job.  Here's what Facebook 
    tells me:  March 3, 2012.  "Things that suck about being at a conference: Missing Jonathan's jazz band performance (William and Michelle sent me clips) and William's too many bit parts in the musical (but I can watch the DVD)."  Yeah,
    it's time to think about my priorities.
+
 1. Feeling maudlin.  (Reflection on the last few  musings, all of which
    made me sad - Paul Nossiter, The Joe Stories, The Meaning of Things,
    Facebook reminders.)  I wonder why.  Is it that mom's birthday is
    this week?  Is it feeling my own mortality?  (Interestingly, these
    got spread out a bit.)
+
 1. Implicit bias.  (Implicit Association) (What I know.  What I believe.  
    What the evidence suggests.  Vs. Explicit bias.  Etc. Etc.)
    <https://implicit.harvard.edu/implicit/>
    <http://www.lookdifferent.org/what-can-i-do/bias-cleanse>
    What about weight and age and ...?
+
 1. Peoples' names.
-1. The writing assignment for CSC 322
+
 1. SIGACT submission system?
+
 1. A thirty-year committment.  (What they say about a new tenure-line position.)
+
 1. What happens when a faculty member gets sick
+
 1. Proto-musings: Facebook reminds me that when I was last on sabbatical, 
   back in spring 2012, I regularly posted a short note [1].  In some sense,
   they feel like "proto musings".  Some are about things I still feel,
@@ -126,6 +154,7 @@ Next set
 1. Another workacholic: Little things add up?  An hour here.  An hour there.
    If you have thirty hours planned per week, you can spare about ten such
    hours.  But if you have fifty hours planned per week ....
+
 1. And another workaholic (maybe?)
 
     <https://www.chronicle.com/article/Why-I-Collapsed-on-the-Job/242537>
@@ -137,16 +166,21 @@ Next set
   get added: grading a larger assignment, reading through dossiers for
   candidates and conducting interviews, reviewing papers for a conference,
   support a student who is having severe difficulties, writing a series
-  of recommendation letters, ...
+  of recommendation letters, ....  My [recent musing about spring break](planning-spring-break-2018) just reinforces that.  I currently have something like 240 hours of outstanding work to do.  ...
 
 Almost immediate (?)
 
 1. Cleaning a GitHub repo.
+
 1. <https://www.nytimes.com/2018/03/05/smarter-living/today-do-that-one-thing-youve-been-putting-off.html>
+
 1. Endnotes in electronic documents (From "the end of ownership").  And how
   we read.
-1. The Hartl questions.  (Went from "Do the work; reflect."  To "Do the work, share it with me, reflect *on these particular questions*.  Take a long time to write, since I have to go through the whole chapter again, picking out the important things behind the schenes.)
-1. Goodwill.  When you treat us as piece workers and contract employees, things break down.
+
+1. The Hartl questions.  (Went from "Do the work; reflect."  To "Do the work, share it with me, reflect *on these particular questions*.  Take a long time to write, since I have to go through the whole chapter again, picking out the important things behind the scenes.)
+
+1. Good will.  When you treat us as piece workers and contract employees, things break down.
+
 1. Codecademy Ruby tutorial.  (I assign it; I think there are good reasons
    to use this kind of Tutorial; but, boy, there are many things I don't
    like.)  "Puts out every element inside the sub-arrays inside `s`."
@@ -154,17 +188,22 @@ Almost immediate (?)
    but I may want to write it earlier.)  `alphabetize` calls sort! (so it
    should be `alphabetize!`.  Mixes snake_style and camelCase for variables.
    Mixes puts and return strings.  (Dragon example. ...)
+
 1. One of the assessment notes (see below).
+
 1. Annotation software?: `sketches/annotating-the-web`.
 
 New "soon", normal length or possibly long (teaching)
 
 1. Rubrics.
+
 1. Advising assignment (for Joyce).
+
 1. Detailed learning outcomes for CSC 151.
-1. Teaching CS is teaching writing.
+
 1. Grading Student Projects (See Janet's facebook post on Dec. 19, now at
    the end of this file).
+
 1. Assessment. Two musings for the price of one?  Experience assessing
    courses.  Mistrusting assessment.  Split 'em.
    `assessment-revisited.md` "What's sad is that I really do believe in
@@ -173,33 +212,45 @@ New "soon", normal length or possibly long (teaching)
    Consider the impact.  Repeat."  But you don't need formalized
    assessment practices for that loop.  You just need to pay attention,
    introspect, and discuss.
+
 1. Eboards. (`sketches/eboards.md`)
+
 1. Take-home exams.  (Why I give them, etc.)
+
 1. Grading.  <https://www.chronicle.com/article/Why-I-Stopped-Writing-on-My/242477>
 
 New "soon", normal length or possibly long (other)
 
 1. Cleaning up my list of forthcoming musings.
+
 1. Scheduling students (for SIGCSE volunteers).  Update, rewrite, or buy?  
    <https://www.shiftboard.com/product/scheduling/>.
    <http://www.cervistech.com/>
+
 1. History vs. CS.  Tenure-track jobs.  Alternative opportunities.
+
 1. Twelve-month contracts.  (And how they are not nice to staff.)
+
 1. Don't embarrass me.  (Whatever happened to ...?  Will I ever teach
    it again.
+
 1. Cleaning up musings?  (Somewhere between three and four dozen drafts
    of musings.  I'm not sure how many will see the light of day.  So a
    bit less than 10%.  Some I just deleted and will never remember.
    Others I moved to a separate folder to look at later.)
+
 1. Customizing cover letters.  (I spend the few minutes to customize
    each recommendation letter.  Why do so many candidates fail to 
    customize their cover letter?  (No, we don't downgrade their 
    application for being generic.  But you can upgrade your own
    application by doing the homework.)
+
 1. Social Media (and why I don't tend to use it except to announce musings).
+
 1. The challenge of CS (You know when it doesn't work) and its broader
    effects, particularly given what we know about personalities.  Does
    "You are wrong" discourage women?
+
 1. Taking classes.  One of the benefits of being at an academic institution
    is that I can sit in on classes of interest, at least when time permits
    [1].  During my last sabbatical, I was able to devote full-time work
@@ -208,31 +259,44 @@ New "soon", normal length or possibly long (other)
    I've made a list of courses that I'd like to sit in on.  There are
    three, and each is offered only this semester. ...
    [1] I must admit that time rarely permits.
+
 1. Too Much Music.  <https://www.npr.org/sections/therecord/2018/01/16/578216674/too-much-music-a-failed-experiment-in-dedicated-listening?utm_source=npr_newsletter&utm_medium=email&utm_content=20180118&utm_campaign=youmusthearthis&utm_term=music>
+
 1. Grinnell is differnt.  Inspired by my "recent" dialog with Maddie K.
    Her email is entitled "Re: DIS" and is dated 2018-01-25.
+
 1. Something about my notes from Amanda Hinchman-D.  Maybe "unexpected
    effects"?
+
 1. Should I write something about cluelessness on economic status
    (my own, others')
+
 1. Attending academic talks.  (Why I appreciate the abiity to do so.
    How I fit it into my too-busy week.  The tradeoffs involved.  See
    `time-logs-2018-03-05.md`.)
 
 New "soon", potentially short, teaching topics.
 
+1. "Checking in ..." A teaching tip. (and more)
+
 1. Reconfigurable classrooms.  Whose responsibility is it to "put it
    back"?  Probably add rant about the computer podium - we asked for
    a fixed one.  They gave us a movable one.  Guess what?  That means
    the cords get pulled out of the floor.  Things appear and disappear.
    (Or is this sharing a classroom.)
+
 1. Weekly reports in CSC 322.  (Things I was going to write anyway?)
+
 1. Annotating the course Web?
+
 1. Usurping the faculty's primary responsibility.  The common reading.
    I don't object to the books.  But I strenuously object to non-faclty
    setting what seems to be the "common intellectual heritage" of Grinnell.
+
 1. Pages in a course Web.
+
 1. DRYing out my course webs.
+
 1. Timeboxing (in CSC 321, from Janet).  Recent frustration at how
    to deal with timeboxing when students don't do as well as I would
    hope and I've guaranteed a minimum grade.  Adding reflections to
@@ -253,8 +317,10 @@ New "soon", potentially short
    reasonable thing, and treat 8:30 classes as meeting the goal?  (It's
    CC.  There's no evidence they would do something so reasonable, even
    though I think that was their original plan.)
+
 1. Followup on plastic pizza.  Something to with Adrienne seeing instructions
    to remove plastic from fish sticks.
+
 1. Facebook, March 2 2012
    So, tonight one of my students asked me how I am different now than
    I was in college. I said there are obvious physical differences:
@@ -266,18 +332,29 @@ New "soon", potentially short
    work, I am now responsible for a family. Michelle also noted that
    I have more of a sense of social justice. Can my long-time friends
    suggest any other differences?  Andy: "You were never obnoxious, Sam. I'd add loyal and always intellectually curious.".  Michelle: "If I think back to college: the beginnings of who you are now were present. Today You are more confident and self assured. But you were always willing to try new things."  Rose: " i never thought u were obnoxious - - u were always very thoughtful. But i never knew how u found anything on your desk - - and yet u did".  Rose Ijaz: "I never thought of you as obnoxious. I always liked your sense of humor and judging from your Facebook postings, your humor has mellowed somewhat."  Charles: "Stronger and way more self confident. A bit less humble. More introverted. And you tend to a greater "big picture" philosophy."
+
 1. Proscrastination or Overwork?  (Reflection on Michelle's response
    to "Feeling fortunate."  " No- you definitely procrastinate along with being overworked.")
+
 1. My blue blazer.
+
 1. Version numbers.  Why do I change after one period, or two, or ...?
+
 1. "Myself" ("Please send it to myself")
+
 1. Advisory panel.
+
 1. Signatures (speeding up my life with those).
+
 1. SIGCSE list workflows.  `sigcse-list-workflow`
+
 1. Sentient and malicious.  See day 3 of CSC 151.
+
 1. The old shotgun apartment.  (Walking by Powell's.  Etc.)
+
 1. Fall job interviews.  (Tapia + GHC + A third conference + interviews)
    A huge change.
+
 1. Inbox zero.  Your Memories on Facebook recently came up with musing
    #189, "Inbox zero, stage 1."  `inbox-zero-01`.  Boy, was "inbox zero" 
    a failure.  Let's see ... as of today ....  WHy?  No system.  Mail
@@ -287,17 +364,24 @@ New "soon", potentially short
    (I've unsusbscribed from Democratic Party mailings at least a dozen
    times).  Too many professional emails (SIGCSE volunteers and SIGCSE
    listservs).
+
 1. Every ten minutes.  (My new policy of standing up every ten minutes.
    I tend to get too focused.  ANy relation to Pomodoro?  I should look.)
    iPhone makes it nice.  But ten minutes always seems so quick.  And it's
    usually eleven, since I should walk for eleven.  But I haven't been
    doing it enough.
+
 1. Room and Board at Grinnell and elsewhere.  (See the `act-tuition-survey`
    musing for links.)
+
 1. Cpanel?
+
 1. Academic geneaology. <http://veblenhouse.blogspot.com/2017/04/the-usefulness-of-useless-knowledge.html>. <http://www.towntopics.com/wordpress/2013/02/06/who-is-oswald-veblen-imagine-princeton-without-the-ias-einstein-herrontown-woods/>. <https://genealogy.math.ndsu.nodak.edu/id.php?id=805>. <http://etcweb.princeton.edu/CampusWWW/Companion/veblen_oswald.html>.  [Moved up]
+
 1. Socks and VPN?
+
 1. The metal thing from Eckhart library - conic and plane.
+
 1. Outstanding / Excellent / Very Good / Average/Below Average.  Who
    puts average and below average together?  Who doesn't give approximate
    percentages?  Here's a better one: Top 1%, Next 4%, Next 5%, next 15%,
@@ -306,13 +390,17 @@ New "soon", potentially short
    ten years.  Truly exceptoinal (Top 1%), Outsstanding (96-99%),
    Superior (91-95%), Good (81-90%) Somewhat above average (71-80%),
    Average (51-70%), Below average (< 50%).
+
 1. Github.  (I use it in so many places.  It's strange not to use it.)
+
 1. A new introduction.
+
 1. Boundaries and limits.  In most occupations, when your workday (8-5,
    4am-12:30 pm, whatever) is over, you are done for the day.  As a faculty
    member, I find it harder to set boundaries.  There are always other
    things to do - more articles to read (and write), more teaching materials
    to prepare, more things to think about.  And boy this needs work.
+
 1. Facebook memories.  Found in my Facebook feed.
    _February 24, 2012_
    Okay, I'm on leave from teaching. Why am I still finding that I have more work to do than I feel like I can physically do? (Some answers: I'm still doing lots of administrative work as department chair and a member of too many committees, the classes I'm taking take time, and thinking about studio art projects is really engaging.)
@@ -326,75 +414,113 @@ Old "soon"
    Learned community.  Learned teaching strategies.  Learned to be more
    careful about hacking the system.  That I like teaching.  That sleep
    is optional.  (Positives and negatives.)
+
 1. Learning to advise.  (Did I write that already?)
+
 1. "Can I have an extension?"  When to ask.  When not to ask.
+
 1. "Things I wrote for other reasons".  Why am I labeling those when
    that's the initial reason I started this thing, whatever this thing is.
+
 1. Makes no sense to me - Amount for student meals at conferences.
+
 1. Whatever I do in 151 today - joy of tables?.
+
 1. Five sentences.  (Slightly started.)
 
 New forthcoming musings
 
 1. My next Tutorial.
+
 1. Overwhelmed by forthcoming musings?  (Many have been in the queue for
    more than a year.)
+
 1. Mentor vs. Sponsor
+
 1. Blasters and Del-Lords.  (If I recall correctly, some out there is
    a newspaper article that calls the Del-Lords the Blasters of NYC
    or something similar.)
+
 1. Universal design: Don't rely on text in images in email messages.
+
 1. Blasters and Del-Lords mixtape
+
 1. Losing the members of President's Council?  Effect on ability to search?
+
 1. Sharepointless workflows.
+
 1. Stopping sooner.  (Didn't need second section in local/national/global.
    Didn't need more than "I had criticisms.  I was mistaken."
+
 1. Microagressions?
+
 1. Curmudgeon or Cheerful - Both!
+
 1. How to be a curmudgeon in N easy steps.
+
 1. David Feldman. One of the more interesting pickups from this series.
  Imponderables - clearly an area for a liberal arts
  student. Got Michelle through med school. Continues to be diverse
  in intersts - bridge, music, Posse, more. I'm still not sure why
  he reads my musings each day.  (He did write his own autobiographical.)
-1. Self-study - Institutional information. (Should Rietz be in the
- discussions of self studies?)
+
 1. Sedona - Best of breed?
+
 1. Curmudgeon - Letterpress "There's nothing in the world that can't
  be made a bit better by adding a curmdugeon. Except, maybe,
  ice cream."
+
 1. Walrus series - Letterpress?
+
 1. Why facebook doesn't provide context. (Followup to insufficient context.)
+
 1. Evolution of CS department research labs. Old format: Tables for
  pair programming. New format: More open tables. TVs.
+
 1. "Data People" and other people.
+
 1. Tandy 102 vs. the Freewrite.
+
 1. Business-size cards. (Buying too many. Then realizing their many uses.
  Codes of conduct in code camp. Random cards for CSC 151. Machine names
  (with directions) for CSC 151. And more!)
+
 1. Islandwood and GOA.
-1. Finish last Wednesday's mail piece. (Maybe never.)
+
+1. Finish last Wednesday's mail piece. (Maybe never.) (I don't even know what this is any more.)
+
 1. Building the CSC 151 Web site.
+
 1. Kate Walker - you only learn about people too late ....
+
 1. "Did I miss anything?" (There's a poem by that name, How does it feel when a student asks that question, etc.)
+
 1. Revisiting Tutorial. I'd forgotten that I'd written some of the things
  that I've done. Tutee birthdays. "Please Raynard, can't I teach Tutorial 
  again?"
-1. Dates in musing URLs - why I do it
+
 1. Building value for Grinnell (?)
+
 1. BBC micro:bit
 
 A series on fun books?
 
 1. CLC 17 - Contemporary Literary Criticism
+
 1. Fun books: The 1924 College catalog
+
 1. Whatever book my Grandmother is holding in that picture?
+
+1. The legendary yearbook (Grinnell)
 
 All those outstanding anniversary musings (if it's not too late)
 
 1. Favorites.
+
 1. Longest
+
 1. How much did I write?  (I can roll back.)
+
 1. ...
 
 A series on addiction and organization
@@ -402,22 +528,36 @@ A series on addiction and organization
 1. Organization - No one who sees my office and laba may believe this,
  but I really like organization. Why aren't they neat? Addication
  to accumulation and inability to get rid of things. (`organization.md`)
+
 1. Addication to accumulation. Might find the next thing that makes me
  really really happy. (`addiction.md`)
 
 Old forthcoming musings
 
 1. Syntactic sugar.
+
 1. Essay ??? (Nontechnical): Respect
+
 1. Essay ??? (Nontechnical): Belonging (?)
-1. Essay ??? (Semi-technical): Ethics in our curriculum
-1. Essay ??? (Nontechnical): The CSC 151 project
+
+1. Essay ??? (Semi-technical): Ethics in our curriculum.
+   (Do I need more?  I wrote a bit when I wrote about the
+   ethics assignment.)
+
+1. Essay ??? (Nontechnical): The CSC 151 project  (Have I
+   written this recently?)
+
+More from CSC 281
+
 1. Essay ??? (Technical): Your own commands
+
 1. Essay ??? (Technical): Shell variables
+
 1. Essay ??? (Technical): Bash-basics: Command-line patterns
+
 1. Essay ??? (Technical): Bash-basics: I/O redirection
+
 1. Essay ??? (Technical): Variadic macros
-1. Essay ??? (Nontechnical): Admissions
 
 ---
 
@@ -427,22 +567,18 @@ Quick (?)
 *For the days in which I need to "dash off" an essay in order to meet
 my goals.*
 
-
 1. Notes to myself.  "What was I thinking?"
 
 1. Facebook page edits.
 
 1. Memorizing vs process; Google. (Pearl Before Swine, NYT quote of
-Google, etc.)
-
+Google, etc.)  (What's the Perals before Swine thing?)
 
 1. "a musing" vs. "amusing"
 
 1. Shop for Mom. (Related to mothers day.)
 
 1. The csstudents mailing list.
-
-1. "Checking in ..." A teaching tip. (and more)
 
 1. Conference Swag.
 
@@ -715,8 +851,6 @@ the US in the world.)
 1. Book Sales
 
 1. SamR Recommends (aka Good Things at Grinnell)
-
-1. The legendary yearbook (Grinnell)
 
 1. Jon Svetkey (Reviews)
 
