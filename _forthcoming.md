@@ -50,7 +50,7 @@ The next end of month musing
 Stack-o-musings
 ---------------
 
-Next set
+### Next set
 
 1. The evolution of a musing.  (Refers to bad-software musing.)
 
@@ -168,7 +168,37 @@ Next set
   support a student who is having severe difficulties, writing a series
   of recommendation letters, ....  My [recent musing about spring break](planning-spring-break-2018) just reinforces that.  I currently have something like 240 hours of outstanding work to do.  ...
 
-Almost immediate (?)
+1. Giving up processed sugar.  At the end of SIGCSE (25 February 2018,
+   if I remember correctly), a friend mentioned to me that they'd done
+   their best to give up processed sugar from their lives.  No cookies.
+   No cake.  No candy.  No soda.  They accept that they will sometimes
+   have food, like spaghetti sauce, that adds process sugar.  I know
+   that processed sugar isn't good for me [1], so I thought I'd see what
+   it would be like to give up sugar.  I've been mostly avoiding
+   processed sugar ever since.  I'm trying to figure out how much of
+   a difference it's making.  I haven't been losing weight at a greater
+   rate than I was before.  I don't feel substantially different [2].
+   But it's been kind of nice to be able to say to myself "You don't need
+   that cookie; it will break your streak."  And I've realized that I
+   don't really miss cookies, cake, and candies all that much.  I do,
+   however, miss the opportunity to have a drink based on ginger beer [3,4].
+   I also know that when I'm sick, syrupy colas and ginger ale often
+   feel really good.  But I think I can do without them.
+   Are there things that I expect that I expect I will miss more?  Certainly.
+   Muffins.  Ice cream.  Good chocolate.  However, in the end, someting
+   inside me tells me that I'm better off without processed sugar, at
+   least for now.
+   What will I give up next?  I should probably can artificial sweeteners,
+   too.
+   [1] Corn syrup is even worse.
+   [2] Well, I do feel more tired.  But I don't think the two are
+   related.
+   [3] I like ginger beer and tequila, which I think some people call
+   a Jalisco Mule.
+   [4] I don't think I'll be completely sugar free in my drinks.  It's
+   hard to resist an Old Fashioned or a Margarita, for example.
+
+### Almost immediate (?)
 
 1. Cleaning a GitHub repo.
 
@@ -193,7 +223,7 @@ Almost immediate (?)
 
 1. Annotation software?: `sketches/annotating-the-web`.
 
-New "soon", normal length or possibly long (teaching)
+### New "soon", normal length or possibly long (teaching)
 
 1. Rubrics.
 
@@ -219,7 +249,7 @@ New "soon", normal length or possibly long (teaching)
 
 1. Grading.  <https://www.chronicle.com/article/Why-I-Stopped-Writing-on-My/242477>
 
-New "soon", normal length or possibly long (other)
+### New "soon", normal length or possibly long (other)
 
 1. Cleaning up my list of forthcoming musings.
 
@@ -262,7 +292,7 @@ New "soon", normal length or possibly long (other)
 
 1. Too Much Music.  <https://www.npr.org/sections/therecord/2018/01/16/578216674/too-much-music-a-failed-experiment-in-dedicated-listening?utm_source=npr_newsletter&utm_medium=email&utm_content=20180118&utm_campaign=youmusthearthis&utm_term=music>
 
-1. Grinnell is differnt.  Inspired by my "recent" dialog with Maddie K.
+1. Grinnell is different.  Inspired by my "recent" dialog with Maddie K.
    Her email is entitled "Re: DIS" and is dated 2018-01-25.
 
 1. Something about my notes from Amanda Hinchman-D.  Maybe "unexpected
@@ -275,9 +305,11 @@ New "soon", normal length or possibly long (other)
    How I fit it into my too-busy week.  The tradeoffs involved.  See
    `time-logs-2018-03-05.md`.)
 
-New "soon", potentially short, teaching topics.
+### New "soon", potentially short, teaching topics.
 
 1. "Checking in ..." A teaching tip. (and more)
+
+1. "As We May Think", a great paper to read and assign.
 
 1. Reconfigurable classrooms.  Whose responsibility is it to "put it
    back"?  Probably add rant about the computer podium - we asked for
@@ -302,7 +334,7 @@ New "soon", potentially short, teaching topics.
    hope and I've guaranteed a minimum grade.  Adding reflections to
    timeboxed work.  ALl sorts of things.
 
-New "soon", potentially short
+### New "soon", potentially short
 
 1. Cascading consequences.  Change in schedule of courses that eliminates
    one of our primary teaching slots.  So we start to move from 4x50
@@ -405,7 +437,7 @@ New "soon", potentially short
    _February 24, 2012_
    Okay, I'm on leave from teaching. Why am I still finding that I have more work to do than I feel like I can physically do? (Some answers: I'm still doing lots of administrative work as department chair and a member of too many committees, the classes I'm taking take time, and thinking about studio art projects is really engaging.)
 
-Old "soon"
+### Old "soon"
 
 1. My first campus job(s).  (Too many!  Mentor for Math.  TC.  Mentor for
    CS.  When I hit more than 20 hpw, they told me that I had to quit.  But
@@ -428,7 +460,7 @@ Old "soon"
 
 1. Five sentences.  (Slightly started.)
 
-New forthcoming musings
+### New forthcoming musings (well, not so new any more)
 
 1. My next Tutorial.
 
@@ -523,7 +555,7 @@ All those outstanding anniversary musings (if it's not too late)
 
 1. ...
 
-A series on addiction and organization
+### A series on addiction and organization
 
 1. Organization - No one who sees my office and laba may believe this,
  but I really like organization. Why aren't they neat? Addication
@@ -532,7 +564,7 @@ A series on addiction and organization
 1. Addication to accumulation. Might find the next thing that makes me
  really really happy. (`addiction.md`)
 
-Old forthcoming musings
+### Old forthcoming musings
 
 1. Syntactic sugar.
 
@@ -547,7 +579,7 @@ Old forthcoming musings
 1. Essay ??? (Nontechnical): The CSC 151 project  (Have I
    written this recently?)
 
-More from CSC 281
+### More from CSC 281
 
 1. Essay ??? (Technical): Your own commands
 
@@ -592,7 +624,7 @@ Google, etc.)  (What's the Perals before Swine thing?)
 
 1. Grinnell traditions I miss: You can do it
 
-1. Grinnell traditions I love: Titular head
+1. Grinnell traditions I love, but probably shouldn't: Titular head
 
 1. Grinnell traditions I miss: Addressing people
 
@@ -605,7 +637,8 @@ Google, etc.)  (What's the Perals before Swine thing?)
 1. Are these essays? (Should I rename them; I did?) Easy way out.
 Google defines them as "a short piece of writing on a particular subject".
 I think that fits. I just don't write enough argumentative essays.
-(Does this one go in end-of-month?)
+(Does this one go in end-of-month?)  (Eventually renamed them as
+"musings")
 
 1. "relatable"
 
