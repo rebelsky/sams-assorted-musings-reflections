@@ -737,3 +737,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Logging my time (Week seven of Spring Semester 2018)](time-logs-2018-03-12) (Musing #566)  
 [Overloads](overloads) (Musing #567)  
 [An ethics assignment for CSC 322](csc322-ethics-assignment) (Musing #568)  
+[Planning for spring break 2018](planning-spring-break-2018) (Musing #569)  

@@ -1083,6 +1083,11 @@ Overcommitment
 [Logging my time (Week seven of Spring Semester 2018)](time-logs-2018-03-12) (Musing #566)
 
 > Getting better again.
+
+[Planning for spring break 2018](planning-spring-break-2018) (Musing #569)
+
+> Sixteen days of spring break.  Nearly thirty days of work.  The numbers don't work.
+
 On teaching 
 -----------
 
