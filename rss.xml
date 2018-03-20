@@ -7,6 +7,34 @@
       A curmudgeonly faculty member in computer science writes about a variety of topics.
     </description>
     <item>
+      <title>Musing #573: Penny wise ...</title>
+      <link>https://www.cs.grinnell.edu/~rebelsky/musings/reimbursements-and-bottle-deposits</link>
+      <guid>https://www.cs.grinnell.edu/~rebelsky/musings/reimbursements-and-bottle-deposits</guid>
+      <pubDate>Tue, 20 Mar 2018 01:05:06 GMT</pubDate>
+      <description>The joy of bottle deposits.</description>
+    </item>
+    <item>
+      <title>Musing #572: The CSC 151 photo quiz</title>
+      <link>https://www.cs.grinnell.edu/~rebelsky/musings/csc151-photo-quiz</link>
+      <guid>https://www.cs.grinnell.edu/~rebelsky/musings/csc151-photo-quiz</guid>
+      <pubDate>Tue, 20 Mar 2018 01:04:39 GMT</pubDate>
+      <description>One of my favorite quizzes.</description>
+    </item>
+    <item>
+      <title>Musing #571: Forgetting the Joe stories</title>
+      <link>https://www.cs.grinnell.edu/~rebelsky/musings/forgetting-the-joe-stories</link>
+      <guid>https://www.cs.grinnell.edu/~rebelsky/musings/forgetting-the-joe-stories</guid>
+      <pubDate>Sun, 18 Mar 2018 01:56:48 GMT</pubDate>
+      <description>Is it more important to remember the context or the content?</description>
+    </item>
+    <item>
+      <title>Musing #570: The evolution of a musing</title>
+      <link>https://www.cs.grinnell.edu/~rebelsky/musings/evolution-of-a-musing</link>
+      <guid>https://www.cs.grinnell.edu/~rebelsky/musings/evolution-of-a-musing</guid>
+      <pubDate>Fri, 16 Mar 2018 23:49:22 GMT</pubDate>
+      <description>From muse to musing.</description>
+    </item>
+    <item>
       <title>Musing #569: Planning for spring break 2018</title>
       <link>https://www.cs.grinnell.edu/~rebelsky/musings/planning-spring-break-2018</link>
       <guid>https://www.cs.grinnell.edu/~rebelsky/musings/planning-spring-break-2018</guid>
@@ -187,41 +215,6 @@
       <guid>https://www.cs.grinnell.edu/~rebelsky/musings/about-grinnell-external-reviewers</guid>
       <pubDate>Mon, 19 Feb 2018 05:29:46 GMT</pubDate>
       <description>Why do I end up drafting institutional documents?</description>
-    </item>
-    <item>
-      <title>Musing #543: A prologue to some notes for external reviewers about Grinnell </title>
-      <link>https://www.cs.grinnell.edu/~rebelsky/musings/prologue-about-grinnell-external-reviewers</link>
-      <guid>https://www.cs.grinnell.edu/~rebelsky/musings/prologue-about-grinnell-external-reviewers</guid>
-      <pubDate>Mon, 19 Feb 2018 05:29:10 GMT</pubDate>
-      <description>I think the title says it all.</description>
-    </item>
-    <item>
-      <title>Musing #542: </title>
-      <link>https://www.cs.grinnell.edu/~rebelsky/musings/</link>
-      <guid>https://www.cs.grinnell.edu/~rebelsky/musings/</guid>
-      <pubDate>Sat, 17 Feb 2018 03:14:23 GMT</pubDate>
-      <description>Not quite a real "thank you", but still an appreciation of the wonderful people I know.</description>
-    </item>
-    <item>
-      <title>Musing #541: My coding habits</title>
-      <link>https://www.cs.grinnell.edu/~rebelsky/musings/coding-habits-2018-02-15</link>
-      <guid>https://www.cs.grinnell.edu/~rebelsky/musings/coding-habits-2018-02-15</guid>
-      <pubDate>Fri, 16 Feb 2018 04:15:30 GMT</pubDate>
-      <description>Ways I think about updating code.  (At least that's what I planned to write about.)</description>
-    </item>
-    <item>
-      <title>Musing #540: Today's question</title>
-      <link>https://www.cs.grinnell.edu/~rebelsky/musings/conical-bore</link>
-      <guid>https://www.cs.grinnell.edu/~rebelsky/musings/conical-bore</guid>
-      <pubDate>Thu, 15 Feb 2018 05:53:50 GMT</pubDate>
-      <description>The things my children ask.</description>
-    </item>
-    <item>
-      <title>Musing #539: Logging my time (Week three of Spring Semester 2018)</title>
-      <link>https://www.cs.grinnell.edu/~rebelsky/musings/time-logs-2018-02-13</link>
-      <guid>https://www.cs.grinnell.edu/~rebelsky/musings/time-logs-2018-02-13</guid>
-      <pubDate>Wed, 14 Feb 2018 05:06:19 GMT</pubDate>
-      <description>Learning too much about my (bad) work habits.</description>
     </item>
   </channel>
 </rss>

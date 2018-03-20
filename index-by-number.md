@@ -738,3 +738,10 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Overloads](overloads) (Musing #567)  
 [An ethics assignment for CSC 322](csc322-ethics-assignment) (Musing #568)  
 [Planning for spring break 2018](planning-spring-break-2018) (Musing #569)  
+[The evolution of a musing](evolution-of-a-musing) (Musing #570)  
+
+## 571-580
+
+[Forgetting the Joe stories](forgetting-the-joe-stories) (Musing #571)  
+[The CSC 151 photo quiz](csc151-photo-quiz) (Musing #572)  
+[Penny wise ...](reimbursements-and-bottle-deposits) (Musing #573)  

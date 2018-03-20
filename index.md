@@ -6,8 +6,10 @@ responses to questions I received from students or other people.  Some are
 rants about topics I'm passionate about.  Some are explanations of how
 I approach the world.  Some are just my attempts to think through a topic.
 
-Latest musing:
-[Planning for spring break 2018](planning-spring-break-2018) (Musing #569)
+Latest musings:
+[The CSC 151 photo quiz](csc151-photo-quiz) (Musing #572)
+and
+[Penny wise ...](reimbursements-and-bottle-deposits) (Musing #573)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

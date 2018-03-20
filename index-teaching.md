@@ -64,3 +64,7 @@ online, but they will soon expand to more general issues about teaching._
 
 > Designing a different kind of writing assignment.
 
+[The CSC 151 photo quiz](csc151-photo-quiz) (Musing #572)
+
+> One of my favorite quizzes.
+

@@ -42,7 +42,7 @@ follow, I will estimate how much time they require in terms of days [5].
   should make forward progress on the home office. _[Estimate: 1 day]_
 * I need to finish taxes.  We've done most of our taxes.  What's left?
   I haven't put together our list of charitable deductions or my too-long
-  list of business expenses [7]. _[Estimate: 1/2 day]_
+  list of business expenses. _[Estimate: 1/2 day]_
 * I need to do some work on my car.  Nothing major, but it's still probably
   a half day of work. _[Estimate: 1/2 day]_
 * And then there are the normal set of things that have accumulated
@@ -278,4 +278,4 @@ family time.
 
 ---
 
-*Version 1.0 of 2018-03-15.*
+*Version 1.0.1 of 2018-03-15.*

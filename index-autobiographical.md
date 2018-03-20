@@ -199,4 +199,7 @@ About SamR
 
 > I see red.  I see green.  But I'm still red-green color blind.
 
+[Forgetting the Joe stories](forgetting-the-joe-stories) (Musing #571)
+
+> Is it more important to remember the context or the content?
 

@@ -264,3 +264,7 @@ Essays on writing, or at least on writing my essays
 
 > Continuing the monthly meta-musings.
 
+[The evolution of a musing](evolution-of-a-musing) (Musing #570)
+
+> From muse to musing.
+

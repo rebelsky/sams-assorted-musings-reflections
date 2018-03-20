@@ -272,3 +272,7 @@ Why Grinnell staff with Ph.D's should be allowed to teach.
 
 > Exciting opportunities lead to bad decisions.
 
+[Penny wise ...](reimbursements-and-bottle-deposits) (Musing #573)
+
+> The joy of bottle deposits.
+

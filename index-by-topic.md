@@ -267,6 +267,10 @@ Essays on writing, or at least on writing my essays
 
 > Continuing the monthly meta-musings.
 
+[The evolution of a musing](evolution-of-a-musing) (Musing #570)
+
+> From muse to musing.
+
 For prospective students, parents of prospective students, and others with similar interests
 --------------------------------------------------------------------------------------------
 
@@ -870,6 +874,10 @@ Why Grinnell staff with Ph.D's should be allowed to teach.
 
 > Exciting opportunities lead to bad decisions.
 
+[Penny wise ...](reimbursements-and-bottle-deposits) (Musing #573)
+
+> The joy of bottle deposits.
+
 Assorted talks and speeches
 ---------------------------
 
@@ -1153,6 +1161,10 @@ online, but they will soon expand to more general issues about teaching._
 [An ethics assignment for CSC 322](csc322-ethics-assignment) (Musing #568)
 
 > Designing a different kind of writing assignment.
+
+[The CSC 151 photo quiz](csc151-photo-quiz) (Musing #572)
+
+> One of my favorite quizzes.
 
 On writing letters of recommendation
 ------------------------------------
@@ -1999,6 +2011,9 @@ About SamR
 
 > I see red.  I see green.  But I'm still red-green color blind.
 
+[Forgetting the Joe stories](forgetting-the-joe-stories) (Musing #571)
+
+> Is it more important to remember the context or the content?
 
 Salary reviews
 --------------
