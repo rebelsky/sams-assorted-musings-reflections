@@ -1096,6 +1096,10 @@ Overcommitment
 
 > Sixteen days of spring break.  Nearly thirty days of work.  The numbers don't work.
 
+[Logging my time (Week eight of Spring Semester 2018)](time-logs-2018-03-20) (Musing #574)
+
+> A reasonable week, for the first time all semester!
+
 On teaching 
 -----------
 

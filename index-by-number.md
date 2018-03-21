@@ -745,3 +745,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Forgetting the Joe stories](forgetting-the-joe-stories) (Musing #571)  
 [The CSC 151 photo quiz](csc151-photo-quiz) (Musing #572)  
 [Penny wise ...](reimbursements-and-bottle-deposits) (Musing #573)  
+[Logging my time (Week eight of Spring Semester 2018)](time-logs-2018-03-20) (Musing #574)  
