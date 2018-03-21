@@ -4,29 +4,20 @@ Some forthcoming musings
 The next weekly log
 -------------------
 
-* Further experience using it as a to-do list.
-* How do I log a musing that's also something that I'm writing for class?
-  In the end, I decided that the part that I needed to write anyway
-  counted for class, and the extra "cruft" counted for musing.
-  (Refers to `csc322-ethics-assignment`).
-* Missed: Three interesting talks on Monday (conflicts for all three).  
-  Simpson's class.  Georgiana's class.  Scholar's Convocation (Didn't
-  even know it was happening because no one bothered to put a sign on
-  our floor.)
-* Attended: High school concert.  Jazz band concert.  Singers (again).  
-  STaLG.  Beer with Council.  Extra meetings, some of which made me angry,
-  some of which made me happy.
-* Realized: Although I won't do a weekly log analysis during spring break,
-  it may be useful to go back and see how much time I spent on each of
-  the activities I had [planned for springb reak](planning-spring-break-
-  2018).
+* It's spring break, so the log will be different than normal (or should
+  be different than normal).  I'm planning an end-of-break report.
 
 The next end of month musing
 ----------------------------
 
-* Still staying exactly 310 musings ahead of last year.  I think the
-  lost musings were more likely in fall.  I'm tempted to write an extra
-  one or two once in a while to get a bit ahead.
+* It appears that I am still staying exactly 310 musings ahead of last 
+  year.  I think the lost musings were more likely in fall, so it's going
+  to take some time until I'm officially 365 musing ahead.  I was tempted
+  to write an extra one or two once in a while to get a bit ahead.
+  Then I realized that if I did so, a year from now I would go from
+  being 365 musings ahead to 365-x musings ahead.  That seems wrong.
+* Got confused when I had a day in which I had no time to muse.  (Ended
+  up doing two the next day.)
 * Am I writing faster?  Jerod needed a one-page description of CSC 326.
   I could write something relatively decent in under an hour.  But I
   suppose I've always [1] been able to spew reasonably coherent text.
@@ -46,13 +37,45 @@ The next end of month musing
 * Comment from someone who I did not know read me: "As a relatively new
   faculty member, I appreciate the alternate narrative to what I hear 
   from the administration."
+* Colleague: "People ask me if I"ve read what you've written recently.
+  You do intend to provoke conversation, right?"  Maybe once in a while.
+  But I generaly write for other reasons.  I write to have written.
+  I write to learn.  For example, in musing about [overloads](overloads),
+  I realized that one of my objections to early early faclty teaching
+  overloads is that they lack the power to negotiate.
+
+Musings with substantive drafts
+-------------------------------
+
+_I should finish these some time soon._
+
+1. `checking-my-mac-2018-03-21`
+
+1. My advisory board. (`my-advisory-board`)
+
+1. SIGCSE list workflows.  `sigcse-list-workflow`
+
+1. Annotation software?: `sketches/annotating-the-web`.
+
+1. Woody Guthrie Jesus Christ and Jesse James (`getting-it-backwards`)
+
+1. Eboards. (`sketches/eboards.md`) (Less substantial than some of
+   the others.)
+
+1. Assessment. Two musings for the price of one?  Experience assessing
+   courses.  Mistrusting assessment.  Split 'em.
+   `assessment-revisited.md` "What's sad is that I really do believe in
+   "closing the loop": Reflect on what you've seen in your classes.
+   Think about what that means you should change.  Make the change.
+   Consider the impact.  Repeat."  But you don't need formalized
+   assessment practices for that loop.  You just need to pay attention,
+   introspect, and discuss. (_Needs rewriting.  Should probably focus
+   on just the mistrust issue._)
 
 Stack-o-musings
 ---------------
 
 ### Next set
-
-1. The evolution of a musing.  (Refers to bad-software musing.)
 
 1. Writing <https://www.chronicle.com/article/The-Tough-Love-Approach-to/242648>
     * Not everyone needs to free write.  Some people write better when
@@ -63,34 +86,43 @@ Stack-o-musings
     * Where is outlining?
     * And yes, I counted "reread the article" in my time spent.
 
-1. The picquiz (maybe)
+1. Textbook orders.
+
+1. Back-to-back classes.  No time to think!
+
+1. Becoming a celebrity (before or after Scarlet and Give Back day).
+
+1. Research opportunities for everyone - It belongs in the catalog.
+   (Draft of a letter to Mike.)  A key part of one of the three pillars.
+   Doesn't that mean that we have a responsibility to promote it
+   in other materials?  It's also a very valuable part of our curriculum,
+   one to which we are devoting resources both human and financial.
 
 1. Teaching CS is teaching writing.  Maybe use all the versions of
    `iota` that I recently covered in class.
 
-1. Forgetting The Joe Stories.  I know and remember a lot. But I also
-   forget a lot.  Names.  Faces.  Things I promised Michelle that I'd
-   do soon.  The syntax and semantics of APL [1].  How I know people.
-   That I once taught a course that included three weeks of PHP [2].
-   I accept that I forget things; there are enough new inputs that I'm
-   not sure that my brain could store anything and I also accept that
-   my memory weakness is likely tied to some positive strength.  But
-   I get sad about forgetting some things.  One such thing are what
-   I call "The Joe Stories".
-   [1] Yes, I took a Computer Graphics in APL course back in 1986 or
-   so.  We even had the nifty IBM terminals that let you type the Greek
-   characters that APL uses.
-   [2] Seriously.  I was ranting about PHP.  An alum said "But you taught
-   me PHP".  [3]
-   [3] I've even forgotten whether or not I've told that story already.
+1. Andrea Conner.  Things I appreciate.  How hard her job is.  Needing
+   to build new relationships.  (I don't have the best relationship
+   with student affairs.  I'm told that some student affairs staff are
+   intimidated by my "crusades".  Andrea is a buffer; she may not like
+   the crusades, but we have a long enough relationship that (a) she
+   knows that my heart is in the right place and (b) she will call me 
+   out appropriately if I behave in a way she thinks is inapropriate.)
 
 1. I love Grinnell.  (Reflections from meeting with Ologie.  I love our
    students.  I love my thoughtful colleagues.  I love the College's
    ability to support many of our students.  Whenever I get frustrated
    with the institution, I have to remember those things.)  [short]
 
+1. To-do list managers.  (Notes are in my notebook.)  But also most of
+   my tasks don't have a firm deadline.
+
 1. Preliminary planning for the new mediascheme version of CSC 151.
    `preliminary-planning-new-mediascheme-csc151.md`.
+
+1. Homework 7 for CSC 151?
+
+1. Looking back on spring break.  `spring-break-2018-retrospective`
 
 1. The value of things.  (The start of a new series on being a packrat.)
    Michelle and I argue about stuff.  A lot.
@@ -113,8 +145,6 @@ Stack-o-musings
    same as the item.
    [1] Amazingly, even thinking about that issue makes me cry.
    [2] Well, probably a half dozen issues.
-
-1. Woody Guthrie Jesus Christ and Jesse James (getting-it-backwards)
 
 1. Bad classroom software, continued.  Carolyn's  quote
    "I would say that the first version of the software-based system significantly changed my experience teaching with technology for the better. In the classrooms I taught in, it made the technology more reliable and the experience of doing what I wanted to do more uniform across classrooms. // My experience this semester has been rocky, but it's hard for me to isolate whether the source of my problems is the software or the hardware. At the same time the software was updated I also started teaching in two completely new classrooms for me--one set up for art (no PC, two screens) and one for music (which seems to have more audio inputs to choose from, in addition to the new options you are writing about with the updated software). So this semester has been a little frustrating, but I've usually been able to get things working, other than the first day when I realized I didn't have a PC available and so couldn't get to the teaching files I have on my H: drive. The mute screen buttons have worked, the coloring of the projection has been a lot better than in JRC. // I'm not sure why I have fallen into writing my own musing here, but that's my field report from Bucksbaum."  In contrast, I find less uniformity and less reliability.  I hate computers.  And, after that musing, I had yet another bad day.
@@ -221,8 +251,6 @@ Stack-o-musings
 
 1. One of the assessment notes (see below).
 
-1. Annotation software?: `sketches/annotating-the-web`.
-
 ### New "soon", normal length or possibly long (teaching)
 
 1. Rubrics.
@@ -234,28 +262,21 @@ Stack-o-musings
 1. Grading Student Projects (See Janet's facebook post on Dec. 19, now at
    the end of this file).
 
-1. Assessment. Two musings for the price of one?  Experience assessing
-   courses.  Mistrusting assessment.  Split 'em.
-   `assessment-revisited.md` "What's sad is that I really do believe in
-   "closing the loop": Reflect on what you've seen in your classes.
-   Think about what that means you should change.  Make the change.
-   Consider the impact.  Repeat."  But you don't need formalized
-   assessment practices for that loop.  You just need to pay attention,
-   introspect, and discuss.
-
-1. Eboards. (`sketches/eboards.md`)
-
 1. Take-home exams.  (Why I give them, etc.)
 
 1. Grading.  <https://www.chronicle.com/article/Why-I-Stopped-Writing-on-My/242477>
 
 ### New "soon", normal length or possibly long (other)
 
+1. <https://www.chronicle.com/article/Another-New-Provost-/242830>
+
 1. Cleaning up my list of forthcoming musings.
 
 1. Scheduling students (for SIGCSE volunteers).  Update, rewrite, or buy?  
    <https://www.shiftboard.com/product/scheduling/>.
    <http://www.cervistech.com/>
+
+1. Losing weight (or the history of my weight).
 
 1. History vs. CS.  Tenure-track jobs.  Alternative opportunities.
 
@@ -304,6 +325,8 @@ Stack-o-musings
 1. Attending academic talks.  (Why I appreciate the abiity to do so.
    How I fit it into my too-busy week.  The tradeoffs involved.  See
    `time-logs-2018-03-05.md`.)
+
+1. The size of the College, revisited.  (What the group concluded, etc.)
 
 ### New "soon", potentially short, teaching topics.
 
@@ -378,8 +401,6 @@ Stack-o-musings
 
 1. Signatures (speeding up my life with those).
 
-1. SIGCSE list workflows.  `sigcse-list-workflow`
-
 1. Sentient and malicious.  See day 3 of CSC 151.
 
 1. The old shotgun apartment.  (Walking by Powell's.  Etc.)
@@ -388,7 +409,7 @@ Stack-o-musings
    A huge change.
 
 1. Inbox zero.  Your Memories on Facebook recently came up with musing
-   #189, "Inbox zero, stage 1."  `inbox-zero-01`.  Boy, was "inbox zero" 
+   189, "Inbox zero, stage 1."  `inbox-zero-01`.  Boy, was "inbox zero" 
    a failure.  Let's see ... as of today ....  WHy?  No system.  Mail
    comes in at an incredibly rapid rate.  Random spam because I have
    "popular" Web pages ("We've written this great resource on copyright;
@@ -406,7 +427,7 @@ Stack-o-musings
 1. Room and Board at Grinnell and elsewhere.  (See the `act-tuition-survey`
    musing for links.)
 
-1. Cpanel?
+1. Cpanel?  The joyful software for the old SIGCAS Web site.
 
 1. Academic geneaology. <http://veblenhouse.blogspot.com/2017/04/the-usefulness-of-useless-knowledge.html>. <http://www.towntopics.com/wordpress/2013/02/06/who-is-oswald-veblen-imagine-princeton-without-the-ias-einstein-herrontown-woods/>. <https://genealogy.math.ndsu.nodak.edu/id.php?id=805>. <http://etcweb.princeton.edu/CampusWWW/Companion/veblen_oswald.html>.  [Moved up]
 
