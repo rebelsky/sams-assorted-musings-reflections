@@ -5,7 +5,7 @@ This past week, I gave my favorite quiz in CSC 151.  I call it the
 "photo quiz".  Students get a set of pictures of their classmates and
 have to identify them by first name. Now, I’m not cruel, so I provide
 them with a list of names.  I’ve given a photo quiz in every section
-of CSC 151 For the past decade or so.
+of CSC 151 for the past five years or so.
 
 Why do I love this quiz?  A few reasons.  Giving the quiz reinforces some
 central concepts: the class is about more than the technical material;
@@ -79,4 +79,6 @@ whether I should consider weekly quizzes in every class.
 
 ---
 
-*Version 1.0 of 2018-03-19.*
+*Version 1.0 released 2018-03-19.*
+
+*Version 1.0.1 of 2018-03-20.*
