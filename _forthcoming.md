@@ -49,8 +49,6 @@ Musings with substantive drafts
 
 _I should finish these some time soon._
 
-1. `checking-my-mac-2018-03-21`
-
 1. My advisory board. (`my-advisory-board`)
 
 1. SIGCSE list workflows.  `sigcse-list-workflow`
@@ -85,6 +83,21 @@ Stack-o-musings
       who polish as they go.)
     * Where is outlining?
     * And yes, I counted "reread the article" in my time spent.
+
+1. Making more work for myself.  I learned that there were a few hundred
+   new SIGCSE members [1].  Joined at the conference.  I thought to myself "Oh,
+   I should let them know about the SIGCSE-members mailing list."  So I
+   sent a mass email [2].  Of course, that means that I need to add all of
+   the folks who respond to the mailing list.  Why do I make more work for
+   myself?  Because it's the right thing to do.  How many did I add?
+   44 within six hours of sending the message.  N the next day.  Set my default
+   signature to the subscription announcement. [3]  Add the occasional extra
+   note for people I know or know of.
+   [1] 563 to be exact.
+   [2] Did you know that our mailer gets upset if you try to send email
+       to more than 500 addresses at once?  I didn't.  But I learned.  So
+       then I split them into two lists, each with the same messages.
+   [3] Some time I'll write about how I use signatures for form-like letters.
 
 1. Textbook orders.
 
@@ -358,6 +371,13 @@ Stack-o-musings
    timeboxed work.  ALl sorts of things.
 
 ### New "soon", potentially short
+
+1. Bridging/interdisciplinary courses.  Which ones would I like to teach?
+   Something on digital humanities with Erik or Sarah.  Someting on
+   digital art with Jeremy, Andrew, and/or Justin.  History of computers
+   with Mike Guenther.  Technology policy as part of policy studies.
+   Piracy :-).  But more than any of those, I'd like to teach Tutorial
+   again.
 
 1. Cascading consequences.  Change in schedule of courses that eliminates
    one of our primary teaching slots.  So we start to move from 4x50
