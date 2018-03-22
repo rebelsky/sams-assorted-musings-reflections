@@ -7,7 +7,7 @@ rants about topics I'm passionate about.  Some are explanations of how
 I approach the world.  Some are just my attempts to think through a topic.
 
 Latest musing:
-[Logging my time (Week eight of Spring Semester 2018)](time-logs-2018-03-20) (Musing #574)
+[Checking my MacBook](checking-my-mac-2018-03-21) (Musing #575)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

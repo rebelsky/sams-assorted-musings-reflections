@@ -529,3 +529,7 @@ Almost everything else
 
 > Gee, I'm old.
 
+[Checking my MacBook](checking-my-mac-2018-03-21) (Musing #575)
+
+> Is it dead?
+
