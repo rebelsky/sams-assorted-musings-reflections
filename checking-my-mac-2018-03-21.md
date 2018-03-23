@@ -167,4 +167,4 @@ habit to document.
 
 ---
 
-*Version 1.0 of 2018-03-19.*
+*Version 1.0 of 2018-03-21.*
