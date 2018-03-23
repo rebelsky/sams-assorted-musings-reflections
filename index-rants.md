@@ -276,3 +276,7 @@ Why Grinnell staff with Ph.D's should be allowed to teach.
 
 > The joy of bottle deposits.
 
+[Annoying paperwork](annoying-paperwork-2018-03-22) (Musing #576)
+
+> Is there any other kind?
+

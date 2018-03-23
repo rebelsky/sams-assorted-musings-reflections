@@ -7,7 +7,7 @@ rants about topics I'm passionate about.  Some are explanations of how
 I approach the world.  Some are just my attempts to think through a topic.
 
 Latest musing:
-[Checking my MacBook](checking-my-mac-2018-03-21) (Musing #575)
+[Annoying paperwork](annoying-paperwork-2018-03-22) (Musing #576)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
