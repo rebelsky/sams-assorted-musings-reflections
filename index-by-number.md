@@ -748,3 +748,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Logging my time (Week eight of Spring Semester 2018)](time-logs-2018-03-20) (Musing #574)  
 [Checking my MacBook](checking-my-mac-2018-03-21) (Musing #575)  
 [Annoying paperwork](annoying-paperwork-2018-03-22) (Musing #576)  
+[Publicizing "Research Opportunities for All"](publicizing-ro4a) (Musing #577)  

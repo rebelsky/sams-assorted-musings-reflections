@@ -2608,6 +2608,10 @@ Almost everything else
 
 > Is it dead?
 
+[Publicizing "Research Opportunities for All"](publicizing-ro4a) (Musing #577)
+
+> It's a great initiative.  Why don't we say more about it?
+
 Musings with multiple entries
 -----------------------------
 
