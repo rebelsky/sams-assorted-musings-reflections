@@ -7,7 +7,7 @@ rants about topics I'm passionate about.  Some are explanations of how
 I approach the world.  Some are just my attempts to think through a topic.
 
 Latest musing:
-[Publicizing "Research Opportunities for All"](publicizing-ro4a) (Musing #577)
+[Perspectives on writing](perspectives-on-writing) (Musing #578)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

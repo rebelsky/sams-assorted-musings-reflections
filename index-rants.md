@@ -280,3 +280,8 @@ Why Grinnell staff with Ph.D's should be allowed to teach.
 
 > Is there any other kind?
 
+[Perspectives on writing](perspectives-on-writing) (Musing #578)
+
+> Arguing for multiple approaches.
+
+
