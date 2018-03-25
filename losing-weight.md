@@ -38,14 +38,15 @@ I'm told that I almost died during recovery.  My post-operation health
 during winter holiday season caused untold stress on my family.  I lost
 feeling in my stomach.  And my body's signalling is still broken.
 
-Over the next few years, my weight crept upward and upward.  Last fall,
-when I was teaching my overload, it jumped up to my pre-weight-loss
-weight.  Everything felt like it was for naught.  But I really had to
-be as huge as I am.  And I still worry about being around for my family.
-So I'm back on the weight-loss trail.  I know it is harder to lose weight
-the second time around.  But I'm trying This time, I'm relying more on
-developing good habits (e.g., no second portions, no stress eating at 11pm
-when I'm still up working, more home-cooked foods) than on special foods.
+Over the next few years, my weight crept upward and upward.  In 2017,
+amidst the stresses of running an under-resourced department and then
+teaching it jumped back up to my pre-weight-loss weight.  Everything
+felt like it was for naught.  But I really had to be as huge as I am.
+And I still worry about being around for my family.  So I'm back on
+the weight-loss trail.  I know it is harder to lose weight the second
+time around.  But I'm trying This time, I'm relying more on developing
+good habits (e.g., no second portions, no stress eating at 11pm when
+I'm still up working, more home-cooked foods) than on special foods.
 I hope that will make a longer-term difference.
 
 As of today, I am N pounds off of my high weight of November 2017 and I
@@ -74,4 +75,4 @@ body is sending me "you are hungry messages".
 
 ---
 
-*Version 1.0 of 2018-03-25.*
+*Version 0.5 of 2018-03-25.*
