@@ -22,6 +22,11 @@ The next end of month musing
   I could write something relatively decent in under an hour.  But I
   suppose I've always [1] been able to spew reasonably coherent text.
   [1] Well, at least since I've been at Grinnell.
+* Really seem to be settling down at about 900-1000 words in most
+  cases.  Sometimes much longer.  Sometimes a bit shorter.  However,
+  I generally find that when I say "I've written the right amount about
+  this topic", it's a bit over 900 words.  (This musing will probably
+  be an exception.)
 * I do worry that my thinking/writing is getting less good.
 * The meta-musing (Evolution of a Musing)
 * Where do I stand on the number of forthcoming musings?  (And how many
@@ -43,6 +48,8 @@ The next end of month musing
   I write to learn.  For example, in musing about [overloads](overloads),
   I realized that one of my objections to early early faclty teaching
   overloads is that they lack the power to negotiate.
+* Had the experience of searching for something at Grinnell and coming
+  up with one of my musings.
 
 Musings with substantive drafts
 -------------------------------
@@ -75,15 +82,6 @@ Stack-o-musings
 
 ### Next set
 
-1. Writing <https://www.chronicle.com/article/The-Tough-Love-Approach-to/242648>
-    * Not everyone needs to free write.  Some people write better when
-      they craft the individual sentences.  (I'd like to see a study, but
-      I expect that while the amount per time spent is more for people
-      who freewrite, the final quality per time spent is more for people
-      who polish as they go.)
-    * Where is outlining?
-    * And yes, I counted "reread the article" in my time spent.
-
 1. Making more work for myself.  I learned that there were a few hundred
    new SIGCSE members [1].  Joined at the conference.  I thought to myself "Oh,
    I should let them know about the SIGCSE-members mailing list."  So I
@@ -92,7 +90,8 @@ Stack-o-musings
    myself?  Because it's the right thing to do.  How many did I add?
    44 within six hours of sending the message.  N the next day.  Set my default
    signature to the subscription announcement. [3]  Add the occasional extra
-   note for people I know or know of.
+   note for people I know or know of.  Probably net gain: faster to do this 
+   en masse then to have to check each one when the ask.  Checking is slow.
    [1] 563 to be exact.
    [2] Did you know that our mailer gets upset if you try to send email
        to more than 500 addresses at once?  I didn't.  But I learned.  So
@@ -113,6 +112,19 @@ Stack-o-musings
 
 1. Teaching CS is teaching writing.  Maybe use all the versions of
    `iota` that I recently covered in class.
+
+1. Flying from Grinnell.  Okay, it's not really possible to fly from
+   Grinnell.  There is an airport, named after a pioneering aviator,
+   but it's fairly small.  Normally, we fly out of Des Moines or
+   Cedar Rapids, each of which are an hour away.  Recently, we were
+   flying to LA.  Our choice was to fly out of Des Moines, do a long
+   layover, and get to LA about midnight, or to drive to Omaha (3 hours
+   instead of one hour) and do a direct flight that got us in about 5pm.
+   (Yes, we were leaving earlier in the day.)  The return trip was also
+   much faster.  Which do you think we chose?  There's a reason that
+   prospective students sometimes say that our location is a reason they
+   don't choose Grinnell.  (Of course, I'm pretty sure that Williams is
+   about as isolated.  Perhaps I'm wrong.)
 
 1. Andrea Conner.  Things I appreciate.  How hard her job is.  Needing
    to build new relationships.  (I don't have the best relationship
@@ -344,6 +356,10 @@ Stack-o-musings
 ### New "soon", potentially short, teaching topics.
 
 1. "Checking in ..." A teaching tip. (and more)
+
+1. I am loath vs I am loathe vs I am loathed.  (I wrote the middle
+   one.  Grammarly suggested the last one.  I realized that I wanted
+   the first one.)
 
 1. "As We May Think", a great paper to read and assign.
 
@@ -703,13 +719,13 @@ General
 order, other than the ones I've come up with more recently tend to be near
 the top.*
 
+1. What Woodstock acts got paid.  <https://priceonomics.com/how-much-did-the-musicians-of-woodstock-get-paid/>
+
 1. The old CSC 151.
 
 1. LBRY.
 
 1. Mindstorms.
-
-1. CSC 322 summary?
 
 1. CS department Outreach.
 
