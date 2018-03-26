@@ -750,3 +750,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Annoying paperwork](annoying-paperwork-2018-03-22) (Musing #576)  
 [Publicizing "Research Opportunities for All"](publicizing-ro4a) (Musing #577)  
 [Perspectives on writing](perspectives-on-writing) (Musing #578)  
+[Textbook orders](textbook-orders) (Musing #579)  

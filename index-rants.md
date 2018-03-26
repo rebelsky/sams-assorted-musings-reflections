@@ -284,4 +284,7 @@ Why Grinnell staff with Ph.D's should be allowed to teach.
 
 > Arguing for multiple approaches.
 
+[Textbook orders](textbook-orders) (Musing #579)
+
+> Does it really make sense to make us do them this early?
 

@@ -7,7 +7,7 @@ rants about topics I'm passionate about.  Some are explanations of how
 I approach the world.  Some are just my attempts to think through a topic.
 
 Latest musing:
-[Perspectives on writing](perspectives-on-writing) (Musing #578)
+[Textbook orders](textbook-orders) (Musing #579)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
