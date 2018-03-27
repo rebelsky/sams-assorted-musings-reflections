@@ -119,7 +119,7 @@ Section 112 (d), if I understand the numbering.
 
 [6] Or perhaps discussed.
 
-[7] I realize that textbook prices steel feel incredibly expensive to 
+[7] I realize that textbook prices still feel incredibly expensive to 
 most students and their parents.  They do to me and I'm (a) a faculty
 member and (b) relatively well off.
 
@@ -147,4 +147,6 @@ and dated 16 March 2018.
 
 ---
 
-*Version 1.0 of 2018-03-25.*
+*Version 1.0 released 2018-03-25.*
+
+*Version 1.0.1 of 2018-03-25.*
