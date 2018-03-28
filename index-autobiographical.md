@@ -203,3 +203,7 @@ About SamR
 
 > Is it more important to remember the context or the content?
 
+[Giving up processed sugar](processed-sugar) (Musing #581)
+
+> Can I really do it?
+

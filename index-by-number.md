@@ -752,3 +752,7 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Perspectives on writing](perspectives-on-writing) (Musing #578)  
 [Textbook orders](textbook-orders) (Musing #579)  
 [Making more work for myself](infodir-post-sigcse) (Musing #580)  
+
+## 581-590
+
+[Giving up processed sugar](processed-sugar) (Musing #581)  
