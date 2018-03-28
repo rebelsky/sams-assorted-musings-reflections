@@ -18,7 +18,7 @@ to be able to say to myself "You don't need that cookie; it will break
 your streak."  I've also realized that I don't really miss cookies,
 cake, and candies nearly as much as I said I would.  I also don't miss
 some sugar-based products that don't start with c's.  I thought I'd
-miss muffins [5].  I was wrong.
+miss muffins [5].  I was wrong.  Or at least I've been wrong so far.
 
 That's not to say that it's been easy.  I miss the opportunity to have
 alcoholic drinks based on ginger beer [6,7].  I also know that when I'm
