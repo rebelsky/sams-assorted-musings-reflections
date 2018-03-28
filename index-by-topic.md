@@ -1112,6 +1112,10 @@ Overcommitment
 
 > A reasonable week, for the first time all semester!
 
+[Making more work for myself](infodir-post-sigcse) (Musing #580)
+
+> Or maybe not.
+
 On teaching 
 -----------
 

@@ -751,3 +751,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Publicizing "Research Opportunities for All"](publicizing-ro4a) (Musing #577)  
 [Perspectives on writing](perspectives-on-writing) (Musing #578)  
 [Textbook orders](textbook-orders) (Musing #579)  
+[Making more work for myself](infodir-post-sigcse) (Musing #580)  
