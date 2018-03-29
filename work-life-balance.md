@@ -124,7 +124,7 @@ panels, inviting speakers, giving talks, coordinating mailing lists,
 mentoring other faculty, and so on and so forth.
 
 Although it is implicit in the prior responsibilities, I will remind you
-that you You have responsibilities to *your colleagues and collaborators*
+that you have responsibilities to *your colleagues and collaborators*
 in the department, the institution, the discipline, and beyond.  Foremost
 of those responsibilities is being clear about what you are and are not
 able to contribute.
@@ -759,4 +759,6 @@ I make significantly less than many people in my industry.
 
 ---
 
-*Version 1.0.1 of 2017-01-28.*
+*Version 1.0.1 released 2017-01-28.*
+
+*Version 1.0.2 of 2018-03-28.*
