@@ -16,7 +16,7 @@ I haven't been losing weight at a greater rate than I was before.
 I don't feel substantially different [3,4].  But it's been kind of nice
 to be able to say to myself "You don't need that cookie; it will break
 your streak."  I've also realized that I don't really miss cookies,
-cake, and candies nearly as much as I said I would.  I also don't miss
+cake, and candies nearly as much as I thought I would.  I also don't miss
 some sugar-based products that don't start with c's.  I thought I'd
 miss muffins [5].  I was wrong.  Or at least I've been wrong so far.
 
@@ -74,4 +74,6 @@ celebrate Easter, and I join them in the celebrations.
 
 ---
 
-*Version 1.0 of 2018-03-27.*
+*Version 1.0 released 2018-03-27.*
+
+*Version 1.0.1 of 2018-03-28.*
