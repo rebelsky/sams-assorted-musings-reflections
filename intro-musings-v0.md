@@ -7,37 +7,47 @@ that even some of my old readers have forgotten the origins of
 new introduction.  Here goes!_
 
 Hi.  I'm Samuel A. Rebelsky (also "Sam" and "SamR").  I teach Computer
-Science [1] at Grinnell College, a small and highly regarded liberal arts 
-college in the middle of Iowa [2].  A few years ago, I decided to take
-some of the things that I was writing as part of my professional life,
-gather them, and post them to a public Web site [3].
-At some point, I decided to post
-something new every day, even if it wasn't quite as important.  
+Science [1] at Grinnell College, a small and excellent liberal arts
+college in the middle of Iowa [2].  I've been there more than twenty years
+and I'm old enough that I sometimes identify as a curmudgeon.  A few
+years ago (mid-April, 2016), I decided to take some of the things that I
+was writing as part of my professional life, gather them, and post them
+to a public Web site [3].  At some point, I decided to post something
+new every day, even if it wasn't quite as important.
 
-These days, you will find that I write about a variety of issues, most
-of which are tied to my academic life or my personal life.  Let's see ...
-Rants (about ...).  Thoughts on teaching techniques.  Drafts of 
-teaching materials (e.g.,
-assignments or readings that I write for class).  Profiles of people I 
-know (haeven't done an in a while; I need to restart those).  
-Meta-writings about the experience of writing these musings.
-Whiney messages about my workload.  Autobiographical comments.
-Different readers (or different groups of readers) appear to appreciate
-different kinds of writing.
+These days, you will find that I write about a variety of issues, most of
+which are tied to my academic life or my personal life.  Different readers
+(or different groups of readers) appear to appreciate different kinds
+of writing.  Let's see ...  Rants (about policies etc. ...).  Thoughts on
+teaching techniques.  Drafts of teaching materials (e.g., assignments or
+readings that I write for class).  Profiles of people I know (haeven't
+done an in a while; I need to restart those).  Meta-writings about the
+experience of writing these musings.  Whiney messages about my workload.
+Autobiographical comments.  Academic life.  Although I lean left, my
+writing is generally not political.
 
 You'll find that these musings, as I call them, have some common
 characteristics: Off the cuff, bad jokes, strange use of endnotes,
 self-referential.  Generally about 1000 words, although you'll see a
 few exceptions in either direction.
 
-Why do I keep doing it?  A few reasons ... I learn by writing.  I enjoy
-it.  Really.  It's something I generally look forward to doing.  I like
-getting ideas down in electrons.  I like thinking while doing it.  I like
-turning the jumble of thoughts in my head to slightly more coherent prose.
-I like reflecting on the writing I am doing.  I like making bad jokes,
-playing with language (once in a while) and playing with footnotes
+Why do I keep doing it?  A lot of reasons, primary of which is that I
+enjoy it.  Really.  It's something I generally look forward to doing.
+I like getting ideas down in electrons.  I like thinking while doing it.
+I like turning the jumble of thoughts in my head to slightly more coherent
+prose.  I like reflecting on the writing I am doing.  I like making bad
+jokes, playing with language (once in a while) and playing with footnotes
 (almost all the time).  Of course, I must admit that there are a few days
-in which my primary enjoyoment is simply that I have written something.)
+in which my primary enjoyoment is simply that I have written something.
+But there's an odd pleasure to breaking through the barrier of "It's
+hard to write today" or "even though I have a list of a few hundred
+potential topics, none of them appeals to me".
+
+I learn by writing.  While I think through many of these issues as part
+of my everyday life (I sometimes worry that I think too much), I find that
+I think very differently when I have to put words to paper and think about
+the flow of ideas.  Having a record also lets me go back and edit and
+refine the ideas.
 
 More reasons.  It provides a model for my students ... one can write
 for fun and one can write to learn, (also good to challenge) even as
@@ -97,4 +107,4 @@ country.
 
 ---
 
-*Version 0.55 of 2018-03-28.*
+*Version 0.58 of 2018-03-29.*
