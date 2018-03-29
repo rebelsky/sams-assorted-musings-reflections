@@ -158,3 +158,7 @@ Overcommitment
 
 > Or maybe not.
 
+[My advisory board](my-advisory-board) (Musing #582)
+
+> Getting help with my tendency toward overcommitment.
+
