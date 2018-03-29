@@ -56,9 +56,9 @@ Musings with substantive drafts
 
 _I should finish these some time soon._
 
-1. My advisory board. (`my-advisory-board`)
+1. An introduction to SamR's Assorted Musings and Rants `intro-musings-v0.md`.
 
-1. SIGCSE list workflows.  `sigcse-list-workflow`
+1. SIGCSE list workflows.  `sigcse-list-workflow`.  
 
 1. Annotation software?: `sketches/annotating-the-web`.
 
@@ -77,38 +77,33 @@ _I should finish these some time soon._
    introspect, and discuss. (_Needs rewriting.  Should probably focus
    on just the mistrust issue._)
 
+1. Losing weight.
+
 Stack-o-musings
 ---------------
 
 ### Next set
 
-1. Making more work for myself.  I learned that there were a few hundred
-   new SIGCSE members [1].  Joined at the conference.  I thought to myself "Oh,
-   I should let them know about the SIGCSE-members mailing list."  So I
-   sent a mass email [2].  Of course, that means that I need to add all of
-   the folks who respond to the mailing list.  Why do I make more work for
-   myself?  Because it's the right thing to do.  How many did I add?
-   44 within six hours of sending the message.  N the next day.  Set my default
-   signature to the subscription announcement. [3]  Add the occasional extra
-   note for people I know or know of.  Probably net gain: faster to do this 
-   en masse then to have to check each one when the ask.  Checking is slow.
-   [1] 563 to be exact.
-   [2] Did you know that our mailer gets upset if you try to send email
-       to more than 500 addresses at once?  I didn't.  But I learned.  So
-       then I split them into two lists, each with the same messages.
-   [3] Some time I'll write about how I use signatures for form-like letters.
-
-1. Textbook orders.
-
 1. Back-to-back classes.  No time to think!
 
-1. Becoming a celebrity (before or after Scarlet and Give Back day).
+1. Two cultures, revisited. 
+   During spring break, I took Middle Son to visit a variety of types
+   of colleges.  One of them was a science-oriented school.  During the
+   Q&A session, someone asked about classes in art.  I found the
+   response disappointing.  There were two parts.  "We have an Art house
+   that runs weekly three-hour sessions in which you can work on things
+   like screenprinting."  And "There are a lot of walls on which you can
+   make murals."  Those sound like exciting opportunities, don't they?
+   So why was I disappointed?  Because opportunities to do art are not
+   the same thing as real stuio art classes.  A good studio class gives
+   you feedback through crits, exposes you to other artists and other ways
+   of thinking about making art, and challenges you to improve yourself.
+   Opportunities to make art *can* give you some of those things, but
+   generally not at the level you get from a class.  And what was 
+   disappointing to me was that those answering the questions didn't
+   seem to see the difference.  
 
-1. Research opportunities for everyone - It belongs in the catalog.
-   (Draft of a letter to Mike.)  A key part of one of the three pillars.
-   Doesn't that mean that we have a responsibility to promote it
-   in other materials?  It's also a very valuable part of our curriculum,
-   one to which we are devoting resources both human and financial.
+1. Becoming a celebrity (before or after Scarlet and Give Back day).
 
 1. Teaching CS is teaching writing.  Maybe use all the versions of
    `iota` that I recently covered in class.
@@ -133,6 +128,11 @@ Stack-o-musings
    the crusades, but we have a long enough relationship that (a) she
    knows that my heart is in the right place and (b) she will call me 
    out appropriately if I behave in a way she thinks is inapropriate.)
+
+1. Roles and Responsibilities.  (So that I know what I'll have to
+   cut when I add my next role or responsibility.)
+
+1. Favorite musings (or selected musings).
 
 1. I love Grinnell.  (Reflections from meeting with Ologie.  I love our
    students.  I love my thoughtful colleagues.  I love the College's
@@ -223,43 +223,13 @@ Stack-o-musings
   support a student who is having severe difficulties, writing a series
   of recommendation letters, ....  My [recent musing about spring break](planning-spring-break-2018) just reinforces that.  I currently have something like 240 hours of outstanding work to do.  ...
 
-1. Giving up processed sugar.  At the end of SIGCSE (25 February 2018,
-   if I remember correctly), a friend mentioned to me that they'd done
-   their best to give up processed sugar from their lives.  No cookies.
-   No cake.  No candy.  No soda.  They accept that they will sometimes
-   have food, like spaghetti sauce, that adds process sugar.  I know
-   that processed sugar isn't good for me [1], so I thought I'd see what
-   it would be like to give up sugar.  I've been mostly avoiding
-   processed sugar ever since.  I'm trying to figure out how much of
-   a difference it's making.  I haven't been losing weight at a greater
-   rate than I was before.  I don't feel substantially different [2].
-   But it's been kind of nice to be able to say to myself "You don't need
-   that cookie; it will break your streak."  And I've realized that I
-   don't really miss cookies, cake, and candies all that much.  I do,
-   however, miss the opportunity to have a drink based on ginger beer [3,4].
-   I also know that when I'm sick, syrupy colas and ginger ale often
-   feel really good.  But I think I can do without them.
-   Are there things that I expect that I expect I will miss more?  Certainly.
-   Muffins.  Ice cream.  Good chocolate.  However, in the end, someting
-   inside me tells me that I'm better off without processed sugar, at
-   least for now.
-   What will I give up next?  I should probably can artificial sweeteners,
-   too.
-   [1] Corn syrup is even worse.
-   [2] Well, I do feel more tired.  But I don't think the two are
-   related.
-   [3] I like ginger beer and tequila, which I think some people call
-   a Jalisco Mule.
-   [4] I don't think I'll be completely sugar free in my drinks.  It's
-   hard to resist an Old Fashioned or a Margarita, for example.
-
 ### Almost immediate (?)
 
 1. Cleaning a GitHub repo.
 
 1. <https://www.nytimes.com/2018/03/05/smarter-living/today-do-that-one-thing-youve-been-putting-off.html>
 
-1. Endnotes in electronic documents (From "the end of ownership").  And how
+1. Endnotes in electronic documents (From "the end of ownership", which distributes chapter 1, except without the endnotes).  And how
   we read.
 
 1. The Hartl questions.  (Went from "Do the work; reflect."  To "Do the work, share it with me, reflect *on these particular questions*.  Take a long time to write, since I have to go through the whole chapter again, picking out the important things behind the scenes.)
@@ -388,12 +358,30 @@ Stack-o-musings
 
 ### New "soon", potentially short
 
+1. "Tell X I say hi."  It happened when I was visiting some colleges
+   with youngest.  (You're at Grinnell?  Tell X I say "Hi".)  Students
+   tell me alumni say it to them.  (That is, the alums say something like
+   "Is SamR still at Grinnell?  If so, send my regards.")  I do it, too.
+   But *why*?  Many of those messages get lost.  ("Which alum says hi?
+   I don't know; I talked to a lot.  But many of them say hi.")  And it
+   doesn't take that much longer to send the regards yourself.  So the
+   natural thing to do would be to follow up the "send my regards to X"
+   with a note sending your own regards.  I'm trying to do that myself.
+1. "faculty" - singular or plural verb forms?
+   http://www.dictionary.com/e/collective-nouns/.  When I write things
+   like "faculty have chosen", Grammarly always tells me to use "faculty
+   *has* chosen".  But that feels wrong to me.  So I change my text
+   to "faculty *members* have chosen", which makes both of us happy.
+   But do I really have to change?  Let's see what the InterWeb tells me.
+
 1. Bridging/interdisciplinary courses.  Which ones would I like to teach?
    Something on digital humanities with Erik or Sarah.  Someting on
    digital art with Jeremy, Andrew, and/or Justin.  History of computers
    with Mike Guenther.  Technology policy as part of policy studies.
    Piracy :-).  But more than any of those, I'd like to teach Tutorial
    again.
+
+1. Using mail signatures as templates.
 
 1. Cascading consequences.  Change in schedule of courses that eliminates
    one of our primary teaching slots.  So we start to move from 4x50
