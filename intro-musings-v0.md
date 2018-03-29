@@ -31,12 +31,18 @@ self-referential.  Generally about 1000 words, although you'll see a
 few exceptions in either direction.
 
 Why do I keep doing it?  A few reasons ... I learn by writing.  I enjoy
-it.  (While there are many days that I enjoy the writing, I will admit
-that there are a few days in which my primary enjoyoment is simply that
-I have written something.)  It provides a model for my students ... one
-can write for fun and one can write to learn, (also good to challenge)
-even as an old professional.  Provides some information about the current
-me for the future me and for my kids.  (Yeah, sometimes I'm maudlin.)
+it.  Really.  It's something I generally look forward to doing.  I like
+getting ideas down in electrons.  I like thinking while doing it.  I like
+turning the jumble of thoughts in my head to slightly more coherent prose.
+I like reflecting on the writing I am doing.  I like making bad jokes,
+playing with language (once in a while) and playing with footnotes
+(almost all the time).  Of course, I must admit that there are a few days
+in which my primary enjoyoment is simply that I have written something.)
+
+More reasons.  It provides a model for my students ... one can write
+for fun and one can write to learn, (also good to challenge) even as
+an old professional.  Provides some information about the current me
+for the future me and for my kids.  (Yeah, sometimes I'm maudlin.)
 Communicate to non-faculty about what faculty work life is like (or at
 least what one faculty member's work life is like).  A few may even make
 some people happy.
@@ -91,4 +97,4 @@ country.
 
 ---
 
-*Version 0.5 of 2018-03-28.*
+*Version 0.55 of 2018-03-28.*
