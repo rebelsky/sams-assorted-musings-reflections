@@ -10,7 +10,7 @@ together the various answers I've provided over the years.*
 
 Believe it or not, but the core areas of CS study should be the same at
 most institutions, whether liberal arts colleges or large universities.
-Both large institutions and small institutions share the a set of
+Both large institutions and small institutions share a set of
 curricular recommendations from the Association of Computing Machinery
 and the IEEE Computer Society [1], and do their best to meet those
 recommendations.  Students need to study algorithms and data structures,
@@ -23,18 +23,17 @@ So, what's different?
 In general, a liberal arts college is more likely to give you smaller
 classes with direct connection to your professors.  (Our largest class is
 38, and most are 24 or under; many large institutions have a few hundred
-students in the introductory course and about one hundred in the mid-
-and upper-level courses.)
-At a small liberal arts college, you are likely to get to know
-your faculty well, and they are as likely to get to know you well.  I
-know that my students feel free to stop by my office and chat about a
-wide variety of things, not just course material or academic planning,
-but also cool ideas or projects that they have been exploring and want 
-to think more about, or just to talk casually about whatever comes up.
-(I will admit that there are times I am less tolerant of casual chat,
-particularly when my "to do" list has gotten too long, or other students
-are waiting for more focused appointments.  But I do like the open-ended
-chats when I have time for them.)
+students in the introductory course and between fifty and one hundred
+in the mid- and upper-level courses.)  At a small liberal arts college,
+you are likely to get to know your faculty well, and they are as likely
+to get to know you well.  I know that my students feel free to stop by my
+office and chat about a wide variety of things, not just course material
+or academic planning, but also cool ideas or projects that they have
+been exploring and want to think more about, or just to talk casually
+about whatever comes up.  (I will admit that there are times I am less
+tolerant of casual chat, particularly when my "to do" list has gotten
+too long, or other students are waiting for more focused appointments.
+But I do like the open-ended chats when I have time for them.)
 
 At a large university, you may have the opportunity to take a wider
 variety of elective classes.  You may also have the opportunity to
@@ -54,10 +53,10 @@ liberal arts colleges, like Grinnell, also have active research programs
 and will often involve undergraduates in their research.  I think the
 odds of being on a faculty research project are higher at a small college,
 but I have not done a careful study to show that.  I can say that about
-20 CS students are staying to do research at Grinnell this summer, and
+20 CS students are staying to do research at Grinnell this summer [2], and
 that strikes me as a lot for a school of our size.
 
-However, I'll admit that I don't think you should choose a school based
+I'll admit that I don't think you should choose a school based
 on its CS program (even though I think Grinnell's is awesome).  Rather,
 you should decide whether the overall curriculum at the institution meets
 your needs and whether the faculty and your peers will challenge you
@@ -72,7 +71,7 @@ Paul Graham, an essayist and computer scientist I greatly admire, wrote
 in 2005 that he would discourage students from going to a liberal arts
 college if they were interested in graduate school.
 
-> So if you want to get into grad school in the sciences, you need to go to college somewhere with real research professors. Otherwise you'll seem a risky bet to admissions committees, no matter how good you are.  Which implies a surprising but apparently inevitable consequence: little liberal arts colleges are doomed. [2]
+> So if you want to get into grad school in the sciences, you need to go to college somewhere with real research professors. Otherwise you'll seem a risky bet to admissions committees, no matter how good you are.  Which implies a surprising but apparently inevitable consequence: little liberal arts colleges are doomed. [3]
 
 I think things have changed in the past decade.  First, many faculty at
 liberal arts colleges (at least the top liberal arts colleges) are known
@@ -95,7 +94,7 @@ My colleague, Janet Davis, reminds me that a disproportionate
 number of STEM Ph.D.'s come from small liberal arts
 colleges.  A [recent report from the National Science
 Foundation](http://www.nsf.gov/statistics/infbrief/nsf13323/#tab4)
-[3] ranks Grinnell 7th per capita among schools from which science and
+[4] ranks Grinnell 7th per capita among schools from which science and
 engineering Ph.D.'s received their bachelors degrees.  Also in the top
 ten institutions are Harvey Mudd, Reed, Swarthmore, and Carleton.
 
@@ -135,12 +134,19 @@ Machinery (ACM) and IEEE Computer Society.  _Computer Science Curricula
 Science_.  December 20, 2013.
 <https://www.acm.org/education/CS2013-final-report.pdf>
 
-[2] Paul Graham.  "Undergraduation".  March 2005.
+[2] We had about twenty in summer 2016.  We had about thirty in summer
+2017.  We'll also have close to thirty in summer 2018.  It all depends
+on how many faculty are around to take research students and how many
+research students they can accommodate.
+
+[3] Paul Graham.  "Undergraduation".  March 2005.
 <http://www.paulgraham.com/college.html>
 
-[3] National Science Foundation.  _Baccalaureate Origins of U.S.-trained S&E Doctorate Recipients_, Table 4: Top 50 U.S. baccalaureate-origin institutions of 2002–11 S&E doctorate recipients, by institutional-yield ratio, institutional control, and 2010 Carnegie classification.  April 2013.
+[4] National Science Foundation.  _Baccalaureate Origins of U.S.-trained S&E Doctorate Recipients_, Table 4: Top 50 U.S. baccalaureate-origin institutions of 2002–11 S&E doctorate recipients, by institutional-yield ratio, institutional control, and 2010 Carnegie classification.  April 2013.
 <http://www.nsf.gov/statistics/infbrief/nsf13323/#tab4>. 
 
 ---
 
-*Version 1.2.1 of 2016-04-25*
+*Version 1.2.1 released 2016-04-25.*
+
+*VErsion 1.3.0 released 2018-03-30.*
