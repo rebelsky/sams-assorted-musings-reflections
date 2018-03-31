@@ -757,3 +757,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 
 [Giving up processed sugar](processed-sugar) (Musing #581)  
 [My advisory board](my-advisory-board) (Musing #582)  
+[Back-to-back classes](back-to-back-classes) (Musing #583)  

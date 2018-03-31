@@ -68,3 +68,7 @@ online, but they will soon expand to more general issues about teaching._
 
 > One of my favorite quizzes.
 
+[Back-to-back classes](back-to-back-classes) (Musing #583)
+
+> Even more challenging for faculty than they are for students.
+
