@@ -7,7 +7,7 @@ rants about topics I'm passionate about.  Some are explanations of how
 I approach the world.  Some are just my attempts to think through a topic.
 
 Latest musing: 
-[Back-to-back classes](back-to-back-classes) (Musing #583)
+[Course tags and other alternatives](course-tags-2018-03-30) (Musing #584)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

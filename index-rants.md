@@ -288,3 +288,7 @@ Why Grinnell staff with Ph.D's should be allowed to teach.
 
 > Does it really make sense to make us do them this early?
 
+[Course tags and other alternatives](course-tags-2018-03-30) (Musing #584)
+
+> Can't we find better ways to understand the curricula our students design?
+
