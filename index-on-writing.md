@@ -268,3 +268,7 @@ Essays on writing, or at least on writing my essays
 
 > From muse to musing.
 
+[Another month of daily musings](another-month-2018-03) (Musing #585)
+
+> What did I learn from musing this month?
+

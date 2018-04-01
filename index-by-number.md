@@ -759,3 +759,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [My advisory board](my-advisory-board) (Musing #582)  
 [Back-to-back classes](back-to-back-classes) (Musing #583)  
 [Course tags and other alternatives](course-tags-2018-03-30) (Musing #584)  
+[Another month of daily musings](another-month-2018-03) (Musing #585)  
