@@ -10,57 +10,21 @@ The next weekly log
 The next end of month musing
 ----------------------------
 
-* It appears that I am still staying exactly 310 musings ahead of last 
-  year.  I think the lost musings were more likely in fall, so it's going
-  to take some time until I'm officially 365 musing ahead.  I was tempted
-  to write an extra one or two once in a while to get a bit ahead.
-  Then I realized that if I did so, a year from now I would go from
-  being 365 musings ahead to 365-x musings ahead.  That seems wrong.
-* Got confused when I had a day in which I had no time to muse.  (Ended
-  up doing two the next day.)
-* Am I writing faster?  Jerod needed a one-page description of CSC 326.
-  I could write something relatively decent in under an hour.  But I
-  suppose I've always [1] been able to spew reasonably coherent text.
-  [1] Well, at least since I've been at Grinnell.
-* Really seem to be settling down at about 900-1000 words in most
-  cases.  Sometimes much longer.  Sometimes a bit shorter.  However,
-  I generally find that when I say "I've written the right amount about
-  this topic", it's a bit over 900 words.  (This musing will probably
-  be an exception.)
-* I do worry that my thinking/writing is getting less good.
-* The meta-musing (Evolution of a Musing)
-* Where do I stand on the number of forthcoming musings?  (And how many
-  lines are in the file?)
-    * Can I rearrange the lsit of forthcoming musings first?
-* A few really disjoint and/or last-minute musings.
-* I keep falling behind on things I want to write.  Sometimes that's
-  because of things like [An unexpected musing that was longer than normal](overloads).
-  How long did it take to respond to that piece on writing?
-  The "evolution of a musing" musing took more than a week to finish
-  from the original version.
-  The CodeCademy Ruby Tutorial got delayed for half a semester.
-* Comment from someone who I did not know read me: "As a relatively new
-  faculty member, I appreciate the alternate narrative to what I hear 
-  from the administration."
-* Colleague: "People ask me if I"ve read what you've written recently.
-  You do intend to provoke conversation, right?"  Maybe once in a while.
-  But I generaly write for other reasons.  I write to have written.
-  I write to learn.  For example, in musing about [overloads](overloads),
-  I realized that one of my objections to early early faclty teaching
-  overloads is that they lack the power to negotiate.
-* Had the experience of searching for something at Grinnell and coming
-  up with one of my musings.
+* Start adding topics/tags at the top?
+* Wrote a new introduction (?, I hope)
+* Status of list of forthcoming musings (rearranged, I hope; changes to
+  total number?  Added tags?)
 
 Musings with substantive drafts
 -------------------------------
 
 _I should finish these some time soon._
 
+1. Annotation software?: `sketches/annotating-the-web`.  (Maybe Sunday night.)
+
 1. An introduction to SamR's Assorted Musings and Rants `intro-musings-v0.md`.
 
 1. SIGCSE list workflows.  `sigcse-list-workflow`.  
-
-1. Annotation software?: `sketches/annotating-the-web`.
 
 1. Woody Guthrie Jesus Christ and Jesse James (`getting-it-backwards`)
 
@@ -79,12 +43,30 @@ _I should finish these some time soon._
 
 1. Losing weight.
 
+1. Peoples' names. (`misnaming.md`)
+
 Stack-o-musings
 ---------------
 
-### Next set
+### Plan for the week
 
-1. Back-to-back classes.  No time to think!
+1. Annotation software (Sunday?)
+
+1. Scarlet and Give Back day (Monday?)
+
+1. Looking back on spring break.  `spring-break-2018-retrospective` (Tuesday?)
+
+1. Elaine Marzluff (Wednesday?)
+
+1. Tagging the musings. (Thursday?)
+
+1. An introduction.  (Friday?)
+
+1. The new CSC 151 assignment.  (Saturday?)
+
+1. Grading software. (Sunday?)
+
+### Next set
 
 1. Two cultures, revisited. 
    During spring break, I took Middle Son to visit a variety of types
@@ -145,10 +127,6 @@ Stack-o-musings
 1. Preliminary planning for the new mediascheme version of CSC 151.
    `preliminary-planning-new-mediascheme-csc151.md`.
 
-1. Homework 7 for CSC 151?
-
-1. Looking back on spring break.  `spring-break-2018-retrospective`
-
 1. The value of things.  (The start of a new series on being a packrat.)
    Michelle and I argue about stuff.  A lot.
    Anyone who knows me knows that I accumulate.  I accumulate for a
@@ -171,6 +149,26 @@ Stack-o-musings
    [1] Amazingly, even thinking about that issue makes me cry.
    [2] Well, probably a half dozen issues.
 
+1. Giving up meat.  I was talking to an alum and his family about [my
+decision to give up sugar](processed-sugar) and my realization that I
+don't miss sweets nearly as much as I thought I would.  After a month,
+I don't really crave them.  His insightful sister suggested that if I
+could do without sugar, perhaps I should consider doing without meat,
+too.  That's a hard question.  But I did think to myself "should I try?"
+This musing is my attempt to think through the issues.  I like meat (at
+least I think I do).  And I really seem to do better with a high-protein
+diet.  But I accept that there a variety of reasons not to eat meat, some
+moral and some physical/health.  Moral: Equality of animals.  I accept
+that we are biologically omnivores and that other creatues would eat us.
+Treatment of animals.  Worries me more, but not enough.  Resource use.
+Cutting my resource use is a good plan.  (One of sons notes that we
+live in the breadbasket.  But cutting resource use is still good.)
+Health.  Traditionally evidence that too much red meat is not good
+for you.  Increased effects of vaccines and such.  Less would be good.
+Increased cooking effort for protein.  Harder for me, since nuts are a
+common source, and I'm allergic.  Deciding on limits.  Eggs?  Milk?  Fish?
+Okay to deviate once in a while?  Nuts.
+
 1. Bad classroom software, continued.  Carolyn's  quote
    "I would say that the first version of the software-based system significantly changed my experience teaching with technology for the better. In the classrooms I taught in, it made the technology more reliable and the experience of doing what I wanted to do more uniform across classrooms. // My experience this semester has been rocky, but it's hard for me to isolate whether the source of my problems is the software or the hardware. At the same time the software was updated I also started teaching in two completely new classrooms for me--one set up for art (no PC, two screens) and one for music (which seems to have more audio inputs to choose from, in addition to the new options you are writing about with the updated software). So this semester has been a little frustrating, but I've usually been able to get things working, other than the first day when I realized I didn't have a PC available and so couldn't get to the teaching files I have on my H: drive. The mute screen buttons have worked, the coloring of the projection has been a lot better than in JRC. // I'm not sure why I have fallen into writing my own musing here, but that's my field report from Bucksbaum."  In contrast, I find less uniformity and less reliability.  I hate computers.  And, after that musing, I had yet another bad day.
 
@@ -190,8 +188,6 @@ Stack-o-musings
    <https://implicit.harvard.edu/implicit/>
    <http://www.lookdifferent.org/what-can-i-do/bias-cleanse>
    What about weight and age and ...?
-
-1. Peoples' names.
 
 1. SIGACT submission system?
 
@@ -229,8 +225,7 @@ Stack-o-musings
 
 1. <https://www.nytimes.com/2018/03/05/smarter-living/today-do-that-one-thing-youve-been-putting-off.html>
 
-1. Endnotes in electronic documents (From "the end of ownership", which distributes chapter 1, except without the endnotes).  And how
-  we read.
+1. Endnotes in electronic documents (From "the end of ownership", which distributes chapter 1, except without the endnotes).  And how we read.
 
 1. The Hartl questions.  (Went from "Do the work; reflect."  To "Do the work, share it with me, reflect *on these particular questions*.  Take a long time to write, since I have to go through the whole chapter again, picking out the important things behind the scenes.)
 
@@ -580,7 +575,7 @@ Stack-o-musings
 
 1. BBC micro:bit
 
-A series on fun books?
+### A series on fun books?
 
 1. CLC 17 - Contemporary Literary Criticism
 
@@ -590,7 +585,7 @@ A series on fun books?
 
 1. The legendary yearbook (Grinnell)
 
-All those outstanding anniversary musings (if it's not too late)
+### All those outstanding anniversary musings (if it's not too late)
 
 1. Favorites.
 
@@ -1081,8 +1076,6 @@ pamphlets)
 1. Laura Nelson Lof
 
 1. David Lopatto
-
-1. Elaine Marzluff
 
 1. Joe Mileti
 
