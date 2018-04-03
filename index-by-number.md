@@ -760,3 +760,5 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Back-to-back classes](back-to-back-classes) (Musing #583)  
 [Course tags and other alternatives](course-tags-2018-03-30) (Musing #584)  
 [Another month of daily musings](another-month-2018-03) (Musing #585)  
+[Annotating the Web](annotating-the-web) (Musing #586)  
+[Scarlet and give back day 2018](scarlet-and-give-back-day-2018) (Musing #587)  

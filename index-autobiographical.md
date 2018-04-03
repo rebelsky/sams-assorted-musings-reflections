@@ -1,12 +1,6 @@
 Autobiographical essays, more or less
 =====================================
 
-About SamR
-- *Forthcoming*
-
-> At some point, I should probably write something else autobiographical.
-  I seem to be sneaking in aspects of myself above.
-
 [On being a curmudgeon](curmudgeon) (Essay #64)
 
 > What I'm like as a person, or at least a person on campus.
@@ -206,4 +200,8 @@ About SamR
 [Giving up processed sugar](processed-sugar) (Musing #581)
 
 > Can I really do it?
+
+[Annotating the Web](annotating-the-web) (Musing #586)
+
+> Early research projects.
 

@@ -537,3 +537,7 @@ Almost everything else
 
 > It's a great initiative.  Why don't we say more about it?
 
+[Scarlet and give back day 2018](scarlet-and-give-back-day-2018) (Musing #587)
+
+> Please give.
+

@@ -1849,12 +1849,6 @@ Mixtapes
 Autobiographical essays, more or less
 -------------------------------------
 
-About SamR
-- *Forthcoming*
-
-> At some point, I should probably write something else autobiographical.
-  I seem to be sneaking in aspects of myself above.
-
 [On being a curmudgeon](curmudgeon) (Essay #64)
 
 > What I'm like as a person, or at least a person on campus.
@@ -2054,6 +2048,10 @@ About SamR
 [Giving up processed sugar](processed-sugar) (Musing #581)
 
 > Can I really do it?
+
+[Annotating the Web](annotating-the-web) (Musing #586)
+
+> Early research projects.
 
 Salary reviews
 --------------
@@ -2643,6 +2641,10 @@ Almost everything else
 [Publicizing "Research Opportunities for All"](publicizing-ro4a) (Musing #577)
 
 > It's a great initiative.  Why don't we say more about it?
+
+[Scarlet and give back day 2018](scarlet-and-give-back-day-2018) (Musing #587)
+
+> Please give.
 
 Musings with multiple entries
 -----------------------------

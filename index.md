@@ -7,7 +7,7 @@ rants about topics I'm passionate about.  Some are explanations of how
 I approach the world.  Some are just my attempts to think through a topic.
 
 Latest musing: 
-[Another month of daily musings](another-month-2018-03) (Musing #585)
+[Scarlet and give back day 2018](scarlet-and-give-back-day-2018) (Musing #587)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
