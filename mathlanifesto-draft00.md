@@ -171,9 +171,11 @@ issues that caused me to reflect for more than a moment.
   me to write "the source code".  It's wrong.
 
 That was fun, but probably not a good use of my time.  If I paid for
-their premiumv ersion, I could learn about six advanced issues.  It
+their premium version, I could learn about six advanced issues.  It
 doesn't seem worth it.
 
 ---
 
-*Version 1.0.1 of 2017-02-22.*
+*Version 1.0.1 released 2017-02-22.*
+
+*Version 1.0.2 of 2018-04-03.*
