@@ -1132,6 +1132,10 @@ Overcommitment
 
 > What got done during the sixteen days of spring break and what I learned from paying attention.
 
+[Facebook reminders](facebook-reminders-2018-04-05) (Musing #590)
+
+> Remembering bad decisions.
+
 On teaching 
 -----------
 

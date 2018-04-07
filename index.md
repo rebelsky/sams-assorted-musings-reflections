@@ -7,7 +7,7 @@ rants about topics I'm passionate about.  Some are explanations of how
 I approach the world.  Some are just my attempts to think through a topic.
 
 Latest musing: 
-[Excavating the office](excavating-the-office-2018-04-04) (Musing #589)
+[Facebook reminders](facebook-reminders-2018-04-05) (Musing #590)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
