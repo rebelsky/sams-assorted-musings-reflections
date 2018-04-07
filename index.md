@@ -7,7 +7,7 @@ rants about topics I'm passionate about.  Some are explanations of how
 I approach the world.  Some are just my attempts to think through a topic.
 
 Latest musing: 
-[Facebook reminders](facebook-reminders-2018-04-05) (Musing #590)
+[Two cultures, revisited](two-cultures-revisited) (Musing #591)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

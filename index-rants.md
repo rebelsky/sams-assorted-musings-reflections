@@ -292,3 +292,7 @@ Why Grinnell staff with Ph.D's should be allowed to teach.
 
 > Can't we find better ways to understand the curricula our students design?
 
+[Two cultures, revisited](two-cultures-revisited) (Musing #591)
+
+> Misunderstanding other disciplines.
+
