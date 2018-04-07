@@ -762,4 +762,5 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Another month of daily musings](another-month-2018-03) (Musing #585)  
 [Annotating the Web](annotating-the-web) (Musing #586)  
 [Scarlet and give back day 2018](scarlet-and-give-back-day-2018) (Musing #587)  
-[Reflections on spring break 2018](spring-break-refections-2018) (Musing #588)  
+[Reflections on spring break 2018](spring-break-reflections-2018) (Musing #588)  
+[Excavating the office](excavating-the-office-2018-04-04) (Musing #589)  

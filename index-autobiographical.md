@@ -205,3 +205,7 @@ Autobiographical essays, more or less
 
 > Early research projects.
 
+[Excavating the office](excavating-the-office-2018-04-04) (Musing #589)
+
+> Things that gather in boxes.
+

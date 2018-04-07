@@ -1128,7 +1128,7 @@ Overcommitment
 
 > Getting help with my tendency toward overcommitment.
 
-[Reflections on spring break 2018](spring-break-refections-2018) (Musing #588)
+[Reflections on spring break 2018](spring-break-reflections-2018) (Musing #588)
 
 > What got done during the sixteen days of spring break and what I learned from paying attention.
 
@@ -2056,6 +2056,10 @@ Autobiographical essays, more or less
 [Annotating the Web](annotating-the-web) (Musing #586)
 
 > Early research projects.
+
+[Excavating the office](excavating-the-office-2018-04-04) (Musing #589)
+
+> Things that gather in boxes.
 
 Salary reviews
 --------------

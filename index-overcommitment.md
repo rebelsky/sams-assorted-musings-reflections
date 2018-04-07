@@ -162,7 +162,7 @@ Overcommitment
 
 > Getting help with my tendency toward overcommitment.
 
-[Reflections on spring break 2018](spring-break-refections-2018) (Musing #588)
+[Reflections on spring break 2018](spring-break-reflections-2018) (Musing #588)
 
 > What got done during the sixteen days of spring break and what I learned from paying attention.
 
