@@ -296,3 +296,7 @@ Why Grinnell staff with Ph.D's should be allowed to teach.
 
 > Misunderstanding other disciplines.
 
+[Getting requirements wrong](getting-requirements-wrong) (Musing #592)
+
+> I am frustrated that we don't express core requirements correctly.
+

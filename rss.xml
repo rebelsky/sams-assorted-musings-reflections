@@ -7,6 +7,13 @@
       A curmudgeonly faculty member in computer science writes about a variety of topics.
     </description>
     <item>
+      <title>Musing #592: Getting requirements wrong</title>
+      <link>https://www.cs.grinnell.edu/~rebelsky/musings/getting-requirements-wrong</link>
+      <guid>https://www.cs.grinnell.edu/~rebelsky/musings/getting-requirements-wrong</guid>
+      <pubDate>Sun, 08 Apr 2018 03:31:13 GMT</pubDate>
+      <description>I am frustrated that we don't express core requirements correctly.</description>
+    </item>
+    <item>
       <title>Musing #591: Two cultures, revisited</title>
       <link>https://www.cs.grinnell.edu/~rebelsky/musings/two-cultures-revisited</link>
       <guid>https://www.cs.grinnell.edu/~rebelsky/musings/two-cultures-revisited</guid>
@@ -215,27 +222,6 @@
       <guid>https://www.cs.grinnell.edu/~rebelsky/musings/bad-classroom-software-2018-03-08</guid>
       <pubDate>Fri, 09 Mar 2018 05:02:54 GMT</pubDate>
       <description>Something that makes it harder to teach.</description>
-    </item>
-    <item>
-      <title>Musing #561: My favorite mug</title>
-      <link>https://www.cs.grinnell.edu/~rebelsky/musings/my-favorite-mug</link>
-      <guid>https://www.cs.grinnell.edu/~rebelsky/musings/my-favorite-mug</guid>
-      <pubDate>Thu, 08 Mar 2018 05:40:50 GMT</pubDate>
-      <description>A quick musing for a late night.</description>
-    </item>
-    <item>
-      <title>Musing #560: Class wrappers</title>
-      <link>https://www.cs.grinnell.edu/~rebelsky/musings/patterns-wrappers</link>
-      <guid>https://www.cs.grinnell.edu/~rebelsky/musings/patterns-wrappers</guid>
-      <pubDate>Wed, 07 Mar 2018 00:42:00 GMT</pubDate>
-      <description>One of my favorite categories of design patterns.</description>
-    </item>
-    <item>
-      <title>Musing #559: Logging my time (Week six of Spring Semester 2018)</title>
-      <link>https://www.cs.grinnell.edu/~rebelsky/musings/time-logs-2018-03-05</link>
-      <guid>https://www.cs.grinnell.edu/~rebelsky/musings/time-logs-2018-03-05</guid>
-      <pubDate>Tue, 06 Mar 2018 03:13:35 GMT</pubDate>
-      <description>Getting sick.</description>
     </item>
   </channel>
 </rss>
