@@ -4,23 +4,34 @@ Some forthcoming musings
 The next weekly log
 -------------------
 
-* It's spring break, so the log will be different than normal (or should
-  be different than normal).  I'm planning an end-of-break report.
+* Interaction with to-do list?  I'd mentioned that ...
+* Getting back in habit after break.
 
 The next end of month musing
 ----------------------------
 
-* Start adding topics/tags at the top?
+* Start adding topics/tags at the top.
+* Added Hypothes.is.  Broke things.
 * Wrote a new introduction (?, I hope)
 * Status of list of forthcoming musings (rearranged, I hope; changes to
-  total number?  Added tags?)
+  total number?  Added potential tags?)
+* When I had to talk about CSC 321/22 recently, it was helpful to have
+  spent some time writing about it.  I think it made me more articulate.
+  (Of course, I also talk about CSC 321/22 a lot.  So perhaps not.)
+* Tried planning a week in advance.  Quickly got disrupted.  Nights
+  in which I needed short musings.  One or two musings that needed
+  external approval (those are rare).
+* Writing the long rant on [Getting requirements
+  wrong](getting-requirements-wrong) ended up being a useful exercise.
+  I explained to myself why I care about these issues.  I learned that we've
+  explicitly exempted some majors from the department limit.  I began to
+  think about the issue for Math/Stats.  Of course, when I started writing
+  it, I thought it would be a short rant.
 
 Musings with substantive drafts
 -------------------------------
 
 _I should finish these some time soon._
-
-1. Annotation software?: `sketches/annotating-the-web`.  (Maybe Sunday night.)
 
 1. An introduction to SamR's Assorted Musings and Rants `intro-musings-v0.md`.
 
@@ -48,47 +59,83 @@ _I should finish these some time soon._
 Stack-o-musings
 ---------------
 
-### Plan for the week
+### "High priority"
 
-1. Annotation software (Sunday?)
+1. Elaine Marzluff  (waiting for Elaine)
 
-1. Scarlet and Give Back day (Monday?)
+1. The new CSC 151 assignment, option 1 (neural nets)
 
-1. Looking back on spring break.  `spring-break-2018-retrospective` (Tuesday?)
+1. The new CSC 151 assignment, option 2 (text generation)
 
-1. Elaine Marzluff (Wednesday?)
+1. Report on the code camps
 
-1. Tagging the musings. (Thursday?)
+1. Vivek Venugopal
 
-1. An introduction.  (Friday?)
+1. Advising complexities
+   We have a new advising handbook.  I really appreciate the effort that
+   went into what should be a "one stop shop" for academic advisers 
+   (or advisors).  And there are lots of great things.  Nonetheless,
+   as I read the handbook, I get reminded about frustrations as an
+   advisor and as a computer scientist.  
+   ...
+   If the folks who are in charge can't get it right, how do they expect
+   the rest of us to?
+   Communication on campus.
+   DRY.
 
-1. The new CSC 151 assignment.  (Saturday?)
+1. Conflicting priorities
+   This musing changed a lot during the months it sat in the queue.
+   The original title was
+   "Usurping the faculty's primary responsibility."
+   The common reading.
+   I don't object to the books.  But I strenuously object to non-faclty
+   setting what seems to be the "common intellectual heritage" of Grinnell.
+   At the same time, I understand that we need broader understanding
+   of diversity on campus, and that the common read is an important way
+   to make a difference ....
 
-1. Grading software. (Sunday?)
+1. Double majors.  Something the faculty are discussing and should be
+   discussing.  I support the availability of double majors, including
+   double majors within a division.  Why?  We have small majors.  An
+   eight-course/32 credit major may be as small as a minor at some other
+   institutions.  [Insert normal disclaimer about hidden requirements.]
+   And the idea of delving deep into more than one discipline can be
+   a natural part of a liberal arts education.  I'd prefer that the
+   disciplines be very different, but I'm certainly willing to listen
+   to arguments about why disciplines that are in the same division
+   are different.  Divisional classifications are arbitrary.  I'd say,
+   for example, that Classics and Studio Art are no nearer to each other
+   than, say, CS and Economics, even though Classics and Studio Art are
+   in the same division and CS and Economics are in different divisions.
+   I see some benefit to having double majors as a recruitment tools.
+   ("Grinnell has compact majors, which allows you to delve deeply into
+   two different disciplines.")  I don't see double majors as our primary
+   obstacle to our students having a broad liberal arts education.  That
+   said, I would certainly pair double majors with my proposed "Defend
+   your liberal arts curriculum" approach, or anything else that encourages
+   students to think more deeply about the goals and purposes of their
+   liberal arts education and to demonstrate that they have achieved
+   such an education.
 
-### Next set
+1. Grading software.
 
-1. Two cultures, revisited. 
-   During spring break, I took Middle Son to visit a variety of types
-   of colleges.  One of them was a science-oriented school.  During the
-   Q&A session, someone asked about classes in art.  I found the
-   response disappointing.  There were two parts.  "We have an Art house
-   that runs weekly three-hour sessions in which you can work on things
-   like screenprinting."  And "There are a lot of walls on which you can
-   make murals."  Those sound like exciting opportunities, don't they?
-   So why was I disappointed?  Because opportunities to do art are not
-   the same thing as real stuio art classes.  A good studio class gives
-   you feedback through crits, exposes you to other artists and other ways
-   of thinking about making art, and challenges you to improve yourself.
-   Opportunities to make art *can* give you some of those things, but
-   generally not at the level you get from a class.  And what was 
-   disappointing to me was that those answering the questions didn't
-   seem to see the difference.  
+1. Loading zone vs. parking.
+
+1. Breaking things.  Added Hypothes.is to the Web site.  Things weren't
+   working right.  Then I realized that I had set a canonical URL for
+   each page and mistakenly used the same canonical URL for every page.
+   (It appears that the canonical URL goes back more than a year, to when
+   I started using Bootstrap.)  So now all the Hypothes.is links are
+   borken.  Sorry!  On the good news ....
+
+1. Tagging the musings. Or does this just get incorporated into the
+   next end-of-month musing?
 
 1. Becoming a celebrity (before or after Scarlet and Give Back day).
+   I'm still not sure why I was designated a celebrity.
 
 1. Teaching CS is teaching writing.  Maybe use all the versions of
-   `iota` that I recently covered in class.
+   `iota` that I recently covered in class.  (It's now less recent.)
 
 1. Flying from Grinnell.  Okay, it's not really possible to fly from
    Grinnell.  There is an airport, named after a pioneering aviator,
@@ -122,7 +169,27 @@ Stack-o-musings
    with the institution, I have to remember those things.)  [short]
 
 1. To-do list managers.  (Notes are in my notebook.)  But also most of
-   my tasks don't have a firm deadline.
+   my tasks don't have a firm deadline.  When everything is in one
+   place, I get frustrated realizing that I can't get everything done.
+   Some days are intimidating when I make the list of what I really should
+   do and then think about what I can do.  Take Friday (April 6), for example.
+   I had constraints that put me in an 7:30-4 day (plus about 45 minutes
+   at home beforehand reading through email, dealing with a few small
+   tasks, and getting the to-do list set for the day).  Getting the quiz
+   and class ready.  Teach class.  Office hours.  Meetings at 11:00
+   and 11:30.  Noon meeting.  Hour "free" (class prep; review student
+   journals).  Two hours of class.  Done.  What else did I have to do?
+   Ideally ... write to recommendation letters.  Have a few necessary
+   conversations with colleagues.  Deal with email (I'm never quite sure
+   what that will be.)  Get ready for weekend work.  Respond to student
+   exam prologues.  A bit of family stuff that needed to get done during
+   the day.  During transition, missing some things that just don't make
+   it to the to-do list.  Need to find time to reoranize.  Keep dumping
+   things to the next day.  Model of "get it out of your mind" doesn't
+   fit with my experience of how some complex things best get solved.
+   Some things have to be in the subconscious - How will I best teach
+   this topic?  How do I design this software?  How do things fit together
+   in this research?  That's where insight comes from.
 
 1. Preliminary planning for the new mediascheme version of CSC 151.
    `preliminary-planning-new-mediascheme-csc151.md`.
@@ -171,11 +238,6 @@ Okay to deviate once in a while?  Nuts.
 
 1. Bad classroom software, continued.  Carolyn's  quote
    "I would say that the first version of the software-based system significantly changed my experience teaching with technology for the better. In the classrooms I taught in, it made the technology more reliable and the experience of doing what I wanted to do more uniform across classrooms. // My experience this semester has been rocky, but it's hard for me to isolate whether the source of my problems is the software or the hardware. At the same time the software was updated I also started teaching in two completely new classrooms for me--one set up for art (no PC, two screens) and one for music (which seems to have more audio inputs to choose from, in addition to the new options you are writing about with the updated software). So this semester has been a little frustrating, but I've usually been able to get things working, other than the first day when I realized I didn't have a PC available and so couldn't get to the teaching files I have on my H: drive. The mute screen buttons have worked, the coloring of the projection has been a lot better than in JRC. // I'm not sure why I have fallen into writing my own musing here, but that's my field report from Bucksbaum."  In contrast, I find less uniformity and less reliability.  I hate computers.  And, after that musing, I had yet another bad day.
-
-1. Reminding me.  In a recent musing on workaholism, I mentioned the
-   things that I miss because of my job.  Here's what Facebook 
-   tells me:  March 3, 2012.  "Things that suck about being at a conference: Missing Jonathan's jazz band performance (William and Michelle sent me clips) and William's too many bit parts in the musical (but I can watch the DVD)."  Yeah,
-   it's time to think about my priorities.
 
 1. Feeling maudlin.  (Reflection on the last few  musings, all of which
    made me sad - Paul Nossiter, The Joe Stories, The Meaning of Things,
@@ -337,10 +399,6 @@ Okay to deviate once in a while?  Nuts.
 1. Weekly reports in CSC 322.  (Things I was going to write anyway?)
 
 1. Annotating the course Web?
-
-1. Usurping the faculty's primary responsibility.  The common reading.
-   I don't object to the books.  But I strenuously object to non-faclty
-   setting what seems to be the "common intellectual heritage" of Grinnell.
 
 1. Pages in a course Web.
 
@@ -697,6 +755,36 @@ schools vs closing schools)
 
 General
 -------
+
+1. The Denver Trips.  (aka Driving research students to conferences in
+Denver.)  EdMedia 2002 in the Death Van.  SIGCSE 2015 or so in the snow.
+Some of my fondest memories are of taking my students to present their
+research at conferences in Denver.  In the summer of 2002, I drove a 
+death van [1] full of students to Denver for EdMedia.  As was the norm
+in those days, they were the only undergraduates presenting.  We played
+the picnic game and other care games for much of the trip.  I still recall
+how furious people were at a horrible pattern in the picnic game [2].
+Parked outside.  Etc. etc.  A bit more than a decade later, when SIGCSE
+was in Denver, I tried again.  Snow.  More snow.  The interstate closed
+down. 
+[1] We called it a "death van" because the training I took on the van
+repeatedly reminded us of how likely it was to flip and showed us a
+video with lots of examples.  The name became less funny when we reached
+Denver and heard that a crew of firefighters had just died in a similar
+van when it had flipped.
+[2] "I'm going on a picnic and I'm bringing [noun]".  The first person
+to speak picks a pattern, such as "fruits" or "words that start with the
+letter T" or "two-syllable words".  Everyone else gets to suggest words
+and ask if they can also go.  If I recall correctly, the rule for the
+game that almost got me killed was "Words that start with the same letter
+as your first name".
+
+1. The Montreal Trip.  Rachel ILM.  Vivek LinkedIn or a new job.  
+Kumail Famous.  Erin Slate.  Isabela.  Not sure.  Sarah.  Just moved
+on from Cloudera.  Damn.  Who else was there?  Did Ellie go?  She's
+a famous physics educator with a new last name.
+
+1. A short biography of SamR.
 
 1. The list of topics that I've thought about writing about, in no particular
 order, other than the ones I've come up with more recently tend to be near
