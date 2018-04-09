@@ -44,3 +44,7 @@ The joy of code
 
 > One of my favorite categories of design patterns.
 
+[Software for grading](software-for-grading) (Musing #593)
+
+> Writing my own (badly designed) software.
+

@@ -770,3 +770,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 
 [Two cultures, revisited](two-cultures-revisited) (Musing #591)  
 [Getting requirements wrong](getting-requirements-wrong) (Musing #592)  
+[Software for grading](software-for-grading) (Musing #593)  

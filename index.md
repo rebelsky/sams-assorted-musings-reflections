@@ -7,7 +7,7 @@ rants about topics I'm passionate about.  Some are explanations of how
 I approach the world.  Some are just my attempts to think through a topic.
 
 Latest musing: 
-[Getting requirements wrong](getting-requirements-wrong) (Musing #592)
+[Software for grading](software-for-grading) (Musing #593)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
