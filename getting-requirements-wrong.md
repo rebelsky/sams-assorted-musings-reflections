@@ -165,14 +165,11 @@ policies clearly.
 
 Postscript: Until I went back to look at the _Student Handbook_ language,
 I had not realized that we treated Studio Art and Art History as separate
-with regards to the 48 credit limit.  Did we vote on that?  (I support
-the idea conceptually, but it strikes me that if the faculty voted on
-CS and Math, they should vote on Studio Art and Art History, too.
-Nonetheless, it's not an issue that I'll push on.)
+with regards to the 48 credit limit.  Did we vote on that [15]?  
 
 I'd like to see us vote on similar separations for Mathematics &
 Statistics and for French & Arabic and for any other joint departments
-we have [15].  
+we have [16].  
 
 ---
 
@@ -220,9 +217,13 @@ History and not count it toward their eight courses/32 credits.
 
 [14] More about that issue in another musing.
 
-[15] Well, there's Theatre and Dance, but they've tended to treat themselves
+[15] The answer from one of my readers is "Yes, around Spring 2016".  
+
+[16] Well, there's Theatre and Dance, but they've tended to treat themselves
 as a single major in "Theatre and/or Dance".
 
 ---
 
-*Version 1.0 of 2018-03-07.*
+*Version 1.0 releaed 2018-03-07.*
+
+*Version 1.1 of 2018-03-08.*
