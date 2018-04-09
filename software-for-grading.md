@@ -143,7 +143,7 @@ Postscript: For those who care, here's a sample report [10].
     Estimated grade report for Rebelsky, Samuel A. [rebelsky]
     
     This is an experimental grade report and is not guaranteed to be
-    accurate.  Estimated grades are based on current status in the
+    accurate.  Esimated grades are based on current status in the
     course.  Final grades may therefore be much different.
     
     SUMMARY REPORT
@@ -152,21 +152,21 @@ Postscript: For those who care, here's a sample report [10].
     Participation .... ( 5.0%): 90.0
     Flash cards ...... ( 5.0%): 81.3 (6.5 out of 8)
     Lab writeups ..... (10.0%): 100.0 (14.0 out of 16, up to 2 missing permitted)
-    Homework ......... (15.0%): 72.5 (average of 1.8 on a four-point scale)
+    Homework ......... (15.0%): 85.8 (average of 3.1 on a four-point scale)
     Project .......... (10.0%): [No grades available]
     Quizzes .......... (10.0%): 98.3 (average of 9.8 on a 10-point scale, dropping the lowest 1)
     Exams ............ (40.0%): 87.0 (average)
     Final ....................: [No grades available]
     Best individual .. ( 5.0%): 98.3 (best of exams, quizzes, final)
     
-    Estimated numeric grade: 79.0/90.0 = 87.8
-      with 4.0 units of extra credit: 88.8
+    Estimated numeric grade: 81.0/90.0 = 90.0
+     with 4.0 units of extra credit: 91.0
     
     DETAILED REPORT
     ---------------
     
     Participation: 90.0
-            participation   90      about average   
+            participation   90      about average
     
     Flash cards: 81.25
             flash02 1       
@@ -175,7 +175,7 @@ Postscript: For those who care, here's a sample report [10].
             flash05 0.5     late
             flash06 1       
             flash07 0       missing
-            flash08 1       nice job!       
+            flash08 1       nice job!
             flash09 1       
     
     Lab writeups: 100
@@ -185,7 +185,7 @@ Postscript: For those who care, here's a sample report [10].
             lab09   1       
             lab10   1       unnecessary helper
             lab11   1       
-            lab14   0       missing 
+            lab14   0       missing
             lab15   1       nice documentation
             lab16   1       
             lab17   1       
@@ -196,13 +196,13 @@ Postscript: For those who care, here's a sample report [10].
             lab23   1       
             lab25   1       
     
-    Homework: 72.5
+    Homework: 85.83
             hw01    check+  
-            hw02    check   with skyrebel   
+            hw02    check   with skyrebel
             hw03    check   
             hw04    check   
-            hw05    check-  problems with formatting        
-            hw06    check-  late    
+            hw05    check-  problems with formatting
+            hw06    check-  late
     
     Quizzes: 98.33
             quiz02  10      
@@ -223,6 +223,10 @@ Postscript: For those who care, here's a sample report [10].
             ec      1       2018-01-25,acad,Convo
             ec      1       2018-04-05,acad,Danforth lecture
             ec      1       2018-04-08,peer,Singers
+    
+    Absent/Late: 1.5
+            absent  1       2018-04-06,overslept
+            absent  0.5     2018-04-02,late to classa
 
 I hope students enjoy getting grade reports with this level of detail.
 I find it useful when I submit Academic Progress Reports.
@@ -270,8 +274,16 @@ way to make that shorter.
 [9] At least I found time to muse.
 
 [10] Including that report helped me find yet another error.  I think it's
-fixed now.  If you see any obvious computation errors, let me know.
+fixed now.  If you see any obvious computation errors, let me know [11].
+
+[11] I found one, which I've now corrected.  My homework grades were
+not computed correctly.  Amazingly, it wasn't so much a problem in the
+program as in the data; I was using spaces instead of a tab.  I call that
+"the Make problem".  I should fix my code to address it.
+
 
 ---
 
-*Version 1.0 of 2018-04-08.*
+*Version 1.0 released 2018-04-08.*
+
+*Version 1.1 of 2018-04-09.*
