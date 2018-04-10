@@ -1,6 +1,8 @@
 Some forthcoming musings
 ========================
 
+REMINDER: April 20 is officially two years!  (Perhaps `second-anniversary`)
+
 The next weekly log
 -------------------
 
@@ -27,6 +29,9 @@ The next end of month musing
   explicitly exempted some majors from the department limit.  I began to
   think about the issue for Math/Stats.  Of course, when I started writing
   it, I thought it would be a short rant.
+* Hit two years (more or less).
+* Kept trying to write short musings.  But the short musings kept ending
+  up being long musings.  Bleh.
 
 Musings with substantive drafts
 -------------------------------
@@ -62,6 +67,9 @@ Stack-o-musings
 ### "High priority"
 
 1. Elaine Marzluff  (waiting for Elaine)
+
+1. Logging my life?  (Maybe not this week; I'm not sure what's useful
+   to say.)
 
 1. The new CSC 151 assignment, option 1 (neural nets)
 
@@ -117,16 +125,7 @@ Stack-o-musings
    liberal arts education and to demonstrate that they have achieved
    such an education.
 
-1. Grading software.
-
 1. Loading zone vs. parking.
-
-1. Breaking things.  Added Hypothes.is to the Web site.  Things weren't
-   working right.  Then I realized that I had set a canonical URL for
-   each page and mistakenly used the same canonical URL for every page.
-   (It appears that the canonical URL goes back more than a year, to when
-   I started using Bootstrap.)  So now all the Hypothes.is links are
-   borken.  Sorry!  On the good news ....
 
 1. Tagging the musings. Or does this just get incorporated into the
    next end-of-month musing?
