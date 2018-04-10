@@ -2670,6 +2670,10 @@ Almost everything else
 
 > Please give.
 
+[Breaking things](breaking-things-2018-04-09) (Musing #594)
+
+> Careless programming decisions can have long term impact.
+
 Musings with multiple entries
 -----------------------------
 

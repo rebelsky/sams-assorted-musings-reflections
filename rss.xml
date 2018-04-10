@@ -7,6 +7,13 @@
       A curmudgeonly faculty member in computer science writes about a variety of topics.
     </description>
     <item>
+      <title>Musing #594: Breaking things</title>
+      <link>https://www.cs.grinnell.edu/~rebelsky/musings/breaking-things-2018-04-09</link>
+      <guid>https://www.cs.grinnell.edu/~rebelsky/musings/breaking-things-2018-04-09</guid>
+      <pubDate>Tue, 10 Apr 2018 02:45:50 GMT</pubDate>
+      <description>Careless programming decisions can have long term impact.</description>
+    </item>
+    <item>
       <title>Musing #593: Software for grading</title>
       <link>https://www.cs.grinnell.edu/~rebelsky/musings/software-for-grading</link>
       <guid>https://www.cs.grinnell.edu/~rebelsky/musings/software-for-grading</guid>
