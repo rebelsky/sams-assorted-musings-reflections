@@ -2674,6 +2674,10 @@ Almost everything else
 
 > Careless programming decisions can have long term impact.
 
+[Free-book tables](free-book-tables-2018-04-10) (Musing #595)
+
+> A danger to the addict.
+
 Musings with multiple entries
 -----------------------------
 

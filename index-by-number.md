@@ -772,3 +772,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Getting requirements wrong](getting-requirements-wrong) (Musing #592)  
 [Software for grading](software-for-grading) (Musing #593)  
 [Breaking things](breaking-things-2018-04-09) (Musing #594)  
+[Free-book tables](free-book-tables-2018-04-10) (Musing #595)  
