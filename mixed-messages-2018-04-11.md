@@ -74,7 +74,9 @@ posters](https://www.washingtonpost.com/news/morning-mix/wp/2016/06/27/super-rac
 she rocks.
 
 [4] Does it say something that I seem to accumulate toys that are designed
-to encourage young women to pursue tech careers?
+to encourage young women to pursue tech careers?  On that note, does anyone
+have an African-American Software Engineer Barbie that they're willing to
+part with?
 
 [5] Among other things, GoldieBlox teaches girls some of the reasons that
 real engineers don't rely on flimsy cardboard for real construction [6].
@@ -90,4 +92,6 @@ others' victories rather than ask for additional support.
 
 ---
 
-*Version 1.0 of 2018-04-11.*
+*Version 1.0 released 2018-04-11.*
+
+*Version 1.0.1 of 2018-04-11.*
