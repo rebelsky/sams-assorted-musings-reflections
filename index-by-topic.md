@@ -906,6 +906,10 @@ Why Grinnell staff with Ph.D's should be allowed to teach.
 
 > I am frustrated that we don't express core requirements correctly.
 
+[Mixed messages](mixed-messages-2018-04-11) (Musing #596)
+
+> Paying attention.
+
 Assorted talks and speeches
 ---------------------------
 
