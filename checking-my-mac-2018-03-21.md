@@ -28,7 +28,7 @@ again.  If it worked in that state, I could then restore from backup.  But
 that's time-consuming work.  So I decided to look more at the hardware.
 
 _Step two: Run a system check_.  I used TechTool Pro 9.5, which is my normal
-go-to for checking my system.  It found no significant errors [4].  
+go-to for checking my system.  It found no significant errors [4].
 
 _Step three: Continue system checks_.  I was still worried.  So I looked
 up how to check the system using the official Apple utilities.  My "new"
@@ -58,7 +58,7 @@ can start the tests.  I'm running the extended tests, which will take "1
 hour or longer, depending on the amount of memory installed".  However,
 it pauses the report while testing memory, saying "Total Time Testing: 19
 secs".  Should I panic?  Nah.  I'm going to assume that it doesn't update
-that dialog very frequently [11].  After a bit more than an hour, it 
+that dialog very frequently [11].  After a bit more than an hour, it
 finishes with memory.  It reports at SATA error, but then I realize that
 I still have my backup drive connected [12].  So I shut it down again
 and ... I'm back to the black screen of death.
@@ -141,7 +141,7 @@ count those.
 [6] I know, I should type `/usr/bin/sudo` rather than `sudo`.  But I
 couldn't see what I was typing.  The fewer characters I type, the better.
 
-[7] I'd installed the latest TechTool Pro.  I'd updated my Microsoftware.  
+[7] I'd installed the latest TechTool Pro.  I'd updated my Microsoftware.
 I'd removed some unnecessary files.  It seemed prudent to back up again.
 
 [8] At least that's why I think it spent a long time preparing the backup.
@@ -167,4 +167,6 @@ habit to document.
 
 ---
 
-*Version 1.0 of 2018-03-21.*
+*Version 1.0 released 2018-03-21.*
+
+*Version 1.0.1 of 2018-04-10.*
