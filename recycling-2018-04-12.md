@@ -98,6 +98,12 @@ generate; the goal should be to generate less waste._
 
 ---
 
+Postscript: Soon after I posted this musing, a friend indicated that the
+College was again recycyling everything except glass.  I'm still waiting
+for an official notification.
+
+---
+
 [1] Okay, it might be a decade.  My time sense sucks.
 
 [2] I find it strange to call a community of about 10,000 people a "city".
@@ -110,5 +116,6 @@ good public Web access for materials.
 
 ---
 
-*Version 1.0 of 2018-04-12.*
+*Version 1.0 released 2018-04-12.*
 
+*Version 1.1 of 2018-04-12.*
