@@ -774,3 +774,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Breaking things](breaking-things-2018-04-09) (Musing #594)  
 [Free-book tables](free-book-tables-2018-04-10) (Musing #595)  
 [Mixed messages](mixed-messages-2018-04-11) (Musing #596)  
+[Recycling](recycling-2018-04-12) (Musing #597)  

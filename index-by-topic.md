@@ -910,6 +910,10 @@ Why Grinnell staff with Ph.D's should be allowed to teach.
 
 > Paying attention.
 
+[Recycling](recycling-2018-04-12) (Musing #597)
+
+> Why is it so hard?
+
 Assorted talks and speeches
 ---------------------------
 

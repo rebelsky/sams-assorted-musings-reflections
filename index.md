@@ -7,7 +7,7 @@ rants about topics I'm passionate about.  Some are explanations of how
 I approach the world.  Some are just my attempts to think through a topic.
 
 Latest musing: 
-[Mixed messages](mixed-messages-2018-04-11) (Musing #596)
+[Recycling](recycling-2018-04-12) (Musing #597)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
