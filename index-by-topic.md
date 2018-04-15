@@ -2686,6 +2686,10 @@ Almost everything else
 
 > A danger to the addict.
 
+[Friday the 13th](friday-the-thirteenth-2018-04-13) (Musing #598)
+
+> Advice from Churchy La Femme.  (I suppose that's advice, too.)
+
 Musings with multiple entries
 -----------------------------
 

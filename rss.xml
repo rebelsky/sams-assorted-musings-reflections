@@ -7,6 +7,13 @@
       A curmudgeonly faculty member in computer science writes about a variety of topics.
     </description>
     <item>
+      <title>Musing #598: Friday the 13th</title>
+      <link>https://www.cs.grinnell.edu/~rebelsky/musings/friday-the-thirteenth-2018-04-13</link>
+      <guid>https://www.cs.grinnell.edu/~rebelsky/musings/friday-the-thirteenth-2018-04-13</guid>
+      <pubDate>Sat, 14 Apr 2018 01:06:19 GMT</pubDate>
+      <description>Advice from Churchy La Femme.  (I suppose that's advice, too.)</description>
+    </item>
+    <item>
       <title>Musing #597: Recycling</title>
       <link>https://www.cs.grinnell.edu/~rebelsky/musings/recycling-2018-04-12</link>
       <guid>https://www.cs.grinnell.edu/~rebelsky/musings/recycling-2018-04-12</guid>
@@ -215,20 +222,6 @@
       <guid>https://www.cs.grinnell.edu/~rebelsky/musings/csc322-ethics-assignment</guid>
       <pubDate>Thu, 15 Mar 2018 01:03:21 GMT</pubDate>
       <description>Designing a different kind of writing assignment.</description>
-    </item>
-    <item>
-      <title>Musing #567: Overloads</title>
-      <link>https://www.cs.grinnell.edu/~rebelsky/musings/overloads</link>
-      <guid>https://www.cs.grinnell.edu/~rebelsky/musings/overloads</guid>
-      <pubDate>Wed, 14 Mar 2018 03:19:06 GMT</pubDate>
-      <description>Good opportunities lead to bad decisions.</description>
-    </item>
-    <item>
-      <title>Musing #566: Logging my time (Week seven of Spring Semester 2018)</title>
-      <link>https://www.cs.grinnell.edu/~rebelsky/musings/time-logs-2018-03-12</link>
-      <guid>https://www.cs.grinnell.edu/~rebelsky/musings/time-logs-2018-03-12</guid>
-      <pubDate>Tue, 13 Mar 2018 01:26:16 GMT</pubDate>
-      <description>Getting better again.</description>
     </item>
   </channel>
 </rss>
