@@ -7,7 +7,8 @@ The next weekly log
 -------------------
 
 * Interaction with to-do list?  I'd mentioned that ...
-* Getting back in habit after break.
+* Getting back in habit after break of filling it out.
+* A day nearly off.
 
 The next end of month musing
 ----------------------------
@@ -29,9 +30,20 @@ The next end of month musing
   explicitly exempted some majors from the department limit.  I began to
   think about the issue for Math/Stats.  Of course, when I started writing
   it, I thought it would be a short rant.
-* Hit two years (more or less).
 * Kept trying to write short musings.  But the short musings kept ending
   up being long musings.  Bleh.
+* Partially for that reason, most musings still don't get posted until 
+  10 p.m.  But I did get one out before 7:00 p.m. one day.  That's one
+  that I just felt I needed to write.  (Which one was it?  Damn.  Oh,
+  it was the mixed messages one.)
+* Reached 600 musings.  Chose that number to try to restart a long-defunct
+  series of "Grinnellians you should know (or know about)".  I remember
+  why I wrote them.  They make me feel good.  I think they make other
+  people feel good.  They shouldn't make anyone feel bad.  That's 
+  definitely a net positive.
+* Reached two years since the day I first mused.  If I had known then
+  what I know now, there are so many things I would have done differently.
+  Oh well, we live to learn, right?  (Or perhaps we learn to live.)
 
 Musings with substantive drafts
 -------------------------------
@@ -61,12 +73,58 @@ _I should finish these some time soon._
 
 1. Peoples' names. (`misnaming.md`)
 
-Stack-o-musings
+
 ---------------
 
 ### "High priority"
 
-1. Elaine Marzluff  (waiting for Elaine)
+1. Allocating faculty lines.  (`expanding-the-faculty`)
+
+1. Rural sports.  One thing that city and suburb folks may not know about
+   being in a rural area is the challenges of being a supportive parent
+   when your child is on a sports team.  While there are some similar
+   size schools nearby ("nearby" = less than 45 minutes away), to get a
+   full set of competitors, you look a bit further.  Let's take the other
+   day, as an example.  Youngest Son had an away tennis meet.  I wasn't
+   planning on going.  But Michelle really wanted to go and wasn't up
+   to driving.  So we went.  It was in Boone.  Boone is about seventy-five
+   miles / ninety minutes from Grinnell [1] Road construction.  And, well,
+   there aren't that many tennis matches left in YS's high school career.
+   So I drove Michelle.  We stopped for a quick (20-30 min) dinner on
+   the way home.  All in all, it was six hours door to door.  On the
+   positive side, I got a break from work.  On the negative, that meant
+   that work stacked up.  But that's not the focus of this musing.  Rather,
+   it's to note one way the experience of a rural parent is likely much
+   different than the experience of an urban or suburban parent.  There
+   are certainly a bunch of positives: living five minutes from work means
+   less of a commute.  When the kids were younger, I could easily slip
+   out of work to read in a class, or run MathCounts one day a week, or
+   whatever.  And I love that the kids are not "tracked" into activities.
+   All three boys did three sports, band, choir, theatre (usually tech
+   theatre), and took College classes.  No one said "You're a band
+   nerd; you can't play football."  No one said "You're a swimmer; you
+   can't do a play."  Of course, because they do so many things, they
+   are so many more opportunities to travel the not-insubstantial 
+   distances to their events  But you know what?  I wouldn't trade it
+   for anything.
+
+1. Andrea Conner.  Things I appreciate.  How hard her job is.  Needing
+   to build new relationships.  (I don't have the best relationship
+   with student affairs.  I'm told that some student affairs staff are
+   intimidated by my "crusades".  Andrea is a buffer; she may not like
+   the crusades, but we have a long enough relationship that (a) she
+   knows that my heart is in the right place and (b) she will call me 
+   out appropriately if I behave in a way she thinks is inapropriate.)
+
+1. Choosing the right word.  I was commenting on the current situation
+   in CS.  (We still don't have as many tenure-line positions as we
+   need, but we have hired some good visitors.  Someone said that they
+   were surprised I wasn't more upset.  I wrote that I was relatively
+   sanguine about the situation.  Then I looked up what I'd written.  Here's
+   [a definition from Google](https://www.google.com/search?q=sanguine): "optimistic or positive, especially in an apparently bad or difficult situation".
+   Yeah, that's about right.  I love it when my subconscious chooses the
+   right word.  Too bad it doesn't tell me how to pronounce the word
+   correctly. "sang gwen" not "sang wine")
 
 1. Logging my life?  (Maybe not this week; I'm not sure what's useful
    to say.)
@@ -76,6 +134,8 @@ Stack-o-musings
 1. The new CSC 151 assignment, option 2 (text generation)
 
 1. Report on the code camps
+
+1. <https://www.chronicle.com/article/The-5-Types-of-Professors-/243108>
 
 1. Vivek Venugopal
 
@@ -148,14 +208,6 @@ Stack-o-musings
    prospective students sometimes say that our location is a reason they
    don't choose Grinnell.  (Of course, I'm pretty sure that Williams is
    about as isolated.  Perhaps I'm wrong.)
-
-1. Andrea Conner.  Things I appreciate.  How hard her job is.  Needing
-   to build new relationships.  (I don't have the best relationship
-   with student affairs.  I'm told that some student affairs staff are
-   intimidated by my "crusades".  Andrea is a buffer; she may not like
-   the crusades, but we have a long enough relationship that (a) she
-   knows that my heart is in the right place and (b) she will call me 
-   out appropriately if I behave in a way she thinks is inapropriate.)
 
 1. Roles and Responsibilities.  (So that I know what I'll have to
    cut when I add my next role or responsibility.)
@@ -1052,11 +1104,8 @@ decade. And it's **free**.
 
 1. Application for Google thingy?
 
-1. Application for NCWIT?
-
-1. Introduction to CS1/DigitalHumanities proposal?
-
-1. Introduction to the big departmental transformation proposal?
+1. Introduction to the big departmental transformation proposal?  (What
+was this?)
 
 1. Hyphenation.
 
@@ -1093,6 +1142,10 @@ Grinnellians
 ------------
 
 *Profiles I should write when I get back to the next month of profiles.*
+
+1. Toby Baratta '17
+
+1. Sarah Barks
 
 1. Rachel Bly '93
 
@@ -1135,6 +1188,8 @@ https://www.insidehighered.com/news/2017/01/26/research-midcareer-professors-mak
 
 1. Cynthia Hansen
 
+1. John Hirschman
+
 1. Chris Hunter
 
 1. Judy Hunter
@@ -1165,6 +1220,8 @@ pamphlets)
 1. David Lopatto
 
 1. Joe Mileti
+
+1. Alex Mitchell '17
 
 1. Brian Mitchell
 
