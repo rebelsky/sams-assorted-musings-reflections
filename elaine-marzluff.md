@@ -103,6 +103,14 @@ and I'd still find that I forgot something or that I'd learn something new
 
 ---
 
+Postscript: One of my readers sent the following.  I thought it was worth
+adding, since it encapsulates some aspects of Elaine much more succinctly
+than I do.
+
+>  Elaine was on my committee for years, and was always amazing at the job. I knew I could count on her to be 100% prepared, to work collegially with the other committee members, and to give me constructive, useful feedback on how to improve my processes (her ideas [on one aspect] changed much of how we ran that process). Her wonderful blend of humanity and no-nonsense academic standards made her ideal for the role (and Grinnell!).
+
+---
+
 [1] The entering faculty of 1997 were a strong group.  In addition to
 Elaine and me, the class included Tyler Roberts, Jenny Anger, Kathleen
 Skerrett, and Philippe Moisan.  I also like count Claire Moisan and Minna
@@ -164,4 +172,6 @@ learning to make Croissants.
 
 ---
 
-*Version 1.0 of 2018-04-15.*
+*Version 1.0 released 2018-04-15.*
+
+*Version 1.1 of 2018-04-16.*
