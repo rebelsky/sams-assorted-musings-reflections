@@ -914,6 +914,11 @@ Why Grinnell staff with Ph.D's should be allowed to teach.
 
 > Why is it so hard?
 
+[Bad code](bad-code-2018-04-14) (Musing #599)
+
+> Among the things that don't belong in standardized exams.
+
+
 Assorted talks and speeches
 ---------------------------
 
@@ -1570,6 +1575,10 @@ Grinnellians you should know (or know about)
 [Lea Marolt-Sonnenschein '15](lea-marolt-sonnenschein) (Essay #136)
 
 > Daughter (well, host daughter).  Overachiever.
+
+[Elaine Marzluff](elaine-marzluff) (Musing #600)
+
+> Innovative science teacher, promoter of diversity, faculty leader, and friend.
 
 [J. Harley McIlrath](j-harley-mcilrath) (Essay #118)
 

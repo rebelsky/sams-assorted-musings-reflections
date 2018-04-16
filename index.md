@@ -7,7 +7,7 @@ rants about topics I'm passionate about.  Some are explanations of how
 I approach the world.  Some are just my attempts to think through a topic.
 
 Latest musing: 
-[Friday the 13th](friday-the-thirteenth-2018-04-13) (Musing #598)
+[Grinnellians you should know (or know about): Elaine Marzluff](elaine-marzluff) (Musing #600)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

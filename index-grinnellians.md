@@ -90,6 +90,10 @@ Grinnellians you should know (or know about)
 
 > Daughter (well, host daughter).  Overachiever.
 
+[Elaine Marzluff](elaine-marzluff) (Musing #600)
+
+> Innovative science teacher, promoter of diversity, faculty leader, and friend.
+
 [J. Harley McIlrath](j-harley-mcilrath) (Essay #118)
 
 > Bookseller, author, generally great guy.

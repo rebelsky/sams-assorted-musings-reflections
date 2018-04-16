@@ -776,3 +776,5 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Mixed messages](mixed-messages-2018-04-11) (Musing #596)  
 [Recycling](recycling-2018-04-12) (Musing #597)  
 [Friday the 13th](friday-the-thirteenth-2018-04-13) (Musing #598)  
+[Bad code](bad-code-2018-04-14) (Musing #599)  
+[Elaine Marzluff](elaine-marzluff) (Musing #600)  

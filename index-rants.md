@@ -308,3 +308,8 @@ Why Grinnell staff with Ph.D's should be allowed to teach.
 
 > Why is it so hard?
 
+[Bad code](bad-code-2018-04-14) (Musing #599)
+
+> Among the things that don't belong in standardized exams.
+
+
