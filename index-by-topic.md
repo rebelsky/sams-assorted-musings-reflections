@@ -918,6 +918,9 @@ Why Grinnell staff with Ph.D's should be allowed to teach.
 
 > Among the things that don't belong in standardized exams.
 
+[Criticizing faculty proposals](criticizing-faculty-proposals) (Musing #601)
+
+> Something I do too often.
 
 Assorted talks and speeches
 ---------------------------
