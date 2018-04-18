@@ -274,4 +274,6 @@ but it may be necessary.
 
 ---
 
-*Version 1.0 of 2018-04-16.*
+*Version 1.0 released 2018-04-16.*
+
+*Version 1.0.1 of 2018-04-16.*
