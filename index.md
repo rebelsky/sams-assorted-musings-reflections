@@ -6,8 +6,10 @@ responses to questions I received from students or other people.  Some are
 rants about topics I'm passionate about.  Some are explanations of how
 I approach the world.  Some are just my attempts to think through a topic.
 
-Latest musing: 
-[Criticizing faculty proposals](criticizing-faculty-proposals) (Musing #601)
+Latest musings:
+[Recycling, revisited](recycling-revisited-2018-04-17) (Musing #602)
+and
+[Expanding the faculty](expanding-the-faculty) (Musing #603)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

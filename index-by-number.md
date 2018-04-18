@@ -782,3 +782,5 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 ## 601-610
 
 [Criticizing faculty proposals](criticizing-faculty-proposals) (Musing #601)  
+[Recycling, revisited](recycling-revisited-2018-04-17) (Musing #602)  
+[Expanding the faculty](expanding-the-faculty) (Musing #603)  

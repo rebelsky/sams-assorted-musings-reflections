@@ -1770,6 +1770,10 @@ Grinnell.
 
 > Why do I end up drafting institutional documents?
 
+[Expanding the faculty](expanding-the-faculty) (Musing #603)
+
+> How I'd allocate new positions, if we had them.
+
 A letter to the incoming chair
 ------------------------------
 
@@ -2701,6 +2705,10 @@ Almost everything else
 [Friday the 13th](friday-the-thirteenth-2018-04-13) (Musing #598)
 
 > Advice from Churchy La Femme.  (I suppose that's advice, too.)
+
+[Recycling, revisited](recycling-revisited-2018-04-17) (Musing #602)
+
+> Better news on recycling.
 
 Musings with multiple entries
 -----------------------------

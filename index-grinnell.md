@@ -135,3 +135,7 @@ Grinnell.
 
 > Why do I end up drafting institutional documents?
 
+[Expanding the faculty](expanding-the-faculty) (Musing #603)
+
+> How I'd allocate new positions, if we had them.
+

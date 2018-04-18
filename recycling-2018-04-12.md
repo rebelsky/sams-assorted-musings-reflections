@@ -1,7 +1,11 @@
 Recycling
 =========
 
-*Theme/tags: Rants, communication (or lack thereof), short (relatively)*
+*Theme/tags: [Rants](index-rants), communication (or lack thereof), short (relatively)*
+
+**Note: Less than a week after I wrote this musing, the College posted
+a much more positive note about recycling.  You can read my [followup
+musing](recycling-revisited-2018-04-17) for more details.**
 
 I don't understand recycling.
 
@@ -118,4 +122,4 @@ good public Web access for materials.
 
 *Version 1.0 released 2018-04-12.*
 
-*Version 1.1 of 2018-04-12.*
+*Version 1.2 of 2018-04-12.*

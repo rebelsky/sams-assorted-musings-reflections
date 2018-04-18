@@ -553,3 +553,7 @@ Almost everything else
 
 > Advice from Churchy La Femme.  (I suppose that's advice, too.)
 
+[Recycling, revisited](recycling-revisited-2018-04-17) (Musing #602)
+
+> Better news on recycling.
+
