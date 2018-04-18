@@ -19,7 +19,7 @@ about the benefits of expanding the faculty.
 
 In any case, once I started thinking about expanding the faculty,
 I started considering where I would allocate new faculty lines if I
-had that power.  Of course, iI really had that power, I'd start by talking
+had that power.  Of course, if I really had that power, I'd start by talking
 to colleagues to think broadly about what would help the institution.
 We could do a lot of creative things with new faculty lines.  And I
 certainly don't know all of the needs on campus.
