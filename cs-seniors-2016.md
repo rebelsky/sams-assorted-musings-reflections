@@ -82,8 +82,8 @@ letter](donor-thank-you.html) from me if you donate to the department.
 However, I think that there is a 100% chance that you will get a thank
 you letter from Jerod once he takes over as chair.
 
-As you know, the department is hosting a (Pledge of the Computing
-Professional)[http://www.computing-professional.org/] ceremony on Sunday,
+As you know, the department is hosting a [Pledge of the Computing
+Professional[(http://www.computing-professional.org/) ceremony on Sunday,
 immediately after baccalaureate.  (The nice thing about speeches is
 that I don't have to worry about spelling that word.)  I hope that
 many of you will take that pledge, which I think reflects the Grinnell
@@ -122,4 +122,6 @@ awesome group of seniors.  Maybe I'll do better next year.
 
 ---
 
-*Version 1.0 of 2016-05-17.*
+*Version 1.0 released 2016-05-17.*
+
+*Version 1.0.1 of 2018-04-17.*
