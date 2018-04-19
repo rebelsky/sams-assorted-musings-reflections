@@ -19,33 +19,15 @@ Rants
   public information from our Web site.  In this essay, I attempt to tie
   together my various comments on these issues.
 
-Why I complain about software
-- *Forthcoming*
-
-> I complain a lot about bad software.  And I think a lot of software
-  is bad.  Here I reflect more deeply about these issues.
-
 [Software hammers](software-hammers) (Essay #40)
 
 > On the dangers of having too limited a view of software.
-
-On representing dates and times
-- *Forthcoming*
-
-> Why I hate things like "12:00 p.m." or "6/12/64".
 
 [Proofpoint: How to make email miserable to use](proofpoint) (Essay #21)
 
 > My reaction to Grinnell's installation of Proofpoint.  While I rant
   about bad software in a separate essay, Proofpoint causes me enough
   difficulty that it's worth a separate essay.
-
-Why Grinnell staff with Ph.D's should be allowed to teach.
-- *Forthcoming*
-
-> I thought we allowed our Ph.D.-level staff to teach the occasional
-  course.  Then I learned that it's only in very specific situations.
-  These are my attempts to think through the matter.
 
 [Word choice that irritates me: "Sell Yourself"](selling-yourself) (Essay #80)
 

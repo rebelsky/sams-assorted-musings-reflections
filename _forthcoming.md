@@ -80,6 +80,15 @@ _I should finish these some time soon._
 
 1. Allocating faculty lines.  (`expanding-the-faculty`)
 
+1. Recycling update.
+
+1. Unpacking quantitative literacy.  A group on campus has recently
+   been upacking one of Grinnell's elements of the liberal arts [1]
+   or perhaps another element.  So I've been thinking about doing the
+   same thing with quantitative literacy.    It's really three kinds
+   of literacy, which I'll term "mathematical literacy", "statistical
+   literacy", and "algorithmic literacy".
+
 1. Rural sports.  One thing that city and suburb folks may not know about
    being in a rural area is the challenges of being a supportive parent
    when your child is on a sports team.  While there are some similar
@@ -125,6 +134,32 @@ _I should finish these some time soon._
    Yeah, that's about right.  I love it when my subconscious chooses the
    right word.  Too bad it doesn't tell me how to pronounce the word
    correctly. "sang gwen" not "sang wine")
+
+1. Comments for seniors.  cs-seniors-2016
+
+1. I write like ... <https://iwl.me/>.  Let's see ...
+   (I should see if I've changed over time and whether the genre matters.)
+      * `expanding-the-faculty`: Agatha Christie
+      * `criticizing-faculty-proposals`: Arthur C. Clarke.
+        <https://iwl.me/b/a19b4b4>
+      * `elaine-marzluff`: Agatha Christie.
+        <https://iwl.me/b/813f51e6>
+      * `mixed-messages-2018-04-11`: Arthur C. Clarke (again).
+      * `free-book-tables`: Arthur C. Clarke (again).
+      * `two-cultures-revisited`: David Foster Wallace.
+        <https://iwl.me/b/d7939cdb>
+      * `annotating-the-web`: Anne Rice.
+      * `scarlet-and-give-back-2018`: Arthur C. Clarke.
+      * `course-tags-2018-03-30`: Arthur C. Clarke.
+      * `back-to-back-classes`: Arthur C. Clarke.
+      * `donor-thank-you`: Agatha Christie.
+      * `convocation` (#9): Arthur C. Clarke.
+      * `individually-advised-curriculum` (#24): Arthur C. Clarke
+      * `monessa-cummins`: Agatha Christie
+      * `doug-caulkins`: Arthur Clarke. (With or without endnotes.)
+      * `sarah-purcell`: Anne Rice.
+      * `erik-simpson`: Arthur C. Clarke.
+      * `adrienne-hardin`: Anne Rice.
 
 1. Logging my life?  (Maybe not this week; I'm not sure what's useful
    to say.)
@@ -331,6 +366,20 @@ Okay to deviate once in a while?  Nuts.
   candidates and conducting interviews, reviewing papers for a conference,
   support a student who is having severe difficulties, writing a series
   of recommendation letters, ....  My [recent musing about spring break](planning-spring-break-2018) just reinforces that.  I currently have something like 240 hours of outstanding work to do.  ...
+
+### Delayed rants (hidden in the system)
+
+1. Why I complain about software.  I complain a lot about bad software.
+And I think a lot of software is bad.  Here I reflect more deeply about
+these issues.
+
+1. On representing dates and times.  Why I hate things like "12:00
+p.m." or "6/12/64".
+
+1. Why Grinnell staff with Ph.D's should be allowed to teach.  I thought
+we allowed our Ph.D.-level staff to teach the occasional course.  Then I
+learned that it's only in very specific situations.  These are my attempts
+to think through the matter.
 
 ### Almost immediate (?)
 
