@@ -1,7 +1,8 @@
 Some forthcoming musings
 ========================
 
-REMINDER: April 20 is officially two years!  (Perhaps `second-anniversary`)
+REMINDER: April 20 is officially two years!  Perhaps `second-anniversary`.
+Perhaps just the new introduction.  I think the latter.
 
 The next weekly log
 -------------------
@@ -9,6 +10,7 @@ The next weekly log
 * Interaction with to-do list?  I'd mentioned that ...
 * Getting back in habit after break of filling it out.
 * A day nearly off.
+* Three weeks of work logs?  Whoops.
 
 The next end of month musing
 ----------------------------
@@ -44,6 +46,20 @@ The next end of month musing
 * Reached two years since the day I first mused.  If I had known then
   what I know now, there are so many things I would have done differently.
   Oh well, we live to learn, right?  (Or perhaps we learn to live.)
+* In the two years, I had approximately 125 missed musings.  (Probably
+  more, since I posted multiple musings on some days.)  Of course, I missed
+  most of the first summer after I started musing, so perhaps that's not
+  quite as bad as it sounds.  (stopped 2016-06-01 with `software-hammers`; 
+  restarted 2016-08-30 with `habit-of-writing`).  That covers ninety
+  or so.  I think that means I've missed about 35 days out of twenty months.
+  I'd like it to be fewer, but I don't feel crushed by it.
+* Technical readers are submitting pull requests.
+* Realized that I don't remember what I write.  After yet another
+  discussion in which people disparaged double majors, I had sketched 
+  a paragraph about them.  A few days later, I realized that I'd already
+  mused about the subject.  I have new things to say (e.g., that eight-course
+  majors make double majors much easier), but I think I'll put it off
+  a bit longer.
 
 Musings with substantive drafts
 -------------------------------
@@ -77,10 +93,6 @@ _I should finish these some time soon._
 ---------------
 
 ### "High priority"
-
-1. Allocating faculty lines.  (`expanding-the-faculty`)
-
-1. Recycling update.
 
 1. Unpacking quantitative literacy.  A group on campus has recently
    been upacking one of Grinnell's elements of the liberal arts [1]
@@ -185,40 +197,6 @@ _I should finish these some time soon._
    the rest of us to?
    Communication on campus.
    DRY.
-
-1. Conflicting priorities
-   This musing changed a lot during the months it sat in the queue.
-   The original title was
-   "Usurping the faculty's primary responsibility."
-   The common reading.
-   I don't object to the books.  But I strenuously object to non-faclty
-   setting what seems to be the "common intellectual heritage" of Grinnell.
-   At the same time, I understand that we need broader understanding
-   of diversity on campus, and that the common read is an important way
-   to make a difference ....
-
-1. Double majors.  Something the faculty are discussing and should be
-   discussing.  I support the availability of double majors, including
-   double majors within a division.  Why?  We have small majors.  An
-   eight-course/32 credit major may be as small as a minor at some other
-   institutions.  [Insert normal disclaimer about hidden requirements.]
-   And the idea of delving deep into more than one discipline can be
-   a natural part of a liberal arts education.  I'd prefer that the
-   disciplines be very different, but I'm certainly willing to listen
-   to arguments about why disciplines that are in the same division
-   are different.  Divisional classifications are arbitrary.  I'd say,
-   for example, that Classics and Studio Art are no nearer to each other
-   than, say, CS and Economics, even though Classics and Studio Art are
-   in the same division and CS and Economics are in different divisions.
-   I see some benefit to having double majors as a recruitment tools.
-   ("Grinnell has compact majors, which allows you to delve deeply into
-   two different disciplines.")  I don't see double majors as our primary
-   obstacle to our students having a broad liberal arts education.  That
-   said, I would certainly pair double majors with my proposed "Defend
-   your liberal arts curriculum" approach, or anything else that encourages
-   students to think more deeply about the goals and purposes of their
-   liberal arts education and to demonstrate that they have achieved
-   such an education.
 
 1. Loading zone vs. parking.
 
@@ -1184,6 +1162,31 @@ Dodge Dart.)
 1. CTLA.
 
 1. NaNoWriMo (On writing.) (Wait another year?)
+
+1. Double majors.  Something the faculty are discussing and should be
+   discussing.  I support the availability of double majors, including
+   double majors within a division.  Why?  We have small majors.  An
+   eight-course/32 credit major may be as small as a minor at some other
+   institutions.  [Insert normal disclaimer about hidden requirements.]
+   And the idea of delving deep into more than one discipline can be
+   a natural part of a liberal arts education.  I'd prefer that the
+   disciplines be very different, but I'm certainly willing to listen
+   to arguments about why disciplines that are in the same division
+   are different.  Divisional classifications are arbitrary.  I'd say,
+   for example, that Classics and Studio Art are no nearer to each other
+   than, say, CS and Economics, even though Classics and Studio Art are
+   in the same division and CS and Economics are in different divisions.
+   I see some benefit to having double majors as a recruitment tools.
+   ("Grinnell has compact majors, which allows you to delve deeply into
+   two different disciplines.")  I don't see double majors as our primary
+   obstacle to our students having a broad liberal arts education.  That
+   said, I would certainly pair double majors with my proposed "Defend
+   your liberal arts curriculum" approach, or anything else that encourages
+   students to think more deeply about the goals and purposes of their
+   liberal arts education and to demonstrate that they have achieved
+   such an education.
+
+   Whoops.  I wrote this one already.
 
 ---
 
