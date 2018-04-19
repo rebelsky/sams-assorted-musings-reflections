@@ -139,3 +139,7 @@ Grinnell.
 
 > How I'd allocate new positions, if we had them.
 
+[Conflicting values](conflicting-values-2018-04-18) (Musing #604)
+
+> What do you do when two core values come into conflict?
+
