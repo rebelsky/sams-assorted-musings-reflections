@@ -275,6 +275,10 @@ Essays on writing, or at least on writing my essays
 
 > What did I learn from musing this month?
 
+[I write like ...](i-write-like) (Musing #605)
+
+> SamR plays with silly Interweb tools.
+
 For prospective students, parents of prospective students, and others with similar interests
 --------------------------------------------------------------------------------------------
 

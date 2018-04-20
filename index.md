@@ -7,7 +7,7 @@ rants about topics I'm passionate about.  Some are explanations of how
 I approach the world.  Some are just my attempts to think through a topic.
 
 Latest musing:
-[Conflicting values](conflicting-values-2018-04-18) (Musing #604)
+[I write like ...](i-write-like) (Musing #605)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
