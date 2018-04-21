@@ -1,5 +1,5 @@
-Essays on writing, or at least on writing my essays
-===================================================
+Essays on writing, or at least on writing my musings
+====================================================
 
 [On the genesis of _Sam's Assorted Musings and Rants_](genesis) (Essay #5)
 
@@ -275,4 +275,8 @@ Essays on writing, or at least on writing my essays
 [I write like ...](i-write-like) (Musing #605)
 
 > SamR plays with silly Interweb tools.
+
+[A second anniverary](second-anniversary) (Musing #606)
+
+> Reflecting on two years since the first musing.
 

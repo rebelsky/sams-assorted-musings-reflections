@@ -7,7 +7,7 @@ rants about topics I'm passionate about.  Some are explanations of how
 I approach the world.  Some are just my attempts to think through a topic.
 
 Latest musing:
-[I write like ...](i-write-like) (Musing #605)
+[A second anniverary](second-anniversary) (Musing #606)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
