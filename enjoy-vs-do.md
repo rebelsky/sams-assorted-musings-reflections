@@ -64,16 +64,16 @@ are bad and too much walking makes them hurt.  All things in moderation!
 
 To return to my original point that it's good to do some things that don't
 necessarily make you happy.  I write these essays every day.  Do I love
-writing?  Does it make me happy to write?  Not usually.  Sometimes the
-writing flows.  But often I get stuck or feel like I have not expressed
-myself in the way that I wish I could.  And even when the writing flows
-well, I find myself going back and editing or adjusting or removing
-or ....  But I write every day.  Why?  Because "having written" makes
-me happy, or at least I think it does.  I enjoy that I'm accumulating a
-collection of essay.  I enjoy finding that I've thought through an issue
-more carefully.  I enjoy the occasional feedback I get on my writing.
-And I hope that writing daily will make me a better writer, which would
-certainly make me happy.
+writing?  No really.  Does it make me happy to write?  Not usually.
+Sometimes the writing flows.  But often I get stuck or feel like I have
+not expressed myself in the way that I wish I could.  And even when the
+writing flows well, I find myself going back and editing or adjusting
+or removing or ....  But I write every day.  Why?  Because "having
+written" makes me happy, or at least I think it does.  I enjoy that I'm
+accumulating a collection of essays.  I enjoy finding that I've thought
+through an issue more carefully.  I enjoy the occasional feedback I get on
+my writing.  And I hope that writing daily will make me a better writer,
+which would certainly make me happy.
 
 Does this mean that I don't need to adjust?  Certainly not?  But the
 calculus is much more complicated than "things that make you happy"
@@ -98,4 +98,6 @@ And I mustn't forget: clean clothes.
 As always, I am happy to receive comments, corrections, or criticisms
 on this or any of my other essays.
 
-*Version 1.0 of 2016-05-03.*
+*Version 1.0 released 2016-05-03.*
+
+*Version 1.0.1 of 2018-04-20.*
