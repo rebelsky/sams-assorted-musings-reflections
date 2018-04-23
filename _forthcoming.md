@@ -1,9 +1,6 @@
 Some forthcoming musings
 ========================
 
-REMINDER: April 20 is officially two years!  Perhaps `second-anniversary`.
-Perhaps just the new introduction.  I think the latter.
-
 The next weekly log
 -------------------
 
@@ -43,16 +40,6 @@ The next end of month musing
   why I wrote them.  They make me feel good.  I think they make other
   people feel good.  They shouldn't make anyone feel bad.  That's 
   definitely a net positive.
-* Reached two years since the day I first mused.  If I had known then
-  what I know now, there are so many things I would have done differently.
-  Oh well, we live to learn, right?  (Or perhaps we learn to live.)
-* In the two years, I had approximately 125 missed musings.  (Probably
-  more, since I posted multiple musings on some days.)  Of course, I missed
-  most of the first summer after I started musing, so perhaps that's not
-  quite as bad as it sounds.  (stopped 2016-06-01 with `software-hammers`; 
-  restarted 2016-08-30 with `habit-of-writing`).  That covers ninety
-  or so.  I think that means I've missed about 35 days out of twenty months.
-  I'd like it to be fewer, but I don't feel crushed by it.
 * Technical readers are submitting pull requests.
 * Realized that I don't remember what I write.  After yet another
   discussion in which people disparaged double majors, I had sketched 
@@ -94,6 +81,8 @@ _I should finish these some time soon._
 
 ### "High priority"
 
+1. Pair programming with my peer educator.
+
 1. Unpacking quantitative literacy.  A group on campus has recently
    been upacking one of Grinnell's elements of the liberal arts [1]
    or perhaps another element.  So I've been thinking about doing the
@@ -129,6 +118,19 @@ _I should finish these some time soon._
    distances to their events  But you know what?  I wouldn't trade it
    for anything.
 
+1. Portable cellos.  Last week, the College brought in a visiting 
+   musician who performed on what were clearly custom-made instruments.
+   At a post-concert reception, we ended up talking about how one
+   travels with instruments.  While he didn't bring one to Grinnell, 
+   I seem to recall that he mentioned one of the large lute-like 
+   instruments with a foldable neck.  Anyway, a few days later, I
+   saw that a recently released album included music played on a
+   "trench cello", a WWI-era cello the size of an ammo case that 
+   you attach a neck and strings to.  (My quick read ...)
+   <https://www.amazon.com/Cello-Wartime-Steven-Isserlis/dp/B076YPHVBM/>
+   <http://travelcello.net/>
+   <http://www.vanorabennettauthor.com/?p=1100>
+
 1. Andrea Conner.  Things I appreciate.  How hard her job is.  Needing
    to build new relationships.  (I don't have the best relationship
    with student affairs.  I'm told that some student affairs staff are
@@ -136,6 +138,8 @@ _I should finish these some time soon._
    the crusades, but we have a long enough relationship that (a) she
    knows that my heart is in the right place and (b) she will call me 
    out appropriately if I behave in a way she thinks is inapropriate.)
+
+1. Forgetting what we read.  <https://www.theatlantic.com/amp/article/551603/>
 
 1. Choosing the right word.  I was commenting on the current situation
    in CS.  (We still don't have as many tenure-line positions as we
@@ -147,31 +151,10 @@ _I should finish these some time soon._
    right word.  Too bad it doesn't tell me how to pronounce the word
    correctly. "sang gwen" not "sang wine")
 
-1. Comments for seniors.  cs-seniors-2016
+1. The new logo (or at least the new logo font).  It seems wrong.  I've
+   been trying to figure out why.
 
-1. I write like ... <https://iwl.me/>.  Let's see ...
-   (I should see if I've changed over time and whether the genre matters.)
-      * `expanding-the-faculty`: Agatha Christie
-      * `criticizing-faculty-proposals`: Arthur C. Clarke.
-        <https://iwl.me/b/a19b4b4>
-      * `elaine-marzluff`: Agatha Christie.
-        <https://iwl.me/b/813f51e6>
-      * `mixed-messages-2018-04-11`: Arthur C. Clarke (again).
-      * `free-book-tables`: Arthur C. Clarke (again).
-      * `two-cultures-revisited`: David Foster Wallace.
-        <https://iwl.me/b/d7939cdb>
-      * `annotating-the-web`: Anne Rice.
-      * `scarlet-and-give-back-2018`: Arthur C. Clarke.
-      * `course-tags-2018-03-30`: Arthur C. Clarke.
-      * `back-to-back-classes`: Arthur C. Clarke.
-      * `donor-thank-you`: Agatha Christie.
-      * `convocation` (#9): Arthur C. Clarke.
-      * `individually-advised-curriculum` (#24): Arthur C. Clarke
-      * `monessa-cummins`: Agatha Christie
-      * `doug-caulkins`: Arthur Clarke. (With or without endnotes.)
-      * `sarah-purcell`: Anne Rice.
-      * `erik-simpson`: Arthur C. Clarke.
-      * `adrienne-hardin`: Anne Rice.
+1. Comments for seniors.  cs-seniors-2016
 
 1. Logging my life?  (Maybe not this week; I'm not sure what's useful
    to say.)
