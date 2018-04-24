@@ -1224,6 +1224,10 @@ online, but they will soon expand to more general issues about teaching._
 
 > Even more challenging for faculty than they are for students.
 
+[A draft of a potential ACM case study on the accessibility of online course materials](case-study-accessibility) (Musing #607)
+
+> A teaching resource, in progress.
+
 On writing letters of recommendation
 ------------------------------------
 

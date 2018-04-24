@@ -7,6 +7,13 @@
       A curmudgeonly faculty member in computer science writes about a variety of topics.
     </description>
     <item>
+      <title>Musing #607: A draft of a potential ACM case study on the accessibility of online course materials</title>
+      <link>https://www.cs.grinnell.edu/~rebelsky/musings/case-study-accessibility</link>
+      <guid>https://www.cs.grinnell.edu/~rebelsky/musings/case-study-accessibility</guid>
+      <pubDate>Sun, 22 Apr 2018 01:42:53 GMT</pubDate>
+      <description>A teaching resource, in progress</description>
+    </item>
+    <item>
       <title>Musing #606: A second anniversary</title>
       <link>https://www.cs.grinnell.edu/~rebelsky/musings/second-anniversary</link>
       <guid>https://www.cs.grinnell.edu/~rebelsky/musings/second-anniversary</guid>
@@ -229,13 +236,6 @@
       <guid>https://www.cs.grinnell.edu/~rebelsky/musings/checking-my-mac-2018-03-21</guid>
       <pubDate>Thu, 22 Mar 2018 02:25:56 GMT</pubDate>
       <description>Is it dead?</description>
-    </item>
-    <item>
-      <title>Musing #574: Logging my time (Week eight of Spring Semester 2018)</title>
-      <link>https://www.cs.grinnell.edu/~rebelsky/musings/time-logs-2018-03-20</link>
-      <guid>https://www.cs.grinnell.edu/~rebelsky/musings/time-logs-2018-03-20</guid>
-      <pubDate>Wed, 21 Mar 2018 02:57:58 GMT</pubDate>
-      <description>A reasonable week, for the first time all semester!</description>
     </item>
   </channel>
 </rss>
