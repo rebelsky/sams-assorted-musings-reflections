@@ -7,7 +7,7 @@ rants about topics I'm passionate about.  Some are explanations of how
 I approach the world.  Some are just my attempts to think through a topic.
 
 Latest musing:
-[A draft of a potential ACM case study on the accessibility of online course materials](case-study-accessibility) (Musing #607)
+[Just another Saturday at Grinnel](saturday-2018-04-21) (Musing #608)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

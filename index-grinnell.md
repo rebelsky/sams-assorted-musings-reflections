@@ -143,3 +143,7 @@ Grinnell.
 
 > What do you do when two core values come into conflict?
 
+[Just another Saturday at Grinnel](saturday-2018-04-21) (Musing #608)
+
+> Too much to do!
+
