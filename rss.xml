@@ -7,6 +7,13 @@
       A curmudgeonly faculty member in computer science writes about a variety of topics.
     </description>
     <item>
+      <title>Musing #609: Pair programming with my class mentor</title>
+      <link>https://www.cs.grinnell.edu/~rebelsky/musings/pair-programming-2018-04-23</link>
+      <guid>https://www.cs.grinnell.edu/~rebelsky/musings/pair-programming-2018-04-23</guid>
+      <pubDate>Tue, 24 Apr 2018 01:23:28 GMT</pubDate>
+      <description>The joy of coding.</description>
+    </item>
+    <item>
       <title>Musing #608: Just another Saturday at Grinnell</title>
       <link>https://www.cs.grinnell.edu/~rebelsky/musings/saturday-2018-04-21</link>
       <guid>https://www.cs.grinnell.edu/~rebelsky/musings/saturday-2018-04-21</guid>
@@ -229,20 +236,6 @@
       <guid>https://www.cs.grinnell.edu/~rebelsky/musings/publicizing-ro4a</guid>
       <pubDate>Sat, 24 Mar 2018 00:56:29 GMT</pubDate>
       <description>It's a great initiative.  Why don't we say more about it?</description>
-    </item>
-    <item>
-      <title>Musing #576: Annoying paperwork</title>
-      <link>https://www.cs.grinnell.edu/~rebelsky/musings/annoying-paperwork-2018-03-22</link>
-      <guid>https://www.cs.grinnell.edu/~rebelsky/musings/annoying-paperwork-2018-03-22</guid>
-      <pubDate>Fri, 23 Mar 2018 01:44:08 GMT</pubDate>
-      <description>Is there any other kind?</description>
-    </item>
-    <item>
-      <title>Musing #575: Checking my MacBook</title>
-      <link>https://www.cs.grinnell.edu/~rebelsky/musings/checking-my-mac-2018-03-21</link>
-      <guid>https://www.cs.grinnell.edu/~rebelsky/musings/checking-my-mac-2018-03-21</guid>
-      <pubDate>Thu, 22 Mar 2018 02:25:56 GMT</pubDate>
-      <description>Is it dead?</description>
     </item>
   </channel>
 </rss>

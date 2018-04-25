@@ -48,3 +48,7 @@ The joy of code
 
 > Writing my own (badly designed) software.
 
+[Pair programming with my class mentor](pair-programming-2018-04-23) (Musing #609)
+
+> A fun way to work.
+
