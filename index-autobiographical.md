@@ -209,3 +209,7 @@ Autobiographical essays, more or less
 
 > Things that gather in boxes.
 
+[Rural high-school sports](rural-high-school-sports) (Musing #610)
+
+> An advantage and disadvantage of living in Grinnell.
+

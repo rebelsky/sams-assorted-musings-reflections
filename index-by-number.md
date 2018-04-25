@@ -790,3 +790,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [A draft of a potential ACM case study on the accessibility of online course materials](case-study-accessibility) (Musing #607)  
 [Just another Saturday at Grinnel](saturday-2018-04-21) (Musing #608)  
 [Pair programming with my class mentor](pair-programming-2018-04-23) (Musing #609)  
+[Rural high-school sports](rural-high-school-sports) (Musing #610)  

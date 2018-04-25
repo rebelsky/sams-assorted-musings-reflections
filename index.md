@@ -7,7 +7,7 @@ rants about topics I'm passionate about.  Some are explanations of how
 I approach the world.  Some are just my attempts to think through a topic.
 
 Latest musing:
-[Pair programming with my class mentor](pair-programming-2018-04-23) (Musing #609)
+[Rural high-school sports](rural-high-school-sports) (Musing #610)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
