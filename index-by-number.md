@@ -795,3 +795,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 ## 611-620
 
 [Better classroom software (or perhaps hardware)](better-classroom-software) (Musing #611)  
+[Logos, colors, fonts, and more](logos-colors-fonts-etc) (Musing #612)  

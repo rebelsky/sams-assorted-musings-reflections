@@ -916,6 +916,10 @@ Rants
 
 > Following up on a recent rant.
 
+[Logos, colors, fonts, and more](logos-colors-fonts-etc) (Musing #612)
+
+> Does getting the right kind of Grinnell Red really matter?
+
 Assorted talks and speeches
 ---------------------------
 
