@@ -298,3 +298,7 @@ Rants
 
 > Something I do too often.
 
+[Better classroom software (or perhaps hardware)](better-classroom-software) (Musing #611)
+
+> Following up on a recent rant.
+

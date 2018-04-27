@@ -791,3 +791,7 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Just another Saturday at Grinnel](saturday-2018-04-21) (Musing #608)  
 [Pair programming with my class mentor](pair-programming-2018-04-23) (Musing #609)  
 [Rural high-school sports](rural-high-school-sports) (Musing #610)  
+
+## 611-620
+
+[Better classroom software (or perhaps hardware)](better-classroom-software) (Musing #611)  

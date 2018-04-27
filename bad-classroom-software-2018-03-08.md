@@ -1,6 +1,9 @@
 Bad software
 ============
 
+*Note: Some of key issues that I complain about here [have been
+addressed](better-classroom-software).  Thanks ITS!*
+
 Each of our classrooms has a projection system.  It used to be that the
 projection system used a purely physical interface to connect the computer
 on the podium to the projector.  But we have multiple inputs (Mac, PC,
@@ -168,4 +171,6 @@ class a few minutes to get out of the room.
 
 ---
 
-*Version 1.0 of 2018-03-08.*
+*Version 1.0 released 2018-03-08.*
+
+*Version 1.1 of 2018-04-25.*
