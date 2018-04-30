@@ -14,7 +14,8 @@ The next end of month musing
 
 * Start adding topics/tags at the top.
 * Added Hypothes.is.  Broke things.
-* Wrote a new introduction (?, I hope)
+* Wrote a new introduction (?, I hope).  About a month later than I'd
+  planned.
 * Status of list of forthcoming musings (rearranged, I hope; changes to
   total number?  Added potential tags?)
 * When I had to talk about CSC 321/22 recently, it was helpful to have
@@ -39,7 +40,8 @@ The next end of month musing
   series of "Grinnellians you should know (or know about)".  I remember
   why I wrote them.  They make me feel good.  I think they make other
   people feel good.  They shouldn't make anyone feel bad.  That's 
-  definitely a net positive.
+  definitely a net positive.  I have a few more in the "soon" queue, but
+  seventeen days have passed and I haven't made it to any yet.
 * Technical readers are submitting pull requests.
 * Realized that I don't remember what I write.  After yet another
   discussion in which people disparaged double majors, I had sketched 
@@ -48,12 +50,25 @@ The next end of month musing
   majors make double majors much easier), but I think I'll put it off
   a bit longer.
 
+On particular dates
+-------------------
+
+* November 11, 2018: 11/11.  
+* March 29, 2019: outliving my father.  (It's a facebook memory from
+  that date in 2013.)
+
 Musings with substantive drafts
 -------------------------------
 
 _I should finish these some time soon._
 
 1. An introduction to SamR's Assorted Musings and Rants `intro-musings-v0.md`.
+
+1. Textbooks and the bookstore (international editions).  
+   `textbooks-bookstore-2018-05-nn`
+
+1. Language.  The power of words.
+   `language-2018-05-nn`
 
 1. SIGCSE list workflows.  `sigcse-list-workflow`.  
 
@@ -81,7 +96,9 @@ _I should finish these some time soon._
 
 ### "High priority"
 
-1. Pair programming with my peer educator.
+1. We've been Ologized.  (Let's hope that we're not eulogized.)
+
+1. Fighting with fonts.  (Fun with fonts?)
 
 1. Unpacking quantitative literacy.  A group on campus has recently
    been upacking one of Grinnell's elements of the liberal arts [1]
@@ -89,34 +106,6 @@ _I should finish these some time soon._
    same thing with quantitative literacy.    It's really three kinds
    of literacy, which I'll term "mathematical literacy", "statistical
    literacy", and "algorithmic literacy".
-
-1. Rural sports.  One thing that city and suburb folks may not know about
-   being in a rural area is the challenges of being a supportive parent
-   when your child is on a sports team.  While there are some similar
-   size schools nearby ("nearby" = less than 45 minutes away), to get a
-   full set of competitors, you look a bit further.  Let's take the other
-   day, as an example.  Youngest Son had an away tennis meet.  I wasn't
-   planning on going.  But Michelle really wanted to go and wasn't up
-   to driving.  So we went.  It was in Boone.  Boone is about seventy-five
-   miles / ninety minutes from Grinnell [1] Road construction.  And, well,
-   there aren't that many tennis matches left in YS's high school career.
-   So I drove Michelle.  We stopped for a quick (20-30 min) dinner on
-   the way home.  All in all, it was six hours door to door.  On the
-   positive side, I got a break from work.  On the negative, that meant
-   that work stacked up.  But that's not the focus of this musing.  Rather,
-   it's to note one way the experience of a rural parent is likely much
-   different than the experience of an urban or suburban parent.  There
-   are certainly a bunch of positives: living five minutes from work means
-   less of a commute.  When the kids were younger, I could easily slip
-   out of work to read in a class, or run MathCounts one day a week, or
-   whatever.  And I love that the kids are not "tracked" into activities.
-   All three boys did three sports, band, choir, theatre (usually tech
-   theatre), and took College classes.  No one said "You're a band
-   nerd; you can't play football."  No one said "You're a swimmer; you
-   can't do a play."  Of course, because they do so many things, they
-   are so many more opportunities to travel the not-insubstantial 
-   distances to their events  But you know what?  I wouldn't trade it
-   for anything.
 
 1. Portable cellos.  Last week, the College brought in a visiting 
    musician who performed on what were clearly custom-made instruments.
@@ -282,9 +271,6 @@ for you.  Increased effects of vaccines and such.  Less would be good.
 Increased cooking effort for protein.  Harder for me, since nuts are a
 common source, and I'm allergic.  Deciding on limits.  Eggs?  Milk?  Fish?
 Okay to deviate once in a while?  Nuts.
-
-1. Bad classroom software, continued.  Carolyn's  quote
-   "I would say that the first version of the software-based system significantly changed my experience teaching with technology for the better. In the classrooms I taught in, it made the technology more reliable and the experience of doing what I wanted to do more uniform across classrooms. // My experience this semester has been rocky, but it's hard for me to isolate whether the source of my problems is the software or the hardware. At the same time the software was updated I also started teaching in two completely new classrooms for me--one set up for art (no PC, two screens) and one for music (which seems to have more audio inputs to choose from, in addition to the new options you are writing about with the updated software). So this semester has been a little frustrating, but I've usually been able to get things working, other than the first day when I realized I didn't have a PC available and so couldn't get to the teaching files I have on my H: drive. The mute screen buttons have worked, the coloring of the projection has been a lot better than in JRC. // I'm not sure why I have fallen into writing my own musing here, but that's my field report from Bucksbaum."  In contrast, I find less uniformity and less reliability.  I hate computers.  And, after that musing, I had yet another bad day.
 
 1. Feeling maudlin.  (Reflection on the last few  musings, all of which
    made me sad - Paul Nossiter, The Joe Stories, The Meaning of Things,
@@ -618,6 +604,9 @@ to think through the matter.
 1. Whatever I do in 151 today - joy of tables?.
 
 1. Five sentences.  (Slightly started.)
+
+1. Learning to Sing.  (Okay, this is mostly a placeholder so that I
+   don' forget.)  <https://www.musical-u.com/learn/how-to-learn-to-sing-in-tune/>.
 
 ### New forthcoming musings (well, not so new any more)
 
