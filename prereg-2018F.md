@@ -95,9 +95,9 @@ We'll start with over-enrolled courses.
 * CSC 324, _Software Design and Development_ is over-enrolled by six
   students.  We'll need to figure out how many of those we can keep;
   the structure of the class makes it hard to keep that many.
-* Economics 222, _Foundations of Policy Analysis_ is over-enrolled by
-  five.  I don't know how Econ cuts students, but I expect that they
-  will cut some.
+* Economics/Policy Studies 220, _Foundations of Policy Analysis_ is
+  over-enrolled by five.  I don't know how Econ and Policy Studies
+  cut students, but I expect that they will cut some [7].
 * Economics 240, _Resource and Environmental Economics_, is over-enrolled
   by fourteen students.  I feel like that's a common occurrence, but I
   don't see a note to that effect in my past musings.  I wonder if it
@@ -108,7 +108,7 @@ We'll start with over-enrolled courses.
 * Unsurprisingly, Economics 327, _Corporate Finance_ is over-enrolled
   by twelve students.  Why is that not surprising?  because Economics
   is a popular major, because Finance is a popular topic, and because
-  it wasn't offered this year [7].  I know that many of my dual CS/Econ
+  it wasn't offered this year [8].  I know that many of my dual CS/Econ
   majors were looking forward to it.
 * English 206, _The Craft of Poetry_, is over-enrolled by eleven students.
   Who wouldn't want to study poetry with the legendary Ralph Savarese?
@@ -135,13 +135,13 @@ We'll start with over-enrolled courses.
   if she is to survive the semester.
 * Section 1 of Mathematics 215, _Linear Algebra_, is over-enrolled by
   fifteen students.  There are only nine slots available in section 2.
-  That's going to be a hard class to cut, as most students need it for
-  their Mathematics major or their Computer Science major.  The course
-  is now in that weird zone in which there don't feel like quite enough
-  students to offer another section, yet it's more than you can really
-  support in the current sections.  Nonetheless, two over-enrolled
-  sections is a lot.  I feel sorry for my student who was hoping to add
-  the course late.
+  That's going to be a hard class to cut, as most students need it
+  for their Mathematics major or their Computer Science major [9].
+  The course is now in that weird zone in which there don't feel like
+  quite enough students to offer another section, yet it's more than
+  you can really support in the current sections.  Nonetheless, two
+  over-enrolled sections is a lot.  I feel sorry for my student who was
+  hoping to add the course late.
 * Mathematics 321, _Foundations of Abstract Algebra_, is over-enrolled
   by four students.
 * Music 120-01, _Performance: Violin_ is over-enrolled by four students.
@@ -152,7 +152,7 @@ We'll start with over-enrolled courses.
   _Performance: Voice_, is over-enrolled by nine students.  Nicholas
   Miguel normally takes only ten.  There are some slots in Suzanne
   Lommler's voice section and in a section with an unknown instructor
-  [8].  It looks like Henderson has a few slots in the _Performance:
+  [10].  It looks like Henderson has a few slots in the _Performance:
   Advanced Voice_, so perhaps she'll switch around. Or maybe the advanced
   sections are mis-capped, since the caps all seem to be twenty.
 * Section 1 of the _Modern Physics Lab_ is over-enrolled by three.
@@ -196,7 +196,7 @@ Studio Art 134, _Drawing_, which really needs another section.  Other ones
 that I think will be difficult to accommodate include _Linear Algebra_,
 _Studies in Shakespeare_, _Women and Gender in Spanish Literature_,
 and _Corporate Finance_.  I hope the College finds ways to offer extra
-sections of those courses [9].  In most other cases, students will likely
+sections of those courses [11].  In most other cases, students will likely
 be able to find appropriate alternatives if they are cut.
 
 I'm somewhat comforted to see that there are three English classes that
@@ -225,14 +225,14 @@ Economics advisors can help them with that issue.  The ones who want to
 take Drawing.  I already warned them that that course would over-enroll;
 I just didn't realize it would be by quite that much.  The one who really
 wanted _Linear Algebra_ but could not pre-register.  There's not much I
-can do for them [10].  There are probably a few others but it appears that
+can do for them [12].  There are probably a few others but it appears that
 SelfService and WebAdvisor are down which makes it impossible to check
-[11].
+[14].
 
 I also have a few who want to take courses that limit enrollment for
 upper-level students.  How are those classes doing?  Linguistics 114 has
 six slots available.  I assume that they will hold those for first-year
-students [12].  There are 52 slots available for _Introduction to
+students [15].  There are 52 slots available for _Introduction to
 Gender, Women's and Sexuality Studies_.  I assume that my students who
 want that can get in if they ask nicely.
 
@@ -251,7 +251,7 @@ I may not.  We'll see what my muse suggests.
 I wish good luck to the students in those over-enrolled classes.
 I express sympathy to my colleagues who have to make hard decisions.
 I must admit that I'm glad that it's a semester in which I don't have
-to make those hard decisions [14]
+to make those hard decisions [16]
 
 ---
 
@@ -284,30 +284,38 @@ I forget.  I *think* they'll have larger classes and just add a lab or
 two, but I could be wrong.  It depends, in part, on what human resources
 are available to the department.
 
-[7] Or at least I don't think it was offered this year.
+[7] I hear from some Policy Studies faculty that they try not to cut
+people from PST-220.
 
-[8] Unknown to me as it's listed as "Staff".  It could be that the Music
+[8] Or at least I don't think it was offered this year.
+
+[9] Also for their Physics major.  And I hear that Linear Algebra is also 
+important for some Chemistry majors.
+
+[10] Unknown to me as it's listed as "Staff".  It could be that the Music
 department knows who it is and the system just doesn't list them.
 
-[9] It is, of course, not easy to add an extra section of a course.
+[11] It is, of course, not easy to add an extra section of a course.
 We don't have spare faculty and we should not ask faculty to teach
 [overloads](overloads).  Hence, the normal approach is to find another
 course to cut.  But cutting courses is hard.  And it's not as if
 faculty are interchangeable.
 
-[10] They have already been in touch with the instructor.
+[12] They have already been in touch with the instructor.
 
-[11] I suppose that I could call our outsourced-in-the-evening help-desk,
+[14] I suppose that I could call our outsourced-in-the-evening help-desk,
 but my general experience is that the folks I call have no knowledge of
 our systems and no ability to help.  It's not worth my time.
 
-[12] If not, I'm pretty sure that I have six advisees who would claim them
+[15] If not, I'm pretty sure that I have six advisees who would claim them
 all.
 
-[14] I'm particularly glad because the decision I make is usually one
+[16] I'm particularly glad because the decision I make is usually one
 that's bad for me: "I'll just take extra students."  I'm not even sure
 that that decision is best for the students.
 
 ---
 
-*Version 1.0 of 2018-04-27.*
+*Version 1.0 released 2018-04-27.*
+
+*Version 1.1 of 2018-04-27.*
