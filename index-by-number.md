@@ -796,3 +796,6 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 
 [Better classroom software (or perhaps hardware)](better-classroom-software) (Musing #611)  
 [Logos, colors, fonts, and more](logos-colors-fonts-etc) (Musing #612)  
+[Preregistration for Fall 2018](prereg-2018F) (Musing #613)  
+[Sleep(less) cycles](sleepless-cycles) (Musing #614)  
+[Unproductive](unproductive-2018-04-29) (Musing #615)  

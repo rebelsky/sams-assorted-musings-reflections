@@ -213,3 +213,7 @@ Autobiographical essays, more or less
 
 > An advantage and disadvantage of living in Grinnell.
 
+[Sleep(less) cycles](sleepless-cycles) (Musing #614)
+
+> Some effects of insufficient sleep.
+

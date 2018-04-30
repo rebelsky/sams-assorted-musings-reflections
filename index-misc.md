@@ -557,3 +557,7 @@ Almost everything else
 
 > Better news on recycling.
 
+[Preregistration for Fall 2018](prereg-2018F) (Musing #613)
+
+> Sam reflects on the preregistration numbers.
+

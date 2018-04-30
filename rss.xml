@@ -7,6 +7,27 @@
       A curmudgeonly faculty member in computer science writes about a variety of topics.
     </description>
     <item>
+      <title>Musing #615: Unproductive</title>
+      <link>https://www.cs.grinnell.edu/~rebelsky/musings/unproductive-2018-04-29</link>
+      <guid>https://www.cs.grinnell.edu/~rebelsky/musings/unproductive-2018-04-29</guid>
+      <pubDate>Mon, 30 Apr 2018 01:37:27 GMT</pubDate>
+      <description>An apt description for this weekend.</description>
+    </item>
+    <item>
+      <title>Musing #614: Sleep(less) cycles</title>
+      <link>https://www.cs.grinnell.edu/~rebelsky/musings/sleepless-cycles</link>
+      <guid>https://www.cs.grinnell.edu/~rebelsky/musings/sleepless-cycles</guid>
+      <pubDate>Sun, 29 Apr 2018 02:19:36 GMT</pubDate>
+      <description>Some effects of insufficient sleep.</description>
+    </item>
+    <item>
+      <title>Musing #613: Preregistration (for fall 2018)</title>
+      <link>https://www.cs.grinnell.edu/~rebelsky/musings/prereg-2018F</link>
+      <guid>https://www.cs.grinnell.edu/~rebelsky/musings/prereg-2018F</guid>
+      <pubDate>Sat, 28 Apr 2018 03:11:34 GMT</pubDate>
+      <description>Sam reflects on the preregistration numbers.</description>
+    </item>
+    <item>
       <title>Musing #612: Logos, colors, fonts, and more</title>
       <link>https://www.cs.grinnell.edu/~rebelsky/musings/logos-colors-fonts-etc</link>
       <guid>https://www.cs.grinnell.edu/~rebelsky/musings/logos-colors-fonts-etc</guid>
@@ -229,20 +250,6 @@
       <guid>https://www.cs.grinnell.edu/~rebelsky/musings/processed-sugar</guid>
       <pubDate>Wed, 28 Mar 2018 05:04:34 GMT</pubDate>
       <description>Can I really do it?</description>
-    </item>
-    <item>
-      <title>Musing #580: Making more work for myself</title>
-      <link>https://www.cs.grinnell.edu/~rebelsky/musings/infodir-post-sigcse</link>
-      <guid>https://www.cs.grinnell.edu/~rebelsky/musings/infodir-post-sigcse</guid>
-      <pubDate>Tue, 27 Mar 2018 04:20:09 GMT</pubDate>
-      <description>Or maybe not.</description>
-    </item>
-    <item>
-      <title>Musing #579: Textbook orders</title>
-      <link>https://www.cs.grinnell.edu/~rebelsky/musings/textbook-orders</link>
-      <guid>https://www.cs.grinnell.edu/~rebelsky/musings/textbook-orders</guid>
-      <pubDate>Mon, 26 Mar 2018 04:51:46 GMT</pubDate>
-      <description>Does it really make sense to make us do them this early?</description>
     </item>
   </channel>
 </rss>

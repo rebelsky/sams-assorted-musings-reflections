@@ -7,7 +7,7 @@ rants about topics I'm passionate about.  Some are explanations of how
 I approach the world.  Some are just my attempts to think through a topic.
 
 Latest musing:
-[Logos, colors, fonts, and more](logos-colors-fonts-etc) (Musing #612)
+[Unproductive](unproductive-2018-04-29) (Musing #615)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

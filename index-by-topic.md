@@ -1158,6 +1158,10 @@ Overcommitment
 
 > Remembering bad decisions.
 
+[Unproductive](unproductive-2018-04-29) (Musing #615)
+
+> An apt description for this weekend.
+
 On teaching 
 -----------
 
@@ -2119,6 +2123,10 @@ Autobiographical essays, more or less
 
 > An advantage and disadvantage of living in Grinnell.
 
+[Sleep(less) cycles](sleepless-cycles) (Musing #614)
+
+> Some effects of insufficient sleep.
+
 Salary reviews
 --------------
 
@@ -2727,6 +2735,10 @@ Almost everything else
 [Recycling, revisited](recycling-revisited-2018-04-17) (Musing #602)
 
 > Better news on recycling.
+
+[Preregistration for Fall 2018](prereg-2018F) (Musing #613)
+
+> Sam reflects on the preregistration numbers.
 
 Musings with multiple entries
 -----------------------------
