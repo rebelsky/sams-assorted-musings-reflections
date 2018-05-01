@@ -799,3 +799,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Preregistration for Fall 2018](prereg-2018F) (Musing #613)  
 [Sleep(less) cycles](sleepless-cycles) (Musing #614)  
 [Unproductive](unproductive-2018-04-29) (Musing #615)  
+[Whoops](whoops-2018-04-30) (Musing #616)  

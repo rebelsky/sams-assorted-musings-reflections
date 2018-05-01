@@ -283,6 +283,10 @@ Essays on writing, or at least on writing my musings
 
 > Reflecting on two years since the first musing.
 
+[Whoops](whoops-2018-04-30) (Musing #616)
+
+> Forgetting the end-of-month musing.
+
 For prospective students, parents of prospective students, and others with similar interests
 --------------------------------------------------------------------------------------------
 
