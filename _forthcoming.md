@@ -30,8 +30,9 @@ The next end of month musing
   explicitly exempted some majors from the department limit.  I began to
   think about the issue for Math/Stats.  Of course, when I started writing
   it, I thought it would be a short rant.
-* Kept trying to write short musings.  But the short musings kept ending
-  up being long musings.  Bleh.
+* Kept trying to write short musings.  But many short musings kept ending
+  up being long musings.  Bleh.  Ended the month with three short musings
+  (list them), inspired primarily by lack of sleep.
 * Partially for that reason, most musings still don't get posted until 
   10 p.m.  But I did get one out before 7:00 p.m. one day.  That's one
   that I just felt I needed to write.  (Which one was it?  Damn.  Oh,
