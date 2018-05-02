@@ -800,3 +800,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Sleep(less) cycles](sleepless-cycles) (Musing #614)  
 [Unproductive](unproductive-2018-04-29) (Musing #615)  
 [Whoops](whoops-2018-04-30) (Musing #616)  
+[Another month of daily musings](another-month-2018-04) (Musing #617)  

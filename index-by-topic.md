@@ -287,6 +287,10 @@ Essays on writing, or at least on writing my musings
 
 > Forgetting the end-of-month musing.
 
+[Another month of daily musings](another-month-2018-04) (Musing #617)
+
+> Thirty days hath April.
+
 For prospective students, parents of prospective students, and others with similar interests
 --------------------------------------------------------------------------------------------
 
