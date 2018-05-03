@@ -9,9 +9,9 @@ should write about this week instead.  That seems to be a good idea.*
 For as long as I've been at Grinnell, a substantial number of students
 have referred to the last week of classes as "hell week" (or sometimes
 "hell week; whoops, sorry Sam, I know you don't like profanity").  That's
-what I called it when I first came to Grinnell, too.  
+what I called it when I first came to Grinnell, too.
 
-A few years after I came to Grinnell, a few folks in Student Affairs 
+A few years after I came to Grinnell, a few folks in Student Affairs
 started to suggest that we give it a different name, because "names have
 power".  Ever obedient, I started to refer to it as "Happy Exciting
 Liberal Learning week" (try saying that ten times fast).  That is,
@@ -25,20 +25,20 @@ good evidence that naming this week "hell week" actually makes it worse.
 Apparently, expectations of unpleasant times leads times to be less pleasant.
 Now, week fourteen is always likely to involve a lot of work; after all,
 most of the faculty like to leave culminating projects until this week.
-But that doesn't mean that it's impossible.  It might be that if we 
+But that doesn't mean that it's impossible.  It might be that if we
 referred to it as "hard, but survivable week", we'd all feel a bit better
 about it.  (No, I am not seriously suggesting that we call it that.)
 
 In any case, since I respect the people who've raised the issue with me,
-and given me a good rationale, I ask people not to call this h week.  
+and given me a good rationale, I ask people not to call this h week.
 Perhaps some day we'll make a difference.
 
 ---
 
-A more troubling issue, and one that I might address in more depth in a 
-future essay, is how we make this week less difficult for students.  
-Since most classes have work that builds across a semester, it makes
-sense that the work culminates at the end of the semester, whether it takes
+A more troubling issue, and one that I might address in more depth in a
+future essay, is how we might make this week less difficult for students.
+Since most classes have work that builds across a semester, it makes sense
+that the work culminates at the end of the semester, whether it takes
 the form of an exam, a research paper, a presentation, or a combination
 thereof.  But there are perhaps ways that we can help our students.
 
@@ -83,7 +83,7 @@ address these issues?
 
 Students might be interested to hear that week 14 is also hard (but
 survivable) for the faculty.  Often, we are catching up on grading.
-(Okay, I know that I'm always catching up on grading at this time; I 
+(Okay, I know that I'm always catching up on grading at this time; I
 think many colleagues are too.)  Most of us are also getting things in
 order for our summers (or winters) ... lining up research materials,
 planning visits to archives or collaborators, making plans with family,
@@ -92,7 +92,7 @@ etc.  And committees are wrapping up, trying to finish that last little
 too.  I know that I have at least four times in the next week or so in
 which I have two or more recommended meetings scheduled at the same time.
 I also have to fit in peer educator interviews and exit interviews with
-my twenty or so graduating senior advisees.  
+my twenty or so graduating senior advisees.
 
 And yes, it's equally hard on the staff.  It's particularly hard on
 the staff who have to support the students and faculty who are not
@@ -109,4 +109,6 @@ win 'em all, particularly not during "hard, but survivable" week.
 
 ---
 
-*Version 1.0 of 2016-06-10."
+*Version 1.0 released 2016-05-10.*
+
+*Version 1.0.1 of 2018-05-02.*
