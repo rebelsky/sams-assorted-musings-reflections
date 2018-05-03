@@ -7,7 +7,7 @@ rants about topics I'm passionate about.  Some are explanations of how
 I approach the world.  Some are just my attempts to think through a topic.
 
 Latest musing:
-[Another month of daily musings](another-month-2018-04) (Musing #617)
+[Language](language-2018-05-02) (Musing #618)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

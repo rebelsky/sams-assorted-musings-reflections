@@ -2748,6 +2748,10 @@ Almost everything else
 
 > Sam reflects on the preregistration numbers.
 
+[Language](language-2018-05-02) (Musing #618)
+
+> Words matter.
+
 Musings with multiple entries
 -----------------------------
 

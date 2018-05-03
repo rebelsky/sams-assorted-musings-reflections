@@ -801,3 +801,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Unproductive](unproductive-2018-04-29) (Musing #615)  
 [Whoops](whoops-2018-04-30) (Musing #616)  
 [Another month of daily musings](another-month-2018-04) (Musing #617)  
+[Language](language-2018-05-02) (Musing #618)  
