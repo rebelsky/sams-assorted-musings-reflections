@@ -123,7 +123,7 @@ We'll start with over-enrolled courses.
 * English 310, _Studies in Shakespeare_, is over-enrolled by eight
   students.  That's a challenge to deal with since it's an upper-level
   seminar that students likely need and it's not something that others
-  can teach.  So, even though English 360, _Seminary in Postcolonial
+  can teach.  So, even though English 360, _Seminar in Postcolonial
   Literature_, is under-enrolled, there's not really a magic switch that
   can happen, or at least I assume that there's not.
 * Global Development Studies 320, _Applied Policy Analysis_ is
@@ -318,4 +318,4 @@ that that decision is best for the students.
 
 *Version 1.0 released 2018-04-27.*
 
-*Version 1.1 of 2018-04-27.*
+*Version 1.1.1 of 2018-05-04.*
