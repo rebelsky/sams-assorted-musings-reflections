@@ -1486,6 +1486,11 @@ The joy of code
 
 > A fun way to work.
 
+[Groking Ruby](groking-ruby-2018-05-06) (Musing #622)
+
+> Not so much a joy of code as a joy of *not-very-good but enjoyably
+  strange* code. 
+
 A new CSC 151
 -------------
 
@@ -2135,6 +2140,10 @@ Autobiographical essays, more or less
 
 > Some effects of insufficient sleep.
 
+[A short biography](short-bio-2018-05-03) (Musing #619)
+
+> Or at least shorter than the last one.
+
 Salary reviews
 --------------
 
@@ -2751,6 +2760,14 @@ Almost everything else
 [Language](language-2018-05-02) (Musing #618)
 
 > Words matter.
+
+[Updates on preregistration for fall 2018](post-prereg-2018F) (Musing #620)
+
+> Sam reflects on the updated preregistration numbers.
+
+[Faculty parties](faculty-parties) (Musing #621)
+
+> Feeling fortunate to work with awesome people, a few more of whom now have tenure.
 
 Musings with multiple entries
 -----------------------------

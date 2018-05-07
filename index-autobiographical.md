@@ -217,3 +217,7 @@ Autobiographical essays, more or less
 
 > Some effects of insufficient sleep.
 
+[A short biography](short-bio-2018-05-03) (Musing #619)
+
+> Or at least shorter than the last one.
+

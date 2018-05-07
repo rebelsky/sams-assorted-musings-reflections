@@ -52,3 +52,8 @@ The joy of code
 
 > A fun way to work.
 
+[Groking Ruby](groking-ruby-2018-05-06) (Musing #622)
+
+> Not so much a joy of code as a joy of *not-very-good but enjoyably
+  strange* code. 
+

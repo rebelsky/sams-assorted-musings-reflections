@@ -565,3 +565,11 @@ Almost everything else
 
 > Words matter.
 
+[Updates on preregistration for fall 2018](post-prereg-2018F) (Musing #620)
+
+> Sam reflects on the updated preregistration numbers.
+
+[Faculty parties](faculty-parties) (Musing #621)
+
+> Feeling fortunate to work with awesome people, a few more of whom now have tenure.
+

@@ -7,7 +7,7 @@ rants about topics I'm passionate about.  Some are explanations of how
 I approach the world.  Some are just my attempts to think through a topic.
 
 Latest musing:
-[Language](language-2018-05-02) (Musing #618)
+[Groking Ruby](groking-ruby-2018-05-06) (Musing #622)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

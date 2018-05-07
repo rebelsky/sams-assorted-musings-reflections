@@ -802,3 +802,10 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Whoops](whoops-2018-04-30) (Musing #616)  
 [Another month of daily musings](another-month-2018-04) (Musing #617)  
 [Language](language-2018-05-02) (Musing #618)  
+[A short biography](short-bio-2018-05-03) (Musing #619)  
+[Updates on preregistration for fall 2018](post-prereg-2018F) (Musing #620)  
+
+## 621-630
+
+[Faculty parties](faculty-parties) (Musing #621)  
+[Groking Ruby](groking-ruby-2018-05-06) (Musing #622)  
