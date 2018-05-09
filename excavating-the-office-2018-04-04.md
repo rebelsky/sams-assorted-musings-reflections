@@ -32,8 +32,8 @@ an interesting piece of paper or two.  My favorite is the car pool
 schedule for when Middle was in the College preschool.  Because I am
 a cruel father and because one of the other kids in the car pool is
 at the College now, I posted it on my door.  I also found old envelopes
-from when we were just a Department of Mathematics; they had the mating
-slugs on them.
+from when we were just a Department of Mathematics; they had the [mating
+slugs](mating-slugs) on them.
 
 Below the papers [5] was a bunch of random small things, which I either
 dumped off of my desktop or, more likely, threw into the box from a
@@ -122,4 +122,6 @@ they started to use another stack of 100% cotton bond for scrap paper.
 
 ---
 
-*Version 1.0 of 2018-04-04.*
+*Version 1.0 released 2018-04-04.*
+
+*Version 1.0.1 of 2018-05-09.*

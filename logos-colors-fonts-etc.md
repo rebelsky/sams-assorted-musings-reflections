@@ -13,11 +13,11 @@ the *n*th redesign of the Web site [6], and other related issues.
 For this first musing, I'm going to focus on something that should be
 simple and straightforward: colors.
 
-In the fall of 2002, the College switched from the two-petal logo [7]
+In the fall of 2002, the College switched from the split one-petal logo [7]
 back to something like its previous four-petal laurel leaf.  However,
-while the previous laurel leaf was outlined, this one was filled in
-with a shade of scarlet [8].  We also got a bunch of new designs for
-stationary, business cards, envelopes, and more [9].
+while the previous laurel leaf was outlined, this one was filled in with a
+shade of scarlet [8].  We also got a bunch of new designs for stationary,
+business cards, envelopes, and more [9].
 
 One of the first things I wanted to do after these things rolled out
 was to get a new business card.  Since we had facilities in the Science
@@ -109,8 +109,8 @@ figuring out what to do with all the materials and users that they tossed
 off the primary Web site (other than saying "It belongs behind a password
 wall on GrinCo", which they promised us wouldn't be all that they would do).
 
-[7] The two-petal logo was in use when I arrived at Grinnell.  I was told
-that folks referred to that logo as "mating slugs".  But if you do a
+[7] The split-petal logo was in use when I arrived at Grinnell.  I was told
+that folks referred to that logo as "[mating slugs](mating-slugs)".  But if you do a
 Web search for "Grinnell" and "Mating Slugs", you tend to find only my
 musings.  Go figure.
 
@@ -163,4 +163,6 @@ something that will convert `pfb` files to `pfa` format.
 
 ---
 
-*Version 1.0 of 2018-04-26.*
+*Version 1.0 released 2018-04-26.*
+
+*Version 1.1 of 2018-05-09*
