@@ -147,3 +147,7 @@ Grinnell.
 
 > Too much to do!
 
+[Unpacking "quantitative reasoning"](unpacking-quantitative-reasoning) (Musing #623)
+
+> Reflections on a core element of a Grinnell liberal-arts education.
+

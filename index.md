@@ -7,7 +7,7 @@ rants about topics I'm passionate about.  Some are explanations of how
 I approach the world.  Some are just my attempts to think through a topic.
 
 Latest musing:
-[Groking Ruby](groking-ruby-2018-05-06) (Musing #622)
+[Comments on the summer MAP form](map-form-2018-05-08) (Musing #624)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

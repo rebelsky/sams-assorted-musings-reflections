@@ -928,6 +928,10 @@ Rants
 
 > Does getting the right kind of Grinnell Red really matter?
 
+[Comments on the summer MAP form](map-form-2018-05-08) (Musing #624)
+
+> Minor critiques.
+
 Assorted talks and speeches
 ---------------------------
 
@@ -1804,6 +1808,10 @@ Grinnell.
 [Just another Saturday at Grinnel](saturday-2018-04-21) (Musing #608)
 
 > Too much to do!
+
+[Unpacking "quantitative reasoning"](unpacking-quantitative-reasoning) (Musing #623)
+
+> Reflections on a core element of a Grinnell liberal-arts education.
 
 A letter to the incoming chair
 ------------------------------

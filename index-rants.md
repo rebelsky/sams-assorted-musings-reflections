@@ -306,3 +306,7 @@ Rants
 
 > Does getting the right kind of Grinnell Red really matter?
 
+[Comments on the summer MAP form](map-form-2018-05-08) (Musing #624)
+
+> Minor critiques.
+
