@@ -812,3 +812,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Unpacking "quantitative reasoning"](unpacking-quantitative-reasoning) (Musing #623)  
 [Comments on the summer MAP form](map-form-2018-05-08) (Musing #624)  
 [Marketing Grinnell](marketing-grinnell-2018-05-09) (Musing #625)  
+[It's not *my* Grinnellian story](our-grinnellian-story-2018-05-10) (Musing #626)  

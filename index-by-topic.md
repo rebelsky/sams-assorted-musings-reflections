@@ -932,6 +932,10 @@ Rants
 
 > Minor critiques.
 
+[It's not *my* Grinnellian story](our-grinnellian-story-2018-05-10) (Musing #626)
+
+> The title says it all.
+
 Assorted talks and speeches
 ---------------------------
 

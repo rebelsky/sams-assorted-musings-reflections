@@ -7,7 +7,7 @@ rants about topics I'm passionate about.  Some are explanations of how
 I approach the world.  Some are just my attempts to think through a topic.
 
 Latest musing:
-[Marketing Grinnell](marketing-grinnell-2018-05-09) (Musing #625)
+[It's not *my* Grinnellian story](our-grinnellian-story-2018-05-10) (Musing #626)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
