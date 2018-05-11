@@ -1813,6 +1813,10 @@ Grinnell.
 
 > Reflections on a core element of a Grinnell liberal-arts education.
 
+[Marketing Grinnell](marketing-grinnell-2018-05-09) (Musing #625)
+
+> How do you convince folks to consider this gem of an institution?
+
 A letter to the incoming chair
 ------------------------------
 
