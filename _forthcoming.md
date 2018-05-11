@@ -1,6 +1,10 @@
 Some forthcoming musings
 ========================
 
+_This is my online "sketchbook" for the musings I hope to someday write.
+It's not really intended for public consumption, but I won't object if
+you find it and decide to read it._
+
 The next weekly log
 -------------------
 
@@ -12,49 +16,21 @@ The next weekly log
 The next end of month musing
 ----------------------------
 
-* Start adding topics/tags at the top.
-* Added Hypothes.is.  Broke things.
-* Wrote a new introduction (?, I hope).  About a month later than I'd
-  planned.
-* Status of list of forthcoming musings (rearranged, I hope; changes to
-  total number?  Added potential tags?)
-* When I had to talk about CSC 321/22 recently, it was helpful to have
-  spent some time writing about it.  I think it made me more articulate.
-  (Of course, I also talk about CSC 321/22 a lot.  So perhaps not.)
-* Tried planning a week in advance.  Quickly got disrupted.  Nights
-  in which I needed short musings.  One or two musings that needed
-  external approval (those are rare).
-* Writing the long rant on [Getting requirements
-  wrong](getting-requirements-wrong) ended up being a useful exercise.
-  I explained to myself why I care about these issues.  I learned that we've
-  explicitly exempted some majors from the department limit.  I began to
-  think about the issue for Math/Stats.  Of course, when I started writing
-  it, I thought it would be a short rant.
-* Kept trying to write short musings.  But many short musings kept ending
-  up being long musings.  Bleh.  Ended the month with three short musings
-  (list them), inspired primarily by lack of sleep.
-* Partially for that reason, most musings still don't get posted until 
-  10 p.m.  But I did get one out before 7:00 p.m. one day.  That's one
-  that I just felt I needed to write.  (Which one was it?  Damn.  Oh,
-  it was the mixed messages one.)
-* Reached 600 musings.  Chose that number to try to restart a long-defunct
-  series of "Grinnellians you should know (or know about)".  I remember
-  why I wrote them.  They make me feel good.  I think they make other
-  people feel good.  They shouldn't make anyone feel bad.  That's 
-  definitely a net positive.  I have a few more in the "soon" queue, but
-  seventeen days have passed and I haven't made it to any yet.
-* Technical readers are submitting pull requests.
-* Realized that I don't remember what I write.  After yet another
-  discussion in which people disparaged double majors, I had sketched 
-  a paragraph about them.  A few days later, I realized that I'd already
-  mused about the subject.  I have new things to say (e.g., that eight-course
-  majors make double majors much easier), but I think I'll put it off
-  a bit longer.
+* Gave up on reporting weekly logs.  (I'm generally keeping the logs up
+  to date, but I'm not perfect.)
+* Wrote [rambly piece on language](language-2018-05-02).  One of the
+  first comments I got was "Great piece!"  Perhaps content is more 
+  important than structure.
+* Wrote [a short biography](short-bio-2018-05-03).  The biography was
+  short.  But the surrounding text grew and grew until it was a normal
+  size musing.
 
 On particular dates
 -------------------
 
 * November 11, 2018: 11/11.  
+* Ground-hog's day, 2019: Ground hog's day.  How long has it been since
+  we've had one of those parties?
 * March 29, 2019: outliving my father.  (It's a facebook memory from
   that date in 2013.)
 
@@ -64,12 +40,6 @@ Musings with substantive drafts
 _I should finish these some time soon._
 
 1. An introduction to SamR's Assorted Musings and Rants `intro-musings-v0.md`.
-
-1. Textbooks and the bookstore (international editions).  
-   `textbooks-bookstore-2018-05-nn`
-
-1. Language.  The power of words.
-   `language-2018-05-nn`
 
 1. SIGCSE list workflows.  `sigcse-list-workflow`.  
 
@@ -92,23 +62,90 @@ _I should finish these some time soon._
 
 1. Peoples' names. (`misnaming.md`)
 
-
 ---------------
 
 ### "High priority"
+
+1. Building on our strengths - Individual alumni mentors.  (changing-grinnell-01)
+
+1. Alternate EOCEs.
+
+1. About EOCEs.  (Based on <http://www.cs.grinnell.edu/~rebelsky/about-eoc.html>)
+
+1. A Grinnell Growth Mindset `grinnell-growth-mindset`
+
+1. Marketing Grinnell.  Quote from Harley: "Marketing has never worked
+   for Grinnell because marketing and the language of marketing is the
+   antithesis of what Grinnell teaches."  
+   We face a challenge.  How do you convince people, particularly
+   people who can afford something like sticker price, that Grinell
+   is the gem [1] we all know it is?  It's hard to show a prospective
+   student what's unique about Grinnell, other than the individually
+   mentored curriculum. Many peer schools can talk about commitment to
+   social good, about global engagement, about an integrated residential
+   liberal arts experience, and about close student-faculty interactions.
+   I think we do many of these things better than peers [2]. But how do
+   you explain that to a prospective student?  How do you explain that to
+   a prospective student [3] who would normally immediately dismiss "flyover
+   country" or who worries about the difficulty of reaching an airport
+   or ...?  We're told that most prospectives understand just how good
+   the academics are at Grinnell.  Many choose to go elsewhere in spite of
+   the top-quality academics.  ... I wish I had a better answer.  I know
+   "No Limits" wasn't that answer.  I don't think the banners are the
+   answer.  I'm pretty sure that awkward noun-phrases aren't the answer.
+   In the end, it may be that we have to take some bold steps to better
+   promote the College.
+   [1] No, not the Jewel of the Prairie.
+   [2] We do things worse, too.
+   [3] Or, more accurately, a prospective prospective student.
+
+1. Andrea Conner.  Things I appreciate.  How hard her job is.  Needing
+   to build new relationships.  (I don't have the best relationship
+   with student affairs.  I'm told that some student affairs staff are
+   intimidated by my "crusades".  Andrea is a buffer; she may not like
+   the crusades, but we have a long enough relationship that (a) she
+   knows that my heart is in the right place and (b) she will call me 
+   out appropriately if I behave in a way she thinks is inapropriate.)
+
+1. Textbooks and the bookstore (international editions).  
+   `textbooks-bookstore-2018-05-nn`
+
+1. Requiring a cultural competency course.  What would it do to an open
+curriculum?  Is it necessary?  It may be.  Do we really want to graduate a
+student who has not thought carefully about these issues?  (Of course, do
+we really want to graduate a student who cannot read graphs, charts, and
+data in a newspaper?  At what point does "Do we really want to graduate
+_this student_ become an exercise in adding requirements?)  What would
+it be like to teach that course?  (Some portion of the students would
+clearly object to being there.)  I did have a debate about this with
+the legendary Karla Erickson.  I'm not sure what side I took.
+
+1. Jeez.  I recently [wrote about language use](language-2018-05-02).
+   In that musing, I forgot to mention a phrase that I keep asking
+   students to (re-)consider, "jeez".  When they say that, I tend
+   to respond "Please don't take your lord's name (or someone's lord's
+   name) in vain."  Isn't that the epitome of swearing?  The students
+   tell me that "It's just a word; it doesn't
+   mean anything."  But when I look in [Merriam-Webster
+   online](https://www.merriam-webster.com/dictionary/jeez) I see that
+   it's origin is as an "euphemism for Jesus".  And when I check the
+   [online OED](https://en.oxforddictionaries.com/definition/jeez)
+   [1] says its origin is "1920s: abbreviation of Jesus."  So, it
+   doesn't matter what you think you're saying, you are using the name
+   of someone many consider to be G-d in a non-prayerful way.  It may
+   not bother you, but it's likely to bother someone.  So please stop.
+   [1] "OED" is the way elitist or abbreviated people refer to the 
+   Oxford English Dictionary [2].  
+   [2] The OED also feels a bit elitist, but not the
+   least bit abbreviated.  Even the abridged version is gigantic.
 
 1. We've been Ologized.  (Let's hope that we're not eulogized.)
 
 1. Fighting with fonts.  (Fun with fonts?)
 
-1. Unpacking quantitative literacy.  A group on campus has recently
-   been upacking one of Grinnell's elements of the liberal arts [1]
-   or perhaps another element.  So I've been thinking about doing the
-   same thing with quantitative literacy.    It's really three kinds
-   of literacy, which I'll term "mathematical literacy", "statistical
-   literacy", and "algorithmic literacy".
+1. Arts and computing.  `args-and-computing`.  Not much of a draft.
 
-1. Portable cellos.  Last week, the College brought in a visiting 
+1. Portable cellos.  A few weeks ago, the College brought in a visiting 
    musician who performed on what were clearly custom-made instruments.
    At a post-concert reception, we ended up talking about how one
    travels with instruments.  While he didn't bring one to Grinnell, 
@@ -120,14 +157,6 @@ _I should finish these some time soon._
    <https://www.amazon.com/Cello-Wartime-Steven-Isserlis/dp/B076YPHVBM/>
    <http://travelcello.net/>
    <http://www.vanorabennettauthor.com/?p=1100>
-
-1. Andrea Conner.  Things I appreciate.  How hard her job is.  Needing
-   to build new relationships.  (I don't have the best relationship
-   with student affairs.  I'm told that some student affairs staff are
-   intimidated by my "crusades".  Andrea is a buffer; she may not like
-   the crusades, but we have a long enough relationship that (a) she
-   knows that my heart is in the right place and (b) she will call me 
-   out appropriately if I behave in a way she thinks is inapropriate.)
 
 1. Forgetting what we read.  <https://www.theatlantic.com/amp/article/551603/>
 
@@ -328,6 +357,12 @@ p.m." or "6/12/64".
 we allowed our Ph.D.-level staff to teach the occasional course.  Then I
 learned that it's only in very specific situations.  These are my attempts
 to think through the matter.
+
+### Added recently
+
+1. Jennifer Weinman's request: " think a good future musing (add it to your list...) would be something about kid-friendly faculty environments, or having kids pre-tenure. It's something I've talked about with many, but don't see publicly discussed in print all that often."  I could start with the old Faculty House Faculty Fridays.
+
+1. Spaces after sentences.  <https://www.washingtonpost.com/news/speaking-of-science/wp/2018/05/04/one-space-between-each-sentence-they-said-science-just-proved-them-wrong-2/>
 
 ### Almost immediate (?)
 
