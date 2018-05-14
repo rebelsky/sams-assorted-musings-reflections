@@ -62,42 +62,10 @@ _I should finish these some time soon._
 
 1. Peoples' names. (`misnaming.md`)
 
----------------
+The stack of musings
+--------------------
 
 ### "High priority"
-
-1. Building on our strengths - Individual alumni mentors.  (changing-grinnell-01)
-
-1. Alternate EOCEs.
-
-1. About EOCEs.  (Based on <http://www.cs.grinnell.edu/~rebelsky/about-eoc.html>)
-
-1. A Grinnell Growth Mindset `grinnell-growth-mindset`
-
-1. Marketing Grinnell.  Quote from Harley: "Marketing has never worked
-   for Grinnell because marketing and the language of marketing is the
-   antithesis of what Grinnell teaches."  
-   We face a challenge.  How do you convince people, particularly
-   people who can afford something like sticker price, that Grinell
-   is the gem [1] we all know it is?  It's hard to show a prospective
-   student what's unique about Grinnell, other than the individually
-   mentored curriculum. Many peer schools can talk about commitment to
-   social good, about global engagement, about an integrated residential
-   liberal arts experience, and about close student-faculty interactions.
-   I think we do many of these things better than peers [2]. But how do
-   you explain that to a prospective student?  How do you explain that to
-   a prospective student [3] who would normally immediately dismiss "flyover
-   country" or who worries about the difficulty of reaching an airport
-   or ...?  We're told that most prospectives understand just how good
-   the academics are at Grinnell.  Many choose to go elsewhere in spite of
-   the top-quality academics.  ... I wish I had a better answer.  I know
-   "No Limits" wasn't that answer.  I don't think the banners are the
-   answer.  I'm pretty sure that awkward noun-phrases aren't the answer.
-   In the end, it may be that we have to take some bold steps to better
-   promote the College.
-   [1] No, not the Jewel of the Prairie.
-   [2] We do things worse, too.
-   [3] Or, more accurately, a prospective prospective student.
 
 1. Andrea Conner.  Things I appreciate.  How hard her job is.  Needing
    to build new relationships.  (I don't have the best relationship
@@ -106,6 +74,40 @@ _I should finish these some time soon._
    the crusades, but we have a long enough relationship that (a) she
    knows that my heart is in the right place and (b) she will call me 
    out appropriately if I behave in a way she thinks is inapropriate.)
+
+1. Comments for seniors.  cs-seniors-2018 (Monday)
+
+1. The Public Web and the Private Web.  public-private-web-2018-05-15. 
+   (Tuesday, mostly written)
+
+1. Better marketing.  The new Admissions site.  So much better than the 
+   printed material we are receiving.  Does actually get to our strengths.
+   Uses the right logo.
+
+1. The bad logo?
+
+1. Alternate EOCEs.  Mostly written.
+
+1. About EOCEs.  (Based on <http://www.cs.grinnell.edu/~rebelsky/about-eoc.html>)
+
+1. Drawers.
+
+1. Fonts.  Sketched.
+
+1. Depressed and obsessed (or "Putting the marketing campaign behind me).
+   The advent of our new "institutional identity" and noun-phrase-centric
+   marketing campaign have put me in a funk.  I realize that we need
+   to [market Grinnell](marketing-grinnell).  But I'm bothered by so
+   many things, including the [awkward noun phrases that seem to be
+   at the center of the campaign](our-grinnellian-story-2018-05-10),
+   the sometimes awkward typography, [the incorrectly colored, fuzzily
+   rendered, and inadequately cropped logo](bad-logo) that lived on the
+   Web site for weeks after I reported it [1].  It got so bad that I
+   started dreaming about it.  In the dreams [2], someone would come up
+   and ask how I was doing.  All I could do was rant about the approach.
+   Became on obsession, of sorts.  It's time to put it behind me.
+   [1] And that never should have been there at all.  
+   [2] Nightmares?
 
 1. Textbooks and the bookstore (international editions).  
    `textbooks-bookstore-2018-05-nn`
@@ -172,8 +174,6 @@ the legendary Karla Erickson.  I'm not sure what side I took.
 
 1. The new logo (or at least the new logo font).  It seems wrong.  I've
    been trying to figure out why.
-
-1. Comments for seniors.  cs-seniors-2016
 
 1. Logging my life?  (Maybe not this week; I'm not sure what's useful
    to say.)
@@ -363,6 +363,24 @@ to think through the matter.
 1. Jennifer Weinman's request: " think a good future musing (add it to your list...) would be something about kid-friendly faculty environments, or having kids pre-tenure. It's something I've talked about with many, but don't see publicly discussed in print all that often."  I could start with the old Faculty House Faculty Fridays.
 
 1. Spaces after sentences.  <https://www.washingtonpost.com/news/speaking-of-science/wp/2018/05/04/one-space-between-each-sentence-they-said-science-just-proved-them-wrong-2/>
+
+1. Supporting admissions.  Our admissions office has an incredibly
+important job: They bring us the excellent students that inhabit our
+classrooms and campus.  While I am sometimes critical about the things
+they do or lead the College to do (e.g., limit posting on the Web site,
+develop marketing campaigns that use strange slogans), I very much
+appreciate what they do and do what I can support them.  How do faculty
+support admissions.  Attend events.  Allow students to visit classes.
+Write to prospective students.  Post long, drawn-out criticisms of the
+College.  No, probably not that last thing.  Provide more information
+about the department that I think will help.  Keep our Web site up to
+date (Whoops).
+
+1. Becoming an icon.  While I was playing around with various issues
+related to the College Web site, I decided to think about icons.
+There's a Web editor.  http://www.xiconeditor.com/.
+
+1. A Grinnell Growth Mindset `grinnell-growth-mindset`
 
 ### Almost immediate (?)
 
