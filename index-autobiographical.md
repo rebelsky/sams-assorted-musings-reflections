@@ -221,3 +221,7 @@ Autobiographical essays, more or less
 
 > Or at least shorter than the last one.
 
+[A semester of a coat and a tie](coat-and-tie-2018-05-11) (Musing #627)
+
+> What I wore to work this semester.
+

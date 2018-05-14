@@ -1821,6 +1821,14 @@ Grinnell.
 
 > How do you convince folks to consider this gem of an institution?
 
+[Grinnell's location](grinnell-location) (Musing #628)
+
+> Drawbacks and benefits.
+
+[Changing Grinnell, take one: Alumni mentors](changing-grinnell-01) (Musing #629)
+
+> A suggestion on how to distinguish the College.
+
 A letter to the incoming chair
 ------------------------------
 
@@ -2159,6 +2167,10 @@ Autobiographical essays, more or less
 [A short biography](short-bio-2018-05-03) (Musing #619)
 
 > Or at least shorter than the last one.
+
+[A semester of a coat and a tie](coat-and-tie-2018-05-11) (Musing #627)
+
+> What I wore to work this semester.
 
 Salary reviews
 --------------

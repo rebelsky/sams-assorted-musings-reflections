@@ -155,3 +155,11 @@ Grinnell.
 
 > How do you convince folks to consider this gem of an institution?
 
+[Grinnell's location](grinnell-location) (Musing #628)
+
+> Drawbacks and benefits.
+
+[Changing Grinnell, take one: Alumni mentors](changing-grinnell-01) (Musing #629)
+
+> A suggestion on how to distinguish the College.
+
