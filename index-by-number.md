@@ -816,3 +816,8 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [A semester of a coat and a tie](coat-and-tie-2018-05-11) (Musing #627)  
 [Grinnell's location](grinnell-location) (Musing #628)  
 [Changing Grinnell, take one: Alumni mentors](changing-grinnell-01) (Musing #629)  
+[A speech to graduating CS majors (and a few near-majors) in the class of 2018](cs-seniors-2018) (Musing #630)  
+
+## 631-640
+
+[Our better Grinnellian story](our-grinnellian-story-2018-05-15) (Musing #631)  

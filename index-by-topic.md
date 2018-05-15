@@ -963,6 +963,10 @@ Assorted talks and speeches
 
 > A speech I did not give.
 
+[A speech to graduating CS majors (and a few near-majors) in the class of 2018](cs-seniors-2018) (Musing #630)
+
+> A revised version of the 2016 speech.
+
 Thank-You Notes
 ---------------
 
@@ -1828,6 +1832,10 @@ Grinnell.
 [Changing Grinnell, take one: Alumni mentors](changing-grinnell-01) (Musing #629)
 
 > A suggestion on how to distinguish the College.
+
+[Our better Grinnellian story](our-grinnellian-story-2018-05-15) (Musing #631)
+
+> Positive comments on (and a few small criticisms of) our new admissions site.
 
 A letter to the incoming chair
 ------------------------------

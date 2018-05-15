@@ -163,3 +163,7 @@ Grinnell.
 
 > A suggestion on how to distinguish the College.
 
+[Our better Grinnellian story](our-grinnellian-story-2018-05-15) (Musing #631)
+
+> Positive comments on (and a few small criticisms of) our new admissions site.
+

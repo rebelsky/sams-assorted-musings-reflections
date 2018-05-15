@@ -25,3 +25,7 @@ Assorted talks and speeches
 
 > A speech I did not give.
 
+[A speech to graduating CS majors (and a few near-majors) in the class of 2018](cs-seniors-2018) (Musing #630)
+
+> A revised version of the 2016 speech.
+
