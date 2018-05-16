@@ -11,7 +11,7 @@ people".  Some of us are "evening people".  I'm interested to see how
 my sleep has changed over the years.
 
 When I was young, I was definitely a morning person.  I'm pretty sure I
-was up by 6 a.m. each day, as was my mother.  My father got up before us
+was up by 6 a.m. each day, as did my mother.  My father got up before us
 in the morning [1]; mom said that was because he wanted to be awake
 enough to deal with two energetic morning people when we bounded down
 the stairs.  By high school, I was usually out the door by 7 a.m. each
@@ -101,4 +101,6 @@ suggest that the thesis was in 2014.  I guess I made the right choice.
 
 ---
 
-*Version 1.0 of 2016-12-14.*
+*Version 1.0 released2016-12-14.*
+
+*Version 1.0.1 of 2018-05-16.*
