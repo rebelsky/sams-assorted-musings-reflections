@@ -52,7 +52,7 @@ Fourth, I think my personality comes through differently in writing and
 in spoken language.  When I'm teaching face-to-face, I say things that
 I wouldn't write (and write things that I wouldn't say).  If my video
 and text must correspond, one or the other feels awkward.  Of course,
-I also realize that if I end up teaching a hearing im paired person,
+I also realize that if I end up teaching a hearing impaired person,
 I'll have to do the same thing.  So maybe I'm over-emphasizing this issue.
 
 In the end, I'm not sure what the value of a "talking head" video is.
@@ -69,4 +69,6 @@ me that I have a "voice for video" (which I think is better than a
 
 ---
 
-*Version 1.0 of 2016-09-04.*
+*Version 1.0 released 2016-09-04.*
+
+*Version 1.0.1 of 2018-05-17.*
