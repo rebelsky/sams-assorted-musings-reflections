@@ -24,6 +24,11 @@ The next end of month musing
 * Wrote [a short biography](short-bio-2018-05-03).  The biography was
   short.  But the surrounding text grew and grew until it was a normal
   size musing.
+* Musings keep getting delayed.  For example, I drafted [the musing on
+  alternate EOCEs] on May 8.  I didn't end up releasing it until
+  May 16.  Why?  Because all the damn marketing stuff occupied my
+  brain in the mean time.
+* Wrote way too much on marketing.
 
 On particular dates
 -------------------
@@ -40,6 +45,8 @@ Musings with substantive drafts
 _I should finish these some time soon._
 
 1. An introduction to SamR's Assorted Musings and Rants `intro-musings-v0.md`.
+
+1. Double majors, revisited.  `double-majors-2018-05-xx`.
 
 1. SIGCSE list workflows.  `sigcse-list-workflow`.  
 
@@ -67,6 +74,9 @@ The stack of musings
 
 ### "High priority"
 
+1. The Public Web and the Private Web.  public-private-web-2018-05-15. 
+   (Friday)
+
 1. Andrea Conner.  Things I appreciate.  How hard her job is.  Needing
    to build new relationships.  (I don't have the best relationship
    with student affairs.  I'm told that some student affairs staff are
@@ -75,24 +85,9 @@ The stack of musings
    knows that my heart is in the right place and (b) she will call me 
    out appropriately if I behave in a way she thinks is inapropriate.)
 
-1. Comments for seniors.  cs-seniors-2018 (Monday)
-
-1. The Public Web and the Private Web.  public-private-web-2018-05-15. 
-   (Tuesday, mostly written)
-
-1. Better marketing.  The new Admissions site.  So much better than the 
-   printed material we are receiving.  Does actually get to our strengths.
-   Uses the right logo.
-
 1. The bad logo?
 
-1. Alternate EOCEs.  Mostly written.
-
 1. About EOCEs.  (Based on <http://www.cs.grinnell.edu/~rebelsky/about-eoc.html>)
-
-1. Drawers.
-
-1. Fonts.  Sketched.
 
 1. Depressed and obsessed (or "Putting the marketing campaign behind me).
    The advent of our new "institutional identity" and noun-phrase-centric
@@ -344,7 +339,7 @@ Okay to deviate once in a while?  Nuts.
   support a student who is having severe difficulties, writing a series
   of recommendation letters, ....  My [recent musing about spring break](planning-spring-break-2018) just reinforces that.  I currently have something like 240 hours of outstanding work to do.  ...
 
-### Delayed rants (hidden in the system)
+### Delayed rants (formerly hidden in the system)
 
 1. Why I complain about software.  I complain a lot about bad software.
 And I think a lot of software is bad.  Here I reflect more deeply about
@@ -356,7 +351,7 @@ p.m." or "6/12/64".
 1. Why Grinnell staff with Ph.D's should be allowed to teach.  I thought
 we allowed our Ph.D.-level staff to teach the occasional course.  Then I
 learned that it's only in very specific situations.  These are my attempts
-to think through the matter.
+to think through the matter.  [Or maybe they've fixed this.]
 
 ### Added recently
 
@@ -376,11 +371,54 @@ College.  No, probably not that last thing.  Provide more information
 about the department that I think will help.  Keep our Web site up to
 date (Whoops).
 
-1. Becoming an icon.  While I was playing around with various issues
-related to the College Web site, I decided to think about icons.
-There's a Web editor.  http://www.xiconeditor.com/.
+1. Becoming an icon (no, the other kind).  While I was playing around
+with various issues related to the College Web site, I decided to think
+about icons.  There's a Web editor.  http://www.xiconeditor.com/.
 
 1. A Grinnell Growth Mindset `grinnell-growth-mindset`
+
+1. Cary Nelson's piece on "The Economic Challenges of Anthologies"
+in _On Anthologies_.  Really fascinating.  I picked it up after
+reading [an article about the challenges of creating an anthology
+of Gene Kelly inteviews](rhetorical-gestures-kelly-tolkien).  ...
+And look!  There's an article by my now-SFS colleague, Alan Schrift,
+immediately after Nelson's piece.  Nelson's comment on an Elizabeth
+Bishop poem.  Then I realize that's the same Elizabeth Bishop whose
+"[One Art](https://www.poetryfoundation.org/poems/47536/one-art)" we turned to again and again in _Lighting the Page_.    New edition mentioned at
+<http://www.english.illinois.edu/maps/>.  Says that the suggested 
+list price is $79.95.  But when I look at the Oxford site, 
+[Volume 1](https://global.oup.com/academic/product/anthology-of-modern-american-poetry-9780199920723?lang=en&cc=us) is $72.95 and
+[Volume 2](https://global.oup.com/academic/product/anthology-of-contemporary-american-poetry-9780199920730?cc=us&lang=en&) is also $72.95.  That's a lot
+higher than the claimed list price.  I guess the economic realities of
+the new edition were also troubling.
+
+1. One Art.  (see previous notes, too)  And then Sam returns to his normal search for where it was originally published.  Finds [article on drafts](http://www.english.illinois.edu/maps/poets/a_f/bishop/drafts.htm) and [better article on drafts](https://bluedragonfly10.wordpress.com/2009/06/12/one-art-the-writing-of-loss-in-elizabeth-bishop%E2%80%99s-poetry/).  Finally found the original publication.  
+[_The New Yorker_, 26 April 1976, p. 40](https://www.newyorker.com/magazine/1976/04/26/one-art).  Why was that so hard to find?  Not what I thought.  I thought  the partner had died.  They hadn't.  
+
+
+1. Down a (programming) language
+rabbithole.  Started at open textbooks in CS.
+<http://open.umn.edu/opentextbooks/SearchResults.aspx?subjectAreaId=3>.
+Noticed a few books about something called [Pharo](https://pharo.org).
+Realized that Pharo is yet another variant of Smalltalk.
+Looked up the differences between Smalltalk variants
+(e.g., why use Pharo rather than Squaek).  Found [a quora
+discussion](https://www.quora.com/Whats-the-difference-between-Smalltalk-and-Pharo).
+That led me to a [page on medium about
+Smalltalk](https://medium.com/smalltalk-talk/smalltalk-choices-6c39d09a40e6).
+The same author had written something
+they called "[The three worst programming
+languages](https://medium.com/smalltalk-talk/the-three-worst-programming-languages-b1ec25a232c1)"
+[1]. [1] They claim that those are PHP, JavaScript, and C++.  This
+author links to more complaints about languages, such as [this one
+about C++](https://whydoesitsuck.com/cpp-sucks-for-a-reason/).
+That, of course, led to [a discussion of
+annoying programming languages the author "can't just
+ditch"](https://whydoesitsuck.com/top-five-most-annoying-programming-languages/)
+Where am I going with all this?  I don't know.  I'm just amazed at how
+far down the rabbithole I can go.
+
+1. Drawers (on the Web site) (or have I now written enough about them).
 
 ### Almost immediate (?)
 
