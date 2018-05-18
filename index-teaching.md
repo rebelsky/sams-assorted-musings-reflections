@@ -76,3 +76,7 @@ online, but they will soon expand to more general issues about teaching._
 
 > A teaching resource, in progress.
 
+[Developing an alternate end-of-course evaluation](alternate-eoces-2018-05-16) (Musing #632)
+
+> Asking directly about College-wide learning outcomes.
+

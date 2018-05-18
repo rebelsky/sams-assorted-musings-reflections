@@ -7,7 +7,7 @@ rants about topics I'm passionate about.  Some are explanations of how
 I approach the world.  Some are just my attempts to think through a topic.
 
 Latest musing:
-[Our better Grinnellian story](our-grinnellian-story-2018-05-15) (Musing #631)
+[Grinnell's new typeface choices](grinnell-typefaces-2018-05-17) (Musing #633)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

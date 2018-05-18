@@ -3,6 +3,8 @@ Developing an alternate end-of-course evaluation
 
 *Topics/tags: [Grinnell](index-grinnell), assessment*
 
+*This is a __draft__ of a [musing of the same name](alternate-eoces-2018-05-16) that got posted a week later.  I've left the draft around because it has some annotations.*
+
 Grinnell, like many institutions, asks students to evaluate each course
 at the end of the semester.  In my first few years at Grinnell, the
 faculty voted to institute a common form for end-of-course evaluations
@@ -48,28 +50,38 @@ semester, when I distribute the official forms, I'm also going to distribute
 some unofficial forms.  These unofficial forms will replace the current
 Likert-style statements with the following.
 
-1. This course helped me develop creative and critical thinking skills.
+1. This course helped me develop creative thinking skills.
 
-2. This course helped develop my ability to communicate clearly and effectively.
+2. This course helped me develop critical thinking skills.
 
-3. This course helped me develop a sense of social responsibility and fairness.  
-4. This course helped me develop the ability to continue to learn individually.
+3. This course helped develop my ability to communicate clearly and effectively.
 
-5. This course helped me develop the ability to continue to learn collaboratively.
+4. This course helped me develop a sense of social responsibility and fairness.  
+5. This course helped me develop the ability to continue to learn individually.
 
-6. This course helped me develop the ability to approach a question from multiple perspectives.
+6. This course helped me develop the ability to continue to learn collaboratively.
+
+7. This course helped me develop the ability to approach a question from multiple perspectives.
 
 I realize that they probably need some tuning.  But they seem to be a
 good starting point.
 
-I'm trying to decide whether I should add "How many hours per week did
-you work on this class, on average?" as well as variants of the two
-questions I think Jerod Weinman normally asks:
+I'm trying to decide whether I should add a few other questions.  There
+are two questions that I sometimes ask.
 
 1. What is something you would recommend that we change about the course?
 
 2. What is something that worked well and that we should keep doing in
 this course?
+
+There are also two questions that Jerod normally asks.
+
+1. The one thing that most helped my learning was ...
+
+2. One thing that would have helped my learning more is …
+
+I'm also tempted to ask how many hours they spent on the course.  Maybe
+I'll just have them report that on the main form.
 
 We'll see.  I'll report back on my results in a few weeks, after I've
 turned in grades and received my offical and unoffical EOCEs.
@@ -107,4 +119,6 @@ them.  Is Strongly Agree really twice as good as Slightly Disagree?
 
 ---
 
-*Version 0.5 of 2018-05-08.*
+*Version 0.5 written 2018-05-08.*
+
+*Version 1.0 of 2018-05-16.*

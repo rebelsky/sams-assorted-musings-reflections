@@ -936,6 +936,10 @@ Rants
 
 > The title says it all.
 
+[Grinnell's new typeface choices](grinnell-typefaces-2018-05-17) (Musing #633)
+
+> They want me to use Arial?
+
 Assorted talks and speeches
 ---------------------------
 
@@ -1259,6 +1263,10 @@ online, but they will soon expand to more general issues about teaching._
 [A draft of a potential ACM case study on the accessibility of online course materials](case-study-accessibility) (Musing #607)
 
 > A teaching resource, in progress.
+
+[Developing an alternate end-of-course evaluation](alternate-eoces-2018-05-16) (Musing #632)
+
+> Asking directly about College-wide learning outcomes.
 
 On writing letters of recommendation
 ------------------------------------

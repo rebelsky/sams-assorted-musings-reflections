@@ -314,3 +314,7 @@ Rants
 
 > The title says it all.
 
+[Grinnell's new typeface choices](grinnell-typefaces-2018-05-17) (Musing #633)
+
+> They want me to use Arial?
+
