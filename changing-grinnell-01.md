@@ -124,7 +124,7 @@ approach?
   staff member from Careers, Life, and Service who will help you think
   about longer-term career planning, a staff member from Student Affairs
   who can help you develop a plan for navigating extracurriculars,
-  and an alumni adviser who can serve as a sounding board [5]."
+  and an alumni adviser who can serve as a sounding board [5,6]."
 
 What would we need to do to put this type of project into play?
 Certainly, we would need buy-in from across campus.  Faculty would need to
@@ -155,8 +155,8 @@ to coordinate.
 That's what I've got for the time being; it's supposed to be a quick idea,
 not one that I've fully fleshed out.  But the more I think about it,
 the more enamored I am of it.  I'm considering floating the idea by CLS
-[6], Admissions [7], and Alumni Relations [8].  Perhaps I'll see what
-my readers say first [9].
+[7], Admissions [8], and Alumni Relations [9].  Perhaps I'll see what
+my readers say first [10].
 
 ---
 
@@ -178,17 +178,29 @@ relatively easy way to give back!
 
 [5] Yeah, it needs work.  A lot of work.
 
-[6] I'm pretty sure that at least one member of CLS regularly reads
+[6] Imagine my surprise to discover that [our new admissions site](http://ww3.grinnell.edu/admission/why-grinnell)
+includes the following text:
+
+> With three advisers to cover every aspect of your experience, all
+driven to help you contribute and belong to our community, the moments
+for mentorship and support are limitless.
+
+There's even a separate page about [the three
+advisers](http://ww3.grinnell.edu/admission/why-grinnell/community/advisers).
+
+[7] I'm pretty sure that at least one member of CLS regularly reads
 my musings.  I may contact that person.
 
-[7] I've been told that a few folks in Admissions regularly read my
+[8] I've been told that a few folks in Admissions regularly read my
 musings.  But I'm not sure who they are, so I may just contact the
 director of admissions.
 
-[8] I have not heard that anyone from alumni relations reads my musings.
+[9] I have not heard that anyone from alumni relations reads my musings.
 
-[9] Note: That was a prompt.  What do you think about this idea?
+[10] Note: That was a prompt.  What do you think about this idea?
 
 ---
 
-*Version 1.0 of 2018-05-13*
+*Version 1.0 released 2018-05-13*
+
+*Version 1.1 of 2018-05-13*
