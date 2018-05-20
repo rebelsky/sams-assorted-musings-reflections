@@ -824,3 +824,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Developing an alternate end-of-course evaluation](alternate-eoces-2018-05-16) (Musing #632)  
 [Grinnell's new typeface choices](grinnell-typefaces-2018-05-17) (Musing #633)  
 [Embracing the public Web](public-web-2018-05-18) (Musing #634)  
+[Guns](guns-2018-05-19) (Musing #635)  

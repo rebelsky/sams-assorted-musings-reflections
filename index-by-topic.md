@@ -2817,6 +2817,10 @@ Almost everything else
 
 > Feeling fortunate to work with awesome people, a few more of whom now have tenure.
 
+[Guns](guns-2018-05-19) (Musing #635)
+
+> Feeling sad and hopeless.
+
 Musings with multiple entries
 -----------------------------
 
