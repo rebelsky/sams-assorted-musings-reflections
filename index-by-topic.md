@@ -940,6 +940,10 @@ Rants
 
 > They want me to use Arial?
 
+[Embracing the public Web](public-web-2018-05-18) (Musing #634)
+
+> Putting information where it belongs.
+
 Assorted talks and speeches
 ---------------------------
 

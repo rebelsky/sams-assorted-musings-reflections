@@ -823,3 +823,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Our better Grinnellian story](our-grinnellian-story-2018-05-15) (Musing #631)  
 [Developing an alternate end-of-course evaluation](alternate-eoces-2018-05-16) (Musing #632)  
 [Grinnell's new typeface choices](grinnell-typefaces-2018-05-17) (Musing #633)  
+[Embracing the public Web](public-web-2018-05-18) (Musing #634)  
