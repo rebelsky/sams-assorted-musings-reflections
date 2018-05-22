@@ -291,6 +291,10 @@ Essays on writing, or at least on writing my musings
 
 > Thirty days hath April.
 
+[An introduction to SamR's musings for members of SIGCSE-members](intro-musings-sigcse-members) (Musing #636)
+
+> Some day I'll write a real introduction.
+
 For prospective students, parents of prospective students, and others with similar interests
 --------------------------------------------------------------------------------------------
 
@@ -1537,92 +1541,96 @@ A new CSC 151
 Grinnellians you should know (or know about)
 --------------------------------------------
 
-[A month of Grinnellians](a-month-of-grinnellians) (Essay #106)
+[A month of Grinnellians](a-month-of-grinnellians) (Musing #106)
 
 > An introduction to a series of essays on these folks.
 
-[A group of Grinnell students](group-of-grinnell-students) (Essay #110)
+[A group of Grinnell students](group-of-grinnell-students) (Musing #110)
 
 > Some students I accompanied to a science symposium.
 
-[CS Alums](cs-alums) (Essay #126)
+[CS Alums](cs-alums) (Musing #126)
 
 > Alumni back for the 2016 CS Affinity Reunion
 
-[Planning the next CS reunion](planning-the-next-cs-reunion) (Essay #128)
+[Planning the next CS reunion](planning-the-next-cs-reunion) (Musing #128)
 
 > Okay, this doesn't really belong.  But it's indirectly about Grinnellians,
   so I'm including it here.
 
-[Writing about current students](writing-about-current-students) (Essay #130)
+[Writing about current students](writing-about-current-students) (Musing #130)
 
 > Or, more precisely, why I'm *not* writing about individual students.
 
 ---
 
-[Brandy Agerbeck '96](brandy-agerbeck) (Essay #127)
+[Brandy Agerbeck '96](brandy-agerbeck) (Musing #127)
 
 > Graphic facilitator.
 
-[Sarah Anderson '98 and Donna Dralus '89](anderson-dralus) (Essay #61)
+[Sarah Anderson '98 and Donna Dralus '89](anderson-dralus) (Musing #61)
 
 > Campus Web gurus.
 
-[Ian Atha '09](ian-atha) (Essay #58)
+[Ian Atha '09](ian-atha) (Musing #58)
 
 > CS major, linguistics concentrator, entrepreneur.
 
-[Terry Bisson '64](terry-bisson) (Essay #117)
+[Terry Bisson '64](terry-bisson) (Musing #117)
 
 > Author, publisher, not-quite graduate.
 
-[Narren Brown](narren-brown) (Essay #108)
+[Narren Brown](narren-brown) (Musing #108)
 
 > Statistician, diversity consultant, generally great guy.
 
-[Doug Caulkins](doug-caulkins) (Essay #122)
+[Doug Caulkins](doug-caulkins) (Musing #122)
 
 > Professor Emeritus, Anthropologist, campus innovator.
 
-[W. Blake Creasey '16](w-blake-creasey) (Essay #134)
+[Andrea Conner](andrea-conner) (Musing #637)
+
+> VP for Student Affairs.  Changemaker.
+
+[W. Blake Creasey '16](w-blake-creasey) (Musing #134)
 
 > Thoughtful student (and now alum).
 
-[Monessa Cummins](monessa-cummins) (Essay #109)
+[Monessa Cummins](monessa-cummins) (Musing #109)
 
 > Outstanding teacher and colleague.
 
-[Doug Cutchins '93](doug-cutchins) (Essay #121)
+[Doug Cutchins '93](doug-cutchins) (Musing #121)
 
 > Mentor, advisor, caring Grinnellian.
 
-[Janet Davis](janet-davis) (Essay #135)
+[Janet Davis](janet-davis) (Musing #135)
 
 > Highly valued former colleague.
 
-[Hallie Flanagan '11](hallie-flanagan) (Essay #131)
+[Hallie Flanagan '11](hallie-flanagan) (Musing #131)
 
 > Namesake of the Flanagan Theatre; transformative member of the
   American Theatre.
 
-[Grant Gale](grant-gale) (Essay #123)
+[Grant Gale](grant-gale) (Musing #123)
 
 > Physics professor, Noyce mentor, and more.
 
-[Megan Goering '08](megan-goering) (Essay #107)
+[Megan Goering '08](megan-goering) (Musing #107)
 
 > Former SGA president, innovative thinker, risk taker.
 
-[Harry Hopkins '12](harry-hopkins) (Essay #119)
+[Harry Hopkins '12](harry-hopkins) (Musing #119)
 
 > Brash reformer.
 
-[Terian Koscik '12](terian-koscik) (Essay #129)
+[Terian Koscik '12](terian-koscik) (Musing #129)
 
 > Artist, programmer, cartoonist, supporter of the next generation of
   computer scientists.
 
-[Lea Marolt-Sonnenschein '15](lea-marolt-sonnenschein) (Essay #136)
+[Lea Marolt-Sonnenschein '15](lea-marolt-sonnenschein) (Musing #136)
 
 > Daughter (well, host daughter).  Overachiever.
 
@@ -1630,21 +1638,21 @@ Grinnellians you should know (or know about)
 
 > Innovative science teacher, promoter of diversity, faculty leader, and friend.
 
-[J. Harley McIlrath](j-harley-mcilrath) (Essay #118)
+[J. Harley McIlrath](j-harley-mcilrath) (Musing #118)
 
 > Bookseller, author, generally great guy.
 
-[Jennelle Nystrom '14](nystrom) (Essay #76)
+[Jennelle Nystrom '14](nystrom) (Musing #76)
 
 > Art History and CS major, research assistant, SAC director,
   first-gen student, PM, and more.
 
-[Sarah Purcell '92](sarah-purcell) (Essay #116)
+[Sarah Purcell '92](sarah-purcell) (Musing #116)
 
 > L. F. Parker Professor of History, Director of the Rosenfield Program,
   "real" Grinnellian, and more.
 
-[Samuel A. Rebelsky](samuel-a-rebelsky) (Essay #137)
+[Samuel A. Rebelsky](samuel-a-rebelsky) (Musing #137)
 
 > Curmudgeon.
 
@@ -1652,31 +1660,31 @@ Grinnellians you should know (or know about)
 
 > Eldest.
 
-[Dave Robinson](dave-robinson) (Essay #114)
+[Dave Robinson](dave-robinson) (Musing #114)
 
 > CITO, woodworker, Ph.D. in Neuroscience (or something similar).
 
-[Joe Rosenfield '25](joe-rosenfield) (Essay #120)
+[Joe Rosenfield '25](joe-rosenfield) (Musing #120)
 
 > Benefactor, Scout, and more.
 
-[Karen Shuman](karen-shuman) (Essay #125)
+[Karen Shuman](karen-shuman) (Musing #125)
 
 > Division chair.  Ally in the fight to improve Grinnell.  Valued colleague.
 
-[Erik Simpson](erik-simpson) (Essay #111)
+[Erik Simpson](erik-simpson) (Musing #111)
 
 > Professor of English.  Digital humanist.  Active faculty member.  And more.
 
-[Adrienne Hardin](adrienne-hardin) (Essay #113)
+[Adrienne Hardin](adrienne-hardin) (Musing #113)
 
 > Social media specialist and all-around great person.
 
-[John David Stone](john-david-stone) (Essay #133)
+[John David Stone](john-david-stone) (Musing #133)
 
 > Colleague.
 
-[Henry MacKay Walker](henry-walker) (Essay #124)
+[Henry MacKay Walker](henry-walker) (Musing #124)
 
 > Mentor, architect of CS at Grinnell, educator, and beyond
 

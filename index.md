@@ -6,10 +6,19 @@ responses to questions I received from students or other people.  Some are
 rants about topics I'm passionate about.  Some are explanations of how
 I approach the world.  Some are just my attempts to think through a topic.
 
-Latest musing:
+Latest musings:
+[An introduction to SamR's musings for members of SIGCSE-members](intro-musings-sigcse-members) (Musing #636)
+and
+[Grinnellians you should know (or know about): Andrea Conner](andrea-conner) (Musing #637)
+
+intro-musings-v0.md
+introversion.md
 [Guns](guns-2018-05-19) (Musing #635)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
+
+*Did you end up here because someone told you that I write about CS education?
+If so, please read [this post](intro-musings-sigcse-members).*
 
 [Musings, by number](index-by-number) 
 

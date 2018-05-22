@@ -8,9 +8,9 @@ Conner will depart Grinnell for less rural (and perhaps greener) pastures.
 She has made a positive impact on this institution that we both love, and
 I will miss her.
 
-Not everyone knows Andrea well and some students don't necessarily appreciate
-her, so it seems appropriate to write a bit about her before she leaves.
-I also feel a need to express my thanks [1].
+Not everyone knows Andrea well and some students don't necessarily
+appreciate her enough, so it seems appropriate to write a bit about her
+before she leaves.  I'd also like to express my thanks [1].
 
 I don't know everything that Andrea does, but I know that she has a
 lot of responsibilities.  She's in charge of Student Affairs, Academic
@@ -20,19 +20,20 @@ effectively has responsibility for most of our students' co-curricular
 experiences, except for those that are tied to Athletics or Careers,
 Life, and Service [4].
 
-That's an incredibly hard job.  We have awesome students, but we also
-have awesomely demanding students.  We also have the issue of [self
-governance](self-gov-musings), which leads some students to object
-to any attempt to develop rules or structures.  But self-gov doesn't
-always work.  And when it doesn't work, someone has to do something.
-I think, for example, about the issue of unscheduled lounge parties [5].
-We had long-term evidence that many students were negatively impacted by
-those parties, which keep some students up and which can lead to damage.
+That's an incredibly hard job.  Grinnell has awesome students, but
+we also have awesomely demanding students.  Then there's the issue of
+[self governance](self-gov-musings), which leads some students to object
+to any attempt to develop rules or structures.  While I very much
+support self-gov, I also admit that self-gov doesn't always work.
+And when it doesn't work, someone has to do something.  I think, for
+example, about the issue of unscheduled lounge parties [5].  We had
+long-term evidence that many students were negatively impacted by
+those parties, which keep other students up and which can lead to damage.
 Given those issues, you would hope that our principles of self-governance
-would lead students to make changes.  But they did not.  So after a lot
-of reflection and consultation, Andrea and others developed what seem
-to be reasonable policies [6].  When I watched her discuss those policies
-with students, particularly sets of student leaders, the students expressed
+would lead students to make changes.  But they did not.  So after a lot of
+reflection and consultation, Andrea and others developed what seem to be
+reasonable policies [6].  When I watched her discuss those policies with
+students, particularly sets of student leaders, the students expressed
 some dissatisfaction but understood the issues and accepted the change.
 In contrast, when I watched another senior leader try to explain the
 changes, it just made students angry.  So I appreciate her willingness
@@ -50,15 +51,15 @@ them well motivated.  For example, while I did not appreciate the
 move toward first-year-only housing or the development of a separate
 one-credit Grinnell culture course for Grinnell, I acknowledged that
 she had developed good rationales for both approaches.  I still don't
-support the one-credit Grinnell culture course [10], but I appreciate
+support the one-credit Grinnell culture course [8], but I appreciate
 the ways she has been studying a variety of approaches to deal with
 the underlying issues.  And I am glad to see that the first-year-only
-housing has not had the drawbacks I feature [11] and seems to be having
+housing has not had the drawbacks I feared [9] and seems to be having
 some very positive impacts.
 
 I've also had the opportunity to work with Andrea both formally and
-informally in a variety of situations.  We don't always agree [8],
-but I think we respect each other and can talk thoughtfully [9].
+informally in a variety of situations.  We don't always agree [10],
+but I think we respect each other and can talk thoughtfully [11].
 
 That relationship carries through to other situations.  I know that some
 of my "crusades" are intimidating to others, including members of the
@@ -71,8 +72,8 @@ In any case, it's been great to have someone in her position who is
 willing to develop and promote thoughtful changes and who will listen
 to different viewpoints
 
-Thanks, Andrea.  I know it's been a challenging job, but you can leave
-knowing that you've made Grinnell better!
+**Thanks, Andrea!**  I know it's been a challenging job, but you can leave
+knowing that you've made Grinnell better.
 
 ---
 
@@ -96,17 +97,11 @@ stupid things."
 
 [7] "Others" includes students, outspoken faculty members, and alumni.
 
-[8] Arguably, few sensible people regularly agree with everything I
-say.
-
-[9] There are times that I have not treated her with sufficient respect.
-I deeply regret those times.
-
-[10] I have a host of objections to the one-credit course that I will not
+[8] I have a host of objections to the one-credit course that I will not
 list here.  I am happy that a possible compromise has been reached of
 incorporating many of those topics in Tutorial.
 
-[11] I had experienced many positives, including mentoring by older
+[9] I had experienced many positives, including mentoring by older
 students and getting better exposed to opportunities on campus, from
 living in a mixed-year dorm; most of the friends I know had similar
 experiences.  I worried about the loss of those experiences.  But it
@@ -114,6 +109,12 @@ looks like students are still getting some of those kinds of mentoring
 in other ways and are also finding a greater sense of community.  There
 are also other benefits that I've failed to recall.
 
+[10] Arguably, few sensible people regularly agree with everything I
+say.
+
+[11] There are times that I have not treated her with sufficient respect.
+I deeply regret those times.
+
 ---
 
-*Version 0.5 of 2018-05-18.*
+*Version 1.0 of 2018-05-20.*

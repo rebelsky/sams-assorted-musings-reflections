@@ -288,3 +288,7 @@ Essays on writing, or at least on writing my musings
 
 > Thirty days hath April.
 
+[An introduction to SamR's musings for members of SIGCSE-members](intro-musings-sigcse-members) (Musing #636)
+
+> Some day I'll write a real introduction.
+
