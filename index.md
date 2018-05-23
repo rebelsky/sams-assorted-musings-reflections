@@ -7,7 +7,7 @@ rants about topics I'm passionate about.  Some are explanations of how
 I approach the world.  Some are just my attempts to think through a topic.
 
 Latest musing:
-[Our new banners](banners) (Musing #639)
+[Yet another speech to Duke TIP award recipients](duke-tip-2018) (Musing #640)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

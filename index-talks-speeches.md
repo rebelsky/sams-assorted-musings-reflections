@@ -29,3 +29,7 @@ Assorted talks and speeches
 
 > A revised version of the 2016 speech.
 
+[Yet another speech to Duke TIP award recipients](duke-tip-2018) (Musing #640)
+
+> Third time's a charm.
+
