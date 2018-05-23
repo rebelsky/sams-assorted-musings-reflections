@@ -6,14 +6,8 @@ responses to questions I received from students or other people.  Some are
 rants about topics I'm passionate about.  Some are explanations of how
 I approach the world.  Some are just my attempts to think through a topic.
 
-Latest musings:
-[An introduction to SamR's musings for members of SIGCSE-members](intro-musings-sigcse-members) (Musing #636)
-and
-[Grinnellians you should know (or know about): Andrea Conner](andrea-conner) (Musing #637)
-
-intro-musings-v0.md
-introversion.md
-[Guns](guns-2018-05-19) (Musing #635)
+Latest musing:
+[Our new banners](banners) (Musing #639)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

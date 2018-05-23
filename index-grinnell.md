@@ -167,3 +167,7 @@ Grinnell.
 
 > Positive comments on (and a few small criticisms of) our new admissions site.
 
+[Our new banners](banners) (Musing #639)
+
+> Trying to find some meaning in a confusing campaign.
+

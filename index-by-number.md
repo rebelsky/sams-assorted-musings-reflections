@@ -827,3 +827,5 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Guns](guns-2018-05-19) (Musing #635)  
 [An introduction to SamR's musings for members of SIGCSE-members](intro-musings-sigcse-members) (Musing #636)  
 [Andrea Conner](andrea-conner) (Musing #637)  
+[Graduation 2018](graduation-2018) (Musing #638)  
+[Our new banners](banners) (Musing #639)  

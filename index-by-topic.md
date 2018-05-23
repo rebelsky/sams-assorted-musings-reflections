@@ -1276,6 +1276,10 @@ online, but they will soon expand to more general issues about teaching._
 
 > Asking directly about College-wide learning outcomes.
 
+[Graduation 2018](graduation-2018) (Musing #638)
+
+> Reflections on watching students graduate.
+
 On writing letters of recommendation
 ------------------------------------
 
@@ -1856,6 +1860,10 @@ Grinnell.
 [Our better Grinnellian story](our-grinnellian-story-2018-05-15) (Musing #631)
 
 > Positive comments on (and a few small criticisms of) our new admissions site.
+
+[Our new banners](banners) (Musing #639)
+
+> Trying to find some meaning in a confusing campaign.
 
 A letter to the incoming chair
 ------------------------------

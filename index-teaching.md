@@ -80,3 +80,7 @@ online, but they will soon expand to more general issues about teaching._
 
 > Asking directly about College-wide learning outcomes.
 
+[Graduation 2018](graduation-2018) (Musing #638)
+
+> Reflections on watching students graduate.
+
