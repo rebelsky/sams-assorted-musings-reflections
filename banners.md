@@ -32,7 +32,8 @@ What do they say?  Here are some.
   which is to say it is insufficient for the level of writing we expect
   of most Grinnell students.
 * "**Seek Meaning**" and "**Spread Kindness**".  I can't dispute those two.
-  However, I don't see a natural pairing to these two.
+  However, I don't see a natural pairing to these two.  I did, however,
+  hear one person say "Spread butter.  Be Kind."
 * "**Cross Disciplines**" and "**Build Bridges**".  Are these intended to say
   the same thing?  I'm not sure.  We don't have engineering on campus
   [5], so "Build Bridges" must be intended as metaphorical, except for
@@ -113,6 +114,7 @@ I've heard folks proposed a number of alternatives.
   hasn't been seen since the late 1990's [15], and more.
 * "**Don't Panic**".  Wait.  That comes from somewhere else.  Where is that
   towel when I need it?
+* "**Park Legally**".
 * "**Think Different**".  Or is that "Think Differently".  In either case,
   Apple likely owns a trademark on it.
 * "**Write Clearly**" or "**Express Clearly**".  If we had only one banner
@@ -225,4 +227,6 @@ mediocre writing.
 
 ---
 
-*Version 1.0 of 2018-05-22.*
+*Version 1.0 released 2018-05-22.*
+
+*Version 1.0.2 of 2018-05-22.*
