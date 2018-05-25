@@ -225,3 +225,7 @@ Autobiographical essays, more or less
 
 > What I wore to work this semester.
 
+[My hair](my-hair) (Musing #641)
+
+> As tangled as this musing.
+

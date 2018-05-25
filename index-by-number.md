@@ -830,3 +830,7 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Graduation 2018](graduation-2018) (Musing #638)  
 [Our new banners](banners) (Musing #639)  
 [Yet another speech to Duke TIP award recipients](duke-tip-2018) (Musing #640)  
+
+## 641-650
+
+[My hair](my-hair) (Musing #641)  
