@@ -75,7 +75,7 @@ But I can see the benefit of 3-2 programs for some students.
 
 [5] Gordon Moore also gave a speech that afternoon.  The only thing I
 can remember from the speech is Moore saying "If Grinnell had just held
-on to the Intel stock that it bought at Intel's founding, it's endowment
+on to the Intel stock that it bought at Intel's founding, its endowment
 would be even larger."  But Moore did not account for our need to take
 money from the endowment every year to pay the bills.
 
@@ -92,4 +92,6 @@ the first faculty meetings that Prof. Gale made it to.
 
 ---
 
-*Version 1.0 of 2016-11-16.*
+*Version 1.0 released 2016-11-16.*
+
+*Version 1.0 of 2018-05-25.*
