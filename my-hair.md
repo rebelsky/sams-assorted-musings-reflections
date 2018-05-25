@@ -33,13 +33,13 @@ tie](coat-and-tie-2018-05-11).  And it's not like I can easily undo the
 change if I cut it significantly [7].  My hair grows slowly, I'd need to
 wait a few years until it was back to this length again.
 
-The last time I let it grow this long [10], I donated it to
+The last time I let it grow this long [8], I donated it to
 [Pantene](https://pantene.com/en-us/brandexperience/make-the-cut).
 I may now have enough grey that that's no longer an option.
 
 My family has mixed reactions to the concept of cutting my hair.
-One son regularly suggests that I cut my hair and shave my beard [8].
-Another son tells me that he doesn't like change [9] and wants me to
+One son regularly suggests that I cut my hair and shave my beard [9].
+Another son tells me that he doesn't like change [10] and wants me to
 keep the long hair and beard.  The third son doesn't express much of
 an opinion.  Michelle suggests that if I'm keeping them long, I should
 get my hair and beard trimmed so that they look neater.
@@ -68,12 +68,14 @@ expect things would be worse otherwise.
 
 [7] Or, more precisely, have someone else cut it significantly.
 
-[8] It appears that he forgets what I look like beardless.
+[8] Well, not quite this long.
 
-[9] Or at least not rapid change.
+[9] It appears that he forgets what I look like beardless.
 
-[10] Well, not quite this long.
+[10] Or at least not rapid change.
 
 ---
 
-*Version 1.0 of 2018-05-24.*
+*Version 1.0 released 2018-05-24.*
+
+*Version 1.1 of 2018-05-24.*
