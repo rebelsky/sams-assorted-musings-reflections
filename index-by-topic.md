@@ -295,6 +295,10 @@ Essays on writing, or at least on writing my musings
 
 > Some day I'll write a real introduction.
 
+[An introduction to SamR's Assorted Musings and Rants](intro-musings-v0) (Musing #643)
+
+> My latest attempt at proving context to the musings.
+
 For prospective students, parents of prospective students, and others with similar interests
 --------------------------------------------------------------------------------------------
 

@@ -5,14 +5,14 @@ Here you will find short writings on a variety of topics.  Some are
 responses to questions I received from students or other people.  Some are
 rants about topics I'm passionate about.  Some are explanations of how
 I approach the world.  Some are just my attempts to think through a topic.
+If you'd like, you can read [a longer introduction](intro-musings-v0).
+If you're here because someone told you that I write about CS education,
+please read [this post](intro-musings-sigcse-members).*
 
 Latest musing:
-[The joy of code: (Re)building my letterhead](joc-letterhead) (Musing #642)
+[An introduction to SamR's Assorted Musings and Rants](intro-musings-v0) (Musing #643)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
-
-*Did you end up here because someone told you that I write about CS education?
-If so, please read [this post](intro-musings-sigcse-members).*
 
 [Musings, by number](index-by-number) 
 
