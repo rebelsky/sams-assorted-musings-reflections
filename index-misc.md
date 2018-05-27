@@ -577,3 +577,7 @@ Almost everything else
 
 > Feeling sad and hopeless.
 
+[Depressed and obsessed (or "Putting the marketing campaign behind me")](depressed-and-obsessed-marketing) (Musing #644)
+
+> It's time to move on to other matters.
+

@@ -836,3 +836,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [My hair](my-hair) (Musing #641)  
 [The joy of code: (Re)building my letterhead](joc-letterhead) (Musing #642)  
 [An introduction to SamR's Assorted Musings and Rants](intro-musings-v0) (Musing #643)  
+[Depressed and obsessed (or "Putting the marketing campaign behind me")](depressed-and-obsessed-marketing) (Musing #644)  

@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).*
 
 Latest musing:
-[An introduction to SamR's Assorted Musings and Rants](intro-musings-v0) (Musing #643)
+[Depressed and obsessed (or "Putting the marketing campaign behind me")](depressed-and-obsessed-marketing) (Musing #644)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
