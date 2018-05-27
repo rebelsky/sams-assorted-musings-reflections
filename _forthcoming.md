@@ -16,8 +16,9 @@ The next weekly log
 The next end of month musing
 ----------------------------
 
-* Gave up on reporting weekly logs.  (I'm generally keeping the logs up
-  to date, but I'm not perfect.)
+* Gave up on reporting weekly logs.  (Eventually, I gave up recording
+  the logs.  But I need to start again, because that's part of what
+  I promised to report to the dean.)
 * Wrote [rambly piece on language](language-2018-05-02).  One of the
   first comments I got was "Great piece!"  Perhaps content is more 
   important than structure.
@@ -43,8 +44,6 @@ Musings with substantive drafts
 -------------------------------
 
 _I should finish these some time soon._
-
-1. An introduction to SamR's Assorted Musings and Rants `intro-musings-v0.md`.
 
 1. Double majors, revisited.  `double-majors-2018-05-xx`.
 
@@ -73,19 +72,6 @@ The stack of musings
 --------------------
 
 ### "High priority"
-
-1. The Public Web and the Private Web.  public-private-web-2018-05-15. 
-   (Friday)
-
-1. Andrea Conner.  Things I appreciate.  How hard her job is.  Needing
-   to build new relationships.  (I don't have the best relationship
-   with student affairs.  I'm told that some student affairs staff are
-   intimidated by my "crusades".  Andrea is a buffer; she may not like
-   the crusades, but we have a long enough relationship that (a) she
-   knows that my heart is in the right place and (b) she will call me 
-   out appropriately if I behave in a way she thinks is inapropriate.)
-
-1. The bad logo?
 
 1. About EOCEs.  (Based on <http://www.cs.grinnell.edu/~rebelsky/about-eoc.html>)
 
@@ -353,6 +339,9 @@ we allowed our Ph.D.-level staff to teach the occasional course.  Then I
 learned that it's only in very specific situations.  These are my attempts
 to think through the matter.  [Or maybe they've fixed this.]
 
+1. JAVA.  It's not an acronym.  Why spell it in all caps?  It makes me
+suspicious of people's competence.
+
 ### Added recently
 
 1. Jennifer Weinman's request: " think a good future musing (add it to your list...) would be something about kid-friendly faculty environments, or having kids pre-tenure. It's something I've talked about with many, but don't see publicly discussed in print all that often."  I could start with the old Faculty House Faculty Fridays.
@@ -395,7 +384,6 @@ the new edition were also troubling.
 1. One Art.  (see previous notes, too)  And then Sam returns to his normal search for where it was originally published.  Finds [article on drafts](http://www.english.illinois.edu/maps/poets/a_f/bishop/drafts.htm) and [better article on drafts](https://bluedragonfly10.wordpress.com/2009/06/12/one-art-the-writing-of-loss-in-elizabeth-bishop%E2%80%99s-poetry/).  Finally found the original publication.  
 [_The New Yorker_, 26 April 1976, p. 40](https://www.newyorker.com/magazine/1976/04/26/one-art).  Why was that so hard to find?  Not what I thought.  I thought  the partner had died.  They hadn't.  
 
-
 1. Down a (programming) language
 rabbithole.  Started at open textbooks in CS.
 <http://open.umn.edu/opentextbooks/SearchResults.aspx?subjectAreaId=3>.
@@ -419,6 +407,18 @@ Where am I going with all this?  I don't know.  I'm just amazed at how
 far down the rabbithole I can go.
 
 1. Drawers (on the Web site) (or have I now written enough about them).
+
+1. A great quotation.  http://scarygoround.com/badmachinery/index.php?date=20091008.  Started reading Bad Machinery because it was nominated for some
+award or other.  I'm still not sure what I think about the strip; the introducti
+on is going on a bit long.  But one strip had a great comment.  "What's this rub
+bish we're listening to?"  "The Velvet Underground."  "It's nice that you have s
+ome money to people just playing music for the first time."
+
+1. Musings or images?  When I post a musing, I get a few likes and a few comments.  When I post an image and a short note, I get a a few dozen likes and a few comments.  Should I take pictures rather than musing?  Nah.  Musing is better for me.
+
+1. <http://recodeproject.com/>
+
+1. More introduction.  `intro-musing-topics-v0`.
 
 ### Almost immediate (?)
 
