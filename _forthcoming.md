@@ -420,6 +420,23 @@ ome money to people just playing music for the first time."
 
 1. More introduction.  `intro-musing-topics-v0`.
 
+
+1. On advising at Grinnell.  An extended version of my answer from the FAQ.
+(Which FAQ is that?)
+
+1. Why a good computer science education includes much more than computer
+science.  Another perspective on the value of a liberal arts CS major.
+
+1. Connecting to our Community. A consideration of the ways in which our CS department connects to the town and beyond.
+
+1. On being a Grinnell professor.  Why I (generally) love teaching and
+conducting research at Grinnell and think others might, too.  (Yes,
+the students and colleagues are a good part of the reason.)
+
+1. Comparing students (for letters of recommendation).  When multiple
+students are applying for the same opportunity, I'm often asked to
+compare them.  These are some thoughts on that process.
+
 ### Almost immediate (?)
 
 1. Cleaning a GitHub repo.
@@ -607,8 +624,6 @@ ome money to people just playing music for the first time."
 1. Proscrastination or Overwork?  (Reflection on Michelle's response
    to "Feeling fortunate."  " No- you definitely procrastinate along with being overworked.")
 
-1. My blue blazer.
-
 1. Version numbers.  Why do I change after one period, or two, or ...?
 
 1. "Myself" ("Please send it to myself")
@@ -785,7 +800,26 @@ ome money to people just playing music for the first time."
 
 1. The legendary yearbook (Grinnell)
 
-### All those outstanding anniversary musings (if it's not too late)
+### Reviews
+
+1. Goldenberg's Peanut Chews.  My favorite candy.  (Which I don't
+eat any more.)
+
+1. Jonathan Richman.  One of my favorite musicians.
+
+1. Jon Svetkey and the Loomers.  More of my favorite musicians.
+
+1. Yacht Race.  One of my favorite board games.
+
+1. Van Morrison (or at least Astral Weeks).  Another of my favorite musicians.
+
+1. Physimusicomedy.  My favorite essay topic for my collegiate film
+classes.  (Also, perhaps the best essay I wrote for Gerald Mast.
+I wonder if I'll every find that essay again.)
+
+1. Sam Hurt's _Eyebeam_.  One of my favorite comic strips.
+
+### All those outstanding anniversary musings (on some anniversary)
 
 1. Favorites.
 
@@ -1154,8 +1188,6 @@ the US in the world.)
 1. Book Sales
 
 1. SamR Recommends (aka Good Things at Grinnell)
-
-1. Jon Svetkey (Reviews)
 
 1. Righteous anger. (important issues)
 

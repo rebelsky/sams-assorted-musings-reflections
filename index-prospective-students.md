@@ -36,12 +36,6 @@ For prospective students, parents of prospective students, and others with simil
 > A more general comparison of Grinnell to its peers, reflecting on
 overall characteristics of the institution and the student body.
 
-Connecting to our Community
-- *Forthcoming*
-
-> A consideration of the ways in which our CS department connects
-  to the town and beyond.
-
 [What kind of computer should you buy?](buy-computer) (Essay #2)
 
 > A response to a recent question from a prospective student.  Also

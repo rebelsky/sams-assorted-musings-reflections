@@ -14,9 +14,3 @@ On writing letters of recommendation
 
 [Another evening of writing recommendation letters](recommendations-january-2017) (Essay #214)
 
-Comparing students
-- *Forthcoming*
-
-> When multiple students are applying for the same opportunity, I'm often
-  asked to compare them.  These are some thoughts on that process.
-

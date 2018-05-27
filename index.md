@@ -7,7 +7,7 @@ rants about topics I'm passionate about.  Some are explanations of how
 I approach the world.  Some are just my attempts to think through a topic.
 
 Latest musing:
-[My hair](my-hair) (Musing #641)
+[The joy of code: (Re)building my letterhead](joc-letterhead) (Musing #642)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

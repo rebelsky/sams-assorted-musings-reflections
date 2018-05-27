@@ -333,12 +333,6 @@ For prospective students, parents of prospective students, and others with simil
 > A more general comparison of Grinnell to its peers, reflecting on
 overall characteristics of the institution and the student body.
 
-Connecting to our Community
-- *Forthcoming*
-
-> A consideration of the ways in which our CS department connects
-  to the town and beyond.
-
 [What kind of computer should you buy?](buy-computer) (Essay #2)
 
 > A response to a recent question from a prospective student.  Also
@@ -376,13 +370,6 @@ For prospective faculty
 [On teaching CS at Grinnell](teaching-cs-at-grinnell) (Essay #45)
 
 > Things that I think make our department great.
-
-On being a Grinnell professor
-- *Forthcoming*
-
-> Why I (generally) love teaching and conducting research at Grinnell
-  and think others might, too.  (Yes, the students and colleagues are
-  a good part of the reason.)
 
 For current students and others with similar interests
 ------------------------------------------------------
@@ -436,11 +423,6 @@ For current students and others with similar interests
 > A short overview of student-faculty research, with some details about
   the topics from summer 2016.
 
-On advising at Grinnell
-- *Forthcoming*
-
-> An extended version of my answer from the FAQ.
-
 [Remaining optimistic](remaining-optimistic) (Essay #14)
 
 > At a recent meeting of students and faculty about some campus issues,
@@ -459,11 +441,6 @@ On advising at Grinnell
 
 > A followup to the previous essay, intended as a speech for a panel on
   a Faculty Friday.
-
-Why a good computer science education includes much more than computer science
-- *Forthcoming*
-
-> Another perspective on the value of a liberal arts CS major.
 
 [What makes you happy vs. what you do](enjoy-vs-do) (Essay #15)
 
@@ -1300,12 +1277,6 @@ On writing letters of recommendation
 
 [Another evening of writing recommendation letters](recommendations-january-2017) (Essay #214)
 
-Comparing students
-- *Forthcoming*
-
-> When multiple students are applying for the same opportunity, I'm often
-  asked to compare them.  These are some thoughts on that process.
-
 Don't embarass me; don't embarass yourself: Some notes on thinking in C and Unix
 --------------------------------------------------------------------------------
 
@@ -1526,6 +1497,10 @@ The joy of code
 
 > Not so much a joy of code as a joy of *not-very-good but enjoyably
   strange* code. 
+
+[The joy of code: (Re)building my letterhead](joc-letterhead) (Musing #642)
+
+> Way too much time on a not-very-necessary task.
 
 A new CSC 151
 -------------
@@ -1932,43 +1907,6 @@ things I enjoy.*
 [Cyro Baptista and Banquet of Spirits](cyro-baptista) (Essay #51)
 
 > Reflections on an awesome concert.
-
-Goldenberg's Peanut Chews
-- *Forthcoming*
-
-> My favorite candy.
-
-Jonathan Richman
-- *Forthcoming*
-
-> One of my favorite musicians
-
-Jon Svetkey and the Loomers
-- *Forthcoming*
-
-> More of my favorite musicians
-
-Yacht Race
-- *Forthcoming*
-
-> One of my favorite board games.
-
-Van Morrison
-- *Forthcoming*
-
-> Another of my favorite musicians.
-
-Physimusicomedy
-- *Forthcoming*
-
-> My favorite essay topic for my collegiate film classes.  (Also,
-  perhaps the best essay I wrote for Gerald Mast.  I wonder if
-  I'll every find that essay again.)
-
-Sam Hurt's _Eyebeam_
-- *Forthcoming*
-
-> One of my favorite comic strips.
 
 Mixtapes
 --------

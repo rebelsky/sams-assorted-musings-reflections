@@ -834,3 +834,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 ## 641-650
 
 [My hair](my-hair) (Musing #641)  
+[The joy of code: (Re)building my letterhead](joc-letterhead) (Musing #642)  

@@ -50,11 +50,6 @@ For current students and others with similar interests
 > A short overview of student-faculty research, with some details about
   the topics from summer 2016.
 
-On advising at Grinnell
-- *Forthcoming*
-
-> An extended version of my answer from the FAQ.
-
 [Remaining optimistic](remaining-optimistic) (Essay #14)
 
 > At a recent meeting of students and faculty about some campus issues,
@@ -73,11 +68,6 @@ On advising at Grinnell
 
 > A followup to the previous essay, intended as a speech for a panel on
   a Faculty Friday.
-
-Why a good computer science education includes much more than computer science
-- *Forthcoming*
-
-> Another perspective on the value of a liberal arts CS major.
 
 [What makes you happy vs. what you do](enjoy-vs-do) (Essay #15)
 

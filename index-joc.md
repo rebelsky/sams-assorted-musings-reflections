@@ -57,3 +57,7 @@ The joy of code
 > Not so much a joy of code as a joy of *not-very-good but enjoyably
   strange* code. 
 
+[The joy of code: (Re)building my letterhead](joc-letterhead) (Musing #642)
+
+> Way too much time on a not-very-necessary task.
+
