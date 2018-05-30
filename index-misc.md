@@ -581,3 +581,7 @@ Almost everything else
 
 > It's time to move on to other matters.
 
+[An exclamation to avoid](jeez) (Musing #645)
+
+> Please don't swear in my classroom.
+

@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).*
 
 Latest musing:
-[Depressed and obsessed (or "Putting the marketing campaign behind me")](depressed-and-obsessed-marketing) (Musing #644)
+[An exclamation to avoid](jeez) (Musing #645)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
