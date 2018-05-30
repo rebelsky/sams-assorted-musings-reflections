@@ -2795,6 +2795,10 @@ Almost everything else
 
 > Please don't swear in my classroom.
 
+[Admitting defeat](jeez-followup) (Musing #646)
+
+> Perhaps I'm too persnickety.
+
 Musings with multiple entries
 -----------------------------
 

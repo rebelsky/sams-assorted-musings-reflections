@@ -28,6 +28,12 @@ Please find another exclamation.
 
 ---
 
+Followup: [Friends suggested enough words of this form that I accept
+defeat](jeez-followup).  I will not forbid my students from using
+of "Jeez" (or Geez).  
+
+---
+
 [1] Let's see ... when we use "swear" in this
 way, we mean to use obscene or profane language.
 [Merriam-Webster](https://www.merriam-webster.com/dictionary/profane)
@@ -42,5 +48,6 @@ Even the abridged version is gigantic.
 
 ---
 
-*Version 1.0 of 2018-05-28.*
+*Version 1.0 released 2018-05-28.*
 
+*Version 1.1 of 2018-05-29.*

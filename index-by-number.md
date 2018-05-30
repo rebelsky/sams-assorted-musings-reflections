@@ -838,3 +838,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [An introduction to SamR's Assorted Musings and Rants](intro-musings-v0) (Musing #643)  
 [Depressed and obsessed (or "Putting the marketing campaign behind me")](depressed-and-obsessed-marketing) (Musing #644)  
 [An exclamation to avoid](jeez) (Musing #645)  
+[Admitting defeat](jeez-followup) (Musing #646)  
