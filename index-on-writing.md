@@ -296,3 +296,7 @@ Essays on writing, or at least on writing my musings
 
 > My latest attempt at proving context to the musings.
 
+[You can't always write what you want](failed-musings-2018-05-30) (Musing #647)
+
+> Sometimes you might just find that you write what you need.
+

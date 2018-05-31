@@ -839,3 +839,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Depressed and obsessed (or "Putting the marketing campaign behind me")](depressed-and-obsessed-marketing) (Musing #644)  
 [An exclamation to avoid](jeez) (Musing #645)  
 [Admitting defeat](jeez-followup) (Musing #646)  
+[You can't always write what you want](failed-musings-2018-05-30) (Musing #647)  
