@@ -4,7 +4,7 @@ Textbooks and the bookstore
 *Topics/tags: [Miscellaneous](index-misc), intellectual property*
 
 A little while ago, I learned that the bookstore was selling international
-editions of a textbook [1].  Some time before that, I noticed that the
+editions of a textbook [1].  A bit before that, I noticed that the
 only available copies of one required work of fiction for a course were
 remainders [2].  Both choices make me uncomfortable, but I'm not sure
 that they should.  This musing represents my attempt to consider the
@@ -168,14 +168,61 @@ creative work and, in the case of a book-length work of fiction, it's
 an amount that's clearly beyond the rubrics of fair use.  The author
 deserves compensation.  
 
-Even though I think it's wrong to only stock remainders, I don't
+Even though I consider it wrong to only stock remainders, I don't
 blame the bookstore [20].  They order copies of books from suppliers.
 If the supplier says "We have twenty used copies" and sends along
 twenty remaindered copies, the bookstore doesn't really have an option.
 In this case, I think the problem is more the publisher's willingness to
 remainder large numbers of the book and the used textbook markets' ability
-to take advantage of that.  And popular works are not like textbooks; the
-initial price and the compensation to the author are not nearly as high.
+to take advantage of that.  And popular works are not like textbooks;
+the initial price and the compensation to the author are not nearly
+as high.  I don't know what you do about that.  The whole process of
+using used works of fiction in class is problematic [21].
+
+Part of me wants to ask the professor to gather money from the class
+and send it to the author.  But how would an author feel about that?
+"Our bookstore stocked remainders of your work.  We think you deserve
+compensation.  Each student chipped in $2.  We're sending you $40."
+
+Okay, I've gone about as far as I can on this topic.  What have I
+figured out?  It strikes me that the academic book market is broken.
+While things seem like they are getting better for students in some ways,
+it looks like it's getting worse for students in other ways (e.g., those
+who end up having to purchase a new text spend much more).  And, as far
+as I can tell, the system makes things worse for authors, particularly
+for authors of trade books.
+
+I don't have a good solution.  Now that I think about it, I may even be
+part of the problem.  For certain classes, I just buy enough used copies
+of the text and loan them to my students each semester.  I've done that
+for TEC 154 and I've done that for Tutorial.  I'm keeping the used texts
+out of the market, but I'm also setting up a system in which the authors
+and publishers don't get compensated.  For the text books I use, I'm not
+concerned; the pricing model deals with that.  But for the trade books
+that start out reasonably priced, such as Joe Williams' [_Style: Toward
+Clarity and Grace_](https://www.amazon.com/dp/0226899144/), I'm a bit more
+concerned that I'm limiting compensation.  Of course, that book is now
+out of print.  In addition, I bought some portion of the copies new, so
+Williams got some compensation [22].  I'll have to consider whether I want
+to try the "Gather money from students and send a check to the author"
+model the next time I pass out used copies of trade books in class [23].
+
+Maybe that's my personal solution to both problems [24].  If students
+and faculty think about the value the books bring to their learning
+and contribute a few bucks for each used book they get, authors get
+better compensated.  That model doesn't help with publishers.  However,
+I'm pretty sure that most publishers have designed a model that ensures
+they make sufficient profit.  It also doesn't help with high textbook
+prices; that's a more complex issue that I deal with in multiple other
+ways (including handing out used copies in class).  And, as I said, my
+primary focus in this musing was to consider the implications of these
+two particular cases.
+
+What are those implications?  It's good that students get affordable
+copies of books.  It's bad that authors don't get sufficiently compensated.
+My solution is ad hoc.  It doesn't solve the broader problem of author
+compensation.  But, if adopted widely, it could have some positive impact
+to authors.  Or at least ...
 
 ---
 
@@ -241,6 +288,20 @@ the first result is the international edition.
 
 [20] Or at least I don't think I blame the bookstore.
 
+[21] Used works of fiction can be problematic in many ways.  In one of
+my children's classes, the work was out of print.  We ended up paying
+$50 for a used copy of a book whose cover price was under $20.
+
+[22] Or his family got some compensation.
+
+[23] I don't know when that will be.  I hope Tutorial is my next non-CS
+course.  But I won't be teaching Tutorial next year (fellowship) or the
+next year (sabbatical).  Three years in the future is far enough that
+it's hard to know what I'll be doing.
+
+[24] In case you've forgotten, "both problems" refers to (a) international
+editions of textbooks and (b) remaindered copies of trade books.
+
 ---
 
-*Version 0.8 of 2018-05-29.*
+*Version 0.9 of 2018-05-30.*
