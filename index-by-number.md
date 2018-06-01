@@ -840,3 +840,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [An exclamation to avoid](jeez) (Musing #645)  
 [Admitting defeat](jeez-followup) (Musing #646)  
 [You can't always write what you want](failed-musings-2018-05-30) (Musing #647)  
+[Another month of daily musings](another-month-2018-05) (Musing #648)  

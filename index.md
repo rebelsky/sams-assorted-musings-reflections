@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).*
 
 Latest musing:
-[You can't always write what you want](failed-musings-2018-05-30) (Musing #647)
+[Another month of daily musings](another-month-2018-05) (Musing #648)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

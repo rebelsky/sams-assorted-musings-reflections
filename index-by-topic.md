@@ -303,6 +303,10 @@ Essays on writing, or at least on writing my musings
 
 > Sometimes you might just find that you write what you need.
 
+[Another month of daily musings](another-month-2018-05) (Musing #648)
+
+> Much too much musing on marketing.
+
 For prospective students, parents of prospective students, and others with similar interests
 --------------------------------------------------------------------------------------------
 
