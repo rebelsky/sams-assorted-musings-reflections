@@ -75,6 +75,34 @@ our structures.
 
 ---
 
+These notes are from the _forthcoming musings_.  I should consider whether
+there are any parts to put in the musing above.
+
+Double majors.  Something the faculty are discussing and should be
+discussing.  I support the availability of double majors, including
+double majors within a division.  Why?  We have small majors.  An
+eight-course/32 credit major may be as small as a minor at some other
+institutions.  [Insert normal disclaimer about hidden requirements.]
+And the idea of delving deep into more than one discipline can be
+a natural part of a liberal arts education.  I'd prefer that the
+disciplines be very different, but I'm certainly willing to listen
+to arguments about why disciplines that are in the same division
+are different.  Divisional classifications are arbitrary.  I'd say,
+for example, that Classics and Studio Art are no nearer to each other
+than, say, CS and Economics, even though Classics and Studio Art are
+in the same division and CS and Economics are in different divisions.
+I see some benefit to having double majors as a recruitment tools.
+("Grinnell has compact majors, which allows you to delve deeply into
+two different disciplines.")  I don't see double majors as our primary
+obstacle to our students having a broad liberal arts education.  That
+said, I would certainly pair double majors with my proposed "Defend
+your liberal arts curriculum" approach, or anything else that encourages
+students to think more deeply about the goals and purposes of their
+liberal arts education and to demonstrate that they have achieved
+such an education.
+
+---
+
 [1] Grinnell's Tutorial is a small (12-13 students) seminar-style class
 that allows students to delve deeply into a topic while developing various
 college-level skills, particularly writing skills.
