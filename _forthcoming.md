@@ -16,28 +16,15 @@ The next weekly log
 The next end of month musing
 ----------------------------
 
-* Gave up on reporting weekly logs.  (Eventually, I gave up recording
-  the logs.  But I need to start again, because that's part of what
-  I promised to report to the dean.)
-* Wrote [rambly piece on language](language-2018-05-02).  One of the
-  first comments I got was "Great piece!"  Perhaps content is more 
-  important than structure.
-* Wrote [a short biography](short-bio-2018-05-03).  The biography was
-  short.  But the surrounding text grew and grew until it was a normal
-  size musing.
-* Musings keep getting delayed.  For example, I drafted [the musing on
-  alternate EOCEs] on May 8.  I didn't end up releasing it until
-  May 16.  Why?  Because all the damn marketing stuff occupied my
-  brain in the mean time.
-* Wrote way too much on marketing.
-
 On particular dates
 -------------------
 
-* November 11, 2018: 11/11.  
-* Ground-hog's day, 2019: Ground hog's day.  How long has it been since
+1. November 1, 2018: NaNoWriMo (On writing.)  (Or National Technical
+   Book Writing Month)
+1. November 11, 2018: 11/11.  
+1. Ground-hog's day, 2019: Ground hog's day.  How long has it been since
   we've had one of those parties?
-* March 29, 2019: outliving my father.  (It's a facebook memory from
+1. March 29, 2019: outliving my father.  (It's a facebook memory from
   that date in 2013.)
 
 Musings with substantive drafts
@@ -64,94 +51,104 @@ _I should finish these some time soon._
    introspect, and discuss. (_Needs rewriting.  Should probably focus
    on just the mistrust issue._)
 
-1. Losing weight.
+1. Losing weight. (`losing-weight`)
 
 1. Peoples' names. (`misnaming.md`)
+
+1. A Grinnell Growth Mindset `grinnell-growth-mindset`
+
+Categorized musings
+-------------------
+
+_This represents my attempt to categorize the musings a bit.  Musings
+may have multiple categories.  After the title, you'll find the topics
+surrounded by parentheses._
+
+_Tags: talks, draft, long, short, sketch, rants_
+
+1. Alumni panel :talks:draft:long:
+
+1. Frustrated with fonts and formatting.  :rants:long:typography:sketch:
+Thought I had things ready.
+Then decided that I'd switch ??? for Renner\*.  Of course, Renner* has
+an "a" that I don't like and didn't have monospaced numbers.  But it's
+an open font, so I could change it.  And I did.  It was easier than
+I thought it would be.  Next up: `html2ps` would randomly crash on
+text with a "G", but only on Linux and not on my Mac.  (My Mac has an
+a slightly older version of Ghostscript.  Does that make a difference?).  
+Is that an issue with the design of Besley\*?  I don't know.  It probably
+means that I have to change the font.  It's frustrating.  Amazingly,
+Communications approved my design except that (a) they wanted me to use
+a 1.5 inch left margin and (b) they wanted me to use ragged-right (aka
+left justified) text.  I really like fully justified text, so I'm ignoring
+the second request.  But it seemed reasonable to try the wider left margin.
+Unfortunately, `html2ps` does not behave sensibly.  When I tried 
+adding a `margin-left` entry to either the body tag or the paragraph
+tag.  Then I finally printed it.  And it looked horrible.  Whenever
+two strokes crossed, they showed up white.
+
+1. Textbooks and the bookstore (international editions).  :long:draft:ip:
+`textbooks-bookstore-2018-05-nn`
+
+1. Requirements for our Web site :rants:long:web:
+(for the Web governance committee).  As you may recall, I spend way
+too much of my time frustrated by the damage that Communications did
+to our Web site about five years ago.  (add story) This year, the
+College finally re-formed the Web governance committee.  Of course,
+they didn't meet much and when they did meet, they scheduled meetings at
+times that the Faculty reps couldn't make.  But they are still trying
+to make progress.  Recently, someone asked me what I'd like to see in
+terms of campus Web resources.  This musing represents my attempt to
+think through that question in more depth.
+
+1. About EOCEs.  :rants:draft:long:teaching
+(Based on <http://www.cs.grinnell.edu/~rebelsky/about-eoc.html>)
+
+1. Choosing the right word.  :short:draft:language:
+I was commenting on the current situation
+in CS.  (We still don't have as many tenure-line positions as we
+need, but we have hired some good visitors.  Someone said that they
+were surprised I wasn't more upset.  I wrote that I was relatively
+sanguine about the situation.  Then I looked up what I'd written.  Here's
+[a definition from Google](https://www.google.com/search?q=sanguine): "optimistic or positive, especially in an apparently bad or difficult situation".
+Yeah, that's about right.  I love it when my subconscious chooses the
+right word.  Too bad it doesn't tell me how to pronounce the word
+correctly. "sang gwen" not "sang wine")
+
+1. Portable cellos.  :short:sketch:music:
+A few weeks ago, the College brought in a visiting musician who performed
+on what were clearly custom-made instruments.  At a post-concert
+reception, we ended up talking about how one travels with instruments.
+While he didn't bring one to Grinnell, I seem to recall that he mentioned
+one of the large lute-like instruments with a foldable neck.  Anyway,
+a few days later, I saw that a recently released album included
+music played on a "trench cello", a WWI-era cello the size of an
+ammo case that you attach a neck and strings to.  (My quick read ...)
+<https://www.amazon.com/Cello-Wartime-Steven-Isserlis/dp/B076YPHVBM/>
+<http://travelcello.net/> <http://www.vanorabennettauthor.com/?p=1100>
+
+1. Tracing citations.  (`binary-search-citations`)  :sketch:joc:short:
 
 The stack of musings
 --------------------
 
 ### "High priority"
 
-1. About EOCEs.  (Based on <http://www.cs.grinnell.edu/~rebelsky/about-eoc.html>)
-
-1. Depressed and obsessed (or "Putting the marketing campaign behind me).
-   The advent of our new "institutional identity" and noun-phrase-centric
-   marketing campaign have put me in a funk.  I realize that we need
-   to [market Grinnell](marketing-grinnell).  But I'm bothered by so
-   many things, including the [awkward noun phrases that seem to be
-   at the center of the campaign](our-grinnellian-story-2018-05-10),
-   the sometimes awkward typography, [the incorrectly colored, fuzzily
-   rendered, and inadequately cropped logo](bad-logo) that lived on the
-   Web site for weeks after I reported it [1].  It got so bad that I
-   started dreaming about it.  In the dreams [2], someone would come up
-   and ask how I was doing.  All I could do was rant about the approach.
-   Became on obsession, of sorts.  It's time to put it behind me.
-   [1] And that never should have been there at all.  
-   [2] Nightmares?
-
-1. Textbooks and the bookstore (international editions).  
-   `textbooks-bookstore-2018-05-nn`
-
 1. Requiring a cultural competency course.  What would it do to an open
-curriculum?  Is it necessary?  It may be.  Do we really want to graduate a
-student who has not thought carefully about these issues?  (Of course, do
-we really want to graduate a student who cannot read graphs, charts, and
-data in a newspaper?  At what point does "Do we really want to graduate
-_this student_ become an exercise in adding requirements?)  What would
-it be like to teach that course?  (Some portion of the students would
-clearly object to being there.)  I did have a debate about this with
-the legendary Karla Erickson.  I'm not sure what side I took.
-
-1. Jeez.  I recently [wrote about language use](language-2018-05-02).
-   In that musing, I forgot to mention a phrase that I keep asking
-   students to (re-)consider, "jeez".  When they say that, I tend
-   to respond "Please don't take your lord's name (or someone's lord's
-   name) in vain."  Isn't that the epitome of swearing?  The students
-   tell me that "It's just a word; it doesn't
-   mean anything."  But when I look in [Merriam-Webster
-   online](https://www.merriam-webster.com/dictionary/jeez) I see that
-   it's origin is as an "euphemism for Jesus".  And when I check the
-   [online OED](https://en.oxforddictionaries.com/definition/jeez)
-   [1] says its origin is "1920s: abbreviation of Jesus."  So, it
-   doesn't matter what you think you're saying, you are using the name
-   of someone many consider to be G-d in a non-prayerful way.  It may
-   not bother you, but it's likely to bother someone.  So please stop.
-   [1] "OED" is the way elitist or abbreviated people refer to the 
-   Oxford English Dictionary [2].  
-   [2] The OED also feels a bit elitist, but not the
-   least bit abbreviated.  Even the abridged version is gigantic.
+   curriculum?  Is it necessary?  It may be.  Do we really want to graduate a
+   student who has not thought carefully about these issues?  (Of course, do
+   we really want to graduate a student who cannot read graphs, charts, and
+   data in a newspaper?  At what point does "Do we really want to graduate
+   _this student_ become an exercise in adding requirements?)  What would
+   it be like to teach that course?  (Some portion of the students would
+   clearly object to being there.)  I did have a debate about this with
+   the legendary Karla Erickson.  I'm not sure what side I took.
 
 1. We've been Ologized.  (Let's hope that we're not eulogized.)
 
-1. Fighting with fonts.  (Fun with fonts?)
-
-1. Arts and computing.  `args-and-computing`.  Not much of a draft.
-
-1. Portable cellos.  A few weeks ago, the College brought in a visiting 
-   musician who performed on what were clearly custom-made instruments.
-   At a post-concert reception, we ended up talking about how one
-   travels with instruments.  While he didn't bring one to Grinnell, 
-   I seem to recall that he mentioned one of the large lute-like 
-   instruments with a foldable neck.  Anyway, a few days later, I
-   saw that a recently released album included music played on a
-   "trench cello", a WWI-era cello the size of an ammo case that 
-   you attach a neck and strings to.  (My quick read ...)
-   <https://www.amazon.com/Cello-Wartime-Steven-Isserlis/dp/B076YPHVBM/>
-   <http://travelcello.net/>
-   <http://www.vanorabennettauthor.com/?p=1100>
+1. Arts and computing.  `arts-and-computing`.  Not much of a draft.
 
 1. Forgetting what we read.  <https://www.theatlantic.com/amp/article/551603/>
-
-1. Choosing the right word.  I was commenting on the current situation
-   in CS.  (We still don't have as many tenure-line positions as we
-   need, but we have hired some good visitors.  Someone said that they
-   were surprised I wasn't more upset.  I wrote that I was relatively
-   sanguine about the situation.  Then I looked up what I'd written.  Here's
-   [a definition from Google](https://www.google.com/search?q=sanguine): "optimistic or positive, especially in an apparently bad or difficult situation".
-   Yeah, that's about right.  I love it when my subconscious chooses the
-   right word.  Too bad it doesn't tell me how to pronounce the word
-   correctly. "sang gwen" not "sang wine")
 
 1. The new logo (or at least the new logo font).  It seems wrong.  I've
    been trying to figure out why.
@@ -287,7 +284,7 @@ Okay to deviate once in a while?  Nuts.
    made me sad - Paul Nossiter, The Joe Stories, The Meaning of Things,
    Facebook reminders.)  I wonder why.  Is it that mom's birthday is
    this week?  Is it feeling my own mortality?  (Interestingly, these
-   got spread out a bit.)
+   got spread out a bit.)  (It's no longer the last few musings.)
 
 1. Implicit bias.  (Implicit Association) (What I know.  What I believe.  
    What the evidence suggests.  Vs. Explicit bias.  Etc. Etc.)
@@ -299,7 +296,9 @@ Okay to deviate once in a while?  Nuts.
 
 1. A thirty-year committment.  (What they say about a new tenure-line position.)
 
-1. What happens when a faculty member gets sick
+1. What happens when a faculty member gets sick.  (Brooks commented 
+something about this, particularly about how it suggests that we are
+overcommitted.)
 
 1. Proto-musings: Facebook reminds me that when I was last on sabbatical, 
   back in spring 2012, I regularly posted a short note [1].  In some sense,
@@ -344,7 +343,7 @@ suspicious of people's competence.
 
 ### Added recently
 
-1. Jennifer Weinman's request: " think a good future musing (add it to your list...) would be something about kid-friendly faculty environments, or having kids pre-tenure. It's something I've talked about with many, but don't see publicly discussed in print all that often."  I could start with the old Faculty House Faculty Fridays.
+1. Jennifer Weinman's request: " think a good future musing (add it to your list...) would be something about kid-friendly faculty environments, or having kids pre-tenure. It's something I've talked about with many, but don't see publicly discussed in print all that often."  I could start with the old Faculty House Faculty Fridays.  It could be in the musing for prospective faculty.
 
 1. Spaces after sentences.  <https://www.washingtonpost.com/news/speaking-of-science/wp/2018/05/04/one-space-between-each-sentence-they-said-science-just-proved-them-wrong-2/>
 
@@ -363,8 +362,6 @@ date (Whoops).
 1. Becoming an icon (no, the other kind).  While I was playing around
 with various issues related to the College Web site, I decided to think
 about icons.  There's a Web editor.  http://www.xiconeditor.com/.
-
-1. A Grinnell Growth Mindset `grinnell-growth-mindset`
 
 1. Cary Nelson's piece on "The Economic Challenges of Anthologies"
 in _On Anthologies_.  Really fascinating.  I picked it up after
@@ -420,6 +417,22 @@ ome money to people just playing music for the first time."
 
 1. More introduction.  `intro-musing-topics-v0`.
 
+1. Dynamic typefaces.  https://www.typotheque.com/blog/wind_a_layered_typeface_for_optical_illusions
+
+1. Phone cases.  My iphone is now a bunch of generations old.  It you 
+look at it, it looks (mostly) brand new.  Why?  Because I keep it in
+a case.  And not just any case.  I use an Otterbox Defender.  The defender
+encloses the phone in a plastic shell (with screen cover) and then surrounds
+that shell with a rubber bumper guard.  I've dropped it more than ten
+feet to no ill effect.  But I realize that it makes me think of the 
+iPhone as relatively bullky when it's not.  On the other hand, I get
+to use a phone case for a no-longer existent football team (I have one
+for the St. Louis Rams and one for the San Diego Chargers.)
+
+1. When will we get a public Web site?  (This should wait awhile until
+I've calmed down.)
+
+### Gathered from elsewhere
 
 1. On advising at Grinnell.  An extended version of my answer from the FAQ.
 (Which FAQ is that?)
@@ -1257,33 +1270,6 @@ Dodge Dart.)
 
 1. CTLA.
 
-1. NaNoWriMo (On writing.) (Wait another year?)
-
-1. Double majors.  Something the faculty are discussing and should be
-   discussing.  I support the availability of double majors, including
-   double majors within a division.  Why?  We have small majors.  An
-   eight-course/32 credit major may be as small as a minor at some other
-   institutions.  [Insert normal disclaimer about hidden requirements.]
-   And the idea of delving deep into more than one discipline can be
-   a natural part of a liberal arts education.  I'd prefer that the
-   disciplines be very different, but I'm certainly willing to listen
-   to arguments about why disciplines that are in the same division
-   are different.  Divisional classifications are arbitrary.  I'd say,
-   for example, that Classics and Studio Art are no nearer to each other
-   than, say, CS and Economics, even though Classics and Studio Art are
-   in the same division and CS and Economics are in different divisions.
-   I see some benefit to having double majors as a recruitment tools.
-   ("Grinnell has compact majors, which allows you to delve deeply into
-   two different disciplines.")  I don't see double majors as our primary
-   obstacle to our students having a broad liberal arts education.  That
-   said, I would certainly pair double majors with my proposed "Defend
-   your liberal arts curriculum" approach, or anything else that encourages
-   students to think more deeply about the goals and purposes of their
-   liberal arts education and to demonstrate that they have achieved
-   such an education.
-
-   Whoops.  I wrote this one already.
-
 ---
 
 Grinnellians
@@ -1460,6 +1446,13 @@ will be public, though.*
 Revisiting Topics
 -----------------
 
+1. Game night, revisited.  :revisit:misc:
+(I'm not sure what this will be about.)  Once a week
+during the summer, I host a game night for my kids, for students doing 
+work in the CS department, for friends of my kids, and for a few 
+assorted other people who decide to show up.  It's a good excuse to
+feed people.  (Oh, damn.  I wrote this last summer.)
+
 1. At some point, I'll come back to topics.*
 
 1. Naming week 14, revisited.
@@ -1487,6 +1480,8 @@ convocation. Here's a plan for doing so.)
 1. If you ask a prof a question, revisited (On Writing)
 
 1. Proofpoint, revisited.
+
+1. Eschewing processed sugar, revisited.
 
 ---
 
