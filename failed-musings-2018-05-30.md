@@ -47,6 +47,13 @@ Thanks Mick and Keith.
 
 ---
 
+Postscript: There are, of course, other reasons that I can't always write
+(or at least can't post) what I want.  Good taste.  Decorum.  A desire to
+keep my job.  Maybe I'll write about those other reasons in the future.  
+However, this musing is supposed to be short.
+
+---
+
 [1] And even continued on a positive note; my contact in Communications
 generally liked my custom letterhead.
 
