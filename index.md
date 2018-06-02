@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).*
 
 Latest musing:
-[Another month of daily musings](another-month-2018-05) (Musing #648)
+[Comments from a panel at reunion 2018](reunion-panel-2018-05-31) (Musing #649)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

@@ -33,3 +33,7 @@ Assorted talks and speeches
 
 > Third time's a charm.
 
+[Comments from a panel at reunion 2018](reunion-panel-2018-05-31) (Musing #649)
+
+> Why did they ask me to participate?
+
