@@ -2811,6 +2811,10 @@ Almost everything else
 
 > Perhaps I'm too persnickety.
 
+[Textbooks and the bookstore](textbooks-bookstore-2018-06-02) (Musing #650)
+
+> Reflecting on some sales choices.
+
 Musings with multiple entries
 -----------------------------
 

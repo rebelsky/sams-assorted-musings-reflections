@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).*
 
 Latest musing:
-[Comments from a panel at reunion 2018](reunion-panel-2018-05-31) (Musing #649)
+[Textbooks and the bookstore](textbooks-bookstore-2018-06-02) (Musing #650)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

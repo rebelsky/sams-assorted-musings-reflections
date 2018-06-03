@@ -842,3 +842,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [You can't always write what you want](failed-musings-2018-05-30) (Musing #647)  
 [Another month of daily musings](another-month-2018-05) (Musing #648)  
 [Comments from a panel at reunion 2018](reunion-panel-2018-05-31) (Musing #649)  
+[Textbooks and the bookstore](textbooks-bookstore-2018-06-02) (Musing #650)  
