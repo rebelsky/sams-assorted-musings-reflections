@@ -252,6 +252,13 @@ and informed comments on these topics.
 
 ---
 
+Postscript: David Feldman '01 passed along [a
+'blog post by Robert J.  Sawyer on what authors get from
+remainders](https://sfwriter.com/2008/01/remainders-what-do-authors-get.html)
+and some other related topics [29].
+
+---
+
 [1] Do I have any long musings that aren't rambly?  I hope so!
 
 [2] An international edition of a textbook is an edition designed for
@@ -338,6 +345,14 @@ editions of textbooks and (b) remaindered copies of trade books.
 
 [28] If they do, I'll muse about the topic again.
 
+[29] I'm sad to see him write that "[M]ost established authors in the SF
+field, even if they're published in both hardcover and paperback make a
+total of something like $20,000 per book for North American sales."  That
+seems like very little.  The post is about a decade old but I'm guessing
+that hasn't changed too much, unless ebooks are making a difference.
+
 ---
 
-*Version 1.0 of 2018-06-02.*
+*Version 1.0 released 2018-06-02.*
+
+*Version 1.1 of 2018-06-03.*
