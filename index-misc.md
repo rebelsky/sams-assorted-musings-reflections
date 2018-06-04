@@ -1,4 +1,5 @@
 Almost everything else
+[I'm so confused](confused-comphistory-languages) (Musing #651)
 ======================
 
 [Mom](mom) (Essay #19)
@@ -592,4 +593,8 @@ Almost everything else
 [Textbooks and the bookstore](textbooks-bookstore-2018-06-02) (Musing #650)
 
 > Reflecting on some sales choices.
+
+[I'm so confused!](confused-comphistory-languages) (Musing #651)
+
+> Unexpected PL influences.
 

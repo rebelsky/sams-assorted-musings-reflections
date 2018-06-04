@@ -843,3 +843,7 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Another month of daily musings](another-month-2018-05) (Musing #648)  
 [Comments from a panel at reunion 2018](reunion-panel-2018-05-31) (Musing #649)  
 [Textbooks and the bookstore](textbooks-bookstore-2018-06-02) (Musing #650)  
+
+## 651-660
+
+[I'm so confused](confused-comphistory-languages) (Musing #651)  
