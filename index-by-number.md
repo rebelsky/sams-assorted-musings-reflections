@@ -847,3 +847,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 ## 651-660
 
 [I'm so confused](confused-comphistory-languages) (Musing #651)  
+["Checking in" (a quick teaching tip)](checking-in-absences) (Musing #652)  

@@ -84,3 +84,7 @@ online, but they will soon expand to more general issues about teaching._
 
 > Reflections on watching students graduate.
 
+["Checking in" (a quick teaching tip)](checking-in-absences) (Musing #652)
+
+> Reacting to absences.
+

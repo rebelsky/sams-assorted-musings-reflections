@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).*
 
 Latest musing:
-[I'm so confused!](confused-comphistory-languages) (Musing #651)
+["Checking in" (a quick teaching tip)](checking-in-absences) (Musing #652)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
