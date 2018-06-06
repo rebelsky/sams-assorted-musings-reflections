@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).*
 
 Latest musing:
-["Checking in" (a quick teaching tip)](checking-in-absences) (Musing #652)
+[Getting the preposition right](preposition-github) (Musing #653)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

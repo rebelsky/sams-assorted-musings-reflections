@@ -2824,6 +2824,10 @@ Almost everything else
 
 > Unexpected PL influences.
 
+[Getting the preposition right](preposition-github) (Musing #653)
+
+> Although "to" and "on" share a vowel, they are different prepositions.
+
 Musings with multiple entries
 -----------------------------
 
