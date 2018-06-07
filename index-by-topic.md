@@ -2174,6 +2174,10 @@ Autobiographical essays, more or less
 
 > As tangled as this musing.
 
+[Traveling light](traveling-light) (Musing #654)
+
+> One backpack to hold laptop, CPAP, and three days' worth of clothes.
+
 Salary reviews
 --------------
 
