@@ -7,7 +7,7 @@ rants about topics I'm passionate about.  Some are explanations of how
 I approach the world.  Some are just my attempts to think through a topic.
 If you'd like, you can read [a longer introduction](intro-musings-v0).
 If you're here because someone told you that I write about CS education,
-please read [this post](intro-musings-sigcse-members).*
+please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
 [Getting the preposition right](preposition-github) (Musing #653)
