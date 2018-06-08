@@ -850,3 +850,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 ["Checking in" (a quick teaching tip)](checking-in-absences) (Musing #652)  
 [Getting the preposition right](preposition-github) (Musing #653)  
 [Traveling light](traveling-light) (Musing #654)  
+[Cyclic imports in Python](cyclic-imports-python) (Musing #655)  

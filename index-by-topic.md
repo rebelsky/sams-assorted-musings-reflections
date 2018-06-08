@@ -937,6 +937,10 @@ Rants
 
 > Putting information where it belongs.
 
+[Cyclic imports in Python](cyclic-imports-python) (Musing #655)
+
+> Ugh.
+
 Assorted talks and speeches
 ---------------------------
 
