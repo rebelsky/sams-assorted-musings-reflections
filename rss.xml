@@ -7,6 +7,13 @@
       A curmudgeonly faculty member in computer science writes about a variety of topics.
     </description>
     <item>
+      <title>Musing #656: Loading zones</title>
+      <link>https://www.cs.grinnell.edu/~rebelsky/musings/loading-zones</link>
+      <guid>https://www.cs.grinnell.edu/~rebelsky/musings/loading-zones</guid>
+      <pubDate>Sat, 09 Jun 2018 02:08:06 GMT</pubDate>
+      <description>These are not your parking spaces.</description>
+    </item>
+    <item>
       <title>Musing #655: Cyclic imports in Python</title>
       <link>https://www.cs.grinnell.edu/~rebelsky/musings/cyclic-imports-python</link>
       <guid>https://www.cs.grinnell.edu/~rebelsky/musings/cyclic-imports-python</guid>

@@ -941,6 +941,10 @@ Rants
 
 > Ugh.
 
+[Loading zones](loading-zones) (Musing #656)
+
+> These are not your parking spaces.
+
 Assorted talks and speeches
 ---------------------------
 
