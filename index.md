@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Loading zones](loading-zones) (Musing #656)
+[Choosing the right word](sanguine) (Musing #657)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
