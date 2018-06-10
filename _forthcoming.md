@@ -16,6 +16,15 @@ The next weekly log
 The next end of month musing
 ----------------------------
 
+* Some fairly long musings.
+* The trouble of musing on the road.  (Something I'm likely to encounter
+  again.)  Mostly short musings.  I don't seem to have a large backlog
+  of short musings, so ....
+* Trying not to rant more.  The nametags were a challenge.
+* Tagging the musings.
+* Forgot to clean out the RSS file.
+* Added a new index entry.  (Language.)
+
 On particular dates
 -------------------
 
@@ -66,30 +75,6 @@ surrounded by parentheses._
 
 _Tags: talks, draft, long, short, sketch, rants_
 
-1. Alumni panel :talks:draft:long:
-
-1. Frustrated with fonts and formatting.  :rants:long:typography:sketch:
-Thought I had things ready.
-Then decided that I'd switch ??? for Renner\*.  Of course, Renner* has
-an "a" that I don't like and didn't have monospaced numbers.  But it's
-an open font, so I could change it.  And I did.  It was easier than
-I thought it would be.  Next up: `html2ps` would randomly crash on
-text with a "G", but only on Linux and not on my Mac.  (My Mac has an
-a slightly older version of Ghostscript.  Does that make a difference?).  
-Is that an issue with the design of Besley\*?  I don't know.  It probably
-means that I have to change the font.  It's frustrating.  Amazingly,
-Communications approved my design except that (a) they wanted me to use
-a 1.5 inch left margin and (b) they wanted me to use ragged-right (aka
-left justified) text.  I really like fully justified text, so I'm ignoring
-the second request.  But it seemed reasonable to try the wider left margin.
-Unfortunately, `html2ps` does not behave sensibly.  When I tried 
-adding a `margin-left` entry to either the body tag or the paragraph
-tag.  Then I finally printed it.  And it looked horrible.  Whenever
-two strokes crossed, they showed up white.
-
-1. Textbooks and the bookstore (international editions).  :long:draft:ip:
-`textbooks-bookstore-2018-05-nn`
-
 1. Requirements for our Web site :rants:long:web:
 (for the Web governance committee).  As you may recall, I spend way
 too much of my time frustrated by the damage that Communications did
@@ -101,8 +86,9 @@ to make progress.  Recently, someone asked me what I'd like to see in
 terms of campus Web resources.  This musing represents my attempt to
 think through that question in more depth.
 
-1. About EOCEs.  :rants:draft:long:teaching
+1. About EOCEs.  :rants:draft:long:teaching:rewrites:
 (Based on <http://www.cs.grinnell.edu/~rebelsky/about-eoc.html>)
+(Now at `grinnell-eoce`.)
 
 1. Choosing the right word.  :short:draft:language:
 I was commenting on the current situation
@@ -129,6 +115,47 @@ ammo case that you attach a neck and strings to.  (My quick read ...)
 
 1. Tracing citations.  (`binary-search-citations`)  :sketch:joc:short:
 
+1. Upgrading my class for the new Java. :joc:csed:sketch:
+This coming spring, I'm teaching CSC 207, our data structures and
+algorithms course.  I'd already planned some significant changes since
+the last time I taught the class, not least because we've decide to
+reinstitute coverage of graphs in 207 [1].  One of my colleagues has
+also written portions of a text, a bunch of labs, and some cool homework
+problems.  So I thought I'd adapt those.  But now I have something else
+to consider: Java 9 is now out.  When I last taught CSC 207, Java 8 had
+just been released and I had to rewrite some important parts to take
+advantage of some new Java 8 features, particularly lambdas,
+which I found provided an excellent alternative for most
+of the situations in which I used (or had students use)
+anonymous inner classes [2].  I wonder [what new features Java 9
+has](https://docs.oracle.com/javase/9/whatsnew/toc.htm) that might change
+the way I teach?  Let's see.  A module system. [`jshell`](https://docs.oracle.com/javase/9/tools/jshell.htm), which provides a REPL for Java.  That seems
+like a great way for students to experiment with code.  Applets are getting
+deprecated in favor of Java Web Start.  I haven't used Applets in recent
+years, but I wonder what my colleague has been doing.  Interfaces can now
+hae private methods.  Wait.  When did interfaces get methods in the first
+place?  It appears that the answer is "[in Java 8](https://docs.oracle.com/javase/tutorial/java/IandI/defaultmethods.html)".
+Isn't an interface with methods just an abstract class?  Wait a second,
+it appears that we're up to Java 10?  How fast are new versions coming out?
+Really fast, it seems.  Java 11 appears to be due out in September.
+Maybe I should think about something else. It's probably time to switch to the hideous implicit Java 
+formatting standards.  
+[1] I used to cover graphs when I taught CSC 152, the predecessor to
+CSC 207.  But it was clear that I crammed way too much in 152.
+
+1. Adding a new index.  :short:meta:
+About adding the language index.  Perhaps about adding a meta index.
+(That probably requires updating the description of index-on-writing.)
+
+1. "a number of". :short:language:
+I find that I regular write the idiom "a number of".  For example, I might
+write "there are a number of reasons that I muse".  I probably shouldn't.
+It's not a very clear statement.  one is a number.  fifty two billion,
+ninety eight thousand, six hundred and three is also a number.  So is
+negative five.  Or pi.  I should probably use "some" or "a few" or "many",
+depending on the situation.  What unit of speech is it?  My first inclination
+was to consider it an adjectival phrase, but ....
+
 The stack of musings
 --------------------
 
@@ -150,9 +177,6 @@ The stack of musings
 
 1. Forgetting what we read.  <https://www.theatlantic.com/amp/article/551603/>
 
-1. The new logo (or at least the new logo font).  It seems wrong.  I've
-   been trying to figure out why.
-
 1. Logging my life?  (Maybe not this week; I'm not sure what's useful
    to say.)
 
@@ -160,7 +184,7 @@ The stack of musings
 
 1. The new CSC 151 assignment, option 2 (text generation)
 
-1. Report on the code camps
+1. Report on the code camps.  I wrote that already.  Should I post it?
 
 1. <https://www.chronicle.com/article/The-5-Types-of-Professors-/243108>
 
@@ -177,8 +201,6 @@ The stack of musings
    the rest of us to?
    Communication on campus.
    DRY.
-
-1. Loading zone vs. parking.
 
 1. Tagging the musings. Or does this just get incorporated into the
    next end-of-month musing?
@@ -337,9 +359,6 @@ p.m." or "6/12/64".
 we allowed our Ph.D.-level staff to teach the occasional course.  Then I
 learned that it's only in very specific situations.  These are my attempts
 to think through the matter.  [Or maybe they've fixed this.]
-
-1. JAVA.  It's not an acronym.  Why spell it in all caps?  It makes me
-suspicious of people's competence.
 
 ### Added recently
 
@@ -550,8 +569,6 @@ compare them.  These are some thoughts on that process.
 1. The size of the College, revisited.  (What the group concluded, etc.)
 
 ### New "soon", potentially short, teaching topics.
-
-1. "Checking in ..." A teaching tip. (and more)
 
 1. I am loath vs I am loathe vs I am loathed.  (I wrote the middle
    one.  Grammarly suggested the last one.  I realized that I wanted
