@@ -307,6 +307,13 @@ Essays on writing, or at least on writing my musings
 
 > Much too much musing on marketing.
 
+On language
+-----------
+
+_Notes on language usage.  I didn't add this category until after musing
+650, so there are likely many musings on language missing.  I hope to link
+to them eventually._
+
 For prospective students, parents of prospective students, and others with similar interests
 --------------------------------------------------------------------------------------------
 
