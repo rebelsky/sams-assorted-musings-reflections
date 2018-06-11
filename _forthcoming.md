@@ -158,6 +158,8 @@ was to consider it an adjectival phrase, but ....
 
 1. musing with a lousy connection.  :short:meta:
 
+1. The CS Commons.  `cs-commons`.  :grinnell:short:
+
 The stack of musings
 --------------------
 
@@ -1254,8 +1256,6 @@ what courses should I take? ... plus paperwork and more)
 
 1. Digital signatures. The technology has been around for more than a
 decade. And it's **free**.
-
-1. The CS Commons.
 
 1. Application for Google thingy?
 
