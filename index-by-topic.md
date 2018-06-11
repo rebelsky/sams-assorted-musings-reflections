@@ -2195,7 +2195,11 @@ Autobiographical essays, more or less
 
 [Traveling light](traveling-light) (Musing #654)
 
-> One backpack to hold laptop, CPAP, and three days' worth of clothes.
+> One backpack to hold my laptop, CPAP, and three days' worth of clothes.
+
+[Why me?](profile-2018-06-10) (Musing #658)
+
+> Getting interviewed for a promotional video.
 
 Salary reviews
 --------------

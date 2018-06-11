@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Choosing the right word](sanguine) (Musing #657)
+[Why me?](profile-2018-06-10) (Musing #658)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
