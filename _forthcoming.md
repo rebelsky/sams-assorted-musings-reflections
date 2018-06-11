@@ -156,6 +156,8 @@ negative five.  Or pi.  I should probably use "some" or "a few" or "many",
 depending on the situation.  What unit of speech is it?  My first inclination
 was to consider it an adjectival phrase, but ....
 
+1. musing with a lousy connection.  :short:meta:
+
 The stack of musings
 --------------------
 
