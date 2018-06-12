@@ -1891,6 +1891,10 @@ Grinnell.
 
 > Trying to find some meaning in a confusing campaign.
 
+[Noyce third](noyce-third) (Musing #659)
+
+> My favorite place on campus.
+
 A letter to the incoming chair
 ------------------------------
 

@@ -854,3 +854,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Loading zones](loading-zones) (Musing #656)  
 [Choosing the right word](sanguine) (Musing #657)  
 [Why me?](profile-2018-06-10) (Musing #658)  
+[Noyce third](noyce-third) (Musing #659)  
