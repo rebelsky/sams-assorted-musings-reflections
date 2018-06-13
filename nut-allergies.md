@@ -27,15 +27,16 @@ Yes, it affects your tip.
 
 It seems nuts show up in my food at the least convenient times.  Tonight,
 I was at a special Chef's dinner.  The first course was a delicate semi-liquid
-on an almond crust.  Almonds aren't nuts and I eat them daily.  So I ate
-it.  I ate it in one bite, like they told me to.  I shouldn't have.  I
-immediately started feeling sick.  But it wasn't supposed to have nuts, so
-I decided it was just something different.  I made it thirty minutes.  But
-my body was insistent that I had eaten nuts and that it was not going to
-put up with it.  The Chef first insisted that the dish only had almonds.
-Then he said that even though it had almonds, they served me one without
-almonds.  My body insisted otherwise.  Perhaps they substituted hazelnuts
-for almonds.  Who knows? [3].
+on an almond crust.  Despite what Google says, almonds aren't really
+tree nuts and I eat them daily.  So I ate it.  I ate it in one bite,
+like they told me to.  I shouldn't have.  I immediately started
+feeling sick.  But it wasn't supposed to have nuts, so I decided
+it was just something different.  I made it thirty minutes.  But
+my body was insistent that I had eaten nuts and that it was not
+going to put up with it.  The Chef first insisted that the dish
+only had almonds.  Then he said that even though it had almonds,
+they served me one without almonds.  My body insisted otherwise.
+Perhaps they substituted hazelnuts for almonds.  Who knows? [3].
 
 In any case, I wasn't feeling well enough to sit at the table.  I
 missed most of dinner.  I worried my wife and dinner companions.
@@ -56,8 +57,8 @@ Trust me, they well.
 recipe from the cook.  He didn't want to give it to her, but she said 
 "If it doesn't have nuts, then there's something else he's allergic to.
 That was clearly an anaphylactic reaction. [4]"  So she got the recipe.
-The third ingredient on the list was Hazlenut flour.  Michelle
-pointed it out to the chef and he said, "Hazlenut isn't a tree nut."
+The third ingredient on the list was Hazelnut flour.  Michelle
+pointed it out to the chef and he said, "Hazelnut isn't a tree nut."
 But I'm glad to know that there's not something new that I'm allergic to.
 
 [4] Okay, I'm not sure exactly what she said.  I wasn't there.  But she was
@@ -65,4 +66,4 @@ able to get the recipe.
 
 ---
 
-*Version 0.9 of 2018-06-12.*
+*Version 1.0 of 2018-06-12.*

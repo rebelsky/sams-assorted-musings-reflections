@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Noyce third](noyce-third) (Musing #659)
+[Nuts to allergies](nut-allergies) (Musing #660)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

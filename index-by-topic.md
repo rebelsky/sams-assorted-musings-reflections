@@ -2213,6 +2213,10 @@ Autobiographical essays, more or less
 
 > Getting interviewed for a promotional video.
 
+[Nuts to allergies](nut-allergies) (Musing #660)
+
+> I hate mine.
+
 Salary reviews
 --------------
 
