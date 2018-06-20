@@ -160,6 +160,12 @@ was to consider it an adjectival phrase, but ....
 
 1. The CS Commons.  `cs-commons`.  :grinnell:short:
 
+1. Back from vacation.  
+
+1. Confusing email.  `confusing-email-2018-06-xx.md`.  :misc:email:short:
+
+1. Aggressive spam filters.  `aggressive-spam-filters-2018-06-xx.md`.  :misc:email:short:
+
 The stack of musings
 --------------------
 
