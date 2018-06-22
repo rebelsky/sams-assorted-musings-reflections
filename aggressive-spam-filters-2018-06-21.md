@@ -39,7 +39,7 @@ them.
 
 > https://urldefense.proofpoint.com/v2/url?u=http-3A\_\_sigcse.org\_sigcse\_membership\_mailing-2Dlists&d=DwIFAg&c=HUrdOLg\_tCr0UMeDjWLBOM9lLDRpsndbROGxEKQRFzk&r=6rcUljFJZnpk5uomPd3v3WCzboqh0RuwO-BZyxMfi0U&m=zWEyj5tMrmg8UTSR\_MzfKCC2TS7qxvkVllVQsvzt3SE&s=Yr5JuWmqe5F55i2VF3TELzPQ7ipV6POiM3SuDGCBMZQ&e=
 
-Is that safe to click?  Where does it lead?  The assumption is that I should
+Is that safe to click?  Where does it lead [3]?  The assumption is that I should
 just trust Proofpoint to filter appropriately and that I don't care where
 it leads.  But, well, Proofpoint doesn't always filter well.  For example,
 much of campus received a phishing message this morning.  I clicked on the
@@ -50,7 +50,7 @@ if people were taught well and understood, then shortened URLs would
 be permissible and URL rewriting would be unnecessary.  Unfortunately,
 I know from talking to our ITS staff that there is a sufficiently large
 population of people who aren't paying enough attention.  Every experimental
-phishing expedition on campus [3] has revealed at least a few passwords.
+phishing expedition on campus [4] has revealed at least a few passwords.
 And once an attacker has one account on campus, they can often get access
 to more things.
 
@@ -63,8 +63,11 @@ the ACM Special Interest Group on Computer Science Education.
 
 [2] When I write "wonders", I actually mean "horrors".
 
-[3] For example, when we hire someone to test our security.
+[3] Okay, in this case it's pretty clear that it's somewhere on the 
+SIGCSE site.  It's not always that clear.
+
+[4] For example, when we hire someone to test our security.
 
 ---
 
-*Version 1.0 of 2018-06-21.*
+*Version 1.1 of 2018-06-21.*
