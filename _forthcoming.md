@@ -160,6 +160,13 @@ was to consider it an adjectival phrase, but ....
 
 1. The CS Commons.  `cs-commons`.  :grinnell:short:
 
+1. Are almonds tree nuts?  :misc:short:
+In writing about [my allergy to tree nuts](nut-allergies), I noted that
+I'm not allergic to almonds.  I thought it would be useful to add a bit
+more background on that issue. Vince Eckhart.  Michelle and I have different
+memories of what happened next.  Here's what the Smithsonian says:
+<https://www.smithsonianmag.com/science-nature/tree-nut-allergies-may-be-massively-overdiagnosed-180962927/>
+
 The stack of musings
 --------------------
 
