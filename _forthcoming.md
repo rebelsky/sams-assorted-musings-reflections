@@ -160,11 +160,66 @@ was to consider it an adjectival phrase, but ....
 
 1. The CS Commons.  `cs-commons`.  :grinnell:short:
 
-1. Back from vacation.  
-
 1. Confusing email.  `confusing-email-2018-06-xx.md`.  :misc:email:short:
 
-1. Aggressive spam filters.  `aggressive-spam-filters-2018-06-xx.md`.  :misc:email:short:
+1. The joy of code camps.  :teaching:long:
+Agreed to do it because it seemed like a good thing.  And it's something
+our community really wants.  There's also a joy in knowing that we're
+encouraging some kids who might not otherwise think about higher education
+to start thining about it.  (And some kids who might not otherwise think
+about CS to start thinking about it.)  But boy, does it sap my energy.
+And it's not really in my wheelhouse.  What does it do for the undergraduates?
+
+1. Buying books.  :autobiographical:
+I enjoy buying books.  I also enjoy reading books.  But sometimes it seems like
+I spend more time buying the books than reading them. I need to find a way
+to turn that habit around.  Maybe when thigns are quieter I'll find more time
+to read.
+
+1. Notes from Students/Moral modeling. :teaching:short:
+Before I started musing, I would occasionally post short notes to Facebook.
+(Yes, I realize that's what people use Facebook for.)  Facebook is fond
+of reminding me of those onld notes.  (Yes, I realize that's something
+Facebook does for everyone.)  Here's a note from 23 June 2013 that
+sruck home.  
+> One of those things that makes the job worth it: I got a
+note from a graduating senior that says "Thank you for being such an
+inspiring mentor during the past 3 years that I have known you. Your
+classes - aside from teaching the actual subject - incorporated many
+important life lessons from me - that it is important to say goodbye,
+that every student brings something unique to the whole class, and that
+caring about others matters more than grades. I think these lessons were
+so powerful because you actually live by these principles."  Of course,
+the first two lessons come from the last day of class speech that I stole
+from mom. But it's nice to see that I model behavior for the students.
+(I can then add a bunch of followups.)
+
+1. Redirects.  :misc:short:
+The other day, I was reading my daily email message from Book Bub.  For
+those who don't know, Book Bub recommends books that are currently on sale
+on Amazon.  Book Bub also has some advertisements for books.  I clicked
+on one of the advertisements [It doesn't really matter what the advertisement
+was for] and was surprised to see the number of redirects.  I *think* this
+is all of them.  The link led to `outbound.bookbub.com`.  That redirected
+to `n.bookbub.com/l/nk/`.  That, in turn, redirected to `amzn.to`.
+From there to `bit.ly`.  And, finally, that redirected to `amazon.com`.
+Boy, that's a lot of redirects.  Wait!  Why wasn't there a urldefense
+link at the start of the chain?  Isn't Proofpoint supposed to rewrite
+every URL to go to a urldefense site first.  Have we turned off
+urldefense?  Let's see ... Oh, it appears that urldefense is not used
+for really long links.  Wow, that makes me feel secure.
+
+1. The other Rebelskys.  :autobiographical:short:
+For most of my life, I thought we were the only Rebelskys.  Our name
+had started out as "Novagrebelsky" but became "Rebelsky" upon arrival
+at Ellis island.  (I'm told that the other side of the family was
+"Gildenpfennig" and they were given the option of "Gould" or "Gold".
+They said "The first one.)  The other US relatives had changed their
+name from Rebelsky to fit in better.  Then came the Interweb and Iowa.
+I'm friends with a Leon Rebelsky on Facebook who I think has no connection
+to me.  And there are other Rebelskys in Iowa.  But, well, I'm almost
+certain that they're not related.  My great grandfather was from Russia.
+The Iowa Rebelskys came from Germany in the mid 1800's.
 
 The stack of musings
 --------------------
