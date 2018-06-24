@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Aggressive spam filters](aggressive-spam-filters-2018-06-21) (Musing #662)
+[Strange calculations](strange-calculations-2018-06-22) (Musing #663)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

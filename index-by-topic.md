@@ -2879,6 +2879,10 @@ Almost everything else
 
 > "Your email has been rejected as it contains a shortened URL"
 
+[Strange calculations](strange-calculations-2018-06-22) (Musing #663)
+
+> Two plus four is seven?
+
 Musings with multiple entries
 -----------------------------
 

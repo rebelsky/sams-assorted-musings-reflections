@@ -861,3 +861,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 
 [Back from vacation](vacation-2018-06-20) (Musing #661)  
 [Aggressive spam filters](aggressive-spam-filters-2018-06-21) (Musing #662)  
+[Strange calculations](strange-calculations-2018-06-22) (Musing #663)  
