@@ -326,6 +326,10 @@ until after writing musing 650, so there are likely many meta-musings
 missing.  I hope to link to them eventually.  For now, most can still
 be found in [the list of musing son writing](index-on-writing)._
 
+[Back from vacation](vacation-2018-06-20) (Musing #661)
+
+> An explanation for a week of missing musings.
+
 For prospective students, parents of prospective students, and others with similar interests
 --------------------------------------------------------------------------------------------
 
@@ -2870,6 +2874,10 @@ Almost everything else
 [Getting the preposition right](preposition-github) (Musing #653)
 
 > Although "to" and "on" share a vowel, they are different prepositions.
+
+[Aggressive spam filters](aggressive-spam-filters-2018-06-21) (Musing #662)
+
+> "Your email has been rejected as it contains a shortened URL"
 
 Musings with multiple entries
 -----------------------------

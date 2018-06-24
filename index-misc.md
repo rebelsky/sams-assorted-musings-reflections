@@ -602,3 +602,7 @@ Almost everything else
 
 > Although "to" and "on" share a vowel, they are different prepositions.
 
+[Aggressive spam filters](aggressive-spam-filters-2018-06-21) (Musing #662)
+
+> "Your email has been rejected as it contains a shortened URL"
+

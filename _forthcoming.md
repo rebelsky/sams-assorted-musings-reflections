@@ -167,6 +167,12 @@ more background on that issue. Vince Eckhart.  Michelle and I have different
 memories of what happened next.  Here's what the Smithsonian says:
 <https://www.smithsonianmag.com/science-nature/tree-nut-allergies-may-be-massively-overdiagnosed-180962927/>
 
+1. Back from vacation.  
+
+1. Confusing email.  `confusing-email-2018-06-xx.md`.  :misc:email:short:
+
+1. Aggressive spam filters.  `aggressive-spam-filters-2018-06-xx.md`.  :misc:email:short:
+
 The stack of musings
 --------------------
 

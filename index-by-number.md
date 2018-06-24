@@ -856,3 +856,8 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Why me?](profile-2018-06-10) (Musing #658)  
 [Noyce third](noyce-third) (Musing #659)  
 [Nuts to allergies](nut-allergies) (Musing #660)  
+
+## 661-670
+
+[Back from vacation](vacation-2018-06-20) (Musing #661)  
+[Aggressive spam filters](aggressive-spam-filters-2018-06-21) (Musing #662)  
