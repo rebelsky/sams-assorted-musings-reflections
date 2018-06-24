@@ -241,3 +241,7 @@ Autobiographical essays, more or less
 
 > I hate mine.
 
+[Family book club: _Mindset_](family-book-club-mindset) (Musing #664)
+
+> Reading as a family.
+
