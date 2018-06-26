@@ -181,7 +181,7 @@ array lists, doesn't count.
 **Program development and design**
 
 _Program development stuff generally gets covered in CSC 207.  I'm just
-listing these for completeness.*
+listing these for completeness._
 
 * Git: CSC 207.
 * Unit testing: CSC 207.
@@ -280,7 +280,7 @@ Qwiksort or any of the other abominations that appear.
 
 [9] C. A. R. Hoare. 1961. Algorithm 64: Quicksort. _Commun. ACM_ 4, 7 (July 1961), 321. DOI=<http://dx.doi.org/10.1145/366622.366644>
 
-[10] In the [description of timsort from the algorithm](https://hg.python.org/cpython/file/1589203ff116/Objects/listsort.txt), Tim Peters writes,
+[10] In his [description of timsort](https://hg.python.org/cpython/file/1589203ff116/Objects/listsort.txt), Tim Peters writes,
 
 > This describes an adaptive, stable, natural mergesort, modestly called
 timsort (hey, I earned it <wink>).
@@ -290,7 +290,7 @@ it as "TimSort" and that [Wikipedia](https://en.wikipedia.org/wiki/Timsort)
 calls it "Timsort".  I'd rather follow the original author's naming
 convention.
 
-[11] Yes, I know that [some versions of TimSort are broken](http://www.envisage-project.eu/proving-android-java-and-python-sorting-algorithm-is-broken-and-how-to-fix-it/).
+[11] Yes, I know that [some versions of timsort are broken](http://www.envisage-project.eu/proving-android-java-and-python-sorting-algorithm-is-broken-and-how-to-fix-it/).
 
 [12] The other languages students generally learn in our curriculum are
 basic Scheme, C, and Ruby.  Java provides a useful contrast.
@@ -308,4 +308,6 @@ way to play with code.
 
 ---
 
-*Version 1.0 of 2018-06-25.*
+*Version 1.0 released 2018-06-25.*
+
+*Version 1.0.1 of 2018-06-26.*
