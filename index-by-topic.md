@@ -395,10 +395,6 @@ overall characteristics of the institution and the student body.
 
 > Why I offer summer research opportunities.
 
-[A draft article on our data science code camp](code-camp-article-2017-07-24) (Musing #386)
-
-> A short description of one of the summer code camps that our students design and run.
-
 For prospective faculty
 -----------------------
 
@@ -1315,6 +1311,15 @@ online, but they will soon expand to more general issues about teaching._
 [Algorithms, data structures, abstract data types, formal languages, and the rest](algorithms-et-al-2018-06-25) (Musing #666)
 
 > Considering the distribution of topics between courses.
+
+Code camps
+----------
+
+_Notes related to the code camps we offer._
+
+[A draft article on our data science code camp](code-camp-article-2017-07-24) (Musing #386)
+
+> A short description of one of the summer code camps that our students design and run.
 
 On writing letters of recommendation
 ------------------------------------

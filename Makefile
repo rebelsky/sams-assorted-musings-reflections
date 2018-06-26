@@ -66,6 +66,7 @@ INDICES = index-by-topic-head.md \
 	index-thank-you.md \
 	index-overcommitment.md \
 	index-teaching.md \
+        index-code-camps.md \
 	index-recommendations.md \
         index-cnix.md \
 	index-joc.md \
