@@ -1312,6 +1312,10 @@ online, but they will soon expand to more general issues about teaching._
 
 > Reacting to absences.
 
+[Algorithms, data structures, abstract data types, formal languages, and the rest](algorithms-et-al-2018-06-25) (Musing #666)
+
+> Considering the distribution of topics between courses.
+
 On writing letters of recommendation
 ------------------------------------
 

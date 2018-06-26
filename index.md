@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Sentient and malicious](sentient-and-malicious-2018-06-24) (Musing #665)
+[Algorithms, data structures, abstract data types, formal languages, and the rest](algorithms-et-al-2018-06-25) (Musing #666)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
