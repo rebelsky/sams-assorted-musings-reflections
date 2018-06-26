@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Family book club: _Mindset_](family-book-club-mindset) (Musing #664)
+[Sentient and malicious](sentient-and-malicious-2018-06-24) (Musing #665)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

@@ -863,3 +863,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Aggressive spam filters](aggressive-spam-filters-2018-06-21) (Musing #662)  
 [Strange calculations](strange-calculations-2018-06-22) (Musing #663)  
 [Family book club: _Mindset_](family-book-club-mindset) (Musing #664)  
+[Sentient and malicious](sentient-and-malicious-2018-06-24) (Musing #665)  

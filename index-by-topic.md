@@ -2887,6 +2887,10 @@ Almost everything else
 
 > Two plus four is seven?
 
+[Sentient and malicious](sentient-and-malicious-2018-06-24) (Musing #665)
+
+> One of my aphorisms.
+
 Musings with multiple entries
 -----------------------------
 
