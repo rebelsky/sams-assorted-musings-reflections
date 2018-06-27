@@ -865,3 +865,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Family book club: _Mindset_](family-book-club-mindset) (Musing #664)  
 [Sentient and malicious](sentient-and-malicious-2018-06-24) (Musing #665)  
 [Algorithms, data structures, abstract data types, formal languages, and the rest](algorithms-et-al-2018-06-25) (Musing #666)  
+[Surviving week one of code camp](surviving-code-camp-week-one-2018) (Musing #667)  
