@@ -318,6 +318,10 @@ to them eventually._
 
 > If only I could pronounce the right word correctly.
 
+[Strunk & White and Williams](strunk-white-and-williams) (Musing #668)
+
+> Clearer elements of style.
+
 Meta-musings
 ------------
 
@@ -1975,6 +1979,10 @@ things I enjoy.*
 [Cyro Baptista and Banquet of Spirits](cyro-baptista) (Essay #51)
 
 > Reflections on an awesome concert.
+
+[The Straight Dope](straight-dope) (Musing #669)
+
+> Farewell to a favorite.
 
 Mixtapes
 --------

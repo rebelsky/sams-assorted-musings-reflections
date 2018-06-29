@@ -11,3 +11,7 @@ things I enjoy.*
 
 > Reflections on an awesome concert.
 
+[The Straight Dope](straight-dope) (Musing #669)
+
+> Farewell to a favorite.
+

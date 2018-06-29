@@ -9,3 +9,7 @@ to them eventually._
 
 > If only I could pronounce the right word correctly.
 
+[Strunk & White and Williams](strunk-white-and-williams) (Musing #668)
+
+> Clearer elements of style.
+

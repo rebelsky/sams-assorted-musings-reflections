@@ -9,8 +9,10 @@ If you'd like, you can read [a longer introduction](intro-musings-v0).
 If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
-Latest musing:
-[Surviving week one of code camp](surviving-code-camp-week-one-2018) (Musing #667)
+Latest musings:
+[Strunk & White and Williams](strunk-white-and-williams) (Musing #668)
+and
+[The Straight Dope](straight-dope) (Musing #669)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
