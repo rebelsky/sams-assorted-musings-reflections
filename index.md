@@ -9,10 +9,8 @@ If you'd like, you can read [a longer introduction](intro-musings-v0).
 If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
-Latest musings:
-[Strunk & White and Williams](strunk-white-and-williams) (Musing #668)
-and
-[The Straight Dope](straight-dope) (Musing #669)
+Latest musing:
+[Grinnell traffic (Summer 2018)](grinnell-traffic-summer-2018) (Musing #670)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

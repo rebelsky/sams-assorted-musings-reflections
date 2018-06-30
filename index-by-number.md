@@ -868,3 +868,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Surviving week one of code camp](surviving-code-camp-week-one-2018) (Musing #667)  
 [Strunk & White and Williams](strunk-white-and-williams) (Musing #668)  
 [The Straight Dope](straight-dope) (Musing #669)  
+[Grinnell traffic (Summer 2018)](grinnell-traffic-summer-2018) (Musing #670)  

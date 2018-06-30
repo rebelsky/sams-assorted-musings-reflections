@@ -968,6 +968,10 @@ Rants
 
 > These are not your parking spaces.
 
+[Grinnell traffic (Summer 2018)](grinnell-traffic-summer-2018) (Musing #670)
+
+> Worse than it used to be.
+
 Assorted talks and speeches
 ---------------------------
 
