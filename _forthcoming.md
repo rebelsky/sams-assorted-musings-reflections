@@ -16,14 +16,8 @@ The next weekly log
 The next end of month musing
 ----------------------------
 
-* Some fairly long musings.
-* The trouble of musing on the road.  (Something I'm likely to encounter
-  again.)  Mostly short musings.  I don't seem to have a large backlog
-  of short musings, so ....
-* Trying not to rant more.  The nametags were a challenge.
-* Tagging the musings.
-* Forgot to clean out the RSS file.
-* Added a new index entry.  (Language.)
+* Goals: No rants.  Weekly musing about inbox zero.  Read Williams and
+  start to edit.  Did I succeed?
 
 On particular dates
 -------------------
@@ -75,6 +69,37 @@ surrounded by parentheses._
 
 _Tags: talks, draft, long, short, sketch, rants_
 
+1. Tracing citations.  (`binary-search-citations`)  :sketch:joc:short:
+
+1. Preserving digital evidence.  :misc:complicated:draft:
+(`preserving-digital-evidence`)
+
+1. Really bad C code. :rants:short:code:
+<https://wozniak.ca/blog/2018/06/25/Massacring-C-Pointers/index.html>
+
+1. Branching.  :rants:code:teaching:
+Trigger warning:  This musing describes software for reporting sexual
+assault.
+Disclaimer: In this musing, I rant about some software design issues.
+While they are important to me and therefore the subject of the rant,
+I acknowledge that they pale before the severity of sexual assault.
+But I still consider it a topic to rant about.
+
+1. The Last Days of Jack Sparks :reviews:short:sketch:
+While I was on vacation, I read a few books.  One of the first books I
+read was _The Last Days of Jack Sparks_ by ???.  I'm not sure why I bought
+the book.  It's a horror novel, which is not generally a genre I read [1].
+But it's also a style of fiction I enjoy; something that claims to be a
+"found" manuscript with additional annotations.  I think the reviews also
+commented on the humor.  The story is about ....  I did not find the book
+all that scary; perahps I've just been desensitized by modern society. 
+But it was engaging and a fun read.  Then came the epilogue.  It revealed
+things about why things happened earlier in the book that made it
+terrifying terrifying in retrospect.    I'd recommend it.
+[1] Back when Michelle lived in Maine and I lived in New Hampshire, I'd listen
+to Steven King Novels during the long drives.  But I've read few horror novels
+since then.
+
 1. Requirements for our Web site :rants:long:web:
 (for the Web governance committee).  As you may recall, I spend way
 too much of my time frustrated by the damage that Communications did
@@ -113,8 +138,6 @@ ammo case that you attach a neck and strings to.  (My quick read ...)
 <https://www.amazon.com/Cello-Wartime-Steven-Isserlis/dp/B076YPHVBM/>
 <http://travelcello.net/> <http://www.vanorabennettauthor.com/?p=1100>
 
-1. Tracing citations.  (`binary-search-citations`)  :sketch:joc:short:
-
 1. Upgrading my class for the new Java. :joc:csed:sketch:
 This coming spring, I'm teaching CSC 207, our data structures and
 algorithms course.  I'd already planned some significant changes since
@@ -140,6 +163,9 @@ it appears that we're up to Java 10?  How fast are new versions coming out?
 Really fast, it seems.  Java 11 appears to be due out in September.
 Maybe I should think about something else. It's probably time to switch to the hideous implicit Java 
 formatting standards.  
+I also see that the custom for the
+signature for `main` has changed; a lot of the sample Java code now uses
+`public static void main(String... args)`.    See, for example, http://openjdk.java.net/jeps/328.
 [1] I used to cover graphs when I taught CSC 152, the predecessor to
 CSC 207.  But it was clear that I crammed way too much in 152.
 
@@ -152,9 +178,14 @@ I find that I regular write the idiom "a number of".  For example, I might
 write "there are a number of reasons that I muse".  I probably shouldn't.
 It's not a very clear statement.  one is a number.  fifty two billion,
 ninety eight thousand, six hundred and three is also a number.  So is
-negative five.  Or pi.  I should probably use "some" or "a few" or "many",
-depending on the situation.  What unit of speech is it?  My first inclination
-was to consider it an adjectival phrase, but ....
+negative five.  Or pi.  At times, I even add an adjective, as in "a
+surprising number of democratic candidates add me to their email lists".
+That's equally bad.  Zero might be surprising, given my political views.
+Ten billion would also be surprising, because there aren't that many
+democratic canddiates.  I should probably use "some" or "a few" or "many"
+or "about a dozen",, depending on the situation.  What unit of speech
+is it?  My first inclination was to consider it an adjectival phrase,
+but ....
 
 1. musing with a lousy connection.  :short:meta:
 
@@ -229,6 +260,64 @@ I'm friends with a Leon Rebelsky on Facebook who I think has no connection
 to me.  And there are other Rebelskys in Iowa.  But, well, I'm almost
 certain that they're not related.  My great grandfather was from Russia.
 The Iowa Rebelskys came from Germany in the mid 1800's.
+
+1. The list ADT.  :teaching:joc:
+Computer scientists and computer programmers use lists all the time.  But
+it's never clear to me whether or not we agree on what a list should be.
+To some, "list" means "linked list".  To others, it means "indexed collection
+of values" (no, it should not mean that; but Java puts an index operation in
+its list interface).  When I talk about lists, I do my best to pick a 
+minimalist perspective.  A list is a collection of elements (duh) that you
+can iterate (not every collection is necessarily iterable) and in which the
+client chooses manually specifies the order of iteration (e.g., "this comes
+before this").
+
+1. Fun with macros.  :joc:racket:code camps:short:
+One of the many projects we're considering for our code camp on
+"Code and Language" is an exercise in language generation.  We're
+going to use a fairly simple generative grammar.  For example, to
+say that a simple sentence is a subject, a transitive verb, and an
+object, we might write
+    (define (simple-sentence)
+      (combine (subject) (verb-transitive) (object)))
+In the simplest case, a transitive verb is one of a few words
+    (define (verb-transitive)
+      (one-of "watches" "throws" "admires" "observes"))
+In that form, `one-of` is relatively easy to write; we just randomly
+select between the arguments.  
+    (define one-of
+       (lambda vals
+         (list-ref vals (random (length vals)))))
+However, some definitions might involve procedure calls, including
+potentially expensive procedure calls.
+    (define (noun-phrase)
+      (one-of (noun)
+              (combine (adjective) (noun-phrase))))
+Yeah, that's recursive.  So we need `one-of` to have a different
+evaluation strategy than is traditional in Scheme [1].  The normal
+way to get other evaluation strategies is through macros.  So
+I decided to write `one-of` as a macro.  But I don't write macros
+nearly often enough.  First version: Looks a whole lot like the
+one-of above.  Turns out that the evaluation happens at compile time,
+rather than run time.  Second version: quote the list of options [2]
+select randomly between them at run time, and then call `eval`.  
+We get some weird scoping problems.  Third version: A giant cond.
+Final version: Thunks.
+[1] Traditional Scheme evaluation strategy is "evaluate the arguments
+then pass the evaluated arguments to the procedure."
+[2] Actually, I'll turn it into a vector.
+
+1. How do I approach that problem?  :teaching:sketch:
+In our recent debrief of exit interviews, one particular comment from
+a graduating senior generated a lot of discussion.  Approximately, "While
+most students develop a strategy for the problem solving process in CSC 151,
+there are students who do not and would benefit from a more explicit 
+process."  My feeling is that I illustrate a process every time we do
+large-group recitation-based problem solving.  But I accept that that's
+implicit, rather than explicit.  I also accept a colleague's comment that
+few students take careful notes on the broader problem issue.
+
+1. Why complain?  :rants:short:sketch:  `why-complain`
 
 The stack of musings
 --------------------
