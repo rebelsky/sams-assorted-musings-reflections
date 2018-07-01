@@ -122,15 +122,6 @@ until after writing musing 650, so there are likely many meta-musings
 missing.  I hope to link to them eventually.  For now, most can still
 be found in [the list of musing son writing](index-on-writing)._
 
-[One month of musings](one-month) (Essay #31)
-
-> Reflections on my first month of writing.
-
-[A second month of daily essays](two-months) (Essay #71)
-
-> Reflections on my second month of writing, including an explanation of
-  why this is essay #71.
-
 [Following my muse](following-my-muse) (Essay #88)
 
 > How I choose what to write about each day.
@@ -142,14 +133,6 @@ be found in [the list of musing son writing](index-on-writing)._
 [My one-hundredth essay of the day](essay-100) (Essay #100)
 
 > Self-evident.
-
-[A third month of essays](three-months) (Essay #104)
-
-> Reflections on my third month of essay writing.
-
-[A fourth month of essays](four-months) (Essay #138)
-
-> I bet you can figure this one out.
 
 ["Do you take requests?"](requests) (Essay #140)
 
@@ -178,21 +161,9 @@ be found in [the list of musing son writing](index-on-writing)._
 > A note for my regular readers on the month on "Don't embarrass me; don't
   embarrass yourself".
 
-[Five months of essays](five-months) (Essay #173)
-
-> The series continues.
-
 ["Sam, you're losing your audience"](losing-your-audience) (Essay #184)
 
 > A followup to a comment from a reader.
-
-[Six months of daily essays](six-months) (Essay #215)
-
-> Let's see ... 215 - 173 is 42.  Those are pretty strange months.
-
-[Seven months of daily essays](seven-months) (Essay #244)
-
-> Alternatively, "six consecutive months of daily essays".
 
 [Writing on the road](writing-on-the-road) (Musing #266)
 
@@ -206,25 +177,9 @@ be found in [the list of musing son writing](index-on-writing)._
 
 > On continuing to not write.
 
-[Eight months of musings](eight-months) (Musing #275)
-
-> In which I revise the term I use to refer to these pieces of writing.
-
 [Too many topics, too little time](too-many-topics-too-little-time) (Musing #300)
 
 > A potential new name for this collection.
-
-[Nine months of daily musings](nine-months) (Musing #305)
-
-> Or "one year since my first daily musing".
-
-[Ten months of daily musings](ten-months) (Musing #342) 
-
-> Is it time to stop (again)?
-
-[Eleven months of daily musings](eleven-months) (Musing #361) 
-
-> Having trouble keeping up with daily musings.
 
 [Three-hundred and sixty-five musings](365) (Musing #365)
 
@@ -254,10 +209,6 @@ be found in [the list of musing son writing](index-on-writing)._
 
 > The last musing of a day of musings (or is that a day of musing).
 
-[Thirteen months of daily musings](thirteen-months) (Musing #432)
-
-> Annother anniversary.
-
 [One year of nearly-daily musings](one-year) (Musing #433)
 
 > And a related anniversary.
@@ -274,10 +225,6 @@ be found in [the list of musing son writing](index-on-writing)._
 
 > Why doesn't the length of my list of topics to write about ever decrease?
 
-[Another month of musing](another-month-2018-01) (Musing #526)
-
-> Restarting the monthly meta-musings.
-
 [Failing to muse](failing-to-muse-2018-02-02) (Musing #528)
 
 > One of those days that I just can't write.
@@ -290,17 +237,9 @@ be found in [the list of musing son writing](index-on-writing)._
 
 > My current strategy for choosing a musing.
 
-[Another month of musing](another-month-2018-02) (Musing #554)
-
-> Continuing the monthly meta-musings.
-
 [The evolution of a musing](evolution-of-a-musing) (Musing #570)
 
 > From muse to musing.
-
-[Another month of daily musings](another-month-2018-03) (Musing #585)
-
-> What did I learn from musing this month?
 
 [A second anniversary](second-anniversary) (Musing #606)
 
@@ -309,10 +248,6 @@ be found in [the list of musing son writing](index-on-writing)._
 [Whoops](whoops-2018-04-30) (Musing #616)
 
 > Forgetting the end-of-month musing.
-
-[Another month of daily musings](another-month-2018-04) (Musing #617)
-
-> Thirty days hath April.
 
 [An introduction to SamR's musings for members of SIGCSE-members](intro-musings-sigcse-members) (Musing #636)
 
@@ -326,13 +261,92 @@ be found in [the list of musing son writing](index-on-writing)._
 
 > Sometimes you might just find that you write what you need.
 
+[Back from vacation](vacation-2018-06-20) (Musing #661)
+
+> An explanation for a week of missing musings.
+
+Monthly reflections
+-------------------
+
+_I conclude most months with a reflection on musing.  You will find
+most of them here._
+
+[One month of musings](one-month) (Essay #31)
+
+> Reflections on my first month of writing.
+
+[A second month of daily essays](two-months) (Essay #71)
+
+> Reflections on my second month of writing, including an explanation of
+  why this is essay #71.
+
+[A third month of essays](three-months) (Essay #104)
+
+> Reflections on my third month of essay writing.
+
+[A fourth month of essays](four-months) (Essay #138)
+
+> I bet you can figure this one out.
+
+[Five months of essays](five-months) (Essay #173)
+
+> The series continues.
+
+[Six months of daily essays](six-months) (Essay #215)
+
+> Let's see ... 215 - 173 is 42.  Those are pretty strange months.
+
+[Seven months of daily essays](seven-months) (Essay #244)
+
+> Alternatively, "six consecutive months of daily essays".
+
+[Eight months of musings](eight-months) (Musing #275)
+
+> In which I revise the term I use to refer to these pieces of writing.
+
+[Nine months of daily musings](nine-months) (Musing #305)
+
+> Or "one year since my first daily musing".
+
+[Ten months of daily musings](ten-months) (Musing #342) 
+
+> Is it time to stop (again)?
+
+[Eleven months of daily musings](eleven-months) (Musing #361) 
+
+> Having trouble keeping up with daily musings.
+
+[Eleven and one months of daily musings](twelve-months) (Musing #399)
+
+> Starting a new series.
+
+[Thirteen months of daily musings](thirteen-months) (Musing #432)
+
+> Annother anniversary.
+
+[Another month of daily musings](another-month-2018-01) (Musing #526)
+
+> Restarting the monthly meta-musings.
+
+[Another month of musing](another-month-2018-02) (Musing #554)
+
+> Continuing the monthly meta-musings.
+
+[Another month of daily musings](another-month-2018-03) (Musing #585)
+
+> What did I learn from musing this month?
+
+[Another month of daily musings](another-month-2018-04) (Musing #617)
+
+> Thirty days hath April.
+
 [Another month of daily musings](another-month-2018-05) (Musing #648)
 
 > Much too much musing on marketing.
 
-[Back from vacation](vacation-2018-06-20) (Musing #661)
+[Another month of daily musings](another-month-2018-06) (Musing #672)
 
-> An explanation for a week of missing musings.
+> Shorter musings than normal.  Few musings than normal.
 
 For prospective students, parents of prospective students, and others with similar interests
 --------------------------------------------------------------------------------------------

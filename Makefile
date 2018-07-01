@@ -56,6 +56,7 @@ INDICES = index-by-topic-head.md \
 	index-on-writing.md \
         index-language.md \
 	index-meta.md \
+        index-monthly.md \
 	index-prospective-students.md \
 	index-prospective-faculty.md \
 	index-current-students.md \
