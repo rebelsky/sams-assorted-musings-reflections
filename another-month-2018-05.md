@@ -74,7 +74,7 @@ queue it goes.  I guess that's not quite the same as the delay from a
 draft or plan to a release, but it's still a delay.
 
 I wonder how things stand with regards to the number of musings in the
-past year.  On May 31, 1997, I posted musing #342 which, not surprisingly,
+past year.  On May 31, 2017 [6], I posted musing #342 which, not surprisingly,
 [reported on a month of daily musings](ten-months).  This musing is #648.
 That's 306 musings in a year.  I've posted a musing each day for the
 past month.  Last month I was 310 ahead of the previous year.  How have
@@ -88,13 +88,13 @@ correctly, there were thirty-eight musings this month.
 
 Seven extra musings make it hard to stay ahead if I'm only posting one
 musing per day.  If I keep to that rate, I won't feel like I'm falling
-behind a year from now [6].  I just wonder when I'll find that I'm closer
+behind a year from now [7].  I just wonder when I'll find that I'm closer
 to 365 musings ahead of a year ago.  Possibly not until December.
 
 Back to the more important topic: What effect has
 musing had on me?  As I [noted as I ended my rants about
 marketing](depressed-and-obsessed-marketing), writing about our
-marketing issues potentially made me grumpier rather than happier [7].
+marketing issues potentially made me grumpier rather than happier [8].
 And, as I noted above, I'm not sure that daily writing is making my
 writing any better.  Nonetheless, I like having written.  I like having
 a repository of my thoughts.  I like planning what to write.  so I'm
@@ -104,7 +104,7 @@ going to keep musing.
 
 Postscript: I've started to find it useful to look at the tally of 
 potential topics in my virtual notebook.  I realize that no one else
-really cares about these data, but I enjoy putting them together [9].
+really cares about these data, but I enjoy putting them together [10].
 
 I added a new category called "added recently".  That category is an
 attempt to add new topics near the top of the stack, but not at the top 
@@ -146,8 +146,8 @@ camp, it's unlikely to happen before the next end-of-month musing.
     other people                     9               9              
     topics to revisit               12              13             +1
 
-More than a year's worth of musing topics [10], including thirty or so
-new topics [11].  If I keep going in that direction, I'll never write about
+More than a year's worth of musing topics [11], including thirty or so
+new topics [12].  If I keep going in that direction, I'll never write about
 everything I've planned.  I've already figured out that I'm not sure what
 all of the notes in my notebook mean.  Perhaps some will disappear when
 I rearrange.  Perhaps I'll even find duplicates.  But there's currently
@@ -168,23 +168,28 @@ spent on each activity this summer.
 
 [5] People who know me know that I always have trouble with concision.
 
-[6] If I keep up until that point, I'll just have reached 1000 not-quite
+[6] It took me a month to realize that I wrote "1997" instead of "2017".
+I've fixed that now.
+
+[7] If I keep up until that point, I'll just have reached 1000 not-quite
 daily musings.
 
-[7] Okay, that's not quite true.  There are times I revel in
-curmudgeonliness [8].
+[8] Okay, that's not quite true.  There are times I revel in
+curmudgeonliness [9].
 
-[8] Isn't there an aphorism about that?  If I recall correctly, the
+[9] Isn't there an aphorism about that?  If I recall correctly, the
 saying is "Curmudgeonliness is next to G-dliness".
 
-[9] Obsessive and compulsive are positive character traits, right?
+[10] Obsessive and compulsive are positive character traits, right?
 
-[10] 446, if I count correctly.
+[11] 446, if I count correctly.
 
-[11] About a dozen aren't strictly new topis; they were in some lists of
+[12] About a dozen aren't strictly new topis; they were in some lists of
 forthcoming musings but just not my main lists.   I'm still counting
 it as an increase.
 
 ---
 
-*Version 1.0 of 2018-05-31.*
+*Version 1.0 released 2018-05-31.*
+
+*Version 1.1 of 2018-06-30.*

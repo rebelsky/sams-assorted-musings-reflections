@@ -9,8 +9,10 @@ If you'd like, you can read [a longer introduction](intro-musings-v0).
 If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
-Latest musing:
-[Grinnell traffic (Summer 2018)](grinnell-traffic-summer-2018) (Musing #670)
+Latest musings:
+[Inbox zero, revisited, phase one](inbox-zero-revisited-01) (Musing #671)
+and
+[Another month of daily musings](another-month-2018-06) (Musing #672)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

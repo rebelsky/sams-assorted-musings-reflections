@@ -43,4 +43,7 @@ status of "inbox zero".
 
 > Some of the reasons Inbox zero is difficult.
 
+[Inbox zero, revisited, phase one](inbox-zero-revisited-01) (Musing #671)
+
+> Starting again, a bit more than a year later.
 

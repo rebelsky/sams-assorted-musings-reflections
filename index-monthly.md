@@ -79,5 +79,5 @@ most of them here._
 
 [Another month of daily musings](another-month-2018-06) (Musing #672)
 
-> Shorter musings than normal.  Few musings than normal.
+> Shorter musings than normal.  Fewer musings than normal.
 

@@ -682,7 +682,7 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [The 2018 Grinnell Posse Plus Retreat](posse-plus-2018) (Musing #523)  
 [JAVA](JAVA) (Musing #524)  
 [A coat and tie](coat-and-tie) (Musing #525)  
-[Another month of musing](another-month-2018-01) (Musing #526)  
+[Another month of daily musings](another-month-2018-01) (Musing #526)  
 [The magic commons fairies](magic-commons-fairies) (Musing #527)  
 [Failing to muse](failing-to-muse-2018-02-02) (Musing #528)  
 [Shared governance](shared-governance-2018-02-03) (Musing #529)  
@@ -786,7 +786,7 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Expanding the faculty](expanding-the-faculty) (Musing #603)  
 [Conflicting values](conflicting-values-2018-04-18) (Musing #604)  
 [I write like ...](i-write-like) (Musing #605)  
-[A second anniverary](second-anniversary) (Musing #606)  
+[A second anniversary](second-anniversary) (Musing #606)  
 [A draft of a potential ACM case study on the accessibility of online course materials](case-study-accessibility) (Musing #607)  
 [Just another Saturday at Grinnel](saturday-2018-04-21) (Musing #608)  
 [Pair programming with my class mentor](pair-programming-2018-04-23) (Musing #609)  
@@ -869,3 +869,8 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Strunk & White and Williams](strunk-white-and-williams) (Musing #668)  
 [The Straight Dope](straight-dope) (Musing #669)  
 [Grinnell traffic (Summer 2018)](grinnell-traffic-summer-2018) (Musing #670)  
+
+## 671-680
+
+[Inbox zero, revisited, phase one](inbox-zero-revisited-01) (Musing #671)  
+[Another month of daily musings](another-month-2018-06) (Musing #672)  
