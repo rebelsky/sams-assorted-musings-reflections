@@ -10,9 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musings:
-[Inbox zero, revisited, phase one](inbox-zero-revisited-01) (Musing #671)
-and
-[Another month of daily musings](another-month-2018-06) (Musing #672)
+[Inbox zero, revisited, phase two](inbox-zero-revisited-02) (Musing #673)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

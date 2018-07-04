@@ -346,7 +346,7 @@ most of them here._
 
 [Another month of daily musings](another-month-2018-06) (Musing #672)
 
-> Shorter musings than normal.  Few musings than normal.
+> Shorter musings than normal.  Fewer musings than normal.
 
 For prospective students, parents of prospective students, and others with similar interests
 --------------------------------------------------------------------------------------------
@@ -2362,6 +2362,10 @@ status of "inbox zero".
 [Inbox zero, revisited, phase one](inbox-zero-revisited-01) (Musing #671)
 
 > Starting again, a bit more than a year later.
+
+[Inbox zero, revisited, phase two](inbox-zero-revisited-02) (Musing #673)
+
+> Learning to unsubscribe.
 
 Almost everything else
 [I'm so confused](confused-comphistory-languages) (Musing #651)

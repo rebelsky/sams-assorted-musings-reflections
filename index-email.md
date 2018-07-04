@@ -47,3 +47,7 @@ status of "inbox zero".
 
 > Starting again, a bit more than a year later.
 
+[Inbox zero, revisited, phase two](inbox-zero-revisited-02) (Musing #673)
+
+> Learning to unsubscribe.
+

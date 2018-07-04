@@ -7,9 +7,9 @@ Yesterday, I finished my attempt at cleaning out the mailbox by declaring
 "inbox bankruptcy" and moving all of my email from my inbox to a folder
 that I called "___Inbox bankruptcy 2018-06-30".  Unfortunately, I got
 to experience the wonderful interaction of Mail.app and an Exchange
-server.  In particular, aftery copying a few of the messages, Mail.app 
+server.  In particular, after copying a few of the messages, Mail.app 
 freaked out and gave up.  "I'm sorry, something went wrong moving your
-messages."  
+messages [1]."  
 
 What did that mean?  No messages were in my inbox.  Very few of the 11K
 messages I was moving were in the bankruptcy folder.  Where were they?
@@ -24,14 +24,18 @@ My next approach was to switch Macs.  But you'll remember that I had
 just dealt with something like 30,000 messages.  Once again, the wonder
 of Macs and Exchange came into play.  Rather than reading the changes
 as moves, it reads them as deletions and new messages.  So I got to
-sit and watch a message that said something like "Downloading Mesages:
-15,681 new messages" slowly count down [1,2].
+sit and watch a message that said something like "Downloading Messages:
+15,681 new messages" slowly count down [2,3].
 
 In the end, I ended up with a bit over 12,000 messages in my inbox.  To
 avoid the issue of "Whoops! I couldn't move your messages; they are now
 in limbo", I'm moving a month at a time.  June 2018 went fine.  May
 2018 went fine.  April 2018 froze after it had moved 500 messages.  I'm
-not sure what I should do about that.  I'll wait and see.  
+not sure what I should do about that.  [Some time passes, during which
+Sam deals with the new email in the inbox; see below.]  I guess I'll need
+to move the messages a few at a time using Outlook Web Access.  I had
+OWA.  About 100 seems to be the right number for it to work.  Not the
+best use of my day [4].
 
 So, how many messages had accumulated between about 11:00 p.m. at night
 when I stopped and 8:30 a.m., when I checked back in?  A bit over thirty.
@@ -42,17 +46,17 @@ message from Facebook that someone posted to a group I watch.  I'm not sure
 how I ended up watching a group.  The feature is sometimes useful.  I'm
 not going to figure out how to turn it off yet.
 
-One conference announcement from
-Common Ground Research Networks, potentially affiliated with the University
-of Illinois.  But it's not really related to what I do.  And look, there's
-an unsubscribe button.  One fewer set of thigns to get.  A Change.org
-petition.  Should I unsubscribe from the Change.org petititions?  Given
-how hard it is to keep my mailbox empty, the answer has to be "Yes".
-Oh, this is fun.  They're forcing me to log in to unsubscribe.  But I
-don't remember my password.  And I refuse to connect my Facebook.  So
-I get to reset my password and wait for that message.  Wow; I've been
-a Change.org member for six years.  That's okay; I don't need their
-emails.  My friends send along appropriate petititions.
+One conference announcement from Common Ground Research Networks,
+potentially affiliated with the University of Illinois.  But it's not
+really related to what I do.  And look, there's an unsubscribe button.
+One fewer set of things to get.  A Change.org petition.  Should I
+unsubscribe from the Change.org petitions?  Given how hard it is to
+keep my mailbox empty, the answer has to be "Yes".  Oh, this is fun.
+They're forcing me to log in to unsubscribe.  But I don't remember my
+password.  And I refuse to connect my Facebook.  So I get to reset my
+password and wait for that message.  Wow; I've been a Change.org member
+for six years.  That's okay; I don't need their emails.  My friends send
+along appropriate petitions.
 
 What about the advertisements?  Should I tell you what they are?  It
 probably says something about me.  *Amazon* sends me a list of daily Kindle
@@ -105,57 +109,71 @@ of "Should unsubscribe but won't."  Something from *Heritage Auctions*.
 I haven't bid on something there for years.  But they occasionally have
 really cool auctions; I think I joined when they were doing an auction
 of comic strips done in honor of Richard Thompson (the cartoonist, not
-the musician).  Subw [3].  *Stack Social*.  They sometimes have really
+the musician).  Subw [5].  *Stack Social*.  They sometimes have really
 good software sales; I'm pretty sure that's how I ended up with Camtasia
 for only $20.00.  Subw.  *BookBub*.  Another set of Kindle sales.  I
 don't really need more Kindle books.  But I'm an addict.  And at least
 Kindle books don't take up space.  And look, today's first one is a set
-of books by Greg Bear that I'd like to read [4].  Subw.
+of books by Greg Bear that I'd like to read [6].  Subw.
 
-Beyond the advertisement?  The daily digest from Cracked.com.  Cracked.com
+Beyond the advertisements?  The daily digest from Cracked.com.  Cracked.com
 gives me the occasional good distraction when I need it.  Keep.
 The daily digest from Salon.com.  I need my daily news from the left
-[5].  Salon has [an interesting article about the defeat of Crowley by
+[7].  Salon has [an interesting article about the defeat of Crowley by
 Ocasio-Cortez](https://www.salon.com/2018/07/01/alexandria-ocasio-cortez-sends-shockwaves-through-the-democratic-party-will-it-learn-the-lesson/).
 I'm not sure that I agree with their conclusions; urban democrats
 don't represent the county.  But it was worth reading.  And perhaps there's
 another important thing to note: A tendency on both sides to vote for
 someone who will shake things up, as it were, rather than for someone who
-has good principles and is in a likely position of power [7].  Today's
+has good principles and is in a likely position of power [9].  Today's
 _Salon.com_ also has a commentary on [the Annapolis shooter's links to the
 alt-right](https://www.salon.com/2018/06/30/exclusive-accused-annapolis-shooter-had-deep-dark-links-to-the-alt-right/).  I don't like the alt-right.  But
-I think blaming them in this case just exacerbates the divide [8].
+I think blaming them in this case just exacerbates the divide [10].
+A newsletter from the MFA.  My membership has expired, I haven't been
+in Boston in a number of years, and it doesn't look like I'll be there
+any time soon.  Unsubscribe.
 
-Eventually, I also got "You've successfully unsubscribed" messages
-from Fry's, the weird conference, and, um, nothing else.
+And there went two hours of my morning [11].
+
+And ... we have inbox zero.  I even managed to keep my inbox at zero for
+the rest of the day.  But I'll admit that it feels really strange to go
+to my inbox and see nothing there.
 
 ---
 
-[1] Or, at times, not count down at all.
+[1] That wasn't the exact error message.  It's close enough for folk.
 
-[2] And the 15,681 is a small number.  It went up to 28,667 later.
+[2] Or, at times, not count down at all.
+
+[3] And the 15,681 is a small number.  It went up to 28,667 later.
 After two hours it was at "9,557 of 30,447".  I guess the 30K makes
-sense; that's about how many messages I'd imoved around.  In any case,
+sense; that's about how many messages I'd moved around.  In any case,
 I let it run overnight.
 
-[3] Should unsubscribe but won't.
+[4] I did sit and watch TV with Michelle and Middle, which made things
+better.
 
-[4] Don't worry, MIchelle, I'm not buying them.  My reading list is
+[5] Should unsubscribe but won't.
+
+[6] Don't worry, Michelle, I'm not buying them.  My reading list is
 currently much too large.
 
-[5] I realize that many people consider _The Washington Post_ and _The
+[7] I realize that many people consider _The Washington Post_ and _The
 New York Times_ news from the left.  But compared to _Salon.com_, they
-are fairly centrist [6].  
+are fairly centrist [8].  
 
-[6] No, that's not the same as saying "Compared to Sam, they are fairly thin."
+[8] No, that's not the same as saying "Compared to Sam, they are fairly thin."
 There are many things much more leftist than Salon.com.
 
-[7] Salon says Crowley "was positioned for the No. 2 or No. 3 post
+[9] Salon says Crowley "was positioned for the No. 2 or No. 3 post
 in Congress"
 
-[8] I'm not saying that the article blames the alt-right; it just links
+[10] I'm not saying that the article blames the alt-right; it just links
 the shooter.  
+
+[11] The "clean out the inbox, 100 messages at a time" exercise happened
+in the afternoon.
 
 ---
 
-*Version 0.6 of 2018-06-30.*
+*Version 1.0 of 2018-07-01.*
