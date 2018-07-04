@@ -10,7 +10,9 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musings:
-[Inbox zero, revisited, phase two](inbox-zero-revisited-02) (Musing #673)
+[Rate you professors' ... Hotness?](rmp-chili-peppers) (Musing #674)
+and
+[The joy of code: A one-of macro](joc-one-of-macro) (Musing #675)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

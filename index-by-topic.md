@@ -1334,6 +1334,10 @@ online, but they will soon expand to more general issues about teaching._
 
 > Considering the distribution of topics between courses.
 
+[Rate you professors' ... Hotness?](rmp-chili-peppers) (Musing #674)
+
+> Inappropriate but useful.
+
 Code camps
 ----------
 
@@ -1587,6 +1591,10 @@ The joy of code
 [The joy of code: (Re)building my letterhead](joc-letterhead) (Musing #642)
 
 > Way too much time on a not-very-necessary task.
+
+[The joy of code: A one-of macro](joc-one-of-macro) (Musing #675)
+
+> Delayed evaluaton.
 
 A new CSC 151
 -------------

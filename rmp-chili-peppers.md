@@ -40,7 +40,7 @@ something like this.
   Rate My Professors._
 
 I can probably continue to use the joke for a few more years.  After that,
-it won't make sense any more.
+it won't make sense anymore.
 
 But there's a more important reason that I'm sad to see them go.
 Because Rate My Professors gathered the data and made them available,
@@ -61,7 +61,7 @@ Of course, given the number of ways that EOCEs have been shown to be
 biased, it stuns me that institutions treat anything but the coarsest
 results from EOCEs as useful in evaluating faculty members.
 
-Bye-bye, chili pepers.  You shan't be missed.
+Bye-bye, chili peppers.  You shan't be missed.
 
 ---
 
@@ -69,11 +69,10 @@ Bye-bye, chili pepers.  You shan't be missed.
 publication that had ratings of all the courses.
 
 [2] I suppose that someone could make facetious arguments like "You're more
-likely to pay attention to an attractive teacher" or "You're mmre likely to
-be distracted by an attractive teacher".  Such argumens are irrelevant.
-
+likely to pay attention to an attractive teacher" or "You're more likely to
+be distracted by an attractive teacher".  Such arguments are irrelevant.
 
 ---
 
-*Version 0.9 of 2018-07-02.*
+*Version 1.0 of 2018-07-03.*
 

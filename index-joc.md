@@ -61,3 +61,7 @@ The joy of code
 
 > Way too much time on a not-very-necessary task.
 
+[The joy of code: A one-of macro](joc-one-of-macro) (Musing #675)
+
+> Delayed evaluaton.
+

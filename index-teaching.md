@@ -92,3 +92,7 @@ online, but they will soon expand to more general issues about teaching._
 
 > Considering the distribution of topics between courses.
 
+[Rate you professors' ... Hotness?](rmp-chili-peppers) (Musing #674)
+
+> Inappropriate but useful.
+

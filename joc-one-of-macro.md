@@ -51,11 +51,12 @@ gets more complicated in a "realistic" situation.
       (one-of (noun)
               (combine (adjective) (noun-phrase))))
 
-Yeah, that's recursive.  So we need `one-of` to have a different
-evaluation strategy than is traditional in Scheme [1].  The normal
-way to get other evaluation strategies is through macros.  I needed
-to write `one-of` as a macro.  But I don't write Racket macros nearly
-often enough.  Let's see what I figured out.
+Yeah, that's recursive.  If we try to evaluate the parameters to
+`one-of`, it will recurse [1] infinitely.  Hence, we need `one-of` to
+have a different evaluation strategy than is traditional in Scheme [2].
+The normal way to get other evaluation strategies is through macros.
+I needed to write `one-of` as a macro.  But I don't write Racket macros
+nearly often enough.  Let's see what I figured out.
 
 The last macro I wrote took the following form:
 
@@ -75,8 +76,9 @@ What's going on here?  As you can tell, we're using `define-syntax` instead
 of `define`.  I realize that Racket has a wide variety of ways to write
 macros.  That's the one I learned.  The parameter is the text of the
 program, which is of type syntax.  To work with it, I'm converting it to
-a datum.  But someone can use `one-of` in a variety of ways, not all of
-which are correct.  Let's see.  They could just type the name.
+a datum (basically, a Scheme value).  But someone can use `one-of` in a
+variety of ways, not all of which are correct.  Let's see.  They could
+just type the name.
 
     > one-of
 
@@ -126,7 +128,7 @@ My initial experiment suggested that it worked fine.
     Processing ... c
     "c"
 
-But then I used it in a more "realistic" situation.
+Things looked good.  But then I used it in a more "realistic" situation.
 
     > (define (transitive-verb) (one-of "attacked" "observed" "threw"))
     > (transitive-verb)
@@ -139,8 +141,8 @@ But then I used it in a more "realistic" situation.
     "observed"
 
 Whoops!  I need to *delay* the evaluation until later.  For some reason,
-my initial inclination was to build a vector of program text [2], select
-randomly from that at run time, and then call `eval` [3].  
+my initial inclination was to build a vector of program text [3], select
+randomly from that at runtime, and then call `eval` [4].  
 
              (let ([options (list->vector (cdr datum))])
                (datum->syntax stx
@@ -148,7 +150,7 @@ randomly from that at run time, and then call `eval` [3].
                                                  (random (vector-length ,options))))))]))))
 
 I said "for some reason", because this is clearly a strange hack.  Still,
-I got to use backquote and comma [4], which made it fun.  And it looked
+I got to use backquote and comma [5], which made it fun.  And it looked
 like it worked okay.
 
     > (define (transitive-verb) (one-of "attacked" "observed" "threw"))
@@ -213,7 +215,7 @@ example.
 Yup, that's the code I want!  I've included an `else` clause that should
 never be called.  Why? Because I make it a habit to always included
 such clauses.  I'd rather get not-quite-right output when things go
-wrong than have my program crash [5].  Let's see if it works for the strange
+wrong than have my program crash [6].  Let's see if it works for the strange
 `transitive-verb` example from before.
 
     > (define (transitive-verb x)
@@ -230,7 +232,7 @@ wrong than have my program crash [5].  Let's see if it works for the strange
 I could stop there.  However, before I wrote that code, I said to myself
 "Wow, generating a giant case statement is inelegant.  There must be a
 better way."  And then I remembered the thing that I should have realized
-in the first place; thunks are probably the way to go [6].
+in the first place; thunks are probably the way to go [7].
 
     (define-syntax one-of
       (lambda (stx)
@@ -251,7 +253,7 @@ in the first place; thunks are probably the way to go [6].
 
 That was surprisingly hard to get correct.  I'm pretty sure that writing
 "generate a case" version took half as much time.  But the new version
-feels cleaner, somehow.  What code does it generate?  Let's see ... [7].
+feels cleaner, somehow.  What code does it generate?  Let's see ... [8].
 
     > (define (abc) (one-of (hack "a") (hack "b") (hack "c")))
     (let ((vec (vector (lambda () (hack "a")) 
@@ -283,7 +285,8 @@ are what tells Scheme to evaluate the thunk.  Does it work?  Let's see.
     > (transitive-verb "coded")
     "attacked"
 
-It appears to work.  Now I can put together a complete example.
+It appears to work.  Now I can put together a complete example.  But
+that will be a topic of another musing [9].
 
 What have I learned from all of this?  I probably shouldn't code when
 I'm tired.  I should pay more attention to Scheme scoping rules.  I need
@@ -292,26 +295,33 @@ Yeah, that's enough for now.
 
 ---
 
-[1] Traditional Scheme evaluation strategy is "evaluate the arguments
+[1] One of my colleagues says that I should use "recur" rather than 
+"recurse".  I still like using recurse as a verb.
+
+[2] Traditional Scheme evaluation strategy is "evaluate the arguments
 then pass the evaluated arguments to the procedure."
 
-[2] You may recall that we were using lists.  `vector-ref` is much more
+[3] You may recall that we were using lists.  `vector-ref` is much more
 efficient than `list-ref`; it seemed worth the extra effort.
 
-[3] `eval` is one of those wonderful and wonderfully dangerous tools
+[4] `eval` is one of those wonderful and wonderfully dangerous tools
 available in Scheme.
 
-[4] For the students reading this, backquote is a lot like quote,
+[5] For the students reading this, backquote is a lot like quote,
 except that you can use a comma to force evaluation of some terms.
 
-[5] I'm not sure why I trust that the `list-ref` will work correctly
+[6] I'm not sure why I trust that the `list-ref` will work correctly
 but I don't trust that the `case` will work correctly.  I'll need to
 reflect on that issue.
 
-[6] A thunk is a zero-parameter procedure.
+[7] A thunk is a zero-parameter procedure.
 
-[7] I've reformatted for clarity.
+[8] I've reformatted for clarity.
+
+[9] For those who want to see a fun recursive example written in
+a language other than Racket, check out example 7 on [the Tracery
+Tutorial](http://www.crystalcodepalace.com/traceryTut.html).
 
 ---
 
-*Version 0.9 of 2018-07-02.*
+*Version 1.0 of 2018-07-03.*

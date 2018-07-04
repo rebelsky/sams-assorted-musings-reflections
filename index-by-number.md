@@ -875,3 +875,5 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Inbox zero, revisited, phase one](inbox-zero-revisited-01) (Musing #671)  
 [Another month of daily musings](another-month-2018-06) (Musing #672)  
 [Inbox zero, revisited, phase two](inbox-zero-revisited-02) (Musing #673)  
+[Rate you professors' ... Hotness?](rmp-chili-peppers) (Musing #674)  
+[The joy of code: A one-of macro](joc-one-of-macro) (Musing #675)  
