@@ -76,6 +76,10 @@ says it's just a noun, even in the cases in which it seems to be using
 I shouldn't trust the InterWeb.  Maybe I'll ask one of our friendly
 linguists.
 
+*Followup*: One linguist says that in "a number of x", the "of x" modifies
+"number".  He also notes that if I insisted that "a number of x" modifies
+"x", I could call it a "determiner", like "some" or "all".
+
 ---
 
 [1] Editing question: I originally wrote: "But it's an idiom I should
@@ -93,4 +97,6 @@ as the object of "use", which makes the particular number irrelevant.
 
 ---
 
-*Version 1.0 of 2018-07-04.*
+*Version 1.0 released 2018-07-04.*
+
+*Version 1.1 of 2018-07-05.*
