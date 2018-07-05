@@ -13,3 +13,7 @@ to them eventually._
 
 > Clearer elements of style.
 
+["A number of"](a-number-of) (Musing #676)
+
+> Idioms I should not use.
+

@@ -9,10 +9,8 @@ If you'd like, you can read [a longer introduction](intro-musings-v0).
 If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
-Latest musings:
-[Rate you professors' ... Hotness?](rmp-chili-peppers) (Musing #674)
-and
-[The joy of code: A one-of macro](joc-one-of-macro) (Musing #675)
+Latest musing:
+["A number of"](a-number-of) (Musing #676)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
