@@ -68,17 +68,25 @@ _This represents my attempt to categorize the musings a bit.  Musings
 may have multiple categories.  After the title, you'll find the topics
 surrounded by parentheses._
 
-_Tags: talks, draft, long, short, sketch, rants_
+_Tags: talks, draft, long, short, sketch, rants, technology, meta_
+
+1. Planning the Language and Code camp.  :code-camps:teaching:
+
+1. Musings you'll never read.  :meta:sketch: `missing-musings-2018-07-08.md`
 
 1. Tracing citations.  (`binary-search-citations`)  :sketch:joc:short:
 
-1. Preserving digital evidence.  :misc:complicated:draft:
+1. Porting callisto.  :callisto:short:  An introduction to this topic.
+
+1. Preserving digital evidence.  :callisto:complicated:draft:
 (`preserving-digital-evidence`)
+
+1. Abusing software.  :misc:callisto:technology: `abusing-callisto`
+
+1. Branching.  :rants:code:teaching:callisto: `branching-2018-07-nn`
 
 1. Really bad C code. :rants:short:code:
 <https://wozniak.ca/blog/2018/06/25/Massacring-C-Pointers/index.html>
-
-1. Branching.  :rants:code:teaching: `branching-2018-07-nn`
 
 1. The Last Days of Jack Sparks :reviews:short:sketch: `jack-sparks.md`
 
@@ -91,14 +99,6 @@ _Tags: talks, draft, long, short, sketch, rants_
 1. Portable cellos.  :short:sketch:music: `portale-cellos.md`
 
 1. Upgrading my class for the new Java. :joc:csed:sketch:long:teaching:  `csc207-new-java`
-
-1. Adding a new index.  :short:meta:
-About adding the language index.  Perhaps about adding a meta index.
-(That probably requires updating the description of index-on-writing.)
-
-1. "a number of". :short:language: `a-number-of`
-
-1. Musing with a lousy connection.  :short:meta:
 
 1. The CS Commons.  `cs-commons`.  :grinnell:short:
 
@@ -176,7 +176,15 @@ few students take careful notes on the broader problem issue.
 
 1. Why complain?  :rants:short:sketch:  `why-complain`
 
-1. Chili peppers on Rate My Professors.  :teaching:short:draft: `rmp-chili-peppers`
+1. Color problems :misc:art:short:sketch: `color-problems
+
+1. Arts and computing.  :teaching:sketch: `arts-and-computing`.  
+
+1. Down a (programming) language rabbithole.  :misc:sketch: `pharo.md`
+
+1. Learning to appreciate Peter Max :art:short:sketch:  `peter-max.md`
+
+1. Take-home exams.  (Why I give them, etc.)  :teaching:
 
 The stack of musings
 --------------------
@@ -195,18 +203,10 @@ The stack of musings
 
 1. We've been Ologized.  (Let's hope that we're not eulogized.)
 
-1. Arts and computing.  `arts-and-computing`.  Not much of a draft.
-
 1. Forgetting what we read.  <https://www.theatlantic.com/amp/article/551603/>
 
 1. Logging my life?  (Maybe not this week; I'm not sure what's useful
    to say.)
-
-1. The new CSC 151 assignment, option 1 (neural nets)
-
-1. The new CSC 151 assignment, option 2 (text generation)
-
-1. Report on the code camps.  I wrote that already.  Should I post it?
 
 1. <https://www.chronicle.com/article/The-5-Types-of-Professors-/243108>
 
@@ -325,16 +325,16 @@ common source, and I'm allergic.  Deciding on limits.  Eggs?  Milk?  Fish?
 Okay to deviate once in a while?  Nuts.
 
 1. Feeling maudlin.  (Reflection on the last few  musings, all of which
-   made me sad - Paul Nossiter, The Joe Stories, The Meaning of Things,
-   Facebook reminders.)  I wonder why.  Is it that mom's birthday is
-   this week?  Is it feeling my own mortality?  (Interestingly, these
-   got spread out a bit.)  (It's no longer the last few musings.)
+made me sad - Paul Nossiter, The Joe Stories, The Meaning of Things,
+Facebook reminders.)  I wonder why.  Is it that mom's birthday is
+this week?  Is it feeling my own mortality?  (Interestingly, these
+got spread out a bit.)  (It's no longer the last few musings.)
 
 1. Implicit bias.  (Implicit Association) (What I know.  What I believe.  
-   What the evidence suggests.  Vs. Explicit bias.  Etc. Etc.)
-   <https://implicit.harvard.edu/implicit/>
-   <http://www.lookdifferent.org/what-can-i-do/bias-cleanse>
-   What about weight and age and ...?
+What the evidence suggests.  Vs. Explicit bias.  Etc. Etc.)
+https://implicit.harvard.edu/implicit/>
+<http://www.lookdifferent.org/what-can-i-do/bias-cleanse>
+What about weight and age and ...?
 
 1. SIGACT submission system?
 
@@ -345,15 +345,15 @@ something about this, particularly about how it suggests that we are
 overcommitted.)
 
 1. Proto-musings: Facebook reminds me that when I was last on sabbatical, 
-  back in spring 2012, I regularly posted a short note [1].  In some sense,
-  they feel like "proto musings".  Some are about things I still feel,
-  such as being overwhelmed.  Some are about large projects, although most
-  of those were about art projects.  Blah blah blah.
-  [1] Yes, I understand that that's how you're supposed to use Facebook.
+back in spring 2012, I regularly posted a short note [1].  In some sense,
+they feel like "proto musings".  Some are about things I still feel,
+such as being overwhelmed.  Some are about large projects, although most
+of those were about art projects.  Blah blah blah.
+[1] Yes, I understand that that's how you're supposed to use Facebook.
  
 1. Another workacholic: Little things add up?  An hour here.  An hour there.
-   If you have thirty hours planned per week, you can spare about ten such
-   hours.  But if you have fifty hours planned per week ....
+If you have thirty hours planned per week, you can spare about ten such
+hours.  But if you have fifty hours planned per week ....
 
 1. And another workaholic (maybe?)
 
@@ -422,35 +422,7 @@ the new edition were also troubling.
 1. One Art.  (see previous notes, too)  And then Sam returns to his normal search for where it was originally published.  Finds [article on drafts](http://www.english.illinois.edu/maps/poets/a_f/bishop/drafts.htm) and [better article on drafts](https://bluedragonfly10.wordpress.com/2009/06/12/one-art-the-writing-of-loss-in-elizabeth-bishop%E2%80%99s-poetry/).  Finally found the original publication.  
 [_The New Yorker_, 26 April 1976, p. 40](https://www.newyorker.com/magazine/1976/04/26/one-art).  Why was that so hard to find?  Not what I thought.  I thought  the partner had died.  They hadn't.  
 
-1. Down a (programming) language
-rabbithole.  Started at open textbooks in CS.
-<http://open.umn.edu/opentextbooks/SearchResults.aspx?subjectAreaId=3>.
-Noticed a few books about something called [Pharo](https://pharo.org).
-Realized that Pharo is yet another variant of Smalltalk.
-Looked up the differences between Smalltalk variants
-(e.g., why use Pharo rather than Squaek).  Found [a quora
-discussion](https://www.quora.com/Whats-the-difference-between-Smalltalk-and-Pharo).
-That led me to a [page on medium about
-Smalltalk](https://medium.com/smalltalk-talk/smalltalk-choices-6c39d09a40e6).
-The same author had written something
-they called "[The three worst programming
-languages](https://medium.com/smalltalk-talk/the-three-worst-programming-languages-b1ec25a232c1)"
-[1]. [1] They claim that those are PHP, JavaScript, and C++.  This
-author links to more complaints about languages, such as [this one
-about C++](https://whydoesitsuck.com/cpp-sucks-for-a-reason/).
-That, of course, led to [a discussion of
-annoying programming languages the author "can't just
-ditch"](https://whydoesitsuck.com/top-five-most-annoying-programming-languages/)
-Where am I going with all this?  I don't know.  I'm just amazed at how
-far down the rabbithole I can go.
-
 1. Drawers (on the Web site) (or have I now written enough about them).
-
-1. A great quotation.  http://scarygoround.com/badmachinery/index.php?date=20091008.  Started reading Bad Machinery because it was nominated for some
-award or other.  I'm still not sure what I think about the strip; the introducti
-on is going on a bit long.  But one strip had a great comment.  "What's this rub
-bish we're listening to?"  "The Velvet Underground."  "It's nice that you have s
-ome money to people just playing music for the first time."
 
 1. Musings or images?  When I post a musing, I get a few likes and a few comments.  When I post an image and a short note, I get a a few dozen likes and a few comments.  Should I take pictures rather than musing?  Nah.  Musing is better for me.
 
@@ -523,8 +495,6 @@ compare them.  These are some thoughts on that process.
 
 1. Grading Student Projects (See Janet's facebook post on Dec. 19, now at
    the end of this file).
-
-1. Take-home exams.  (Why I give them, etc.)
 
 1. Grading.  <https://www.chronicle.com/article/Why-I-Stopped-Writing-on-My/242477>
 
