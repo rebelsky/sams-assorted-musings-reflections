@@ -2957,6 +2957,10 @@ Almost everything else
 
 > One of my aphorisms.
 
+[Linking in](linking-in) (Musing #677)
+
+> What links do *you* accept?
+
 Musings with multiple entries
 -----------------------------
 
