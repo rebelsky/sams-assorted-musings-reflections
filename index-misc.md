@@ -580,3 +580,7 @@ Almost everything else
 
 > What links do *you* accept?
 
+[A great quotation](great-quotation-vu) (Musing #678)
+
+> Explaining the VU.
+

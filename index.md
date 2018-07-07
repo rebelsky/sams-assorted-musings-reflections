@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Linking in](linking-in) (Musing #677)
+[A great quotation](great-quotation-vu) (Musing #678)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

@@ -879,3 +879,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [The joy of code: A one-of macro](joc-one-of-macro) (Musing #675)  
 ["A number of"](a-number-of) (Musing #676)  
 [Linking in](linking-in) (Musing #677)  
+[A great quotation](great-quotation-vu) (Musing #678)  
