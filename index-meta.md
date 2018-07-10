@@ -149,3 +149,7 @@ be found in [the list of musing son writing](index-on-writing)._
 
 > An explanation for a week of missing musings.
 
+[Musings you'll never read](missing-musings-2018-07-08) (Musing #679)
+
+> A few that got away.
+

@@ -269,6 +269,10 @@ be found in [the list of musing son writing](index-on-writing)._
 
 > An explanation for a week of missing musings.
 
+[Musings you'll never read](missing-musings-2018-07-08) (Musing #679)
+
+> A few that got away.
+
 Monthly reflections
 -------------------
 
@@ -1354,6 +1358,10 @@ _Notes related to the code camps we offer._
 [Surviving week one of code camp](surviving-code-camp-week-one-2018) (Musing #667)
 
 > A report from the first week of code camp in summer 2018.
+
+[Designing a new code camp on language and code](code-camp-language-and-code) (Musing #680)
+
+> Thinking ahead to the third of three summer 2018 code camps.
 
 On writing letters of recommendation
 ------------------------------------

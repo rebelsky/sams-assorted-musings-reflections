@@ -9,8 +9,10 @@ If you'd like, you can read [a longer introduction](intro-musings-v0).
 If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
-Latest musing:
-[A great quotation](great-quotation-vu) (Musing #678)
+Latest musings:
+[Musings you'll never read](missing-musings-2018-07-08) (Musing #679)
+and
+[Designing a new code camp on language and code](code-camp-language-and-code) (Musing #680)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

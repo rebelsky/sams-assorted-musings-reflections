@@ -70,9 +70,7 @@ surrounded by parentheses._
 
 _Tags: talks, draft, long, short, sketch, rants, technology, meta_
 
-1. Planning the Language and Code camp.  :code-camps:teaching:
-
-1. Musings you'll never read.  :meta:sketch: `missing-musings-2018-07-08.md`
+1. A syllabus for the Language and Code camp.  :code-camps:teaching:
 
 1. Tracing citations.  (`binary-search-citations`)  :sketch:joc:short:
 
@@ -185,6 +183,8 @@ few students take careful notes on the broader problem issue.
 1. Learning to appreciate Peter Max :art:short:sketch:  `peter-max.md`
 
 1. Take-home exams.  (Why I give them, etc.)  :teaching:
+
+1. FedEx signatures. :rant:short:sketch:  `fedex-signatures`
 
 The stack of musings
 --------------------

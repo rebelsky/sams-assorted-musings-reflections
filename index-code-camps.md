@@ -11,3 +11,7 @@ _Notes related to the code camps we offer._
 
 > A report from the first week of code camp in summer 2018.
 
+[Designing a new code camp on language and code](code-camp-language-and-code) (Musing #680)
+
+> Thinking ahead to the third of three summer 2018 code camps.
+
