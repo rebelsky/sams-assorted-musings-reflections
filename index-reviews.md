@@ -15,3 +15,7 @@ things I enjoy.*
 
 > Farewell to a favorite.
 
+[_The Last Days of Jack Sparks_](jack-sparks) (Musing #682)
+
+> Why did I decide to read a horror novel?
+

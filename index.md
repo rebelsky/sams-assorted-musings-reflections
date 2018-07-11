@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[The other Rebelskys](other-rebelskys) (Musing #681)
+[_The Last Days of Jack Sparks_](jack-sparks) (Musing #682)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

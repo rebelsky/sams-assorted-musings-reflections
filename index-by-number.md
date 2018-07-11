@@ -886,3 +886,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 ## 681-690
 
 [The other Rebelskys](other-rebelskys) (Musing #681)  
+[_The Last Days of Jack Sparks_](jack-sparks) (Musing #682)  
