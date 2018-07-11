@@ -882,3 +882,7 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [A great quotation](great-quotation-vu) (Musing #678)  
 [Musings you'll never read](missing-musings-2018-07-08) (Musing #679)  
 [Designing a new code camp on language and code](code-camp-language-and-code) (Musing #680)  
+
+## 681-690
+
+[The other Rebelskys](other-rebelskys) (Musing #681)  

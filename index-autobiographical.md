@@ -245,3 +245,7 @@ Autobiographical essays, more or less
 
 > Reading as a family.
 
+[The other Rebelskys](other-rebelskys) (Musing #681)
+
+> There are other Rebelskys!
+
