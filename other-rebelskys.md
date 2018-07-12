@@ -63,6 +63,10 @@ responded with "The first one.
 family than my mom did.  (Yeah, mom kept track of both sides of the
 family.  And lots of other people's families, come to think of it.)
 
+[6] Michelle is a Rebelsky by marriage.  It's close enough.
+
 ---
 
-*Version 1.0 of 2018-07-09.*
+*Version 1.0 released 2018-07-09.*
+
+*Version 1.1 of 2018-07-11.*
