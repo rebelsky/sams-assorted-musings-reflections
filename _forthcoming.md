@@ -17,8 +17,13 @@ The next end of month musing
 ----------------------------
 
 * Goals: No rants.  Weekly musing about inbox zero.  Read Williams and
-  start to edit.  Did I succeed?
+  start to edit.  Did I succeed?  (It was hard; I'm a curmudgeon and have
+  a lot to rant about.)
 * Next month: Accumulated rants (probably).
+* A few days early in the month in which I missed one day and then posted
+  twice on the next day.
+* Continue to learn that people I never expected to read my musings do
+  actually read my musings.
 
 On particular dates
 -------------------
@@ -70,7 +75,20 @@ surrounded by parentheses._
 
 _Tags: talks, draft, long, short, sketch, rants, technology, meta_
 
+1. Saying goodbye.  :grinnell:academe:sketch: `losing-colleagues`
+
+1. Bye-bye beard.  :autobiographical:short:
+
+1. Choices that are hard to undo.  :miscellaneous:autobiographical:rambly:
+
+1. Becoming an icon (no, the other kind).  :misc:short:
+While I was playing around with various issues related to the College
+Web site, I decided to think about icons.  There's a Web editor.
+http://www.xiconeditor.com/.
+
 1. A syllabus for the Language and Code camp.  :code-camps:teaching:
+
+1. A long and busy summer.  :overcommitment:long:rambly:
 
 1. Tracing citations.  (`binary-search-citations`)  :sketch:joc:short:
 
@@ -85,8 +103,6 @@ _Tags: talks, draft, long, short, sketch, rants, technology, meta_
 
 1. Really bad C code. :rants:short:code:
 <https://wozniak.ca/blog/2018/06/25/Massacring-C-Pointers/index.html>
-
-1. The Last Days of Jack Sparks :reviews:short:sketch: `jack-sparks.md`
 
 1. Requirements for our Web site :rants:long:web: `web-site-requirements.md`
 
@@ -106,8 +122,6 @@ I'm not allergic to almonds.  I thought it would be useful to add a bit
 more background on that issue. Vince Eckhart.  Michelle and I have different
 memories of what happened next.  Here's what the Smithsonian says:
 <https://www.smithsonianmag.com/science-nature/tree-nut-allergies-may-be-massively-overdiagnosed-180962927/>
-
-1. Confusing email.  `confusing-email-2018-06-xx.md`.  :misc:email:short:
 
 1. The joy of code camps.  :teaching:long:
 Agreed to do it because it seemed like a good thing.  And it's something
@@ -222,7 +236,7 @@ The stack of musings
    If the folks who are in charge can't get it right, how do they expect
    the rest of us to?
    Communication on campus.
-   DRY.
+   DRY.  (Oh, yeah, that's why I'm frustated as a coputer scientist.)
 
 1. Tagging the musings. Or does this just get incorporated into the
    next end-of-month musing?
@@ -399,10 +413,6 @@ Write to prospective students.  Post long, drawn-out criticisms of the
 College.  No, probably not that last thing.  Provide more information
 about the department that I think will help.  Keep our Web site up to
 date (Whoops).
-
-1. Becoming an icon (no, the other kind).  While I was playing around
-with various issues related to the College Web site, I decided to think
-about icons.  There's a Web editor.  http://www.xiconeditor.com/.
 
 1. Cary Nelson's piece on "The Economic Challenges of Anthologies"
 in _On Anthologies_.  Really fascinating.  I picked it up after
