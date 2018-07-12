@@ -3,12 +3,13 @@ A great quotation
 
 *Topics/tags: [Miscellaneous](index-misc), music, Web comics, short*
 
-One in a while, I start reading a Web comic.  A few weeks ago, I started
+Once in a while, I start reading a Web comic.  A few weeks ago, I started
 reading [Bad Machinery](http://scarygoround.com/badmachinery/) because
-it was nominated for some award or other.  I'm still not sure how I feel
-about the strip; there's a clear British school focus, the introduction
-went on a bit long, and I haven't found myself really enamored of any
-of the character yet.  But some parts are really awesome.
+it was nominated for some award or other.  I'm still not sure how I
+feel about the strip; there's a clear British school focus and  the
+introduction went on a bit long, and I haven't found myself really
+particularly enamored of any of the character yet.  But some parts are
+really awesome.
 
 Here's one of them.
 
@@ -46,4 +47,6 @@ worth pretending.
 
 ---
 
-*Version 1.0 of 2018-07-06.*
+*Version 1.0 releaed 2018-07-06.*
+
+*Version 1.0.1 of 2018-07-11.*
