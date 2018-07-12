@@ -2395,6 +2395,10 @@ status of "inbox zero".
 
 > Learning to unsubscribe.
 
+[Getting confused by email notifications](confusing-email-2018-07-11) (Musing #683)
+
+> Learning to check dates.
+
 Almost everything else
 [I'm so confused](confused-comphistory-languages) (Musing #651)
 ----------------------
