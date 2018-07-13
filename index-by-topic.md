@@ -2985,6 +2985,10 @@ Almost everything else
 
 > Explaining the VU.
 
+[Saying goodbye](losing-colleagues) (Musing #684)
+
+> It happens too often.
+
 Musings with multiple entries
 -----------------------------
 

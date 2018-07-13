@@ -888,3 +888,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [The other Rebelskys](other-rebelskys) (Musing #681)  
 [_The Last Days of Jack Sparks_](jack-sparks) (Musing #682)  
 [Getting confused by email notifications](confusing-email-2018-07-11) (Musing #683)  
+[Saying goodbye](losing-colleagues) (Musing #684)  

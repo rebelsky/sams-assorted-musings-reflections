@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Getting confused by email notifications](confusing-email-2018-07-11) (Musing #683)
+[Saying goodbye](losing-colleagues) (Musing #684)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
