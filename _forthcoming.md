@@ -75,7 +75,7 @@ surrounded by parentheses._
 
 _Tags: talks, draft, long, short, sketch, rants, technology, meta_
 
-1. Saying goodbye.  :grinnell:academe:sketch: `losing-colleagues`
+1. Weekend plans.  :overcommitment:autobiographical:
 
 1. Bye-bye beard.  :autobiographical:short:
 
@@ -199,6 +199,9 @@ few students take careful notes on the broader problem issue.
 1. Take-home exams.  (Why I give them, etc.)  :teaching:
 
 1. FedEx signatures. :rant:short:sketch:  `fedex-signatures`
+
+1. Friday the 13th.  :misc:pogo:short:  Three in 2026!  (I've done
+it once already, so I need to think of other things to write about it.)
 
 The stack of musings
 --------------------
