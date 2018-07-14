@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Saying goodbye](losing-colleagues) (Musing #684)
+[Just another summer weekend](weekend-2018-07-13) (Musing #685)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

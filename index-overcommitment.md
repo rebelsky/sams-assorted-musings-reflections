@@ -174,3 +174,7 @@ Overcommitment
 
 > An apt description for this weekend.
 
+[Just another summer weekend](weekend-2018-07-13) (Musing #685)
+
+> Perhaps not quite as busy as my academic-year weekends.
+

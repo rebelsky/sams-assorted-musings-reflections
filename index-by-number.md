@@ -889,3 +889,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [_The Last Days of Jack Sparks_](jack-sparks) (Musing #682)  
 [Getting confused by email notifications](confusing-email-2018-07-11) (Musing #683)  
 [Saying goodbye](losing-colleagues) (Musing #684)  
+[Just another summer weekend](weekend-2018-07-13) (Musing #685)  
