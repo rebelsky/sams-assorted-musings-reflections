@@ -890,3 +890,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Getting confused by email notifications](confusing-email-2018-07-11) (Musing #683)  
 [Saying goodbye](losing-colleagues) (Musing #684)  
 [Just another summer weekend](weekend-2018-07-13) (Musing #685)  
+[Bad beard decisions](beard-decisions) (Musing #686)  

@@ -249,3 +249,7 @@ Autobiographical essays, more or less
 
 > There are other Rebelskys!
 
+[Bad beard decisions](beard-decisions) (Musing #686)
+
+> I shouldn't have shaved.
+
