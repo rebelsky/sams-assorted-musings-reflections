@@ -891,3 +891,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Saying goodbye](losing-colleagues) (Musing #684)  
 [Just another summer weekend](weekend-2018-07-13) (Musing #685)  
 [Bad beard decisions](beard-decisions) (Musing #686)  
+[System downtime](system-downtime-2018-07-14) (Musing #687)  

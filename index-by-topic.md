@@ -273,6 +273,10 @@ be found in [the list of musing son writing](index-on-writing)._
 
 > A few that got away.
 
+[System downtime](system-downtime-2018-07-14) (Musing #687)
+
+> External constraints on musing.
+
 Monthly reflections
 -------------------
 
