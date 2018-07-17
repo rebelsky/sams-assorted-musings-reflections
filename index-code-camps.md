@@ -15,3 +15,7 @@ _Notes related to the code camps we offer._
 
 > Thinking ahead to the third of three summer 2018 code camps.
 
+[A tangled web of Racket Web programs](web-of-racket) (Musing #688)
+
+> Writing libraries for the new code camp.
+

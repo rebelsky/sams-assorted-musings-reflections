@@ -892,3 +892,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Just another summer weekend](weekend-2018-07-13) (Musing #685)  
 [Bad beard decisions](beard-decisions) (Musing #686)  
 [System downtime](system-downtime-2018-07-15) (Musing #687)  
+[A tangled web of Racket Web programs](web-of-racket) (Musing #688)  

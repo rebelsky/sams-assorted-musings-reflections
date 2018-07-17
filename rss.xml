@@ -7,6 +7,13 @@
       A curmudgeonly faculty member in computer science writes about a variety of topics.
     </description>
     <item>
+      <title>Musing #688: A tangled web of Racket Web programs</title>
+      <link>https://www.cs.grinnell.edu/~rebelsky/musings/web-of-racket</link>
+      <guid>https://www.cs.grinnell.edu/~rebelsky/musings/web-of-racket</guid>
+      <pubDate>Tue, 17 Jul 2018 01:56:58 GMT</pubDate>
+      <description>Writing libraries for the new code camp.</description>
+    </item>
+    <item>
       <title>Musing #687: System downtime</title>
       <link>https://www.cs.grinnell.edu/~rebelsky/musings/system-downtime-2018-07-15</link>
       <guid>https://www.cs.grinnell.edu/~rebelsky/musings/system-downtime-2018-07-15</guid>

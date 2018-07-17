@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[System downtime](system-downtime-2018-07-15) (Musing #687)
+[A tangled web of Racket Web programs](web-of-racket) (Musing #688)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
