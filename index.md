@@ -9,8 +9,10 @@ If you'd like, you can read [a longer introduction](intro-musings-v0).
 If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
-Latest musing:
-[A tangled web of Racket Web programs](web-of-racket) (Musing #688)
+Latest musings:
+[Inbox zero, revisited, stage 3](inbox-zero-revisited-03) (Musing #689)
+and
+[Reflections on "just another summer weekend"](weekend-2018-07-13) (Musing #690)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

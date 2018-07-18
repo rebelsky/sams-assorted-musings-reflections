@@ -178,3 +178,7 @@ Overcommitment
 
 > Perhaps not quite as busy as my academic-year weekends.
 
+[Reflections on "just another summer weekend"](weekend-2018-07-13) (Musing #690)
+
+> How it really turned out.
+

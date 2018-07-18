@@ -1256,6 +1256,10 @@ Overcommitment
 
 > Perhaps not quite as busy as my academic-year weekends.
 
+[Reflections on "just another summer weekend"](weekend-2018-07-13) (Musing #690)
+
+> How it really turned out.
+
 On teaching 
 -----------
 
@@ -2414,6 +2418,10 @@ status of "inbox zero".
 [Getting confused by email notifications](confusing-email-2018-07-11) (Musing #683)
 
 > Learning to check dates.
+
+[Inbox zero, revisited, stage 3](inbox-zero-revisited-03) (Musing #689)
+
+> Email builds up way too quickly.
 
 Almost everything else
 [I'm so confused](confused-comphistory-languages) (Musing #651)

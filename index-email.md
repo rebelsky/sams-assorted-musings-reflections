@@ -55,3 +55,7 @@ status of "inbox zero".
 
 > Learning to check dates.
 
+[Inbox zero, revisited, stage 3](inbox-zero-revisited-03) (Musing #689)
+
+> Email builds up way too quickly.
+
