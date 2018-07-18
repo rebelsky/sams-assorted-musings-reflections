@@ -12,7 +12,7 @@ please read [this post](intro-musings-sigcse-members).
 Latest musings:
 [Inbox zero, revisited, stage 3](inbox-zero-revisited-03) (Musing #689)
 and
-[Reflections on "just another summer weekend"](weekend-2018-07-13) (Musing #690)
+[Reflections on "just another summer weekend"](weekend-2018-07-17) (Musing #690)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
