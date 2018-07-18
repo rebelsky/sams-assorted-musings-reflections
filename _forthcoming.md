@@ -35,36 +35,8 @@ On particular dates
   we've had one of those parties?
 1. March 29, 2019: outliving my father.  (It's a facebook memory from
   that date in 2013.)
-
-Musings with substantive drafts
--------------------------------
-
-_I should finish these some time soon._
-
-1. Double majors, revisited.  `double-majors-2018-05-xx`.
-
-1. SIGCSE list workflows.  `sigcse-list-workflow`.  
-
-1. Woody Guthrie Jesus Christ and Jesse James (`getting-it-backwards`)
-
-1. Eboards. (`sketches/eboards.md`) (Less substantial than some of
-   the others.)
-
-1. Assessment. Two musings for the price of one?  Experience assessing
-   courses.  Mistrusting assessment.  Split 'em.
-   `assessment-revisited.md` "What's sad is that I really do believe in
-   "closing the loop": Reflect on what you've seen in your classes.
-   Think about what that means you should change.  Make the change.
-   Consider the impact.  Repeat."  But you don't need formalized
-   assessment practices for that loop.  You just need to pay attention,
-   introspect, and discuss. (_Needs rewriting.  Should probably focus
-   on just the mistrust issue._)
-
-1. Losing weight. (`losing-weight`)
-
-1. Peoples' names. (`misnaming.md`)
-
-1. A Grinnell Growth Mindset `grinnell-growth-mindset`
+1. Mother's day, 2019.  Kathy.
+1. Father's day, 2019.  Dad or Lloyd.
 
 Categorized musings
 -------------------
@@ -73,39 +45,34 @@ _This represents my attempt to categorize the musings a bit.  Musings
 may have multiple categories.  After the title, you'll find the topics
 surrounded by parentheses._
 
-_Tags: talks, draft, long, short, sketch, rants, technology, meta_
-
-1. Looking back on the weekend.  :overcommitment:short:
-
-1. Web of Racket :codecamps:draft:racket: `web-of-racket`
-
-1. Inbox zero, revisited, stage 3.  `inbox-zero-revisited-03`.
-
-1. "The Google Thing".  :meta:short:  I recently wrote about some
-musings that I would never write.  Along the way, I noted that I
-had a note that said "Application for Google thingy?" and I had no
-memory of what it meant.  But I use Git [1] to store my musings, so I could
-go back and look when I'd added the line.  I added it on October 15, 2016,
-along with a bunch of other musings [2].  So it kind of makes sense that I've
-forgotten.  I forget things I was planning a month ago, let alone nearly
-two years ago.  I could look back at my email from then for a clue.  I
-can think of two options: I'd been on a Google education advisory committee,
-and I was considering whether to volunteer for more work [3].  I also
-regularly think about asking Google for support for our local code club.
-[1] More on Git in another musing.
-[2] I see that I planned a musing on Git even before then.
-[3] Amazingly, I decided not to do so.
+_Tags: talks, draft, long, short, sketch, rants, technology, meta, grinnell, teaching, delayed, email, technical_
 
 1. Software over-privileges.  :draft:short:technology: `software-overprivileges`
-
-1. Bye-bye beard.  :autobiographical:short:
-
-1. Choices that are hard to undo.  :miscellaneous:autobiographical:rambly:
-
 1. Becoming an icon (no, the other kind).  :misc:short:
+
+1. Becoming a celebrity (before or after Scarlet and Give Back day).  :grinnell:short:delayed:
+   I'm still not sure why I was designated a celebrity.
+
+1. I love Grinnell.  :grinnell:short:sketch:delayed:
+(Reflections from meeting with Ologie.  I love our
+students.  I love my thoughtful colleagues.  I love the College's
+ability to support many of our students.  Whenever I get frustrated
+with the institution, I have to remember those things.) 
+
+1. Writing daily.  :writing:short:
+
+1. "The Google Thing".  :meta:short:sketch:  `the-google-thing`
+
+1. Becoming an icon.  :misc:short:sketch:
 While I was playing around with various issues related to the College
 Web site, I decided to think about icons.  There's a Web editor.
 http://www.xiconeditor.com/.
+
+1. The Montreal Trip.  :grinnell:short:sketch:
+Rachel ILM.  Vivek a new job.  Kumail Famous.  Erin Slate.  Isabela.
+Not sure.  Sarah.  Just moved on from Cloudera.  Damn.  Who else
+was there?  Did Ellie go?  She's a famous physics educator with a new
+last name.
 
 1. A syllabus for the Language and Code camp.  :code-camps:teaching:
 
@@ -118,7 +85,7 @@ http://www.xiconeditor.com/.
 1. Preserving digital evidence.  :callisto:complicated:draft:
 (`preserving-digital-evidence`)
 
-1. Abusing software.  :misc:callisto:technology: `abusing-callisto`
+1. Abusing software.  :misc:callisto:technology:draft: `abusing-callisto`
 
 1. Branching.  :rants:code:teaching:callisto: `branching-2018-07-nn`
 
@@ -224,6 +191,52 @@ few students take careful notes on the broader problem issue.
 1. Friday the 13th.  :misc:pogo:short:  Three in 2026!  (I've done
 it once already, so I need to think of other things to write about it.)
 
+1. Double majors, revisited.  `double-majors-2018-05-xx`. :grinnell:draft:
+
+1. SIGCSE list workflows.  `sigcse-list-workflow`.  :overcommitment:email:draft:
+
+1. Woody Guthrie Jesus Christ and Jesse James (`getting-it-backwards`)  :misc:draft:
+
+1. Eboards. (`sketches/eboards.md`) :teaching:sketch:
+
+1. Assessment. (`assesment-revisited.md`) :teaching:draft:rant:
+   Two musings for the price of one?  Experience assessing
+   courses.  Mistrusting assessment.  Split 'em.
+   `assessment-revisited.md` "What's sad is that I really do believe in
+   "closing the loop": Reflect on what you've seen in your classes.
+   Think about what that means you should change.  Make the change.
+   Consider the impact.  Repeat."  But you don't need formalized
+   assessment practices for that loop.  You just need to pay attention,
+   introspect, and discuss. (_Needs rewriting.  Should probably focus
+   on just the mistrust issue._)
+
+1. Losing weight. (`losing-weight`) :autobiographical:draft:
+
+1. Peoples' names. (`misnaming.md`) :rant:draft
+
+1. A Grinnell Growth Mindset `grinnell-growth-mindset` :grinnell:draft:
+
+1. Supporting admissions.  :grinnell:sketch: `supporting-admissions`
+
+1. Cary Nelson's piece on "The Economic Challenges of Anthologies" in _On Anthologies_.  :sketch:academia:short:
+Really fascinating.  I picked it up after
+reading [an article about the challenges of creating an anthology
+of Gene Kelly inteviews](rhetorical-gestures-kelly-tolkien).  ...
+And look!  There's an article by my now-SFS colleague, Alan Schrift,
+immediately after Nelson's piece.  Nelson's comment on an Elizabeth
+Bishop poem.  Then I realize that's the same Elizabeth Bishop whose
+"[One Art](https://www.poetryfoundation.org/poems/47536/one-art)" we turned to again and again in _Lighting the Page_.    New edition mentioned at
+<http://www.english.illinois.edu/maps/>.  Says that the suggested 
+list price is $79.95.  But when I look at the Oxford site, 
+[Volume 1](https://global.oup.com/academic/product/anthology-of-modern-american-poetry-9780199920723?lang=en&cc=us) is $72.95 and
+[Volume 2](https://global.oup.com/academic/product/anthology-of-contemporary-american-poetry-9780199920730?cc=us&lang=en&) is also $72.95.  That's a lot
+higher than the claimed list price.  I guess the economic realities of
+the new edition were also troubling.
+
+1. One Art.  :miscellaenous:writing:short:sketch:
+(see previous notes, too)  And then Sam returns to his normal search for where it was originally published.  Finds [article on drafts](http://www.english.illinois.edu/maps/poets/a_f/bishop/drafts.htm) and [better article on drafts](https://bluedragonfly10.wordpress.com/2009/06/12/one-art-the-writing-of-loss-in-elizabeth-bishop%E2%80%99s-poetry/).  Finally found the original publication.  
+[_The New Yorker_, 26 April 1976, p. 40](https://www.newyorker.com/magazine/1976/04/26/one-art).  Why was that so hard to find?  Not what I thought.  I thought  the partner had died.  They hadn't.  
+
 The stack of musings
 --------------------
 
@@ -265,9 +278,6 @@ The stack of musings
 1. Tagging the musings. Or does this just get incorporated into the
    next end-of-month musing?
 
-1. Becoming a celebrity (before or after Scarlet and Give Back day).
-   I'm still not sure why I was designated a celebrity.
-
 1. Teaching CS is teaching writing.  Maybe use all the versions of
    `iota` that I recently covered in class.  (It's now less recent.)
 
@@ -288,11 +298,6 @@ The stack of musings
    cut when I add my next role or responsibility.)
 
 1. Favorite musings (or selected musings).
-
-1. I love Grinnell.  (Reflections from meeting with Ologie.  I love our
-   students.  I love my thoughtful colleagues.  I love the College's
-   ability to support many of our students.  Whenever I get frustrated
-   with the institution, I have to remember those things.)  [short]
 
 1. To-do list managers.  (Notes are in my notebook.)  But also most of
    my tasks don't have a firm deadline.  When everything is in one
@@ -422,39 +427,10 @@ to think through the matter.  [Or maybe they've fixed this.]
 
 ### Added recently
 
-1. Jennifer Weinman's request: " think a good future musing (add it to your list...) would be something about kid-friendly faculty environments, or having kids pre-tenure. It's something I've talked about with many, but don't see publicly discussed in print all that often."  I could start with the old Faculty House Faculty Fridays.  It could be in the musing for prospective faculty.
+1. A family-friendly college :grinnell:academia:short:
+Jennifer Weinman's request: " think a good future musing (add it to your list...) would be something about kid-friendly faculty environments, or having kids pre-tenure. It's something I've talked about with many, but don't see publicly discussed in print all that often."  I could start with the old Faculty House Faculty Fridays.  It could be in the musing for prospective faculty.
 
 1. Spaces after sentences.  <https://www.washingtonpost.com/news/speaking-of-science/wp/2018/05/04/one-space-between-each-sentence-they-said-science-just-proved-them-wrong-2/>
-
-1. Supporting admissions.  Our admissions office has an incredibly
-important job: They bring us the excellent students that inhabit our
-classrooms and campus.  While I am sometimes critical about the things
-they do or lead the College to do (e.g., limit posting on the Web site,
-develop marketing campaigns that use strange slogans), I very much
-appreciate what they do and do what I can support them.  How do faculty
-support admissions.  Attend events.  Allow students to visit classes.
-Write to prospective students.  Post long, drawn-out criticisms of the
-College.  No, probably not that last thing.  Provide more information
-about the department that I think will help.  Keep our Web site up to
-date (Whoops).
-
-1. Cary Nelson's piece on "The Economic Challenges of Anthologies"
-in _On Anthologies_.  Really fascinating.  I picked it up after
-reading [an article about the challenges of creating an anthology
-of Gene Kelly inteviews](rhetorical-gestures-kelly-tolkien).  ...
-And look!  There's an article by my now-SFS colleague, Alan Schrift,
-immediately after Nelson's piece.  Nelson's comment on an Elizabeth
-Bishop poem.  Then I realize that's the same Elizabeth Bishop whose
-"[One Art](https://www.poetryfoundation.org/poems/47536/one-art)" we turned to again and again in _Lighting the Page_.    New edition mentioned at
-<http://www.english.illinois.edu/maps/>.  Says that the suggested 
-list price is $79.95.  But when I look at the Oxford site, 
-[Volume 1](https://global.oup.com/academic/product/anthology-of-modern-american-poetry-9780199920723?lang=en&cc=us) is $72.95 and
-[Volume 2](https://global.oup.com/academic/product/anthology-of-contemporary-american-poetry-9780199920730?cc=us&lang=en&) is also $72.95.  That's a lot
-higher than the claimed list price.  I guess the economic realities of
-the new edition were also troubling.
-
-1. One Art.  (see previous notes, too)  And then Sam returns to his normal search for where it was originally published.  Finds [article on drafts](http://www.english.illinois.edu/maps/poets/a_f/bishop/drafts.htm) and [better article on drafts](https://bluedragonfly10.wordpress.com/2009/06/12/one-art-the-writing-of-loss-in-elizabeth-bishop%E2%80%99s-poetry/).  Finally found the original publication.  
-[_The New Yorker_, 26 April 1976, p. 40](https://www.newyorker.com/magazine/1976/04/26/one-art).  Why was that so hard to find?  Not what I thought.  I thought  the partner had died.  They hadn't.  
 
 1. Drawers (on the Web site) (or have I now written enough about them).
 
@@ -1011,11 +987,6 @@ and ask if they can also go.  If I recall correctly, the rule for the
 game that almost got me killed was "Words that start with the same letter
 as your first name".
 
-1. The Montreal Trip.  Rachel ILM.  Vivek LinkedIn or a new job.  
-Kumail Famous.  Erin Slate.  Isabela.  Not sure.  Sarah.  Just moved
-on from Cloudera.  Damn.  Who else was there?  Did Ellie go?  She's
-a famous physics educator with a new last name.
-
 1. A short biography of SamR.
 
 1. The list of topics that I've thought about writing about, in no particular
@@ -1469,12 +1440,6 @@ will be public, though.*
 1. Jon Strymish.
 
 1. Andy.
-
-1. Kathy (for mother's day)
-
-1. Dad (for Father's Day)
-
-1. Lloyd (for Father's Day)
 
 1. Jonathan (private)
 
