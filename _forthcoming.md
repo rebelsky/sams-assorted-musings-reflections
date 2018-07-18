@@ -28,6 +28,8 @@ The next end of month musing
 On particular dates
 -------------------
 
+1. July 30, 2018: Dad (maybe)
+1. July 31, 2018: End-of-month musing.
 1. November 1, 2018: NaNoWriMo (On writing.)  (Or National Technical
    Book Writing Month)
 1. November 11, 2018: 11/11.  
@@ -45,9 +47,16 @@ _This represents my attempt to categorize the musings a bit.  Musings
 may have multiple categories.  After the title, you'll find the topics
 surrounded by parentheses._
 
-_Tags: talks, draft, long, short, sketch, rants, technology, meta, grinnell, teaching, delayed, email, technical_
+_Tags/form or meta: draft, sketch, long, short, sketch, delayed, rambly (I haven't used that yet)_
+
+_Tags/style: rants, talks_
+
+_Tags/content: technology, meta, grinnell, delayed, email, technical (not the same as technology), Racket, data science, overcommittment, language_
 
 1. Software over-privileges.  :draft:short:technology: `software-overprivileges`
+
+1. Should I buy Grammarly premium?  :meta:language:technology:short:sketch: `buying-grammarly-premium`
+
 1. Becoming an icon (no, the other kind).  :misc:short:
 
 1. Becoming a celebrity (before or after Scarlet and Give Back day).  :grinnell:short:delayed:
@@ -61,7 +70,7 @@ with the institution, I have to remember those things.)
 
 1. Writing daily.  :writing:short:
 
-1. "The Google Thing".  :meta:short:sketch:  `the-google-thing`
+1. "The Google Thing".  :meta:short:sketch:delayed:  `the-google-thing`
 
 1. Becoming an icon.  :misc:short:sketch:
 While I was playing around with various issues related to the College
@@ -75,10 +84,23 @@ was there?  Did Ellie go?  She's a famous physics educator with a new
 last name.
 
 1. A syllabus for the Language and Code camp.  :code-camps:teaching:
+This may never appear.
+
+1. Camper setup.  :code-camps:teaching:joc:
+Want to make things easy for the campers, so writing a script to set up
+their account.
+
+1. Language generation in Racket.  :code-camps:teaching:racket:
+
+1. Transforming Web pages in Racket.  :code-camps:teaching:racket:
+
+1. Week two of Code Camps.  :code-camps:teaching:data science:
 
 1. A long and busy summer.  :overcommitment:long:rambly:
 
 1. Tracing citations.  (`binary-search-citations`)  :sketch:joc:short:
+
+1. Summer work absurdities.  :academia:short:rant: `summer-funding-absurdities`
 
 1. Porting callisto.  :callisto:short:  An introduction to this topic.
 
@@ -111,7 +133,7 @@ more background on that issue. Vince Eckhart.  Michelle and I have different
 memories of what happened next.  Here's what the Smithsonian says:
 <https://www.smithsonianmag.com/science-nature/tree-nut-allergies-may-be-massively-overdiagnosed-180962927/>
 
-1. The joy of code camps.  :teaching:long:
+1. The joy of code camps.  :code-camps:teaching:long:
 Agreed to do it because it seemed like a good thing.  And it's something
 our community really wants.  There's also a joy in knowing that we're
 encouraging some kids who might not otherwise think about higher education
