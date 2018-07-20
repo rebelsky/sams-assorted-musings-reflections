@@ -47,13 +47,11 @@ _This represents my attempt to categorize the musings a bit.  Musings
 may have multiple categories.  After the title, you'll find the topics
 surrounded by parentheses._
 
-_Tags/form or meta: draft, sketch, long, short, sketch, delayed, rambly (I haven't used that yet)_
+_Tags/form or meta: delayed, draft, long, rambly (I don't think I've used that yet) short, sketch_
 
 _Tags/style: rants, talks_
 
-_Tags/content: technology, meta, grinnell, delayed, email, technical (not the same as technology), Racket, data science, overcommittment, language_
-
-1. Software over-privileges.  :draft:short:technology: `software-overprivileges`
+_Tags/content: autobiographical, data science, delayed, email, grinnell, language, meta, overcommittment, Racket, technical (not the same as technology), technology_
 
 1. Should I buy Grammarly premium?  :meta:language:technology:short:sketch: `buying-grammarly-premium`
 
@@ -68,7 +66,7 @@ students.  I love my thoughtful colleagues.  I love the College's
 ability to support many of our students.  Whenever I get frustrated
 with the institution, I have to remember those things.) 
 
-1. Writing daily.  :writing:short:
+1. Writing daily.  :writing:short:  `writing-daily`
 
 1. "The Google Thing".  :meta:short:sketch:delayed:  `the-google-thing`
 
@@ -141,11 +139,13 @@ to start thining about it.  (And some kids who might not otherwise think
 about CS to start thinking about it.)  But boy, does it sap my energy.
 And it's not really in my wheelhouse.  What does it do for the undergraduates?
 
-1. Buying books.  :autobiographical:
+1. Buying books.  :autobiographical:sketch:short:
 I enjoy buying books.  I also enjoy reading books.  But sometimes it seems like
 I spend more time buying the books than reading them. I need to find a way
 to turn that habit around.  Maybe when thigns are quieter I'll find more time
 to read.
+
+1. More fun with HTML and xexp :rant:Racket:code-camps:draft:
 
 1. Notes from Students/Moral modeling. :teaching:short:
 Before I started musing, I would occasionally post short notes to Facebook.
@@ -258,6 +258,9 @@ the new edition were also troubling.
 1. One Art.  :miscellaenous:writing:short:sketch:
 (see previous notes, too)  And then Sam returns to his normal search for where it was originally published.  Finds [article on drafts](http://www.english.illinois.edu/maps/poets/a_f/bishop/drafts.htm) and [better article on drafts](https://bluedragonfly10.wordpress.com/2009/06/12/one-art-the-writing-of-loss-in-elizabeth-bishop%E2%80%99s-poetry/).  Finally found the original publication.  
 [_The New Yorker_, 26 April 1976, p. 40](https://www.newyorker.com/magazine/1976/04/26/one-art).  Why was that so hard to find?  Not what I thought.  I thought  the partner had died.  They hadn't.  
+
+1. `git lynch`.  :miscellaneous:technical:git:short:
+What to do if someone pushes non-working code to the main branch.
 
 The stack of musings
 --------------------
