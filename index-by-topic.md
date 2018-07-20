@@ -3013,6 +3013,10 @@ Almost everything else
 
 > It happens too often.
 
+[Software over-privileges](software-overprivileges) (Musing #691)
+
+> One of the minor benefits of being a faculty or staff member at Grinnell.
+
 Musings with multiple entries
 -----------------------------
 
