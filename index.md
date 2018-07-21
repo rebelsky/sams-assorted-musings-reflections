@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Software over-privileges](software-overprivileges) (Musing #691)
+[Transforming Web pages](code-camp-transforming-web-pages) (Musing #693)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

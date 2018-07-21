@@ -253,3 +253,7 @@ Autobiographical essays, more or less
 
 > I shouldn't have shaved.
 
+[Planning some fun summer activities](summer-fun-2018-07-19) (Musing #692)
+
+> Sometimes organizing can be fun.
+

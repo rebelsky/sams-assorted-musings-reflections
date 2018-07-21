@@ -19,3 +19,7 @@ _Notes related to the code camps we offer._
 
 > Writing libraries for the new code camp.
 
+[Transforming Web pages](code-camp-transforming-web-pages) (Musing #693)
+
+> More procedures for the new code camp.
+

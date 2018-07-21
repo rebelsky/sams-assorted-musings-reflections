@@ -1379,6 +1379,10 @@ _Notes related to the code camps we offer._
 
 > Writing libraries for the new code camp.
 
+[Transforming Web pages](code-camp-transforming-web-pages) (Musing #693)
+
+> More procedures for the new code camp.
+
 On writing letters of recommendation
 ------------------------------------
 
@@ -2311,6 +2315,10 @@ Autobiographical essays, more or less
 [Bad beard decisions](beard-decisions) (Musing #686)
 
 > I shouldn't have shaved.
+
+[Planning some fun summer activities](summer-fun-2018-07-19) (Musing #692)
+
+> Sometimes organizing can be fun.
 
 Salary reviews
 --------------
