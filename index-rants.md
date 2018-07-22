@@ -334,3 +334,7 @@ Rants
 
 > Worse than it used to be.
 
+[Code as language](code-as-language) (Musing #695)
+
+> Ludicrous ideas.
+

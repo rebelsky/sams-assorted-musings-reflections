@@ -9,8 +9,10 @@ If you'd like, you can read [a longer introduction](intro-musings-v0).
 If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
-Latest musing:
+Latest musings:
 [Inbox zero, revisited, stage 4](inbox-zero-revisited-04) (Musing #694)
+and
+[Code as language](code-as-language) (Musing #695)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
