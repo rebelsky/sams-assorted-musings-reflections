@@ -65,3 +65,7 @@ The joy of code
 
 > Delayed evaluaton.
 
+[The joy of code: An Igpay Atinlay transformer, revisited](igpay-atinlay-revisited) (Musing #696)
+
+> Utatingmay Agespay.
+

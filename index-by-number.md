@@ -903,3 +903,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Transforming Web pages](code-camp-transforming-web-pages) (Musing #693)  
 [Inbox zero, revisited, stage 4](inbox-zero-revisited-04) (Musing #694)  
 [Code as language](code-as-language) (Musing #695)  
+[The joy of code: An Igpay Atinlay transformer, revisited](igpay-atinlay-revisited) (Musing #696)  
