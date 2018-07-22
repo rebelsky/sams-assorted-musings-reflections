@@ -2431,6 +2431,9 @@ status of "inbox zero".
 
 > Email builds up way too quickly.
 
+[Inbox zero, revisited, stage 4](inbox-zero-revisited-04) (Musing #694)
+
+> "I'd be overwhelmed with that many unread messages in my inbox."  Yeah, me too.
 Almost everything else
 [I'm so confused](confused-comphistory-languages) (Musing #651)
 ----------------------

@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Transforming Web pages](code-camp-transforming-web-pages) (Musing #693)
+[Inbox zero, revisited, stage 4](inbox-zero-revisited-04) (Musing #694)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

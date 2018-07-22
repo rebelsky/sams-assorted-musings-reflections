@@ -901,3 +901,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Software over-privileges](software-overprivileges) (Musing #691)  
 [Planning some fun summer activities](summer-fun-2018-07-19) (Musing #692)  
 [Transforming Web pages](code-camp-transforming-web-pages) (Musing #693)  
+[Inbox zero, revisited, stage 4](inbox-zero-revisited-04) (Musing #694)  
