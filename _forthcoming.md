@@ -18,17 +18,40 @@ The next end of month musing
 
 * Goals: No rants.  Weekly musing about inbox zero.  Read Williams and
   start to edit.  Did I succeed?  (It was hard; I'm a curmudgeon and have
-  a lot to rant about.)
+  a lot to rant about.)  (I ranted about an absurd suggestion that a
+  high-school class in programming should substitute for a high-school
+  class in a non-native language.)  Didn't start to edit.
+* Michelle said it’s not so much a rant as an explanation of why CS is not a substitute for a foreign language. But it feels like most of my rants can be phrased that way. Complaints about our new campaign?  It’s an explanation of why bad grammar does not represent Grinnell. 
 * Next month: Accumulated rants (probably).
 * A few days early in the month in which I missed one day and then posted
-  twice on the next day.
+  twice on the next day.  One rant that was so important that I made it
+  the second rant of the day.
 * Continue to learn that people I never expected to read my musings do
-  actually read my musings.
+  actually read my musings.  A colleague who hasn't worked at Grinnell
+  in a decade.  A few alums.  And some others I forget.
+* Oooh, getting scraped for link advertisements.
+> Hi Samuel,
+
+> I noticed you have a link to the Hemingway Editor on your site - http://www.math.grin.edu/~rebelsky/musings/seven-months and I just wanted to tell you about one of our guides which you might also like.
+
+> Our section on writing better blog posts (https://blogging.im/betterblogposts) covers the basics like brainstorming ideas and improving readability (which obviously the Hemingway Editor helps with too) to optimizing headline length and tweaking for search engine visibility.
+
+> Perhaps you could add a link to this as well? If your users find the Hemingway app useful then chances are they’ll also get value from our guide.
+
+> Please let me know your thoughts.
+
+> Thank you in advance.
+
+> -Tom
+
+> `---`
+> Tom Howard
+> Community Manager
 
 On particular dates
 -------------------
 
-1. July 30, 2018: Dad (maybe)
+1. July 30, 2018: Dad (maybe).  Or maybe the new "Outliving my father."
 1. July 31, 2018: End-of-month musing.
 1. November 1, 2018: NaNoWriMo (On writing.)  (Or National Technical
    Book Writing Month)
@@ -51,7 +74,15 @@ _Tags/form or meta: delayed, draft, long, rambly (I don't think I've used that y
 
 _Tags/style: rants, talks_
 
-_Tags/content: autobiographical, data science, delayed, email, grinnell, language, meta, overcommittment, Racket, technical (not the same as technology), technology_
+_Tags/content: autobiographical, data science, delayed, email, grinnell, joc, language, meta, overcommittment, Racket, technical (not the same as technology), technology_
+
+1. Worse slogans: "The world needs more cowboys".  :misc:marketing:short:draft:  `worse-slogans-cowboys`
+
+1. Inbox zero, revisited, stage 5  :email:rambly:  
+
+1. Configuring the code camps.  :code-camps:joc:technical:draft:  `code-camp-lac-configure`
+
+1. Code triage.  :miscellaneous:short:draft:
 
 1. Should I buy Grammarly premium?  :meta:language:technology:short:sketch: `buying-grammarly-premium`
 
@@ -261,6 +292,9 @@ the new edition were also troubling.
 
 1. `git lynch`.  :miscellaneous:technical:git:short:
 What to do if someone pushes non-working code to the main branch.
+
+1. The classroom goes public.  :academia:teaching:reaction:
+<https://www.chronicle.com/article/What-Happens-in-the-Classroom/243974>
 
 The stack of musings
 --------------------
@@ -693,8 +727,8 @@ compare them.  These are some thoughts on that process.
 
 1. The old shotgun apartment.  (Walking by Powell's.  Etc.)
 
-1. Fall job interviews.  (Tapia + GHC + A third conference + interviews)
-   A huge change.
+1. Fall job interviews.  (Tapia + GHC + A third conference + interviews) 
+   A huge change.  `fall-job-interviews`
 
 1. Inbox zero.  Your Memories on Facebook recently came up with musing
    189, "Inbox zero, stage 1."  `inbox-zero-01`.  Boy, was "inbox zero" 
@@ -1077,8 +1111,6 @@ http://www.cs.grinnell.edu/~rebelsky/musings/muse-spring-break-continues
 1. More on teaching at Grinnell (currently more-teaching-at-grinnell)
 
 1. Jekyll - Better markup (?)
-
-1. Inbox zero. A multi-part story.
 
 1. HFOSS.
 
