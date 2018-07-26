@@ -592,3 +592,7 @@ Almost everything else
 
 > One of the minor benefits of being a faculty or staff member at Grinnell.
 
+[Even worse collegiate marketing slogans](worse-slogans-cowboys) (Musing #699)
+
+> And I thought "no limits" was bad.
+

@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Programs for simple language generation](code-camps-lac-language-generation) (Musing #698)
+[Even worse collegiate marketing slogans](worse-slogans-cowboys) (Musing #699)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
