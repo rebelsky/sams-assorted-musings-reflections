@@ -1387,6 +1387,14 @@ _Notes related to the code camps we offer._
 
 > More procedures for the new code camp.
 
+[Configuring code-camper accounts](code-camp-lac-configure) (Musing #697)
+
+> That much configuration benefits from a shell script.
+
+[Programs for simple language generation](code-camps-lac-language-generation) (Musing #698)
+
+> Mediocre but fun.
+
 On writing letters of recommendation
 ------------------------------------
 

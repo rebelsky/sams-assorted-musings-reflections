@@ -7,6 +7,20 @@
       A curmudgeonly faculty member in computer science writes about a variety of topics.
     </description>
     <item>
+      <title>Musing #698: Programs for simple language generation</title>
+      <link>https://www.cs.grinnell.edu/~rebelsky/musings/code-camps-lac-language-generation</link>
+      <guid>https://www.cs.grinnell.edu/~rebelsky/musings/code-camps-lac-language-generation</guid>
+      <pubDate>Wed, 25 Jul 2018 01:21:54 GMT</pubDate>
+      <description>Mediocre but fun.</description>
+    </item>
+    <item>
+      <title>Musing #697: Configuring code-camper accounts</title>
+      <link>https://www.cs.grinnell.edu/~rebelsky/musings/code-camp-lac-configure</link>
+      <guid>https://www.cs.grinnell.edu/~rebelsky/musings/code-camp-lac-configure</guid>
+      <pubDate>Tue, 24 Jul 2018 01:07:18 GMT</pubDate>
+      <description>That much configuration benefits from a shell script.</description>
+    </item>
+    <item>
       <title>Musing #696: The joy of code: An Igpay Atinlay transformer, revisited</title>
       <link>https://www.cs.grinnell.edu/~rebelsky/musings/igpay-atinlay-revisited</link>
       <guid>https://www.cs.grinnell.edu/~rebelsky/musings/igpay-atinlay-revisited</guid>
