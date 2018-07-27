@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Even worse collegiate marketing slogans](worse-slogans-cowboys) (Musing #699)
+[Code triage](code-triage) (Musing #700)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

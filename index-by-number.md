@@ -907,3 +907,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Configuring code-camper accounts](code-camp-lac-configure) (Musing #697)  
 [Programs for simple language generation](code-camps-lac-language-generation) (Musing #698)  
 [Even worse collegiate marketing slogans](worse-slogans-cowboys) (Musing #699)  
+[Code triage](code-triage) (Musing #700)  

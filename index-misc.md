@@ -596,3 +596,7 @@ Almost everything else
 
 > And I thought "no limits" was bad.
 
+[Code triage](code-triage) (Musing #700)
+
+> It could be an awesome game.
+
