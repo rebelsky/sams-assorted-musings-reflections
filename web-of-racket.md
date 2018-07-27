@@ -281,7 +281,7 @@ with them about it tomorrow morning.
 
 *Transform SXML/sexp expressions*
 
-Given the complications I had with SXPath, I think I'm leaving SXLST to
+Given the complications I had with SXPath, I think I'm leaving SXSLT to
 another day.
 
 *Rethinking earlier decisions*
@@ -325,4 +325,6 @@ But it did.  Yay!
 
 ---
 
-*Version 1.0 of 2018-07-16.*
+*Version 1.0 released 2018-07-16.*
+
+*Version 1.0.1 of 2018-07-27.*
