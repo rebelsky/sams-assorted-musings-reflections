@@ -7,6 +7,20 @@
       A curmudgeonly faculty member in computer science writes about a variety of topics.
     </description>
     <item>
+      <title>Musing #702: Badly designed software</title>
+      <link>https://www.cs.grinnell.edu/~rebelsky/musings/badly-designed-software-2018-07-28</link>
+      <guid>https://www.cs.grinnell.edu/~rebelsky/musings/badly-designed-software-2018-07-28</guid>
+      <pubDate>Sun, 29 Jul 2018 02:14:49 GMT</pubDate>
+      <description>Don't delete user files.</description>
+    </item>
+    <item>
+      <title>Musing #701: Exploring code</title>
+      <link>https://www.cs.grinnell.edu/~rebelsky/musings/exploring-code-2018-07-27</link>
+      <guid>https://www.cs.grinnell.edu/~rebelsky/musings/exploring-code-2018-07-27</guid>
+      <pubDate>Sun, 29 Jul 2018 02:14:24 GMT</pubDate>
+      <description>The joy of debugging code.</description>
+    </item>
+    <item>
       <title>Musing #700: Code triage</title>
       <link>https://www.cs.grinnell.edu/~rebelsky/musings/code-triage</link>
       <guid>https://www.cs.grinnell.edu/~rebelsky/musings/code-triage</guid>

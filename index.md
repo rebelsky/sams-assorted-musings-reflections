@@ -9,8 +9,10 @@ If you'd like, you can read [a longer introduction](intro-musings-v0).
 If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
-Latest musing:
-[Code triage](code-triage) (Musing #700)
+Latest musings:
+[Exploring code](exploring-code-2018-07-27) (Musing #701)
+and
+[Badly designed software](badly-designed-software-2018-07-28) (Musing #702)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

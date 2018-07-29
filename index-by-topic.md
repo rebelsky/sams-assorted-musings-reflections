@@ -1002,6 +1002,10 @@ Rants
 
 > Ludicrous ideas.
 
+[Badly designed software](badly-designed-software-2018-07-28) (Musing #702)
+
+> Don't delete user files.
+
 Assorted talks and speeches
 ---------------------------
 
@@ -1643,6 +1647,10 @@ The joy of code
 [The joy of code: An Igpay Atinlay transformer, revisited](igpay-atinlay-revisited) (Musing #696)
 
 > Utatingmay Agespay.
+
+[Exploring code](exploring-code-2018-07-27) (Musing #701)
+
+> The joy of debugging code.
 
 A new CSC 151
 -------------

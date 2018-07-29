@@ -338,3 +338,7 @@ Rants
 
 > Ludicrous ideas.
 
+[Badly designed software](badly-designed-software-2018-07-28) (Musing #702)
+
+> Don't delete user files.
+

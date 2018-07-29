@@ -908,3 +908,8 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Programs for simple language generation](code-camps-lac-language-generation) (Musing #698)  
 [Even worse collegiate marketing slogans](worse-slogans-cowboys) (Musing #699)  
 [Code triage](code-triage) (Musing #700)  
+
+## 701-710
+
+[Exploring code](exploring-code-2018-07-27) (Musing #701)  
+[Badly designed software](badly-designed-software-2018-07-28) (Musing #702)  

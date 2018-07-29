@@ -69,3 +69,7 @@ The joy of code
 
 > Utatingmay Agespay.
 
+[Exploring code](exploring-code-2018-07-27) (Musing #701)
+
+> The joy of debugging code.
+
