@@ -2458,6 +2458,11 @@ status of "inbox zero".
 [Inbox zero, revisited, stage 4](inbox-zero-revisited-04) (Musing #694)
 
 > "I'd be overwhelmed with that many unread messages in my inbox."  Yeah, me too.
+
+[Inbox zero, revisited, stage five](inbox-zero-revisited-05) (Musing #703)
+
+> Things continue to spiral out of control.
+
 Almost everything else
 [I'm so confused](confused-comphistory-languages) (Musing #651)
 ----------------------
