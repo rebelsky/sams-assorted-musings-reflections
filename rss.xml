@@ -7,6 +7,13 @@
       A curmudgeonly faculty member in computer science writes about a variety of topics.
     </description>
     <item>
+      <title>Musing #705: Another month of daily musings</title>
+      <link>https://www.cs.grinnell.edu/~rebelsky/musings/another-month-2018-07</link>
+      <guid>https://www.cs.grinnell.edu/~rebelsky/musings/another-month-2018-07</guid>
+      <pubDate>Wed, 01 Aug 2018 02:02:55 GMT</pubDate>
+      <description>Rant less.  Code more.</description>
+    </item>
+    <item>
       <title>Musing #704: Learning to appreciate Peter Max</title>
       <link>https://www.cs.grinnell.edu/~rebelsky/musings/peter-max</link>
       <guid>https://www.cs.grinnell.edu/~rebelsky/musings/peter-max</guid>
@@ -229,174 +236,6 @@
       <guid>https://www.cs.grinnell.edu/~rebelsky/musings/inbox-zero-revisited-02</guid>
       <pubDate>Mon, 02 Jul 2018 00:47:05 GMT</pubDate>
       <description>Learning to unsubscribe.</description>
-    </item>
-    <item>
-      <title>Musing #672: Another month of daily musings</title>
-      <link>https://www.cs.grinnell.edu/~rebelsky/musings/another-month-2018-06</link>
-      <guid>https://www.cs.grinnell.edu/~rebelsky/musings/another-month-2018-06</guid>
-      <pubDate>Sun, 01 Jul 2018 04:23:27 GMT</pubDate>
-      <description>Shorter musings than normal.  Fewer musings than normal.</description>
-    </item>
-    <item>
-      <title>Musing #671: Inbox zero, revisited, stage one</title>
-      <link>https://www.cs.grinnell.edu/~rebelsky/musings/inbox-zero-revisited-01</link>
-      <guid>https://www.cs.grinnell.edu/~rebelsky/musings/inbox-zero-revisited-01</guid>
-      <pubDate>Sun, 01 Jul 2018 04:22:59 GMT</pubDate>
-      <description>Starting again, a bit more than a year later.</description>
-    </item>
-    <item>
-      <title>Musing #670: Grinnell traffic (Summer 2018)</title>
-      <link>https://www.cs.grinnell.edu/~rebelsky/musings/grinnell-traffic-summer-2018</link>
-      <guid>https://www.cs.grinnell.edu/~rebelsky/musings/grinnell-traffic-summer-2018</guid>
-      <pubDate>Sat, 30 Jun 2018 01:13:59 GMT</pubDate>
-      <description>Worse than it used to be.</description>
-    </item>
-    <item>
-      <title>Musing #669: The Straight Dope</title>
-      <link>https://www.cs.grinnell.edu/~rebelsky/musings/straight-dope</link>
-      <guid>https://www.cs.grinnell.edu/~rebelsky/musings/straight-dope</guid>
-      <pubDate>Fri, 29 Jun 2018 04:21:50 GMT</pubDate>
-      <description>Farewell to a favorite.</description>
-    </item>
-    <item>
-      <title>Musing #668: Strunk &amp; White and Williams</title>
-      <link>https://www.cs.grinnell.edu/~rebelsky/musings/strunk-white-and-williams</link>
-      <guid>https://www.cs.grinnell.edu/~rebelsky/musings/strunk-white-and-williams</guid>
-      <pubDate>Fri, 29 Jun 2018 04:21:36 GMT</pubDate>
-      <description>Clearer elements of style.</description>
-    </item>
-    <item>
-      <title>Musing #667: Surviving week one of code camp</title>
-      <link>https://www.cs.grinnell.edu/~rebelsky/musings/surviving-code-camp-week-one-2018</link>
-      <guid>https://www.cs.grinnell.edu/~rebelsky/musings/surviving-code-camp-week-one-2018</guid>
-      <pubDate>Wed, 27 Jun 2018 00:50:45 GMT</pubDate>
-      <description>A report from the first week of code camp in summer 2018.</description>
-    </item>
-    <item>
-      <title>Musing #666: Algorithms, data structures, abstract data types, formal languages, and the rest</title>
-      <link>https://www.cs.grinnell.edu/~rebelsky/musings/algorithms-et-al-2018-06-25</link>
-      <guid>https://www.cs.grinnell.edu/~rebelsky/musings/algorithms-et-al-2018-06-25</guid>
-      <pubDate>Tue, 26 Jun 2018 01:28:16 GMT</pubDate>
-      <description>Considering the distribution of topics between courses.</description>
-    </item>
-    <item>
-      <title>Musing #665: Sentient and malicious</title>
-      <link>https://www.cs.grinnell.edu/~rebelsky/musings/sentient-and-malicious-2018-06-24</link>
-      <guid>https://www.cs.grinnell.edu/~rebelsky/musings/sentient-and-malicious-2018-06-24</guid>
-      <pubDate>Mon, 25 Jun 2018 00:34:49 GMT</pubDate>
-      <description>One of my aphorisms.</description>
-    </item>
-    <item>
-      <title>Musing #664: Family book club: _Mindset_</title>
-      <link>https://www.cs.grinnell.edu/~rebelsky/musings/family-book-club-mindset</link>
-      <guid>https://www.cs.grinnell.edu/~rebelsky/musings/family-book-club-mindset</guid>
-      <pubDate>Sun, 24 Jun 2018 01:27:04 GMT</pubDate>
-      <description>Reading as a family.</description>
-    </item>
-    <item>
-      <title>Musing #663: Strange calculations</title>
-      <link>https://www.cs.grinnell.edu/~rebelsky/musings/strange-calculations-2018-06-22</link>
-      <guid>https://www.cs.grinnell.edu/~rebelsky/musings/strange-calculations-2018-06-22</guid>
-      <pubDate>Sat, 23 Jun 2018 01:47:13 GMT</pubDate>
-      <description>Two plus four is seven?</description>
-    </item>
-    <item>
-      <title>Musing #662: Aggressive spam filters</title>
-      <link>https://www.cs.grinnell.edu/~rebelsky/musings/aggressive-spam-filters-2018-06-21</link>
-      <guid>https://www.cs.grinnell.edu/~rebelsky/musings/aggressive-spam-filters-2018-06-21</guid>
-      <pubDate>Fri, 22 Jun 2018 01:58:15 GMT</pubDate>
-      <description>"Your email has been rejected as it contains a shortened URL"</description>
-    </item>
-    <item>
-      <title>Musing #661: Back from vacation</title>
-      <link>https://www.cs.grinnell.edu/~rebelsky/musings/vacation-2018-06-20</link>
-      <guid>https://www.cs.grinnell.edu/~rebelsky/musings/vacation-2018-06-20</guid>
-      <pubDate>Thu, 21 Jun 2018 03:21:02 GMT</pubDate>
-      <description>An explanation for a week of missing musings.</description>
-    </item>
-    <item>
-      <title>Musing #660: Nuts to allergies</title>
-      <link>https://www.cs.grinnell.edu/~rebelsky/musings/nut-allergies</link>
-      <guid>https://www.cs.grinnell.edu/~rebelsky/musings/nut-allergies</guid>
-      <pubDate>Wed, 13 Jun 2018 01:53:40 GMT</pubDate>
-      <description>I hate mine.</description>
-    </item>
-    <item>
-      <title>Musing #659: Noyce third</title>
-      <link>https://www.cs.grinnell.edu/~rebelsky/musings/noyce-third</link>
-      <guid>https://www.cs.grinnell.edu/~rebelsky/musings/noyce-third</guid>
-      <pubDate>Tue, 12 Jun 2018 02:30:36 GMT</pubDate>
-      <description>My favorite place on campus.</description>
-    </item>
-    <item>
-      <title>Musing #658: Why me?</title>
-      <link>https://www.cs.grinnell.edu/~rebelsky/musings/profile-2018-06-10</link>
-      <guid>https://www.cs.grinnell.edu/~rebelsky/musings/profile-2018-06-10</guid>
-      <pubDate>Mon, 11 Jun 2018 03:00:56 GMT</pubDate>
-      <description>Getting interviewed for a promotional video.</description>
-    </item>
-    <item>
-      <title>Musing #657: Choosing the right word</title>
-      <link>https://www.cs.grinnell.edu/~rebelsky/musings/sanguine</link>
-      <guid>https://www.cs.grinnell.edu/~rebelsky/musings/sanguine</guid>
-      <pubDate>Sun, 10 Jun 2018 00:57:05 GMT</pubDate>
-      <description>If only I could pronounce the right word correctly.</description>
-    </item>
-    <item>
-      <title>Musing #656: Loading zones</title>
-      <link>https://www.cs.grinnell.edu/~rebelsky/musings/loading-zones</link>
-      <guid>https://www.cs.grinnell.edu/~rebelsky/musings/loading-zones</guid>
-      <pubDate>Sat, 09 Jun 2018 02:08:06 GMT</pubDate>
-      <description>These are not your parking spaces.</description>
-    </item>
-    <item>
-      <title>Musing #655: Cyclic imports in Python</title>
-      <link>https://www.cs.grinnell.edu/~rebelsky/musings/cyclic-imports-python</link>
-      <guid>https://www.cs.grinnell.edu/~rebelsky/musings/cyclic-imports-python</guid>
-      <pubDate>Fri, 08 Jun 2018 02:28:35 GMT</pubDate>
-      <description>Ugh.</description>
-    </item>
-    <item>
-      <title>Musing #654: Traveling light</title>
-      <link>https://www.cs.grinnell.edu/~rebelsky/musings/traveling-light</link>
-      <guid>https://www.cs.grinnell.edu/~rebelsky/musings/traveling-light</guid>
-      <pubDate>Thu, 07 Jun 2018 03:57:41 GMT</pubDate>
-      <description> One backpack to hold my laptop, CPAP, and three days' worth of clothes.</description>
-    </item>
-    <item>
-      <title>Musing #653: Getting the preposition right</title>
-      <link>https://www.cs.grinnell.edu/~rebelsky/musings/preposition-github</link>
-      <guid>https://www.cs.grinnell.edu/~rebelsky/musings/preposition-github</guid>
-      <pubDate>Wed, 06 Jun 2018 01:47:05 GMT</pubDate>
-      <description>Although "to" and "on" share a vowel, they are different prepositions.</description>
-    </item>
-    <item>
-      <title>Musing #652: "Checking in" (a quick teaching tip)</title>
-      <link>https://www.cs.grinnell.edu/~rebelsky/musings/checking-in-absences</link>
-      <guid>https://www.cs.grinnell.edu/~rebelsky/musings/checking-in-absences</guid>
-      <pubDate>Tue, 05 Jun 2018 04:21:45 GMT</pubDate>
-      <description>Reacting to absences.</description>
-    </item>
-    <item>
-      <title>Musing #651: I'm so confused!</title>
-      <link>https://www.cs.grinnell.edu/~rebelsky/musings/confused-comphistory-languages</link>
-      <guid>https://www.cs.grinnell.edu/~rebelsky/musings/confused-comphistory-languages</guid>
-      <pubDate>Mon, 04 Jun 2018 04:17:17 GMT</pubDate>
-      <description>Unexpected PL influences.</description>
-    </item>
-    <item>
-      <title>Musing #650: Textbooks and the bookstore</title>
-      <link>https://www.cs.grinnell.edu/~rebelsky/musings/textbooks-bookstore-2018-06-02</link>
-      <guid>https://www.cs.grinnell.edu/~rebelsky/musings/textbooks-bookstore-2018-06-02</guid>
-      <pubDate>Sun, 03 Jun 2018 01:07:46 GMT</pubDate>
-      <description>Reflecting on some sales choices.</description>
-    </item>
-    <item>
-      <title>Musing #649: Comments from a panel at reunion</title>
-      <link>https://www.cs.grinnell.edu/~rebelsky/musings/reunion-panel-2018-05-31</link>
-      <guid>https://www.cs.grinnell.edu/~rebelsky/musings/reunion-panel-2018-05-31</guid>
-      <pubDate>Sat, 02 Jun 2018 03:07:23 GMT</pubDate>
-      <description>Why did they ask me to participate?</description>
     </item>
   </channel>
 </rss>

@@ -915,3 +915,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Badly designed software](badly-designed-software-2018-07-28) (Musing #702)  
 [Inbox zero, revisited, stage five](inbox-zero-revisited-05) (Musing #703)  
 [Learning to appreciate Peter Max](peter-max) (Musing #704)  
+[Another month of daily musings](another-month-2018-07) (Musing #705)  

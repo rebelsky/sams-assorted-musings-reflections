@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Learning to appreciate Peter Max](peter-max) (Musing #704)
+[Another month of daily musings](another-month-2018-07) (Musing #705)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

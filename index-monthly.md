@@ -55,7 +55,7 @@ most of them here._
 
 [Thirteen months of daily musings](thirteen-months) (Musing #432)
 
-> Annother anniversary.
+> Another anniversary.
 
 [Another month of daily musings](another-month-2018-01) (Musing #526)
 
@@ -80,4 +80,8 @@ most of them here._
 [Another month of daily musings](another-month-2018-06) (Musing #672)
 
 > Shorter musings than normal.  Fewer musings than normal.
+
+[Another month of daily musings](another-month-2018-07) (Musing #705)
+
+> Rant less.  Code more.
 
