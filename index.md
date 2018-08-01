@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Inbox zero, revisited, stage five](inbox-zero-revisited-05) (Musing #703)
+[Learning to appreciate Peter Max](peter-max) (Musing #704)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

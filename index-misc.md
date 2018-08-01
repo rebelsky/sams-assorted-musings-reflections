@@ -600,3 +600,7 @@ Almost everything else
 
 > It could be an awesome game.
 
+[Learning to appreciate Peter Max](peter-max) (Musing #704)
+
+> Now I think I understand.
+
