@@ -16,43 +16,15 @@ The next weekly log
 The next end of month musing
 ----------------------------
 
-* Goals: No rants.  Weekly musing about inbox zero.  Read Williams and
-  start to edit.  Did I succeed?  (It was hard; I'm a curmudgeon and have
-  a lot to rant about.)  (I ranted about an absurd suggestion that a
-  high-school class in programming should substitute for a high-school
-  class in a non-native language.)  Didn't start to edit.
-* Michelle said it’s not so much a rant as an explanation of why CS is not a substitute for a foreign language. But it feels like most of my rants can be phrased that way. Complaints about our new campaign?  It’s an explanation of why bad grammar does not represent Grinnell. 
-* Next month: Accumulated rants (probably).
-* A few days early in the month in which I missed one day and then posted
-  twice on the next day.  One rant that was so important that I made it
-  the second rant of the day.
-* Continue to learn that people I never expected to read my musings do
-  actually read my musings.  A colleague who hasn't worked at Grinnell
-  in a decade.  A few alums.  And some others I forget.
-* Oooh, getting scraped for link advertisements.
-> Hi Samuel,
-
-> I noticed you have a link to the Hemingway Editor on your site - http://www.math.grin.edu/~rebelsky/musings/seven-months and I just wanted to tell you about one of our guides which you might also like.
-
-> Our section on writing better blog posts (https://blogging.im/betterblogposts) covers the basics like brainstorming ideas and improving readability (which obviously the Hemingway Editor helps with too) to optimizing headline length and tweaking for search engine visibility.
-
-> Perhaps you could add a link to this as well? If your users find the Hemingway app useful then chances are they’ll also get value from our guide.
-
-> Please let me know your thoughts.
-
-> Thank you in advance.
-
-> -Tom
-
-> `---`
-> Tom Howard
-> Community Manager
+* Goals for the month: Various projects.  Start at UIowa.  Rant more.
+  (Smile less).  Inbox zero.  Also said that I might muse more about the
+  code camps.
 
 On particular dates
 -------------------
 
-1. July 30, 2018: Dad (maybe).  Or maybe the new "Outliving my father."
-1. July 31, 2018: End-of-month musing.
+1. August 22, 2018: First day at UIowa.
+1. August 31, 2018: End-of-month musing.
 1. November 1, 2018: NaNoWriMo (On writing.)  (Or National Technical
    Book Writing Month)
 1. November 11, 2018: 11/11.  
@@ -76,13 +48,20 @@ _Tags/style: rants, talks_
 
 _Tags/content: autobiographical, data science, delayed, email, grinnell, joc, language, meta, overcommittment, Racket, technical (not the same as technology), technology_
 
-1. Worse slogans: "The world needs more cowboys".  :misc:marketing:short:draft:  `worse-slogans-cowboys`
+1. A fun conversation :draft:short:misc:  `fun-conversation-2018-08-01`
 
-1. Inbox zero, revisited, stage 5  :email:rambly:  
+1. Legacy code :rants:joc:misc:  I have to run a program that I inherited.
+I run it once per year.  When I inherited it, I discovered that it used a
+feature that was deprecated in the language.  Today, I went to run it again.
+Guess what?  The feature has moved from deprecated to deleted?  Now I have
+to rewrite code.  Whee!
 
-1. Configuring the code camps.  :code-camps:joc:technical:draft:  `code-camp-lac-configure`
+1. Old, now vintage :rants:short:draft:computers:
 
-1. Code triage.  :miscellaneous:short:draft:
+1. Knowing courses vs. Knowing the Invisible :academia:rambly:short:
+<https://www.chronicle.com/article/A-Crowdsourced-Tool-Helps/244036>
+
+1. Inbox zero, revisited, stage 6  :email:rambly:  
 
 1. Should I buy Grammarly premium?  :meta:language:technology:short:sketch: `buying-grammarly-premium`
 
@@ -114,14 +93,6 @@ last name.
 
 1. A syllabus for the Language and Code camp.  :code-camps:teaching:
 This may never appear.
-
-1. Camper setup.  :code-camps:teaching:joc:
-Want to make things easy for the campers, so writing a script to set up
-their account.
-
-1. Language generation in Racket.  :code-camps:teaching:racket:
-
-1. Transforming Web pages in Racket.  :code-camps:teaching:racket:
 
 1. Week two of Code Camps.  :code-camps:teaching:data science:
 
@@ -196,7 +167,7 @@ the first two lessons come from the last day of class speech that I stole
 from mom. But it's nice to see that I model behavior for the students.
 (I can then add a bunch of followups.)
 
-1. Redirects.  :misc:short:
+1. Redirects.  :misc:short:rants:
 The other day, I was reading my daily email message from Book Bub.  For
 those who don't know, Book Bub recommends books that are currently on sale
 on Amazon.  Book Bub also has some advertisements for books.  I clicked
@@ -211,11 +182,7 @@ every URL to go to a urldefense site first.  Have we turned off
 urldefense?  Let's see ... Oh, it appears that urldefense is not used
 for really long links.  Wow, that makes me feel secure.
 
-1. The other Rebelskys.  :autobiographical:short:
-
 1. The list ADT.  :teaching:joc:sketch:  `list-adt`
-
-1. Fun with macros.  :joc:racket:code camps:short:  `joc-one-of.md`
 
 1. How do I approach that problem?  :teaching:sketch:
 In our recent debrief of exit interviews, one particular comment from
@@ -234,8 +201,6 @@ few students take careful notes on the broader problem issue.
 1. Arts and computing.  :teaching:sketch: `arts-and-computing`.  
 
 1. Down a (programming) language rabbithole.  :misc:sketch: `pharo.md`
-
-1. Learning to appreciate Peter Max :art:short:sketch:  `peter-max.md`
 
 1. Take-home exams.  (Why I give them, etc.)  :teaching:
 
@@ -296,20 +261,42 @@ What to do if someone pushes non-working code to the main branch.
 1. The classroom goes public.  :academia:teaching:reaction:
 <https://www.chronicle.com/article/What-Happens-in-the-Classroom/243974>
 
+1. Code style  :joc:teaching:sketch:  `code-style`
+
+1. More introduction.  :meta:sketch:rambly: `intro-musing-topics-v0`.
+
+1. Requiring a cultural competency course.  :grinnell:sketch:
+What would it do to an open curriculum?  Is it necessary?  It may be.
+Do we really want to graduate a student who has not thought carefully
+about these issues?  (Of course, do we really want to graduate a
+student who cannot read graphs, charts, and data in a newspaper?
+At what point does "Do we really want to graduate _this student_
+become an exercise in adding requirements?)  What would it be like
+to teach that course?  (Some portion of the students would clearly
+object to being there.)  I did have a debate about this with the
+legendary Karla Erickson.  I'm not sure what side I took.
+
+1. Tagging the musings. :meta:short:sketch:
+See notes above.
+
+1. Why I complain about software.  :rants:software: I complain a lot
+about bad software.  And I think a lot of software is bad.  Here I
+reflect more deeply about these issues.
+
+1. On representing dates and times.  :rants:short:
+Why I hate things like "12:00 p.m." or "6/12/64".
+
+1. Why Grinnell staff with Ph.D's should be allowed to teach.  :rants:old:
+I thought we allowed our Ph.D.-level staff to teach the occasional course.
+Then I learned that it's only in very specific situations.  These are
+my attempts to think through the matter.  [Or maybe they've fixed this.]
+
+1. Using mail signatures as templates.  :short:tips:joc:
+
 The stack of musings
 --------------------
 
 ### "High priority"
-
-1. Requiring a cultural competency course.  What would it do to an open
-   curriculum?  Is it necessary?  It may be.  Do we really want to graduate a
-   student who has not thought carefully about these issues?  (Of course, do
-   we really want to graduate a student who cannot read graphs, charts, and
-   data in a newspaper?  At what point does "Do we really want to graduate
-   _this student_ become an exercise in adding requirements?)  What would
-   it be like to teach that course?  (Some portion of the students would
-   clearly object to being there.)  I did have a debate about this with
-   the legendary Karla Erickson.  I'm not sure what side I took.
 
 1. We've been Ologized.  (Let's hope that we're not eulogized.)
 
@@ -333,9 +320,6 @@ The stack of musings
    the rest of us to?
    Communication on campus.
    DRY.  (Oh, yeah, that's why I'm frustated as a coputer scientist.)
-
-1. Tagging the musings. Or does this just get incorporated into the
-   next end-of-month musing?
 
 1. Teaching CS is teaching writing.  Maybe use all the versions of
    `iota` that I recently covered in class.  (It's now less recent.)
@@ -470,20 +454,6 @@ hours.  But if you have fifty hours planned per week ....
   support a student who is having severe difficulties, writing a series
   of recommendation letters, ....  My [recent musing about spring break](planning-spring-break-2018) just reinforces that.  I currently have something like 240 hours of outstanding work to do.  ...
 
-### Delayed rants (formerly hidden in the system)
-
-1. Why I complain about software.  I complain a lot about bad software.
-And I think a lot of software is bad.  Here I reflect more deeply about
-these issues.
-
-1. On representing dates and times.  Why I hate things like "12:00
-p.m." or "6/12/64".
-
-1. Why Grinnell staff with Ph.D's should be allowed to teach.  I thought
-we allowed our Ph.D.-level staff to teach the occasional course.  Then I
-learned that it's only in very specific situations.  These are my attempts
-to think through the matter.  [Or maybe they've fixed this.]
-
 ### Added recently
 
 1. A family-friendly college :grinnell:academia:short:
@@ -491,13 +461,11 @@ Jennifer Weinman's request: " think a good future musing (add it to your list...
 
 1. Spaces after sentences.  <https://www.washingtonpost.com/news/speaking-of-science/wp/2018/05/04/one-space-between-each-sentence-they-said-science-just-proved-them-wrong-2/>
 
-1. Drawers (on the Web site) (or have I now written enough about them).
+1. Drawers (on the Web site) (or have I now written enough about them). :rants:short:web:
 
 1. Musings or images?  When I post a musing, I get a few likes and a few comments.  When I post an image and a short note, I get a a few dozen likes and a few comments.  Should I take pictures rather than musing?  Nah.  Musing is better for me.
 
 1. <http://recodeproject.com/>
-
-1. More introduction.  `intro-musing-topics-v0`.
 
 1. Dynamic typefaces.  https://www.typotheque.com/blog/wind_a_layered_typeface_for_optical_illusions
 
@@ -680,8 +648,6 @@ compare them.  These are some thoughts on that process.
    with Mike Guenther.  Technology policy as part of policy studies.
    Piracy :-).  But more than any of those, I'd like to teach Tutorial
    again.
-
-1. Using mail signatures as templates.
 
 1. Cascading consequences.  Change in schedule of courses that eliminates
    one of our primary teaching slots.  So we start to move from 4x50
