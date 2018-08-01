@@ -83,7 +83,7 @@ Postscript: For the past few months, I've done a "data dump" of the
 categories and numbers of forthcoming musings as part of my end-of-month
 musing.  I was considering separating that data dump into a separate
 musing.  However, I'm not sure that counts of forthcoming musings are
-interesting to anyone but me.  So there's staying here for now.
+interesting to anyone but me.  So they're staying here for now.
 
 Every month, I say that I might rearrange the list of forthcoming musings
 in the coming month.  I made a few more changes than normal this month
@@ -170,4 +170,6 @@ relating to inbox zero.
 
 ---
 
-*Version 1.0 of 2018-06-30.*
+*Version 1.0 released 2018-06-30.*
+
+*Version 1.0.1 of 2018-07-31.*
