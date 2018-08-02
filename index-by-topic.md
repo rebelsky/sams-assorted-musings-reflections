@@ -3073,6 +3073,10 @@ Almost everything else
 
 > Now I think I understand.
 
+[A fun conversation](fun-conversation-2018-08-01) (Musing #706)
+
+> It was fun to muse about, too.
+
 Musings with multiple entries
 -----------------------------
 
