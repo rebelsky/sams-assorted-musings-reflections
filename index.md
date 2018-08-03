@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[A fun conversation](fun-conversation-2018-08-01) (Musing #706)
+[Upgrading unfamiliar software](upgrading-unfamiliar-software) (Musing #707)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

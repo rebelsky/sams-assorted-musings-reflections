@@ -917,3 +917,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Learning to appreciate Peter Max](peter-max) (Musing #704)  
 [Another month of daily musings](another-month-2018-07) (Musing #705)  
 [A fun conversation](fun-conversation-2018-08-01) (Musing #706)  
+[Upgrading unfamiliar software](upgrading-unfamiliar-software) (Musing #707)  

@@ -73,3 +73,7 @@ The joy of code
 
 > The joy of debugging code.
 
+[Upgrading unfamiliar software](upgrading-unfamiliar-software) (Musing #707)
+
+> The "joy" of legacy code, particularly when "deprecated" becomes "unavailable".
+
