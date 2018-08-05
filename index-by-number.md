@@ -918,3 +918,5 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Another month of daily musings](another-month-2018-07) (Musing #705)  
 [A fun conversation](fun-conversation-2018-08-01) (Musing #706)  
 [Upgrading unfamiliar software](upgrading-unfamiliar-software) (Musing #707)  
+[Reflections on some Grinnell policies](policy-reflections-2018-08-04) (Musing #708)  
+[Extra-credit policies and wellness](wellness-extra-credit) (Musing #709)  

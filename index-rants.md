@@ -342,3 +342,7 @@ Rants
 
 > Don't delete user files.
 
+[Reflections on some Grinnell policies](policy-reflections-2018-08-04) (Musing #708)
+
+> That is, policies we need to change.
+

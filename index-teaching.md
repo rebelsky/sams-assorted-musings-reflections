@@ -96,3 +96,7 @@ online, but they will soon expand to more general issues about teaching._
 
 > Inappropriate but useful.
 
+[Extra-credit policies and wellness](wellness-extra-credit) (Musing #709)
+
+> Making the implicit explicit.
+

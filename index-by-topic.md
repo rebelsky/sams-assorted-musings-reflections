@@ -1010,6 +1010,10 @@ Rants
 
 > Don't delete user files.
 
+[Reflections on some Grinnell policies](policy-reflections-2018-08-04) (Musing #708)
+
+> That is, policies we need to change.
+
 Assorted talks and speeches
 ---------------------------
 
@@ -1369,6 +1373,10 @@ online, but they will soon expand to more general issues about teaching._
 [Rate you professors' ... Hotness?](rmp-chili-peppers) (Musing #674)
 
 > Inappropriate but useful.
+
+[Extra-credit policies and wellness](wellness-extra-credit) (Musing #709)
+
+> Making the implicit explicit.
 
 Code camps
 ----------
