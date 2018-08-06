@@ -131,16 +131,18 @@ For this one, I'll stick with bullet points.
 * Experimentation: What are the effects of changing [this part]?
 * But not: Let's understand the statistics  
 
+**Epilogue**
 
-Coming in a future musing: My attempt to write out my presentation.  I'm not
-accustomed to writing presentations; I generally ad lib.  But it seems like
-I might be better writing this one.  We'll see if I have time.
+All told, I spent a bit over four hours on the slide deck.  I could have
+spent more, but I had to turn it in.  The worst parts are (a) knowing that
+I really need to redesign the whole thing and (b) realizing soon after
+I sent them in that I wanted ot make more changes.  Oh well, that' s an
+issue for another time.
 
-done
-humanities projects; students
-include my disclaimer that 
-
-
+Coming in a future musing: My attempt to write out the text of my
+presentation.  I'm not accustomed to writing presentations; I generally
+ad lib.  But it seems like I might be better writing this one.  We'll see
+if I have time.
 
 ---
 
@@ -184,4 +186,4 @@ an important point I wanted to include.  Plus, now I get three "R" words.
 
 ---
 
-*Version 0.9 of 2016-08-06.*
+*Version 0.91 of 2016-08-06.*
