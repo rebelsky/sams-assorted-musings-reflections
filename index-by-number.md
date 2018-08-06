@@ -920,3 +920,8 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Upgrading unfamiliar software](upgrading-unfamiliar-software) (Musing #707)  
 [Reflections on some Grinnell policies](policy-reflections-2018-08-04) (Musing #708)  
 [Extra-credit policies and wellness](wellness-extra-credit) (Musing #709)  
+[Sometimes it's best to rely on professionals](ceiling-fan) (Musing #710)  
+
+## 711-720
+
+[Doing it yourself](side-view-mirror) (Musing #711)  

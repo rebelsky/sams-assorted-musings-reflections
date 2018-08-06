@@ -10,9 +10,9 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musings:
-[Reflections on some Grinnell policies](policy-reflections-2018-08-04) (Musing #708)
+[Sometimes it's best to rely on professionals](ceiling-fan) (Musing #710)
 and
-[Extra-credit policies and wellness](wellness-extra-credit) (Musing #709)
+[Doing it yourself](side-view-mirror) (Musing #711)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

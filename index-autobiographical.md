@@ -257,3 +257,11 @@ Autobiographical essays, more or less
 
 > Sometimes organizing can be fun.
 
+[Sometimes it's best to rely on professionals](ceiling-fan) (Musing #710)
+
+> Dealing with a broken ceiling fan.
+
+[Doing it yourself](side-view-mirror) (Musing #711)
+
+> Dealing with a broken side-view mirror.
+

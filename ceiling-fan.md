@@ -36,9 +36,9 @@ fall and I landed on my feet.  But my knees and ankles are still feeling
 it a few days later.  And I knocked my helper over, too.  As you might
 guess, falling also ruined all of the work.
 
-At that point, the fan was in even more precarious state than when we
-started.  But I was in no shape to go back on the ladder.  We made sure
-the power was off to the fan and left it for the night.
+At that point, the fan was in an even more precarious state than when
+we started.  But I was in no shape to go back on the ladder.  We made
+sure the power was off to the fan and left it for the night.
 
 The next day, we called an electrician.  As he was trying to put things
 back together, he noted that the box we had attached the fan to wasn't
@@ -57,4 +57,4 @@ That's not such a good idea if you have a low ceiling and a fan going.
 
 ---
 
-*Version 0.5 of 2018-08-04.*
+*Version 1.0 of 2018-08-05.*
