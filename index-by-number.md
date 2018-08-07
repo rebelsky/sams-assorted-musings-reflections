@@ -925,3 +925,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 ## 711-720
 
 [Doing it yourself](side-view-mirror) (Musing #711)  
+[A blurb for the new CSC 151](csc151-dighum-blurb) (Musing #712)  

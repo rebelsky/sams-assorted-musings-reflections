@@ -1,14 +1,14 @@
 A blurb for the new CSC 151
 ===========================
 
-*Topics/tags: [Teaching](index-teaching), CSC 151, Digital humanities, writing and editing*
+*Topics/tags: [Editing](index-writing], [teaching](index-teaching), CSC 151, digital humanities, things I had to write, long*
 
 In spring 2018, I'll be teaching a new version of CSC 151, Grinnell's
-introductory course in cmoputer science that uses the Digital Humanities
+introductory course in computer science that uses the Digital Humanities
 as its theme.  This will be the third-and-a-half new version of the
 course that I've designed or helped design in my career.  Why half?
 When I first taught the course, nearly two decades ago, I kept the
-structure of the course generally the same, but made some significant
+structure of the course generally the same but made some significant
 changes to the course materials and to the pedagogy [1].  A bit more than
 a decade ago, Janet Davis, Matthew Kluber, and I reworked the class to
 focus on the theme of image making.  At the time, we planned that that
@@ -27,9 +27,9 @@ on a nine-month contract and am therefore unable to work during the summer
 particularly when the strange policies are not their fault.  Hence,
 I'm attempting to write a blurb for the course.  I'll admit that it's a
 bit strange to write a blurb for a course that I have not yet designed;
-after all, designing the course is my primary goal for the fall.  But I
-guess I'll need to do my best.  A musing seems like the best place to 
-draft the text.
+after all, designing the course is my primary goal for the fall.  I guess
+I'll just need to do my best.  A musing seems like the best place to draft
+the text.
 
 What do the previous blurbs look like?  Here's the one for the image-based
 151.
@@ -65,7 +65,7 @@ That's something I should be able to write relatively quickly.  I might
 even be able to describe something that resembles what we'll actually
 do.  But what is it that we'll do?  I'm still trying to work that out.
 We'll certainly consider ways to represent documents, probably focusing
-primarily on XML and HTML [6].  I'm actually looking forward to that aspect,
+primarily on XML and HTML [6].  I'm actually looking forward to that aspect
 since it gives a clear reason to consider trees.  And I should certainly
 give them the opportunity to write one or two simple hypertexts.  I find
 algorithms for language generation interesting.  We are likely to use a
@@ -93,7 +93,7 @@ Includes formal laboratory work.
 But, well, that middle sentence isn't really parallel.  We have "models
 for *representing*", "techniques for *developing*", and "algorithms and
 visualizations *that help*".  Two gerunds and something else.  But I
-can't bring myself to write "for *exploring* and *analyzing*", since the
+can't bring myself to write "for *exploring* and *analyzing*" since the
 algorithms should be used as a starting point for exploration and
 analysis, not for the exploration and analysis themselves.  So I'm going
 to get rid of the gerunds.  I also know from my reading of Williams that
@@ -166,7 +166,7 @@ made it hard for students to run the software on their own computers [9].
 In addition, it appears that we did not fully understand all of the issues
 associated with writing C-based libraries for DrRacket and the system crashed
 once in a while, usually at the least opportune time.  Hence, I'd like to
-rewrite the course to use DrRackets own image system, which has evolved a lot
+rewrite the course to use DrRacket's own image system, which has evolved a lot
 since we first designed the course.  Of course, after I rewrite the course,
 I'll also need to rewrite the blurb.
 
@@ -174,9 +174,24 @@ I'll also need to rewrite the blurb.
 
 Postscript: I've reported on what Grammarly says about the blurb.  What
 does it say about this whole document?  We'll just consider some of the
-highlights [10].  Blurb has a rank of 92.  Document has a rank of NN.
-Blurb takes 20 seconds to read.  Document takes NN.  Blurb is hard to
-read.  Document is ....
+highlights [10].  Grammarly identified many more times that I used
+"problem solving" instead of "problem-solving".  It thinks that "a
+musing" is really "amusing".  Most of the remaining comments are comparatively
+minor.
+
+Let's do some head-to-head comparisons.  The blurb has a rank of 92.
+The musing has a rank of 87.  Of course, I have no idea what "rank" means.
+The blurb takes twenty seconds to read.  The musing takes eight minutes and
+forty-four seconds.  The blurb requires a college education to read.
+The musing "is likely to be understood by a reader who has at least
+an 8th-grade education (age 13-14) and should be fairly easy for most
+adults to read".  The blurb had one premium recommendation about a
+wordy sentence.  The musing  has fifty-seven additional issues, including
+thirty-one instances of word choice, thirteen wordy sentences, two
+instances of weak or uncertain language, two incomplete sentences, two
+inappropriate colloquialisms, two misuses of semicolons or quotation
+marks, and more [12,14,15].
+
 
 ---
 
@@ -208,10 +223,31 @@ schedule.  The blurbs do appear in Web Advisor/Self Service.  However,
 they appear as a bit of a mess.
 
 [9] We did come up with solutions, but they generally involved either
-installing a virtual machine or installing an X-windows client..
+installing a virtual machine or installing an X-windows client.
 
 [10] Or lowlights, as it were.
 
+[11] Heinz!
+
+[12] I was interested to see that the summary of premium issues changes over
+time.  I wonder why.
+
+[14] The next time Grammarly has a sale on premium, I'll consider paying
+for it so that I can laugh at the suggestions and ask for corrections
+on some of the incorrect ones.  More seriously, though, I use Grammarly
+enough for a "quick check" that it's probably worth paying the $75/year
+that it's sometimes on sale for.
+
+[15] Do you know how hard it is to get a fixed point with Grammarly?  Each
+time I change something, I need to run it through to get a new report.  The
+time to read changes.  I change it again.  The time changes.  Then I'm 
+inspired to write something new [16].  The time changes again.  And so on and
+so forth [17].
+
+[16] Such as these last few endnotes.
+
+[17] How's *that* for a colloquialism, Grammarly?
+
 ---
 
-*Version 0.8 of 2018-08-06.*
+*Version 1.0 of 2018-08-06.*

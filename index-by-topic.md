@@ -99,6 +99,10 @@ Essays on writing, or at least on writing my musings
 
 > SamR plays with silly Interweb tools.
 
+[A blurb for the new CSC 151](csc151-dighum-blurb) (Musing #712)
+
+> An exercise in editing.
+
 On language
 -----------
 

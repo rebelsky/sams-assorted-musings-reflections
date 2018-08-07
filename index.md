@@ -9,10 +9,8 @@ If you'd like, you can read [a longer introduction](intro-musings-v0).
 If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
-Latest musings:
-[Sometimes it's best to rely on professionals](ceiling-fan) (Musing #710)
-and
-[Doing it yourself](side-view-mirror) (Musing #711)
+Latest musing:
+[A blurb for the new CSC 151](csc151-dighum-blurb) (Musing #712)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
