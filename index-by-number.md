@@ -926,3 +926,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 
 [Doing it yourself](side-view-mirror) (Musing #711)  
 [A blurb for the new CSC 151](csc151-dighum-blurb) (Musing #712)  
+[Preparing slides for a presentation on the new digital-humanities CSC 151](dighum-presentation-2018-08-07) (Musing #713)  

@@ -1057,6 +1057,10 @@ Assorted talks and speeches
 
 > Why did they ask me to participate?
 
+[Preparing slides for a presentation on the new digital-humanities CSC 151](dighum-presentation-2018-08-07) (Musing #713)
+
+> Making a decent slide deck is hard.
+
 Thank-You Notes
 ---------------
 

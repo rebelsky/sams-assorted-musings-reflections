@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[A blurb for the new CSC 151](csc151-dighum-blurb) (Musing #712)
+[Preparing slides for a presentation on the new digital-humanities CSC 151](dighum-presentation-2018-08-07) (Musing #713)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
