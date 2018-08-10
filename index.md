@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[An approximation of my talk for the Digital Bridges conference](digital-bridges-talk-2018) (Musing #714)
+[Critiquing a comment without critiquing the speaker](gendering-programmers) (Musing #715)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

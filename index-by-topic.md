@@ -1018,6 +1018,10 @@ Rants
 
 > That is, policies we need to change.
 
+[Critiquing a comment without critiquing the speaker](gendering-programmers) (Musing #715)
+
+> Trying to be more polite.  Probably failing.
+
 Assorted talks and speeches
 ---------------------------
 

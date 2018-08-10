@@ -928,3 +928,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [A blurb for the new CSC 151](csc151-dighum-blurb) (Musing #712)  
 [Preparing slides for a presentation on the new digital-humanities CSC 151](dighum-presentation-2018-08-07) (Musing #713)  
 [An approximation of my talk for the Digital Bridges conference](digital-bridges-talk-2018) (Musing #714)  
+[Critiquing a comment without critiquing the speaker](gendering-programmers) (Musing #715)  
