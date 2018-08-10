@@ -41,3 +41,7 @@ Assorted talks and speeches
 
 > Making a decent slide deck is hard.
 
+[An approximation of my talk for the Digital Bridges conference](digital-bridges-talk-2018) (Musing #714)
+
+> Writing the talk to go with the slide deck is also hard.
+
