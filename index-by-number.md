@@ -930,3 +930,5 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [An approximation of my talk for the Digital Bridges conference](digital-bridges-talk-2018) (Musing #714)  
 [Critiquing a comment without critiquing the speaker](gendering-programmers) (Musing #715)  
 [More Norman Doors](norman-sliding-doors) (Musing #716)  
+[Fair fare](bad-choices-fair-fare) (Musing #717)  
+[Watching a livestock competition](state-fair-livestock) (Musing #718)  

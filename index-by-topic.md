@@ -3117,6 +3117,14 @@ Almost everything else
 
 > It was fun to muse about, too.
 
+[Fair fare](bad-choices-fair-fare) (Musing #717)
+
+> Too much fat and sugar.
+
+[Watching a livestock competition](state-fair-livestock) (Musing #718)
+
+> Learning to understand non-verbal communcation.
+
 Musings with multiple entries
 -----------------------------
 
