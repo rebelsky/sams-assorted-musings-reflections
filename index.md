@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Critiquing a comment without critiquing the speaker](gendering-programmers) (Musing #715)
+[More Norman Doors](norman-sliding-doors) (Musing #716)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

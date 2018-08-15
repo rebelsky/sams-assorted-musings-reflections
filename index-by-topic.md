@@ -1022,6 +1022,10 @@ Rants
 
 > Trying to be more polite.  Probably failing.
 
+[More Norman Doors](norman-sliding-doors) (Musing #716)
+
+> The wonder of physical user interfaces.
+
 Assorted talks and speeches
 ---------------------------
 
