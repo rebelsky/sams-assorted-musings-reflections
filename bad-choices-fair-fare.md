@@ -40,7 +40,7 @@ to that much fat.  It was a bad idea.  And my body let me know.  But I'm
 feeling better now.
 
 I may head back to the fair later this week.  If I do, I'm going to try
-to find fairer fair fare [8].
+to find fairer fair fare [9].
 
 ---
 
@@ -66,7 +66,10 @@ nuts.  I learned that from a colleague in bio, to whom I am very grateful.
 [7] They were looking for the deep-fried butter.  They couldn't find it
 and decided that the deep-fried Snickers bar was the next best thing.
 
-[8] Or at least healthier fair fare.
+[8] They tell me that they got a lot of responses for the Facebook video
+of the "cooking" of that treat.
+
+[9] Or at least healthier fair fare.
 
 ---
 
