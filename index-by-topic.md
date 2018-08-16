@@ -1022,6 +1022,10 @@ Rants
 
 > Trying to be more polite.  Probably failing.
 
+[More Norman Doors](norman-sliding-doors) (Musing #716)
+
+> The wonder of physical user interfaces.
+
 Assorted talks and speeches
 ---------------------------
 
@@ -3112,6 +3116,14 @@ Almost everything else
 [A fun conversation](fun-conversation-2018-08-01) (Musing #706)
 
 > It was fun to muse about, too.
+
+[Fair fare](bad-choices-fair-fare) (Musing #717)
+
+> Too much fat and sugar.
+
+[Watching a livestock competition](state-fair-livestock) (Musing #718)
+
+> Learning to understand non-verbal communcation.
 
 Musings with multiple entries
 -----------------------------
