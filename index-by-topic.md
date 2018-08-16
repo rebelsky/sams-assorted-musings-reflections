@@ -1026,6 +1026,10 @@ Rants
 
 > The wonder of physical user interfaces.
 
+[Business cards](business-cards) (Musing #719)
+
+> I give up.
+
 Assorted talks and speeches
 ---------------------------
 

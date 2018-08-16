@@ -10,9 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musings:
-[Fair fare](bad-choices-fair-fare) (Musing #717)
-and
-[Watching a livestock competition](state-fair-livestock) (Musing #718)
+[Business cards](business-cards) (Musing #719)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

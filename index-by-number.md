@@ -932,3 +932,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [More Norman Doors](norman-sliding-doors) (Musing #716)  
 [Fair fare](bad-choices-fair-fare) (Musing #717)  
 [Watching a livestock competition](state-fair-livestock) (Musing #718)  
+[Business cards](business-cards) (Musing #719)  
