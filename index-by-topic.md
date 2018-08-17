@@ -1030,6 +1030,14 @@ Rants
 
 > I give up.
 
+[Vegetarian in Iowa](vegetarian-in-iowa) (Musing #720)
+
+> A challenge.
+
+[Getting the recipient right](email-recipient-chapter) (Musing #721)
+
+> Avoiding the appearance of phishing.
+
 Assorted talks and speeches
 ---------------------------
 

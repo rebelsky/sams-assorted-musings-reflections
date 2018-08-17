@@ -933,3 +933,8 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Fair fare](bad-choices-fair-fare) (Musing #717)  
 [Watching a livestock competition](state-fair-livestock) (Musing #718)  
 [Business cards](business-cards) (Musing #719)  
+[Vegetarian in Iowa](vegetarian-in-iowa) (Musing #720)  
+
+## 721-730
+
+[Getting the recipient right](email-recipient-chapter) (Musing #721)  

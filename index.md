@@ -10,7 +10,9 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musings:
-[Business cards](business-cards) (Musing #719)
+[Vegetarian in Iowa](vegetarian-in-iowa) (Musing #720)
+and
+[Getting the recipient right](email-recipient-chapter) (Musing #721)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
