@@ -56,8 +56,8 @@ Putting everything back together wasn't trivial, but it was
 straightforward.  As the video suggested, the foam was thicker in the
 new mirror than the old, which made it a little harder to screw in [6].
 In the end, we got the mirror in place in under an hour.  It's nice
-to know that there are things I can do myself, least with the help of
-my family.
+to know that there are things I can do myself, at least with the help
+of my family.
 
 ---
 
@@ -84,4 +84,6 @@ the nearby exterior trim.
 
 ---
 
-*Version 1.0 of 2018-08-05.*
+*Version 1.0 released 2018-08-05.*
+
+*Version 1.0.1 of 2018-08-17.*

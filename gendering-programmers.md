@@ -20,7 +20,7 @@ Or
 > How do I avoid the Grinnell smackdown?
 
 I was already planning to put on my curmudgeon hat for [my talk about
-the new CSC 151](digital-bridges-talk-2018) [3].  But there's a limit to
+the new CSC 151](digital-bridges-talk-2018) [2].  But there's a limit to
 how many curmudgeonly comments I should make.  Although our commitment to
 diversity was a central part of the talk, I didn't consider it appropriate
 to add a blunt comment like the following.
@@ -34,7 +34,7 @@ were interesting and I wanted to pay attention.  So I figured that I would
 let it pass.
 
 Then came my time to talk.  I was reminded that I can't follow a scripted
-speech [4].  And, somewhere in my talk, I started to refer to programmers.
+speech [3].  And, somewhere in my talk, I started to refer to programmers.
 I said something like,
 
 > When you talk to your programmer and *she* goes on to implement a solution ...
@@ -48,18 +48,18 @@ Postscript: Does posting this musing undermine my efforts?  I wonder.
 
 ---
 
-[2] "You go to the programmer and he ..."
+[1] "You go to the programmer and he ..."
 
-[3] In case you couldn't tell, I dislike suggestions that we replace
+[2] In case you couldn't tell, I dislike suggestions that we replace
 "foreign language" requirements with computer science (or computer
 programming) requirements.
 
-[4] More precisely, I can't follow a planned speech that's on the screen
+[3] More precisely, I can't follow a planned speech that's on the screen
 of my laptop.  I do much better with paper.
 
 ---
 
 *Version 1.0 released 2018-08-09.*
 
-*Version 1.1 of 2018-08-09.*
+*Version 1.1.1 of 2018-08-17.*
 

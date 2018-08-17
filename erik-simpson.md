@@ -85,9 +85,10 @@ Grinnell [25].
 
 [2] And I am perhaps too much of one.
 
-[3] For those of you who haven't been paying new complex is Alumni
-Recitation Hall (ARC) + Carnegie - the former bookstore - the old mailroom
-+ about as much space is already contained in those spaces, if not more.
+[3] For those of you who haven't been paying attention, the new complex
+is Alumni Recitation Hall (ARC) + Carnegie - the former bookstore - the
+old mailroom + about as much space is already contained in those spaces,
+if not more.
 
 [4] It seems that people are coming to call this HSSC.  I'm looking
 forward to having an alum (or alums) donate enough money that we name it,
@@ -133,7 +134,7 @@ being much more consistent in his approach.
 
 [14] Say, for example, my inability to grade promptly, if at all.
 
-[16] Here's an illustrative example from _Literary Minstrelsy, 1770-1830:
+[15] Here's an illustrative example from _Literary Minstrelsy, 1770-1830:
 Minstrels and Improvisers in British, Irish, and American Literature_.
 
 > 30. An exception to the general lack of Irish sources, the Goldsmith
@@ -156,7 +157,7 @@ Minstrels and Improvisers in British, Irish, and American Literature_.
   that subtly suggest a transnational alternative to accommodating
   British interests.  A Trumpener writes, "the Lowlanders' carefully
   sentimentalized relationship, sixty years after Culloden, toward
-  Highland culture, has no easy parallel in Ireland" (132). [16,20,n]
+  Highland culture, has no easy parallel in Ireland" (132). [16,20,21]
 
 [16] Simpson, 172. [17]
 
@@ -179,22 +180,21 @@ But I'll admit that these days, I am less careful about the style I
 use, in part because my professional society seems to be varying its
 own recommendations.
 
-[20] I must admit that, in transcribing this endnote, I ended up translated
-single quotation marks in the Trumpener quote to double quotation marks.
-Why?  Because I confused the apostrophe to indicate a possessive after
-"Lowlanders" with an end quotation mark.
+[20] I must admit that, in transcribing this endnote, I ended up
+translating single quotation marks in the Trumpener quote to double
+quotation marks.  Why?  Because I confused the apostrophe to indicate
+a possessive after "Lowlanders" with an end quotation mark.
 
 [21] Should we make a list of how I would have done this differently,
 other than my inability to do this level of analysis?  Probably not,
 a complete list, but perhaps a few.  I probably would have made a joke
-about how one scribbles desserts on a tablet, taught my readers that
-XVIII is read "eighteen", and riffed on the question as to whether,
-the "the" in "the fragment is titled" should have been capitalized.
-But none of that would have advanced the primary thesis of the chapter,
-and so would not really belong there.  Oh, yes, I would have probably
-included a long digression on the difference between "minstrelry" and
-"minstrelsy", although that probably would not have appeared in this
-footnote.
+about how one scribbles on a tablet, taught my readers that XVIII is
+read "eighteen", and riffed on the question as to whether, the "the" in
+"the fragment is titled" should have been capitalized.  But none of that
+would have advanced the primary thesis of the chapter, and so would not
+really belong there.  Oh, yes, I would have probably included a long
+digression on the difference between "minstrelry" and "minstrelsy",
+although that probably would not have appeared in this footnote.
 
 [22] I'm pretty sure that an institution with about 16K undergraduates
 is not a liberal arts college.
@@ -217,4 +217,6 @@ across Park.
 
 ---
 
-*Version 1.0.2 of 2018-01-02.*
+*Version 1.0 released 2016-11-07.*
+
+*Version 1.1 of 2018-08-17.*
