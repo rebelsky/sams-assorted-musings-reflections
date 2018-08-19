@@ -60,8 +60,8 @@ consulting us?  'Eh, I've dealt with worse.  But "We won't let you
 include appropriate contact information"?  That's absurd.
 
 Communications should be willing to acknowledge the reasonable needs
-of faculty.  They aren't.  I've reached my limit.  Screw it.  I guess
-I don't need business cards.
+of faculty and staff.  They aren't.  I've reached my limit.  Screw it.
+I guess I don't need business cards.
 
 ---
 
@@ -83,4 +83,6 @@ Grinnell, IA  50112 USA
 
 ---
 
-*Version 1.0 of 2018-08-15.*
+*Version 1.0 released 2018-08-15.*
+
+*Version 1.0.1 of 2018-08-18.*
