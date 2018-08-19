@@ -1038,6 +1038,10 @@ Rants
 
 > Avoiding the appearance of phishing.
 
+[Old or vintage?](old-or-vintage-macbook) (Musing #722)
+
+> Computers become "vintage" way too quickly.
+
 Assorted talks and speeches
 ---------------------------
 

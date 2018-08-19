@@ -9,10 +9,8 @@ If you'd like, you can read [a longer introduction](intro-musings-v0).
 If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
-Latest musings:
-[Vegetarian in Iowa](vegetarian-in-iowa) (Musing #720)
-and
-[Getting the recipient right](email-recipient-chapter) (Musing #721)
+Latest musing:
+[Old or vintage?](old-or-vintage-macbook) (Musing #722)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

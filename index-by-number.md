@@ -938,3 +938,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 ## 721-730
 
 [Getting the recipient right](email-recipient-chapter) (Musing #721)  
+[Old or vintage?](old-or-vintage-macbook) (Musing #722)  
