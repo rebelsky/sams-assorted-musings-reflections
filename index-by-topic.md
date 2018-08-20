@@ -2404,6 +2404,10 @@ Autobiographical essays, more or less
 
 > Dealing with a broken side-view mirror.
 
+[Fair rides](fair-rides) (Musing #723)
+
+> Different choices Michelle and I make.
+
 Salary reviews
 --------------
 

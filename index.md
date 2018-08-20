@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Old or vintage?](old-or-vintage-macbook) (Musing #722)
+[Fair rides](fair-rides) (Musing #723)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
