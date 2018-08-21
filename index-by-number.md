@@ -941,3 +941,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Old or vintage?](old-or-vintage-macbook) (Musing #722)  
 [Fair rides](fair-rides) (Musing #723)  
 [Reflections on the new data-science-themed CSC 151](csc151-datacsci-reflections) (Musing #724)  
+[FedEx signatures](fedex-signatures) (Musing #725)  

@@ -1042,6 +1042,10 @@ Rants
 
 > Computers become "vintage" way too quickly.
 
+[FedEx signatures](fedex-signatures) (Musing #725)
+
+> Inconvenient, at best.
+
 Assorted talks and speeches
 ---------------------------
 

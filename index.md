@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Reflections on the new data-science-themed CSC 151](csc151-datacsci-reflections) (Musing #724)
+[FedEx signatures](fedex-signatures) (Musing #725)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
