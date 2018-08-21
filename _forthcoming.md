@@ -19,6 +19,11 @@ The next end of month musing
 * Goals for the month: Various projects.  Start at UIowa.  Rant more.
   (Smile less).  Inbox zero.  Also said that I might muse more about the
   code camps.
+* Mused a lot about my digital humanities work.
+* Explored issues of editing in writing [a blurb for the new CSC 151](csc151-dighum-blurb).  Afterwards, I realized that [I'd written something similar about
+a year-and-a-half earlier](csc151-datascience-draft).  In both cases,
+Grammarly told me to hyphenate "problem solving".  In both cases, I decided
+it was wrong.  In the earlier case, I went and looked for evidence.
 
 On particular dates
 -------------------
@@ -42,28 +47,63 @@ _This represents my attempt to categorize the musings a bit.  Musings
 may have multiple categories.  After the title, you'll find the topics
 surrounded by parentheses._
 
-_Tags/form or meta: delayed, draft, long, rambly (I don't think I've used that yet) short, sketch_
+_Tags/form or meta: delayed, draft, long, rambly (I've used that in released musings, but not in the sektchbook), revisit, short, sketch_
 
 _Tags/style: rants, talks_
 
-_Tags/content: autobiographical, data science, delayed, email, grinnell, joc, language, meta, overcommittment, Racket, technical (not the same as technology), technology_
+_Tags/content: accessibility, autobiographical, CSC 151, data science, delayed, digital humanities, email, grinnell, joc, language, meta, overcommittment, Racket (or Scheme; I'm not consistent), technical (not the same as technology), technology (not the same as technical)_
 
-1. A fun conversation :draft:short:misc:  `fun-conversation-2018-08-01`
+1. Advertisements for ghost writers.  :rants:long:language:draft: `ghost-writer-ads`.
 
-1. Legacy code :rants:joc:misc:  I have to run a program that I inherited.
-I run it once per year.  When I inherited it, I discovered that it used a
-feature that was deprecated in the language.  Today, I went to run it again.
-Guess what?  The feature has moved from deprecated to deleted?  Now I have
-to rewrite code.  Whee!
+1. Sabbatical proposal.  :misc:long:draft:  `sabbatical-2019-draft`.
 
-1. Old, now vintage :rants:short:draft:computers:
+1. I've become my mother (sending articles to people).  :autobiographical:short: `becoming-my-mother-articles`.
+
+1. Nonsequiters anonymous.  :short:sketch:  `nonsequiters-anonymous`
+
+1. Making breakfast.  :authobiographical:short:sketch:
+Write about making french toast and thinking back to mom.  Perhaps also
+the other breakfast foods in our house: Omelettes and my dad's omelette
+pan and baked eggs.  Maybe grandma's baked apples.  I should make those!
+These days, bagels are part of the family repoirtoire.
+
+1. Odd Bodkins.  :reviews:autobiographical:strips:
+http://pdf.oac.cdlib.org/pdf/berkeley/bancroft/p2013_022_cubanc_aspace.pdf
+
+1. I'm an introvert.  :autobiographical:short:
+When I was first accepted as an Obermann Digital Bridges fellow at UIowa,
+I was hopeful that I would have someone to commute with.  But the other
+Grinnell fellow lives in or near Iowa City.  So I'm driving on my own.  And
+I'm realizing that that's a good thing.  I'm an introvert.  I appreciate time
+to myself.  Sometimes I forget how much I appreciate that time.
+
+1. Font choices.  :teaching:technology:accessibility:
+Grinnell's insistence on using a display font for running text, as well
+as some comments of the effects of Futura on students with reading issues,
+has gotten me thinking more about ways to use fonts for messaging.  I was
+considering using a dyslexic-friendly font, such as OpenDyslexic.  Then
+I found a study.
+<https://blog.dyslexia.com/good-fonts-for-dyslexia-an-experimental-study/>
+
+1. "Wicked Neat"  <https://owlcation.com/humanities/Wicked-Slang-Origin> :language:short:
+
+1. Jekyll or Scribble or ...?  :dighum:sketch:teaching: `jekyll-scribble-or.md`
+
+1. Fun things that I can't attend: The Leonardo Convening :short:art:
+   <https://www.leonardo.info/convening>
+
+1. Old or vintage? :rants:short:draft:computers: `old-or-vintage.md`
 
 1. Knowing courses vs. Knowing the Invisible :academia:rambly:short:
 <https://www.chronicle.com/article/A-Crowdsourced-Tool-Helps/244036>
 
+1. Down yet another rabbithole.  :misc:art:draft: `rabbithole-fulgate-wilcox`
+
 1. Inbox zero, revisited, stage 6  :email:rambly:  
 
 1. Should I buy Grammarly premium?  :meta:language:technology:short:sketch: `buying-grammarly-premium`
+
+1. Cowboys, revisited.  :misc:revisit:short:
 
 1. Becoming an icon (no, the other kind).  :misc:short:
 
@@ -77,6 +117,8 @@ ability to support many of our students.  Whenever I get frustrated
 with the institution, I have to remember those things.) 
 
 1. Writing daily.  :writing:short:  `writing-daily`
+
+1. Grammarly vs. MS Word. :writing:short:meta:
 
 1. "The Google Thing".  :meta:short:sketch:delayed:  `the-google-thing`
 
@@ -200,11 +242,12 @@ few students take careful notes on the broader problem issue.
 
 1. Arts and computing.  :teaching:sketch: `arts-and-computing`.  
 
+1. `vi`  :technical:misc:
+<https://thenewstack.io/a-look-at-vim-a-text-editor-for-the-ages/>
+
 1. Down a (programming) language rabbithole.  :misc:sketch: `pharo.md`
 
 1. Take-home exams.  (Why I give them, etc.)  :teaching:
-
-1. FedEx signatures. :rant:short:sketch:  `fedex-signatures`
 
 1. Friday the 13th.  :misc:pogo:short:  Three in 2026!  (I've done
 it once already, so I need to think of other things to write about it.)
@@ -292,6 +335,21 @@ Then I learned that it's only in very specific situations.  These are
 my attempts to think through the matter.  [Or maybe they've fixed this.]
 
 1. Using mail signatures as templates.  :short:tips:joc:
+
+1. Strange student requests.  :rants:teaching:short:sketch:
+About once per week, a student either comes to office hours or sends me
+a question of the form "I have a great idea for an app/startup.  Can
+you give me advice/hook me up with a developer/etc."  But, well, these
+aren't my area of expertise.  Do faculty in other disciplines get these
+kinds of requests?  "I have an idea for a great Russian novel."  "I'm
+going to synthesize a new chemical compound."  Now that I think about
+it, it is possible that it's potentially a relatively common thing, at
+least in some disciplines.  "I care about this social issue; help me
+design a study.  I wrote a short story; please read it.  I have an art
+project I want to do, can I use your resources."
+
+1. Topic modeling.  :dighum:teaching:
+<http://journalofdigitalhumanities.org/2-1/topic-modeling-and-digital-humanities-by-david-m-blei/> is a good introduction.
 
 The stack of musings
 --------------------
@@ -1214,8 +1272,6 @@ that's not so true.)
 to surveys from the Dean, ...) (Have I done this already?)
 
 1. Dumb Things I do: CS Alumni Mailing List
-
-1. I've become my mother (sending articles to people).
 
 1. Why a good CS education includes much more than CS (for current students).
 
