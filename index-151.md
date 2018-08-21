@@ -17,3 +17,7 @@ A new CSC 151
 
 > What should have been the introduction to the course.
 
+[Reflections on the new data-science-themed CSC 151](csc151-datacsci-reflections) (Musing #724)
+
+> Notes as we prepare for a new section and a new version.
+
