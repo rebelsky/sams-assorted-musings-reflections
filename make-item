@@ -4,6 +4,7 @@
 
 # Extract basic information
 my $file = $ARGV[0];
+$file =~ s/\.html$/\.md/;
 my $date = `TZ=gmt date +"%a, %d %b %Y %H:%M:%S GMT"`;
 chomp($date);
 my $title = `head -1 $file`;
