@@ -374,3 +374,7 @@ Rants
 
 > Inconvenient, at best.
 
+[Advertisements for ghostwriters](ghost-writer-ads) (Musing #726)
+
+> If you're advertising ghostwriting services, you need to write well.
+

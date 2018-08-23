@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[FedEx signatures](fedex-signatures) (Musing #725)
+[Advertisements for ghostwriters](ghost-writer-ads) (Musing #726)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
