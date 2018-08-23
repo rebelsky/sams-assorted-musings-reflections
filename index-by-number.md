@@ -943,3 +943,5 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Reflections on the new data-science-themed CSC 151](csc151-datacsci-reflections) (Musing #724)  
 [FedEx signatures](fedex-signatures) (Musing #725)  
 [Advertisements for ghostwriters](ghost-writer-ads) (Musing #726)  
+[A draft of my 2019-2020 sabbatical proposal](sabbatical-2019-draft) (Musing #727)  
+[The first day of my Obermann fellowship](obermann-day-one) (Musing #728)  

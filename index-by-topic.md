@@ -1320,6 +1320,10 @@ Overcommitment
 
 > How it really turned out.
 
+[A draft of my 2019-2020 sabbatical proposal](sabbatical-2019-draft) (Musing #727)
+
+> Planning too many activities for the next year.
+
 On teaching 
 -----------
 
@@ -2419,6 +2423,10 @@ Autobiographical essays, more or less
 [Fair rides](fair-rides) (Musing #723)
 
 > Different choices Michelle and I make.
+
+[The first day of my Obermann fellowship](obermann-day-one) (Musing #728)
+
+> Starting a different aspect of my career.
 
 Salary reviews
 --------------

@@ -9,8 +9,10 @@ If you'd like, you can read [a longer introduction](intro-musings-v0).
 If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
-Latest musing:
-[Advertisements for ghostwriters](ghost-writer-ads) (Musing #726)
+Latest musings:
+[A draft of my 2019-2020 sabbatical proposal](sabbatical-2019-draft) (Musing #727)
+and
+[The first day of my Obermann fellowship](obermann-day-one) (Musing #728)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

@@ -269,3 +269,7 @@ Autobiographical essays, more or less
 
 > Different choices Michelle and I make.
 
+[The first day of my Obermann fellowship](obermann-day-one) (Musing #728)
+
+> Starting a different aspect of my career.
+

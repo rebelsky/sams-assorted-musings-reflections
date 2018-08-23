@@ -182,3 +182,7 @@ Overcommitment
 
 > How it really turned out.
 
+[A draft of my 2019-2020 sabbatical proposal](sabbatical-2019-draft) (Musing #727)
+
+> Planning too many activities for the next year.
+
