@@ -16,7 +16,7 @@ which meant that in addition to looking out on the participants, I was
 also looking at the back of the room.  Because the
 doors were glass, so I could see each person who tried to come into the
 room late.  For the first five minutes, every person first tried to pull
-the doors.  They failed.  Then they tried to pull the doors.  They failed.
+the doors.  They failed.  Then they tried to push the doors.  They failed.
 Eventually, someone in the room would come over and let them in.
 
 <img src="images/merge-doors.png" alt="A set of glass doors; the doors have clearly
@@ -62,4 +62,6 @@ Fat Freddy in the middle.
 
 ---
 
-*Version 1.0 of 2018-08-10.
+*Version 1.0 released 2018-08-10.
+
+*Version 1.0.1 of 2018-08-23.
