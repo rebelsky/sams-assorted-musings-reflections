@@ -1050,6 +1050,10 @@ Rants
 
 > If you're advertising ghostwriting services, you need to write well.
 
+[Bad advice](bad-advice-pug) (Musing #728)
+
+> "Don't worry about the language of the contract, they won't enforce it".
+
 Assorted talks and speeches
 ---------------------------
 
@@ -1458,6 +1462,10 @@ _Notes related to the code camps we offer._
 [Programs for simple language generation](code-camps-lac-language-generation) (Musing #698)
 
 > Mediocre but fun.
+
+[Planning for SIGCSE 2019](sigcse-2019-planning) (Musing #730)
+
+> Papers on the code camps and other projects.
 
 On writing letters of recommendation
 ------------------------------------

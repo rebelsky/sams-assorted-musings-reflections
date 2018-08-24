@@ -31,3 +31,7 @@ _Notes related to the code camps we offer._
 
 > Mediocre but fun.
 
+[Planning for SIGCSE 2019](sigcse-2019-planning) (Musing #730)
+
+> Papers on the code camps and other projects.
+

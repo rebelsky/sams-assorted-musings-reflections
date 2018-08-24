@@ -10,9 +10,9 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musings:
-[A draft of my 2019-2020 sabbatical proposal](sabbatical-2019-draft) (Musing #727)
+[Bad advice](bad-advice-pug) (Musing #729)
 and
-[The first day of my Obermann fellowship](obermann-day-one) (Musing #728)
+[Planning for SIGCSE 2019](sigcse-2019-planning) (Musing #730)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

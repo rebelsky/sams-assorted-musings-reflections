@@ -3,22 +3,23 @@ Planning for SIGCSE 2019
 
 *Topics/tags: [Code camps](index-code-camps), digital humanities, academia, disjoint.*
 
-As a computer science educator, one of the conferences I look forward
-to attending [1] is the annual Technical Symposium of the Special Interest
-Group for Computer Science Education.  Both the conference and the group
-are called SIGCSE.  For many years, SIGCSE (the conference) was the
-best place to publish research on computer science education: Papers
-receive many reviews (typically five or six), the acceptance rate for
-papers is low enough (typically between thirty and thirty-five percent)
-that acceptance to the conference is clearly competitive and therefore
-worthy of consideration in merit reviews, and the proceedings were
-(and are) published, making it an archival publication.
+One of the conferences I look forward to attending [1] is the annual
+Technical Symposium of the Special Interest Group for Computer Science
+Education.  Both the conference and the group are called SIGCSE.  I
+enjoy SIGCSE because it gives me insight into teaching CS.  For many
+years, SIGCSE (the conference) was the best place to publish research
+on computer science education: Papers receive many reviews (typically
+five or six), the acceptance rate for papers is low enough (typically
+between thirty and thirty-five percent) that acceptance to the conference
+is clearly competitive and therefore worthy of consideration in merit
+reviews, and the proceedings were (and are) published, making it an
+archival publication.
 
 There are now more venues for CS education research, including a few
 journals and the SIGCSE-sponsored International Conference on Education
 Research (ICER), most of which I would consider more prestigious
-than SIGCSE.  Still, SIGCSE is a valuable conference to attend and a
-worthwhile place to present.
+than SIGCSE.  Still, SIGCSE remains a valuable conference to attend and
+a worthwhile place to present.
 
 SIGCSE deadlines are usually right at the start of the semester [2],
 which means that they are right around the corner.  It's time to think about
@@ -171,4 +172,4 @@ musings.  We shall see.
 
 ---
 
-*Version 0.5 of 2018-08-23.*
+*Version 1.0 of 2018-08-23.*

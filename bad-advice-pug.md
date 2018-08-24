@@ -58,15 +58,14 @@ someone from taking a job at another institution of higher education,
 it does restrict their ability to suggest that others also join that
 other institution.  That restriction applies to both "employees" (most
 of whom I would call "teachers") and to "customers" (most of whom I
-would call "students").  However, it's likely that some percentage
-of PUG teachers will be adjuncts, and adjuncts commonly share
-opportunities with each other.  Also, since online students are less
-likely to affiliate with a particular institution, it seems natural
-for a teacher to say "By the way, I'll be teaching an online course on
-Coursera next semester.  Check it out"  Neither action appears to be
-allowed under this clause.
+would call "students").  It's likely that some non-trivial percentage of
+PUG teachers will be adjuncts, and adjuncts commonly share opportunities
+with each other.  Also, since online students are less likely to affiliate
+with a particular institution, it seems natural for a teacher to say
+"By the way, I'll be teaching an online course on Coursera next semester.
+Check it out"  Neither action appears to be allowed under this clause.
 
-While I find all of these issues of real concern, they are not supposed
+While I find all of these issues of real concern, I did not intend them
 to be the focus of this piece [8].  Rather, I want to comment on some
 quotations that appear in the _Chronicle_ piece.
 
@@ -79,18 +78,20 @@ over the noncompete clause. Even for faculty members who leave and go
 teach elsewhere a week later, he said, "I've never heard of it being
 enforced."
 
-That's bad advice, particularly from the president of the faculty senate.
-Just because an institution [9] has not enforced the policies in the
-past, there's no guarantee that they won't enforce them in the future.
-A contract is a contract.  I would not expect "They didn't enforce
-this clause last year" to carry much weight in a court of law.  We're
-certainly seeing a lot of instances this year of people who are prosecuted
-for acts that were "common practice" [10].  But I am not a lawyer.
+That's bad advice [9], particularly from the president of the faculty
+senate.  Just because an institution [10] has not enforced the policies in
+the past, there's no guarantee that they won't enforce them in the future.
+A contract is a contract.  I would not expect "They didn't enforce this
+clause last year" to carry much weight in a court of law.  We're certainly
+seeing a lot of instances this year of people who are prosecuted for
+acts that were "common practice" [11].  But I am not a lawyer.
 
-So I consider the advice bad.  But what makes it especially bad is that it
-can't even be accompanied by the traditional IANAL [11] disclaimer because
-Winters is "[a] lawyer by training who teaches in the Purdue Global 
-public-safety program".  What lawyer gives such advice?
+So I consider the advice bad.  What makes it especially bad is that
+Winters can't even add traditional IANAL [12] disclaimer because he is
+"[a] lawyer by training who teaches in the Purdue Global public-safety
+program".  What lawyer gives such advice?
+
+Once again, I'm glad I'm at Grinnell.
 
 ---
 
@@ -101,7 +102,7 @@ on the laptop.  While I don't think that the school district intended
 to claim the kids' IP, and they told me that "It's just boilerplate",
 I wanted it clear that my children owned anything they created.  I did
 eventually get that text removed, but I still read the policy carefully
-each year [12].
+each year [14].
 
 ---
 
@@ -138,18 +139,22 @@ raise public concerns.
 [8] More accurately, they were not supposed to have been the focus of this
 piece.
 
-[9] Or, more precisely, a previous institution.
+[9] Okay, it's not direct advice.  But he's suggesting that people should
+not worry about the requirements of the contract.  And that's effectively
+advice.
 
-[10] E.g., failure to disclose that you have acted as an agent of another
+[10] Or, more precisely, a previous institution.
+
+[11] E.g., failure to disclose that you have acted as an agent of another
 country.
 
-[11] I am not a lawyer.
+[12] I am not a lawyer.
 
-[12] When we got paper copies of the agreements to sign, I would cross
+[14] When we got paper copies of the agreements to sign, I would cross
 off anything that seemed inappropriate and insert other text.  Since the
 school district always issued laptops to my kids, I assumed they accepted
 the amendments.
 
 ---
 
-*Version 0.5 of 2018-08-23.*
+*Version 1.0 of 2018-08-23.*
