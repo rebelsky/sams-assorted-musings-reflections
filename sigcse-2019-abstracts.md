@@ -1,7 +1,7 @@
 Draft abstracts for SIGCSE 2019
 ===============================
 
-*Topics/tags: [Code camps](index-code-camps), teaching, things I was writing anyway*
+*Topics/tags: [Code camps](index-code-camps), teaching, things I was writing anyway, very long*
 
 As I noted in [yesterday's musing](sigcse-2019-planning), today I need
 to write 250-word abstracts for three potential papers for SIGCSE 2019,
@@ -98,7 +98,7 @@ work.
   belong in the abstract.
 * One reviewer wanted a better definition of data science.
 * One reviewer was concerned about the range of things we covered in
-  that first summer (micro:bits, Jupyter, Javascript [5], BlockPy, and
+  that first summer (micro:bits, Jupyter, JavaScript [5], BlockPy, and
   Python).  We narrowed that a bit in the second summer.  And they don't
   appear in the abstract.  But I'll need to think about that issue in
   rewriting the paper.  I do think that the progression from block-based
@@ -167,7 +167,7 @@ into the camps.
 
 I have not yet checked the length.  Getting an abstract to the proper length
 is usually the last step.  I should step away from the abstract for a little
-while to let my brain retune.  Before doing that, I'm going to get some
+while to let my brain re-tune.  Before doing that, I'm going to get some
 advice from [Grammarly Premium](index-grammarly).  Should I list all of
 the advice?  Sure.  I'm going to ignore a lot, but it's worth documenting.
 
@@ -211,7 +211,7 @@ of who does and can do computer science.  In this paper, we focus on two
 offerings of a camp in which students explored computational approaches to
 data science through a lens of computing for social good (Goldweber 2013),
 discovering how computing could help them not only better understand
-societal issues but also convince others of to address problems.
+societal issues but also convince others to address problems.
 
 > In particular, we discuss the rationale for and the content of
 the curriculum, including our uses of pair programming, personal projects,
@@ -237,12 +237,60 @@ length and writing level.  It suggests that there are 1732 characters
 which represent 256 words and eight sentences.  Only eight sentences?
 Wow!  Those are long sentences.  Is Grammarly right?  I count three
 sentences in the first paragraph, two in the second, and three in the 
-third.  Yup.  Eigth sentences.  It's also seven words too long.  My
+third.  Yup.  Eight sentences.  It's also seven words too long.  My
 average word length is 5.5 characters and my average sentence length is
 32 words.  Yeah, that's long.  My readability score is 24, which means
 that "Your text is likely to be understood by college graduates but may
 not be easy for many to read."  I might want to address that issue when
 I come back to it.
+
+*Sam moves on to the next abstract.  After writing a few versions of that
+abstract, Sam returns to this one.*
+
+Writing an abstract for another code-camp paper gives me another set of
+language for the first paragraph.  But if I use the language from that
+paper here, I'll have the problem of too-similar introductions [7,8].
+Plus, I like the way this introduction carefully grounds itself in those
+two important actors problems.  So let's take another look at this
+abstract.  At this point, I expect that I'll be thinking more about
+individual words, about breaking up some of the longer sentences, and
+about cutting a few words from the text.
+
+> The underrepresentation within CS of women, domestic students of
+color, and lower-SES students remains a national issue. Recent studies
+demonstrate two critical factors: Persistent stereotypes about "who
+does computer science" can cause members of these groups to preclude interest
+in the field (Cheryan and Plaut 2010); many also perceive computing as
+"irrelevant" and "asocial" (Guzdial 2009).  While these issues must
+be addressed at multiple ages and levels, many suggest that we should
+start early, before students have developed both types of stereotypes
+(McGill, Decker, and Settle 2015).
+
+> As a step in combating (mis-)perceptions of ability and relevance,
+we developed and conducted a spectrum of week-long summer "code camps"
+for regional middle-school students.  These camps emphasize meaningful
+uses of computing, on building self-efficacy, and on broadening
+understanding of who does and can do computer science.  In this paper, we
+focus on our "data science for social good" camp, in which students
+explored computational approaches to data science through a lens of
+computing for social good (Goldweber 2013), discovering how computing
+helps them not only better understand societal issues but also convince
+others to address problems.
+
+> We discuss the rationale for the curriculum and its content, including
+our uses of pair programming, personal projects, and a growth model that
+brings students from block-based programming to professional Jupyter
+data notebooks.  We consider the effects the camps have on students'
+self-efficacy and perceptions of computer science.  We conclude with
+recommendations and guidelines for those intending to offer similar camps.
+
+You know what?  While that's not perfect, it's good enough.  Minor tweaks
+won't matter much.  In a few days, I may decide on a completely different
+approach.  But it's not worth my time to come up with that different
+approach right now.  And it looks like it's short enough (245 words).
+Let's just hope that the submission system thinks so, too [9].  Now I
+just have to look forward to entering information on two years worth of
+student collaborators/co-authors on the EasyChair system.
 
 **A Middle-School Code Camp Emphasizing Digital Humanities**
 
@@ -254,16 +302,112 @@ may be that I should write this one "from scratch" and then come back
 and consider what from the prior abstract might fit.  Or I may want
 to try a hybrid strategy.  I'm going to start with a bit of free writing.
 
-> As computing continues to expand its role in our everyday lives and the
-opportunities for careers in computing expand, leaders and pundits have
-called for computing and computer science education to be added earlier
-and earlier in students careers.  Such calls have led to the creation
-of a wide variety of offerings for students at middle-school and even
-elementary levels [7].  Summer "code camps" targeted at middle-school
-students are one of the more popular approaches.  However, such camps
-often emphasize "fun" aspects of computing, such as games and robots,
-rather than more meaningful applications.
+> As computing expands its roles in our everyday lives and the
+opportunities for careers in computing expand correspondingly, leaders
+and pundits have called for computing and computer science education
+to be added earlier and earlier in students careers.  Such calls have
+led to the creation of a wide variety of offerings for students at
+middle-school and even elementary levels [10].  Summer "code camps"
+targeted at middle-school students are one of the more popular approaches.
+Such camps often emphasize "fun" aspects of computing, such as games
+and robots.  However, research at the collegiate level suggests that
+meaningful applications of computing, such as computing for social good,
+are more successful and building and sustaining interest, particularly
+among students from groups traditionally underrepresented computing.
 
+> For the past three years, we have offered summer "code camps" for middle
+school students that explore different approaches to computing than are
+traditionally used for summer camps.  One of our more recent camps focuses
+on ideas from the digital humanities, or DH, the application of computing
+approaches as a component of humanistic models of inquiry.  Because it
+reveals different ways to apply algorithmic and computational thinking,
+DH has the potential to attract students who might not otherwise
+consider computing of value.  Nonetheless, DH as an introductory topic
+is not only under-represented at the middle-school level, but also at
+the collegiate level.
+
+> In this paper, we report on our first offering of our digital-humanities
+middle-school camp.   We introduce central issues in the digital
+humanities, explain the rationale for the camp design, describe the
+camp curriculum, and reflect on successful and less successful aspects
+of the camp.  We also present preliminary data on the effects of the
+camp on students' self-efficacy and interest in computing.
+
+I'll admit that while all of the language is "new", my brain clearly
+wants me to follow a particular model: Provide context, describe what
+we're doing, and indicate what's in the paper.  It's a reasonable model
+and I'm not sure that I want to change it.  I suppose I could take a
+slightly different approach to the material and treat the digital humanities
+issue as the context ("The digital humanities are ...") and then use the
+second paragraph to suggest why we are offering them at the middle-school
+level.  That feels harder to do, but I'm going to try free writing an
+abstract under that model, too.
+
+> One of the long-standing problems in computer science education
+is how to attract students who might not otherwise be interested in
+CS, particularly those from traditionally underrepresented groups.
+A number of approaches have shown success, such as media computation
+and computing for social good.  However, the gap in enrollments among
+both women and domestic students of color continues.  It is therefore
+worth pursuing other approaches.  One possibility is to emphasize ideas
+from the digital humanities, or DH, the application of algorithmic and
+computational approaches to support inquiry in the humanistic disciplines.
+Because of its focus on problems traditionally studied on "the other
+side of campus", DH shows potential to attract a very different group of
+students to computer science.
+
+> In this project, we explore the use of digital humanities topics in
+a week-long "code camp" intended for middle school students.  Even though 
+the use of DH as a topic in introductory CS is still in its infancy, we
+considered it useful to see what effect DH-style topics would have on
+students who do not yet know what "the humanities" are.
+
+> We report on our first offering of this camp.  We introduce central
+issues in the digital humanities, explain the rationale for the camp
+design, describe the camp curriculum, and reflect on successful and less
+successful aspects of the camp.  We also present preliminary data on the
+effects of the camp on students' self-efficacy and interest in computing.
+
+Yes, it's still context, activity, content.  But it's a very different
+set of context, activity, content.  I find myself fond of the first
+paragraph. I'm less thrilled with the second paragraph, which suggests,
+in effect, that our students are primarily test subjects in a very
+experimental experiment.  The third paragraph is essentially the same 
+as in the prior abstract [11].  If I'm keeping this form, I'll definitely
+need to rewrite the second paragraph.  In either case, I should probably 
+also think more about my definition of the digital humanities.  Let me
+see what one of my reference works says: 
+
+> For us, digital humanities simply represents a community of scholars
+and teachers interested in using or studying technology.  We use humanities 
+techniques to study digital cultures, tools, and concepts, and we also
+use computational methods to explore the traditional objects of
+humanistic inquiry. [12,14]
+
+I think of the first half of this definition as a key aspect of Science
+and Technology Studies (STS).  It's also not an aspect of DH that will
+be as explicit in my class [15].  I'm clearly more interested in the use of
+computational methods.  What did I write?  In the first sketch, I wrote
+"the application of computing approaches as a component of humanistic
+models of inquiry".  In the second, I wrote "The application of
+algorithmic and computational approaches to support inquiry in the
+humanistic disciplines".  I like that both focus on the computational
+tools as part of the inquiry.  But "humanistic models of inquiry" is
+a bit wordy and "humanistic disciplines" is a bit limiting.  Perhaps
+just "humanistic inquiry".  I'm also not sure about "approaches'.  What
+other words could I use?  "Tools" feels too primitive, even though it's
+partially accurate.  "Thinking" is too broad and does not necessarily imply
+the use of computation.  Perhaps "algorithms and computation".
+
+> Digital humanities (DH), the use of algorithms and computation in
+support of broader humanistic inquiry.
+
+I can live with that.
+
+Where was I?  That's right.  I have two abstracts, one that uses code camps
+as a context, one that uses the digital humanities.  Which should I use?
+I'll put that issue on hold as I return to the first abstract and try to
+put it in its final stage.
 
 **Developing both soft and technical skills through multi-semester,
 remotely mentored community-service projects*
@@ -313,10 +457,33 @@ abstract of one of my previous papers.
 
 [6] Data science for social good.
 
-[7] If I were citing things in this abstract, I'd almost certainly insert
+[7] As you'll soon see, that's one of the reasons I wrote a new first
+paragraph for the next abstract.
+
+[8] The problem of too-similar abstracts is also a problem of two similar
+abstracts.
+
+[9] I find that the submission system seems to count words differently than
+other programs do.  
+
+[10] If I were citing things in this abstract, I'd almost certainly insert
 a citation to the work of Decker, McGill, and Settle.  I'd also insert
 citations for some government reports on computer literacy.
 
+[11] Ah, the wonders of copy and paste.
+
+[12] Battershill, Claire and Ross, Shawna.  2017.  _Using Digital
+Humanities in the Classroom: A Practical Introduction for Teachers,
+Lecturers, and Students_.  London; New York: Bloomsbury Academic.
+
+[14] Battershill and Ross also make it clear that there's no one
+definition of digital humanities and, in fact, many digital humanists
+embrace that complexity.
+
+[15] I've always said that we have a responsibility to think about the
+broader implications of computing, with is a less formal humanistic 
+approach.  I will, of course, maintain that approach.
+
 ---
 
-*Version 0.1 of 2018-08-24.*
+*Version 0.2 of 2018-08-24.*
