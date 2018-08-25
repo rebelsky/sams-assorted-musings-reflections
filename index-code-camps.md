@@ -35,3 +35,7 @@ _Notes related to the code camps we offer._
 
 > Papers on the code camps and other projects.
 
+[Draft abstracts for SIGCSE 2019](sigcse-2019-abstracts) (Musing #731)
+
+> Shouldn't I write these last?
+

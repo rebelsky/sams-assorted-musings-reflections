@@ -9,10 +9,8 @@ If you'd like, you can read [a longer introduction](intro-musings-v0).
 If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
-Latest musings:
-[Bad advice](bad-advice-pug) (Musing #729)
-and
-[Planning for SIGCSE 2019](sigcse-2019-planning) (Musing #730)
+Latest musing:
+[Draft abstracts for SIGCSE 2019](sigcse-2019-abstracts) (Musing #731)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

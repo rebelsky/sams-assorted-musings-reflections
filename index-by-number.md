@@ -946,3 +946,7 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [A draft of my 2019-2020 sabbatical proposal](sabbatical-2019-draft) (Musing #727)  
 [Bad advice](bad-advice-pug) (Musing #728)  
 [Planning for SIGCSE 2019](sigcse-2019-planning) (Musing #730)  
+
+## 731-740
+
+[Draft abstracts for SIGCSE 2019](sigcse-2019-abstracts) (Musing #731)  
