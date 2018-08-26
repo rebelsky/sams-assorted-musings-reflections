@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Draft abstracts for SIGCSE 2019](sigcse-2019-abstracts) (Musing #731)
+[The term "cyberattack"](cyberattack-microsoft) (Musing #732)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

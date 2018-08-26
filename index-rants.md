@@ -382,3 +382,7 @@ Rants
 
 > "Don't worry about the language of the contract, they won't enforce it".
 
+[The term "cyberattack"](cyberattack-microsoft) (Musing #732)
+
+> Has it become too broad?
+
