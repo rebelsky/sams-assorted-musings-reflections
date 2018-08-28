@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[The term "cyberattack"](cyberattack-microsoft) (Musing #732)
+["I thought you might like this"](becoming-my-mother-articles) (Musing #733)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

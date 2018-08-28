@@ -951,3 +951,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 
 [Draft abstracts for SIGCSE 2019](sigcse-2019-abstracts) (Musing #731)  
 [The term "cyberattack"](cyberattack-microsoft) (Musing #732)  
+["I thought you might like this"](becoming-my-mother-articles) (Musing #733)  

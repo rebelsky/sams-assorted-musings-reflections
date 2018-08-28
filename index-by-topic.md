@@ -2444,6 +2444,10 @@ Autobiographical essays, more or less
 
 > Starting a different aspect of my career.
 
+["I thought you might like this"](becoming-my-mother-articles) (Musing #733)
+
+> Becoming my mother.
+
 Salary reviews
 --------------
 
