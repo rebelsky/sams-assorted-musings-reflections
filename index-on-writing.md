@@ -100,3 +100,7 @@ Essays on writing, or at least on writing my musings
 
 > An exercise in editing.
 
+[Writer's block](writers-block-2018-08-28) (Musing #734)
+
+> It comes at the least opportune times.
+
