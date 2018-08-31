@@ -19,17 +19,28 @@ The next end of month musing
 * Goals for the month: Various projects.  Start at UIowa.  Rant more.
   (Smile less).  Inbox zero.  Also said that I might muse more about the
   code camps.
-* Mused a lot about my digital humanities work.
+* Mused a lot about my digital humanities work, at least at the start of the month.
 * Explored issues of editing in writing [a blurb for the new CSC 151](csc151-dighum-blurb).  Afterwards, I realized that [I'd written something similar about
 a year-and-a-half earlier](csc151-datascience-draft).  In both cases,
 Grammarly told me to hyphenate "problem solving".  In both cases, I decided
 it was wrong.  In the earlier case, I went and looked for evidence.
+* Missed a long weekend.  Caught up with some duplicates (or came close to
+  catching up with some duplicates).
+* Started posting selected musings to LinkedIn.  Yet another reason I won't
+  get job offers.
+* Added images to a few postings.
+* Restarted ranting.  A few rants, particularly about our awful business
+  cards, generated significant discussion.  I don't think the rants are
+  changing my personality.
+* More images.
+* Wrote what may be [my longest musing to date](sicse-2019-abstracts),
+  with over 6,000 words.  But that's partially because it has a lot of repeated text.
+* More strange link request.  (Luke Aaron, August 28)
 
 On particular dates
 -------------------
 
-1. August 22, 2018: First day at UIowa.
-1. August 31, 2018: End-of-month musing.
+1. August 31, 2018 (or maybe Sept. 1, given SIGCSE deadlines): End-of-month musing.
 1. November 1, 2018: NaNoWriMo (On writing.)  (Or National Technical
    Book Writing Month)
 1. November 11, 2018: 11/11.  
@@ -53,13 +64,58 @@ _Tags/style: rants, talks_
 
 _Tags/content: accessibility, autobiographical, CSC 151, data science, delayed, digital humanities, email, grinnell, joc, language, meta, overcommittment, Racket (or Scheme; I'm not consistent), technical (not the same as technology), technology (not the same as technical)_
 
-1. Advertisements for ghost writers.  :rants:long:language:draft: `ghost-writer-ads`.
+1. First-year Fall registration at Grinnell.  :grinnell:
+It's different at Grinnell.  At many other schools, first-years students 
+register for courses over the summer.  At Grinnell, we have a somewhat
+complicated process....  But there are good reasons for the process.
+Do I think we should computerize it?  Yes.
 
-1. Sabbatical proposal.  :misc:long:draft:  `sabbatical-2019-draft`.
+1. My bookshelf at the Obermann center. :dighum:short:
 
-1. I've become my mother (sending articles to people).  :autobiographical:short: `becoming-my-mother-articles`.
+1. Beloit.  :academia:short:
+<http://www.beloitdailynews.com/news/20180824/beloit_college_grappling_with_financial_issues>.  A short mention in _Chronicle_ at <https://www.chronicle.com/article/The-Daily-Briefing/238091>.  Why not anything bigger?  And why not anything bigger about the mindset list?  <http://www.rrstar.com/news/20180826/georgette-braun-beloit-college-drops-mindset-list>
 
-1. Nonsequiters anonymous.  :short:sketch:  `nonsequiters-anonymous`
+1. Beloit mindset list.  :academia:short:
+See above
+
+1. Busses vs. buses.  :language:short:
+What's the plural of "bus"?  To most people, it's "buses".  To a few,
+it seems to be "busses".  But what's the plural of "buss"?  It's
+certainly 
+I mostly think about this issue because I remember a poem mom wrote
+that ended with "I'm pro bussing", and she clearly meant the "buss"
+version.
+
+1. Fall reading list.  :overcommitment:dighum: 
+
+1. Understanding the HSSC.  :rants:rant retractions:short:
+At some point last year, I complained about the size and cost of the
+HSSC.  But I'm coming ot understand its implicit value.  At a time
+in which many schools are de-emphasizing the humanities, Grinnell is
+explicitly doubling down on the humanities "We value these areas enough to
+build a ginormous complex devoted to them."
+
+1. Tracing citations.  (`binary-search-citations`)  :sketch:joc:short:
+
+1. Synchronizing my systems. :joc:sketch:
+
+1. Bye bye Apple Music Storage.  :rants:autobiographical:
+It should be no surprise to those who know me that I accumulate things.
+One of the things I accumulate is music.  I have way too many LPs,
+way too many CDs, and way too many digital tracks.  When Michelle and
+I were first married, I wrote an awesome database for the music.  But
+it was in HyperCard; I don't think I could run it now even if I tried.
+In any case, a few years ago I decided that I should try to get as much
+of my music in digital form as I could in the same place [boy that was a
+horrible sentence].  And Amazon had a new cloud service that stored 
+your music.  For $25/year [really $24.99], I could store up to 250,000
+songs.  That's about 15,000 albums, more than I have.  So it seemed like
+a good way to start getting things together.  Unfortunately, this year
+Amazon has discontinued the service.  So now I'm stuck trying to figure
+out what to do next.  I'm going to upload as much as I can before my
+upload privs end on September 11.  After that, I can still download
+anything I want (although I will download a bunch beforehand to make
+sure), but I can't upload anything new.  Blah blah blah.
 
 1. Making breakfast.  :authobiographical:short:sketch:
 Write about making french toast and thinking back to mom.  Perhaps also
@@ -133,16 +189,7 @@ Not sure.  Sarah.  Just moved on from Cloudera.  Damn.  Who else
 was there?  Did Ellie go?  She's a famous physics educator with a new
 last name.
 
-1. A syllabus for the Language and Code camp.  :code-camps:teaching:
-This may never appear.
-
-1. Week two of Code Camps.  :code-camps:teaching:data science:
-
-1. A long and busy summer.  :overcommitment:long:rambly:
-
-1. Tracing citations.  (`binary-search-citations`)  :sketch:joc:short:
-
-1. Summer work absurdities.  :academia:short:rant: `summer-funding-absurdities`
+1. Summer funding absurdities.  :academia:short:rant: `summer-funding-absurdities`
 
 1. Porting callisto.  :callisto:short:  An introduction to this topic.
 
@@ -279,6 +326,13 @@ it once already, so I need to think of other things to write about it.)
 
 1. Supporting admissions.  :grinnell:sketch: `supporting-admissions`
 
+1. Playing with mail.app rules  :joc:mac:email:short:
+Started setting up a number of rules  Then asked myself: "How do I easily
+move them to another laptop?"  THe answer is that they are in 
+`~/Library/Mail/V4/MailData/SyncedRules.plist`.  That means I can also
+do things like take my filter of too-many advertisements and rearrange
+them so that they are in alphabetical order.  At least I think it does.
+
 1. Cary Nelson's piece on "The Economic Challenges of Anthologies" in _On Anthologies_.  :sketch:academia:short:
 Really fascinating.  I picked it up after
 reading [an article about the challenges of creating an anthology
@@ -350,6 +404,11 @@ project I want to do, can I use your resources."
 
 1. Topic modeling.  :dighum:teaching:
 <http://journalofdigitalhumanities.org/2-1/topic-modeling-and-digital-humanities-by-david-m-blei/> is a good introduction.
+
+1. Scratch 3.0.  :scratch:teaching:technology:
+<https://beta.scratch.mit.edu/>
+
+1. Nonsequiters anonymous.  :short:sketch:  `nonsequiters-anonymous`
 
 The stack of musings
 --------------------
