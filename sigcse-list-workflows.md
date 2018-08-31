@@ -1,6 +1,8 @@
 SIGCSE mailing list workflows
 =============================
 
+*Topics/tags: [Overcommitment](index-overcommitment), SIGCSE, email, rambly*
+
 One of my professional responsibilities is co-moderator of the the SIGCSE
 mailing lists [1].  As moderator, I have only a few responsibilities:
 I appove or reject posts and I handle new member requests.  But it's
@@ -22,18 +24,40 @@ If so, it is not appropriate for our mailing list.  Does it quote an
 inordinate amount of material?  If so, it makes the reading experience
 much less good for our subscribers who read in digest form [4].
 
-There are a few other cases, such as posts that seem irrelevant or
+There are also a few other cases, such as posts that seem irrelevant or
 intended only for the original poster.
+[I'm surprised at the number that seem to be a reply-all.  Some
+clearly address a broader audience than the original sender but
+many do not.]
 
-There are then three options.  I can approve the post, reject the
+I am then left with three options.  I can approve the post, reject the
 post, or ask the author to repost.  The first option is the easiest.
-I click a link in the post, it is approved, and it goes off to the list.
-The second option is a bit harder.  I need to log in to the moderation
-site, find the post, and click the "reject" button.  The third option is
-the most time consuming.  In that case, I write a message to the poster
-to explain our policies and ask them to repost.  
+I click a link in the post, the system processes the approval, and
+the message goes off to the list.  The second option is a bit harder.
+I need to log in to the moderation site, find the post, and click the
+"reject" button.  The third option is the most time consuming.  In that
+case, I also write a message to the poster.  For those who have seem to
+have violated the policies, I explain those policies and ask them to repost.
+For those who may have inadvertently carbon-copied the mailing list, I
+check to see if that was their intent.  In the few other cases, I do 
+whatever seems most appropriate.
 
-It is rare that I simply reject; I think 
+It is rare that I simply reject; I generally think our posters deserve
+the courtesy of an email.  But there are some messages that are relatively
+easy to reject without additional follow.  As I noted, I generally 
+reject conference announcements that are irrelevant to SIGCSE.  But there
+are a few that *might* be relevant; in those cases I try to send followup.
+One-line messages that are clearly intended for another poster and
+not for the list rarely warrant a followup.  And, of course, spam just
+gets deleted.
+
+Unfortunately, not all submissions to the listserv come to me through email.
+I get messages for current members who submit using their corresponding
+email address.  However, if someone submits from an address not on the
+mailing list, the only way to know that is by logging in to the administrative
+interface.  [No one told me that when I started; it took me about six
+months to figure it out.]  About half the mail that comes in that way is
+from subscribers.
 
 
 
@@ -60,4 +84,6 @@ know when they are quoting a lot of material.  But our typical digest
 readers don't have the same experience; they have to wade through too
 much repeated material.  We'd like to make their experience better.
 
+---
 
+*Version 0.5 of 2018-08-31.*
