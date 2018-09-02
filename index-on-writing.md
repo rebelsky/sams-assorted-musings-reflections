@@ -104,3 +104,7 @@ Essays on writing, or at least on writing my musings
 
 > It comes at the least opportune times.
 
+[Bad writing choices](too-much-too-soon) (Musing #737)
+
+> Strange and obscure jokes.
+

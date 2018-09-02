@@ -175,3 +175,7 @@ Grinnell.
 
 > My favorite place on campus.
 
+[Registration for first-year students](registration-first-year) (Musing #736)
+
+> Our fascinating process.
+

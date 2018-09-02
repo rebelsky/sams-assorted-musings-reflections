@@ -2452,6 +2452,10 @@ Autobiographical essays, more or less
 
 > Becoming my mother.
 
+[Thirty-one years](thirty-one-years) (Musing #735)
+
+> Looking forward to at least thirty-one more.
+
 Salary reviews
 --------------
 

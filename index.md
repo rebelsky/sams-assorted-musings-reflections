@@ -9,8 +9,10 @@ If you'd like, you can read [a longer introduction](intro-musings-v0).
 If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
-Latest musing:
-[Writer's block](writers-block-2018-08-28) (Musing #734)
+Latest musings:
+[Registration for first-year students](registration-first-year) (Musing #736)
+and
+[Bad writing choices](too-much-too-soon) (Musing #737)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
