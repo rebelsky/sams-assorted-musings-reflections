@@ -5,42 +5,16 @@ _This is my online "sketchbook" for the musings I hope to someday write.
 It's not really intended for public consumption, but I won't object if
 you find it and decide to read it._
 
-The next weekly log
--------------------
-
-* Interaction with to-do list?  I'd mentioned that ...
-* Getting back in habit after break of filling it out.
-* A day nearly off.
-* Three weeks of work logs?  Whoops.
-
 The next end of month musing
 ----------------------------
 
-* Goals for the month: Various projects.  Start at UIowa.  Rant more.
-  (Smile less).  Inbox zero.  Also said that I might muse more about the
-  code camps.
-* Mused a lot about my digital humanities work, at least at the start of the month.
-* Explored issues of editing in writing [a blurb for the new CSC 151](csc151-dighum-blurb).  Afterwards, I realized that [I'd written something similar about
-a year-and-a-half earlier](csc151-datascience-draft).  In both cases,
-Grammarly told me to hyphenate "problem solving".  In both cases, I decided
-it was wrong.  In the earlier case, I went and looked for evidence.
-* Missed a long weekend.  Caught up with some duplicates (or came close to
-  catching up with some duplicates).
-* Started posting selected musings to LinkedIn.  Yet another reason I won't
-  get job offers.
-* Added images to a few postings.
-* Restarted ranting.  A few rants, particularly about our awful business
-  cards, generated significant discussion.  I don't think the rants are
-  changing my personality.
-* More images.
-* Wrote what may be [my longest musing to date](sicse-2019-abstracts),
-  with over 6,000 words.  But that's partially because it has a lot of repeated text.
-* More strange link request.  (Luke Aaron, August 28)
+* Goals: Read and apply _Style_.  Read daily and reflect more on articles
+  I read.  Comment on working at the Obermann center.  Inbox zero.
 
 On particular dates
 -------------------
 
-1. August 31, 2018 (or maybe Sept. 1, given SIGCSE deadlines): End-of-month musing.
+1. September 30, 2018 (or maybe Sept. 1, given SIGCSE deadlines): End-of-month musing.
 1. November 1, 2018: NaNoWriMo (On writing.)  (Or National Technical
    Book Writing Month)
 1. November 11, 2018: 11/11.  
@@ -62,21 +36,91 @@ _Tags/form or meta: delayed, draft, long, rambly (I've used that in released mus
 
 _Tags/style: rants, talks_
 
-_Tags/content: accessibility, autobiographical, CSC 151, data science, delayed, digital humanities, email, grinnell, joc, language, meta, overcommittment, Racket (or Scheme; I'm not consistent), technical (not the same as technology), technology (not the same as technical)_
+_Tags/content: accessibility, autobiographical, CSC 151, data science, delayed, digital humanities, email, grinnell, joc, language, meta, overcommittment, packrata, Racket (or Scheme; I'm not consistent), technical (not the same as technology), technology (not the same as technical)_
 
-1. First-year Fall registration at Grinnell.  :grinnell:
-It's different at Grinnell.  At many other schools, first-years students 
-register for courses over the summer.  At Grinnell, we have a somewhat
-complicated process....  But there are good reasons for the process.
-Do I think we should computerize it?  Yes.
+1. Jekyll or Scribble or ...?  :dighum:sketch:teaching: `jekyll-scribble-or.md`
 
 1. My bookshelf at the Obermann center. :dighum:short:
+
+1. Traveling to the Obermann center.  :dighum:short:
+
+1. Staycation 2019.  :authobiographical:sketch:
+At the end of this summer, I took my second vacation of the summer.
+[readers may recall that Michelle and I went on a cruise earlier in
+the summer].  This vacation was not quite as planned; one of my best
+friends from high school came to visit Grinnell and I took the week
+off to do thins with him.  So I had a bit of a "staycation".  He's
+as much of a workaholic as I am, so we has often content for the simple
+break of sitting and watching TV or reading a book.
+
+1. The value of "things".  :authobiographical:sketch:packrat:
+(The start of a new series on being a packrat.)
+Michelle and I argue about stuff.  A lot.
+Anyone who knows me knows that I accumulate.  I accumulate for a
+variety of reasons.  But one reason that I accumulate is that I
+assign meaning to things.  That Willa Cather book?  I bought it for
+my mother.  And, even though mom eventually learned enough about Cather's
+anti-semitism that she could no longer stomach reading Cather, I still
+think about the shelf of Willa Cather books on the landing at home and
+about the joy of finding a new one for her.  That Willa Cather book that
+mom never even owned, but wasn't in her collection?  Same thing.  The
+object ties me to my mother [1].  That old issue of _Scientific American_
+that I'll probably never read.  It's one of the huge collection that
+Salva Luria gave to me.  I needed to get rid of them when mom left
+her house, I kept one issue [2] to remember the gift.
+But the number of things I accumulate, particularly things 
+that I accumulate for other reasons, means that the special things also 
+get lost.  And so I'm always reluctant to throw something away, because
+a special thing may be there, even if I'm not sure what the special
+thing is.  Michelle says "Take a picture".  But a picture is not the
+same as the item.
+[1] Amazingly, even thinking about that issue makes me cry.
+[2] Well, probably a half dozen issues.
+
+1. Organization :autobiographical:organization:  `organization.md`
+No one who sees my office and laba may believe this, but I really like
+organization. Why aren't they neat? Addication to accumulation and
+inability to get rid of things. (`organization.md`)
+
+1. Addication to accumulation. :autobiographical:sketches: `accumulation.md`
 
 1. Beloit.  :academia:short:
 <http://www.beloitdailynews.com/news/20180824/beloit_college_grappling_with_financial_issues>.  A short mention in _Chronicle_ at <https://www.chronicle.com/article/The-Daily-Briefing/238091>.  Why not anything bigger?  And why not anything bigger about the mindset list?  <http://www.rrstar.com/news/20180826/georgette-braun-beloit-college-drops-mindset-list>
 
 1. Beloit mindset list.  :academia:short:
 See above
+
+1. "faculty" - singular or plural verb forms? :writing:sketch:short:
+   http://www.dictionary.com/e/collective-nouns/.  When I write things
+   like "faculty have chosen", Grammarly always tells me to use "faculty
+   *has* chosen".  But that feels wrong to me.  So I change my text
+   to "faculty *members* have chosen", which makes both of us happy.
+   But do I really have to change?  Let's see what the InterWeb tells me.
+
+1. Bridging/interdisciplinary courses.  :academia:overcommitment:
+   Which ones would I like to teach?
+   Something on digital humanities with Erik or Sarah.  Someting on
+   digital art with Jeremy, Andrew, and/or Justin.  History of computers
+   with Mike Guenther.  Technology policy as part of policy studies.
+   Piracy :-).  But more than any of those, I'd like to teach Tutorial
+   again.
+
+1. Cascading consequences.  :rants:academia:Grinnell:
+   Change in schedule of courses that eliminates
+   one of our primary teaching slots.  So we start to move from 4x50
+   to 3x80.  That's fine.  But then they tell us that we need to offer
+   a minimum nubmer of 8:00 a.m. classes and they don't offer 3x80 slots
+   that start at 8:00 a.m.  They don't count the 8:30 a.m. 3x80 slots as
+   meeting the "start at 8:00 a.m." goal.  Putting together a workshop
+   class is an incredibly time-consuming task.  So what do we do? (a)
+   Move to 3x110, which start at 8:00 a.m.?  (That adds to faculty workload.)
+   (b) Convince them to create an 8:00-9:20 slot?  (That's not so sensible;
+   8:30-9:50 is better for eveyrone involved.)  (c) Get them to do the
+   reasonable thing, and treat 8:30 classes as meeting the goal?  (It's
+   CC.  There's no evidence they would do something so reasonable, even
+   though I think that was their original plan.)
+
+1. Flying from Grinnell.  :short:sketch:grinnell: `flying-from-grinnell`
 
 1. Busses vs. buses.  :language:short:
 What's the plural of "bus"?  To most people, it's "buses".  To a few,
@@ -86,7 +130,15 @@ I mostly think about this issue because I remember a poem mom wrote
 that ended with "I'm pro bussing", and she clearly meant the "buss"
 version.
 
+1. A procedure is worth 1000 pictures.  :csc151:art:teaching:
+Useful to think about as I consider the project for the new CSC 151.
+
 1. Fall reading list.  :overcommitment:dighum: 
+
+1. Goldenberg's Peanut Chews.  :autobiographical:short:
+My favorite candy.  (Which I don't eat any more.)   Love the somewhat
+stale peanut taste, the consistency, etc.  Also brings back memories.
+My grandmother used to keep a dish of them in her front hallway.
 
 1. Understanding the HSSC.  :rants:rant retractions:short:
 At some point last year, I complained about the size and cost of the
@@ -124,6 +176,7 @@ pan and baked eggs.  Maybe grandma's baked apples.  I should make those!
 These days, bagels are part of the family repoirtoire.
 
 1. Odd Bodkins.  :reviews:autobiographical:strips:
+If I made it a Tutorial topic, perhaps we could go visit the archives.
 http://pdf.oac.cdlib.org/pdf/berkeley/bancroft/p2013_022_cubanc_aspace.pdf
 
 1. I'm an introvert.  :autobiographical:short:
@@ -142,8 +195,6 @@ I found a study.
 <https://blog.dyslexia.com/good-fonts-for-dyslexia-an-experimental-study/>
 
 1. "Wicked Neat"  <https://owlcation.com/humanities/Wicked-Slang-Origin> :language:short:
-
-1. Jekyll or Scribble or ...?  :dighum:sketch:teaching: `jekyll-scribble-or.md`
 
 1. Fun things that I can't attend: The Leonardo Convening :short:art:
    <https://www.leonardo.info/convening>
@@ -410,19 +461,98 @@ project I want to do, can I use your resources."
 
 1. Nonsequiters anonymous.  :short:sketch:  `nonsequiters-anonymous`
 
+1. personal-professional harmony.  :long:revisit:academia:
+Rewrite/revise sections from work-life balance.
+
+1. We've been Ologized.  :grinnell:short:marketing
+(Let's hope that we're not eulogized.)
+
+1. Forgetting what we read. :miscellaneous:articles:
+<https://www.theatlantic.com/amp/article/551603/>
+
+1. The five types of profesors.  :autobiographical:academia:articles:
+<https://www.chronicle.com/article/The-5-Types-of-Professors-/243108>
+
+1. Spaces after sentences.  :writing:articles:short:
+<https://www.washingtonpost.com/news/speaking-of-science/wp/2018/05/04/one-space-between-each-sentence-they-said-science-just-proved-them-wrong-2/>
+
+1. Beanworld.  :reviews:comics:
+
+1. Orphan Black.  :reviews:rambly:tv:
+When a friend was visiting recently, they convinced the Rebelsky family
+to start streaming _Orphan Black_ on TV.  For those of you not familiar
+with the show ....  In spite of my friends' claims to the contrary, it's
+a fairly dark show; we generally find that we have to watch something
+funny afterwards (e.g., _The Big Bang Theory_ or _The Good Place_).  At
+one point, I was thinking it would make a good topic for my next Tutorial;
+the show raises themes of intellectual property, genetics, feminism, 
+and more.  But, well, I still think I'd prefer to do something relating
+to comic strips [possibilities include Pogo and Walt Kelly, Dan O'Neill
+and Odd Bodkins, the American comic strip, comic strips and the Web
+(aka Webcomics)], hypertext, or board games.
+
+1. Preliminary planning for the new mediascheme version of CSC 151.  :csc151:Scheme:Racket:arts computing: `preliminary-planning-new-mediascheme-csc151.md`.
+
+1. Howard Frank Mosher.  :reviews:
+
+1. Drawers (on the Web site) (or have I now written enough about them). :rants:short:web:
+
+1. CLC 17 - Contemporary Literary Criticism  :fun books:music:short:
+
+1. The 1924 College catalog  :fun books:short:
+Why did 
+
+1. Whatever book my Grandmother is holding in that picture.  :autobiographical:fun books:short:
+
+1. The legendary yearbook (Grinnell).  :grinnell:photography:
+
+1. Jonathan Richman.  :reviews:music:
+One of my favorite musicians.
+
+1. Jon Svetkey and the Loomers.  :reviews:music:
+More of my favorite musicians.
+
+1. Yacht Race.  :reviews;board games:
+One of my favorite board games.
+
+1. Astral Weeks.  :reviews:music:
+One of my all-time favorite albums.
+
+1. Van Morrison (or at least Astral Weeks).  :reviews:music:
+Another of my favorite musicians.
+
+1. Physimusicomedy.  :autobiograpical:film:short:
+My favorite essay topic for my collegiate film
+classes.  (Also, perhaps the best essay I wrote for Gerald Mast.
+I wonder if I'll every find that essay again.)
+
+1. Sam Hurt's _Eyebeam_.  :reviews:strips:
+One of my favorite comic strips.
+
+1. Syntactic sugar.  :technical:
+
+1. Ethics in the CS curriculum.  :department:CS:ethics:sketch:
+One of the many things I appreciate about Grinnell's CS department is that
+all of the faculty find it essential that we help our students consider the
+ethical implications of the work that we do.  Strangely enough, even though
+we all prioritize this issue, we do not require a partiuclar ethics course.
+Rather, we try to incorporate it throughout the CS curriculum.
+
+1. "As We May Think"  :articles:CS:
+A great paper to read and assign.  
+
+1. Shell variables :csc281:unix:
+
+1. Bash-basics: Command-line patterns  :csc281:unix:
+
+1. Bash-basics: I/O redirection  :csc281:unix:
+
+1. Variadic macros :csc281:C:
+
 The stack of musings
 --------------------
 
 ### "High priority"
-
-1. We've been Ologized.  (Let's hope that we're not eulogized.)
-
-1. Forgetting what we read.  <https://www.theatlantic.com/amp/article/551603/>
-
-1. Logging my life?  (Maybe not this week; I'm not sure what's useful
-   to say.)
-
-1. <https://www.chronicle.com/article/The-5-Types-of-Professors-/243108>
 
 1. Vivek Venugopal
 
@@ -440,19 +570,6 @@ The stack of musings
 
 1. Teaching CS is teaching writing.  Maybe use all the versions of
    `iota` that I recently covered in class.  (It's now less recent.)
-
-1. Flying from Grinnell.  Okay, it's not really possible to fly from
-   Grinnell.  There is an airport, named after a pioneering aviator,
-   but it's fairly small.  Normally, we fly out of Des Moines or
-   Cedar Rapids, each of which are an hour away.  Recently, we were
-   flying to LA.  Our choice was to fly out of Des Moines, do a long
-   layover, and get to LA about midnight, or to drive to Omaha (3 hours
-   instead of one hour) and do a direct flight that got us in about 5pm.
-   (Yes, we were leaving earlier in the day.)  The return trip was also
-   much faster.  Which do you think we chose?  There's a reason that
-   prospective students sometimes say that our location is a reason they
-   don't choose Grinnell.  (Of course, I'm pretty sure that Williams is
-   about as isolated.  Perhaps I'm wrong.)
 
 1. Roles and Responsibilities.  (So that I know what I'll have to
    cut when I add my next role or responsibility.)
@@ -481,31 +598,6 @@ The stack of musings
    Some things have to be in the subconscious - How will I best teach
    this topic?  How do I design this software?  How do things fit together
    in this research?  That's where insight comes from.
-
-1. Preliminary planning for the new mediascheme version of CSC 151.
-   `preliminary-planning-new-mediascheme-csc151.md`.
-
-1. The value of things.  (The start of a new series on being a packrat.)
-   Michelle and I argue about stuff.  A lot.
-   Anyone who knows me knows that I accumulate.  I accumulate for a
-   variety of reasons.  But one reason that I accumulate is that I
-   assign meaning to things.  That Willa Cather book?  I bought it for
-   my mother.  And, even though mom eventually learned enough about Cather's
-   anti-semitism that she could no longer stomach reading Cather, I still
-   think about the shelf of Willa Cather books on the landing at home and
-   about the joy of finding a new one for her.  That Willa Cather book that
-   mom never even owned, but wasn't in her collection?  Same thing.  The
-   object ties me to my mother [1].  That old issue of _Scientific American_
-   that I'll probably never read.  It's one of the huge collection that
-   Salva Luria gave to me.  I kept one issue [2] to remember the gift.
-   Next musing: But the number of things I accumulate, particularly things 
-   that I accumulate for other reasons, means that the special things also 
-   get lost.  And so I'm always reluctant to throw something away, because
-   a special thing may be there, even if I'm not sure what the special
-   thing is.  Michelle says "Take a picture".  But a picture is not the
-   same as the item.
-   [1] Amazingly, even thinking about that issue makes me cry.
-   [2] Well, probably a half dozen issues.
 
 1. Giving up meat.  I was talking to an alum and his family about [my
 decision to give up sugar](processed-sugar) and my realization that I
@@ -575,10 +667,6 @@ hours.  But if you have fifty hours planned per week ....
 
 1. A family-friendly college :grinnell:academia:short:
 Jennifer Weinman's request: " think a good future musing (add it to your list...) would be something about kid-friendly faculty environments, or having kids pre-tenure. It's something I've talked about with many, but don't see publicly discussed in print all that often."  I could start with the old Faculty House Faculty Fridays.  It could be in the musing for prospective faculty.
-
-1. Spaces after sentences.  <https://www.washingtonpost.com/news/speaking-of-science/wp/2018/05/04/one-space-between-each-sentence-they-said-science-just-proved-them-wrong-2/>
-
-1. Drawers (on the Web site) (or have I now written enough about them). :rants:short:web:
 
 1. Musings or images?  When I post a musing, I get a few likes and a few comments.  When I post an image and a short note, I get a a few dozen likes and a few comments.  Should I take pictures rather than musing?  Nah.  Musing is better for me.
 
@@ -720,8 +808,6 @@ compare them.  These are some thoughts on that process.
    one.  Grammarly suggested the last one.  I realized that I wanted
    the first one.)
 
-1. "As We May Think", a great paper to read and assign.
-
 1. Reconfigurable classrooms.  Whose responsibility is it to "put it
    back"?  Probably add rant about the computer podium - we asked for
    a fixed one.  They gave us a movable one.  Guess what?  That means
@@ -752,36 +838,6 @@ compare them.  These are some thoughts on that process.
    doesn't take that much longer to send the regards yourself.  So the
    natural thing to do would be to follow up the "send my regards to X"
    with a note sending your own regards.  I'm trying to do that myself.
-1. "faculty" - singular or plural verb forms?
-   http://www.dictionary.com/e/collective-nouns/.  When I write things
-   like "faculty have chosen", Grammarly always tells me to use "faculty
-   *has* chosen".  But that feels wrong to me.  So I change my text
-   to "faculty *members* have chosen", which makes both of us happy.
-   But do I really have to change?  Let's see what the InterWeb tells me.
-
-1. Bridging/interdisciplinary courses.  Which ones would I like to teach?
-   Something on digital humanities with Erik or Sarah.  Someting on
-   digital art with Jeremy, Andrew, and/or Justin.  History of computers
-   with Mike Guenther.  Technology policy as part of policy studies.
-   Piracy :-).  But more than any of those, I'd like to teach Tutorial
-   again.
-
-1. Cascading consequences.  Change in schedule of courses that eliminates
-   one of our primary teaching slots.  So we start to move from 4x50
-   to 3x80.  That's fine.  But then they tell us that we need to offer
-   a minimum nubmer of 8:00 a.m. classes and they don't offer 3x80 slots
-   that start at 8:00 a.m.  They don't count the 8:30 a.m. 3x80 slots as
-   meeting the "start at 8:00 a.m." goal.  Putting together a workshop
-   class is an incredibly time-consuming task.  So what do we do? (a)
-   Move to 3x110, which start at 8:00 a.m.?  (That adds to faculty workload.)
-   (b) Convince them to create an 8:00-9:20 slot?  (That's not so sensible;
-   8:30-9:50 is better for eveyrone involved.)  (c) Get them to do the
-   reasonable thing, and treat 8:30 classes as meeting the goal?  (It's
-   CC.  There's no evidence they would do something so reasonable, even
-   though I think that was their original plan.)
-
-1. Followup on plastic pizza.  Something to with Adrienne seeing instructions
-   to remove plastic from fish sticks.
 
 1. Facebook, March 2 2012
    So, tonight one of my students asked me how I am different now than
@@ -964,35 +1020,6 @@ compare them.  These are some thoughts on that process.
 
 1. BBC micro:bit
 
-### A series on fun books?
-
-1. CLC 17 - Contemporary Literary Criticism
-
-1. Fun books: The 1924 College catalog
-
-1. Whatever book my Grandmother is holding in that picture?
-
-1. The legendary yearbook (Grinnell)
-
-### Reviews
-
-1. Goldenberg's Peanut Chews.  My favorite candy.  (Which I don't
-eat any more.)
-
-1. Jonathan Richman.  One of my favorite musicians.
-
-1. Jon Svetkey and the Loomers.  More of my favorite musicians.
-
-1. Yacht Race.  One of my favorite board games.
-
-1. Van Morrison (or at least Astral Weeks).  Another of my favorite musicians.
-
-1. Physimusicomedy.  My favorite essay topic for my collegiate film
-classes.  (Also, perhaps the best essay I wrote for Gerald Mast.
-I wonder if I'll every find that essay again.)
-
-1. Sam Hurt's _Eyebeam_.  One of my favorite comic strips.
-
 ### All those outstanding anniversary musings (on some anniversary)
 
 1. Favorites.
@@ -1002,42 +1029,6 @@ I wonder if I'll every find that essay again.)
 1. How much did I write?  (I can roll back.)
 
 1. ...
-
-### A series on addiction and organization
-
-1. Organization - No one who sees my office and laba may believe this,
- but I really like organization. Why aren't they neat? Addication
- to accumulation and inability to get rid of things. (`organization.md`)
-
-1. Addication to accumulation. Might find the next thing that makes me
- really really happy. (`addiction.md`)
-
-### Old forthcoming musings
-
-1. Syntactic sugar.
-
-1. Essay ??? (Nontechnical): Respect
-
-1. Essay ??? (Nontechnical): Belonging (?)
-
-1. Essay ??? (Semi-technical): Ethics in our curriculum.
-   (Do I need more?  I wrote a bit when I wrote about the
-   ethics assignment.)
-
-1. Essay ??? (Nontechnical): The CSC 151 project  (Have I
-   written this recently?)
-
-### More from CSC 281
-
-1. Essay ??? (Technical): Your own commands
-
-1. Essay ??? (Technical): Shell variables
-
-1. Essay ??? (Technical): Bash-basics: Command-line patterns
-
-1. Essay ??? (Technical): Bash-basics: I/O redirection
-
-1. Essay ??? (Technical): Variadic macros
 
 ---
 
