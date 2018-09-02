@@ -26,7 +26,7 @@ regularly and models of writing that I commonly follow.
 So why did I having trouble writing?
 
 What do I mean by "trouble writing"?  In part, I mean that for the past
-two and a half days [7], whenever I sat down to write, I had trouble putting
+three and a half days [7], whenever I sat down to write, I had trouble putting
 my thoughts in coherent enough order to even record them in writing [8].
 In part, I mean that when I did manage to put those thoughts in order
 and then compared what I was writing to things I've written in the past,
@@ -161,4 +161,6 @@ attributed version.
 
 ---
 
-*Version 1.0 of 2018-08-28.*
+*Version 1.0 released 2018-08-28.*
+
+*Version 1.0.1 of 2018-09-02.*
