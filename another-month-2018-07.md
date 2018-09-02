@@ -152,6 +152,7 @@ gather more detailed data about the tagged musing.
     Grinnellians you should know    69              69             
     other people                     9               6             -3
     topics to revisit               14              14 
+    CHANGE                                                         +9
 
 Whoo!  I've only added nine forthcoming musings.  I'm still moving in the
 wrong direction [14], but I'm doing so at a decreased rate.  And, as I
@@ -217,4 +218,6 @@ musing](another-month-2018-06).
 
 ---
 
-*Version 1.0 of 2018-07-31.*
+*Version 1.0 released 2018-07-31.*
+
+*Version 1.0.1 of 2018-08-02.*
