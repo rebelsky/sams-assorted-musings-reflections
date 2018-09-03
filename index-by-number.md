@@ -944,7 +944,8 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [FedEx signatures](fedex-signatures) (Musing #725)  
 [Advertisements for ghostwriters](ghost-writer-ads) (Musing #726)  
 [A draft of my 2019-2020 sabbatical proposal](sabbatical-2019-draft) (Musing #727)  
-[Bad advice](bad-advice-pug) (Musing #728)  
+[The first day of my Obermann fellowship](obermann-day-one) (Musing #728)  
+[Bad advice](bad-advice-pug) (Musing #729)  
 [Planning for SIGCSE 2019](sigcse-2019-planning) (Musing #730)  
 
 ## 731-740
@@ -954,3 +955,6 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 ["I thought you might like this"](becoming-my-mother-articles) (Musing #733)  
 [Writer's block](writers-block-2018-08-28) (Musing #734)  
 [Thirty-one years](thirty-one-years) (Musing #735)  
+[Registration for first-year students](registration-first-year) (Musing #736)  
+[Bad writing choices](too-much-too-soon) (Musing #737)  
+[Another month of (nearly) daily musings](another-month-2018-08) (Musing #738)  

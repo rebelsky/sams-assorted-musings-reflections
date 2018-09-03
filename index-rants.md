@@ -378,7 +378,7 @@ Rants
 
 > If you're advertising ghostwriting services, you need to write well.
 
-[Bad advice](bad-advice-pug) (Musing #728)
+[Bad advice](bad-advice-pug) (Musing #729)
 
 > "Don't worry about the language of the contract, they won't enforce it".
 

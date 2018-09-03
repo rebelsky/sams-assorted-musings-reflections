@@ -85,3 +85,7 @@ most of them here._
 
 > Rant less.  Code more.
 
+[Another month of (nearly) daily musings](another-month-2018-08) (Musing #738)
+
+> Rant more.  Write, too.
+

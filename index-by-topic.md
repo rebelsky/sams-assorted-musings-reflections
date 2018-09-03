@@ -107,6 +107,10 @@ Essays on writing, or at least on writing my musings
 
 > It comes at the least opportune times.
 
+[Bad writing choices](too-much-too-soon) (Musing #737)
+
+> Strange and obscure jokes.
+
 On language
 -----------
 
@@ -371,6 +375,10 @@ most of them here._
 [Another month of daily musings](another-month-2018-07) (Musing #705)
 
 > Rant less.  Code more.
+
+[Another month of (nearly) daily musings](another-month-2018-08) (Musing #738)
+
+> Rant more.  Write, too.
 
 For prospective students, parents of prospective students, and others with similar interests
 --------------------------------------------------------------------------------------------
@@ -1054,7 +1062,7 @@ Rants
 
 > If you're advertising ghostwriting services, you need to write well.
 
-[Bad advice](bad-advice-pug) (Musing #728)
+[Bad advice](bad-advice-pug) (Musing #729)
 
 > "Don't worry about the language of the contract, they won't enforce it".
 
@@ -2085,6 +2093,10 @@ Grinnell.
 [Noyce third](noyce-third) (Musing #659)
 
 > My favorite place on campus.
+
+[Registration for first-year students](registration-first-year) (Musing #736)
+
+> Our fascinating process.
 
 A letter to the incoming chair
 ------------------------------

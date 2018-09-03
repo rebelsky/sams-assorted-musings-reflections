@@ -1,5 +1,5 @@
-Another month of daily musings
-==============================
+Another month of (almost) daily musings
+=======================================
 
 *Topics/tags: [Meta-musings](index-meta), long*
 
@@ -360,4 +360,7 @@ it's nothing close to how I felt at that time.
 
 ---
 
-*Version 1.0 of 2018-09-02.*
+*Version 1.0 released 2018-09-02.*
+
+*Version 1.0.1 of 2018-09-02.*
+
