@@ -150,11 +150,12 @@ Oh well, it's one of those amusing aspects of the InterWeb.
 
 **And a bit more**
 
-I'm glad to see that middle son has started [his own set of daily
-musings](https://jrebelsky.wordpress.com/).  I'd like to claim that I
-inspired him, but I'm pretty sure that he's doing it primarily because
-he's in a course in diaries which requires a daily journal and he
-wants to experiment with both physical and electronic diaries.
+I'm glad to see that Middle Son has started [his own set of daily
+musings](https://jrebelsky.wordpress.com/) [22].  I'd like to claim that
+I inspired him, but I'm pretty sure that he's doing it primarily because
+he's in a course in diaries which requires a daily journal and, while
+that course requires a physical journal, he also wants to experiment
+with electronic diaries [23].
 
 When I started musing, I posted my daily writing to Facebook and Twitter.
 After a month or so, I added the [index by number](index-by-number) so
@@ -162,12 +163,12 @@ that people didn't have to check in each day.  I added an [RSS feed]
 at the start of 2018 to help those who prefer to get their distractions
 from a feed.  This month, I've added LinkedIn as a place to post.  I don't
 post every musing.  But I post some, including rants.  Yeah, I guess that's
-another reason I'm not going to get many job offers from LinkedIn [22].
+another reason I'm not going to get many job offers from LinkedIn [24].
 
 **Planning for the next month of musings**
 
 What are my goals for this month?  Well, with SIGCSE out of the way
-[23], I should be able to settle down into a more regular work mode.
+[25], I should be able to settle down into a more regular work mode.
 On almost every day, I will reflect on, design, write, or edit a lab or 
 reading for CSC 151.
 
@@ -179,7 +180,7 @@ I may also reflect on Williams.
 A friend going on sabbatical told me that they plan to read a book chapter
 or article each day.  I should try to do the same.  I won't muse on each
 thing I read, but I may do weekly summaries.  I also have a backlog of
-articles that I planned to muse about.  That's another pair of goals [26].
+articles that I planned to muse about.  That's another pair of goals [28].
 
 My work environment is very different this fall.  Not only am I not
 teaching, I'm also spending a few days a week at a different institution.
@@ -240,7 +241,7 @@ the big drops?  I'm pretty sure that the changes to "high priority",
 topic area.  But I moved some of them to the top of the stack today,
 so I may get to them this month.  I also know that the loss of topics from
 "fun books", "reviews", "old forthcoming musings", and CSC 281 represents
-only a movement to the main list [27].  I'm not sure when I'll get to
+only a movement to the main list [29].  I'm not sure when I'll get to
 those; maybe some of the "fun book" musings will rise to the top as I
 muse about more articles.
 
@@ -269,7 +270,7 @@ is dated September 25.  [Musing
 \#455](https://www.cs.grinnell.edu/~rebelsky/musings/on-hiatus-2017-10-03)
 is dated October 3, and is little more than a note that I was overwhelmed
 enough that I could not muse.  That's not surprising  I was effectively
-teaching five courses at that time [28].  So I mused only 19 times in September.
+teaching five courses at that time [30].  So I mused only 19 times in September.
 I should be able to muse more this year.
 
 ---
@@ -334,33 +335,41 @@ name at about the time Grinnell went from `grin.edu` [21] to `grinnell.edu`.
 [21] I still think that "Personalized education that makes you smile" would 
 be a fun tagline for `grin.edu`.
 
-[22] I don't want a new job.  But I know that job seekers often use
+[22] Although it's currently at <https://jrebelsky.wordpress.com>, it
+may soon move to <http://j.rebelsky.com>.
+
+[23] Middle Son reports that he is musing not because of the
+class, but because friends wanted regular reports on his time abroad.
+He also tell me that I *did* inspire him a bit.  I had assumed that
+his tagline was a joke.
+
+[24] I don't want a new job.  But I know that job seekers often use
 LinkedIn to promote themselves and that prospective employers sometimes use
 LinkedIn to find employees.
 
-[23] SIGCSE isn't quite out of the way.  I still have to review papers [24].
+[25] SIGCSE isn't quite out of the way.  I still have to review papers [26].
 I may have to contribute to the SIGCAS pre-conference proposal.  And I
 likely have to work on the student volunteer software.  Nonetheless, my
-primary writing for SIGCSE is out of the way for now [25].
+primary writing for SIGCSE is out of the way for now [27].
 
-[24] Or, more precisely, meta-review papers.
+[26] Or, more precisely, meta-review papers.
 
-[25] I'll have more editing and writing to do if the papers are accepted.
+[27] I'll have more editing and writing to do if the papers are accepted.
 But that won't be for more than a month.
 
-[26] In case you didn't catch it:  One goal is to read something relevant
+[28] In case you didn't catch it:  One goal is to read something relevant
 each weekday; the other goal is to muse about some of the things I read.
 Perhaps there is also a third goal, which is to muse about some of the
 articles that have accumulated.
 
-[27] In fact, I moved them when writing this musing.
+[29] In fact, I moved them when writing this musing.
 
-[28] It's good to realize that although I feel a bit stressed right now,
+[30] It's good to realize that although I feel a bit stressed right now,
 it's nothing close to how I felt at that time.
 
 ---
 
 *Version 1.0 released 2018-09-02.*
 
-*Version 1.0.1 of 2018-09-02.*
+*Version 1.1 of 2018-09-03.*
 
