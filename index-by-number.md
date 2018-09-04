@@ -958,3 +958,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Registration for first-year students](registration-first-year) (Musing #736)  
 [Bad writing choices](too-much-too-soon) (Musing #737)  
 [Another month of (nearly) daily musings](another-month-2018-08) (Musing #738)  
+[Staycation 2018](staycation-2018) (Musing #739)  

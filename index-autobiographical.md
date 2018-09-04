@@ -281,3 +281,7 @@ Autobiographical essays, more or less
 
 > Looking forward to at least thirty-one more.
 
+[Staycation 2018](staycation-2018) (Musing #739)
+
+> My second vacation of the summer!
+
