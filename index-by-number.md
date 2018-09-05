@@ -959,3 +959,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Bad writing choices](too-much-too-soon) (Musing #737)  
 [Another month of (nearly) daily musings](another-month-2018-08) (Musing #738)  
 [Staycation 2018](staycation-2018) (Musing #739)  
+[An introduction for the new "digital humanities" CSC 151, take zero](fundhum-intro-00) (Musing #740)  

@@ -6,46 +6,46 @@ An introduction for the new "digital humanities" CSC 151, take zero
 Now that I've finished preparing my [submissions for SIGCSE
 2019](sigcse-2019-planning), it's time to buckle down and work on my
 primary focus for the fall, the new digital humanities version of CSC 151.
-I've decided to start by writing a draft introduction to the readings and
-labs.  As I've said before, I realize that the introduction is supposed
-to come last.  However, I find that writing an introduction helps me
-ground my thinking and gives me a broad roadmap for what I plan to do.
+I've decided to start by writing a draft introduction to the readings
+and labs.  As I've said in the past, I realize that the introduction is
+supposed to come last.  However, I find that writing an introduction helps
+me ground my thinking and gives me a broad roadmap for what I plan to do.
 
-Trying and failing to write parts of the introduction will also
-help me figure out what else I need to reflect on; for example, I'm finding
-that I need to do some more background reading on "the humanities" [1]
-and that I need to expand my scope of understanding about the
-digital humanities.
+Trying and failing to write parts of the introduction will also help me
+figure out what else I need to read about and reflect on.  For example,
+in putting together this draft, I've found that I need to do some more
+background reading on "the humanities" [1] and that I need to expand my
+scope of understanding about the digital humanities.
 
-In any case, I'm going to write the introduction now to ground my
-thinking.  I expect to come back and revise it multiple times: after I've
-outlined the course, after I've done more reading about the humanities
-and the digital humanities, before I need to present it to the other
-Obermann fellows at our bi-weekly seminar [2], after I've reread _Style_
-and am prepared to edit carefully for stylistic issues [3], and after I've
-written the rest of the primary material.
+In any case, I'm going to write the introduction at the start of
+my work to ground my thinking.  I expect to come back and revise it
+multiple times: after I've outlined the course, after I've done more
+reading about the humanities and the digital humanities, before I need
+to present it to the other Obermann fellows at our bi-weekly seminar [2],
+after I've reread _Style_ and am prepared to edit carefully for stylistic
+issues [3], and after I've written the rest of the primary material.
 
 ---
 
 Welcome to a Functional Approach to the Digital Humanities, or *FunDHum*
-[4,5].  FunDHum provides a "workshop style" introduction to computer
-science grounded in examples from the digital humanities and employing a
-functional programming approach using the Racket programming language.
-What does that all mean?  Let's unpack each term.
+[4,5].  FunDHum provides a workshop-style introduction to computer
+science grounded in examples from the digital humanities and employing
+a functional programming approach using the Racket programming language.
+What does that all mean?  Let's unpack the key terms.
 
 *Computer Science*.
 Although you will find that computer scientists don't always agree on
 all the details, most agree that the core of computer science is the
 study of algorithms and data structures.  That is, computer scientists
-think about the instructions and processes one might write or use to
-accomplish a task and ways to organize information to support those
+think about the instructions and processes one might write to accomplish
+a task and about ways to organize information to support those
 instructions and processes.  In many ways, computer science is the study
-of problem solving in formal domains; we consider how to make explicit
+of problem solving in formal domains; We consider how to make explicit
 the requirements of a problem, to develop a solution in a formal language
 (most typically a programming language), and to analyze that solution
-for both correctness and efficient use of resources.  Whether or not you
-continue your study of computer science, I hope that FunDHum will help you
-think you think more carefully about solving problems.
+for both correctness and efficient use of resources.  Whether or not
+you continue your study of computer science, I hope that FunDHum will
+help you think you think more carefully about solving problems.
 
 You will develop your skills in algorithmic thinking in a variety of ways,
 but most frequently by writing and exploring computer programs in which
@@ -70,27 +70,32 @@ viewing habits of large segments of society; we have a responsibility to
 think through the implications of such abilities and, when possible to
 find ways to avoid broader harm.
 
+So, while you will develop a wide variety of computer programs in FunDHum,
+the primary role of our programming exercises is to help you develop skills
+at algorithmic thinking.
+
 *Digital Humanities*.
-Although one can develop skills in algorithmic thinking by exploring
-algorithms abstractly, we will find it much more useful to focus on
-a particular problem domain.  In FunDHum, that problem domain is the
-relatively new field of Digital Humanities.  But what are the Digital
-Humanities [6]?  Perhaps we should start by considering the Humanities
-themselves.  From my perspective, humanists study the works of humanity,
-including language, philosophy, religion, and art.  Scientists may
-also study these areas.  However, humanists and scientists approach
-them differently.  While scientists tend to employ the scientific or
+Although one can develop such skills by exploring algorithms abstractly, we
+will find it much more useful to focus on a particular problem domain.
+In FunDHum, that problem domain is the relatively new field of Digital
+Humanities.  But what are the Digital Humanities [6]?  Perhaps we should
+start by considering the Humanities themselves.  From my perspective,
+humanists study the works of humanity, including language, philosophy,
+religion, and art.  Scientists and social scientists might also study
+these areas.  However, humanists and scientists approach their study
+differently.  While scientists tend to employ the scientific or
 experimental method, humanists often attend more to the particular
 details or broader contexts of individual works, frequently guided by
 an underlying theory or framework [7].
 
-What about the digital humanities?  Because the field is evolving,
-no one consistent definition has appeared.  That's almost certainly a
-good thing, definitions can limit possibilities, and fields need
-have room to grow.  At the same time, some limits are useful.
+What about the digital humanities?  Because the field is evolving, the
+community has not agreed upon a consistent definition.  That's almost
+certainly a good thing, definitions can limit possibilities, and fields
+need have room to grow.  At the same time, some limits are useful.
 For the sake of FunDHum, we will consider the aspects of the digital
-humanities that relate to the ways in which algorithmic thinking and
-digital tools can contribute to humanistic work.  And I use the term
+humanities that relate to the ways in which algorithmic thinking
+and digital tools can contribute to humanistic work, particularly
+humanistic work involve text written in natural language.  I use the term
 "contribute" carefully; as a computer scientist, I know that computers
 cannot replace the careful thought and analysis that undergird humanistic
 study.  However, these technologies can reveal new topics and modes of
@@ -115,20 +120,21 @@ of words.  She may find the unexpected connections between works leads
 her in do directions.  She may conclude that the relationships appear to
 be specious.
 
-"Place" plays a large role in many works; humanists are increasingly
-finding that mapping tools can provide a useful mechanism for both
-exploring and explaining the role of place.  Mapping place names in, say,
-Hamlet, may suggest that although the primary action takes place in one
-location or set of locations, other locations play enough of a role in the
-play that they influence the action [16].  Mapping tools need not be
-applied only to traditional literary texts.  I know, for example, of an
-informative project involving place names in the songs of Kendrick Lamar
-[17].  In many such situations, the maps may lead the scholar to a closer
-analysis of the text or texts.  At the same time, the maps themselves
-can serve as a kind of product of scholarly inquiry, providing evidence
-for a broader argument about the role of place.
+"Place" plays a large role in many works; humanists increasingly find
+that tools which render places on a map can provide a useful mechanism for
+both exploring and explaining the role of place.  Mapping place names in,
+say, Hamlet, may suggest that although the primary action takes place
+in one location or set of locations, other locations play enough of a
+role in the play that they influence the action [16].  Mapping tools need
+not be applied only to traditional literary texts.  For example, Mark
+Laver at Grinnell College has developed an informative project involving
+place names in the songs of Kendrick Lamar [17].  In many such situations,
+the maps may lead the scholar to a closer analysis of the text or texts.
+At the same time, the maps themselves can serve as a kind of product of
+scholarly inquiry, providing evidence for a broader argument about the
+role of place.
 
-In some cases, maps can also be the primary result of humanistic inquiry.
+Digital maps can also be the primary product of humanistic inquiry.
 Consider, for example, America's troublesome separation of immigrant
 children from their parents in the second decade of the 21st century.
 While there is power in narratives that explore the experience of a few
@@ -140,7 +146,7 @@ get housed compared to where they arrive [18].
 We have established that FunDHum introduces computer science through
 problems and approaches drawn from the digital humanities.  But how
 should one teach and learn these materials?  Computer science has
-traditionally been taught in much the same way that the natural sciences
+often been taught in much the same way that the natural sciences
 are traditionally taught, through lecture and associated lab.  However, it
 is clear that most students learn computer science better by doing rather
 than by listening.  Hence, FunDHum is designed to support a so-called
@@ -156,50 +162,53 @@ productive than two people working separately [21].  It's not just that
 thought process to someone else improves that thought process and helps
 find flaws.
 
-If you're reading through FunDHum on your own, I would suggest that you
-follow a similar approach.  You won't learn this material by just reading,
-so make sure that you work through the various problems.  You may even
-want to design some on your own.  And, if you're fortunate enough to have
-a friend who might be interested in these topics, try to work as a pair.
+If you are reading through FunDHum on your own, I suggest that you follow
+a similar approach.  You won't learn this material by just reading, so
+make sure that you work through the various problems.  You may even want
+to design some new problems on your own.  In addition, if you're fortunate
+enough to have a friend who might be interested in these topics, try to
+work as a pair.
 
-*Functional programming in the Racket Programming Language*.  As noted
-above, you will learn methods of algorithmic thinking, in part, by writing
-programs that represent your algorithms and data structures in a formal
+*Functional programming in the Racket Programming Language*.  You will
+learn methods of algorithmic thinking, in part, by writing programs
+that represent your algorithms and data structures in a formal
 language, one that computers can understand.  We call such languages
 "programming languages".  Although Python, PHP, and R are the most
-popular programming languages for the digital humanities, we'll be
-using the Racket programming language [22].
+popular programming languages for the digital humanities, we will use
+the Racket programming language [22].
 
 Why Racket?  There are many reasons.  Racket, like Python, was designed
-for both novice and experienced programmers:  Racket is simple enough
-for a beginner but powerful enough for an expert.  Racket's syntax
-is straightforward and simple, although filled with parentheses [23].
-It comes with an affiliated program development environment, DrRacket,
-that is particularly supportive of new programmers.  DrRacket makes it
-easy to develop, to experiment, and to debug.  As importantly, Racket
-encourages particular approaches to algorithm and program design; I think
-that emphasizing those approaches will make you a better algorithmic
-thinker and programmer.  Among other things, Racket supports a model of
-programming called "functional programming" which is characterized by an
-emphasis both on functions as fundamental values and on writing procedures
-that do not affect the state of the system.  Functional approaches are at
-the heart of many modern programming languages, and I've found it useful
-to introduce them early.
+for both novice and experienced programmers: Racket is simple enough
+for a beginner but powerful enough for an expert.  For example, 
+Racket's syntax is simpler than that of most other languages, although
+filled with parentheses [23].  Racket comes with an affiliated program
+development environment, DrRacket, that is particularly supportive of
+new programmers.  DrRacket makes it easy to develop, to experiment, and
+to debug.  As importantly, Racket encourages particular approaches to
+algorithm and program design; I think that emphasizing those approaches
+will make you a better algorithmic thinker and programmer.  Among other
+things, Racket supports a model of programming called "functional
+programming" which is characterized by an emphasis both on functions as
+fundamental values and on writing procedures that do not affect the state
+of the system.  Functional approaches are at the heart of many modern
+programming languages, and I've found it useful to introduce them early.
 
-**Particular emphases**
+**Broad themes**
 
-The digital humanities are broad.  We could not hope to cover all the 
-approaches and algorithms from the digital humanities in a year, let
-alone in a single semester.  That's okay; my goal is not to teach you
-everything.  Rather, I hope to expose you to enough algorithmic concepts
-and ways of thinking about humanistic "data" that you can learn new 
-things and, as importantly, design your own algorithms.
+The digital humanities encompass a wide variety of practices and
+perspectives, even if we narrow our focus to algorithms that work with
+text.  We could not hope to cover all pertinent approaches and algorithms
+from the digital humanities in a year, let alone in a single semester.
+That's okay; my goal is not to teach you everything.  Rather, I hope to
+expose you to enough algorithmic concepts and ways of thinking about
+humanistic "data" that you can learn new things and, as importantly,
+design your own algorithms.
 
 In FunDHum, we will emphasize three core aspects of the digital humanities:
-data representation, authoring of non-traditional texts, and, most
+data representation, authoring of "algorithmic" texts, and, most
 centrally, algorithms for analyzing and manipulating text.
 
-*Representation*.  One of the broad problems in the digital humanities
+*Data Representation*.  One of the broad problems in the digital humanities
 is how to represent data electronically to support a broad variety
 of algorithms.  Consider, for example, the markup appropriate for an
 electronic version of a book.  It's clear that we want to provide the
@@ -219,13 +228,13 @@ we will examine common formats for representing and annotating textual
 data, focusing primarily on "markup languages" [25] like HTML and XML
 and simple file formats for storing additional information.
 
-*Authoring*.  Your daily experience with the Web tells you that computers
-have changed how people write, from the abbreviated text of Twitter
-and SMS messages to the multiply linked documents of Wikipedia and
-the World Wide Web.  We will explore various techniques for building
-"algorithmically supported" documents, documents that draw some of their
-content from algorithms, such as algorithms that analyze or reframe
-other documents.
+*Authoring algorithmic texts*.  Your daily experience with the Web tells
+you that computers have changed how people write, from the abbreviated
+text of Twitter and SMS messages to the multiply linked documents of
+Wikipedia and the World Wide Web.  We will explore various techniques
+for building "algorithmically supported" documents, documents that draw
+some of their content from algorithms, such as algorithms that analyze
+or reframe other documents.
 
 *Textual analysis*.  Algorithms are core to the study of computer science.
 Hence, the design of algorithms that we can use to analyze and manipulate
@@ -239,9 +248,9 @@ primary aspects of topic modeling.
 
 **Context**
 
-It would be irresponsible of us as computer scientists and humanists if
-we did not consider the broader context of the work we do.  At times, we
-will consider the implications and potential pitfalls of the algorithms
+It would be irresponsible of us as computer scientists and as humanists
+if we did not consider the broader context of the work we do.  At times,
+we will consider the implications and potential pitfalls of the algorithms
 we write and data we represent.
 
 Computer technology is changing the world.  Unfortunately, the people who
@@ -267,7 +276,7 @@ user interfaces.  Whenever possible, we will ask ourselves whether the
 approaches we are using are broadly accessible and, if they are not, we
 will consider ways in which we could make them more accessible.
 
-**Looking ahead**
+**Looking ahead** [26]
 
 There you have it.  FunDHum introduces algorithmic thinking through 
 three core approaches to the digital humanities: data representation,
@@ -307,7 +316,7 @@ seems to have disappeared.  I've added this postscript to remind myself.
 [3] Perhaps I should wait until after I've written the "post-book
 introduction" before I edit for style.  After all, there's a good chance
 that I'll throw a lot away.  Or perhaps I should edit for style earlier,
-say, before I present it at the Obermann seminar.  That I way I won't
+say, before I present it at the Obermann seminar.  That way, I won't
 embarrass myself with the quality of my writing.
 
 [4] If you want to read that as "Fund the Humanities" for "Fun with the
@@ -396,6 +405,8 @@ forgotten that reason now.  But I am finding it increasingly difficult to
 write anything significant about computer science that does not reflect
 in some way on issues of broadening participation in computing.
 
+[26] This last section needs a better title.
+
 ---
 
-*Version 0.9 of 2018-09-04.*
+*Version 1.0 of 2018-09-04.*

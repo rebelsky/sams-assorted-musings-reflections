@@ -1767,6 +1767,10 @@ A new CSC 151
 
 > Notes as we prepare for a new section and a new version.
 
+[An introduction for the new "digital humanities" CSC 151, take zero](fundhum-intro-00) (Musing #740)
+
+> Getting started on the new version.
+
 Grinnellians you should know (or know about)
 --------------------------------------------
 
