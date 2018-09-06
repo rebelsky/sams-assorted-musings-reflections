@@ -36,22 +36,49 @@ _Tags/form or meta: delayed, draft, long, rambly (I've used that in released mus
 
 _Tags/style: rants, talks_
 
-_Tags/content: accessibility, autobiographical, CSC 151, data science, delayed, digital humanities, email, grinnell, joc, language, meta, overcommittment, packrata, Racket (or Scheme; I'm not consistent), technical (not the same as technology), technology (not the same as technical)_
+_Tags/content: accessibility, autobiographical, CSC 151, data science, delayed, digital humanities, email, grinnell, joc, language, meta, obermann, overcommittment, packrat, Racket (or Scheme; I'm not consistent), technical (not the same as technology), technology (not the same as technical)_
+
+1. Course SMURFs: :teaching:short:draft: `course-smurfs`
+
+1. A schedule for FunDHum :csc151:teaching:long:draft: `fundhum-schedule-00`
+
+1. My first Obermann Seminar :autobiographical:obermann:short:draft: `obermann-seminar-01`.
+
+1. Developing a work strategy  :overcommitment:rambly:short:
+One of my fellow Fellows at the Obermann center asked the rest of us 
+about the approaches we take to ensure that we make progress on our
+work.  That seems like a good incentive for me to sit down and figure
+things out.  I've been blogging daily [mostly] for the past two years
+as a I way to get myself used to writing regularly and to think through
+some broader topics of interest.  I use a task list manager and try
+to put relatively small tasks on that list.  [Okay, I've used a wide
+variety of task list manager.  For ahile, I used Trello boards.  These
+days, I find that Todoist does the best job for me.]  Have enough of a
+variety of tasks so that if I get stuck on one, I can switch to another.
+
+1. Going beyond text in the digital humanities :csc151:teaching:dighum:
+When I posted my draft introduction to the new "digital humanities" CSC
+151, some of the first responses I got were that the plans seemed a bit
+text-centric.  As I get started, I should think about those isseus.
+This is a tool building class more than a tool use class.  Easier to
+get students quickly up to speed on algorithms in the context of text
+than the context of, say, visualizations or animations.  Those take much
+more time to develop and, frequently, require or reveal less sophisticated
+algorithmic thinking.  Also issues of accessibility.  Text is generally
+accessible to a broader range.  Most computers can read text aloud.
+(Their ability to read program code aloud varies.)  Intracting with
+text does not require a sophisticated interface or even a particular interface.
+At the same time, I should be helping students think more broadly about
+the digital humanities.
 
 1. Jekyll or Scribble or ...?  :dighum:sketch:teaching: `jekyll-scribble-or.md`
 
-1. My bookshelf at the Obermann center. :dighum:short:
+1. My bookshelf at the Obermann center. :dighum:short:obermann:
 
-1. Traveling to the Obermann center.  :dighum:short:
+1. Traveling to the Obermann center.  :authobiographical:short:obermann:sketch:  `obermann-travel`
 
-1. Staycation 2019.  :authobiographical:sketch:
-At the end of this summer, I took my second vacation of the summer.
-[readers may recall that Michelle and I went on a cruise earlier in
-the summer].  This vacation was not quite as planned; one of my best
-friends from high school came to visit Grinnell and I took the week
-off to do thins with him.  So I had a bit of a "staycation".  He's
-as much of a workaholic as I am, so we has often content for the simple
-break of sitting and watching TV or reading a book.
+1. From Markdown.pl to pandoc.  :meta:joc:sketch:  `markdown-pandoc`
+Switching the way in which I generate these musings.
 
 1. The value of "things".  :authobiographical:sketch:packrat:
 (The start of a new series on being a packrat.)
@@ -77,6 +104,7 @@ same as the item.
 [1] Amazingly, even thinking about that issue makes me cry.
 [2] Well, probably a half dozen issues.
 
+1. Mourn what you lost or celebrate what you had.  :autobiographical:sketches: `mourn-or-celebrate`.
 1. Organization :autobiographical:organization:  `organization.md`
 No one who sees my office and laba may believe this, but I really like
 organization. Why aren't they neat? Addication to accumulation and
@@ -548,6 +576,24 @@ A great paper to read and assign.
 1. Bash-basics: I/O redirection  :csc281:unix:
 
 1. Variadic macros :csc281:C:
+
+1. MLK Day :grinnell:
+
+1. The Rock and Roll Hall of Fame.  :music:rambly:
+How did the Cars get in?  Did they influence anyone?  I'm pretty sure
+that David Robinson (drummer for the Cars, not the basketball player
+nor the Grinnell CIO) thinks DMZ (one of his other bands).  Why is 
+that Muddy Waters is in as a Performer (the primary award), but Howlin'
+Wolf is in as an influence?  What other women belong?  (Dionne Warwick,
+Marianne Faithful - Broken English is a masterpiece, at least in my
+world.)  And where are the bands of my late teenage years?  Why no
+Husker Du, Minutemen, the Replacements, X?  It's clear that the first two influenced
+lots of bands.  Green Day are and Nirvana are in, and it's pretty clear
+that they wouldn't have existed if it hadn't been for the Huskers, the
+'Mats.  <https://en.wikipedia.org/wiki/List_of_Rock_and_Roll_Hall_of_Fame_inductees>  And where are Richard Thompson and Fairport convention, one of
+Rock's most important guitarists and a key English folk-rock band?
+Pere Ubu should be there.  It's Cleveland, after all. 
+<https://www.rockhall.com/inductees>.
 
 The stack of musings
 --------------------
