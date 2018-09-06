@@ -1070,6 +1070,10 @@ Rants
 
 > Has it become too broad?
 
+[SAT mistakes](sat-mistakes) (Musing #741)
+
+> The College Board should know better.
+
 Assorted talks and speeches
 ---------------------------
 

@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[An introduction for the new "digital humanities" CSC 151, take zero](fundhum-intro-00) (Musing #740)
+[SAT mistakes](sat-mistakes) (Musing #741)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
