@@ -1450,6 +1450,10 @@ online, but they will soon expand to more general issues about teaching._
 
 > Making the implicit explicit.
 
+[Course SMURFS](course-smurfs) (Musing #742)
+
+> An alternative to course goals and course outcomes. 
+
 Code camps
 ----------
 
