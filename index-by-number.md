@@ -965,3 +965,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 
 [SAT mistakes](sat-mistakes) (Musing #741)  
 [Course SMURFS](course-smurfs) (Musing #742)  
+[My first Obermann seminar](obermann-seminar-01) (Musing #743)  

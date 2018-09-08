@@ -285,3 +285,7 @@ Autobiographical essays, more or less
 
 > My second vacation of the summer!
 
+[My first Obermann seminar](obermann-seminar-01) (Musing #743)
+
+> Encountering great minds.
+
