@@ -616,3 +616,7 @@ Almost everything else
 
 > Learning to understand non-verbal communcation.
 
+[The Avital Ronell case](avital-ronell) (Musing #744)
+
+> Something I've read too much about.
+

@@ -9,8 +9,10 @@ If you'd like, you can read [a longer introduction](intro-musings-v0).
 If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
-Latest musing:
-[My first Obermann seminar](obermann-seminar-01) (Musing #743)
+Latest musings:
+[The Avital Ronell case](avital-ronell) (Musing #744)
+and
+[SamR's sarcasm](sarcasm-in-class) (Musing #745).
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

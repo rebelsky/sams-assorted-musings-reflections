@@ -3,16 +3,15 @@ SamR's Sarcasm
 
 *Topics/tags: [Teaching](index-teaching), [autobiographical](index-autobiographical), short*
 
-As I was walking in to work today [1], I was reflecting on the Avital
-Ronnell case [2].  I'd seen enough of a variety of interesting quotations
-about the case that I found myself tempted to put them together into
-some kind of musing.  Of course, I was also thinking more broadly about
-the case.  I'm not sure exactly what words I used, but I said something to
-myself like, 
+As I was walking into work the other day [1], I was reflecting on the
+Avital Ronell case [2].  I'd been keeping up with the situation and
+found myself wanting to [react to some of the comments I'd seen](avital).
+Of course, I was also thinking more broadly about the issues.  I'm not
+sure exactly what words I used, but I said something to myself like,
 
 > Faculty members should understand the power dynamic at play.
 Students aren't going to challenge your 'idiosyncratic personality'
-and the expectations your style of interacting with others raise.
+nor the expectations your style of interacting with others raises.
 It's your job, not your students', to reflect on how these kinds of
 interactions affect your students and to correct, as necessary.
 
@@ -23,21 +22,28 @@ Why?
 Because that comment could easily describe me.  One of my defining
 characteristics is that I regularly use sarcasm [3] in my teaching and
 other interactions with people [4].  I think of it as friendly sarcasm,
-but I expect that not everyone finds it that way.  I did try to tone
-it down a few years ago, but teaching felt less natural, and I went back
+but I expect that not everyone finds it that way.  I did try to tone it
+down a few years ago, but teaching felt less natural, and I went back
 to my old ways.
 
-"Teaching felt less natural" is not an excuse.  I commit to doing
-better.
+Nonetheless, it's my job to reflect on how my interactions affect people.
+"Teaching felt less natural" is not an excuse.  I commit to doing better.
 
 ---
 
-Postscript: I also need to work on my "righteous anger".  However,
-that's not something I use with students.
+Postscript: One of my other idiosyncracies is what we might call my
+"righteous anger".  While that's not something I use with students [5],
+it's something that affects others.  I also need to work on that.  
 
 ---
 
-[1] Today is an @Grinnell day.
+Postscript: In case it isn't clear: While I was inspired by my reaction
+to the Avital Ronell situation, my sarcasm does not come anything close
+to what Ronell is accused of.
+
+---
+
+[1] That day was an @Grinnell day.
 
 [2] Those who don't know about the case can read about it in [_The Chronicle of Higher Education_](https://www.chronicle.com/article/How-a-Letter-Defending-Avital/243650), [_The New York Times_](https://www.nytimes.com/2018/08/13/nyregion/sexual-harassment-nyu-female-professor.html), or even [_The Los Angeles Review of Books_](http://blog.lareviewofbooks.org/essays/avital-nimrod-sexual-harassment-campy-communications-nyu/).  As you might expect, _Chronicle_ also has a broad array of related articles.
 
@@ -47,6 +53,8 @@ that's not something I use with students.
 about my students and about the process of teaching.  I tend to
 [overcommit](index-overcommitment).  You can find others.
 
+[5] However, I have been known to use it on behalf of students.
+
 ---
 
-*Version 0.1 of 2018-09-07.*
+*Version 1.0 of 2018-09-09.*

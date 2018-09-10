@@ -104,3 +104,7 @@ online, but they will soon expand to more general issues about teaching._
 
 > An alternative to course goals and course outcomes. 
 
+[SamR's sarcasm](sarcasm-in-class) (Musing #745).
+
+> It's time for a change.
+

@@ -1454,6 +1454,10 @@ online, but they will soon expand to more general issues about teaching._
 
 > An alternative to course goals and course outcomes. 
 
+[SamR's sarcasm](sarcasm-in-class) (Musing #745).
+
+> It's time for a change.
+
 Code camps
 ----------
 
@@ -3224,6 +3228,10 @@ Almost everything else
 [Watching a livestock competition](state-fair-livestock) (Musing #718)
 
 > Learning to understand non-verbal communcation.
+
+[The Avital Ronell case](avital-ronell) (Musing #744)
+
+> Something I've read too much about.
 
 Musings with multiple entries
 -----------------------------
