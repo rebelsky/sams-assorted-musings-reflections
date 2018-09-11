@@ -37,6 +37,15 @@ Postscript: Russell's memo says "Among the top 25 rated U.S. News and
 World Report national schools, our comprehensive fee has consistently
 ranked in the lowest fifth."  I wonder if that's still the case.
 
+Followup: A friend did the analysis.  Of the schools in the top 25, only
+three have lower comprehensive fees than Grinnell: Soka U [3], West Point
+[4], and the U.S. Naval Academy [5].  The most expensive top-25 school,
+Harvey Mudd, costs about $10K more per year than Grinnell.
+
+However, my friend also notes that sticker price is less meaningful than
+net price and student debt and, as I observed, we do pretty well on that
+front.
+
 ---
 
 Postscript: As far as I can tell, college costs go up faster than 
@@ -55,8 +64,14 @@ There's no real reason for me to keep it.
 
 [2] It was 5.5% leading into 2002--03.  It was 3.3% leading into 2018--19.
 
+[3] I've never heard of Soka U.
+
+[4] Free.
+
+[5] Also free.
+
 ---
 
 *Version 1.0 released 2018-09-10.*
 
-*Version 1.0.1 of 2018-09-11.*
+*Version 1.1 of 2018-09-11.*
