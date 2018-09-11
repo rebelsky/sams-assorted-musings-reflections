@@ -968,3 +968,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [My first Obermann seminar](obermann-seminar-01) (Musing #743)  
 [The Avital Ronell case](avital-ronell) (Musing #744)  
 [SamR's sarcasm](sarcasm-in-class) (Musing #745).  
+[The cost of attending Grinnell (aka exponential growth)](grinnell-cost) (Musing #746)  

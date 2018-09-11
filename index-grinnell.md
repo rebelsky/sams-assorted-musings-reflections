@@ -179,3 +179,7 @@ Grinnell.
 
 > Our fascinating process.
 
+[The cost of attending Grinnell (aka exponential growth)](grinnell-cost) (Musing #746)
+
+> Outpacing inflation.
+
