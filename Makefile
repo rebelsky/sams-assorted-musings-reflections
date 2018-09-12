@@ -30,8 +30,12 @@ clean:
 %.pdf: %.ps
 	ps2pdf $<  $*.pdf
 
+%.PDF: %.html
+	pandoc $< -o $@
+
 %-md.html: %.md
-	mdfootnotes $< | Markdown.pl > $@
+	mdfootnotes $< | pandoc -S --html-q-tags > $@
+#	mdfootnotes $< | Markdown.pl > $@
 
 %.html: %-md.html resources/template.html
 	wrap-md-html $^ > $@
