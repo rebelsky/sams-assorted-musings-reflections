@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[The cost of attending Grinnell (aka exponential growth)](grinnell-cost) (Musing #746)
+[A draft schedule for the new "digital humanities" CSC 151](fundhum-schedule-00) (Musing #748)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

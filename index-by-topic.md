@@ -1783,6 +1783,10 @@ A new CSC 151
 
 > Getting started on the new version.
 
+[A draft schedule for the new "digital humanities" CSC 151](fundhum-schedule-00) (Musing #748)
+
+> Ordering the topics.
+
 Grinnellians you should know (or know about)
 --------------------------------------------
 
@@ -2117,6 +2121,10 @@ Grinnell.
 [The cost of attending Grinnell (aka exponential growth)](grinnell-cost) (Musing #746)
 
 > Outpacing inflation.
+
+[Grinnell's 2019 _U.S. News_ ranking](grinnell-usnews-2019) (Musing #747)
+
+> Why the jump?
 
 A letter to the incoming chair
 ------------------------------

@@ -183,3 +183,7 @@ Grinnell.
 
 > Outpacing inflation.
 
+[Grinnell's 2019 _U.S. News_ ranking](grinnell-usnews-2019) (Musing #747)
+
+> Why the jump?
+

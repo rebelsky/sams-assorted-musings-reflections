@@ -969,3 +969,5 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [The Avital Ronell case](avital-ronell) (Musing #744)  
 [SamR's sarcasm](sarcasm-in-class) (Musing #745).  
 [The cost of attending Grinnell (aka exponential growth)](grinnell-cost) (Musing #746)  
+[Grinnell's 2019 _U.S. News_ ranking](grinnell-usnews-2019) (Musing #747)  
+[A draft schedule for the new "digital humanities" CSC 151](fundhum-schedule-00) (Musing #748)  

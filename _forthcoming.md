@@ -38,11 +38,7 @@ _Tags/style: rants, talks_
 
 _Tags/content: accessibility, autobiographical, CSC 151, data science, delayed, digital humanities, email, grinnell, joc, language, meta, obermann, overcommittment, packrat, Racket (or Scheme; I'm not consistent), technical (not the same as technology), technology (not the same as technical)_
 
-1. Course SMURFs: :teaching:short:draft: `course-smurfs`
-
 1. A schedule for FunDHum :csc151:teaching:long:draft: `fundhum-schedule-00`
-
-1. My first Obermann Seminar :autobiographical:obermann:short:draft: `obermann-seminar-01`.
 
 1. Developing a work strategy  :overcommitment:rambly:short:
 One of my fellow Fellows at the Obermann center asked the rest of us 
@@ -79,6 +75,8 @@ the digital humanities.
 
 1. From Markdown.pl to pandoc.  :meta:joc:sketch:  `markdown-pandoc`
 Switching the way in which I generate these musings.
+
+1. Other use of the term "musings".  :meta:music:draft: `power-pop-musings`
 
 1. The value of "things".  :authobiographical:sketch:packrat:
 (The start of a new series on being a packrat.)

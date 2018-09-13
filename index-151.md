@@ -25,3 +25,7 @@ A new CSC 151
 
 > Getting started on the new version.
 
+[A draft schedule for the new "digital humanities" CSC 151](fundhum-schedule-00) (Musing #748)
+
+> Ordering the topics.
+
