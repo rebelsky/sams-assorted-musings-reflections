@@ -390,3 +390,7 @@ Rants
 
 > The College Board should know better.
 
+[The "Quantitative Reasoning" course tag](quantitative-reasoning-tag) (Musing #749)
+
+> Can we revise the description?
+
