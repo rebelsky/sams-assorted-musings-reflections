@@ -3,21 +3,23 @@ Down yet another rabbithole
 
 *Topics/tags: [Miscellaneous](index-misc), the Interweb, art, rambly*
 
-The other day, I received an email [1] from the MIT press advertising some
-books they thought I would deem of interest.  Their algorithms work relatively
-well.  I passed along information about [a new book on Twitterbots](http://mitpress.mit.edu/books/twitterbots) to some colleague who are studying them.  I
-also considered whether I should read it as part of my preparation
-for teaching the digital-humanities-themed CSC 151.  But the book
-that really caught my eye was [_The Jean Freeman Gallery Does Not
-Exist_](mitpress.mit.edu/books/jean-freeman-gallery-does-not-exist).
+The other day, I received an email [1] from the MIT press advertising
+some books they thought I would deem of interest.  Their algorithms
+work relatively well.  I passed along information about [a new book on
+Twitterbots](http://mitpress.mit.edu/books/twitterbots) to some colleague
+who are studying them.  I also considered whether I should read it as
+part of my preparation for teaching the digital-humanities-themed CSC 151.
+But the book that really caught my eye was [_The Jean Freeman Gallery Does
+Not Exist_](mitpress.mit.edu/books/jean-freeman-gallery-does-not-exist).
 
 For those who are as uninformed as I am, the Jean Freeman Gallery was a
 conceptual art piece by [Tery Fugate-Wilcox](https://en.wikipedia.org/wiki/Terry_Fugate-Wilcox) [2] and Valerie Monroe Shakespeare [3] consisting of
-advertisements for a non-existent gallery.  I appreciate a lot of conceptual 
-art, particularly pieces that are intended to challenge assumptions and 
-that have a bit of snark about them.  And so I went to find out more.
+advertisements for a gallery that did not exist.  I appreciate a lot
+of conceptual art, particularly pieces that are intended to challenge
+assumptions and that have a bit of snark about them.  And so I went to
+find out more.
 
-I see from the page that Fugate-Wilcox also does other kinds of conceptual
+I saw from the page that Fugate-Wilcox also does other kinds of conceptual
 art that I find interesting, particularly ones that evolve as they enounter
 the environment.  
 
@@ -83,4 +85,4 @@ that they collaborated on many aspects of the piece.
 
 ---
 
-*Version 0.1 of 2018-08-07.*
+*Version 0.2 of 2018-08-07.*

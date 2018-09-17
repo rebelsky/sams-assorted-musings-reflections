@@ -10,6 +10,9 @@ The next end of month musing
 
 * Goals: Read and apply _Style_.  Read daily and reflect more on articles
   I read.  Comment on working at the Obermann center.  Inbox zero.
+* Wrote software, such as the schedule maker.
+* One [particularly concise musing](busses-bussing) that I spent some time
+editing into shape, cutting words and senteces.  I wish I'd kep the history.
 
 On particular dates
 -------------------
@@ -38,8 +41,6 @@ _Tags/style: rants, talks_
 
 _Tags/content: accessibility, autobiographical, CSC 151, data science, delayed, digital humanities, email, grinnell, joc, language, meta, obermann, overcommittment, packrat, Racket (or Scheme; I'm not consistent), technical (not the same as technology), technology (not the same as technical)_
 
-1. A schedule for FunDHum :csc151:teaching:long:draft: `fundhum-schedule-00`
-
 1. Developing a work strategy  :overcommitment:rambly:short:
 One of my fellow Fellows at the Obermann center asked the rest of us 
 about the approaches we take to ensure that we make progress on our
@@ -51,6 +52,8 @@ to put relatively small tasks on that list.  [Okay, I've used a wide
 variety of task list manager.  For ahile, I used Trello boards.  These
 days, I find that Todoist does the best job for me.]  Have enough of a
 variety of tasks so that if I get stuck on one, I can switch to another.
+
+1. Repairing my vintage MacBook.  :rants:Apple:sketch: `vintage-macbook-repairs`
 
 1. Going beyond text in the digital humanities :csc151:teaching:dighum:
 When I posted my draft introduction to the new "digital humanities" CSC
@@ -69,14 +72,52 @@ the digital humanities.
 
 1. Jekyll or Scribble or ...?  :dighum:sketch:teaching: `jekyll-scribble-or.md`
 
-1. My bookshelf at the Obermann center. :dighum:short:obermann:
+1. My bookshelf at the Obermann center. :dighum:obermann:
 
 1. Traveling to the Obermann center.  :authobiographical:short:obermann:sketch:  `obermann-travel`
 
 1. From Markdown.pl to pandoc.  :meta:joc:sketch:  `markdown-pandoc`
 Switching the way in which I generate these musings.
 
-1. Other use of the term "musings".  :meta:music:draft: `power-pop-musings`
+1. The Academic Job Search.  :academia:articles:
+<http://academicjobs.wikia.com/wiki/Academic_Jobs_Wiki>
+<https://www.chronicle.com/article/The-Way-We-Hire-Now/244467>
+
+1. Playing with Google maps in Racket. :dighum:racket:
+
+1. Creating a syllabus.  :dighum:academia:articles:
+<https://www.chronicle.com/interactives/advice-syllabus>
+
+1. The joy of code: Finding files.  :joc:sketch:
+Recently, I've found a need to look for files somewhere in a subdirectory
+using regular expressions.  I'm not sure why, but I found that `find`
+did not work as I was expecting, probably because it uses bash regular
+expressions rather than the regular expressions common in most other
+languages.  (E.g., `a*` means "zero or more copies of 'a'" in most
+regexp languages, but "a followed by any number of other characters"
+in bash regexp.  Rather than figuring out the right way to express the
+patterns to bash, I decideed to write my own utility.
+
+1. The joy of code: Building syllabi tables.  :joc:dighum:teaching:
+Recently, I found myself needed to explore the ordering of topics
+in the schedule of a class.  Blah blah blah.
+
+1. The joy of code: Inserting commands into markdown.  :joc:sketch:
+I use Markdown for way too much of my work.  The other day, as I was
+inserting the output of some shell command into my markdown file
+(I think it was a command to build an HTML table that represents 
+a class schedule from an easier-to-manipulate text file), I realized
+that it would make much more sense to insert that output programmatically,
+rather than manually.  That way, if I change the way the command works,
+I don't have to manually re-run the command.  Here's the core of
+my solution, in Perl: `$contents =~ s/^!!(.*)$/process($1)/me;` Basically,
+I replace any line that starts with two bangs (`!!`) with the result
+of the command that appears after the two bangs.  `process` is just a
+subroutine that evaluates the command and combines the output.  I love
+writing code.  You can find the complete program at 
+<https://github.com/rebelsky/samr-utils/blob/master/mdexec>
+Does Pandoc have a way to do that?  Potentially.  But it was more fun
+to write my own solution.
 
 1. The value of "things".  :authobiographical:sketch:packrat:
 (The start of a new series on being a packrat.)
@@ -103,18 +144,21 @@ same as the item.
 [2] Well, probably a half dozen issues.
 
 1. Mourn what you lost or celebrate what you had.  :autobiographical:sketches: `mourn-or-celebrate`.
+
+1. Addication to accumulation. :autobiographical:sketches: `accumulation.md`
+
 1. Organization :autobiographical:organization:  `organization.md`
 No one who sees my office and laba may believe this, but I really like
 organization. Why aren't they neat? Addication to accumulation and
 inability to get rid of things. (`organization.md`)
-
-1. Addication to accumulation. :autobiographical:sketches: `accumulation.md`
 
 1. Beloit.  :academia:short:
 <http://www.beloitdailynews.com/news/20180824/beloit_college_grappling_with_financial_issues>.  A short mention in _Chronicle_ at <https://www.chronicle.com/article/The-Daily-Briefing/238091>.  Why not anything bigger?  And why not anything bigger about the mindset list?  <http://www.rrstar.com/news/20180826/georgette-braun-beloit-college-drops-mindset-list>
 
 1. Beloit mindset list.  :academia:short:
 See above
+
+1. Down yet another rabbithole.  :misc:art:draft: `rabbithole-fulgate-wilcox`
 
 1. "faculty" - singular or plural verb forms? :writing:sketch:short:
    http://www.dictionary.com/e/collective-nouns/.  When I write things
@@ -148,14 +192,6 @@ See above
 
 1. Flying from Grinnell.  :short:sketch:grinnell: `flying-from-grinnell`
 
-1. Busses vs. buses.  :language:short:
-What's the plural of "bus"?  To most people, it's "buses".  To a few,
-it seems to be "busses".  But what's the plural of "buss"?  It's
-certainly 
-I mostly think about this issue because I remember a poem mom wrote
-that ended with "I'm pro bussing", and she clearly meant the "buss"
-version.
-
 1. A procedure is worth 1000 pictures.  :csc151:art:teaching:
 Useful to think about as I consider the project for the new CSC 151.
 
@@ -177,29 +213,13 @@ build a ginormous complex devoted to them."
 
 1. Synchronizing my systems. :joc:sketch:
 
-1. Bye bye Apple Music Storage.  :rants:autobiographical:
-It should be no surprise to those who know me that I accumulate things.
-One of the things I accumulate is music.  I have way too many LPs,
-way too many CDs, and way too many digital tracks.  When Michelle and
-I were first married, I wrote an awesome database for the music.  But
-it was in HyperCard; I don't think I could run it now even if I tried.
-In any case, a few years ago I decided that I should try to get as much
-of my music in digital form as I could in the same place [boy that was a
-horrible sentence].  And Amazon had a new cloud service that stored 
-your music.  For $25/year [really $24.99], I could store up to 250,000
-songs.  That's about 15,000 albums, more than I have.  So it seemed like
-a good way to start getting things together.  Unfortunately, this year
-Amazon has discontinued the service.  So now I'm stuck trying to figure
-out what to do next.  I'm going to upload as much as I can before my
-upload privs end on September 11.  After that, I can still download
-anything I want (although I will download a bunch beforehand to make
-sure), but I can't upload anything new.  Blah blah blah.
-
 1. Making breakfast.  :authobiographical:short:sketch:
 Write about making french toast and thinking back to mom.  Perhaps also
 the other breakfast foods in our house: Omelettes and my dad's omelette
 pan and baked eggs.  Maybe grandma's baked apples.  I should make those!
 These days, bagels are part of the family repoirtoire.
+
+1. Organizing my music.  :autobiographical:draft: `organizing-my-mp3s`.
 
 1. Odd Bodkins.  :reviews:autobiographical:strips:
 If I made it a Tutorial topic, perhaps we could go visit the archives.
@@ -225,12 +245,8 @@ I found a study.
 1. Fun things that I can't attend: The Leonardo Convening :short:art:
    <https://www.leonardo.info/convening>
 
-1. Old or vintage? :rants:short:draft:computers: `old-or-vintage.md`
-
 1. Knowing courses vs. Knowing the Invisible :academia:rambly:short:
 <https://www.chronicle.com/article/A-Crowdsourced-Tool-Helps/244036>
-
-1. Down yet another rabbithole.  :misc:art:draft: `rabbithole-fulgate-wilcox`
 
 1. Inbox zero, revisited, stage 6  :email:rambly:  
 
@@ -592,6 +608,15 @@ that they wouldn't have existed if it hadn't been for the Huskers, the
 Rock's most important guitarists and a key English folk-rock band?
 Pere Ubu should be there.  It's Cleveland, after all. 
 <https://www.rockhall.com/inductees>.
+
+1. The SPRIT rabbithole.  misc:statistics:rambly:articles:
+<https://www.chronicle.com/article/I-Want-to-Burn-Things-to/244488?cid=wcontentgrid_article_bottom>
+<http://steamtraen.blogspot.com/2018/07/this-researcher-compared-two-identical.html>
+<https://medium.com/@jamesheathers/life-in-the-tinderbox-6b2e9760f3aa>
+
+1. Giving up on Macs.  :mac:apple:recycling:article:
+<https://www.washingtonpost.com/technology/2018/09/11/explosive-problem-with-recycling-ipads-iphones-other-gadgets-they-literally-catch-fire/>
+<https://motherboard.vice.com/en_us/article/yp73jw/apple-recycling-iphones-macbooks>
 
 The stack of musings
 --------------------
