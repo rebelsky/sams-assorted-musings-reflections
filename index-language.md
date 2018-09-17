@@ -17,3 +17,7 @@ to them eventually._
 
 > Idioms I should not use.
 
+[Busses and bussing](busses-bussing) (Musing #750)
+
+> The number of s's matters.
+

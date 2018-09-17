@@ -972,3 +972,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Grinnell's 2019 _U.S. News_ ranking](grinnell-usnews-2019) (Musing #747)  
 [A draft schedule for the new "digital humanities" CSC 151](fundhum-schedule-00) (Musing #748)  
 [The "Quantitative Reasoning" course tag](quantitative-reasoning-tag) (Musing #749)  
+[Busses and bussing](busses-bussing) (Musing #750)  

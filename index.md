@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[The "Quantitative Reasoning" course tag](quantitative-reasoning-tag) (Musing #749)
+[Busses and bussing](busses-bussing) (Musing #750)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
