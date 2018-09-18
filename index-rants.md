@@ -398,3 +398,7 @@ Rants
 
 > Never trust the cloud.
 
+[Notes on Web governance](grinnell-web-governance-notes) (Musing #753)
+
+> Five years is too long to wait.
+

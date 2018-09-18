@@ -978,3 +978,5 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 
 [Someone else's musings](power-pop-musings) (Musing #751)  
 [Amazon music storage](amazon-music-storage) (Musing #752)  
+[Notes on Web governance](grinnell-web-governance-notes) (Musing #753)  
+[More musings by others](more-samr-musings) (Musing #754)  

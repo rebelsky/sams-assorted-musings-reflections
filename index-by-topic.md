@@ -297,6 +297,10 @@ be found in [the list of musing son writing](index-on-writing)._
 
 > I'm not alone in using the term.
 
+[More musings by others](more-samr-musings) (Musing #754)
+
+> I'm not even the only Sam who uses the term.
+
 Monthly reflections
 -------------------
 
@@ -1089,6 +1093,10 @@ Rants
 [Amazon music storage](amazon-music-storage) (Musing #752)
 
 > Never trust the cloud.
+
+[Notes on Web governance](grinnell-web-governance-notes) (Musing #753)
+
+> Five years is too long to wait.
 
 Assorted talks and speeches
 ---------------------------

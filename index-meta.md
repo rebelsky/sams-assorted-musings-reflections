@@ -161,3 +161,7 @@ be found in [the list of musing son writing](index-on-writing)._
 
 > I'm not alone in using the term.
 
+[More musings by others](more-samr-musings) (Musing #754)
+
+> I'm not even the only Sam who uses the term.
+
