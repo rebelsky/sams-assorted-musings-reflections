@@ -973,3 +973,8 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [A draft schedule for the new "digital humanities" CSC 151](fundhum-schedule-00) (Musing #748)  
 [The "Quantitative Reasoning" course tag](quantitative-reasoning-tag) (Musing #749)  
 [Busses and bussing](busses-bussing) (Musing #750)  
+
+## 751-760
+
+[Someone else's musings](power-pop-musings) (Musing #751)  
+[Amazon music storage](amazon-music-storage) (Musing #752)  

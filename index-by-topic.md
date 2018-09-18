@@ -293,6 +293,10 @@ be found in [the list of musing son writing](index-on-writing)._
 
 > External constraints on musing.
 
+[Someone else's musings](power-pop-musings) (Musing #751)
+
+> I'm not alone in using the term.
+
 Monthly reflections
 -------------------
 
@@ -1081,6 +1085,10 @@ Rants
 [The "Quantitative Reasoning" course tag](quantitative-reasoning-tag) (Musing #749)
 
 > Can we revise the description?
+
+[Amazon music storage](amazon-music-storage) (Musing #752)
+
+> Never trust the cloud.
 
 Assorted talks and speeches
 ---------------------------

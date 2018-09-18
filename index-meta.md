@@ -157,3 +157,7 @@ be found in [the list of musing son writing](index-on-writing)._
 
 > External constraints on musing.
 
+[Someone else's musings](power-pop-musings) (Musing #751)
+
+> I'm not alone in using the term.
+

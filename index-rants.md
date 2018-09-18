@@ -394,3 +394,7 @@ Rants
 
 > Can we revise the description?
 
+[Amazon music storage](amazon-music-storage) (Musing #752)
+
+> Never trust the cloud.
+

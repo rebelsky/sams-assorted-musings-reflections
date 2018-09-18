@@ -9,7 +9,11 @@ If you'd like, you can read [a longer introduction](intro-musings-v0).
 If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
-Latest musing:
+Latest musings:
+[Someone else's musings](power-pop-musings) (Musing #751)
+and
+[Amazon music storage](amazon-music-storage) (Musing #752)
+
 [Busses and bussing](busses-bussing) (Musing #750)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
