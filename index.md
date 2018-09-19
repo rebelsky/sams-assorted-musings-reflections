@@ -9,11 +9,8 @@ If you'd like, you can read [a longer introduction](intro-musings-v0).
 If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
-Latest musings:
-
-[Notes on Web governance](grinnell-web-governance-notes) (Musing #753)
-and
-[More musings by others](more-samr-musings) (Musing #754)
+Latest musing:
+[Calming down](calming-down-2018-09-18) (Musing #755)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

@@ -55,4 +55,4 @@ issues.  But I've been worn down.
 
 ---
 
-*Version 0.9 of 2018-09-18.*
+*Version 1.0 of 2018-09-18.*

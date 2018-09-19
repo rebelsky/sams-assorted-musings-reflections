@@ -2528,6 +2528,10 @@ Autobiographical essays, more or less
 
 > Encountering great minds.
 
+[Calming down](calming-down-2018-09-18) (Musing #755)
+
+> It happens, once in a while.
+
 Salary reviews
 --------------
 
