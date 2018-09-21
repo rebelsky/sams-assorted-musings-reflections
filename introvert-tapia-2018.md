@@ -29,6 +29,8 @@ early.
 I'm in the midst of Julie Schumacher's _The Shakespeare Requirement_.
 I deserve a little bit of time to relax and read a few chapters [5].
 
+Yeah, that's enough.  "Staying in" was the right choice.
+
 ---
 
 [1] The ACM Richard Tapia Celebration of Diversity in Computing Conference, 
@@ -48,4 +50,6 @@ if so, how I get such a gig.
 
 ---
 
-*Version 1.0 of 2018-09-20.*
+*Version 1.0 released 2018-09-20.*
+
+*Version 1.0.1 of 2018-09-21.*

@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Calming down](calming-down-2018-09-18) (Musing #755)
+[An evening at a conference](introvert-tapia-2018) (Musing #756)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

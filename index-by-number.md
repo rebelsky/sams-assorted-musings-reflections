@@ -981,3 +981,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Notes on Web governance](grinnell-web-governance-notes) (Musing #753)  
 [More musings by others](more-samr-musings) (Musing #754)  
 [Calming down](calming-down-2018-09-18) (Musing #755)  
+[An evening at a conference](introvert-tapia-2018) (Musing #756)  

@@ -2532,6 +2532,10 @@ Autobiographical essays, more or less
 
 > It happens, once in a while.
 
+[An evening at a conference](introvert-tapia-2018) (Musing #756)
+
+> In my hotel room.
+
 Salary reviews
 --------------
 
