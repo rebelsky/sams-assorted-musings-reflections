@@ -402,3 +402,7 @@ Rants
 
 > Five years is too long to wait.
 
+[Frustrated with fonts and formatting](frustrated-fonts-formatting) (Musing #758)
+
+> Things aren't easy as they first seemed.
+

@@ -982,3 +982,5 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [More musings by others](more-samr-musings) (Musing #754)  
 [Calming down](calming-down-2018-09-18) (Musing #755)  
 [An evening at a conference](introvert-tapia-2018) (Musing #756)  
+[_The Shakespeare Requirement_](shakespeare-requirement) (Musing #757)  
+[Frustrated with fonts and formatting](frustrated-fonts-formatting) (Musing #758)  

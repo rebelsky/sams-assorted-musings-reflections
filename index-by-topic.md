@@ -1098,6 +1098,10 @@ Rants
 
 > Five years is too long to wait.
 
+[Frustrated with fonts and formatting](frustrated-fonts-formatting) (Musing #758)
+
+> Things aren't easy as they first seemed.
+
 Assorted talks and speeches
 ---------------------------
 
@@ -2221,6 +2225,10 @@ things I enjoy.*
 [_The Last Days of Jack Sparks_](jack-sparks) (Musing #682)
 
 > Why did I decide to read a horror novel?
+
+[_The Shakespeare Requirement_](shakespeare-requirement) (Musing #757)
+
+> Not as good as its predecessor.
 
 Mixtapes
 --------

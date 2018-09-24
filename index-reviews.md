@@ -19,3 +19,7 @@ things I enjoy.*
 
 > Why did I decide to read a horror novel?
 
+[_The Shakespeare Requirement_](shakespeare-requirement) (Musing #757)
+
+> Not as good as its predecessor.
+
