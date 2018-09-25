@@ -3285,6 +3285,10 @@ Almost everything else
 
 > Something I've read too much about.
 
+[Repairing my "vintage" MacBook](vintage-macbook-repairs) (Musing #759)
+
+> Decisions, decisions.
+
 Musings with multiple entries
 -----------------------------
 
