@@ -17,7 +17,7 @@ I'm perfectly comfortable with the nouns and verbs.  But I found myself
 wondering how atypical my usage was.
 
 Today, I received a message that referred to another writer's works as
-musings: "Download the Great Unreleased Trove of Pop Musings".  That 
+musings: "_Download the Great Unreleased Trove of Pop **Musings**_".  That 
 made me happy.   It's nice to be reminded that I am not the only person
 who thinks of some kinds of writings as "musings".
 
