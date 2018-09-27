@@ -1376,6 +1376,10 @@ Overcommitment
 
 > Planning too many activities for the next year.
 
+[Meta-reviewing](apc-sigcse-2019) (Musing #760)
+
+> Yet another professional activity that doesn't relate to my fellowship.
+
 On teaching 
 -----------
 

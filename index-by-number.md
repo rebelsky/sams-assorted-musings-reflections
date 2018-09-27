@@ -985,3 +985,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [_The Shakespeare Requirement_](shakespeare-requirement) (Musing #757)  
 [Frustrated with fonts and formatting](frustrated-fonts-formatting) (Musing #758)  
 [Repairing my "vintage" MacBook](vintage-macbook-repairs) (Musing #759)  
+[Meta-reviewing](apc-sigcse-2019) (Musing #760)  

@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Repairing my "vintage" MacBook](vintage-macbook-repairs) (Musing #759)
+[Meta-reviewing](apc-sigcse-2019) (Musing #760)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
