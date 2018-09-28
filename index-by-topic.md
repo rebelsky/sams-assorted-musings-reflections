@@ -1490,6 +1490,10 @@ online, but they will soon expand to more general issues about teaching._
 
 > It's time for a change.
 
+[Making a video lecture](video-lecture-recurrence) (Musing #762)
+
+> Outside my comfort zone.
+
 Code camps
 ----------
 

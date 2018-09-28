@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Traveling to the Obermann Center](obermann-travel) (Musing #761)
+[Making a video lecture](video-lecture-recurrence) (Musing #762)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
