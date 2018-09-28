@@ -2548,6 +2548,10 @@ Autobiographical essays, more or less
 
 > In my hotel room.
 
+[Traveling to the Obermann Center](obermann-travel) (Musing #761)
+
+> Reminding myself about how fortunate I am to live near work.
+
 Salary reviews
 --------------
 

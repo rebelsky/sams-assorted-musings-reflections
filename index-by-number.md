@@ -986,3 +986,7 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Frustrated with fonts and formatting](frustrated-fonts-formatting) (Musing #758)  
 [Repairing my "vintage" MacBook](vintage-macbook-repairs) (Musing #759)  
 [Meta-reviewing](apc-sigcse-2019) (Musing #760)  
+
+## 761-770
+
+[Traveling to the Obermann Center](obermann-travel) (Musing #761)  
