@@ -32,7 +32,7 @@ Time Machine backup if I ever need it [5].
 
 I also have a VM from the old CS 50 when I was using it for an
 experimental "online learning" course.  I haven't touched that in three
-and a half years.  That can go.  I'm not even sure it's worth coping
+and a half years.  That can go.  I'm not even sure it's worth copying
 out of time machine.
 
 Adobe has been taking up a lot of space, not only in
@@ -78,7 +78,7 @@ almost all from the summer code camps.  But what in the summer camps?
 The 2016 summer camp only required 57.4 MB of disk space; the 2017 camp
 requires 4.4 GB.  It appears that we decided to add photos to
 the rest of the camp materials.  I can edit the preferences for Backup
-and Sync from Google [6] to ignore the photo folders.
+and Sync from Google [7] to ignore the photo folders.
 
 I was surprised to discover that a folder called "UDL Workshop 2017" was
 occupying a large amount of space.  It turns out that I'd downloaded
@@ -127,4 +127,6 @@ copy it out of that backup, just in case.
 
 ---
 
-*Version 1.0 of 2018-09-28.*
+*Version 1.0 released 2018-09-28.*
+
+*Version 1.0.1 of 2018-09-29.*
