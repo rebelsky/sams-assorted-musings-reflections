@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Making a video lecture](video-lecture-recurrence) (Musing #762)
+[Cleaning up my hard drive](hard-drive-cleaning-2018-09-28) (Musing #763)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

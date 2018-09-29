@@ -3301,6 +3301,10 @@ Almost everything else
 
 > Decisions, decisions.
 
+[Cleaning up my hard drive](hard-drive-cleaning-2018-09-28) (Musing #763)
+
+> Too much cruft.
+
 Musings with multiple entries
 -----------------------------
 
