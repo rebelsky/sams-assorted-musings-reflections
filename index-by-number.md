@@ -992,3 +992,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Traveling to the Obermann Center](obermann-travel) (Musing #761)  
 [Making a video lecture](video-lecture-recurrence) (Musing #762)  
 [Cleaning up my hard drive](hard-drive-cleaning-2018-09-28) (Musing #763)  
+[Another month of daily musings](another-month-2018-09) (Musing #764)  

@@ -89,3 +89,7 @@ most of them here._
 
 > Rant more.  Write, too.
 
+[Another month of daily musings](another-month-2018-09) (Musing #764)
+
+> Difficult.
+
