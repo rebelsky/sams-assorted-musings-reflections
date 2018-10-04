@@ -31,7 +31,7 @@ to think about who devises or builds the technology that changes the world.
 If we're building technology that affects everyone, we really need to
 make sure that everyone is building that technology._
 
-[Shot: An arch that says "Grinnell College".  Where is that arch?]
+[Shot: An arch that says "Grinnell College".  I'm told the arch is at Rose Hall.]
 
 _I think from day one at Grinnell, one of my strongest goals has been to
 diversify the discipline: to get more women in computing, to get more
@@ -141,5 +141,6 @@ the saying, "I don't give a rat's ass."
 
 ---
 
+*Version 1.0 released 2018-10-03.*
 
-*Version 1.0 of 2018-10-03.*
+*Version 1.0.1 of 2018-10-04.*
