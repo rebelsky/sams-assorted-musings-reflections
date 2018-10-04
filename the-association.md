@@ -1,21 +1,21 @@
-The Association
-===============
+The Association in concert
+==========================
 
 *Topics/tags: [Reviews](index-reviews), music*
 
 The other day, I went with Michelle and some friends to see The
-Association.  I will admit that it would not have been a concert that
-I would have decided to attend on my own, while there are a few songs
-by the Association that I really enjoy, such as "Along Comes Mary"
-and "Windy", they aren't songs that are particularly meaningful to me.
-I also tend to prefer bands that continued to make new music or at least
-whose individual members continued to make new music.
+Association.  I will admit that it would not have been a concert that I
+would have decided to attend on my own, while there are a few songs by
+the Association that I enjoy, such as "Along Comes Mary" and "Windy",
+they aren't songs that are particularly meaningful to me.  I also tend
+to prefer bands that continued to create new music over the decades or
+at least whose individual members continued to create new music.
 
-Nontheless, it was a fun concert, and I'm glad I went.  While are only
+Nonetheless, it was a fun concert, and I'm glad I went.  While are only
 two original members left, most of the other members have been there a
 long time, so they cohere well as a band.  They can't quite hit all of
 the harmonies of years gone by, but they come close.  And they clearly
-have fun with what they do; they tell stories, laugh at each others,
+have fun with what they do; they tell stories, laugh at each other,
 and interact with the audience [1].
 
 They claimed that they have three of the [100 most played songs of the
@@ -49,7 +49,7 @@ For The Masses".  Maybe next time.
 
 ---
 
-[1] Okay, maybe they just pretend to have fun with what they do.  If that's
+[1] Okay, maybe they only pretend to have fun with what they do.  If that's
 the case, they fake it well enough that it's okay with me.  I've been to
 too many shows in which the band seems to be just going through the motions.
 
@@ -58,7 +58,7 @@ at number 42, and "Let It Be" at number 89.  Lennon's "Image" is at
 number 96.
 
 [3] There appear to be a wide variety of soundtracks to _The Big Chill_.
-Most include The Exciters' "Tell Him" and Procol Harum's "A White Shade
+Most include The Exciters' "Tell Him" and Procol Harum's "A Whiter Shade
 of Pale", and The Rascals' "Good Lovin", none of which The Association
 Covered.
 
@@ -73,4 +73,4 @@ as I cherish you"?
 
 ---
 
-*Version 0.9 of 2018-10-01*
+*Version 1.0 of 2018-10-02*

@@ -23,3 +23,7 @@ things I enjoy.*
 
 > Not as good as its predecessor.
 
+[The Association in concert](the-association) (Musing #765)
+
+> Everyone's favorite _Big Chill_ cover band.
+

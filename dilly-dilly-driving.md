@@ -4,7 +4,7 @@ Dilly Dilly?
 *Topics/tags: [Miscellaneous](index-misc), short*
 
 The other day, I was driving along I-80 and looked up at one of the
-LED billboards that the state puts up.  Here's what it it said,
+LED billboards that the state puts up.  Here's what it said,
 
 > 235 Traffic Deaths This Year
 
@@ -29,7 +29,7 @@ With not much effort, I found that it's from [a Bud Light
 commercial](https://www.youtube.com/watch?v=D8Cb5Wk2t-8) that implies
 that spiced mead wine is less welcome than the comparatively tasteless
 swill [1] that is Bud Light.  And yes, I'd seen the commercial; it's
-clearly where I'd heard the phrase before.
+almost certainly where I'd heard the phrase before.
 
 Now I'm left to wonder, *Did Budweiser sponsor this message?*
 
@@ -50,4 +50,4 @@ Postscript: For a short musing, this one took way too long to write.
 
 ---
 
-*Version 0.9 of 2018-10-02.*
+*Version 1.0 of 2018-10-02.*

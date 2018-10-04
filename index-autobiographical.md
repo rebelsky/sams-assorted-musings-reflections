@@ -301,3 +301,11 @@ Autobiographical essays, more or less
 
 > Reminding myself about how fortunate I am to live near work.
 
+[Promoting Grinnell](samr-pitchman) (Musing #767)
+
+> Why me?
+
+[My second Obermann seminar](obermann-seminar-02) (Musing #768)
+
+> Receiving feedback.
+

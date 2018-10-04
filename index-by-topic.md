@@ -2242,6 +2242,10 @@ things I enjoy.*
 
 > Not as good as its predecessor.
 
+[The Association in concert](the-association) (Musing #765)
+
+> Everyone's favorite _Big Chill_ cover band.
+
 Mixtapes
 --------
 
@@ -2559,6 +2563,14 @@ Autobiographical essays, more or less
 [Traveling to the Obermann Center](obermann-travel) (Musing #761)
 
 > Reminding myself about how fortunate I am to live near work.
+
+[Promoting Grinnell](samr-pitchman) (Musing #767)
+
+> Why me?
+
+[My second Obermann seminar](obermann-seminar-02) (Musing #768)
+
+> Receiving feedback.
 
 Salary reviews
 --------------
@@ -3308,6 +3320,10 @@ Almost everything else
 [Cleaning up my hard drive](hard-drive-cleaning-2018-09-28) (Musing #763)
 
 > Too much cruft.
+
+[Dilly Dilly?](dilly-dilly-driving) (Musing #766)
+
+> Strange signs.
 
 Musings with multiple entries
 -----------------------------

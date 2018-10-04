@@ -993,3 +993,7 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Making a video lecture](video-lecture-recurrence) (Musing #762)  
 [Cleaning up my hard drive](hard-drive-cleaning-2018-09-28) (Musing #763)  
 [Another month of daily musings](another-month-2018-09) (Musing #764)  
+[The Association in concert](the-association) (Musing #765)  
+[Dilly Dilly?](dilly-dilly-driving) (Musing #766)  
+[Promoting Grinnell](samr-pitchman) (Musing #767)  
+[My second Obermann seminar](obermann-seminar-02) (Musing #768)  
