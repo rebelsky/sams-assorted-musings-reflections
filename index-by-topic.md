@@ -1106,6 +1106,10 @@ Rants
 
 > Things aren't easy as they first seemed.
 
+[Grumpy](grumpy-2018-10-04) (Musing #769)
+
+> A bad day (in spite of some good aspects).
+
 Assorted talks and speeches
 ---------------------------
 

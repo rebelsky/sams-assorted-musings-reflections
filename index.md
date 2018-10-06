@@ -9,10 +9,8 @@ If you'd like, you can read [a longer introduction](intro-musings-v0).
 If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
-Latest musings:
-[Promoting Grinnell](samr-pitchman) (Musing #767)
-and
-[My second Obermann seminar](obermann-seminar-02) (Musing #768)
+Latest musing:
+[Grumpy](grumpy-2018-10-04) (Musing #769)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
