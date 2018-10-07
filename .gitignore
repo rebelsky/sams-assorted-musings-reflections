@@ -19,3 +19,8 @@ current.md
 
 # Weird Macintosh file
 .DS_Store
+
+# Directories that I use for development
+sandbox
+deleted
+tmp
