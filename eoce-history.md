@@ -19,7 +19,12 @@ October 1 2007.  Motion passed.
 
 The Budget Committee for the faculty may receive the total number of responses and proportion of those responses in the agree and strongly agree categories for questions #2 and #6 on the end-of-course evaluations for each course taught by faculty members under review. For comparative purposes, the Budget Committee may receive appropriate aggregate data for the faculty as a whole.
 
+What does that all mean?  There are limits on what different committees can get.
+Personnel can get scores and only the text that faculty or their review chairs
+choose to release.  Budget committee can get summary info on categories 2 and 6
+and *should* get comparative data.
+
 ---
 
-*Version 0.1 of 2018-10-03.*
+*Version 0.2 of 2018-10-06.*
 
