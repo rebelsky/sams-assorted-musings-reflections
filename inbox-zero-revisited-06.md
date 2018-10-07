@@ -91,6 +91,45 @@ because I moved my Facebook and Twitter messages to that box.  Plus,
 Portside sends me five messagese each day.  Those also take longer to
 clear out.
 
+**Update, 4 September 2018**
+
+While it was a long weekend for some, I worked yesterday.  Still, this
+morning, I'm up to 1910 messages in my inbox, 887 of which are unread.
+I'm definitely having trouble remembering to look at the ads and the
+newlsetters.  Where do those stand?  Ads are at 306/294.  Newsletters
+are at 459/402.  I'll need to set aside some time to clean those out.
+Maybe when I need a break from writing.
+
+**Update, 11 September 2018**
+
+I clearly need to set time aside to go through my inbox.  But I don't
+seem to have time to set aside.  In any case, I now have 2,186 messages
+in my inbox, 998 of which are unread.  I wonder what the new unread messages
+are.  We'll come back to that issue in a moment.  Ads?  460/440.  It's
+actually somewhat good that my advertisements are going to the side; I'm
+less tempted to spend money.  Newsletters?  562/497.
+
+In the past week, I've gone from 887 mesage to 998.  Let's see what the "new"
+unread messages represent.  
+
+* Job ad from SIGCSE members.
+* Message from LinkedIn.  Why is that in my inbox?
+* A few project updates from various Kickstarter projects.
+* Inside Higher Ed.  Something I read and don't want filed in newsletters.
+* Shutterfly.  I joined to see XC pictures.  Now I get email.  Should
+* A few messages that I'd carbon-copied myself on.
+* An interesting discussion from SIGCIS on archives of records from video
+  game companies.  (Yeah, that's one of the newsletters I keep in my main inbox.)
+* Some random conference: Unsubscribe.
+* eBay.  Doesn't that get deleted automatically?
+* Medical reimbursement request.
+* A note from the Mid-Iowa Council.
+* A few daily messages from Proofpoint.
+* A reminder about the Friends of Drake book sort (whoops).
+* Some automated messages from the SIGCSE mailings lists that I moderate.
+* A few messages from the high school.
+* A few messages from Scoutbook.
+
 ---
 
 [1] Away From Keyboard.
