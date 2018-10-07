@@ -9,15 +9,18 @@ labs [1].  It's come time to decide what format and system I should use
 for writing that curriculum.
 
 There are a variety of options.  When we designed the image-based 151
-curriculum, Janet and I decided to use DocBook because it was adaptable,
-allowing each of us to incorporate the materials into our own course webs,
-and because we thought it would be useful if we ever did a print version.
-Toward the end of the lifetime of those materials, some colleagues
-converted it to Markdown and Jekyll because, well, they are much easier
-to use.  I'm tempted to continue in Jekyll, even though I don't love it.
-But I'm working in Racket, and the Racket community uses Scribble.
-Scribble sites aren't exciting, but they are consistent.  I could also
-use some XML format [2,3], plain HTML, LaTeX, and more.
+curriculum, Janet and I decided to use [DocBook](https://docbook.org/)
+because it was adaptable, allowing each of us to incorporate the materials
+into our own course webs, and because we thought it would be useful if
+we ever did a print version.  Toward the end of the lifetime of those
+materials, some colleagues converted it to Markdown and Jekyll because,
+well, they are much easier to use.  I'm tempted to continue in Jekyll,
+even though I don't love it.  But I'm working in Racket, and the Racket
+community uses Scribble.  Scribble sites aren't exciting, but they
+are consistent.  I could also use some XML format [2,3], plain HTML,
+LaTeX, and more.  Come to think of it, some of the Racket community now
+seems to use [Pollen](https://docs.racket-lang.org/pollen/index.html).
+I should probably look at that, too.
 
 I don't like the standard Racket documentation format; I find it's a bit
 concise for novices and I find real pedagogical value to the six P's.
