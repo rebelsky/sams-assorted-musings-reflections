@@ -17,7 +17,8 @@ editing into shape, cutting words and senteces.  I wish I'd kep the history.
 On particular dates
 -------------------
 
-1. September 30, 2018 (or maybe Sept. 1, given SIGCSE deadlines): End-of-month musing.
+1. October 31, 2018: End-of-month musing.  
+1. November 1, 2018: Fourth Obermann Seminar (?)
 1. November 1, 2018: NaNoWriMo (On writing.)  (Or National Technical
    Book Writing Month)
 1. November 11, 2018: 11/11.  
@@ -41,6 +42,23 @@ _Tags/style: rants, talks_
 
 _Tags/content: accessibility, autobiographical, CSC 151, data science, delayed, digital humanities, email, grinnell, joc, language, meta, obermann, overcommittment, packrat, Racket (or Scheme; I'm not consistent), technical (not the same as technology), technology (not the same as technical)_
 
+1. Review: _Michael Perry_?
+
+1. Review: _Saints Rest_?
+
+1. Grinnellians you should know (or know about): Claire Patterson.  *Grinnell, Science*
+    Here's one I hadn't known.  I am thankful to Mitch Erickson '72
+    for telling me about him.  Dated the age of the Earth.  But even more
+    importantly, figured out the effects of lead and pushed for
+    huge changes to policy.
+    <https://data.desmoinesregister.com/famous-iowans/claire-patterson>
+    <https://en.wikipedia.org/wiki/Clair_Cameron_Patterson>
+    <https://www.ncbi.nlm.nih.gov/pubmed/6986654>
+
+1. Paper Rebel :random:
+
+1. Beautiful Racket.  :joc:scheme:
+
 1. Developing a work strategy  :overcommitment:rambly:short:
 One of my fellow Fellows at the Obermann center asked the rest of us 
 about the approaches we take to ensure that we make progress on our
@@ -53,7 +71,7 @@ variety of task list manager.  For ahile, I used Trello boards.  These
 days, I find that Todoist does the best job for me.]  Have enough of a
 variety of tasks so that if I get stuck on one, I can switch to another.
 
-1. Repairing my vintage MacBook.  :rants:Apple:sketch: `vintage-macbook-repairs`
+1. Early grad requirements. :grinnell:rants:draft: `early-grad-language`
 
 1. Going beyond text in the digital humanities :csc151:teaching:dighum:
 When I posted my draft introduction to the new "digital humanities" CSC
@@ -72,11 +90,11 @@ the digital humanities.
 
 1. Jekyll or Scribble or ...?  :dighum:sketch:teaching: `jekyll-scribble-or.md`
 
-1. My bookshelf at the Obermann center. :dighum:obermann:
+1. Revising the MediaScheme 151.  :teaching:csc151:mediascheme:sketch: `revising-mediascheme-151`
 
-1. Traveling to the Obermann center.  :authobiographical:short:obermann:sketch:  `obermann-travel`
+1. My bookshelf at the Obermann center.  :autobiographical:obermann:rambly:sketch:dighum: `obermann-bookshelves`
 
-1. From Markdown.pl to pandoc.  :meta:joc:sketch:  `markdown-pandoc`
+1. From Markdown.pl to pandoc.  :meta:joc:sketch:  `markdown-pandoc.md`
 Switching the way in which I generate these musings.
 
 1. The Academic Job Search.  :academia:articles:
@@ -211,7 +229,7 @@ build a ginormous complex devoted to them."
 
 1. Tracing citations.  (`binary-search-citations`)  :sketch:joc:short:
 
-1. Synchronizing my systems. :joc:sketch:
+1. Synchronizing my systems. :joc:sketch:  `joc-synchronizing-stuff`
 
 1. Making breakfast.  :authobiographical:short:sketch:
 Write about making french toast and thinking back to mom.  Perhaps also
@@ -617,6 +635,10 @@ Pere Ubu should be there.  It's Cleveland, after all.
 1. Giving up on Macs.  :mac:apple:recycling:article:
 <https://www.washingtonpost.com/technology/2018/09/11/explosive-problem-with-recycling-ipads-iphones-other-gadgets-they-literally-catch-fire/>
 <https://motherboard.vice.com/en_us/article/yp73jw/apple-recycling-iphones-macbooks>
+
+1. A history of Grinnell's End-of-Course Evaluations.  :grinnell:sketch:assessment: `eoce-history`.
+
+1. Fonts with HTML2PS  :joc:typesetting:sketch: `fonts-with-html2ps`
 
 The stack of musings
 --------------------
