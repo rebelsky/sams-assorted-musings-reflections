@@ -164,6 +164,32 @@ It might make me happier.
 
 ---
 
+Postscript: After I wrote this musing, I discovered I started one on a similar
+topic when I first encountred the problem.  I then updated it in May, 2017.
+Here's what I had written.
+
+> It's graduation weekend.  I wasn't intending to rant.  Rather, I
+was intending to write nice things about the graduating seniors [12].
+But then I got a response to my question about data privacy and the
+Pioneer One-Card system.  Here's an approximation of the answer: "It
+appears that you are correct that we should revisit the issue of access to
+Pioneer One-Card data.  However, the P-Card committee is not the group to
+do so, since they have no governance or oversight responsibilities [14].
+We will consider these issues as part of our broader consideration of
+information security and data governance."
+
+> Now, I'm glad that we are beginning a broader consideration of
+information security and data governance.  It's about time.  I hope that
+there is faculty representation involved.
+
+Whoops!  I guess I should not have explained the governance issue in the
+way that I did.  But "The P-Card committee has no governance or oversight
+responsibilities" doesn't tell me who does.  As far as I can tell, they
+don't think any group has oversight responsibilities over the data.
+That's a problem.
+
+---
+
 [1] A few also asked about the ethical violation.  As I said, I won't
 write about that in public.
 
@@ -193,6 +219,12 @@ the faculty.
 "or when authorized" part of the new policy.
 
 [11] <https://grinco.sharepoint.com/:w:/r/sites/CS/PCard/_layouts/15/WopiFrame.aspx?sourcedoc=%7b955C9D0B-5DC9-49B7-8C5A-07668963A4CE%7d&file=Campus%20Card%20Confidentiality%20Policy-4.doc&action=default>
+
+[12] I'll still write things about them, just not today.
+
+[14] That's news to me.  In the past, they've certainly weighed in on
+appropriate and inappropriate uses of P-Card numbers, which strikes me
+as an oversight issue.
 
 ---
 
