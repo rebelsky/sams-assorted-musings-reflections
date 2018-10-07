@@ -34,7 +34,7 @@ clean:
 	pandoc $< -o $@
 
 %-md.html: %.md
-	mdfootnotes $< | mdexec | pandoc -S --html-q-tags > $@
+	mdfootnotes $< | mdexec | pandoc -f markdown+smart --html-q-tags > $@
 #	mdfootnotes $< | mdexec | Markdown.pl > $@
 
 %.html: %-md.html resources/template.html
