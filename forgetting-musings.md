@@ -1,7 +1,7 @@
 Forgetting what I've written
 ============================
 
-*Warning!  This is one of the musings best classified as "whiny"."
+*Warning!  This is one of the musings best classified as "whiny".*
 
 The other day, I was making plans for how to work with graders this
 semester.  Then I remembered a conversation with a colleague last
