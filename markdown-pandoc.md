@@ -52,6 +52,23 @@ page.
 
 Then's there's the issue of `noprint`.
 
+And it munges my carefully formatted tables.  Input of
+
+    <table>
+      <tr>
+      </tr>
+    </table>
+
+Gives output of
+
+    <table>
+    <tr>
+    </tr>
+    </table>
+
+I realize that it's not supposed to matter, but I like to see nicely
+formatted HTML.  (I guess that's what a formatter is for.)
+
 ---
 
 [1] Before I started using Markdown, I used Siteweaver, my own simplified 
