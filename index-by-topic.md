@@ -3329,6 +3329,10 @@ Almost everything else
 
 > Strange signs.
 
+[In line at a grocery store](patience) (Musing #770)
+
+> Responding to the wait.
+
 Musings with multiple entries
 -----------------------------
 

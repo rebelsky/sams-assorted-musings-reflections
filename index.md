@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Grumpy](grumpy-2018-10-04) (Musing #769)
+[In line at a grocery store](patience) (Musing #770)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

@@ -998,3 +998,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Promoting Grinnell](samr-pitchman) (Musing #767)  
 [My second Obermann seminar](obermann-seminar-02) (Musing #768)  
 [Grumpy](grumpy-2018-10-04) (Musing #769)  
+[In line at a grocery store](patience) (Musing #770)  
