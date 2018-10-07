@@ -88,7 +88,7 @@ Postscript: When I went to post this musing on Facebook, the;standard
 "Your memories on Facebook" post was at the top of the page.  And you
 know what the memory was?  Yes, that's right.  
 
-<img src="memory-musing-202.png">
+<img src="images/memory-musing-202.png">
 
 It appears that Facebook has a better memory than I do.  It also appears
 that there's something about this time of year that leads me to muse about
@@ -133,4 +133,6 @@ there were a lot more questions!
 
 ---
 
-* Version 1.1 of 2018-01-18.*
+*Version 1.0 released 18 January 2018.*
+
+*Version 1.1.1 of 2018-01-18.*
