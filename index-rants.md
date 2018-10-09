@@ -410,3 +410,7 @@ Rants
 
 > A bad day (in spite of some good aspects).
 
+[A bug (or perhaps not)](pandoc-link-nonbug) (Musing #772)
+
+> Learning to check my software version.
+

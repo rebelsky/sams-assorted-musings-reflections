@@ -44,10 +44,6 @@ _Tags/content: accessibility, autobiographical, CSC 151, data science, delayed, 
 
 1. PCard Privacy.  :rants:grinnell:privacy:long:rambly: `pcard-privacy.md`
 
-1. A bug, or perhaps not.  :rants:short:draft: `pandoc-link-bug`.
-
-1. Clearing cruft.  :meta:organization:draft: `musings-clearing-cruft`
-
 1. Review: _Michael Perry_?
 
 1. Review: _Saints Rest_?

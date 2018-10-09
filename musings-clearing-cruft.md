@@ -1,7 +1,7 @@
 Clearing cruft
 ==============
 
-*Topics/tags: [Meta-musings](index-meta), GitHub, organization, rambly*
+*Topics/tags: [Meta-musings](index-meta), GitHub, organization, technical, rambly*
 
 In some ways, my musings are like any software project.  That is, the
 "musing project" consists of a variety of files and programs that I
@@ -9,8 +9,8 @@ modify, test, and "compile" [1].  I regularly add new files.  I sometimes
 delete files.  Since the musings are a project, I use the same tools to
 manage the musings that I use for most of my software projects.  There's
 a [Makefile](cnix-make-intro)  to keep track of the various instructions.
-I use Git to keep track of changes to the files [3,4].  And, even though
-Microsoft now owns it, I store my files on GitHub.
+I use Git to keep track of changes to the files [3,4].  I continue to store
+my repositories on GitHub, even though Microsoft now owns it.
 
 The musings are also like a standard software project in that they tend
 to accumulate cruft [8].  And I'm not good about either remembering
@@ -90,14 +90,14 @@ directories" (`deleted`, `sandbox`, and `tmp`).  And, while it took time
 to look at each sketch and to give it a commit message, doing so was
 relatively straightforward.
 
-I was a bit surprised to discover that I'd forgotten to commit some
-relatively major beyind-the-scenes changes to the site.  I'd added
-another program to the Markdown to HTML chain, and the Makefile reflected
-that.  I'd updated one of the programs that I use on that chain and
-changed the template file to reflect the update [10].  Why hadn't I committed
-those changes when I made them?  I probably should have.  But there was
-enough cruft around that I forgot.  That's why it's good to clear your cruft
-regularly.
+I was a bit surprised to discover that I'd forgotten to commit
+some relatively significant behind-the-scenes changes to the site.
+I'd added another program to the Markdown to HTML chain, and the Makefile
+reflected that.  I'd updated one of the programs that I use on that chain
+and changed the template file to reflect the update [10].  Why hadn't
+I committed those changes when I made them?  I probably should have.
+But there was enough cruft around that I forgot.  That's why it's good
+to clear your cruft regularly.
 
 I also deleted a bunch of files.  Did I mention that already?
 
@@ -120,25 +120,25 @@ Let's hope I can keep it that way.
 ---
 
 [1] I write in Markdown.  You read the musings in HTML [2].  There are a few
-steps involved in getting from Markdown to HTML or to PDF.
+steps involved in getting from Markdown to HTML or PDF.
 
 [2] Or, in some cases, PDF.
 
 [3] I'll write more about Git on some day.
 
 [4] My use of Git for the musings is comparatively primitive.  For example,
-I don't really see a need for branches [5].
+I don't see a need for branches in the musings [5].
 
 [5] That's not quite true.  If I ever decide to start using Jekyll [6] to
 manage the site, I'll probably set up a branch for that new version.
 However, as time passes, it seems less and less likely that I'll start
-using Jekyll, particularly because each time I encounter Liquid [7],
+using Jekyll, primarily because each time I encounter Liquid [7],
 I regret using Jekyll.
 
 [6] Jekyll is a toolkit to make it easy to build static Web sites using
 Markdown.  Many Grinnell CS faculty use it for their course Web sites.
 
-[7] Liquid is a badly designed scripting language that you use with
+[7] Liquid is a poorly designed scripting language that you use with
 Jekyll.  Using Liquid makes me wish I could use PHP.  And I don't like PHP.
 
 [8] [Wikipedia](https://en.wikipedia.org/wiki/Cruft) tells us that
@@ -156,5 +156,5 @@ I can't remember.  That's why I should do commits when I make the changes.
 
 ---
 
-*Version 0.9 of 2018-10-06.*
+*Version 1.0 of 2018-10-07.*
 

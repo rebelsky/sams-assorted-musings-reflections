@@ -999,3 +999,8 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [My second Obermann seminar](obermann-seminar-02) (Musing #768)  
 [Grumpy](grumpy-2018-10-04) (Musing #769)  
 [In line at a grocery store](patience) (Musing #770)  
+
+## 771-780
+
+[Clearing cruft](musings-clearing-cruft) (Musing #771)  
+[A bug (or perhaps not)](pandoc-link-nonbug) (Musing #772)  

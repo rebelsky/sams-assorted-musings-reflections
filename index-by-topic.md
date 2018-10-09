@@ -301,6 +301,10 @@ be found in [the list of musing son writing](index-on-writing)._
 
 > I'm not even the only Sam who uses the term.
 
+[Clearing cruft](musings-clearing-cruft) (Musing #771)
+
+> Dealing with the musings "project".
+
 Monthly reflections
 -------------------
 
@@ -1109,6 +1113,10 @@ Rants
 [Grumpy](grumpy-2018-10-04) (Musing #769)
 
 > A bad day (in spite of some good aspects).
+
+[A bug (or perhaps not)](pandoc-link-nonbug) (Musing #772)
+
+> Learning to check my software version.
 
 Assorted talks and speeches
 ---------------------------
