@@ -116,6 +116,19 @@ at the new address asking whether I should update.  It's a bit of work,
 but I think it's the friendly thing to do.  I expect that I'll have less
 to do when we upgrade to a new model for SIGCSE-ANNOUNCE.
 
+*Questions and special requests*.  As you might expect, we get a variety
+of questions and special requests.  "Did my post appear?"  "I've changed
+jobs; can you update my email address?"  "I'm overwhelmed by email; can
+you switch me to digest mode."  Most of those requests are easy to handle
+and the listserv UI suffices.  Once in a while, we need to do something
+that doesn't quite fit within the UI.  For example, some posters would
+prefer both an acknowledgement of their post and a copy.  The UI assumes
+that you want only one (or neither).  Hence, for people with those special
+requests [18], we get to figure out the instructions for command mode.
+Here's one to achieve that last goal.
+
+    SET SIGCSE-MEMBERS ACK REPRO FOR rebelsky@grinnell.edu
+
 *Everything else*.  A variety of other tasks come up from time to time.
 For example, when I started, I needed to clean out the mailing list to
 eliminate people whose subscriptions had lapsed.  I still do that once in
@@ -187,6 +200,9 @@ position didn't like us being identified as spam and sent followup messages.
 [17] When I started, we had not cleaned out the lists for some time.  We're
 better now, but don't always get to it.
 
+[18] Yes, I'm one of those people who wants both a copy of my messages and
+an acknowledgement.
+
 ---
 
-*Version 0.8 of 2018-10-09.*
+*Version 0.9 of 2018-10-09.*
