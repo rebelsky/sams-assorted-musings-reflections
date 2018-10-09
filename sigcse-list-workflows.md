@@ -3,13 +3,13 @@ SIGCSE mailing list workflows
 
 *Topics/tags: [Overcommitment](index-overcommitment), SIGCSE, email, rambly*
 
-One of my professional responsibilities is co-moderator [1] of
-the the SIGCSE [2] mailing lists.  As a moderator, I have only a few
-responsibilities: I appove or reject posts and I handle new member
-requests.  But it's not quite as simple as it sounds.  Let's think about
-the various workflows I must follow.
+One of my professional responsibilities is co-moderator [1] of the
+the SIGCSE [2] mailing lists.  As a moderator, I have only a few
+responsibilities: I appove or reject posts, I handle new member requests,
+and I read and address bounce messages.  But it's not quite as simple
+as it sounds.  Let's consider the various workflows I follow.
 
-*Handling posts.*  To handle an incoming post, I skim through it and see
+*Posts.*  To handle an incoming post, I skim through it and see
 whether or not it seems to meet our policies.  What are those policies?
 First, it should be relevant to the list.  The SIGCSE-members mailing
 list is for discussion of computer science education.  Most members
@@ -96,9 +96,43 @@ or the more traditional "First Last <user@university.edu>".  In contrast,
 the Lyris list I manage at work requires that I enter name and email address
 separately, which is less convenient [15].
 
-*Bounce messages*.
+*Bounce messages*.  Once in a while, we get bounce messages.  It's then
+our responsibility to read through those messages and try to determine
+appropriate responses.  In some cases, the mail handler has decided that 
+a message is spam and is informing us of that decision.  That happens most
+frequently with job advertisements.  There's also at least one system that
+refuses to accept messages with shortened URLs.  Those cases are easy;
+we just ignore the bounce [16].  
 
-*Everything else*.
+Some cases are more complicated.  If a message says something like
+"This address is no longer active", I end up doing a bit of homework.
+First, I make sure the person is still a member of SIGCSE [17].  Next,
+I try to track down where they might be.  If I'm lucky, they've updated
+their email address with ACM, even if they haven't done so with SIGCSE.
+But those situations are rare.  More often, I do a Web search and I look
+on LinkedIn.  On occasion, I'll write to someone at the department asking
+for a new address.  Then I either update the address or write to the person
+at the new address asking whether I should update.  It's a bit of work,
+but I think it's the friendly thing to do.  I expect that I'll have less
+to do when we upgrade to a new model for SIGCSE-ANNOUNCE.
+
+*Everything else*.  A variety of other tasks come up from time to time.
+For example, when I started, I needed to clean out the mailing list to
+eliminate people whose subscriptions had lapsed.  I still do that once in
+a while.  I've made some policy suggestions to the Board and spent some
+time discussing them via email.  I've also participated in some policy
+discussions that stem from Board suggestions.  For example, the Board
+suggested moving SIGCSE-ANNOUNCE from opt-in to opt-out.  I thought we'd
+accomplished that last year, but it turns out that a miscommunication
+with ACM Headquarters left the change in limbo.  Now that we've figured
+that out, I expect we'll end up getting it through in the next few weeks.
+In most of these situations, I end up composing and sending a variety of
+messages, not just as part of the discussion, but also messages to the
+various listservs.
+
+And there you have it, my life as SIGCSE Information Director, or at least
+as SIGCSE listserv moderator.  It's not particularly thrilling, but it seems
+to support our community well.
 
 ---
 
@@ -147,6 +181,12 @@ the Listserv.
 [15] It doesn't really matter when you are adding one or two folks.  But the
 additional time and effort builds up as you add more and more.
 
+[16] Well, *I* ignore the bounce.  I believe some past holders of this
+position didn't like us being identified as spam and sent followup messages.
+
+[17] When I started, we had not cleaned out the lists for some time.  We're
+better now, but don't always get to it.
+
 ---
 
-*Version 0.7 of 2018-10-09.*
+*Version 0.8 of 2018-10-09.*
