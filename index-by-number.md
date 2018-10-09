@@ -1004,3 +1004,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 
 [Clearing cruft](musings-clearing-cruft) (Musing #771)  
 [A bug (or perhaps not)](pandoc-link-nonbug) (Musing #772)  
+[Dear Grinnell student](pod-parking-student) (Musing #773)  

@@ -1118,6 +1118,10 @@ Rants
 
 > Learning to check my software version.
 
+[Dear Grinnell student](pod-parking-student) (Musing #773)
+
+> Life's too short.
+
 Assorted talks and speeches
 ---------------------------
 

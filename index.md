@@ -9,10 +9,8 @@ If you'd like, you can read [a longer introduction](intro-musings-v0).
 If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
-Latest musings:
-[Clearing cruft](musings-clearing-cruft) (Musing #771)
-and
-[A bug (or perhaps not)](pandoc-link-nonbug) (Musing #772)
+Latest musing:
+[Dear Grinnell student](pod-parking-student) (Musing #773)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
