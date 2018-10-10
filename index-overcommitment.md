@@ -190,3 +190,7 @@ Overcommitment
 
 > Yet another professional activity that doesn't relate to my fellowship.
 
+[Looking ahead to summer 2019](looking-ahead-summer-2019) (Musing #774)
+
+> After eight consecutive summers with students, it's time for a different model.
+

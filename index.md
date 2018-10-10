@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Dear Grinnell student](pod-parking-student) (Musing #773)
+[Looking ahead to summer 2019](looking-ahead-summer-2019) (Musing #774)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
