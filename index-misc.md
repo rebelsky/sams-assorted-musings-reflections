@@ -636,3 +636,7 @@ Almost everything else
 
 > Responding to the wait.
 
+[Iowa weather](iowa-weather-2018-10-10) (Musing #775)
+
+> Not a good fall.
+

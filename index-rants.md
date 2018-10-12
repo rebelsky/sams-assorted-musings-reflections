@@ -418,3 +418,7 @@ Rants
 
 > Life's too short.
 
+[Hurdle rates](hurdle-rates) (Musing #776)
+
+> A bad measure.
+

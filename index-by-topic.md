@@ -1122,6 +1122,10 @@ Rants
 
 > Life's too short.
 
+[Hurdle rates](hurdle-rates) (Musing #776)
+
+> A bad measure.
+
 Assorted talks and speeches
 ---------------------------
 
@@ -3348,6 +3352,10 @@ Almost everything else
 [In line at a grocery store](patience) (Musing #770)
 
 > Responding to the wait.
+
+[Iowa weather](iowa-weather-2018-10-10) (Musing #775)
+
+> Not a good fall.
 
 Musings with multiple entries
 -----------------------------

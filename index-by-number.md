@@ -1006,3 +1006,5 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [A bug (or perhaps not)](pandoc-link-nonbug) (Musing #772)  
 [Dear Grinnell student](pod-parking-student) (Musing #773)  
 [Looking ahead to summer 2019](looking-ahead-summer-2019) (Musing #774)  
+[Iowa weather](iowa-weather-2018-10-10) (Musing #775)  
+[Hurdle rates](hurdle-rates) (Musing #776)  
