@@ -153,6 +153,10 @@ Regards,
 
 \-\- SamR
 
+I'm happy to report that I got a quick response from both the Dean and
+Council members thanking me for raising the issue, indicating that they
+considered it important, and promising to address it.
+
 ---
 
 Did I mention that I'm sick of having to be the one who raises these
@@ -184,9 +188,14 @@ there is faculty representation involved.
 
 Whoops!  I guess I should not have explained the governance issue in the
 way that I did.  But "The P-Card committee has no governance or oversight
-responsibilities" doesn't tell me who does.  As far as I can tell, they
-don't think any group has oversight responsibilities over the data.
-That's a problem.
+responsibilities" doesn't tell me who does.  I've looked through my email,
+and, although there's a followup note that there will be discussions about
+who will consider these issues, I never learned who or whether there would
+be any faculty input involved.
+
+---
+
+Postscript: 
 
 ---
 
@@ -228,4 +237,4 @@ as an oversight issue.
 
 ---
 
-*Version 0.9 of 2018-10-06.*
+*Version 0.95 of 2018-10-12.*
