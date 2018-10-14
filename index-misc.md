@@ -640,3 +640,7 @@ Almost everything else
 
 > Not a good fall.
 
+[CS department initials, acronyms, and abbreviations](initials-acronyms) (Musing #778)
+
+> What do those two letters mean?
+

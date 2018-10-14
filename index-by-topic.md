@@ -2270,6 +2270,10 @@ things I enjoy.*
 
 > Everyone's favorite _Big Chill_ cover band.
 
+[Michael Perry](michael-perry) (Musing #777)
+
+> Humorist.  Philosopher.  Occasional downer.
+
 Mixtapes
 --------
 
@@ -3356,6 +3360,10 @@ Almost everything else
 [Iowa weather](iowa-weather-2018-10-10) (Musing #775)
 
 > Not a good fall.
+
+[CS department initials, acronyms, and abbreviations](initials-acronyms) (Musing #778)
+
+> What do those two letters mean?
 
 Musings with multiple entries
 -----------------------------

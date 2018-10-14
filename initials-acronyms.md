@@ -1,4 +1,4 @@
-CS Department Initials, Acronyms, and Abbreviations
+CS Department initials, acronyms, and abbreviations
 ===================================================
 
 *Topics/Tags: [Miscellaneous](index-misc), silly, short*
@@ -41,4 +41,4 @@ which probably proves my point.
 
 ---
 
-*Version 0.9 of 2018-10-12.*
+*Version 1.0 of 2018-10-13.*

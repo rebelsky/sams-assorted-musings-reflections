@@ -1008,3 +1008,5 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Looking ahead to summer 2019](looking-ahead-summer-2019) (Musing #774)  
 [Iowa weather](iowa-weather-2018-10-10) (Musing #775)  
 [Hurdle rates](hurdle-rates) (Musing #776)  
+[Michael Perry](michael-perry) (Musing #777)  
+[CS department initials, acronyms, and abbreviations](initials-acronyms) (Musing #778)  

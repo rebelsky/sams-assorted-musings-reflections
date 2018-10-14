@@ -44,9 +44,9 @@ _Tags/content: accessibility, autobiographical, CSC 151, data science, delayed, 
 
 1. PCard Privacy.  :rants:grinnell:privacy:long:rambly: `pcard-privacy.md`
 
-1. Review: _Michael Perry_?
+1. Initials and acronyms.  :short:misc:draft: `initials-acronyms.md`
 
-1. Review: _Saints Rest_?
+1. Review: _Saints Rest_? :reviews:
 
 1. Grinnellians you should know (or know about): Claire Patterson.  *Grinnell, Science*
     Here's one I hadn't known.  I am thankful to Mitch Erickson '72

@@ -27,3 +27,7 @@ things I enjoy.*
 
 > Everyone's favorite _Big Chill_ cover band.
 
+[Michael Perry](michael-perry) (Musing #777)
+
+> Humorist.  Philosopher.  Occasional downer.
+
