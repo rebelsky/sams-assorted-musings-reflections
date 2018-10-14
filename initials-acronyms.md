@@ -1,4 +1,4 @@
-CS Department initials, acronyms, and abbreviations
+CS department initials, acronyms, and abbreviations
 ===================================================
 
 *Topics/Tags: [Miscellaneous](index-misc), silly, short*
