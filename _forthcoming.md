@@ -48,14 +48,9 @@ _Tags/content: accessibility, autobiographical, CSC 151, data science, delayed, 
 
 1. Review: _Saints Rest_? :reviews:
 
-1. Grinnellians you should know (or know about): Claire Patterson.  *Grinnell, Science*
-    Here's one I hadn't known.  I am thankful to Mitch Erickson '72
-    for telling me about him.  Dated the age of the Earth.  But even more
-    importantly, figured out the effects of lead and pushed for
-    huge changes to policy.
-    <https://data.desmoinesregister.com/famous-iowans/claire-patterson>
-    <https://en.wikipedia.org/wiki/Clair_Cameron_Patterson>
-    <https://www.ncbi.nlm.nih.gov/pubmed/6986654>
+1. Grinnellians you should know (or know about): Claire Patterson.  :grinnellians:science:sketch:  `claire-patterson`
+
+1. Grinnellians you should know (or know about): Corlis Benefideo.  :grinnellians:writing:sketch:  `corlis-benefideo.md`
 
 1. Paper Rebel :random:
 
