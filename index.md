@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Marching band](marching-band-2018) (Musing #779)
+[Writer's block](writers-block-2018-10-15) (Musing #780)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

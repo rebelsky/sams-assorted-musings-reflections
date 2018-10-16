@@ -111,6 +111,10 @@ Essays on writing, or at least on writing my musings
 
 > Strange and obscure jokes.
 
+[Writer's block](writers-block-2018-10-15) (Musing #780)
+
+> It continues.
+
 On language
 -----------
 

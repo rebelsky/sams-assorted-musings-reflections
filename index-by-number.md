@@ -1011,3 +1011,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Michael Perry](michael-perry) (Musing #777)  
 [CS department initials, acronyms, and abbreviations](initials-acronyms) (Musing #778)  
 [Marching band](marching-band-2018) (Musing #779)  
+[Writer's block](writers-block-2018-10-15) (Musing #780)  
