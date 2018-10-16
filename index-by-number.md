@@ -1010,3 +1010,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Hurdle rates](hurdle-rates) (Musing #776)  
 [Michael Perry](michael-perry) (Musing #777)  
 [CS department initials, acronyms, and abbreviations](initials-acronyms) (Musing #778)  
+[Marching band](marching-band-2018) (Musing #779)  

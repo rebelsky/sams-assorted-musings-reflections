@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[CS department initials, acronyms, and abbreviations](initials-acronyms) (Musing #778)
+[Marching band](marching-band-2018) (Musing #779)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

@@ -3365,6 +3365,10 @@ Almost everything else
 
 > What do those two letters mean?
 
+[Marching band](marching-band-2018) (Musing #779)
+
+> Musicians, color guards, and the occasional theremin.  Oh my!
+
 Musings with multiple entries
 -----------------------------
 
