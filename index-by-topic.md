@@ -3373,6 +3373,10 @@ Almost everything else
 
 > Musicians, color guards, and the occasional theremin.  Oh my!
 
+[Unintended consequences](unintended-consequences-course-schedule) (Musing #781)
+
+> Small changes can have larger impacts.
+
 Musings with multiple entries
 -----------------------------
 
