@@ -41,12 +41,13 @@ Depression and by 1940 was traveling to various places---Venice, Bogotá,
 Lagos---in an exchange program.
 
 I must admit that everything I know about Benefideo comes from a single
-source, an article by Barry Lopez entitled "[The Mappist](http://www.pugetsound.edu/files/resources/7040_TheMappistLopez.pdf)".
+source, an article by Barry Lopez entitled "[The Mappist](http://www.pugetsound.edu/files/resources/7040_TheMappistLopez.pdf)" [1].
 
 And, well, I'm pretty sure it's fiction.  The story reads as an homage to
 Borges, at least in my reading.  It has the rhythm and tone of a Borges
 story.  It has the slightly fantastical and slightly scholarly approach
-of a Borges story, or at least stories like "Tlön, Uqbar, Orbis Tertius".
+of a Borges story, or at least stories like "Tlön, Uqbar, Orbis Tertius"
+[2].
 
 But the Corlis Benefideo award?  It's [real
 ](http://nacis.org/awards/corlis-benefideo-award/), and is awarded for
@@ -65,4 +66,10 @@ And it would be cool to see someone generate some of the maps that Lopez.
 
 ---
 
-*Version 0.9 of 2018-10-15.*
+[1] You can also listen to "The Mappist" on [an episode of _Selected Shorts_ on "Ways of Seeing"](https://www.symphonyspace.org/selected-shorts/episodes/ways-of-seeing-guest-host-maulik-pancholy).
+
+[2] I'm pretty sure that that's the Borges story that comes to mind.
+
+---
+
+*Version 0.91 of 2018-10-15.*

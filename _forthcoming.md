@@ -8,15 +8,28 @@ you find it and decide to read it._
 The next end of month musing
 ----------------------------
 
+_I think these were the September goals and results._
+
 * Goals: Read and apply _Style_.  Read daily and reflect more on articles
   I read.  Comment on working at the Obermann center.  Inbox zero.
-* Wrote software, such as the schedule maker.
+* Wrote software, such as the schedule maker.  (Or was that last month?)
 * One [particularly concise musing](busses-bussing) that I spent some time
 editing into shape, cutting words and senteces.  I wish I'd kep the history.
+
+_These may be the October ones._
+
+* A bunch of rants, including one rally long rant that I decided not
+  to officially publish.  (It's in the repo, for those of you who want
+  to go hunting.).
+* Resumed "Grinnellians you should know".
+* Hit writers blocks.  Multiple times.
+* Two presentations at Obermann.  (Oops, I need to start planning the
+  second one.)
 
 On particular dates
 -------------------
 
+1. October 18, 2018: Third Obermann Seminar (?)
 1. October 31, 2018: End-of-month musing.  
 1. November 1, 2018: Fourth Obermann Seminar (?)
 1. November 1, 2018: NaNoWriMo (On writing.)  (Or National Technical
@@ -42,15 +55,18 @@ _Tags/style: rants, talks_
 
 _Tags/content: accessibility, autobiographical, CSC 151, data science, delayed, digital humanities, email, grinnell, joc, language, meta, obermann, overcommittment, packrat, Racket (or Scheme; I'm not consistent), technical (not the same as technology), technology (not the same as technical)_
 
+1. The joy of code: Analyzing the course schedule.  :joc:grinnell:academia:draft:  `joc-course-schedule`
+
+1. Grinnellians you should know (or know about): Clair Patterson.  :grinnellians:science:draft:  `clair-patterson`
+
+1. Grinnellians you should know (or know about): Corlis Benefideo.  :grinnellians:writing:draft:  `corlis-benefideo.md`
+
+1. Liberal arts at Ursinus.  :misc:academia:liberal arts: 
+<https://www.insidehighered.com/news/2018/10/15/college-doubles-down-its-residential-liberal-arts-mission-new-core-curriculum>
+
 1. PCard Privacy.  :rants:grinnell:privacy:long:rambly: `pcard-privacy.md`
 
-1. Initials and acronyms.  :short:misc:draft: `initials-acronyms.md`
-
 1. Review: _Saints Rest_? :reviews:
-
-1. Grinnellians you should know (or know about): Claire Patterson.  :grinnellians:science:sketch:  `claire-patterson`
-
-1. Grinnellians you should know (or know about): Corlis Benefideo.  :grinnellians:writing:sketch:  `corlis-benefideo.md`
 
 1. Paper Rebel :random:
 
