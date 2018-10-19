@@ -1,18 +1,21 @@
 Scraping course schedule data
 =============================
 
-*Topics/tags: [The joy of code](index-joc), Grinnell, schedule*
+*Topics/tags: [The joy of code](index-joc), Grinnell, technical, schedule, long*
+
+*Note: The interesting data appear toward the end of this musing.
+Look for the text "It's time for a table".*
 
 The other day, Youngest Son asked whether I knew that you could use
 Google Sheets to scrape Web data.  Michelle looked at us with a bit of
 confusion, so we explained what it means to scrape Web data and why you
 might want to do so [1].
 
-Today, as I was [reflecting on the course
+A few days later, as I was [reflecting on the course
 timetable](unintended-consequences-course-schedule) and wondering how
 popular each timeslot is, I realized that I could use Google sheets to
 gather and extract the data.  In this musing, I do my best to document
-my steps and to report on what I've discovered.
+my steps and to report on what I discovered.
 
 First, let's get the data into the spreadsheet.  It turns out that that's
 relatively simple, using the `IMPORTHTML` command.  Here's what I put
@@ -20,14 +23,16 @@ in cell A1 of my spreadsheet.
 
     =IMPORTHTML("https://itwebapps.grinnell.edu/DotNet/CourseOffering/", "table", 1)
 
-And, voila!, the data appear.  Unfortunately, I only seem
-to be able to get data for the current semester as itwebapps
-doesn't have a clear API [2].  Wait a second.  I'm a computer
-scientist; I should be able to figure things out.  Ah hah!
-I can add a query string and it seems to work.  For example
+And, _voila_, the data appear.  Unfortunately, I only seem to
+be able to get data for the current semester as the itwebapps
+CourseOffering page doesn't have a clear API [2].  
+
+Wait a second.  I'm a computer scientist; I should
+be able to figure things out.  Ah hah!  I can
+add a query string, and it seems to work.  For example,
 <https://itwebapps.grinnell.edu/DotNet/CourseOffering/?Term=2019/SP>
-gives me the spring 2019 listings [3].  So I can scrape data from both
-this semester and next semester.
+gives me the spring 2019 listings [3].  I *can* scrape data from
+both this semester and next semester [4].
 
 Next, I'd like to be able to analyze the data.  I suppose it would make
 sense for me to put them in an SQL database and write appropriate queries.
@@ -38,29 +43,32 @@ What does one line look like?  Here's an example.
 
     81788       Open    CSC-161-01      Imperative Prblm Solvng w/lab   MWF     8:30 AM - 9:50 AM -     Walker, Henry M 10/28   4
 
-We seem to have the course code (column 0 [4]), a tab, an
-open/closed/blanced status (column 1), a tab, the course number (column
+We seem to have the course code (column 0 [5]), a tab, an
+open/closed/balanced status (column 1), a tab, the course number (column
 2), a tab, the course title (column 3), a tab, the days it meets (column
 4), a tab, the meeting times (column 5), a tab, the instructor (column 6),
 a tab, available/capacity (column 7), a tab, and the number of credits
 (column 8).
 
-Some of those entries are a bit strange because the course meets at multiple times in the week.  Here's an example which meets Monday and Wendesday from 1:00-3:50 p.m. and Friday from 1:00-1:50 p.m.  It also has one more field..
+Some of those entries are a bit strange because the course meets at
+multiple times in the week.  Here's an example which meets Monday and
+Wednesday from 1:00-3:50 p.m. and Friday from 1:00-1:50 p.m.  It also
+has one more field.
 
 82505   Closed  BIO-150-01      Intro to Biolgcl Inqry W/Lab    MW F    1:00 PM - 3:50 PM 1:00 PM - 1:50 PM     Brown, Jonathan M       0/24    4       Yes
 
-I'm going to ignore those complexities for now.  
+I'm going to ignore those complexities for now [6].  
 
-My first step is to extract the courses that meet on Monday, Wednesday,
-or Friday.  I'm going to use `egrep`, which means that I'll generate
-a fairly ugly regular expression.
+My first step is to extract the courses that meet on at least two of
+Monday, Wednesday, and Friday.  I'm going to use `egrep`, which means
+that I'll generate a fairly ugly regular expression.
 
     $ egrep '^([^\t]*\t){4}[MWF]' 2018F.txt
 
 Nope.  That didn't work.  While it includes the lines I want, it also
 includes entries whose weekday column doesn't start with M, W, or F.
 I'm not sure why.  It may have something to do with the interpretation
-of tabs.  Have I ever mentioned how much I hate computers?  I wonder
+of tabs [7].  Have I ever mentioned how much I hate computers?  I wonder
 what happens if I replace all the tabs with tildes.
 
     $ cat 2018F.txt | tr '\t' '~' | egrep '^([^~]*~){4}[MWF]'
@@ -72,12 +80,12 @@ Since I've written some ugly code, I should probably explain it.
 
 * `tr '\t' '~'` translates tabs to tildes.
 * `egrep` is "extended `grep`", a utility for searching files.
-* The first caret (`^`) represents "the start of the line"
+* The first caret (`^`) represents "the start of the line".
 * The `[^~]` represents "anything but a tilde".  Square brackets
   represent a set.  A caret after the left square bracket indicates
-  that it's an anti-set; anything except the next characters.
+  that it's an anti-set, anything except the next characters.
 * The asterisk (`*`) represents "zero or more copies".
-* The parentheses group, just as they do in most languages [5].
+* The parentheses group, just as they do in most languages [8].
   So `([^~]*~)` means "a bunch of characters, not including a tilde,
   and then a tilde".  Given the structure of our file, it matches
   one column.
@@ -89,11 +97,10 @@ Since I've written some ugly code, I should probably explain it.
 And yes, there are people out there who found the original clear enough
 that it did not need this explanation.  
 
-You know what?  I really only want courses that meet at least two days
-per week.  So I'm going to change my command a bit, and save the result
-to a file.  
+You know what?  I only want courses that meet at least two days per week.
+So I'm going to change my command a bit, and save the result to a file.
 
-    $ cat 2018F.txt | tr '\t' '~' | egrep '^([^~]*~){4}(MTW|MW|WF)' > 2018F-mwf.txt
+    $ cat 2018F.txt | tr '\t' '~' | egrep '^([^~]*~){4}(MTW|MW|WF|MF)' > 2018F-mwf.txt
 
 I can probably create one for the Tuesday/Thursday courses, too.
 
@@ -123,7 +130,7 @@ Oh.  There are a bunch.  Let's see how many.
     27
 
 That's too many to process by hand.  I know!  I can eliminate the second
-time slot so that I don't h ave to worry about it in future queries.  Let's
+time slot so that I don't have to worry about it in future queries.  Let's
 see.
 
     $ egrep '^([^~]*~){4}([A-Z]* )' 2018F-mwf.txt | sed -E 's/M [0-9]+:[0-9]+ .M - [0-9]+:[0-9]+ .M/M/'
@@ -143,33 +150,33 @@ included.  But that's a pretty horrendous sed command.  Can I clean it up?
 That's a bit better.  Of course, I should probably use that sed command as I
 generate the two files.
 
-    $ cat 2018F.txt | tr '\t' '~' | egrep '^([^~]*~){4}(MTW|MW|WF)' | sed -E 's/M [0-9]+:[^~]*~/M~/' > 2018F-mwf.txt
+    $ cat 2018F.txt | tr '\t' '~' | egrep '^([^~]*~){4}(MTW|MW|WF|MF)' | sed -E 's/M [0-9]+:[^~]*~/M~/' > 2018F-mwf.txt
     $ cat 2018F.txt | tr '\t' '~' | egrep '^([^~]*~){4}(TTH)' | sed -E 's/M [0-9]+:[^~]*~/M~/' > 2018F-tth.txt
 
-Oh, yeah.  I should ignored the Canceled classes.  And I really should
-include the TWTH courses in the TH list (at least if I care about those
+Oh, yeah.  I should ignore the "Canceled" classes.  And I really should
+include the TWTH courses in the TTH list (at least if I care about those
 that use up those time slots).  Time to clean up my commands a bit.
 
     $ grep -v "\tCanceled\t" 2018F.txt | tr '\t' '~' | sed -E 's/M [0-9]+:[^~]*~/M~/' > 2018F.tmp
-    $ egrep '^([^~]*~){4}(MTW|MW|WF)' 2018F.tmp > 2018F-mwf.txt 
+    $ egrep '^([^~]*~){4}(MTW|MW|WF|MF)' 2018F.tmp > 2018F-mwf.txt 
     $ egrep '^([^~]*~){4}(TTH|MTWTH)' 2018F.tmp > 2018F-tth.txt 
 
 At this point, I'm beginning to wonder if I should use a different
-tool [6].  But I've gotten this far, so I'm going to continue.
+tool [9].  But I've gotten this far, so I'm going to continue.
 
 Let me take stock.  I have created two files, `2018F-mwf.txt` and
 `2018F-tth.txt`.  The first contains all the courses that meet at least
 two of Monday, Wednesday, and Friday.  The second contains all the courses
 that meet only on Tuesday and Thursday.  I don't think we have any
 courses that meet Tuesday, Wednesday, and Thursday, except for those
-that meet all five days [7].  I think I'm ready to gather data.
+that meet all five days [10].  I think I'm ready to gather data.
 
     $ grep "8:00 AM - 8:50 AM" 2018F-mwf.txt | wc -l
     22
     $ grep "8:00 AM - 9:50 AM" 2018F-mwf.txt | wc -l
     7
 
-Yup, things look good.  It's time for a table [8].
+Yup, things look good.  It's time for a table [11].
 
     Slot        Times (MWF)       Number
      1           8:00- 8:50 AM      19
@@ -237,17 +244,16 @@ Now, let's see what this means for each hour of the day.
       2:00- 2:50 PM     6,20,21,24,26     2+15+10+14+7 = 48
       3:00- 3:50 PM     7,21,24,26        7+10+14+7 =    38
 
-My imperfect read is that our pressure points are MWF [9] 9:00, 11:00, and
-1:00 and TuTh at 9:00.  Can a bit of arm twisting solve these issues?
-It *looks* like moving a few 9:00 a.m. MWF and 11:00 MWF class to
-10:00 a.m. should solve some problems.  We also have a reasonable
-amount of room on TuTh afternoons.  How many two-day-per-week classes
-meet in the MWF time slot?  Sixty meet just MW.  Two meet MF.  Five
-meet WF.  We could shift a few of those to TuTh afternoons and address
-some of our problems.
+My imperfect read is that our pressure points are MWF [12] 9:00, 11:00,
+and 1:00 and TuTh at 9:00.  Can a bit of arm twisting solve these issues?
+It *looks* like moving a few 9:00 a.m. MWF and 11:00 MWF classes to 10:00
+a.m. should solve some problems.  We also have a reasonable amount of room
+on TuTh afternoons.  How many two-day-per-week classes meet in the MWF
+time slot?  Sixty meet just MW.  Two meet MF.  Five meet WF.  We could
+shift a few of those to TuTh afternoons and address some of our problems.
 
 Unfortunately, I've just realized that my counting doesn't deal with
-cross listed courses.  Maybe I'm better off just asking the Registrar's
+cross-listed courses.  Maybe I'm better off just asking the Registrar's
 office for the data.  Still, I've gotten a rough picture of the pressure
 points for this fall.
 
@@ -255,35 +261,55 @@ points for this fall.
 
 Postscript: This exercise may seem secondary to my primary digital
 humanities project.  However, many parts relate directly to that project.
-I should teach my students how to scrape data.  Google spreadsheets
-may be more convenient than the scripts I have them write.  I'll probably
-have them learn both.  And the Scheme library for scraping data needs
-to be on my "to write soon" list.  Then I'll rewrite this musing using
-those tools.
+I should teach my students how to scrape data.  Google spreadsheets may
+be more convenient than the scripts I have them write.  I'll probably have
+them learn both.  And the Scheme library for scraping data needs to be on
+my "to write soon" list.  Then I'll rewrite this musing using those tools.
+
+---
+
+Postscript: Speaking of programs and libraries, I should probably write
+a program that generates one of those tables by hand.  However, if I'm
+going to do that, I should strive for more reliable results.  I wonder
+if I can find a good way to identify cross-listed courses.
+
+---
+
+Postscript: I've been writing a few [joy of code](index-joc) musings.
+I wonder if I should start a separate "joy of data" series.
 
 ---
 
 [1] Youngest Son's college choice spreadsheet has reached a few hundred
-columns of data.  He's clearly at the point that he wants those cells
-filled in automatically.
+columns of data.  He's clearly at the point that he wants to fill
+in those cells by code rather than by hand.
 
-[2] That is, if I change the semester the URL does not change.
+[2] That is, if I change the semester, the URL does not change.
 
 [3] Interestingly, that approach also gives me access to summer listings.
 
-[4] As a computer scientist, I tend to start numbering at zero.
+[4] I eventually decided that I didn't want to analyze next semester,
+so it doesn't matter right now.  But it's nice to know that I *can*
+get that information if I want it.
 
-[5] Scheme is a notable exception.
+[5] As a computer scientist, I tend to start numbering at zero.
 
-[6] See the postscript for some more reflection.
+[6] I see that the "Yes" likely means "Writing Intensive".
 
-[7] I used `grep "TWTH" 2018F.txt | grep -v "MTWTH"` to check.
+[7] Youngest Son tells me that Mac grep doesn't handle tabs correctly.
+I wonder why.
 
-[8] The slot numbers come from the current timetable.
+[8] Scheme is a notable exception.
 
-[9] "MWF" represents "MWF" and "MW" and "WF" and "MF" and "MTWF" and
+[9] See the postscript for some more reflection.
+
+[10] I used `grep "TWTH" 2018F.txt | grep -v "MTWTH"` to check.
+
+[11] The slot numbers come from the current timetable.
+
+[12] "MWF" represents "MWF" and "MW" and "WF" and "MF" and "MTWF" and
 "MTWTHF" and variants thereof.
 
 ---
 
-*Version 0.9 of 2018-10-16.*
+*Version 1.0 of 2018-10-18.*

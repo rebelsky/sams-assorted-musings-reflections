@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Unintended consequences](unintended-consequences-course-schedule) (Musing #781)
+[Scraping course schedule data](joc-course-schedule) (Musing #782)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

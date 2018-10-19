@@ -77,3 +77,7 @@ The joy of code
 
 > The "joy" of legacy code, particularly when "deprecated" becomes "unavailable".
 
+[Scraping course schedule data](joc-course-schedule) (Musing #782)
+
+> Starting to think about the joy of data.
+

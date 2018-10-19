@@ -1016,3 +1016,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 ## 781-790
 
 [Unintended consequences](unintended-consequences-course-schedule) (Musing #781)  
+[Scraping course schedule data](joc-course-schedule) (Musing #782)  
