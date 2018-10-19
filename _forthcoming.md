@@ -61,6 +61,22 @@ _Tags/content: accessibility, autobiographical, CSC 151, data science, delayed, 
 
 1. Grinnellians you should know (or know about): Corlis Benefideo.  :grinnellians:writing:draft:  `corlis-benefideo.md`
 
+1. Refusing to recommend.  :recommendations:academia:sketch: `recommendation-bds`
+
+1. Outrage amplification.  :misc:language:short:sketch:
+As I was writing a musing about [a faculty member's refusal to recommend someone because they were applying for an internship in Israel](recommendation-bds), I decided to come up with an acronym to describe what happens on the InterWeb.  It seemed that a variant of LASER (Light Amplification) that focused on Outrage Amplification seemed like the right way to go.  I started with 
+Outrage Amplification by Internet Expansion of Umbrage (OAIEU).  Then
+I started to ask myself whether I should try to get the vowels in the
+right order (AEIOU).  But I failed.  So I went back to thinking about something
+closer to LASER.  Let's see ... if I want the third letter to be "S", that
+could be "Stupid".  I do want to include "Internet", so I'll use an I rather
+than E.  What about the "R"?  It could be reification (the way the InterWeb
+makes things "real") or "reflection".  Yeah, that's better.  So Outrage
+Amplification by Stupid Internet Reflection, or OASIR.  And no, that
+was not intentional [1].
+[1] OASIR is also Grinnell's Office of Analytic Support and Institutiona
+Research.
+
 1. Liberal arts at Ursinus.  :misc:academia:liberal arts: 
 <https://www.insidehighered.com/news/2018/10/15/college-doubles-down-its-residential-liberal-arts-mission-new-core-curriculum>
 
