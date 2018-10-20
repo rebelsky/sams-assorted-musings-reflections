@@ -1968,6 +1968,10 @@ Grinnellians you should know (or know about)
 > Art History and CS major, research assistant, SAC director,
   first-gen student, PM, and more.
 
+[Clair Patterson '43](clair-patterson) (Musing #783)
+
+> Chemist and change agent.
+
 [Sarah Purcell '92](sarah-purcell) (Musing #116)
 
 > L. F. Parker Professor of History, Director of the Rosenfield Program,

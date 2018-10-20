@@ -55,10 +55,6 @@ _Tags/style: rants, talks_
 
 _Tags/content: accessibility, autobiographical, CSC 151, data science, delayed, digital humanities, email, grinnell, joc, language, meta, obermann, overcommittment, packrat, Racket (or Scheme; I'm not consistent), technical (not the same as technology), technology (not the same as technical)_
 
-1. The joy of code: Analyzing the course schedule.  :joc:grinnell:academia:draft:  `joc-course-schedule`
-
-1. Grinnellians you should know (or know about): Clair Patterson.  :grinnellians:science:draft:  `clair-patterson`
-
 1. Grinnellians you should know (or know about): Corlis Benefideo.  :grinnellians:writing:draft:  `corlis-benefideo.md`
 
 1. Refusing to recommend.  :recommendations:academia:sketch: `recommendation-bds`
