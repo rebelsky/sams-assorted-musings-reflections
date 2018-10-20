@@ -422,3 +422,7 @@ Rants
 
 > A bad measure.
 
+[Correct spelling matters (at least to me)](masterwriter-alliteration) (Musing #784)
+
+> Would you buy a writing tool with misspelled menus?
+

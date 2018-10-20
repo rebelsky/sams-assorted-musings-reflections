@@ -9,8 +9,10 @@ If you'd like, you can read [a longer introduction](intro-musings-v0).
 If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
-Latest musing:
-[Clair Patterson '43](clair-patterson) (Musing #783)
+Latest musings:
+[Correct spelling matters (at least to me)](masterwriter-alliteration) (Musing #784)
+and
+[Dreaming about musing (or vice versa)](dreaming-about-musing) (Musing #785)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

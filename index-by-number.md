@@ -1018,3 +1018,5 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Unintended consequences](unintended-consequences-course-schedule) (Musing #781)  
 [Scraping course schedule data](joc-course-schedule) (Musing #782)  
 [Clair Patterson '43](clair-patterson) (Musing #783)  
+[Correct spelling matters (at least to me)](masterwriter-alliteration) (Musing #784)  
+[Dreaming about musing (or vice versa)](dreaming-about-musing) (Musing #785)  

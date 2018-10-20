@@ -309,6 +309,10 @@ be found in [the list of musing son writing](index-on-writing)._
 
 > Dealing with the musings "project".
 
+[Dreaming about musing (or vice versa)](dreaming-about-musing) (Musing #785)
+
+> What is my subconscious trying to tell me?
+
 Monthly reflections
 -------------------
 
@@ -1129,6 +1133,10 @@ Rants
 [Hurdle rates](hurdle-rates) (Musing #776)
 
 > A bad measure.
+
+[Correct spelling matters (at least to me)](masterwriter-alliteration) (Musing #784)
+
+> Would you buy a writing tool with misspelled menus?
 
 Assorted talks and speeches
 ---------------------------

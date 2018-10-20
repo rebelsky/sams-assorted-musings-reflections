@@ -169,3 +169,7 @@ be found in [the list of musing son writing](index-on-writing)._
 
 > Dealing with the musings "project".
 
+[Dreaming about musing (or vice versa)](dreaming-about-musing) (Musing #785)
+
+> What is my subconscious trying to tell me?
+
