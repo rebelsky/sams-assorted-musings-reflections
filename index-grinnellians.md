@@ -36,6 +36,10 @@ Grinnellians you should know (or know about)
 
 > CS major, linguistics concentrator, entrepreneur.
 
+[Corlis Benefideo](corlis-benefideo) (Musing #786)
+
+> Mapmaker.  Subject of a Barry Lopez story.
+
 [Terry Bisson '64](terry-bisson) (Musing #117)
 
 > Author, publisher, not-quite graduate.

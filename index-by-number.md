@@ -1020,3 +1020,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Clair Patterson '43](clair-patterson) (Musing #783)  
 [Correct spelling matters (at least to me)](masterwriter-alliteration) (Musing #784)  
 [Dreaming about musing (or vice versa)](dreaming-about-musing) (Musing #785)  
+[Corlis Benefideo](corlis-benefideo) (Musing #786)  
