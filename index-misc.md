@@ -652,3 +652,7 @@ Almost everything else
 
 > Small changes can have larger impacts.
 
+[An abbreviated history of Grinnell’s end-of-course evaluations](eoce-history) (Musing #787)
+
+> What would an extended history look like?
+

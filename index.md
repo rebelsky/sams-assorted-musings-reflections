@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musings:
-[Corlis Benefideo](corlis-benefideo) (Musing #786)
+[An abbreviated history of Grinnell’s end-of-course evaluations](eoce-history) (Musing #787)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
