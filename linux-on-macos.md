@@ -79,7 +79,7 @@ MacTeX is pretty straightforward.  I just need to download a new installer
 Mac [10].  At some point in the near future, I should probably uninstall
 the old version.  And I should keep my eye out for the next version.
 Somewhere in the middle, I should consider whether I want to use TeX
-Live to update the asssociated files.  
+Live to update the associated files.  
 
 It turns out that there's [a download of ImageMagick 7 for macOS].  How
 did I miss that?  Let's see.  I downloaded the tarball, unpacked it,
@@ -101,7 +101,7 @@ One way I'll figure out what I need or want is to clear everything out
 and start again.  That's also a good way to get rid of cruft.  First,
 I'll make a list, just in case.
 
-    $ port list installed > macports-installed.tex
+    $ port list installed > macports-installed.txt
 
 Now I'll clean out the MacPorts stuff.  Here's the [first command
 that they suggest](https://guide.macports.org/chunked/installing.macports.uninstalling.html).
@@ -120,14 +120,14 @@ nuke `/opt/local` too.
 As long as I'm doing that, I should also get rid of the applications in
 `/Applications/MacPorts` [16].  Now, let's reinstall MacPorts and
 ImageMagick.  I wonder how long it takes to install ImageMagick and all
-of its dependencies from scratch?  Let's see.
+of its dependencies from scratch?  Let's see [17].
 
     $ time sudo port install ImageMagick
 
 Much faster this time; only eight minutes.  And it didn't install atlas.
 I wonder what was going on last time.  In addition, at present, I only
 have 1 GB in `/opt/local`.  I'm a bit worried about what's gone, but
-not enough to think more about it at the moment.
+not enough to think more about it too much [18].
 
 Isn't system administration fun?
 
@@ -135,7 +135,7 @@ Isn't system administration fun?
 
 [1] The Pyramid's tendency to crash under high loads led me to make it
 a policy to start homework assignments the day after they were do; that
-way, I was the only one working on the system, and it was less likley to
+way, I was the only one working on the system, and it was less likely to
 crash and destroy my work.  More details on my experiences with the Pyramid,
 including its poorly-designed Pascal compiler and my exposure to Gosling
 Emacs, may follow in subsequent musings.  If you want me to write more, let
@@ -167,11 +167,11 @@ have an outstanding rant on my experiences with Scribble.
 
 [10] It said it would take ten minutes, but it was much faster.
 
-[11] Actually, until I have spent some time with the new ImageMagic, I'm
+[11] Actually, until I have spent some time with the new ImageMagick, I'm
 probably best off making sure I still have the old one installed.
 
 [12] I have MacTeX 2016, MacTeX 2018, and the strange TeX installation
-in my MacPorts filesystem.
+in my MacPorts file system.
 
 [14] *That's* why I thought I had ImageMagick installed.
 
@@ -243,9 +243,24 @@ installed:
 `xorg-xcb-proto`
 `xorg-xorgproto`
 `xz`
-`zlib`
-. I'm not quite sure how to react.
+`zlib`. 
+
+[18] I couldn't resist taking a quick look.  Here are some things that
+I appear to be missing.
+
+* GraphicsMagick, an alternative to ImageMagick
+* [atlas](http://math-atlas.sourceforge.net/), some linear algebra libraries
+* bison, everyone's favorite Yacc alternative
+* docbook-xml-4.5, left over from the days in which I wrote shared course
+  materials in DocBook
+* SuiteSparse, a suite of sparse matrix algorithms
+
+I wonder when I was doing linear algebra on my computer.  Oh well.  I
+don't need them right now.
+
+I'm also missing the TeX stuff that I wanted to delete and what appears
+to be a bunch of C compilers.
 
 ---
 
-*Version 0.9 of 2018-10-24.*
+*Version 0.92 of 2018-10-24.*
