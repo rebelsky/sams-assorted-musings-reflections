@@ -185,15 +185,16 @@ is troubling.
 Fast forward a few years.  We had moved from annual merit reviews to
 triennial merit reviews.  The Budget Committee still struggled with
 how to assess faculty.  I was on Council [21].  I made two suggestions:
-First, that we go from a five-point to a three-value scale for teaching
-[22,23].  Second, that the Faculty Budget Committee receive the distribution
-of responses on two questions ("Interactions with the faculty member
-helped me learn the subject matter of the course" and "I learned a lot in
-this course") as well as the comparable set of responses across similar
-courses (100, 200, and 300-level courses in Science, Social Studies,
-Foreign Language, Arts, and whatever we called the other Humanities) so
-that we could run statistical tests to see if the courses were, in fact,
-high or low outliers.
+First, that in assigning merit scores, the Faculty Budget Committee move
+from a five-point to a three-value scale for teaching [22,23].  Second,
+that the Faculty Budget Committee receive the distribution of responses
+on two questions ("Interactions with the faculty member helped me learn
+the subject matter of the course" and "I learned a lot in this course")
+as well as the comparable set of responses across similar courses (100,
+200, and 300-level courses in Science, Social Studies, Foreign Language,
+Arts, and whatever we called the other Humanities) so that we could
+run statistical tests to see if the courses were, in fact, high or
+low outliers.
 
 The faculty discussed these ideas at the faculty meeting of September
 17, 2007.  Eliza Willis led the discussion.  I am thankful to her for 
@@ -358,5 +359,5 @@ course, I also don't believe in merit raises, even though they benefit me.
 
 *Version 1.0 released 2018-10-22.*
 
-*Version 1.1 of 2018-10-23.*
+*Version 1.2 of 2018-10-24.*
 
