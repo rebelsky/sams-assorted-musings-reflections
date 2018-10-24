@@ -52,7 +52,7 @@ a value to building our name recognition.  It is important to build our
 name recognition, not just so that we can recruit more students [8],
 but also so that people are more likely to consider hiring our students
 [9].  If the ad contributes substantially to us getting one more full-pay
-student for each of the next for years, it has paid for itself.  Will that
+student for each of the next four years, it has paid for itself.  Will that
 happen?  I don't know; I'm not wise in such matters.  But the stories
 look compelling and might get some folks to take a second look [10].  If
 a thousand people follow the link to read more, and that leads to ten
@@ -128,4 +128,6 @@ companies.  Those companies now know the value of Grinnell students.
 
 ---
 
-*Version 1.0 of 2018-10-23.*
+*Version 1.0 released 2018-10-23.*
+
+*Version 1.0.1 of 2018-10-24.*
