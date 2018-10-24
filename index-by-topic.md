@@ -2214,6 +2214,10 @@ Grinnell.
 
 > Why the jump?
 
+[Go Forth Grinnellian](go-forth-grinnellian) (Musing #788)
+
+> Our new tagline.
+
 A letter to the incoming chair
 ------------------------------
 
