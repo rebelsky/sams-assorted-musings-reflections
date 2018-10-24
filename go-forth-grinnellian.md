@@ -119,8 +119,10 @@ campus.
 
 [8] Including more full-pay students.
 
-[9] In CS, we've achieved that by sending excellent students to top 
-companies.  Those companies now know the value of Grinnell students.
+[9] In CS, we didn't need advertisements.  Once one Grinnellian CS major
+gets a job at a company, they naturally pave the way for others.  I assume
+that others find the same thing.  However, since there's a relatively
+limited spectrum of "top companies" in CS, the impact may be more obvious.
 
 [10] Or even a first look.
 
@@ -130,4 +132,4 @@ companies.  Those companies now know the value of Grinnell students.
 
 *Version 1.0 released 2018-10-23.*
 
-*Version 1.0.1 of 2018-10-24.*
+*Version 1.0.2 of 2018-10-24.*
