@@ -1023,3 +1023,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Corlis Benefideo](corlis-benefideo) (Musing #786)  
 [An abbreviated history of Grinnell’s end-of-course evaluations](eoce-history) (Musing #787)  
 [Go Forth Grinnellian](go-forth-grinnellian) (Musing #788)  
+[Fiddling with Linux applications on macOS](linux-on-macos) (Musing #789)  

@@ -16,9 +16,10 @@ a \*nix [4] core, I was overjoyed.  I expected to get the consistent Macintosh
 UI [5] along with a terminal that I could use when I wanted the more
 efficient command line.  And, in general, that's proven true.
 
-But there are times that I want to use popular Linux programs that don't
-necessarily come native on my Mac.  Sometimes that works well; sometimes
-it doesn't.  This is a story about one of the times things went less well.
+But there are times that I want to use popular Linux programs that
+don't necessarily come native on my Mac.  Sometimes that works well;
+sometimes it doesn't.  This musing is a story about one of the times
+things went less well.
 
 ---
 
@@ -34,10 +35,10 @@ Since I still run Sierra [6], I was out of luck.  Of course, upgrading
 would not help; that site only supports up to 10.10 (whatever that was).
 
 So I employed the other recommended strategy, installing with
-[MacPorts](https://www.macports.org/).  Conceptually, MacPorts is great.
-It provides a simple, command-line tool for installing and updating
-a wide variety of \*nix software.  And, conceptually, the process is
-easy.  I should just be able to type
+[MacPorts](https://www.macports.org/).  Conceptually, MacPorts is
+wonderful.  It provides a simple, command-line tool for installing
+and updating a wide variety of \*nix software.  And, theoretically,
+the process is simple.  I should be able to type
 
     sudo port install ImageMagick
 
@@ -55,10 +56,10 @@ all of it installed successfully.  Since I know a little bit about
 building software, I don't generally quit when that happens.  I spent
 a bit uninstalling and then reinstalling the dependencies and doing
 a Web search on error messages.  Eventually, it looked like I had
-succeeding in installing all of the necessary parts.  I went to convert
+succeeded in installing all of the necessary parts.  I went to convert
 the file that started the whole process and, amazingly enough, it worked.
 
-Then I went to run [Scribble](https://docs.racket-lang.org/scribble/),
+Then I tried to run [Scribble](https://docs.racket-lang.org/scribble/),
 the markup language I'm using for the textbook [9].  And, well, I got
 ugly error messages.  I was able to read them and determine that it
 was something to do with LaTeX.  I hadn't changed LaTeX, so I was
@@ -74,16 +75,17 @@ of MacTex is two years out of date and (b) the latest version of
 ImageMagick is version 7.0.9, while MacPorts only supports 6.9.9.
 On to more upgrades.
 
-MacTeX is pretty straightforward.  I just need to download a new installer
+MacTeX is pretty straightforward.  I need to download a new installer
 (3.4 GB) and run it (another 6 GB).  It takes about three minutes on my
-Mac [10].  At some point in the near future, I should probably uninstall
+Mac [10].  At some point soon, I should probably uninstall
 the old version.  And I should keep my eye out for the next version.
 Somewhere in the middle, I should consider whether I want to use TeX
 Live to update the associated files.  
 
-It turns out that there's [a download of ImageMagick 7 for macOS].  How
-did I miss that?  Let's see.  I downloaded the tarball, unpacked it,
-moved it to my /Applications folder, and updated my `.bash_profile` file.
+It turns out that there's [a download of ImageMagick 7 for
+macOS](http://imagemagick.org/script/download.php#macosx).  How did I
+miss that?  Let's see.  I downloaded the tarball, unpacked it, moved
+it to my /Applications folder, and updated my `.bash_profile` file.
 That's much simpler than using MacPorts.
 
 I'm not sure that I want two versions of ImageMagick installed [11].  I know
@@ -98,8 +100,8 @@ Maybe it's time to make a list of what I like installed and to keep it
 up to date [15].
 
 One way I'll figure out what I need or want is to clear everything out
-and start again.  That's also a good way to get rid of cruft.  First,
-I'll make a list, just in case.
+and start again.  That's also an appropriate, if somewhat excessive,
+way to get rid of cruft.  But I'll make a list, just in case.
 
     $ port list installed > macports-installed.txt
 
@@ -108,7 +110,7 @@ that they suggest](https://guide.macports.org/chunked/installing.macports.uninst
 
     $ sudo port -fp uninstall installed
 
-It's kind of scary is that I get error messages from that process,
+It's a bit scary that I get error messages from that process,
 such as "Warning: All compilers are either blacklisted or unavailable;
 defaulting to first fallback option".  I'm also puzzled that there's still
 about 1 GB in use in `/opt/local` after that command.  Ah!  It's all in
@@ -125,16 +127,16 @@ of its dependencies from scratch?  Let's see [17].
     $ time sudo port install ImageMagick
 
 Much faster this time; only eight minutes.  And it didn't install atlas.
-I wonder what was going on last time.  In addition, at present, I only
-have 1 GB in `/opt/local`.  I'm a bit worried about what's gone, but
-not enough to think more about it too much [18].
+I wonder what was going on last time.  In addition, at present, it only
+occupies have 1 GB in `/opt/local`.  I'm a bit worried about what's gone,
+but not enough to think more about it too much [18].
 
 Isn't system administration fun?
 
 ---
 
 [1] The Pyramid's tendency to crash under high loads led me to make it
-a policy to start homework assignments the day after they were do; that
+a policy to start homework assignments the day after they were due; that
 way, I was the only one working on the system, and it was less likely to
 crash and destroy my work.  More details on my experiences with the Pyramid,
 including its poorly-designed Pascal compiler and my exposure to Gosling
@@ -159,16 +161,18 @@ runs Sierra.
 
 [7] I don't use Xcode, so I install only the command-line tools.
 
-[8] Xcode 10 is the latest version.  Xcode 8.3 or so is the last one
-that works under Sierra.
+[8] Xcode 10 is the latest version.  Xcode 8.3 or so seems to be the
+last one that works under Sierra.
 
-[9] I also have an outstanding musing on choosing Scribble.  I may also
-have an outstanding rant on my experiences with Scribble.
+[9] I have planned a musing on choosing Scribble.  I may also end
+up musing (well, ranting) about my subsequent experiences with
+Scribble.
 
 [10] It said it would take ten minutes, but it was much faster.
 
-[11] Actually, until I have spent some time with the new ImageMagick, I'm
-probably best off making sure I still have the old one installed.
+[11] Upon further reflection, until I have spent some time with the
+new ImageMagick, I'm probably best off making sure I still have the old
+one installed, too.
 
 [12] I have MacTeX 2016, MacTeX 2018, and the strange TeX installation
 in my MacPorts file system.
@@ -181,12 +185,12 @@ that list on GitHub.  GitHub suggested I call it
 How's that for serendipity?
 
 [16] In doing so, I realized that I still have MacPython 2.5 in my
-Applications directory.  It takes from 2010, and I haven't used it
+Applications directory.  It dates from 2010, and I haven't used it
 in years.
 
-[17] No, I will not list all of the output from `port`.  However, you
-may be interested in the list of dependencies that need to be 
-installed:
+[17] No, I will not list all of the output from that `port` command.
+However, you may be interested in the list of dependencies that it says
+need to be installed:
 `autoconf`
 `automake`
 `bzip2`
@@ -244,6 +248,7 @@ installed:
 `xorg-xorgproto`
 `xz`
 `zlib`. 
+My spellcheckers did not enjoy that list.
 
 [18] I couldn't resist taking a quick look.  Here are some things that
 I appear to be missing.
@@ -256,11 +261,16 @@ I appear to be missing.
 * SuiteSparse, a suite of sparse matrix algorithms
 
 I wonder when I was doing linear algebra on my computer.  Oh well.  I
-don't need them right now.
+don't need those packages right now.  I also don't need `bison` and can
+easily install it when I do.
 
 I'm also missing the TeX stuff that I wanted to delete and what appears
-to be a bunch of C compilers.
+to be a bunch of C compilers.  Those I can do without.
+
+I'm reinstalling GraphicsMagick and DocBook.  I'll see what else I miss
+over the coming weeks and, as I do, I'll try to remember my [list of *nix
+software](https://github.com/rebelsky/reimagined-memory/blob/master/README.md).
 
 ---
 
-*Version 0.92 of 2018-10-24.*
+*Version 1.0 of 2018-10-24.*

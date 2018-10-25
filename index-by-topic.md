@@ -1138,6 +1138,10 @@ Rants
 
 > Would you buy a writing tool with misspelled menus?
 
+[Fiddling with Linux applications on macOS](linux-on-macos) (Musing #789)
+
+> Things are never as easy as they should be.
+
 Assorted talks and speeches
 ---------------------------
 
