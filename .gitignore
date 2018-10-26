@@ -6,6 +6,7 @@
 # Temporary files
 *~
 *.swp
+*.bak
 
 # C cruft
 *.i
