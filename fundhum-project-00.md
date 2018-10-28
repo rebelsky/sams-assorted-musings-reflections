@@ -75,7 +75,7 @@ description](https://www.cs.grinnell.edu/~rebelsky/Courses/CSC151/2018S/assignme
 humanities; develop, implement, and apply appropriate algorithms; and
 present your findings in both written and oral form.  
 
-*Purposes*: The project provides you with the opportunity to explore some
+*Purposes*: The project gives you the opportunity to explore some
 aspect of the digital humanities in more depth and to do work that is
 novel and creative.  We also intend that it will encourage you to reflect
 more purposefully on the design of algorithms.
@@ -251,4 +251,6 @@ will be a pretty good starting point.
 
 ---
 
-*Version 1.0 of 2018-10-27.*
+*Version 1.0 released 2018-10-27.*
+
+*Version 1.0.1 of 2018-10-28.*
