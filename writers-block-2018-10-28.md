@@ -60,6 +60,14 @@ However, the project description should have led to a similar sense
 of urgency.  I need it ready for Wednesday's Obermann discussion, so
 there is a real time pressure.
 
+There are, of course, way too many distractions.  I am, as we all know,
+[overcommitted](index-overcommitment).  Hence, I'm not able to focus as
+much on writing as I'd like.  And I've certainly found too many days when
+I sit down to work on my writing only to discover an "urgent" task that
+distracts me for a few hours.  That uses up mental energy.  And, in some
+cases, those tasks also affct my mood.  But I struggle on days in which
+tasks don't interfere, too.
+
 How do I move forward?  I'm not sure.  It may be time to start
 experimenting with free writing.  I'll keep thinking.
 
@@ -78,4 +86,4 @@ still do and feel productive.
 
 ---
 
-*Version 0.55 of 2018-10-28.*
+*Version 0.6 of 2018-10-28.*
