@@ -32,11 +32,12 @@ Markdown, and it involves no code.  So, while the coding may be getting
 a bit in the way, it's not the primary factor [3].
 
 Or perhaps I'm struggling with the same thing I regularly see students
-struggle with: When you don't understand a subject well, it's harder
-to write (well) about it.  I've always written instructional materials
-with a sense that I'm learning while writing.  But maybe a combination
-of an internal change in standards and less familiarity with the material
-is causing some difficulty.
+struggle with: When you don't understand a subject well, it's harder to
+write (well) about it.  I've always written instructional materials with
+a sense that I'm learning while writing.  But maybe a combination of an
+internal change in standards and less familiarity with the material is
+causing some difficulty.  However, I'm even struggling to write about
+Scheme concepts that I've taught for more than twenty years.
 
 It may be that I'm older and therefore work less efficiently.  Certainly,
 I've never been as productive as I was early in my career.  I still don't
@@ -77,4 +78,4 @@ still do and feel productive.
 
 ---
 
-*Version 0.5 of 2018-10-28.*
+*Version 0.55 of 2018-10-28.*
