@@ -1024,3 +1024,8 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [An abbreviated history of Grinnell’s end-of-course evaluations](eoce-history) (Musing #787)  
 [Go Forth Grinnellian](go-forth-grinnellian) (Musing #788)  
 [Fiddling with Linux applications on macOS](linux-on-macos) (Musing #789)  
+[Grinnell ephemera](grinnell-ephemera-icaria) (Musing #790)  
+
+## 791-800
+
+[Designing a project for my digital humanities class (draft 0)](fundhum-project-00) (Musing #791)  

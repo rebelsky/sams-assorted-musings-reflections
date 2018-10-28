@@ -28,13 +28,13 @@ which was itself an extension of his doctoral thesis.  Is it worth $600?
 Not to me.  But the seller notes that only nine copies are known to
 exist and this is the author's own copy.  You can also buy [a facsimile
 copy](https://www.abebooks.com/servlet/BookDetailsPL?bi=22646936419)
-for under $20 or [read the English-language edition on
+for under $20 or [read the original English-language edition on
 Archive.org](https://archive.org/details/icariachapterinh00shaw/page/n5).
 
 ---
 
-Postscript: For those who can't read the text in the image, here's what
-it says.
+Postscript: For those who are having difficulty reading the text in the
+image, here's what it says.
 
 > Shaw, Albert (1857-1947)
 
@@ -77,9 +77,8 @@ like reading Wikipedia pages about them or stumbling upon them.
 
 [3] I see from [p. 127 of Shaw's book](https://archive.org/details/icariachapterinh00shaw/page/126) that new Articles of Incorporation were put into place on 16 April 1879, presumably just before Shaw graduated.
 
-[4] Our primary archivist is on leave, and I've forgotten the name of 
-our associate archivist.
+[4] Our primary archivist is on leave. 
 
 ---
 
-*Version 0.9 of 2018-10-25.*
+*Version 1.0 of 2018-10-25.*

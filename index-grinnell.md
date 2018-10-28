@@ -191,3 +191,7 @@ Grinnell.
 
 > Our new tagline.
 
+[Grinnell ephemera](grinnell-ephemera-icaria) (Musing #790)
+
+> Discovering new things about the College.
+

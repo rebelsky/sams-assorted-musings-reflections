@@ -1871,6 +1871,10 @@ A new CSC 151
 
 > Ordering the topics.
 
+[Designing a project for my digital humanities class (draft 0)](fundhum-project-00) (Musing #791)
+
+> A core part of the course.
+
 Grinnellians you should know (or know about)
 --------------------------------------------
 
@@ -2221,6 +2225,10 @@ Grinnell.
 [Go Forth Grinnellian](go-forth-grinnellian) (Musing #788)
 
 > Our new tagline.
+
+[Grinnell ephemera](grinnell-ephemera-icaria) (Musing #790)
+
+> Discovering new things about the College.
 
 A letter to the incoming chair
 ------------------------------

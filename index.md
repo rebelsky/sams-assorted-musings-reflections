@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Fiddling with Linux applications on macOS](linux-on-macos) (Musing #789)
+[Designing a project for my digital humanities class (draft 0)](fundhum-project-00) (Musing #791)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

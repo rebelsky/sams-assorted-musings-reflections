@@ -29,3 +29,7 @@ A new CSC 151
 
 > Ordering the topics.
 
+[Designing a project for my digital humanities class (draft 0)](fundhum-project-00) (Musing #791)
+
+> A core part of the course.
+
