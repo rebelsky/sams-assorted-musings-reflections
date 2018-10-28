@@ -55,7 +55,7 @@ I also worry about changes to our end-of-course-evaluation system.
 I'll write more about those within the next few days.  Those changes
 relate to this dream about studies primarily in that I worry about the
 biases in EOCEs and the apparent failure of those proposing revisions to
-consider whether the new system will increase these effects [6,7].
+consider whether the new system will increase these effects [7,8].
 
 The Dean has said, of late, that he's increasingly come to believe that
 Grinnell should ensure that every student develops quantitative literacy
@@ -69,7 +69,7 @@ that the list of potential topics seems to grow, rather than to shrink.
 Is it strange that, in my dream, I was thinking about a topic that
 irritates me and that led to this "rant lite" musing?  No; these days
 I seem much too frustrated by much too much else that's happening at
-the College.  It is, however, a bit strange that this was the topic [8].
+the College.  It is, however, a bit strange that this was the topic [9].
 While a thoughtful approach to data usage is always on my mind, there
 are at least two other topics that are higher up on my frustration meter.
 
@@ -102,18 +102,22 @@ my Grinnell Office has a manual pencil sharpener.  Strange.  And, well,
 the desk looked like none of my desks: not Grinnell, not Obermann, not
 home.  Hey, it's a dream, don't expect accuracy.
 
-[6] I wrote to our Assessment Coordinator about those issues in early
+[6] Most frequently, it's a student asking to use a stapler.
+
+[7] I wrote to our Assessment Coordinator about those issues in early
 May.  She forwarded them on to our OASIR leadership on May 9.  Hence,
 it puzzles me that OASIR did not have answers prepared when they
 met with Executive Council on September 26 or when they presented at
 Faculty Meeting on October 15.
 
-[7] I very much appreciate the care with which a colleague stated those
+[8] I very much appreciate the care with which a colleague stated those
 concerns at the Faculty meeting.
 
-[8] Or these were the topics, depending on how you choose to interpret
+[9] Or these were the topics, depending on how you choose to interpret
 the dream.
 
 ---
 
-*Version 1.0 of 2018-10-20.*
+*Version 1.0 released 2018-10-20.*
+
+*Version 1.1 of 2018-10-24.*
