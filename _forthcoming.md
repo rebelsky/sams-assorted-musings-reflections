@@ -8,7 +8,8 @@ you find it and decide to read it._
 The next end of month musing
 ----------------------------
 
-_I think these were the September goals and results._
+_I think these were the September goals and results.  The goals may
+move to the end of November, since I haven't been achieving them._
 
 * Goals: Read and apply _Style_.  Read daily and reflect more on articles
   I read.  Comment on working at the Obermann center.  Inbox zero.
@@ -18,22 +19,18 @@ editing into shape, cutting words and senteces.  I wish I'd kep the history.
 
 _These may be the October ones._
 
-* A bunch of rants, including one rally long rant that I decided not
+* A bunch of rants, including one really long rant that I decided not
   to officially publish.  (It's in the repo, for those of you who want
   to go hunting.).
 * Resumed "Grinnellians you should know".
 * Hit writers blocks.  Multiple times.
-* Two presentations at Obermann.  (Oops, I need to start planning the
-  second one.)
+* Two presentations at Obermann.  
 
 On particular dates
 -------------------
 
-1. October 18, 2018: Third Obermann Seminar (?)
 1. October 31, 2018: End-of-month musing.  
 1. November 1, 2018: Fourth Obermann Seminar (?)
-1. November 1, 2018: NaNoWriMo (On writing.)  (Or National Technical
-   Book Writing Month)
 1. November 11, 2018: 11/11.  
 1. Ground-hog's day, 2019: Ground hog's day.  How long has it been since
   we've had one of those parties?
@@ -41,6 +38,8 @@ On particular dates
   that date in 2013.)
 1. Mother's day, 2019.  Kathy.
 1. Father's day, 2019.  Dad or Lloyd.
+1. November 1, 2019: NaNoWriMo (On writing.)  (Or National Technical
+   Book Writing Month)
 
 Categorized musings
 -------------------
@@ -55,7 +54,19 @@ _Tags/style: rants, talks_
 
 _Tags/content: accessibility, autobiographical, CSC 151, data science, delayed, digital humanities, email, grinnell, joc, language, meta, obermann, overcommittment, packrat, Racket (or Scheme; I'm not consistent), technical (not the same as technology), technology (not the same as technical)_
 
-1. Grinnellians you should know (or know about): Corlis Benefideo.  :grinnellians:writing:draft:  `corlis-benefideo.md`
+1. Glenn Leggett's first article in _Teacher to Teacher_ :writing:grinnell:rambly:
+
+1. Something about the evaluation reading.  :writing:csc151:sketch:
+Unstuck, but slow.  (Probably expected it in this case.)  Combining two
+readings.  New approach: Previously combined parser and evaluator.
+That was probably a bad idea, so I'm mostly rewriting from scratch.
+Still frustrated by Scribble.  How do I customize the LaTeX easily?
+(How do I get output in .tex but not .html?  Hack: .css hides it.).
+Why did I choose to use it?  How much did I write in one eight-hour day?
+From about 1.5 pages, 108 lines, 551 words, to about 10 pages, 590 lines,
+3651 words.  A very hard reading to write.
+
+1. Revising the FunDHum schedule. :csc151:draft: `fundhum-schedule-01`
 
 1. Refusing to recommend.  :recommendations:academia:sketch: `recommendation-bds`
 
