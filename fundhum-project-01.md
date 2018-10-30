@@ -22,7 +22,7 @@ audience for the work.  For example,
 and his students developed [4] [_The Grinnell
 Beowulf_](https://digital.grinnell.edu/islandora/object/grinnell:5317),
 a translation of the poem along with appropriate scholarly apparatus
-to support use of the translation in the classroom.  While that work
+to support classroom use.  While that work
 provided Arner with a deep understanding of the material, recently,
 Arner has been wondering whether the tools of the digital humanities
 might permit him to discover new aspects of the text and has asked our
@@ -31,11 +31,11 @@ directions for his scholarship.  Over the next two weeks, you will form
 small teams, develop new algorithms, and use those algorithms to provide
 some potential insights into the text.
 
-There are certainly a wide range of opportunities for materials the
+There are a wide range of opportunities for materials the
 students can work with, whether hypothetical (someone is probably
 interested in our _Scarlet and Black_ archives), potential (as in the
-Arner example), or real (I'll need to chat with the CTLA and Vivero
-folks about such issues).
+Arner example), or actual (I'll need to chat with the CTLA and 
+Project Vivero folks about such issues).
 
 Another advantage of such an approach is that the students won't have
 to spend time gathering and, perhaps, reorganizing the materials.  That
@@ -43,7 +43,7 @@ means that they will have more time to spend designing their algorithms
 and discovering potential areas of interest in those materials.
 
 Are there downsides to the "one set of materials" approach?  Certainly.
-The materials are likely to be less interesting to the students
+The materials are likely to be less attractive to the students
 than materials they choose themselves.  Not everyone will care about
 [_Beowulf_](https://digital.grinnell.edu/islandora/object/grinnell:5317)
 or the [Statistical Accounts of
@@ -73,11 +73,11 @@ We also intend that it will encourage you to reflect more carefully
 on the design of algorithms.
 
 *Collaboration*: We encourage you to work in groups of size three.
-(In class, we will discuss different roles for those three collaborators.)
-You may also choose to work alone or in a group of two or four people.
-You may discuss this assignment and your work on the assignment with
-anyone, provided you credit such discussions when you submit the
-assignment.
+(In class, we will discuss different skills you may want to draw upon
+in building groups.)  You may also choose to work alone or in a group
+of two or four people.  You may discuss this assignment and your work
+on the assignment with anyone, provided you credit such discussions when
+you submit the assignment.
 
 **Scope**: You project should be of a scope that your group can
 complete it over a two-week period with approximately five hours of
@@ -89,12 +89,12 @@ As you may know, [audience] studies [topic].  Recently, they have
 identified [materials], which they expect will be useful to their study.
 They have heard that digital humanities techniques can provide new
 insights into materials and have asked our class to develop algorithms
-that might suppport or provide some new directions for their scholarship.
+that might support or provide some new directions for their scholarship.
 
 Throughout this semester, we have seen a range of "humanistic data"
 and algorithmic techniques for approaching them.  But there are many
 opportunities to do more: We can develop more sophisticated versions
-of algorithms we've already seen or we can develop new algorithms or
+of algorithms we've already seen, or we can develop new algorithms or
 approaches.  You will do so with [materials].
 
 **Stages**
@@ -135,7 +135,7 @@ to subsequent steps before you receive feedback.
 You will have about one week to implement your project.  That is, you
 will implement the algorithms you have designed, use those and other
 algorithms to explore [materials], and, one hopes, come up with
-some observations that [audience] can use in identifying deeper
+some observations that [audience] can use in identifying richer
 scholarly questions.
 
 You will submit your program code and instructions for using that code.
@@ -143,24 +143,23 @@ You will submit your program code and instructions for using that code.
 *Stage three: Report*
 
 A final project report should accompany your project code.  In it, you
-will once again, provide a non-techincal overview of the project along
-with a more detailed description of the algorithms.  In addition, you
-will discuss your results.  In particular, you should suggest ways in
-which what you have discovered in using the algorithm might provide a
-starting point for future study and suggest possible directions.  Have
-you identified an opportunity for close reading?  Do your results suggest
-that it would be valuable to look at additional materials?  Are there ways
-in which it would be valuable to turn to the literature to gather a broader
-context?  Do we perhaps need to extend algorithms further or try other
-approaches?
+will once again, provide a non-technical overview of the project along
+with a more detailed description of the algorithms.  You will also discuss
+your results.  In particular, you should suggest ways in which what you
+have discovered in using the algorithm might provide a starting point
+for future study and suggest possible directions.  Have you identified
+an opportunity for close reading?  Do your results suggest that it would
+be valuable to look at additional materials?  Are there ways in which it
+would be worthwhile to turn to the literature to gather a broader context?
+Do we perhaps need to extend algorithms further or try other approaches?
 
 While the third section of your final project will necessarily be new,
 you may use your project proposal as a starting point for the first
 two sections.  Our experience suggests that both sections will need some
 revision.  You will often find that once you've started to use preliminary
 algorithms on particular inputs, you will change your goals somewhat and
-even the ways you think about the design of your algorihtm.  In addition,
-when you implement an algorithm, you often discover additiona issues and
+even the ways you think about the design of your algorithm.  In addition,
+when you implement an algorithm, you often discover additional issues and
 subtleties that may lead you to update your description of the algorithm.
 
 *Stage four: Lightning presentation*
@@ -193,8 +192,8 @@ and what does that say about the relationships between those parts?
 There are many ways you could treat those place names.  You could,
 for example, show the sequence of the use of names, potentially finding
 meaning in how name use changes over the work.  You could identify the
-parts of [materials] each place name appears in and use that to show
-similarities and differences.  You could look at nearby words and show
+parts of [materials] each place name appears in and use that to reveal
+similarities and differences.  You could look at nearby words and display
 those as a way of understanding the context in which the place names
 are used.
 
@@ -222,13 +221,16 @@ you wish to take.
 
 ---
 
-I will need to spend more time on the selected approaches.  It might
-even be useful to provide some sample outputs (maps, texts, whatever)
-that illustrate each technique.
+I should expand the list of possible approaches.  But I'll need to sleep
+on that.  I should also provide a bit more detail on each, perhaps with
+an example, or at least with some sample outputs (maps, texts, whatever)
+that further illustrates the technique.  Expanding the examples will take
+even more time, and is probably a task for after I've written everything
+else in FunDHum.
 
 ---
 
-[1] Well, nearly end.  There's usually one more take-home exam.
+[1] Well, nearly the end.  There's usually one more take-home exam.
 
 [2] I take the term "environmental scan" from my colleague, [Erik
 Simpson](erik-simpson).  I am not sure that I am using it in the
@@ -240,4 +242,4 @@ same way that Simpson does.
 
 ---
 
-*Version 0.1 of 2018-10-28.*
+*Version 1.0 of 2018-10-28.*

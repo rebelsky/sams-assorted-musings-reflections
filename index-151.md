@@ -33,3 +33,7 @@ A new CSC 151
 
 > A core part of the course.
 
+[An alternate project design for my digital humanities class](fundhum-project-01) (Musing #792)
+
+> Focusing on a single corpus.
+

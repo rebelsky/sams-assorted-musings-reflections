@@ -115,6 +115,11 @@ Essays on writing, or at least on writing my musings
 
 > It continues.
 
+[Writer's block](writers-block-2018-10-28) (Musing #793)
+
+> Exploring causes.
+
+
 On language
 -----------
 
@@ -1874,6 +1879,10 @@ A new CSC 151
 [Designing a project for my digital humanities class (draft 0)](fundhum-project-00) (Musing #791)
 
 > A core part of the course.
+
+[An alternate project design for my digital humanities class](fundhum-project-01) (Musing #792)
+
+> Focusing on a single corpus.
 
 Grinnellians you should know (or know about)
 --------------------------------------------
