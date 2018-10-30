@@ -9,10 +9,8 @@ If you'd like, you can read [a longer introduction](intro-musings-v0).
 If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
-Latest musings:
-[An alternate project design for my digital humanities class](fundhum-project-01) (Musing #792)
-and
-[Writer's block](writers-block-2018-10-28) (Musing #793)
+Latest musing:
+[A note to my Obermann colleagues in preparation for our upcoming seminar](obermann-note-2018-10-29) (Musing #794)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

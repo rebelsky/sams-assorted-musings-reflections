@@ -1884,6 +1884,10 @@ A new CSC 151
 
 > Focusing on a single corpus.
 
+[A note to my Obermann colleagues in preparation for our upcoming seminar](obermann-note-2018-10-29) (Musing #794)
+
+> Some context for discussing the two project designs.
+
 Grinnellians you should know (or know about)
 --------------------------------------------
 
