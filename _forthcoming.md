@@ -8,21 +8,20 @@ you find it and decide to read it._
 The next end of month musing
 ----------------------------
 
-_I think these were the September goals and results.  The goals may
-move to the end of November, since I haven't been achieving them._
-
-* Goals: Read and apply _Style_.  Read daily and reflect more on articles
-  I read.  Comment on working at the Obermann center.  Inbox zero.
-* Wrote software, such as the schedule maker.  (Or was that last month?)
-* One [particularly concise musing](busses-bussing) that I spent some time
-editing into shape, cutting words and senteces.  I wish I'd kep the history.
+* Fewer goals.  Rant a bit.  Maybe write about some Grinnellians.  Still
+  have the long-standing goal of reading _Style_.  Added Ralph's book
+  and Eric's book.
+* Fun coinkydink.  Both middle and I wrote about NaNoWriMo on the same
+  day, although with different conclusions.
+* Started a new sketchbook.
+* Extra musings to clear out the backlog?
 
 On particular dates
 -------------------
 
-1. October 31, 2018: End-of-month musing.  
-1. November 1, 2018: Fourth Obermann Seminar (?)
+1. Number 800: `new-sketchbook-2018-11-nn`.
 1. November 11, 2018: 11/11.  
+1. November 30, 2018: End-of-month musing.  
 1. Ground-hog's day, 2019: Ground hog's day.  How long has it been since
   we've had one of those parties?
 1. March 29, 2019: outliving my father.  (It's a facebook memory from
@@ -30,14 +29,14 @@ On particular dates
 1. Mother's day, 2019.  Kathy.
 1. Father's day, 2019.  Dad or Lloyd.
 1. November 1, 2019: NaNoWriMo (On writing.)  (Or National Technical
-   Book Writing Month)
+   Book Writing Month) (Nope)
 
 Categorized musings
 -------------------
 
-_This represents my attempt to categorize the musings a bit.  Musings
-may have multiple categories.  After the title, you'll find the topics
-surrounded by parentheses._
+_This section represents my attempt to categorize the musings a bit.
+Musings may have multiple categories.  After the title, you'll find the
+topics surrounded by parentheses._
 
 _Tags/form or meta: delayed, draft, long, rambly (I've used that in released musings, but not in the sektchbook), revisit, short, sketch_
 
@@ -47,9 +46,15 @@ _Tags/content: accessibility, autobiographical, CSC 151, data science, delayed, 
 
 1. Presenting to the Obermann seminar.  :csc151:dighum:sketch:
 
-1. A rubric for the 151 project.  :csc151:dighum:
+1. A rubric for the 151 project. :csc151:dighum:
 
-1. Glenn Leggett's first article in _Teacher to Teacher_ :writing:grinnell:rambly:
+1. Glenn Leggett's first article in _Teacher to Teacher_.  :writing:grinnell:rambly:
+
+1. Check your comments.  :rant:technical:short:draft:  `check-your-comments-duo`
+
+1. A new sketchbook.  :meta:rambly:draft: `new-sketchbook-2018-11-nn`.
+
+1. A proposal for that Mozilla ethics thing.  :department:compsci:anyway:
 
 1. Something about the evaluation reading.  :writing:csc151:sketch:
 Unstuck, but slow.  (Probably expected it in this case.)  Combining two
@@ -61,7 +66,18 @@ Why did I choose to use it?  How much did I write in one eight-hour day?
 From about 1.5 pages, 108 lines, 551 words, to about 10 pages, 590 lines,
 3651 words.  A very hard reading to write.
 
+1. Candidate criteria.  :rant:academia:sketch `candidate-criteria`
+
 1. Revising the FunDHum schedule. :csc151:draft: `fundhum-schedule-01`
+
+1. The Moat.  :misc:grinnell:
+
+1. The Pyramid.  :autobiographical:technical:request:short:
+When I started College in 1982 I had two primary computing options: A
+terminal to our TOPS-20 system and a terminal to our Amdahl, which I
+used to refer to as "the world's largest IBM clone".  There were probably
+PC's around, too, but ....  Pyramid issues: Gosling Emacs.  Pascal compiler.
+Joan's class.
 
 1. Ranking candidates.  :academia:sketch:
 We've been told by the Dean's office that only do we have to have a fixed set of criteria for evaluating candidates, we also need to "rank" those criteria.  I think the idea of ranking criteria is absurd.  What happened to the idea of "holistic review", which we seem to be expected to do in so many other situations?  How do we compare someone who is strong on the top criterion but weak on the next two to someone who is weak on the top criterion but strong on the next two?
@@ -208,7 +224,19 @@ inability to get rid of things. (`organization.md`)
 <http://www.beloitdailynews.com/news/20180824/beloit_college_grappling_with_financial_issues>.  A short mention in _Chronicle_ at <https://www.chronicle.com/article/The-Daily-Briefing/238091>.  Why not anything bigger?  And why not anything bigger about the mindset list?  <http://www.rrstar.com/news/20180826/georgette-braun-beloit-college-drops-mindset-list>
 
 1. Beloit mindset list.  :academia:short:
-See above
+See above.  It's now been taken over by someone (Marist?)
+
+1. Advising complexities :rants:grinnell:academia:
+   We have a new advising handbook.  I really appreciate the effort that
+   went into what should be a "one stop shop" for academic advisers 
+   (or advisors).  And there are lots of great things.  Nonetheless,
+   as I read the handbook, I get reminded about frustrations as an
+   advisor and as a computer scientist.  
+   ...
+   If the folks who are in charge can't get it right, how do they expect
+   the rest of us to?
+   Communication on campus.
+   DRY.  (Oh, yeah, that's why I'm frustated as a coputer scientist.)
 
 1. Down yet another rabbithole.  :misc:art:draft: `rabbithole-fulgate-wilcox`
 
@@ -564,7 +592,7 @@ Rewrite/revise sections from work-life balance.
 1. Forgetting what we read. :miscellaneous:articles:
 <https://www.theatlantic.com/amp/article/551603/>
 
-1. The five types of profesors.  :autobiographical:academia:articles:
+1. The five types of professors.  :autobiographical:academia:articles:
 <https://www.chronicle.com/article/The-5-Types-of-Professors-/243108>
 
 1. Spaces after sentences.  :writing:articles:short:
@@ -661,7 +689,7 @@ Rock's most important guitarists and a key English folk-rock band?
 Pere Ubu should be there.  It's Cleveland, after all. 
 <https://www.rockhall.com/inductees>.
 
-1. The SPRIT rabbithole.  misc:statistics:rambly:articles:
+1. The SPRITE rabbithole.  misc:statistics:rambly:articles:
 <https://www.chronicle.com/article/I-Want-to-Burn-Things-to/244488?cid=wcontentgrid_article_bottom>
 <http://steamtraen.blogspot.com/2018/07/this-researcher-compared-two-identical.html>
 <https://medium.com/@jamesheathers/life-in-the-tinderbox-6b2e9760f3aa>
@@ -670,9 +698,10 @@ Pere Ubu should be there.  It's Cleveland, after all.
 <https://www.washingtonpost.com/technology/2018/09/11/explosive-problem-with-recycling-ipads-iphones-other-gadgets-they-literally-catch-fire/>
 <https://motherboard.vice.com/en_us/article/yp73jw/apple-recycling-iphones-macbooks>
 
-1. A history of Grinnell's End-of-Course Evaluations.  :grinnell:sketch:assessment: `eoce-history`.
-
 1. Fonts with HTML2PS  :joc:typesetting:sketch: `fonts-with-html2ps`
+
+1. A family-friendly college :grinnell:academia:short:requests:
+Jennifer Weinman's request: " think a good future musing (add it to your list...) would be something about kid-friendly faculty environments, or having kids pre-tenure. It's something I've talked about with many, but don't see publicly discussed in print all that often."  I could start with the old Faculty House Faculty Fridays.  It could be in the musing for prospective faculty.
 
 The stack of musings
 --------------------
@@ -680,18 +709,6 @@ The stack of musings
 ### "High priority"
 
 1. Vivek Venugopal
-
-1. Advising complexities
-   We have a new advising handbook.  I really appreciate the effort that
-   went into what should be a "one stop shop" for academic advisers 
-   (or advisors).  And there are lots of great things.  Nonetheless,
-   as I read the handbook, I get reminded about frustrations as an
-   advisor and as a computer scientist.  
-   ...
-   If the folks who are in charge can't get it right, how do they expect
-   the rest of us to?
-   Communication on campus.
-   DRY.  (Oh, yeah, that's why I'm frustated as a coputer scientist.)
 
 1. Teaching CS is teaching writing.  Maybe use all the versions of
    `iota` that I recently covered in class.  (It's now less recent.)
@@ -789,9 +806,6 @@ hours.  But if you have fifty hours planned per week ....
   of recommendation letters, ....  My [recent musing about spring break](planning-spring-break-2018) just reinforces that.  I currently have something like 240 hours of outstanding work to do.  ...
 
 ### Added recently
-
-1. A family-friendly college :grinnell:academia:short:
-Jennifer Weinman's request: " think a good future musing (add it to your list...) would be something about kid-friendly faculty environments, or having kids pre-tenure. It's something I've talked about with many, but don't see publicly discussed in print all that often."  I could start with the old Faculty House Faculty Fridays.  It could be in the musing for prospective faculty.
 
 1. Musings or images?  When I post a musing, I get a few likes and a few comments.  When I post an image and a short note, I get a a few dozen likes and a few comments.  Should I take pictures rather than musing?  Nah.  Musing is better for me.
 
