@@ -5,7 +5,7 @@ The other day, I was talking with my Dean about a variety of things
 and I mentioned that the Instructional Support Committee (ISC) should
 probably be consulted on some decisions relating to the bookstore.
 My Dean said something like "Huh.  I hadn't realized that the bookstore
-was under the purview ISC."  You know what?  I'd forgotten that, too.
+was under the purview of ISC."  You know what?  I'd forgotten that, too.
 Fortunately, I have a colleague who had recently reminded me that "The
 ISC was created by merging the bookstore and library committee and the
 academic computing committee".  I should have remembered that; it may
@@ -97,4 +97,6 @@ appreciate being able to check in with them.
 
 ---
 
-*Version 1.0 of 2016-10-19.*
+*Version 1.0 released 2016-10-19.*
+
+*Version 1.0.1 of 2016-11-02.*
