@@ -10,7 +10,7 @@ that I particularly want to write a novel. It's not that I think the
 world needs me to write a novel [1].  It's that writing fiction might
 be an opportunity to stretch myself a bit.
 
-Of course, given my [levels of work](index-overcommitment), every
+Of course, given my [workload](index-overcommitment), every
 November, the answer to whether I can spare the time is "Nope; I'm
 too busy".  That's certainly the case this year, as any spare writing
 energy I have needs to be devoted to the textbook.

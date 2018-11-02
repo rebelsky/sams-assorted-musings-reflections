@@ -116,4 +116,7 @@ Essays on writing, or at least on writing my musings
 
 > Exploring causes.
 
+[No NaNoWriMo for now](nanowrimo-2018) (Musing #797)
+
+> Maybe next year.
 

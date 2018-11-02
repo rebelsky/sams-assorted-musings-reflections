@@ -1034,3 +1034,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [A note to my Obermann colleagues in preparation for our upcoming seminar](obermann-note-2018-10-29) (Musing #794)  
 [New Facebook friends](facebook-friends-cs) (Musing #795)   
 [Another month of daily musings](another-month-2018-10) (Musing #796).  
+[No NaNoWriMo for now](nanowrimo-2018) (Musing #797)  
