@@ -656,3 +656,7 @@ Almost everything else
 
 > What would an extended history look like?
 
+[New Facebook friends](facebook-friends-cs) (Musing #795) 
+
+> It's nice to have friends.
+

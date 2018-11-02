@@ -93,3 +93,7 @@ most of them here._
 
 > Difficult.
 
+[Another month of daily musings](another-month-2018-10) (Musing #796).
+
+> Better than last month.
+

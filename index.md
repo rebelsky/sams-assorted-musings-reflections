@@ -9,7 +9,10 @@ If you'd like, you can read [a longer introduction](intro-musings-v0).
 If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
-Latest musing:
+Latest musings:
+[New Facebook friends](facebook-friends-cs) (Musing #795) and
+[Another month of daily musings](another-month-2018-10) (Musing #796).
+
 [A note to my Obermann colleagues in preparation for our upcoming seminar](obermann-note-2018-10-29) (Musing #794)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>

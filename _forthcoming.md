@@ -17,15 +17,6 @@ move to the end of November, since I haven't been achieving them._
 * One [particularly concise musing](busses-bussing) that I spent some time
 editing into shape, cutting words and senteces.  I wish I'd kep the history.
 
-_These may be the October ones._
-
-* A bunch of rants, including one really long rant that I decided not
-  to officially publish.  (It's in the repo, for those of you who want
-  to go hunting.).
-* Resumed "Grinnellians you should know".
-* Hit writers blocks.  Multiple times.
-* Two presentations at Obermann.  
-
 On particular dates
 -------------------
 
@@ -54,6 +45,10 @@ _Tags/style: rants, talks_
 
 _Tags/content: accessibility, autobiographical, CSC 151, data science, delayed, digital humanities, email, grinnell, joc, language, meta, obermann, overcommittment, packrat, Racket (or Scheme; I'm not consistent), technical (not the same as technology), technology (not the same as technical)_
 
+1. Presenting to the Obermann seminar.  :csc151:dighum:sketch:
+
+1. A rubric for the 151 project.  :csc151:dighum:
+
 1. Glenn Leggett's first article in _Teacher to Teacher_ :writing:grinnell:rambly:
 
 1. Something about the evaluation reading.  :writing:csc151:sketch:
@@ -67,6 +62,9 @@ From about 1.5 pages, 108 lines, 551 words, to about 10 pages, 590 lines,
 3651 words.  A very hard reading to write.
 
 1. Revising the FunDHum schedule. :csc151:draft: `fundhum-schedule-01`
+
+1. Ranking candidates.  :academia:sketch:
+We've been told by the Dean's office that only do we have to have a fixed set of criteria for evaluating candidates, we also need to "rank" those criteria.  I think the idea of ranking criteria is absurd.  What happened to the idea of "holistic review", which we seem to be expected to do in so many other situations?  How do we compare someone who is strong on the top criterion but weak on the next two to someone who is weak on the top criterion but strong on the next two?
 
 1. Refusing to recommend.  :recommendations:academia:sketch: `recommendation-bds`
 

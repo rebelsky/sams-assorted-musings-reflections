@@ -413,6 +413,10 @@ most of them here._
 
 > Difficult.
 
+[Another month of daily musings](another-month-2018-10) (Musing #796).
+
+> Better than last month.
+
 For prospective students, parents of prospective students, and others with similar interests
 --------------------------------------------------------------------------------------------
 
@@ -3429,6 +3433,10 @@ Almost everything else
 [An abbreviated history of Grinnell’s end-of-course evaluations](eoce-history) (Musing #787)
 
 > What would an extended history look like?
+
+[New Facebook friends](facebook-friends-cs) (Musing #795) 
+
+> It's nice to have friends.
 
 Musings with multiple entries
 -----------------------------

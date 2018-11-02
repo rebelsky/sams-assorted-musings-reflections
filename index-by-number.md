@@ -1032,3 +1032,5 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [An alternate project design for my digital humanities class](fundhum-project-01) (Musing #792)  
 [Writer's block](writers-block-2018-10-28) (Musing #793)  
 [A note to my Obermann colleagues in preparation for our upcoming seminar](obermann-note-2018-10-29) (Musing #794)  
+[New Facebook friends](facebook-friends-cs) (Musing #795)   
+[Another month of daily musings](another-month-2018-10) (Musing #796).  
