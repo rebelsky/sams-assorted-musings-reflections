@@ -430,3 +430,7 @@ Rants
 
 > Things are never as easy as they should be.
 
+[Check your comments](check-your-comments-duo) (Musing #798)
+
+> Make them useful, or don't make them at all.
+

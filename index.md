@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[No NaNoWriMo for now](nanowrimo-2018) (Musing #797)
+[Check your comments](check-your-comments-duo) (Musing #798)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

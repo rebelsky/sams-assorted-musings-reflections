@@ -1035,3 +1035,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [New Facebook friends](facebook-friends-cs) (Musing #795)   
 [Another month of daily musings](another-month-2018-10) (Musing #796).  
 [No NaNoWriMo for now](nanowrimo-2018) (Musing #797)  
+[Check your comments](check-your-comments-duo) (Musing #798)  
