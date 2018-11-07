@@ -173,3 +173,7 @@ be found in [the list of musing son writing](index-on-writing)._
 
 > What is my subconscious trying to tell me?
 
+[Starting a new sketchbook](new-sketchbook-2018-11-05) (Musing #800)
+
+> A minor purge.
+

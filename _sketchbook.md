@@ -44,13 +44,13 @@ _**Tags/style**:`_ rants, talks, memos, oer_
 
 _**Tags/content**:`_ accessibility, autobiographical, CSC 151, data science, delayed, digital humanities (or dighum), email, grinnell, joc, language, meta, obermann, overcommittment, packrat, Racket (or Scheme; I'm not consistent), technical (not the same as technology), technology (not the same as technical), writing_
 
+1. A rubric for the 151 project. _`:csc151:dighum:`_
+
+1. Outlook 365 vs. Mail.app.  _`:rants:technology:technical:`_ (`outlook365-vs-maildotapp`)
+
 1. Presenting to the Obermann seminar.  _`:csc151:dighum:sketch:`_ (`obermann-seminar-04`)
 
-1. A new sketchbook.  _`:meta:rambly:draft:`_ (`new-sketchbook-2018-11-nn`)
-
 1. More musings I'll fail to finish.  _`:meta:rambly:draft:`_ (`missing-musings-2018-11-nn`)
-
-1. A rubric for the 151 project. _`:csc151:dighum:`_
 
 1. SIGCSE list workflows.  _`:overcommitment:email:draft:`_ (`sigcse-list-workflow`)
 

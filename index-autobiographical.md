@@ -309,3 +309,7 @@ Autobiographical essays, more or less
 
 > Receiving feedback.
 
+[How (not) to adapt to the end of daylight saving time](cdt2cst2018) (Musing #799)
+
+> Things we do for our children.
+

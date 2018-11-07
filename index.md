@@ -9,7 +9,11 @@ If you'd like, you can read [a longer introduction](intro-musings-v0).
 If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
-Latest musing:
+Latest musings:
+[How (not) to adapt to the end of daylight saving time](cdt2cst2018) (Musing #799)
+and
+[Starting a new sketchbook](new-sketchbook-2018-11-05) (Musing #800)
+
 [Check your comments](check-your-comments-duo) (Musing #798)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>

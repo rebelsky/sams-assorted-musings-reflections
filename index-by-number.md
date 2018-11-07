@@ -1036,3 +1036,5 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Another month of daily musings](another-month-2018-10) (Musing #796).  
 [No NaNoWriMo for now](nanowrimo-2018) (Musing #797)  
 [Check your comments](check-your-comments-duo) (Musing #798)  
+[How (not) to adapt to the end of daylight saving time](cdt2cst2018) (Musing #799)  
+[Starting a new sketchbook](new-sketchbook-2018-11-05) (Musing #800)  

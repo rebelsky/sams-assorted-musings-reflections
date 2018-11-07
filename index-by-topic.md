@@ -321,6 +321,10 @@ be found in [the list of musing son writing](index-on-writing)._
 
 > What is my subconscious trying to tell me?
 
+[Starting a new sketchbook](new-sketchbook-2018-11-05) (Musing #800)
+
+> A minor purge.
+
 Monthly reflections
 -------------------
 
@@ -2663,6 +2667,10 @@ Autobiographical essays, more or less
 [My second Obermann seminar](obermann-seminar-02) (Musing #768)
 
 > Receiving feedback.
+
+[How (not) to adapt to the end of daylight saving time](cdt2cst2018) (Musing #799)
+
+> Things we do for our children.
 
 Salary reviews
 --------------
