@@ -1162,6 +1162,10 @@ Rants
 
 > Make them useful, or don't make them at all.
 
+[Outlook 365 vs. Mail.app](outlook365-vs-maildotapp) (Musing #801)
+
+> I hate computers.
+
 Assorted talks and speeches
 ---------------------------
 
@@ -1902,6 +1906,10 @@ A new CSC 151
 [A note to my Obermann colleagues in preparation for our upcoming seminar](obermann-note-2018-10-29) (Musing #794)
 
 > Some context for discussing the two project designs.
+
+[A grading rubric for one version of the FunDHum project](fundhum-rubric-00) (Musing #802)
+
+> 'Eh.
 
 Grinnellians you should know (or know about)
 --------------------------------------------

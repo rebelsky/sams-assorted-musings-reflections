@@ -434,3 +434,7 @@ Rants
 
 > Make them useful, or don't make them at all.
 
+[Outlook 365 vs. Mail.app](outlook365-vs-maildotapp) (Musing #801)
+
+> I hate computers.
+

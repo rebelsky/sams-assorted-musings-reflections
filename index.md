@@ -10,11 +10,9 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musings:
-[How (not) to adapt to the end of daylight saving time](cdt2cst2018) (Musing #799)
+[Outlook 365 vs. Mail.app](outlook365-vs-maildotapp) (Musing #801)
 and
-[Starting a new sketchbook](new-sketchbook-2018-11-05) (Musing #800)
-
-[Check your comments](check-your-comments-duo) (Musing #798)
+[A grading rubric for one version of the FunDHum project](fundhum-rubric-00) (Musing #802)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

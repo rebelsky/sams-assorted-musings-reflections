@@ -41,3 +41,7 @@ A new CSC 151
 
 > Some context for discussing the two project designs.
 
+[A grading rubric for one version of the FunDHum project](fundhum-rubric-00) (Musing #802)
+
+> 'Eh.
+

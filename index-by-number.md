@@ -1038,3 +1038,8 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Check your comments](check-your-comments-duo) (Musing #798)  
 [How (not) to adapt to the end of daylight saving time](cdt2cst2018) (Musing #799)  
 [Starting a new sketchbook](new-sketchbook-2018-11-05) (Musing #800)  
+
+## 801-810
+
+[Outlook 365 vs. Mail.app](outlook365-vs-maildotapp) (Musing #801)  
+[A grading rubric for one version of the FunDHum project](fundhum-rubric-00) (Musing #802)  
