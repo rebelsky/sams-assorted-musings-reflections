@@ -1911,7 +1911,7 @@ A new CSC 151
 
 > 'Eh.
 
-[Reflecting on the CSC 151 project at my fourth Obermann seminar](obermann-seminar-04-project) (Musing #803)
+[Reflecting on the CSC 151 project at my fourth Obermann seminar](obermann-seminar-04-project) (Musing #804)
 
 > The joy of feedback.
 
@@ -3465,7 +3465,7 @@ Almost everything else
 
 > It's nice to have friends.
 
-[Discussing film and music at my fourth Obermann seminar](obermann-seminar-04-film) (Musing #802)
+[Discussing film and music at my fourth Obermann seminar](obermann-seminar-04-film) (Musing #803)
 
 > An intellectual luxury.
 

@@ -10,9 +10,9 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musings:
-[Discussing film and music at my fourth Obermann seminar](obermann-seminar-04-film) (Musing #802)
+[Discussing film and music at my fourth Obermann seminar](obermann-seminar-04-film) (Musing #803)
 and
-[Reflecting on the CSC 151 project at my fourth Obermann seminar](obermann-seminar-04-project) (Musing #803)
+[Reflecting on the CSC 151 project at my fourth Obermann seminar](obermann-seminar-04-project) (Musing #804)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
