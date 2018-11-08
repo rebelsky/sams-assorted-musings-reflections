@@ -45,3 +45,7 @@ A new CSC 151
 
 > 'Eh.
 
+[Reflecting on the CSC 151 project at my fourth Obermann seminar](obermann-seminar-04-project) (Musing #803)
+
+> The joy of feedback.
+

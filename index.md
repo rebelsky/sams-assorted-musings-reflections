@@ -10,9 +10,9 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musings:
-[Outlook 365 vs. Mail.app](outlook365-vs-maildotapp) (Musing #801)
+[Discussing film and music at my fourth Obermann seminar](obermann-seminar-04-film) (Musing #802)
 and
-[A grading rubric for one version of the FunDHum project](fundhum-rubric-00) (Musing #802)
+[Reflecting on the CSC 151 project at my fourth Obermann seminar](obermann-seminar-04-project) (Musing #803)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

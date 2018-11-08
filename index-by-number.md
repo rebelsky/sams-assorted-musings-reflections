@@ -1043,3 +1043,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 
 [Outlook 365 vs. Mail.app](outlook365-vs-maildotapp) (Musing #801)  
 [A grading rubric for one version of the FunDHum project](fundhum-rubric-00) (Musing #802)  
+[Reflecting on the CSC 151 project at my fourth Obermann seminar](obermann-seminar-04-project) (Musing #803)  

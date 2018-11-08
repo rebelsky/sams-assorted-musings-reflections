@@ -660,3 +660,7 @@ Almost everything else
 
 > It's nice to have friends.
 
+[Discussing film and music at my fourth Obermann seminar](obermann-seminar-04-film) (Musing #802)
+
+> An intellectual luxury.
+
