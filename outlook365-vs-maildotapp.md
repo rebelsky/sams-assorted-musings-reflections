@@ -29,7 +29,7 @@ it does everything under the assumption that everyone works in the
 Microsoft universe [1].  I read mail in the macOS Mail.app, which
 isn't in that universe.  And, well, Mail.app could be at fault, too.
 
-I hadn't seen one of those badly messages formatted messages for awhile,
+I hadn't seen one of those badly messages formatted messages for a while,
 or perhaps I hadn't been paying attention.  But today I received another
 one, and decided to look a bit deeper.  In particular, I looked at the
 raw source [2].  Like most formatted mail messages, this message was
@@ -101,10 +101,10 @@ What about the formatted version?  Here's how it starts.
     <br>
     ...
 
-All of those "`=3D`"'s are encoded equals signs.  Since an equal sign has
-other meanings in mail, they need to be encoded.  What about that HTML?
-Let's see what the CSS spec says about the `white-space` style attribute,
-which has been set to `pre-wrap`.
+All of those "`=3D`"'s are encoded equals signs.  Since equal signs have
+other meanings in electronic mail, they need to be encoded.  What about
+that HTML?  Let's see what the CSS spec says about the `white-space`
+style attribute, which has been set to `pre-wrap`.
 
 > This property specifies two things:
 > * whether and how white space inside the element is collapsed
@@ -131,7 +131,7 @@ which has been set to `pre-wrap`.
 > ... [4]
  
 What does this say about line breaks?  I read this as "_any line breaks are preserved, but too-long lines are also wrapped_".  But I suppose it could be
-interpreted in other ways.  Fortunately, the designers of CSS did their
+interpreted [5] in other ways.  Fortunately, the designers of CSS did their
 best of avoid ambiguity.  We can read the [White Space Processing rules](https://www.w3.org/TR/css-text-3/#white-space-rules), or more precisely,
 the Segment Break Transformation Rules.
 
@@ -172,6 +172,10 @@ on the Web.
 
 [4] <https://www.w3.org/TR/css-text-3/#white-space-property>
 
+[5] There's enough passive voice in the preceding text that I've
+started to use it, too.  Perhaps, "I suppose that program designers
+could interpret it in other ways, too."
+
 ---
 
-*Version 0.9 of 2018-11-05.*
+*Version 1.0 of 2018-11-06.*
