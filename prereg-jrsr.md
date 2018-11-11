@@ -63,9 +63,10 @@ in the fall: REL-102 (Studying Religion: America) and REL-104 (Studying
 Religion: India).  There were three other SNRS in the fall, all 100-level
 courses in Theatre.
 
-It makes me wonder ... What happened that the disciplines or faculty
-offering the courses decided they needed to restrict preregistration
-in this way?
+It makes me wonder: What happened that the disciplines or faculty offering
+the courses decided they needed to restrict preregistration in this way?
+And why don't we make sure that we have enough staffing to permit more
+sections of Intro Linguistics?
 
 ---
 
@@ -73,10 +74,11 @@ in this way?
 closes, and balances *after* preregistration, so students should still
 feel comfortable registering for the class.
 
-[2] Linguistics and GWSS both provide great opportunities for broadening
-study.  Linguistics, in particular, gives students experience with
-science, with the study of society, and with a type of study of language.
+[2] Because they bridge approaches, Linguistics and GWSS both provide
+great opportunities for broadening study.  Linguistics, in particular,
+gives students experience with science, with the study of society,
+and with a type of language study.
 
 ---
 
-*Version 0.5 of 2018-11-11.*
+*Version 0.6 of 2018-11-11.*
