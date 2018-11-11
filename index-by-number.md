@@ -1045,3 +1045,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [A grading rubric for one version of the FunDHum project](fundhum-rubric-00) (Musing #802)  
 [Discussing film and music at my fourth Obermann seminar](obermann-seminar-04-film) (Musing #803)  
 [Reflecting on the CSC 151 project at my fourth Obermann seminar](obermann-seminar-04-project) (Musing #804)  
+[Driving](driving-2018-11) (Musing #805)  

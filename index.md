@@ -9,10 +9,8 @@ If you'd like, you can read [a longer introduction](intro-musings-v0).
 If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
-Latest musings:
-[Discussing film and music at my fourth Obermann seminar](obermann-seminar-04-film) (Musing #803)
-and
-[Reflecting on the CSC 151 project at my fourth Obermann seminar](obermann-seminar-04-project) (Musing #804)
+Latest musing:
+[Driving](driving-2018-11) (Musing #805)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

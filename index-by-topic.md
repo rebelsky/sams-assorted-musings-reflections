@@ -2684,6 +2684,10 @@ Autobiographical essays, more or less
 
 > Things we do for our children.
 
+[Driving](driving-2018-11) (Musing #805)
+
+> Recalling long trips.
+
 Salary reviews
 --------------
 
