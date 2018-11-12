@@ -16,15 +16,15 @@ Notes for the next end of month musing
 * Started a new sketchbook.  (Led to at least two musings.)
 * Extra musings to clear out the backlog?
 * Reached another milestone (800 musings).
+* A few double days after a few missing days.
+* Misnumbered at least once.  Fixed later.
 
 On particular dates
 -------------------
 
-* Number 800: `new-sketchbook-2018-11-nn`.
-* November 11, 2018: 11/11. 
 * November 30, 2018: End-of-month musing. 
 * Ground-hog's day, 2019: Ground hog's day.  How long has it been since
-  we've had one of those parties?
+  we've had one of those parties?  Don't really serve ground hog.
 * March 29, 2019: outliving my father.  (It's a facebook memory from
   that date in 2013.)
 * Mother's day, 2019.  Kathy.
@@ -44,21 +44,15 @@ _**Tags/style**:`_ rants, talks, memos, oer_
 
 _**Tags/content**:`_ accessibility, autobiographical, CSC 151, data science, delayed, digital humanities (or dighum), email, grinnell, joc, language, meta, obermann, overcommittment, packrat, Racket (or Scheme; I'm not consistent), technical (not the same as technology), technology (not the same as technical), writing_
 
-1. A rubric for the 151 project. _`:csc151:dighum:`_
-
-1. Outlook 365 vs. Mail.app.  _`:rants:technology:technical:`_ (`outlook365-vs-maildotapp`)
-
-1. Presenting to the Obermann seminar.  _`:csc151:dighum:sketch:`_ (`obermann-seminar-04`)
+1. SIGCSE list workflows.  _`:overcommitment:email:draft:`_ (`sigcse-list-workflow`)
 
 1. More musings I'll fail to finish.  _`:meta:rambly:draft:`_ (`missing-musings-2018-11-nn`)
 
-1. SIGCSE list workflows.  _`:overcommitment:email:draft:`_ (`sigcse-list-workflow`)
+1. Revising the FunDHum schedule. _`:csc151:draft:`_ (`fundhum-schedule-01`)
 
 1. Obermann: Fantasy vs. Reality.  _`:autobiographical:sketch:`_ (`obermann-fantasy-vs-reality`)
 
 1. Glenn Leggett's first article in _Teacher to Teacher_.  _`:writing:grinnell:rambly:`_
-
-1. Check your comments.  _`:rant:technical:short:draft:`_  (`check-your-comments-duo`)
 
 1. A proposal for that Mozilla ethics thing.  _`:department:compsci:anyway:`_
 
@@ -71,8 +65,6 @@ Still frustrated by Scribble.  How do I customize the LaTeX easily?
 Why did I choose to use it?  How much did I write in one eight-hour day?
 From about 1.5 pages, 108 lines, 551 words, to about 10 pages, 590 lines,
 3651 words.  A very hard reading to write.
-
-1. Revising the FunDHum schedule. _`:csc151:draft:`_ (`fundhum-schedule-01`)
 
 1. Understanding the HSSC.  _`:rants:rant retractions:short:`_
 At some point last year, I complained about the size and cost of the
@@ -90,13 +82,13 @@ used to refer to as "the world's largest IBM clone".  There were probably
 PC's around, too, but ....  Pyramid issues: Gosling Emacs.  Pascal compiler.
 Joan's class.
 
-1. Broken record.  _`:language:short:sketch:`_
-Recently, I was drafting yet another musing about the state of
-the Web at Grinnell. 
-
 1. Valuing MathLAN Web server. _`:rants:technology:draft:`_ (`mathlan-web-servers`)
 
 1. Phishing scams.  _misc:technology:short_ (`sextortion`)
+
+1. Broken record.  _`:language:short:sketch:`_
+Recently, I was drafting yet another musing about the state of
+the Web at Grinnell.   
 
 1. Recording faculty legisltation.  _`:grinnell:academia:`_ The faculty
 regularly votes on things at faculty meetings.  I gave some sasmples in

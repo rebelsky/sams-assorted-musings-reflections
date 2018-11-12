@@ -6,26 +6,28 @@ The JRSR and SNRS course designations
 It's preregistration time at Grinnell.  In a few days, I'll write my
 regular commentary about the end of preregistration.  Right now, I see
 that my section of CSC 151 is among the most heavily enrolled courses,
-with 25 students currently enrolled [1].  Intro Linguistics is close
-behind at 24, but only first-year and second-year students can preregister
+with 28 students currently enrolled [1,2].  Intro Linguistics is also
+at 28 [3], but only first-year and second-year students can preregister
 for that course.  And that brings me to the subject of today's musing,
 the JRSR designation, which indicates that the course is "[n]ot open to
-juniors [sic] or seniors during preregistration".  There's also a SNRS
+juniors [sic] or seniors during preregistration".  There's also an SNRS
 designation, which indicates that the course is "[n]ot open to seniors".
+
+<img src="images/lin-114" width=600 alt="A line from the course catalog that reads '82182 [TAB] LIN-114-01 ,TAB] Introduction to General Linguistics [TAB] Hansen [TAB] 4 [TAB] MWF [TAB] 9:00 AM [TAB] 9:50 [TAB] JRSR'.  The 'JRSR' is highlighted.">
 
 I've been thinking a lot about those designations during this
 preregistration period, particularly as my advisees are unable to register
 for Intro Linguistics and Intro Gender, Women's and Sexuality Studies.
-I have a few students who've shown an interest in Intro Linguistics,
-but have not been able to get in because of the JRSR designation.  I've
-seen fewer problems with Intro GWSS.
+I have a few advisees who've shown an interest in Intro Linguistics but
+have not been able to get in because of the JRSR designation.  I've seen
+fewer problems with Intro GWSS.
 
 Here's the thing.  As far as I know, all disciplines end up prioritizing
 potential majors and concentrators over those who are taking the course
-because they consider it interesting and want to broaden their course
-of study [2].  But most of us drop students after preregistration,
+because they have an interest in the subject or want to broaden their
+course of study [4].  But most of us drop students *after* preregistration,
 rather than beforehand.  And I think that's the better strategy.  Why?
-There are a few reasons.
+Here are a few reasons.
 
 First, preregistration provides a record of the attempts.  Because the
 system won't let them click the "Register" button, There's no way for
@@ -39,7 +41,7 @@ such data.  These designations prevent the gathering of such data.
 Second, it appears to prevent agency by the faculty member.  Someone
 teaching Intro Linguistics might decide that a senior who has tried
 for three straight semesters deserves priority over a second-semester
-second-year student.  But they can't make that decision, since you
+second-year student.  But they can't make that decision since you
 can't drop someone who has preregistered in favor of someone who did
 not preregister.  Of course, it may be that the Linguistics Concentration
 wanted to remove the burden of making that choice from individual faculty
@@ -58,7 +60,7 @@ I'm not sure of others.
 As far as I can tell, this semester there is only one course with the
 JRSR designation (LIN-114, Intro Linguistics) and only two with the
 SNRS designation (GWSS-111, Intro Gender, Women's & Sexuality Studies
-and THD 117, Intrduction to Acting).  There were two other JRSR courses
+and THD-117, Introduction to Acting).  There were two other JRSR courses
 in the fall: REL-102 (Studying Religion: America) and REL-104 (Studying
 Religion: India).  There were three other SNRS in the fall, all 100-level
 courses in Theatre.
@@ -70,15 +72,23 @@ sections of Intro Linguistics?
 
 ---
 
-[1] I do have a cap of 32, so there's still room.  And we do cuts,
+[1] The course has a cap of 32, so there's still room.  And we do cuts,
 closes, and balances *after* preregistration, so students should still
 feel comfortable registering for the class.
 
-[2] Because they bridge approaches, Linguistics and GWSS both provide
+[2] There were 25 registered at noon today.  Three registered between
+noon and 8 pm on a Sunday.  Strange.
+
+[3] Intro Linguistics was at 24 when I checked at noon.  I am surprised
+at how many students are registering on a Sunday afternoon.  Of course,
+since I approved the course for a second-year advisee sometime today,
+I'm pretty sure that one of them is one of my advisees.
+
+[4] Because they bridge approaches, Linguistics and GWSS both provide
 great opportunities for broadening study.  Linguistics, in particular,
 gives students experience with science, with the study of society,
 and with a type of language study.
 
 ---
 
-*Version 0.6 of 2018-11-11.*
+*Version 1.0 of 2018-11-11.*

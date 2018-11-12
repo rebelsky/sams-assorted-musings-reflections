@@ -664,3 +664,11 @@ Almost everything else
 
 > An intellectual luxury.
 
+[The JRSR and SNRS course designations](prereg-jrsr) (Musing #806)
+
+> Why don't we offer more sections of Intro Linguistics?
+
+[11/11](eleven-eleven) (Musing #807)
+
+> Armistice Day and Walt Kelly.
+

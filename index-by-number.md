@@ -1046,3 +1046,5 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Discussing film and music at my fourth Obermann seminar](obermann-seminar-04-film) (Musing #803)  
 [Reflecting on the CSC 151 project at my fourth Obermann seminar](obermann-seminar-04-project) (Musing #804)  
 [Driving](driving-2018-11) (Musing #805)  
+[The JRSR and SNRS course designations](prereg-jrsr) (Musing #806)  
+[11/11](eleven-eleven) (Musing #807)  
