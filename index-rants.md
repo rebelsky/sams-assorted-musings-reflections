@@ -438,3 +438,7 @@ Rants
 
 > I hate computers.
 
+[Cheapening the brand](pioneers-dot-grinnell-dot-ads) (Musing #809)
+
+> I hate crappy Web sites.
+

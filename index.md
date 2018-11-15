@@ -9,10 +9,8 @@ If you'd like, you can read [a longer introduction](intro-musings-v0).
 If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
-Latest musings:
-[The JRSR and SNRS course designations](prereg-jrsr) (Musing #806)
-and
-[11/11](eleven-eleven) (Musing #807)
+Latest musing:
+[Cheapening the brand](pioneers-dot-grinnell-dot-ads) (Musing #809)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

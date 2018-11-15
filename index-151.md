@@ -49,3 +49,7 @@ A new CSC 151
 
 > The joy of feedback.
 
+[To compose or to pipe](compose-or-pipe) (Musing #808)
+
+> Rethinking a core topic.
+

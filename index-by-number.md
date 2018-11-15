@@ -1048,3 +1048,5 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Driving](driving-2018-11) (Musing #805)  
 [The JRSR and SNRS course designations](prereg-jrsr) (Musing #806)  
 [11/11](eleven-eleven) (Musing #807)  
+[To compose or to pipe](compose-or-pipe) (Musing #808)  
+[Cheapening the brand](pioneers-dot-grinnell-dot-ads) (Musing #809)  

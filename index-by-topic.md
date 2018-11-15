@@ -1166,6 +1166,10 @@ Rants
 
 > I hate computers.
 
+[Cheapening the brand](pioneers-dot-grinnell-dot-ads) (Musing #809)
+
+> I hate crappy Web sites.
+
 Assorted talks and speeches
 ---------------------------
 
@@ -1914,6 +1918,10 @@ A new CSC 151
 [Reflecting on the CSC 151 project at my fourth Obermann seminar](obermann-seminar-04-project) (Musing #804)
 
 > The joy of feedback.
+
+[To compose or to pipe](compose-or-pipe) (Musing #808)
+
+> Rethinking a core topic.
 
 Grinnellians you should know (or know about)
 --------------------------------------------
