@@ -194,3 +194,8 @@ Overcommitment
 
 > After eight consecutive summers with students, it's time for a different model.
 
+[Preregistration appointments](prereg-appointments-2018-11-13) (Musing #810)
+
+> Talking to students.
+
+

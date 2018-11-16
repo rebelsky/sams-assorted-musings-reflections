@@ -1050,3 +1050,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [11/11](eleven-eleven) (Musing #807)  
 [To compose or to pipe](compose-or-pipe) (Musing #808)  
 [Cheapening the brand](pioneers-dot-grinnell-dot-ads) (Musing #809)  
+[Preregistration appointments](prereg-appointments-2018-11-13) (Musing #810)  
