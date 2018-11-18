@@ -3494,6 +3494,10 @@ Almost everything else
 
 > Armistice Day and Walt Kelly.
 
+[Reflections on preregistration data for spring 2019](post-prereg-2019S) (Musing #811)
+
+> What classes did students select?
+
 Musings with multiple entries
 -----------------------------
 

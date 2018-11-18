@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Preregistration appointments](prereg-appointments-2018-11-13) (Musing #810)
+[Reflections on preregistration data for spring 2019](post-prereg-2019S) (Musing #811)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
