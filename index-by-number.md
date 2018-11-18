@@ -1055,3 +1055,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 ## 811-820
 
 [Reflections on preregistration data for spring 2019](post-prereg-2019S) (Musing #811)  
+[SIGCSE mailing-list workflows](sigcse-list-workflows) (Musing #812)  

@@ -1456,6 +1456,9 @@ Overcommitment
 
 > Talking to students.
 
+[SIGCSE mailing-list workflows](sigcse-list-workflows) (Musing #812)
+
+> Some of my many activities.
 
 On teaching 
 -----------
