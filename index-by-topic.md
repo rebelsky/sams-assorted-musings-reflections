@@ -2286,6 +2286,10 @@ Grinnell.
 
 > Discovering new things about the College.
 
+[Cut, close, balance](cut-close-balance) (Musing #813)
+
+> What happens after preregistration.
+
 A letter to the incoming chair
 ------------------------------
 
@@ -2384,6 +2388,10 @@ Mixtapes
 [Preparing to make the mix "tapes"](mixtapes-preparation) (Musing #380)
 
 > What I did to get ready to make that tape.
+
+[Van Morrison, Live in Boston 1968](van-boston-1968) (Musing #814)
+
+> Thinking ahead to a future mixtape.
 
 Autobiographical essays, more or less
 -------------------------------------

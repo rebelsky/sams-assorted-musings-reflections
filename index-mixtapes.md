@@ -13,3 +13,7 @@ Mixtapes
 
 > What I did to get ready to make that tape.
 
+[Van Morrison, Live in Boston 1968](van-boston-1968) (Musing #814)
+
+> Thinking ahead to a future mixtape.
+

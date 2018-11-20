@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[SIGCSE mailing-list workflows](sigcse-list-workflows) (Musing #812)
+[Van Morrison, Live in Boston 1968](van-boston-1968) (Musing #814)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

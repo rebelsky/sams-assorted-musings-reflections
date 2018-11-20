@@ -195,3 +195,7 @@ Grinnell.
 
 > Discovering new things about the College.
 
+[Cut, close, balance](cut-close-balance) (Musing #813)
+
+> What happens after preregistration.
+

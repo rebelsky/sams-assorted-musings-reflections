@@ -1056,3 +1056,5 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 
 [Reflections on preregistration data for spring 2019](post-prereg-2019S) (Musing #811)  
 [SIGCSE mailing-list workflows](sigcse-list-workflows) (Musing #812)  
+[Cut, close, balance](cut-close-balance) (Musing #813)  
+[Van Morrison, Live in Boston 1968](van-boston-1968) (Musing #814)  
