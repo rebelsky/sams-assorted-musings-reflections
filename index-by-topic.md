@@ -606,6 +606,10 @@ For current students and others with similar interests
 
 > This title says it all, too.
 
+[Starting a (CS) major in your fourth semester](starting-major-fourth-semester) (Musing #815)
+
+> Not the best idea.
+
 For alumni and others who donate to the department
 --------------------------------------------------
 

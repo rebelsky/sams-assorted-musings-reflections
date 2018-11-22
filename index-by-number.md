@@ -1058,3 +1058,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [SIGCSE mailing-list workflows](sigcse-list-workflows) (Musing #812)  
 [Cut, close, balance](cut-close-balance) (Musing #813)  
 [Van Morrison, Live in Boston 1968](van-boston-1968) (Musing #814)  
+[Starting a (CS) major in your fourth semester](starting-major-fourth-semester) (Musing #815)  
