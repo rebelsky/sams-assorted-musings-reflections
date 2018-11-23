@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Starting a (CS) major in your fourth semester](starting-major-fourth-semester) (Musing #815)
+[Should I replace section with partial?](section-or-partial) (Musing #816)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

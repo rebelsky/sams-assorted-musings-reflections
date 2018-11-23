@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
+ !!$
+ <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
   <channel>
     <title>SamR's Assorted Musings and Rants</title>
@@ -6,6 +7,13 @@
     <description>
       A curmudgeonly faculty member in computer science writes about a variety of topics.
     </description>
+    <item>
+      <title>Musing #816: Should I replace `section` with `partial`?</title>
+      <link>https://www.cs.grinnell.edu/~rebelsky/musings/section-or-partial</link>
+      <guid>https://www.cs.grinnell.edu/~rebelsky/musings/section-or-partial</guid>
+      <pubDate>Fri, 23 Nov 2018 02:42:09 GMT</pubDate>
+      <description>Rethinking another core topic.</description>
+    </item>
     <item>
       <title>Musing #815: Starting a (CS) major in your fourth semester</title>
       <link>https://www.cs.grinnell.edu/~rebelsky/musings/starting-major-fourth-semester</link>

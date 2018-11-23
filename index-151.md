@@ -53,3 +53,7 @@ A new CSC 151
 
 > Rethinking a core topic.
 
+[Should I replace section with partial?](section-or-partial) (Musing #816)
+
+> Retinking another core topic.
+
