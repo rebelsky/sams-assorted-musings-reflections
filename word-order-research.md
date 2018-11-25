@@ -4,13 +4,13 @@ Word order matters
 *Topics/tags: [Miscellaneous](index-misc), language, short*
 
 Two or so years ago, the Grinnell faculty voted that every student should
-have an opportunity to do research.  More recently, I've heard both our
+have the opportunity to do research.  More recently, I've heard both our
 Dean and some fellow faculty say that every student should have a research
 opportunity.
 
 Word order matters.
 
-"Every student has *an opportunity to do research*" suggests that
+"Every student has *the opportunity to do research*" suggests that
 we will offer up that opportunity, but not every student necessarily
 has to avail themselves of that offer.  "Every student has "a research
 opportunity*" suggests that every student engages in research.
@@ -27,7 +27,10 @@ that seeks to answer or explore an intellectual and/or creative
 problem or question.  Grinnell College seeks to provide every student
 an opportunity to pursue research and share the product publicly.
 
-So let's get the word order right!
+I see that my description is wrong, too.  I say "the opportunity to do
+research".  It's really "*an* opportunity to *pursue* research."
+
+So let's get the words and the word order right!
 
 ---
 
