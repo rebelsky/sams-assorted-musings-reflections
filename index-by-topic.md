@@ -2720,6 +2720,10 @@ Autobiographical essays, more or less
 
 > Recalling long trips.
 
+[Thanksgiving 2018](thanksgiving-2018) (Musing #817)
+
+> Being thankful.
+
 Salary reviews
 --------------
 
@@ -3516,6 +3520,14 @@ Almost everything else
 [Reflections on preregistration data for spring 2019](post-prereg-2019S) (Musing #811)
 
 > What classes did students select?
+
+[The moat](the-moat) (Musing #818)
+
+> Why does it surround admissions?
+
+[Word order matters](word-order-research) (Musing #819)
+
+> Ordering word matters.
 
 Musings with multiple entries
 -----------------------------

@@ -10,18 +10,22 @@ Notes for the next end of month musing
 
 * Fewer goals.  Rant a bit.  Maybe write about some Grinnellians.  Still
   have the long-standing goal of reading _Style_.  Added Ralph's book
-  and Eric's book.
+  and Eric's book.  Plus _Friday Black_
 * Fun coinkydink.  Both middle and I wrote about NaNoWriMo on the same
   day, although with different conclusions.
 * Started a new sketchbook.  (Led to at least two musings.)
 * Extra musings to clear out the backlog?
 * Reached another milestone (800 musings).
-* A few double days after a few missing days.
+* A few double days after a few missing days.  Did it balance?
 * Misnumbered at least once.  Fixed later.
+* A few images.  Pogo strip.  My odometer.  Way too many things from the
+  pioneers.grinnell.edu Web site.
 
 On particular dates
 -------------------
 
+* November 22, 2018: Thankful.
+* NOvember 26, 2018: Pre-giving Tuesday
 * November 30, 2018: End-of-month musing. 
 * Ground-hog's day, 2019: Ground hog's day.  How long has it been since
   we've had one of those parties?  Don't really serve ground hog.
@@ -30,6 +34,7 @@ On particular dates
 * Mother's day, 2019.  Kathy.
 * Father's day, 2019.  Dad or Lloyd.
 * November 1, 2019: NaNoWriMo (On writing.)  
+* November 11, 2019: Veterans Day (the Tom Russell song)
 
 Categorized musings
 -------------------
@@ -44,9 +49,9 @@ _**Tags/style**:`_ rants, talks, memos, oer_
 
 _**Tags/content**:`_ accessibility, autobiographical, CSC 151, data science, delayed, digital humanities (or dighum), email, grinnell, joc, language, meta, obermann, overcommittment, packrat, Racket (or Scheme; I'm not consistent), technical (not the same as technology), technology (not the same as technical), writing_
 
-1. SIGCSE list workflows.  _`:overcommitment:email:draft:`_ (`sigcse-list-workflow`)
-
 1. More musings I'll fail to finish.  _`:meta:rambly:draft:`_ (`missing-musings-2018-11-nn`)
+
+1. Grinnellians: Henry Haven Windsor _`:grinnellians:`_
 
 1. Revising the FunDHum schedule. _`:csc151:draft:`_ (`fundhum-schedule-01`)
 
@@ -55,6 +60,7 @@ _**Tags/content**:`_ accessibility, autobiographical, CSC 151, data science, del
 1. Glenn Leggett's first article in _Teacher to Teacher_.  _`:writing:grinnell:rambly:`_
 
 1. A proposal for that Mozilla ethics thing.  _`:department:compsci:anyway:`_
+(Probably too late.)
 
 1. Something about the evaluation reading.  _`:writing:csc151:sketch:`_
 Unstuck, but slow.  (Probably expected it in this case.)  Combining two
@@ -73,8 +79,6 @@ in which many schools are de-emphasizing the humanities, Grinnell is
 explicitly doubling down on the humanities "We value these areas enough to
 build a ginormous complex devoted to them."
 
-1. The Moat.  _`:misc:grinnell:`_
-
 1. The Pyramid.  _`:autobiographical:technical:request:short:`_
 When I started College in 1982 I had two primary computing options:
 terminal to our TOPS-20 system and a terminal to our Amdahl, which I
@@ -82,15 +86,15 @@ used to refer to as "the world's largest IBM clone".  There were probably
 PC's around, too, but ....  Pyramid issues: Gosling Emacs.  Pascal compiler.
 Joan's class.
 
-1. Valuing MathLAN Web server. _`:rants:technology:draft:`_ (`mathlan-web-servers`)
-
-1. Phishing scams.  _misc:technology:short_ (`sextortion`)
+1. Valuing the MathLAN Web server. _`:rants:technology:draft:`_ (`mathlan-web-servers`)
 
 1. Broken record.  _`:language:short:sketch:`_
 Recently, I was drafting yet another musing about the state of
 the Web at Grinnell.   
 
-1. Recording faculty legisltation.  _`:grinnell:academia:`_ The faculty
+1. Phishing scams.  _misc:technology:short_ (`sextortion`)
+
+1. Recording faculty legislation.  _`:grinnell:academia:`_ The faculty
 regularly votes on things at faculty meetings.  I gave some sasmples in
 [my history of end-of-course evaluations](eoce-history).  Some votes
 get recorded as changes to the faculty handbook.  Those votes are usually

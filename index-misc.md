@@ -676,3 +676,11 @@ Almost everything else
 
 > What classes did students select?
 
+[The moat](the-moat) (Musing #818)
+
+> Why does it surround admissions?
+
+[Word order matters](word-order-research) (Musing #819)
+
+> Ordering word matters.
+

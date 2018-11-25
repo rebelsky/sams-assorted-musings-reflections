@@ -1060,3 +1060,6 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Van Morrison, Live in Boston 1968](van-boston-1968) (Musing #814)  
 [Starting a (CS) major in your fourth semester](starting-major-fourth-semester) (Musing #815)  
 [Should I replace section with partial?](section-or-partial) (Musing #816)  
+[Thanksgiving 2018](thanksgiving-2018) (Musing #817)  
+[The moat](the-moat) (Musing #818)  
+[Word order matters](word-order-research) (Musing #819)  

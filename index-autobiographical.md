@@ -317,3 +317,7 @@ Autobiographical essays, more or less
 
 > Recalling long trips.
 
+[Thanksgiving 2018](thanksgiving-2018) (Musing #817)
+
+> Being thankful.
+

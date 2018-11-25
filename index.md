@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Should I replace section with partial?](section-or-partial) (Musing #816)
+[Word order matters](word-order-research) (Musing #819)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
