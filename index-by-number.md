@@ -1063,3 +1063,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Thanksgiving 2018](thanksgiving-2018) (Musing #817)  
 [The moat](the-moat) (Musing #818)  
 [Word order matters](word-order-research) (Musing #819)  
+[More musings I'll fail to finish](missing-musings-2018-11-25) (Musing #820)  

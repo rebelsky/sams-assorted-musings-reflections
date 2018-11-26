@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Word order matters](word-order-research) (Musing #819)
+[More musings I'll fail to finish](missing-musings-2018-11-25) (Musing #820)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

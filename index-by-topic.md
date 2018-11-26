@@ -325,6 +325,10 @@ be found in [the list of musing son writing](index-on-writing)._
 
 > A minor purge.
 
+[More musings I'll fail to finish](missing-musings-2018-11-25) (Musing #820)
+
+> Some that were purged.
+
 Monthly reflections
 -------------------
 
