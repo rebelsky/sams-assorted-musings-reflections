@@ -137,7 +137,7 @@ this particular article.
 
 *We've been Ologized*.
 If I recall correctly, I added this topic to my list after a particularly
-positive session with the folks from Ologie, our marking firm.  However,
+positive session with the folks from Ologie, our marketing firm.  However,
 it's clear that I was also a bit suspicious of marketing, since I'd also
 added the supposedly humorous note "Let's hope that we're not eulogized".
 At this point, it's not worth a full musing.
@@ -185,4 +185,6 @@ particularly as I near the end.
 
 ---
 
-*Version 1.0 of 2018-11-25.*
+*Version 1.0 released 2018-11-25.*
+
+*Version 1.0.1 of 2018-11-26.*
