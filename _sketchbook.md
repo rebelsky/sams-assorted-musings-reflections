@@ -24,7 +24,6 @@ Notes for the next end of month musing
 On particular dates
 -------------------
 
-* November 26, 2018: Pre-giving Tuesday
 * November 30, 2018: End-of-month musing. 
 * Ground-hog's day, 2019: Ground hog's day.  How long has it been since
   we've had one of those parties?  Don't really serve ground hog.

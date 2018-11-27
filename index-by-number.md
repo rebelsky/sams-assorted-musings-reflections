@@ -1064,3 +1064,7 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [The moat](the-moat) (Musing #818)  
 [Word order matters](word-order-research) (Musing #819)  
 [More musings I'll fail to finish](missing-musings-2018-11-25) (Musing #820)  
+
+## 821-830
+
+[Giving to Grinnell on Tuesday](giving-tuesday-2018) (Musing #821)  

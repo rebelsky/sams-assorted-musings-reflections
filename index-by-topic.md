@@ -3533,6 +3533,10 @@ Almost everything else
 
 > Ordering word matters.
 
+[Giving to Grinnell on Tuesday](giving-tuesday-2018) (Musing #821)
+
+> You're giving to the College, not the Administration.
+
 Musings with multiple entries
 -----------------------------
 
