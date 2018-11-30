@@ -688,3 +688,7 @@ Almost everything else
 
 > You're giving to the College, not the Administration.
 
+[Comics that matter: Master race](master-race-original-art) (Musing #822)
+
+> An important piece of history.
+

@@ -1068,3 +1068,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 ## 821-830
 
 [Giving to Grinnell on Tuesday](giving-tuesday-2018) (Musing #821)  
+[Comics that matter: Master race](master-race-original-art) (Musing #822)  
