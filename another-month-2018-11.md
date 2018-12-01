@@ -125,17 +125,6 @@ See you in a month [11].
 
 ---
 
-Postscript: It wouldn't be an end-of-month musing without some silly
-statistic.  Unfortunately, it's a bit harder to report on the number
-of musings I've written in the past year since I did not write an
-end-of-month musing in September, October, November, or December
-last year.  Let's see, what did I write last October?  The last musing
-of that month was [about advising](week-of-advising-oct-2017) [19].
-That musing was #472.  This musing is #796.  I've written 324 musings
-in a year [20].  That's not quite a musing a day, but close.
-
----
-
 [1] And, perhaps, to you.
 
 [2] Or, once in a while, the first musing of the next month.
@@ -165,4 +154,6 @@ and some brand new sections.
 
 ---
 
-*Version 1.0 of 2018-11-30.*
+*Version 1.0 released 2018-11-30.*
+
+*Version 1.1 of 2018-12-01.*
