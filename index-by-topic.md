@@ -146,6 +146,10 @@ to them eventually._
 
 > The number of s's matters.
 
+[A broken record](broken-record) (Musing #824)
+
+> Multiple meanings.
+
 Meta-musings
 ------------
 
@@ -1177,6 +1181,10 @@ Rants
 [Cheapening the brand](pioneers-dot-grinnell-dot-ads) (Musing #809)
 
 > I hate crappy Web sites.
+
+[The MathLAN Web servers](mathlan-web-servers) (Musing #823)
+
+> Why they're important.
 
 Assorted talks and speeches
 ---------------------------

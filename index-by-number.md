@@ -1069,3 +1069,5 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 
 [Giving to Grinnell on Tuesday](giving-tuesday-2018) (Musing #821)  
 [Comics that matter: Master race](master-race-original-art) (Musing #822)  
+[The MathLAN Web servers](mathlan-web-servers) (Musing #823)  
+[A broken record](broken-record) (Musing #824)  

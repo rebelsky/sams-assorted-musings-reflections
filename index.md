@@ -9,8 +9,10 @@ If you'd like, you can read [a longer introduction](intro-musings-v0).
 If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
-Latest musing:
-[Comics that matter: Master race](master-race-original-art) (Musing #822)
+Latest musings:
+[The MathLAN Web servers](mathlan-web-servers) (Musing #823)
+and
+[A broken record](broken-record) (Musing #824)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

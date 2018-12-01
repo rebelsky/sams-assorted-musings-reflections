@@ -82,12 +82,6 @@ used to refer to as "the world's largest IBM clone".  There were probably
 PC's around, too, but ....  Pyramid issues: Gosling Emacs.  Pascal compiler.
 Joan's class.
 
-1. Valuing the MathLAN Web server. _`:rants:technology:draft:`_ (`mathlan-web-servers`)
-
-1. Broken record.  _`:language:short:sketch:`_
-Recently, I was drafting yet another musing about the state of
-the Web at Grinnell.   
-
 1. Phishing scams.  _misc:technology:short_ (`sextortion`)
 
 1. Recording faculty legislation.  _`:grinnell:academia:`_ The faculty

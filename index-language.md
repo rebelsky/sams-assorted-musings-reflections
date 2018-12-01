@@ -21,3 +21,7 @@ to them eventually._
 
 > The number of s's matters.
 
+[A broken record](broken-record) (Musing #824)
+
+> Multiple meanings.
+
