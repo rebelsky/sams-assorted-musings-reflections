@@ -8,23 +8,10 @@ you find it and decide to read it._
 Notes for the next end of month musing
 --------------------------------------
 
-* Fewer goals.  Rant a bit.  Maybe write about some Grinnellians.  Still
-  have the long-standing goal of reading _Style_.  Added Ralph's book
-  and Eric's book.  Plus _Friday Black_
-* Fun coinkydink.  Both middle and I wrote about NaNoWriMo on the same
-  day, although with different conclusions.
-* Started a new sketchbook.  (Led to at least two musings.)
-* Extra musings to clear out the backlog?
-* Reached another milestone (800 musings).
-* A few double days after a few missing days.  Did it balance?
-* Misnumbered at least once.  Fixed later.
-* A few images.  Pogo strip.  My odometer.  Way too many things from the
-  pioneers.grinnell.edu Web site.
-
 On particular dates
 -------------------
 
-* November 30, 2018: End-of-month musing. 
+* December 31, 2018: End-of-month musing.   Or is that end-of-yar musing?
 * Ground-hog's day, 2019: Ground hog's day.  How long has it been since
   we've had one of those parties?  Don't really serve ground hog.
 * March 29, 2019: outliving my father.  (It's a facebook memory from
@@ -41,11 +28,11 @@ _This section represents my attempt to categorize the musings a bit.
 Musings may have multiple categories.  After the title, you'll find the
 topics surrounded by parentheses._
 
-_**Tags/form or meta**:`_ anyway (as in "things I was writing anyway"), article (based on an article I've read), delayed, draft, long, rambly (I've used that in released musings, but not in the sektchbook), request, revisit, short, sketch_
+_**Tags/form or meta**: _anyway (as in "things I was writing anyway"), article (based on an article I've read), delayed, draft, long, rambly (I've used that in released musings, but not in the sektchbook), request, revisit, short, sketch_
 
-_**Tags/style**:`_ rants, talks, memos, oer_
+_**Tags/style**: _rants, talks, memos, oer_
 
-_**Tags/content**:`_ accessibility, autobiographical, CSC 151, data science, delayed, digital humanities (or dighum), email, grinnell, joc, language, meta, obermann, overcommittment, packrat, Racket (or Scheme; I'm not consistent), technical (not the same as technology), technology (not the same as technical), writing_
+_**Tags/content**: _accessibility, autobiographical, CSC 151, data science, delayed, digital humanities (or dighum), email, grinnell, joc, language, meta, obermann, overcommittment, packrat, Racket (or Scheme; I'm not consistent), technical (not the same as technology), technology (not the same as technical), writing_
 
 1. Grinnellians: Henry Haven Windsor _`:grinnellians:`_
 
@@ -55,8 +42,26 @@ _**Tags/content**:`_ accessibility, autobiographical, CSC 151, data science, del
 
 1. Glenn Leggett's first article in _Teacher to Teacher_.  _`:writing:grinnell:rambly:`_
 
+1. Application to join Brianna Blaser's thing.  _`:department:anyway:`_
+
 1. A proposal for that Mozilla ethics thing.  _`:department:compsci:anyway:`_
 (Probably too late.)
+
+1. Availability is not accessible.  _`:language:rant:`_
+Recently, I was writing something about accessibility of Web sites.
+Grammarly suggested I use "availability" instead.  It's not the same
+thing.  Unfortunately, Grammarly is not alone in considering the
+terms equivalent.  I recall asking some consultant about the 
+accessibility of a lab at their instituation and they replied
+something like "It's very accessible; it's open twelve hours each
+day."  [Finish rant]
+
+1. Punctuation with conjunctions. _`:language:`_
+Why do I always get it wrong?  I leave out the comma with two
+independent clauses and put it with a dependent clause.
+Of is that "I leave out the comma with two independent clauses,
+and I put it in with a dependent clause"?  In any case, I
+always get it backwards.  I wonder why.
 
 1. Something about the evaluation reading.  _`:writing:csc151:sketch:`_
 Unstuck, but slow.  (Probably expected it in this case.)  Combining two

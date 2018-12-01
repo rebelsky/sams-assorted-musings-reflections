@@ -1071,3 +1071,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Comics that matter: Master race](master-race-original-art) (Musing #822)  
 [The MathLAN Web servers](mathlan-web-servers) (Musing #823)  
 [A broken record](broken-record) (Musing #824)  
+[Another month of (almost) daily musings](another-month-2018-11) (Musing #825)  

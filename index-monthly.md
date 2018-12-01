@@ -97,3 +97,7 @@ most of them here._
 
 > Better than last month.
 
+[Another month of (almost) daily musings](another-month-2018-11) (Musing #825)
+
+> Better still.
+
