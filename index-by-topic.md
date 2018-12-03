@@ -1480,6 +1480,10 @@ Overcommitment
 
 > Some of my many activities.
 
+[Preparing "camera-ready" copy for SIGCSE 2019](sigcse-2019-camera-ready) (Musing #826)
+
+> About three days of work.
+
 On teaching 
 -----------
 
