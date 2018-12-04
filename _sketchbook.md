@@ -47,7 +47,13 @@ _**Tags/content**: _accessibility, autobiographical, CSC 151, data science, dela
 1. A proposal for that Mozilla ethics thing.  _`:department:compsci:anyway:`_
 (Probably too late.)
 
-1. Availability is not accessible.  _`:language:rant:`_
+1. Cart corrals.  _`:rants:short:draft:`_
+
+1. The new Jonathan Richman album.  _`:music:`_ 
+<https://jonathanrichman.bandcamp.com/album/sa>
+While I was at it, I ordered a new Modern Lovers sticker for my laptop.
+
+1. Availability is not acessibility.  _`:language:rant:sketch:`_
 Recently, I was writing something about accessibility of Web sites.
 Grammarly suggested I use "availability" instead.  It's not the same
 thing.  Unfortunately, Grammarly is not alone in considering the
@@ -56,7 +62,7 @@ accessibility of a lab at their instituation and they replied
 something like "It's very accessible; it's open twelve hours each
 day."  [Finish rant]
 
-1. Punctuation with conjunctions. _`:language:`_
+1. Punctuation with conjunctions. _`:language:sketch:`_
 Why do I always get it wrong?  I leave out the comma with two
 independent clauses and put it with a dependent clause.
 Of is that "I leave out the comma with two independent clauses,
