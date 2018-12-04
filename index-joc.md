@@ -81,3 +81,7 @@ The joy of code
 
 > Starting to think about the joy of data.
 
+[Quad search](quad-search) (Musing #828)
+
+> A strange alternative to binary search.
+

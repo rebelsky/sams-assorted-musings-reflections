@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musings:
-[MAT-218](mat218) (Musing #827)
+[Quad search](quad-search) (Musing #828)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

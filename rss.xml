@@ -8,6 +8,13 @@
       A curmudgeonly faculty member in computer science writes about a variety of topics.
     </description>
     <item>
+      <title>Musing #828: Quad search</title>
+      <link>https://www.cs.grinnell.edu/~rebelsky/musings/quad-search</link>
+      <guid>https://www.cs.grinnell.edu/~rebelsky/musings/quad-search</guid>
+      <pubDate>Tue, 04 Dec 2018 01:47:23 GMT</pubDate>
+      <description>A strange alternative to binary search.</description>
+    </item>
+    <item>
       <title>Musing #827: MAT-218</title>
       <link>https://www.cs.grinnell.edu/~rebelsky/musings/mat218</link>
       <guid>https://www.cs.grinnell.edu/~rebelsky/musings/mat218</guid>
