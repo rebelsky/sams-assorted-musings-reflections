@@ -1075,3 +1075,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Preparing "camera-ready" copy for SIGCSE 2019](sigcse-2019-camera-ready) (Musing #826)  
 [MAT-218](mat218) (Musing #827)  
 [Quad search](quad-search) (Musing #828)  
+[Pricing strategies that confuse me](split-plates) (Musing #829)  

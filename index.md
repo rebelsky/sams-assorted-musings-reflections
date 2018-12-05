@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musings:
-[Quad search](quad-search) (Musing #828)
+[Pricing strategies that confuse me](split-plates) (Musing #829)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

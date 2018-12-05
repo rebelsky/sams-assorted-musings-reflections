@@ -696,3 +696,7 @@ Almost everything else
 
 > It's a dessert topic and a floor wax!
 
+[Pricing strategies that confuse me](split-plates) (Musing #829)
+
+> The cost of splitting a plate.
+
