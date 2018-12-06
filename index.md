@@ -9,8 +9,8 @@ If you'd like, you can read [a longer introduction](intro-musings-v0).
 If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
-Latest musings:
-[Pricing strategies that confuse me](split-plates) (Musing #829)
+Latest musing:
+[Robotics engineer Barbie](robotics-engineer-barbie) (Musing #830)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

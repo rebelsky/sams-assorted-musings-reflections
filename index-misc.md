@@ -700,3 +700,7 @@ Almost everything else
 
 > The cost of splitting a plate.
 
+[Robotics engineer Barbie](robotics-engineer-barbie) (Musing #830)
+
+> More precisely, robotics engineer *Barbies*.
+
