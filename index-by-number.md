@@ -1077,3 +1077,7 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Quad search](quad-search) (Musing #828)  
 [Pricing strategies that confuse me](split-plates) (Musing #829)  
 [Robotics engineer Barbie](robotics-engineer-barbie) (Musing #830)  
+
+## 831-840
+
+[Increasing class sizes](increasing-class-sizes) (Musing #831)  

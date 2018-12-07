@@ -199,3 +199,7 @@ Grinnell.
 
 > What happens after preregistration.
 
+[Increasing class sizes](increasing-class-sizes) (Musing #831)
+
+> Why it's hard.
+
