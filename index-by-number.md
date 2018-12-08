@@ -1081,3 +1081,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 ## 831-840
 
 [Increasing class sizes](increasing-class-sizes) (Musing #831)  
+[Plans for SIGCSE 2019](sigcse-2019-overcommitment) (Musing #832)  

@@ -206,3 +206,7 @@ Overcommitment
 
 > About three days of work.
 
+[Plans for SIGCSE 2019](sigcse-2019-overcommitment) (Musing #832)
+
+> More precisely, *too many* plans.
+
