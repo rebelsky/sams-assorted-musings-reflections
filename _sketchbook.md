@@ -8,10 +8,13 @@ you find it and decide to read it._
 Notes for the next end of month musing
 --------------------------------------
 
+* Posted what I thought was one of my better musings, on meaningful work,
+  and got almost no comments.
+
 On particular dates
 -------------------
 
-* December 31, 2018: End-of-month musing.   Or is that end-of-yar musing?
+* December 31, 2018: End-of-month musing.   Or is that end-of-year musing?
 * Ground-hog's day, 2019: Ground hog's day.  How long has it been since
   we've had one of those parties?  Don't really serve ground hog.
 * March 29, 2019: outliving my father.  (It's a facebook memory from
@@ -32,7 +35,13 @@ _**Tags/form or meta**: _anyway (as in "things I was writing anyway"), article (
 
 _**Tags/style**: _rants, talks, memos, oer_
 
-_**Tags/content**: _accessibility, autobiographical, CSC 151, data science, delayed, digital humanities (or dighum), email, grinnell, joc, language, meta, obermann, overcommittment, packrat, Racket (or Scheme; I'm not consistent), technical (not the same as technology), technology (not the same as technical), writing_
+_**Tags/content**: _accessibility, autobiographical, Barbie, CSC 151, data science, delayed, digital humanities (or dighum), email, grinnell, joc, language, meta, obermann, overcommittment, packrat, Racket (or Scheme; I'm not consistent), technical (not the same as technology), technology (not the same as technical), writing_
+
+1. Rocket Scientist Barbie. _`:barbie:draft:`_  (`barbie-katherine-johnson`)
+
+1. Frida Kahlo Barbie.  _`:barbie:sketch:`_ (barbie-frida-kahlo`)
+
+1. Barbie and horses.  _`:barbie:`_
 
 1. Grinnellians: Henry Haven Windsor _`:grinnellians:`_
 
