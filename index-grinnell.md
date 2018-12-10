@@ -203,3 +203,7 @@ Grinnell.
 
 > Why it's hard.
 
+[Meaningful, flexibile, and educational work](meaningful-work) (Musing #834)
+
+> An excellent goal.
+

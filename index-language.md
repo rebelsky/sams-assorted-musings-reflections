@@ -25,3 +25,7 @@ to them eventually._
 
 > Multiple meanings.
 
+["Advisor" wins!](advisor-wins) (Musing #833)
+
+> Watching spelling policies change.
+

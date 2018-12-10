@@ -1082,3 +1082,6 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 
 [Increasing class sizes](increasing-class-sizes) (Musing #831)  
 [Plans for SIGCSE 2019](sigcse-2019-overcommitment) (Musing #832)  
+["Advisor" wins!](advisor-wins) (Musing #833)  
+[Meaningful, flexibile, and educational work](meaningful-work) (Musing #834)  
+[Scientifically illiterate swim parents](swim-parents) (Musing #835)  

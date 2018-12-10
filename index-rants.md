@@ -446,3 +446,7 @@ Rants
 
 > Why they're important.
 
+[Scientifically illiterate swim parents](swim-parents) (Musing #835)
+
+> Don't be selfish!
+

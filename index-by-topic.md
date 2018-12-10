@@ -150,6 +150,10 @@ to them eventually._
 
 > Multiple meanings.
 
+["Advisor" wins!](advisor-wins) (Musing #833)
+
+> Watching spelling policies change.
+
 Meta-musings
 ------------
 
@@ -1189,6 +1193,10 @@ Rants
 [The MathLAN Web servers](mathlan-web-servers) (Musing #823)
 
 > Why they're important.
+
+[Scientifically illiterate swim parents](swim-parents) (Musing #835)
+
+> Don't be selfish!
 
 Assorted talks and speeches
 ---------------------------
@@ -2329,6 +2337,10 @@ Grinnell.
 [Increasing class sizes](increasing-class-sizes) (Musing #831)
 
 > Why it's hard.
+
+[Meaningful, flexibile, and educational work](meaningful-work) (Musing #834)
+
+> An excellent goal.
 
 A letter to the incoming chair
 ------------------------------
