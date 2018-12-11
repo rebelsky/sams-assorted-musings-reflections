@@ -49,7 +49,7 @@ a short paragraph.
 pool level.  The thermostat is at pool level, so the heater then kick on, 
 making the room hotter.  Please don't prop the doors!
 
-It's a thought.
+Better yet: _Prop a door, freeze a swimmer._ [4,5]
 
 ---
 
@@ -69,6 +69,14 @@ for the Olympic Games or the Commonwealth Games.
 [3] I'm beginning to worry about Grammarly.  It suggested "more heated"
 as a replacement for "hotter" because I used "hotter" too much.
 
+[4] This new poster text was inspired by a swimmer who wrote
+
+> As a swimmer who froze behind the blocks on several occasions, the air feels plenty cold enough when you are wet. It doesn't need to be any colder.
+
+[5] And yes, it still needs the explanation.
+
 ---
 
-*Version 1.0 of 2018-12-09.*
+*Version 1.0 released 2018-12-09.*
+
+*Version 1.1 of 2018-12-09.*
