@@ -3593,6 +3593,14 @@ Almost everything else
 
 > More precisely, robotics engineer *Barbies*.
 
+[Rocket Scientist Barbie](barbie-katherine-johnson) (Musing #836)
+
+> Celebrating real mathematicians.
+
+[`git flame`](git-flame) (Musing #837)
+
+> Better than `git blame`.
+
 Musings with multiple entries
 -----------------------------
 

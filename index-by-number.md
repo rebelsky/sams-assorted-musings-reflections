@@ -1085,3 +1085,5 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 ["Advisor" wins!](advisor-wins) (Musing #833)  
 [Meaningful, flexibile, and educational work](meaningful-work) (Musing #834)  
 [Scientifically illiterate swim parents](swim-parents) (Musing #835)  
+[Rocket Scientist Barbie](barbie-katherine-johnson) (Musing #836)  
+[`git flame`](git-flame) (Musing #837)  
