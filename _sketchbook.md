@@ -37,7 +37,7 @@ _**Tags/style**: _rants, talks, memos, oer_
 
 _**Tags/content**: _accessibility, autobiographical, Barbie, CSC 151, data science, delayed, digital humanities (or dighum), email, grinnell, joc, language, meta, obermann, overcommittment, packrat, Racket (or Scheme; I'm not consistent), technical (not the same as technology), technology (not the same as technical), writing_
 
-1. Rocket Scientist Barbie. _`:barbie:draft:`_  (`barbie-katherine-johnson`)
+1. Accessibility vs. Availability.  _`:rants:short:sketch:`_ (accessibility-and-availability)
 
 1. Frida Kahlo Barbie.  _`:barbie:sketch:`_ (barbie-frida-kahlo`)
 
@@ -61,15 +61,6 @@ _**Tags/content**: _accessibility, autobiographical, Barbie, CSC 151, data scien
 1. The new Jonathan Richman album.  _`:music:`_ 
 <https://jonathanrichman.bandcamp.com/album/sa>
 While I was at it, I ordered a new Modern Lovers sticker for my laptop.
-
-1. Availability is not acessibility.  _`:language:rant:sketch:`_
-Recently, I was writing something about accessibility of Web sites.
-Grammarly suggested I use "availability" instead.  It's not the same
-thing.  Unfortunately, Grammarly is not alone in considering the
-terms equivalent.  I recall asking some consultant about the 
-accessibility of a lab at their instituation and they replied
-something like "It's very accessible; it's open twelve hours each
-day."  [Finish rant]
 
 1. Punctuation with conjunctions. _`:language:sketch:`_
 Why do I always get it wrong?  I leave out the comma with two
@@ -530,11 +521,6 @@ the new edition were also troubling.
 1. One Art.  _`:miscellaenous:writing:short:sketch:`_
 (see previous notes, too)  And then Sam returns to his normal search for where it was originally published.  Finds [article on drafts](http://www.english.illinois.edu/maps/poets/a_f/bishop/drafts.htm) and [better article on drafts](https://bluedragonfly10.wordpress.com/2009/06/12/one-art-the-writing-of-loss-in-elizabeth-bishop%E2%80%99s-poetry/).  Finally found the original publication. 
 [_The New Yorker_, 26 April 1976, p. 40](https://www.newyorker.com/magazine/1976/04/26/one-art).  Why was that so hard to find?  Not what I thought.  I thought  the partner had died.  They hadn't. 
-
-1. git sack _`:miscellaneous:technical:git:short:`_
-What to do if someone pushes non-working code to the main branch.
-Wow!  The original title (git lynch) was offensive.  Sometimes I'm
-much too clueless.  (Will I include that note.)
 
 1. The classroom goes public.  _`:academia:teaching:reaction:`_
 <https://www.chronicle.com/article/What-Happens-in-the-Classroom/243974>
