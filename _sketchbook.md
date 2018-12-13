@@ -39,6 +39,25 @@ _**Tags/content**: _accessibility, autobiographical, Barbie, CSC 151, data scien
 
 1. Accessibility vs. Availability.  _`:rants:short:sketch:`_ (accessibility-and-availability)
 
+1. Conciseness vs. Concision.  _`:language:short:sketch:`_
+Why does Grammarly use "Conciseness" when "Concision" is, well, more
+concise?  Maybe it's just me, but "concision" also sounds better.  Brevity
+would also be a reasonable alternative; after all, we've been told that
+it is the soul of wit.  
+
+1. Self-identifying as a curmudgeon.  _`:autobiographical:short:sketch:`_
+A few years ago, I managed to get an official College name tag that
+includes the word "Curmudgeon" under my name.  I'd been introducing
+myself as such [1], and it seemed reasonable to make that role concrete [2].
+But it's now been a few years.  And, while I still get much too grumpy about an
+amazingly large number of things on campus [3], I don't find that I identify that way any more.  I wonder why not.  Postscript: I do still say
+"[old, fat, tired, and grumpy](how-are-you-sam)" when people ask how I am.
+[1] More precisely, I called myself "the campus curmudgeon".
+[2] Or brass.
+[3] As a whole, Grinnell does poorly at careful language use in
+administrative documents and moves much too slowly on important
+technical issues.
+
 1. Frida Kahlo Barbie.  _`:barbie:sketch:`_ (barbie-frida-kahlo`)
 
 1. Barbie and horses.  _`:barbie:`_
@@ -46,8 +65,6 @@ _**Tags/content**: _accessibility, autobiographical, Barbie, CSC 151, data scien
 1. Grinnellians: Henry Haven Windsor _`:grinnellians:`_
 
 1. Revising the FunDHum schedule. _`:csc151:draft:`_ (`fundhum-schedule-01`)
-
-1. Obermann: Fantasy vs. Reality.  _`:autobiographical:sketch:`_ (`obermann-fantasy-vs-reality`)
 
 1. Glenn Leggett's first article in _Teacher to Teacher_.  _`:writing:grinnell:rambly:`_
 
