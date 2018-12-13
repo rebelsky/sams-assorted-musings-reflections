@@ -2768,6 +2768,10 @@ Autobiographical essays, more or less
 
 > Being thankful.
 
+[The fantasy and the reality of my Obermann Fellowship](obermann-fantasy-vs-reality) (Musing #838)
+
+> When expectations are too high.
+
 Salary reviews
 --------------
 

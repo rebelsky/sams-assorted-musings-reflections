@@ -1087,3 +1087,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Scientifically illiterate swim parents](swim-parents) (Musing #835)  
 [Rocket Scientist Barbie](barbie-katherine-johnson) (Musing #836)  
 [`git flame`](git-flame) (Musing #837)  
+[The fantasy and the reality of my Obermann Fellowship](obermann-fantasy-vs-reality) (Musing #838)  
