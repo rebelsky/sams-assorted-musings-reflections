@@ -450,3 +450,7 @@ Rants
 
 > Don't be selfish!
 
+[I want my REPL!](mysql-workbench-repl) (Musing #839)
+
+> Working with MySQL databases.
+

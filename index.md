@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[The fantasy and the reality of my Obermann Fellowship](obermann-fantasy-vs-reality) (Musing #838)
+[I want my REPL!](mysql-workbench-repl) (Musing #839)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
