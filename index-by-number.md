@@ -1089,3 +1089,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [`git flame`](git-flame) (Musing #837)  
 [The fantasy and the reality of my Obermann Fellowship](obermann-fantasy-vs-reality) (Musing #838)  
 [I want my REPL!](mysql-workbench-repl) (Musing #839)  
+[Conciseness vs. concision](conciseness) (Musing #840)  

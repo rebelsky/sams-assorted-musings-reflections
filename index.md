@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[I want my REPL!](mysql-workbench-repl) (Musing #839)
+[Conciseness vs. concision](conciseness) (Musing #840)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

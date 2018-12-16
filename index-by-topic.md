@@ -154,6 +154,10 @@ to them eventually._
 
 > Watching spelling policies change.
 
+[Conciseness vs. concision](conciseness) (Musing #840)
+
+> Brevity.
+
 Meta-musings
 ------------
 
