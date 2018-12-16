@@ -37,14 +37,6 @@ _**Tags/style**: _rants, talks, memos, oer_
 
 _**Tags/content**: _accessibility, autobiographical, Barbie, CSC 151, data science, delayed, digital humanities (or dighum), email, grinnell, joc, language, meta, obermann, overcommittment, packrat, Racket (or Scheme; I'm not consistent), technical (not the same as technology), technology (not the same as technical), writing_
 
-1. Accessibility vs. Availability.  _`:rants:short:sketch:`_ (accessibility-and-availability)
-
-1. Conciseness vs. Concision.  _`:language:short:sketch:`_
-Why does Grammarly use "Conciseness" when "Concision" is, well, more
-concise?  Maybe it's just me, but "concision" also sounds better.  Brevity
-would also be a reasonable alternative; after all, we've been told that
-it is the soul of wit.  
-
 1. Self-identifying as a curmudgeon.  _`:autobiographical:short:sketch:`_
 A few years ago, I managed to get an official College name tag that
 includes the word "Curmudgeon" under my name.  I'd been introducing
@@ -57,6 +49,8 @@ amazingly large number of things on campus [3], I don't find that I identify tha
 [3] As a whole, Grinnell does poorly at careful language use in
 administrative documents and moves much too slowly on important
 technical issues.
+
+1. The bargain (cd) bin.  _`:autobiographical:sketch:`_
 
 1. Frida Kahlo Barbie.  _`:barbie:sketch:`_ (barbie-frida-kahlo`)
 
