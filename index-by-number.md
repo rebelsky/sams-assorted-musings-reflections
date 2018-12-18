@@ -1090,3 +1090,7 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [The fantasy and the reality of my Obermann Fellowship](obermann-fantasy-vs-reality) (Musing #838)  
 [I want my REPL!](mysql-workbench-repl) (Musing #839)  
 [Conciseness vs. concision](conciseness) (Musing #840)  
+
+## 841-850
+
+[My bookshelves at the Obermann center](obermann-bookshelves) (Musing #841)  

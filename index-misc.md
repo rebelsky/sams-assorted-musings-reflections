@@ -712,3 +712,7 @@ Almost everything else
 
 > Better than `git blame`.
 
+[My bookshelves at the Obermann center](obermann-bookshelves) (Musing #841)
+
+> I can't bear to see empty bookshelves.
+
