@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[My bookshelves at the Obermann center](obermann-bookshelves) (Musing #841)
+[Adding a basic needs statement to the course syllabus](basic-needs-syllabus) (Musing #843)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

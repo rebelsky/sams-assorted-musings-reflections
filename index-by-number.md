@@ -1094,3 +1094,5 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 ## 841-850
 
 [My bookshelves at the Obermann center](obermann-bookshelves) (Musing #841)  
+[Live music](live-music-2018-12-17) (Musing #842)  
+[Adding a basic needs statement to the course syllabus](basic-needs-syllabus) (Musing #843)  

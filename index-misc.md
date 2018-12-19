@@ -716,3 +716,7 @@ Almost everything else
 
 > I can't bear to see empty bookshelves.
 
+[Live music](live-music-2018-12-17) (Musing #842)
+
+> Some recent shows of note.
+

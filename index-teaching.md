@@ -112,3 +112,7 @@ online, but they will soon expand to more general issues about teaching._
 
 > Outside my comfort zone.
 
+[Adding a basic needs statement to the course syllabus](basic-needs-syllabus) (Musing #843)
+
+> Communicating concern.
+

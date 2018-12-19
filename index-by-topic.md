@@ -1618,6 +1618,10 @@ online, but they will soon expand to more general issues about teaching._
 
 > Outside my comfort zone.
 
+[Adding a basic needs statement to the course syllabus](basic-needs-syllabus) (Musing #843)
+
+> Communicating concern.
+
 Code camps
 ----------
 
@@ -3616,6 +3620,10 @@ Almost everything else
 [My bookshelves at the Obermann center](obermann-bookshelves) (Musing #841)
 
 > I can't bear to see empty bookshelves.
+
+[Live music](live-music-2018-12-17) (Musing #842)
+
+> Some recent shows of note.
 
 Musings with multiple entries
 -----------------------------
