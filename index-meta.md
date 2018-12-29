@@ -181,3 +181,7 @@ be found in [the list of musing son writing](index-on-writing)._
 
 > Some that were purged.
 
+[My muse takes a vacation](muse-vacation-2018-12) (Musing #845)
+
+> One reason I wasn't writing.
+

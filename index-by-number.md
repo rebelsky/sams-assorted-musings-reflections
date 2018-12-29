@@ -1097,3 +1097,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Live music](live-music-2018-12-17) (Musing #842)  
 [Adding a basic needs statement to the course syllabus](basic-needs-syllabus) (Musing #843)  
 [Computing the missing value](joc-missing-value) (Musing #844)  
+[My muse takes a vacation](muse-vacation-2018-12) (Musing #845)  
