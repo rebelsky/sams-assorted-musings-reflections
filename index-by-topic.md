@@ -1928,6 +1928,10 @@ The joy of code
 
 > A strange alternative to binary search.
 
+[Computing the missing value](joc-missing-value) (Musing #844)
+
+> YA stupid interview question.
+
 A new CSC 151
 -------------
 
