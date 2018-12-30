@@ -1626,6 +1626,10 @@ online, but they will soon expand to more general issues about teaching._
 
 > Communicating concern.
 
+[A draft schedule for CSC 207 2019S](csc207-2019S-schedule) (Musing #846)
+
+> What goes where?
+
 Code camps
 ----------
 

@@ -1,0 +1,42 @@
+_MLK Day_
+Getting started
+Imperative programming in Java
+Basic types (Numbers, Strings, Arrays, I/O)
+Java development (Git and Eclipse)
+Unit testing and debugging
+Objects and classes
+Object semantics (incl. references)
+(Pause)
+Subtype polymorphism and interfaces
+Parametric polymorphism (with generics)
+Inheritance
+List ADTs
+Array-based sequential structures (stacks and queues)
+Linked sequential structures (stacks and queues)
+Iterators (and anonymous inner classes)
+Anonymous functions
+(Pause)
+Algorithm analysis with Big-O notation
+Analyzing recursive procedures
+Linear and binary search
+Loop invariants
+An introduction to sorting (w/quadratic sorts)
+Merge sort
+Quicksort
+(Pause)
+Linked lists
+Doubly- and circularly-linked lists
+Trees and tree traversal
+Priority queues
+Heaps and heap sort
+The Map ADT (incl. associative arrays)
+Binary search trees
+Deletion in BSTs
+Hash tables and hash functions
+Probing in hash tables
+Chaining in hash tables
+The Graph ADT (and implementations)
+Traversing graphs
+Minimum spanning trees
+Shortest paths
+Wrapup

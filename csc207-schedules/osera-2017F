@@ -1,0 +1,45 @@
+-
+-
+Introduction
+Programming in the small
+Java development tools
+(Pause)
+Using objects
+Defining classes
+Object-oriented design
+Empirical complexity analysis
+Code counting and Big-O
+Analyzing recursive programs
+Linked sequential structures
+Array-based sequential structures
+Advanced sequential structures
+Subtype polymorphism
+Parametric polymorphism
+(Exam 1)
+Searching and sorting
+Merge sort
+Quicksort
+Iteration
+Streams and Map/reduce
+Map/reduce
+Trees
+Basic tree operations
+Advanced tree operations
+The Map ADT
+Tree maps
+Integer maps and collisions
+Hash functions
+Representing graphs
+Basic graph operations
+Advanced graph operations I
+Advanced graph operations II
+(Exam 2)
+Priority queues
+Heap operations
+_Thanksgiving break_
+Inheritance
+Dynamic dispatch
+Structuring object-oriented programs
+Computer science in context
+Types and languages
+The thrilling conclusion

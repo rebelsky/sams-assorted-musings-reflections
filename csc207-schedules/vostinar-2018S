@@ -1,0 +1,42 @@
+Introduction
+Programming in Java
+Using Git
+Using objects
+Defining classes
+Object-oriented design
+Linked sequential structures
+Array-based sequential structures
+Program correctness
+Subtype polymorphism
+Parametric polymorphism
+Inheritance I
+Inheritance II
+(Pause)
+(Review)
+(Exam 1)
+Big-Oh
+Recursive analysis
+Searching and sorting
+Merge sort
+Quicksort
+Merge sort, revisited
+Quicksort, revisited
+(Pause)
+Trees
+Tree deletion
+The Map ADT
+Integer maps
+Collision resolution
+Hash maps
+Iteration
+Streams and map/reduce
+(Exam 2)
+Representing graphs
+Traversing graphs
+Minimum spanning trees
+Dijkstra's algorithm I
+Dijkstra's algorithm II
+Priority queues
+Huffman encoding
+(Work day)
+Course evals

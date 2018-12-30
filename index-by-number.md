@@ -1098,3 +1098,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Adding a basic needs statement to the course syllabus](basic-needs-syllabus) (Musing #843)  
 [Computing the missing value](joc-missing-value) (Musing #844)  
 [My muse takes a vacation](muse-vacation-2018-12) (Musing #845)  
+[A draft schedule for CSC 207 2019S](csc207-2019S-schedule) (Musing #846)  
