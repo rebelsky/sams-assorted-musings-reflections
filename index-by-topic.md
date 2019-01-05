@@ -2796,6 +2796,10 @@ Autobiographical essays, more or less
 
 > When expectations are too high.
 
+[Starting fresh](starting-fresh-2019) (Musing #847)
+
+> Starting a new year, more or less.
+
 Salary reviews
 --------------
 

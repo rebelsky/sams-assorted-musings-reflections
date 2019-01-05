@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[A draft schedule for CSC 207 2019S](csc207-2019S-schedule) (Musing #846)
+[Starting fresh](starting-fresh-2019) (Musing #847)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
