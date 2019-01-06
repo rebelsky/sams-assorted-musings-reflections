@@ -1100,3 +1100,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [My muse takes a vacation](muse-vacation-2018-12) (Musing #845)  
 [A draft schedule for CSC 207 2019S](csc207-2019S-schedule) (Musing #846)  
 [Starting fresh](starting-fresh-2019) (Musing #847)  
+[Updating my course webs](updating-course-webs-2019S) (Musing #848)  

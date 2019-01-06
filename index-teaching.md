@@ -120,3 +120,7 @@ online, but they will soon expand to more general issues about teaching._
 
 > What goes where?
 
+[Updating my course webs](updating-course-webs-2019S) (Musing #848)
+
+> Fun with technology.
+
