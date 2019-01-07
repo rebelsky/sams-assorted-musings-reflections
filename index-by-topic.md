@@ -2370,6 +2370,10 @@ Grinnell.
 
 > An excellent goal.
 
+[Centering the humanities](centering-humanities) (Musing #849)
+
+> It's complex.
+
 A letter to the incoming chair
 ------------------------------
 

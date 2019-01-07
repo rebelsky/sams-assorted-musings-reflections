@@ -1101,3 +1101,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [A draft schedule for CSC 207 2019S](csc207-2019S-schedule) (Musing #846)  
 [Starting fresh](starting-fresh-2019) (Musing #847)  
 [Updating my course webs](updating-course-webs-2019S) (Musing #848)  
+[Centering the humanities](centering-humanities) (Musing #849)  
