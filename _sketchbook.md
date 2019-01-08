@@ -9,12 +9,16 @@ Notes for the next end of month musing
 --------------------------------------
 
 * Posted what I thought was one of my better musings, on meaningful work,
-  and got almost no comments.
+  and got almost no comments.  (That was in December, I think.)
+* Had a two-week period in which I had trouble writing (or my muse was
+  on vacation).
+* Since I was doing class prep, ended up writing a bit about class prep
+  issues.
 
 On particular dates
 -------------------
 
-* December 31, 2018: End-of-month musing.   Or is that end-of-year musing?
+* January 31, 2019: End-of-month musing.
 * Ground-hog's day, 2019: Ground hog's day.  How long has it been since
   we've had one of those parties?  Don't really serve ground hog.
 * March 29, 2019: outliving my father.  (It's a facebook memory from
@@ -37,6 +41,22 @@ _**Tags/style**: _rants, talks, memos, oer_
 
 _**Tags/content**: _accessibility, autobiographical, Barbie, CSC 151, data science, delayed, digital humanities (or dighum), email, grinnell, joc, language, meta, obermann, overcommittment, packrat, Racket (or Scheme; I'm not consistent), technical (not the same as technology), technology (not the same as technical), writing_
 
+1. Java Style.  _`:teaching:technical:Java:draft:`_ (`java-style`)
+
+1. Choosing work for CSC 207 2019S.  _`:teaching:sketch:`_ (`csc207-2019S-work`)
+
+1. Kington's article.  _`:rant:Grinnell:draft:`_  (`shared-governance-2019-01-xx`)
+
+1. A space to study.  _`:autobiographical:sketch:`_ (`sabbatical-workplace`)
+Looking back from Obermann and ahead to my sabbatical.  What worked well
+about the Obermann space and what will help me be more productive in my
+next sabbatical?  (I have some notes sketched in the Google notebook.)
+
+1. The first day of class.  _`:teaching:`_
+<https://www.chronicle.com/interactives/advice-firstday>
+
+1. Work colleges.  _`:academia:miscellaneous:sketch:`_ (`work-colleges`)
+
 1. Self-identifying as a curmudgeon.  _`:autobiographical:short:sketch:`_
 A few years ago, I managed to get an official College name tag that
 includes the word "Curmudgeon" under my name.  I'd been introducing
@@ -50,9 +70,19 @@ amazingly large number of things on campus [3], I don't find that I identify tha
 administrative documents and moves much too slowly on important
 technical issues.
 
-1. The bargain (cd) bin.  _`:autobiographical:sketch:`_
+1. Unexpected ligatures: Conflicting.  _`:misc:typography:sketch:`_ (`unexpected-ligatures-fl`)
+The fl makes a great sign in my title font.
 
-1. Frida Kahlo Barbie.  _`:barbie:sketch:`_ (barbie-frida-kahlo`)
+1. The bargain (cd) bin.  _`:autobiographical:sketch:`_ (`bargain-cd-bin`)
+
+1. Recycling again.  _`:misc:`_ 
+<http://www.dmcityview.com/feature-1/2019/01/02/wasted-2/>
+
+1. Murmuration.  _`:misc:`_
+Someone shared a [BBC video](https://www.facebook.com/BBCOne/videos/2105215382892663/).  So I looked things up.
+<https://www.npr.org/sections/13.7/2017/01/04/506400719/video-swooping-starlings-in-murmuration>.  It appears that ...
+
+1. Frida Kahlo Barbie.  _`:barbie:sketch:`_ (`barbie-frida-kahlo`)
 
 1. Barbie and horses.  _`:barbie:`_
 
@@ -147,11 +177,6 @@ Research.
 <https://www.insidehighered.com/news/2018/10/15/college-doubles-down-its-residential-liberal-arts-mission-new-core-curriculum>
 
 1. Beautiful Racket.  _`:joc:scheme:`_
-
-1. A space to study.  _`:autobiographical:sketch:`_
-Looking back from Obermann and ahead to my sabbatical.  What worked well
-about the Obermann space and what will help me be more productive in my
-next sabbatical?  (I have some notes sketched in the Google notebook.)
 
 1. Early grad requirements. _`:grinnell:rants:draft:`_ (`early-grad-language`)
 
