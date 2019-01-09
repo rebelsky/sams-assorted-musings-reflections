@@ -720,3 +720,7 @@ Almost everything else
 
 > Some recent shows of note.
 
+[Direction matters](direction-matters) (Musing #851)
+
+> Fun with Google Maps.
+

@@ -1102,3 +1102,8 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Starting fresh](starting-fresh-2019) (Musing #847)  
 [Updating my course webs](updating-course-webs-2019S) (Musing #848)  
 [Centering the humanities](centering-humanities) (Musing #849)  
+[Java code style](java-style) (Musing #850)  
+
+## 851-860
+
+[Direction matters](direction-matters) (Musing #851)  

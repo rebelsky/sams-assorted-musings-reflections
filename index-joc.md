@@ -89,3 +89,7 @@ The joy of code
 
 > YA stupid interview question.
 
+[Java code style](java-style) (Musing #850)
+
+> Conventions.
+

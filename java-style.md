@@ -6,17 +6,20 @@ Java code style
 As I've noted in [an earlier musing](cnix-formatting-c), when I teach most
 programming languages, I encourage students to follow a consistent style.
 As I suggest to my students, consistent formatting makes code more readable.
-One would hope that most formatting guidelines are designed for clarity,
-but it's not always clear that that's always the case [1].
+I don't usually have them choose the style themselves; rather, since I
+know that they will likely have to adopt someone else's style, I choose
+one for them.  Choosing the right one can be a challenge.  One would
+hope that most formatting guidelines are designed for clarity, but it's
+not always clear that that's always the case [1].
 
 I tend to prefer GNU C style for the C-like languages I use.  The design
 choices often have a sensible rationale [2]; it's also a style I've
 both read and used a lot.  In the past, when I've taught Java, I've
 encouraged my students to use a similar style for their Java programs.
-But I've come to realize that almost no Java programmers use GNU C style.
-Among other things, Java programmers don't seem to like open braces on a
-line by themselves, and Java programmers don't follow the GNU convention
-of separating a procedure from its modifiers.
+But I've come to realize that essentially no Java programmers use GNU
+C style.  Among other things, Java programmers don't seem to like open
+braces on a line by themselves, and Java programmers don't follow the
+GNU convention of separating a procedure from its modifiers.
 
 What do I mean by the latter?  I'm always tempted to write something
 like the following.
@@ -64,9 +67,10 @@ it's clear that I'll be stuck writing
 
 Bleh.  
 
-While it's not a style I like, I do tell my students that there are
-many benefits to following a standard style.  It looks like I'll
-be rewriting my Java code to follow these new style conventions.
+While it's not a style I like, I do tell my students that there are many
+benefits to following a standard style.  What's sauce for the goose,
+as they say.  It looks like I'll be rewriting my Java code to follow
+these new style conventions.
 
 ---
 
@@ -81,4 +85,4 @@ at the start of a line so that it's easy to find the declaration.
 
 ---
 
-*Version 0.9 of 2019-01-06.*
+*Version 1.0 of 2019-01-07.*

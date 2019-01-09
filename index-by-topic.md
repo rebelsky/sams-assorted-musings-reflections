@@ -1944,6 +1944,10 @@ The joy of code
 
 > YA stupid interview question.
 
+[Java code style](java-style) (Musing #850)
+
+> Conventions.
+
 A new CSC 151
 -------------
 
@@ -3648,6 +3652,10 @@ Almost everything else
 [Live music](live-music-2018-12-17) (Musing #842)
 
 > Some recent shows of note.
+
+[Direction matters](direction-matters) (Musing #851)
+
+> Fun with Google Maps.
 
 Musings with multiple entries
 -----------------------------

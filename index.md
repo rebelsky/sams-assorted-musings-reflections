@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Centering the humanities](centering-humanities) (Musing #849)
+[Direction matters](direction-matters) (Musing #851)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
