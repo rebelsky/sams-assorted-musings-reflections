@@ -70,10 +70,24 @@ Postscript: Why do so many people spell "borogoves" as "borogroves"? [2]
 
 ---
 
+Postscript: For some reason, it seems appropriate to write a bit of
+Jabberwocky backwards *and* to mirror it.  Let's see ...
+
+> > \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ <span style="transform: scale(-1, 1); display:inline-block">_.YKCOWREBBAJ_</span>  
+> >   
+> > \ \ \ \ \ \ <span style="transform: scale(-1, 1); display:inline-block">_sevot yhtils eht dna ,gillirb sawT'_</span>  
+> > \ \ <span style="transform: scale(-1, 1); display:inline-block">_;ebaw eht ni elbmig dna eryg diD_</span>  
+> > \ \ \ \ \ \ \ \ \ \ <span style="transform: scale(-1, 1); display:inline-block">_,sevogorob eht erew ysmim llA_</span>  
+> > \ \ \ \ \ \ \ <span style="transform: scale(-1, 1); display:inline-block">_.ebargtuo shtar emom eht dnA_</span>  
+
+Now my brain hurts.
+
+---
+
 [1] Or is that Charles Lutwidge Dodgson's?
 
 [2] At least Google asks, "Did you mean: _borogoves_".
 
 ---
 
-*Version 0.9 of 2019-01-10.*
+*Version 0.95 of 2019-01-10.*
