@@ -1107,3 +1107,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 ## 851-860
 
 [Direction matters](direction-matters) (Musing #851)  
+[Adventures in markup](csc151-adventures-markup) (Musing #852)  

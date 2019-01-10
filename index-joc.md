@@ -93,3 +93,7 @@ The joy of code
 
 > Conventions.
 
+[Adventures in markup](csc151-adventures-markup) (Musing #852)
+
+> Code to translate code.
+

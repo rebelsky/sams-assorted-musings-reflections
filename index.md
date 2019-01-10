@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Direction matters](direction-matters) (Musing #851)
+[Adventures in markup](csc151-adventures-markup) (Musing #852)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
