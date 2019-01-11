@@ -3661,6 +3661,10 @@ Almost everything else
 
 > Fun with Google Maps.
 
+[ykcowrebbaJ](ykcowrebbaj) (Musing #853)
+
+> Through the looking glass.
+
 Musings with multiple entries
 -----------------------------
 
