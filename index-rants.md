@@ -454,3 +454,7 @@ Rants
 
 > Working with MySQL databases.
 
+[Who gets the credit?](arranger-or-composer) (Musing #854)
+
+> Arranger or composer?
+
