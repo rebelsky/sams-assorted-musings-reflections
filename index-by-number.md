@@ -1110,3 +1110,5 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Adventures in markup](csc151-adventures-markup) (Musing #852)  
 [ykcowrebbaJ](ykcowrebbaj) (Musing #853)  
 [Who gets the credit?](arranger-or-composer) (Musing #854)  
+[AFK](afk-2019-01-12) (Musing #855)  
+[I'm an idiot](idiot-2019-01-13) (Musing #856)  

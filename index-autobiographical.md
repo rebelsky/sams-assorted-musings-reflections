@@ -329,3 +329,11 @@ Autobiographical essays, more or less
 
 > Starting a new year, more or less.
 
+[AFK](afk-2019-01-12) (Musing #855)
+
+> A good day.
+
+[I'm an idiot](idiot-2019-01-13) (Musing #856)
+
+> At least some of the time.
+
