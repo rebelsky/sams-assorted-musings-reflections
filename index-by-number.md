@@ -1112,3 +1112,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Who gets the credit?](arranger-or-composer) (Musing #854)  
 [AFK](afk-2019-01-12) (Musing #855)  
 [I'm an idiot](idiot-2019-01-13) (Musing #856)  
+[Confusion about Jabberwocky](jabberwocky-wabe-confusion) (Musing #857)  

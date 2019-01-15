@@ -3677,6 +3677,10 @@ Almost everything else
 
 > Through the looking glass.
 
+[Confusion about Jabberwocky](jabberwocky-wabe-confusion) (Musing #857)
+
+> d backwards is b, and vice versa.
+
 Musings with multiple entries
 -----------------------------
 
