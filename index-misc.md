@@ -1,5 +1,4 @@
 Almost everything else
-[I'm so confused](confused-comphistory-languages) (Musing #651)
 ======================
 
 [Mom](mom) (Essay #19)
@@ -731,4 +730,8 @@ Almost everything else
 [Confusion about Jabberwocky](jabberwocky-wabe-confusion) (Musing #857)
 
 > d backwards is b, and vice versa.
+
+[Searching for academic honesty](search-results-academic-honesty) (Musing #859)
+
+> A question from a colleague.
 

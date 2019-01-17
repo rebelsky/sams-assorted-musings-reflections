@@ -124,3 +124,7 @@ online, but they will soon expand to more general issues about teaching._
 
 > Fun with technology.
 
+[Captioning animated GIFs](captioning-images-spritz) (Musing #858)
+
+> Working on accessible assignments.
+

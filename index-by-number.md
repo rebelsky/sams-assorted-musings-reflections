@@ -846,7 +846,7 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 
 ## 651-660
 
-[I'm so confused](confused-comphistory-languages) (Musing #651)  
+[I'm so confused!](confused-comphistory-languages) (Musing #651)  
 ["Checking in" (a quick teaching tip)](checking-in-absences) (Musing #652)  
 [Getting the preposition right](preposition-github) (Musing #653)  
 [Traveling light](traveling-light) (Musing #654)  
@@ -1113,3 +1113,5 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [AFK](afk-2019-01-12) (Musing #855)  
 [I'm an idiot](idiot-2019-01-13) (Musing #856)  
 [Confusion about Jabberwocky](jabberwocky-wabe-confusion) (Musing #857)  
+[Captioning animated GIFs](captioning-images-spritz) (Musing #858)  
+[Searching for academic honesty](search-results-academic-honesty) (Musing #859)  

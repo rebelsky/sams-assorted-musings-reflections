@@ -9,8 +9,10 @@ If you'd like, you can read [a longer introduction](intro-musings-v0).
 If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
-Latest musing:
-[Confusion about Jabberwocky](jabberwocky-wabe-confusion) (Musing #857)
+Latest musings:
+[Captioning animated GIFs](captioning-images-spritz) (Musing #858)
+and
+[Searching for academic honesty](search-results-academic-honesty) (Musing #859)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

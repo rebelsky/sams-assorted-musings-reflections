@@ -1638,6 +1638,10 @@ online, but they will soon expand to more general issues about teaching._
 
 > Fun with technology.
 
+[Captioning animated GIFs](captioning-images-spritz) (Musing #858)
+
+> Working on accessible assignments.
+
 Code camps
 ----------
 
@@ -2948,7 +2952,6 @@ status of "inbox zero".
 > Things continue to spiral out of control.
 
 Almost everything else
-[I'm so confused](confused-comphistory-languages) (Musing #651)
 ----------------------
 
 [Mom](mom) (Essay #19)
@@ -3680,6 +3683,10 @@ Almost everything else
 [Confusion about Jabberwocky](jabberwocky-wabe-confusion) (Musing #857)
 
 > d backwards is b, and vice versa.
+
+[Searching for academic honesty](search-results-academic-honesty) (Musing #859)
+
+> A question from a colleague.
 
 Musings with multiple entries
 -----------------------------
