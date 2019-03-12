@@ -28,7 +28,7 @@ last week. 1606 about a month ago when I was using it more regularly.
 So, yes, that seems reasonable [2].
 
 Does the number of words I use when writing indicate the size of my
-vocabulary?  I doing think so.  There are words in my vocabulary, like
+vocabulary?  I don't think so.  There are words in my vocabulary, like
 ennui and defenestrate, that I rarely, if ever, use in these musings [3].
 But perhaps they've done careful studies about the ratio of words used
 in Grammarly-reviewed writing to actual vocabulary size [4].  It's a
@@ -63,4 +63,6 @@ distinctions.
 
 ---
 
-*Version 1.0 of 2017-06-05.*
+*Version 1.0 released 2017-06-05.*
+
+*Version 1.0.1 of 2019-03-12.*
