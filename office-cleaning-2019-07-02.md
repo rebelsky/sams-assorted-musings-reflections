@@ -24,7 +24,7 @@ semester.
 
 <img src="images/office-2019-06-05" alt="an office filled with indescribable chaos" width="600">
 
-Do you see what the mean by "texture"?
+Do you see what they mean by "texture"?
 
 And doesn't that seem like a good opportunity for a game of "I Spy"?  I spy
 a mug from the University of Chicago Divinity School Coffee Shop.  I spy
@@ -160,4 +160,7 @@ tenure-line faculty member can occupy it.
 
 ---
 
-*Version 1.0 of 2019-07-02.*
+*Version 1.0 released 2019-07-02.*
+
+*Version 1.0.2 of 2019-07-03.*
+
