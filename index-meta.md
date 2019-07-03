@@ -185,3 +185,7 @@ be found in [the list of musing son writing](index-on-writing)._
 
 > One reason I wasn't writing.
 
+[I'm back (I think)](return-2019-07-01) (Musing #861)
+
+> A return to writing (I hope).
+

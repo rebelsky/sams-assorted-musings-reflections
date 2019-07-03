@@ -10,9 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musings:
-[Captioning animated GIFs](captioning-images-spritz) (Musing #858)
-and
-[Searching for academic honesty](search-results-academic-honesty) (Musing #859)
+[A sign of the apocalypse](office-cleaning-2019-07-02) (Musing #862)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

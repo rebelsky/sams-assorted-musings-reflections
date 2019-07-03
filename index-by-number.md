@@ -1115,3 +1115,9 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Confusion about Jabberwocky](jabberwocky-wabe-confusion) (Musing #857)  
 [Captioning animated GIFs](captioning-images-spritz) (Musing #858)  
 [Searching for academic honesty](search-results-academic-honesty) (Musing #859)  
+[Forty years](forty-years) (Musing #860)  
+
+## 861-870
+
+[I'm back (I think)](return-2019-07-01) (Musing #861)  
+[A sign of the apocalypse](office-cleaning-2019-07-02) (Musing #862)  
