@@ -1218,6 +1218,9 @@ Rants
 
 > Arranger or composer?
 
+[Landscape photos from my iPhone](iphone-landscape-photos-2019-07-03) (Musing #863)
+
+> Everything is topsy turvy.
 Assorted talks and speeches
 ---------------------------
 

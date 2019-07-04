@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musings:
-[A sign of the apocalypse](office-cleaning-2019-07-02) (Musing #862)
+[Landscape photos from my iPhone](iphone-landscape-photos-2019-07-03) (Musing #863)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
