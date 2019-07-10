@@ -3702,6 +3702,10 @@ Almost everything else
 
 > A question from a colleague.
 
+[Evaluating candidates](candidate-rubrics-2019-07-09) (Musing #864)
+
+> Reflections on a workshop.
+
 Musings with multiple entries
 -----------------------------
 

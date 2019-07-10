@@ -1122,3 +1122,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [I'm back (I think)](return-2019-07-01) (Musing #861)  
 [A sign of the apocalypse](office-cleaning-2019-07-02) (Musing #862)  
 [Landscape photos from my iPhone](iphone-landscape-photos-2019-07-03) (Musing #863)  
+[Evaluating candidates](candidate-rubrics-2019-07-09) (Musing #864)  
