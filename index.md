@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musings:
-[Evaluating candidates](candidate-rubrics-2019-07-09) (Musing #864)
+[Difficult issues](https://www.cs.grinnell.edu/~rebelsky/musings/difficult-issues-2019-07-10) (Musing #865)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
