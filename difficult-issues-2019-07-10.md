@@ -9,7 +9,8 @@ Another week.  Another [_Inside Higher Ed_ report on a student
 using the n-word](https://www.insidehighered.com/news/2019/07/09/calls-expulsion-texas-am-student-who-used-racial-slurs-viral-video).  I'm not
 quite sure what to make of these videos, other than to find frustration
 at the number of people who feel compelled to use the word.  What
-underlies that hatred?  I can't imagine what it must be like to know
+underlies that hatred?  And what must it feel like to be the target of
+those videos?  I can't imagine what it must be like to know
 that people feel so comfortable using that word about you (or people
 who look like you).
 
@@ -70,7 +71,7 @@ such potential to harm others.
 Postscript: As I reread the paragraph from Coates, I find that "white-trash
 cabin" also fails to fit Coates' thesis.  I'm pretty sure that a friend
 who lives in NYC and has a cabin in the Adirondacks does not fall into
-the category that most call "white trash".  
+the category that most call "white trash" [6].
 
 ---
 
@@ -88,8 +89,12 @@ one of my colleagues is Jewish.
 
 [5] Or at least as I named this musing.
 
+[6] A colleague reminds me that no one should use the term "white trash"
+at all.  No human should be considered trash.  And most who employ the term
+do not fit in the group to which it applies.
+
 ---
 
 *Version 1.0 released 2019-07-10.*
 
-*Version 1.1.1 of 2019-07-11.*
+*Version 1.2 of 2019-07-11.*
