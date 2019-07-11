@@ -77,9 +77,9 @@ the category that most call "white trash".
 [1] I'm glad that I don't teach literature that uses the word so that
 I can easily say "Don't use the word in my classes."
 
-[2] As I think he should.  Everything I've read indicates that his
-suggestion that they class discuss whether or not to use the word came
-from an appropriate concern for inclusiveness.
+[2] Everything I've read indicates that his suggestion that they class
+discuss whether or not to use the word came from an appropriate concern
+for inclusiveness.
 
 [3] Nor was that part of its intent.
 
@@ -90,4 +90,6 @@ one of my colleagues is Jewish.
 
 ---
 
-*Version 1.0 of 2019-07-10.*
+*Version 1.0 released 2019-07-10.*
+
+*Version 1.1 of 2019-07-11.*
