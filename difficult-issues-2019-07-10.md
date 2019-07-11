@@ -5,7 +5,7 @@ Difficult issues
 
 _Warning: Because I discuss offensive language in this musing, it includes some such language.  I have done my best to limit that use._
 
-Another week.  Another [_Inside Higher Ed_ report on an idiot student
+Another week.  Another [_Inside Higher Ed_ report on a student
 using the n-word](https://www.insidehighered.com/news/2019/07/09/calls-expulsion-texas-am-student-who-used-racial-slurs-viral-video).  I'm not
 quite sure what to make of these videos, other than to find frustration
 at the number of people who feel compelled to use the word.  What
@@ -92,4 +92,4 @@ one of my colleagues is Jewish.
 
 *Version 1.0 released 2019-07-10.*
 
-*Version 1.1 of 2019-07-11.*
+*Version 1.1.1 of 2019-07-11.*
