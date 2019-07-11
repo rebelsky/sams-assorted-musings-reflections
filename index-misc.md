@@ -739,3 +739,6 @@ Almost everything else
 
 > Reflections on a workshop.
 
+[Dream suggestions](dream-suggestions-2019-07-11) (Musing #866)
+
+> Finding other people's iPhones.

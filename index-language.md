@@ -33,7 +33,7 @@ to them eventually._
 
 > Brevity.
 
-[Difficult issues](https://www.cs.grinnell.edu/~rebelsky/musings/difficult-issues-2019-07-10) (Musing #865)
+[Difficult issues](difficult-issues-2019-07-10) (Musing #865)
 
 > Words that hurt.
 

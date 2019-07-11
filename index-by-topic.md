@@ -158,7 +158,7 @@ to them eventually._
 
 > Brevity.
 
-[Difficult issues](https://www.cs.grinnell.edu/~rebelsky/musings/difficult-issues-2019-07-10) (Musing #865)
+[Difficult issues](difficult-issues-2019-07-10) (Musing #865)
 
 > Words that hurt.
 
@@ -3710,6 +3710,9 @@ Almost everything else
 
 > Reflections on a workshop.
 
+[Dream suggestions](dream-suggestions-2019-07-11) (Musing #866)
+
+> Finding other people's iPhones.
 Musings with multiple entries
 -----------------------------
 

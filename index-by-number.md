@@ -1123,4 +1123,5 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [A sign of the apocalypse](office-cleaning-2019-07-02) (Musing #862)  
 [Landscape photos from my iPhone](iphone-landscape-photos-2019-07-03) (Musing #863)  
 [Evaluating candidates](candidate-rubrics-2019-07-09) (Musing #864)  
-[Difficult issues](https://www.cs.grinnell.edu/~rebelsky/musings/difficult-issues-2019-07-10) (Musing #865)  
+[Difficult issues](difficult-issues-2019-07-10) (Musing #865)  
+[Dream suggestions](dream-suggestions-2019-07-11) (Musing #866)  
