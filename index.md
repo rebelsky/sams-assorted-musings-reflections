@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Dream suggestions](dream-suggestions-2019-07-11) (Musing #866)
+[The creator and the creation](gill-sans-2019-07-14) (Musing #868)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

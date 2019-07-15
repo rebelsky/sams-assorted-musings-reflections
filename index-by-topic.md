@@ -2850,6 +2850,11 @@ Autobiographical essays, more or less
 [A sign of the apocalypse](office-cleaning-2019-07-02) (Musing #862)
 
 > Cleaning my office.
+
+[Naming my space](naming-my-space-2019-07-12) (Musing #867)
+
+> No, not "CS Faculty in Exile".
+
 Salary reviews
 --------------
 
@@ -3713,6 +3718,11 @@ Almost everything else
 [Dream suggestions](dream-suggestions-2019-07-11) (Musing #866)
 
 > Finding other people's iPhones.
+
+[The creator and the creation](gill-sans-2019-07-14) (Musing #868)
+
+> Does the former affect your appreciation of the latter?
+
 Musings with multiple entries
 -----------------------------
 

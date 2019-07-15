@@ -1125,3 +1125,5 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Evaluating candidates](candidate-rubrics-2019-07-09) (Musing #864)  
 [Difficult issues](difficult-issues-2019-07-10) (Musing #865)  
 [Dream suggestions](dream-suggestions-2019-07-11) (Musing #866)  
+[Naming my space](naming-my-space-2019-07-12) (Musing #867)  
+[The creator and the creation](gill-sans-2019-07-14) (Musing #868)  

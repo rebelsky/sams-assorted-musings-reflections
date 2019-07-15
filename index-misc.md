@@ -742,3 +742,8 @@ Almost everything else
 [Dream suggestions](dream-suggestions-2019-07-11) (Musing #866)
 
 > Finding other people's iPhones.
+
+[The creator and the creation](gill-sans-2019-07-14) (Musing #868)
+
+> Does the former affect your appreciation of the latter?
+

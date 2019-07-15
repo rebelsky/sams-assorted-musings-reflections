@@ -344,3 +344,8 @@ Autobiographical essays, more or less
 [A sign of the apocalypse](office-cleaning-2019-07-02) (Musing #862)
 
 > Cleaning my office.
+
+[Naming my space](naming-my-space-2019-07-12) (Musing #867)
+
+> No, not "CS Faculty in Exile".
+
