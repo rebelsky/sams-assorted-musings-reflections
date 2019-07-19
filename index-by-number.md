@@ -1127,3 +1127,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Dream suggestions](dream-suggestions-2019-07-11) (Musing #866)  
 [Naming my space](naming-my-space-2019-07-12) (Musing #867)  
 [The creator and the creation](gill-sans-2019-07-14) (Musing #868)  
+[Microsoft nagging](microsoft-nagging-2019-07-18) (Musing #869)  

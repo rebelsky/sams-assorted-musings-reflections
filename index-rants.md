@@ -461,3 +461,8 @@ Rants
 [Landscape photos from my iPhone](iphone-landscape-photos-2019-07-03) (Musing #863)
 
 > Everything is topsy turvy.
+
+[Microsoft nagging](microsoft-nagging-2019-07-18) (Musing #869)
+
+> No, I don't want to turn on automatic updates.
+
