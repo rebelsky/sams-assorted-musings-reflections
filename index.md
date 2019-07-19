@@ -24,6 +24,7 @@ Latest musing:
 * [For alumni, and for others who donate to the department](index-alumni)
 * [On writing, or at least on writing these essays](index-on-writing)
 * [On language](index-language)
+* [Various notes on life in academia](index-academia)
 * [Meta-musings](index-meta)
 * [Reflections on some important issues](index-important-issues)
 * [Rants](index-rants)

@@ -68,6 +68,7 @@ INDICES = index-by-topic-head.md \
 	index-important-issues.md \
 	index-rants.md \
 	index-talks-speeches.md \
+        index-academia.md \
 	index-thank-you.md \
 	index-overcommitment.md \
 	index-teaching.md \
