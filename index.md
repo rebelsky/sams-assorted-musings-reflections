@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Microsoft nagging](microsoft-nagging-2019-07-18) (Musing #869)
+[The latest Ellucian breach](ellucian-breach-2019-07-19) (Musing #870)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

@@ -1128,3 +1128,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Naming my space](naming-my-space-2019-07-12) (Musing #867)  
 [The creator and the creation](gill-sans-2019-07-14) (Musing #868)  
 [Microsoft nagging](microsoft-nagging-2019-07-18) (Musing #869)  
+[The latest Ellucian breach](ellucian-breach-2019-07-19) (Musing #870)  
