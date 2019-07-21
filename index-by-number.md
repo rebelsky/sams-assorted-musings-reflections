@@ -1129,3 +1129,7 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [The creator and the creation](gill-sans-2019-07-14) (Musing #868)  
 [Microsoft nagging](microsoft-nagging-2019-07-18) (Musing #869)  
 [The latest Ellucian breach](ellucian-breaches-2019-07-19) (Musing #870)  
+
+## 871-880
+
+[One decade](mom-2019-07-20) (Musing #871)  

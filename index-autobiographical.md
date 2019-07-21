@@ -349,3 +349,7 @@ Autobiographical essays, more or less
 
 > No, not "CS Faculty in Exile".
 
+[One decade](mom-2019-07-20) (Musing #871)
+
+> I miss you mom.
+
