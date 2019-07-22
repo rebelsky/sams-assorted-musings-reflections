@@ -1133,3 +1133,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 ## 871-880
 
 [One decade](mom-2019-07-20) (Musing #871)  
+[Red, green, black](red-green-black-2019-07-21) (Musing #872)  

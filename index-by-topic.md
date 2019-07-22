@@ -2871,6 +2871,10 @@ Autobiographical essays, more or less
 
 > I miss you mom.
 
+[Red, green, black](red-green-black-2019-07-21) (Musing #872)
+
+> Is there a difference?
+
 Salary reviews
 --------------
 
