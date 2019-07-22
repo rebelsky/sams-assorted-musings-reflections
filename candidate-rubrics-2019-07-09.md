@@ -40,7 +40,7 @@ and a description of what makes a candidate unsatisfactory, effective,
 or exceptional [6] for each sub-criterion.  For example, the last row
 of the "Plans and Organizes" matrix has
 
-* **Satisfactory**: Doesn’t follow an orderly method of setting goals 
+* **Unsatisfactory**: Doesn’t follow an orderly method of setting goals 
   and laying out work.
 * **Effective**: Measures performance against goals;  evaluates results.
 * **Exceptional**: Consistently exceeds performance goals;  most often using 
@@ -74,7 +74,7 @@ some takeaways that I should remember:
 * It helps candidates if you let them know the primary phone questions
   in advance [9].
 * It would be useful to have our PEOC/CSS do a post-class interview with
-  candidates [9, 10].
+  candidates [10,11].
 * It was suggested that we assess "understanding of SLAC [12] education"
   relatively late in the process.  I'm not sure how I feel about that.
   It strikes me that it's particularly important in a technical discipline
@@ -142,4 +142,6 @@ impression (the anchor) and neglecting subsequent information [17].
 
 ---
 
-*Version 1.0 of 2019-07-09.*
+*Version 1.0 released 2019-07-09.*
+
+*Version 1.0.1 of 2019-07-10.*
