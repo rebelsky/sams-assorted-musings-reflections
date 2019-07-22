@@ -54,7 +54,7 @@ But they can't fool me; I know that Mountain Dew is red [6].
 
 Postscript: Even though I can't distinguish dark red from dark green,
 nor dark green from black, I've never had trouble distinguishing dark
-red from back [7].
+red from black [7].
 
 ---
 
@@ -77,4 +77,6 @@ be some form of fluorescent green.
 
 ---
 
-*Version 1.0 of 2019-07-21.*
+*Version 1.0 released 2019-07-21.*
+
+*Version 1.0.1 of 2019-07-21.*
