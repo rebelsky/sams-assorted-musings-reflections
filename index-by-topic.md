@@ -1284,6 +1284,10 @@ On life in academia
 
 > Sofware is hard.
 
+[Advertising the department](cs-blurb-2019-07-22) (Musing #873)
+
+> The joy of writing blurbs.
+
 Thank-You Notes
 ---------------
 

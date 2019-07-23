@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Red, green, black](red-green-black-2019-07-21) (Musing #872)
+[Advertising the department](cs-blurb-2019-07-22) (Musing #873)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
