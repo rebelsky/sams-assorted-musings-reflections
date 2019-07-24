@@ -353,6 +353,10 @@ be found in [the list of musing son writing](index-on-writing)._
 
 > A return to writing (I hope).
 
+[Failing to rant](failing-to-rant-2019-07-23) (Musing #874)
+
+> Have I beomce too polite?
+
 Monthly reflections
 -------------------
 
