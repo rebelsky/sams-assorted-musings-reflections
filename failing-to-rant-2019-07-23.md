@@ -16,25 +16,25 @@ I was also tempted to write about the administration's unwillingness
 to post the slide decks [2] from public talks.  However, an email
 to an administrator revealed their reasons for delaying publication
 until the fall.  I still think slide decks from public talks should be
-public immediately after the talk [3], but what do I know.  In any case,
+distributed immediately after the talk [3], but what do I know.  In any case,
 I'll leave the detailed rant until the fall, and I hope not to have to
 write it.
 
-I remain frustrated by long-standing issues, particularly related to
-Web governance and privacy of P-Card data, but I've seen enough indication
-of forward progress that I consider it appropriate to wait a bit longer
-before I rant about those issues again.  And, in at least one case,
-it feels like folks are listening to my suggestions [4].
+I remain frustrated by some long-standing issues, particularly related
+to Web governance and privacy of P-Card data.  Nonetheless, I've seen
+enough indication of progress that I consider it appropriate to wait
+a bit longer before I rant about those issues again.  And, in at least
+one case, it feels like folks are listening to my suggestions [4].
 
 I'm even holding off on critiquing the total failure of shared governance
-represented by the new computer equipment replacement policy [5] because
-it sounds like our new Dean is on top of it.  That is, she seems to
-understand that there were issues in the process and she seems to
+represented by the new computer equipment replacement policy [5].  Why?
+Because it sounds like our new Dean is on top of it.  That is, she seems
+to understand that there were issues in the process, and she seems to
 be willing to address them.  I should give her the opportunity [6].
-As importantly, at first glance the corresponding new software policy
+As importantly, at first glance, the corresponding new software policy
 seems to have incorporated some shared governance.
 
-But don't worry; I'll find something appropriate to rant about.  And I
+But don't worry; I'll find something appropriate to rant about [7].  And I
 hope that, when I do, you find that it's worth the wait.
 
 ---
@@ -43,14 +43,17 @@ hope that, when I do, you find that it's worth the wait.
 
 [2] Some might refer to those as "Powerpoints".
 
-[3] Or, preferably, before the talk to be more accessible.
+[3] Or, preferably, before the talk.  That would certainly be a good form
+of universal design.
 
 [4] Don't worry.  If I find that the institution's solution to either 
 issue violates my delicate sensibilities, I'll rant about it.
 
-[5] Well, I'm not completely holding off on that.
+[5] Well, I'm not entirely holding off on that.
 
 [6] I also probably owe her an introductory musing.
+
+[7] Or "about which to rant", for those who prefer that form.
 
 ---
 
