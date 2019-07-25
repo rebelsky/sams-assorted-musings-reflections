@@ -93,6 +93,8 @@ When I was in college, a wonderful, expensive (I'm white, but was on scholarship
 
 I am not excusing what the guy said. While it was not threatening, and it was not directed toward an individual, it was demeaning, ignorant, and indeed very racists. Still, though, I get really sad when I think of the guy losing his job. I lost a job once. It was not fun. And I got another job very quickly. Because I am a college educated person.
 
+1. Signatures (see below)
+
 Daily reading
 -------------
 
@@ -102,3 +104,74 @@ Grinnellians
 1. Susan Sanning
 
 1. Dr. Katherine Walden
+
+Signatures
+----------
+
+*Charles Cunningham*
+
+Professor and Grand Poobah of Physics
+
+Machiavellian Ruler of the Science Division
+
+a. "...and nobody is leaving the room until these assessment issues have been fixed."
+
+b. What do you get when you divide the circumference of a pumpkin by its diameter?
+
+Pumpkin pi
+
+c. Disclaimer: Any opinions expressed in the above message are my own and are not necessarily held by the students, faculty, administration, or trustees of Grinnell College, but they should be.
+
+d. Cop: Mr. Heisenberg, my radar shows you traveling northbound at 81 mph.
+H: Thanks a lot. Now I'm lost.
+
+e. Hanlon's Razor: "Never attribute to malice that which is adequately explained by stupidity."
+
+f. Grinnell, where it takes a village one week to remove an ampersand from a college webpage.
+
+g. "Stupid may not be fixed by duct tape, but muffled it can be!" --Yoda
+
+h. On leave 2014-15. Research plan: grow, diffract, write, repeat.
+
+i. Telling the world that Jack Taylor fueled up today with Chorizo Hash.
+
+j. Grinnell College: proudly featuring Anoushka Shankar in concert, and scrambled eggs.
+
+k. Grinnell College: Featuring cheese grits, the Grinnell Prize for Young Innovators in Social Justice, and perhaps some hints of strong academic offerings...
+
+l. Grinnell College: if you think our student to faculty ratio is impressively low, you should check out our student to consultant ratio! (slogan TM Tjossem-Mahlab Consulting, Inc.)
+
+m. Website by Waiting for Godot Design, LLC--send comments/corrections to no_reply@blackhole.grinnell.edu
+
+n. Rules of Grinnell Club (with apologies to Chuck Palahniuk and Art & Science):
+1st Rule: You do not talk about Grinnell's location.
+2nd Rule: You DO NOT talk about Grinnell's location!
+3rd Rule: Your individualized curriculum need not include academic subjects that make you say "stop," go limp, or tap out.
+4th Rule: Your social community will be vibrant and welcoming.
+5th Rule: Your individualized curriculum will engage global issues, one course at a time.
+6th Rule: Career mentoring will go on as long as it has to.
+7th Rule: If this is your first semester at Grinnell, you HAVE to take tutorial.
+
+o. Disclaimer: Any opinions expressed above do not necessarily represent official positions of Grinnell College.  As I understand it, Grinnell takes no official position without prior consultation with college lawyers and ex post facto appointment of a faculty committee to study the issue thoroughly and issue a moot recommendation.  Typically, this process is followed by a student protest and the announcement of a new building project on campus.
+
+p. Disclaimer: Grinnell College takes no official position on the validity of Newton's laws of motion, to say nothing of the carefully reasoned opinions I express in my communications.
+
+*Mine* (you're probably familiar with it)
+
+The opinions expressed herein are my own, and should not be attributed
+to Grinnell College, Grinnell's Department of Computer Science, SIGCSE,
+SIGCAS, any other organizations with which I am affiliated, my family,
+or even most sentient beings.
+
+*From Mike G. on Racket-Users*
+
+READ CAREFULLY. By accepting this material, you agree, on behalf of your
+employer, to release me from all obligations and waivers arising from any
+and all NON-NEGOTIATED agreements, licenses, terms-of-service, shrinkwrap,
+clickwrap, browsewrap, confidentiality, non-disclosure, non-compete and
+acceptable use policies ("BOGUS AGREEMENTS") that I have entered into with
+your employer, its partners, licensors, agents and assigns, in perpetuity,
+without prejudice to my ongoing rights and privileges. You further
+represent that you have the authority to release me from any BOGUS
+AGREEMENTS on behalf of your employer.
+

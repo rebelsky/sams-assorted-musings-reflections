@@ -41,16 +41,24 @@ _**Tags/style**: _rants, talks, memos, oer_
 
 _**Tags/content**: _accessibility, autobiographical, Barbie, CSC 151, data science, delayed, digital humanities (or dighum), email, grinnell, joc, language, meta, obermann, overcommittment, packrat, Racket (or Scheme; I'm not consistent), technical (not the same as technology), technology (not the same as technical), writing_
 
-1. Java Style.  _`:teaching:technical:Java:draft:`_ (`java-style`)
-
 1. Choosing work for CSC 207 2019S.  _`:teaching:sketch:`_ (`csc207-2019S-work`)
 
 1. Kington's article.  _`:rant:Grinnell:draft:`_  (`shared-governance-2019-01-xx`)
+
+1. The wonders of YouTube.  _`:misc:short:`_
+Not sure how I stumbled upon a performance by Glenn Gould and Leonard
+Bernstein, but it's awesome.  https://www.youtube.com/watch?v=9ZX_XCYokQo
+Like the introductory remarks, which were thoughtful.  Great to see
+both performers, too.  Led me next to a hysterical statement by
+GOuld before a Beethoven piece, <https://www.youtube.com/watch?v=RPDBcdDGrnE>.
 
 1. A space to study.  _`:autobiographical:sketch:`_ (`sabbatical-workplace`)
 Looking back from Obermann and ahead to my sabbatical.  What worked well
 about the Obermann space and what will help me be more productive in my
 next sabbatical?  (I have some notes sketched in the Google notebook.)
+
+1. Learning styles.  _`:teaching:`_
+<https://www.insidehighered.com/news/2019/01/09/learning-styles-debate-its-instructors-vs-psychologists>
 
 1. The first day of class.  _`:teaching:`_
 <https://www.chronicle.com/interactives/advice-firstday>
@@ -69,6 +77,10 @@ amazingly large number of things on campus [3], I don't find that I identify tha
 [3] As a whole, Grinnell does poorly at careful language use in
 administrative documents and moves much too slowly on important
 technical issues.
+
+1. Diversity statements.  _`:academia:`_
+<https://www.chronicle.com/article/Against-Diversity-Statements/245400>.
+<https://www.chronicle.com/article/In-Defense-of-Diversity/245463>.
 
 1. Unexpected ligatures: Conflicting.  _`:misc:typography:sketch:`_ (`unexpected-ligatures-fl`)
 The fl makes a great sign in my title font.
