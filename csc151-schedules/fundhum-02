@@ -12,27 +12,27 @@ Booleans, predicates, and conditionals
 Documentation and precondition checking
 Processing XML
 Testing
-Debugging
+Randomness
 Discuss exam 1
 Visualization and maps
 Local bindings
-Pairs and pair structures
-Vectors and hash tables
+Hash tables
 Structs
+Debugging
 Recursion
 Recursion lab
-Randomness
 Helper/tail recursion
-Numeric recursion
-Patterns of list recursion
 Discuss exam 2
-Trees and deep recursion
+Patterns of list recursion
+Numeric recursion
 Naming local procedures
+Pairs and pair structures
+Trees and deep recursion
 Project introduction
+Vectors 
 Higher-order procedures, _revisited_
 Algorithm analysis
-Association lists
-Binary search
+Linear and binary search
 Project work day
 Intro sorting
 Insertion sort

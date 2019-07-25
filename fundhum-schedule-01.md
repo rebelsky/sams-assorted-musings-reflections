@@ -16,9 +16,10 @@ Here's the original draft of the schedule ("draft 0", in my parlance).
 
 !!quickschedule MWF < csc151-schedules/fundhum-00
 
-Recently, I've been thinking about two particular changes to that schedule.
+Some time in late October,  I started thinking about two particular 
+changes to that schedule.
 
-First, I've realized that I want to include dictionaries (hash tables) in
+First, I realized that I wanted to include dictionaries (hash tables) in
 the course; they prove useful for many too many things to leave them out.
 If I recall correctly, writing the [draft of the first version of the
 final project](fundhum-project-00) led me to think about the need for
@@ -39,13 +40,39 @@ Here's the new version [1].
 
 !!quickschedule MWF < csc151-schedules/fundhum-01
 
+Some time thereafter, I realized that there were way too many problems
+with this schedule.  First, debugging seems to show less utility until
+students have done a bit of recursive programming [2].  Second, it
+doesn't make much sense to introduce vectors or pair structures until
+students know recursion, since they need recursion to process those
+kinds of structures.  Third, I seem to have moved the week of the
+exam 2 discussion.  Finally, there are still no "pause for breath" days.  
+I'm not sure that I'll ever get those into the schedule.  
+
+Time to try again.  I have noted that if I'm covering hash tables, I
+probably don't need to cover association lists.  Linear search is a
+natural operation to discuss, but we don't need association lists to
+do that.
+
+!!quickschedule MWF < csc151-schedules/fundhum-02
+
+I don't have the third exam and project explicitly in this schedule.  The
+plan was to have the project proposal due week 12, the project due week
+13, and the third exam due week 14.  But now I'm finding myself wondering 
+if I want to move those around a bit, with the exam due week 12 and
+the project due week 14.  Will it be awkward to present without having
+finished the project?  Possibly.
+
 Is this the final version of the schedule?  Probably not.  But it should
-serve for a few more weeks of writing.
+serve for the time being.
 
 ---
 
 [1] No, I have not highlighted the changes.
 
+[2] Is that really the case?  I may have to reflect on that matter again.
+There can be good reasons to get it in early.
+
 ---
 
-*Version 0.1 of 2018-10-30.*
+*Version 0.2 of 2018-12-18.*
