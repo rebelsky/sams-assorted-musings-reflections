@@ -1292,6 +1292,10 @@ On life in academia
 
 > The joy of writing blurbs.
 
+[Disappearing articles](disappearing-articles-2019-07-24) (Musing #875)
+
+> Betsy DeVos and the Dream Center.
+
 Thank-You Notes
 ---------------
 
