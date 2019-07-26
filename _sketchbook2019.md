@@ -21,6 +21,9 @@ End of month
 Short
 -----
 
+1. Maryville U.
+<https://www.insidehighered.com/digital-learning/article/2018/04/11/small-private-college-partners-pearson-go-national-online>
+
 1. "Pleaded" or "Pled".  Why are people using the former?
 
 1. Tchotchkies (mostly about the ones in the new office).
