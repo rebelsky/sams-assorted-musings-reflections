@@ -164,6 +164,28 @@ Yeah, I think I need to add "rambly" to the tags [17].
 
 ---
 
+Postscript: Someone managed to find the article in Google's cache.  I'm not
+sure why they could find it and I could not.
+
+
+> **Report: Dream Center Execs Believed They Would Get Help From Trump Officials**
+
+> By [Andrew Kreighbaum](https://www.insidehighered.com/users/andrew-kreighbaum // July 24, 2019
+ 
+> Internal company emails and documents show executives at Dream Center Education Holdings believed a top Education Department official would pull strings to help with accreditation challenges after its purchase of a chain of for-profit colleges, _The New York Times_ [reported](https://www.nytimes.com/2019/07/23/us/politics/dream-center.html) Tuesday.
+
+> Dream Center, a Los Angeles-based nonprofit with no prior higher education experience, agreed to buy the Argosy University chain and multiple Art Institutes campuses from Education Management Corporation in 2017. But it almost immediately encountered problems with accreditors. The Education Department cut off access to federal student aid for Dream Center campuses in March after weeks of reports about the colleges failing to pay out student aid. The Trump administration's oversight of the transaction has now [come under scrutiny](https://www.insidehighered.com/news/2019/04/03/another-profit-giant-collapses-critics-dream-center-deal-wonder-why-feds-didnt-seek) from consumer groups and congressional Democrats.
+
+> The Higher Learning Commission, which accredited several Art Institutes campuses, pulled its accreditation in January 2018. But Dream Center continued to advertise that its campuses were accredited -- meaning students' credits would be recognized by employers and could transfer elsewhere -- for five more months until they were told to stop by the Education Department. Diane Auer Jones, the department's principal deputy under secretary and point person for higher ed policy, told Congress she was unaware of the HLC decision until almost six months later. _The Times_ reports that Dream Center executives discussed in internal email communications being tipped off by the Education Department about a forthcoming "retroactive" accreditation policy, contradicting the department's timeline.
+
+> An Education Department spokeswoman told the _Times_ that Dream Center didn't receive any special benefits and that the department had sought to help as many students transfer into new programs as possible. Jones also said the accreditation issues didn't push the chain of colleges toward financial collapse but only dictated whether students could transfer credits elsewhere.
+
+I'm still not sure why I couldn't get the cached page at the time, but
+can now.  In any case, I'm glad to see that my strange search strategy
+helped me get most of the article.
+
+---
+
 [1] I also read _Chronicle_.  However, I find myself drawn to _IHE_ because
 it has more short articles and includes more discussion [2].
 
@@ -221,4 +243,8 @@ to be based on one from _The Times_.
 
 ---
 
-*Version 1.0 of 2019-07-24.*
+*Version 1.0 released 2019-07-24.*
+
+*Version 1.1 of 2019-07-24.*
+
+
