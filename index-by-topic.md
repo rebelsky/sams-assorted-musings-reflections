@@ -1296,6 +1296,10 @@ On life in academia
 
 > Betsy DeVos and the Dream Center.
 
+[Income distributions, college choices, and such](college-income-distribution-2019-07-26) (Musing #877)
+
+> Exploring data.
+
 Thank-You Notes
 ---------------
 
@@ -2886,6 +2890,10 @@ Autobiographical essays, more or less
 [Red, green, black](red-green-black-2019-07-21) (Musing #872)
 
 > Is there a difference?
+
+[Things we lose (or at least things I lose)](things-we-lose-2019-07-25) (Musing #876)
+
+> A pitfall of accumlation.
 
 Salary reviews
 --------------

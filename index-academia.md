@@ -13,3 +13,7 @@ On life in academia
 
 > Betsy DeVos and the Dream Center.
 
+[Income distributions, college choices, and such](college-income-distribution-2019-07-26) (Musing #877)
+
+> Exploring data.
+

@@ -357,3 +357,7 @@ Autobiographical essays, more or less
 
 > Is there a difference?
 
+[Things we lose (or at least things I lose)](things-we-lose-2019-07-25) (Musing #876)
+
+> A pitfall of accumlation.
+

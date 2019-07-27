@@ -5,7 +5,7 @@ The things we lose (or at least the things I lose)
 
 As people who've seen my office, lab, or home know, I tend to accumulate
 things.  All sorts of things.  Books.  Games.  Office supplies.  Paper.
-Tchotchkies.  Music in its many forms.  Old computing eqiupment.  And
+Tchotchkes.  Music in its many forms.  Old computing equipment.  And
 much, much more.  At some point, I will probably muse about likely reasons
 that I accumulate.
 
@@ -31,7 +31,7 @@ between my faith and what I was learning in my philosophy classes [3].
 
 I'm pretty sure that all that time he was sitting under a tree, he was
 supposed to be doing work for me.  As you can guess, getting it right
-was important to me, since it seemed like a great comment to riff on.
+was important t ; since it seemed like a great comment to riff on.
 
 Unfortunately, once I popped the CD [5] into my computer [6], it wouldn't
 play.  A quick inspection showed why: It appears that in the decade or so
@@ -68,4 +68,4 @@ any more.
 
 ---
 
-*Version 0.1 of 2019-07-24.*
+*Version 1.0 of 2019-07-25.*

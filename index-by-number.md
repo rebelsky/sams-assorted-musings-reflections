@@ -1137,3 +1137,5 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Advertising the department](cs-blurb-2019-07-22) (Musing #873)  
 [Failing to rant](failing-to-rant-2019-07-23) (Musing #874)  
 [Disappearing articles](disappearing-articles-2019-07-24) (Musing #875)  
+[Things we lose (or at least things I lose)](things-we-lose-2019-07-25) (Musing #876)  
+[Income distributions, college choices, and such](college-income-distribution-2019-07-26) (Musing #877)  
