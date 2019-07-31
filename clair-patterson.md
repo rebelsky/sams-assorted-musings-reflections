@@ -60,6 +60,14 @@ does [_The Des Moines Register_](https://data.desmoinesregister.com/famous-iowan
 
 ---
 
+Postscript: I'm happy to see that a few months after I wrote
+this musing, _The Grinnell Magazine_ published [a nice piece on
+Patterson](magazine.grinnell.edu/news/get-lead-out) written by Michele
+Regenold '89 and illustrated by Kevin Cannon '02.  I take no credit
+for the piece; I assume that they were also inspored by Erickson.
+
+---
+
 [1] It makes me happy to know that Grinnell used to use the Latin
 ordering for academic degrees (*artium baccalaureus*, I believe).
 It's what Chicago used when I was there [2].
@@ -89,3 +97,5 @@ in 1943.
 ---
 
 *Version 1.0 of 2018-10-19.*
+
+*Version 1.1 of 2019-07-31.*
