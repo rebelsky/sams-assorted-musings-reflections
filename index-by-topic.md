@@ -1300,6 +1300,10 @@ On life in academia
 
 > Exploring data.
 
+[The state of higher education](higher-ed-2019-08-13) (Musing #878)
+
+> Hutchins, Bush, Dewey, and such.
+
 Thank-You Notes
 ---------------
 

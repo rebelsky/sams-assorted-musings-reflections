@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Income distributions, college choices, and such](college-income-distribution-2019-07-26) (Musing #877)
+[The state of higher education](higher-ed-2019-08-13) (Musing #878)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
