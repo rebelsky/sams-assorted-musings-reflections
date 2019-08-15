@@ -25,18 +25,18 @@ more fun, I asked each group to write a short essay on what they
 learned in the project.
 
 But it's me.  I tend to have more things to do than I have time to
-complete them, particularly when I'm in the midst of teaching three
+complete them, especially when I'm in the midst of teaching three
 courses as well as running an independent study project with nine
 students [9].  And so I did not get much of the grading done, other
 than the exams [10].  On the last week of class, I finally gave up
 and said "grade your own homework".  I'm pretty sure that no one
 gave themselves anything higher than a B.  And, well, I got perfect
 end-of-course ratings.  The students in that class taught me that
-I should assign difficult work and it didn't matter whether or not
+I should assign difficult work, and it didn't matter whether or not
 I graded it.
 
 CSC 223 was our software design course [11].  Kumail was in a group that
-designed an IMAP-based mail reader [12].  They had a great name for
+designed an IMAP-based mail reader [12].  They had a wonderful name for
 it, "You've got mail: Kumail" [14].  I almost certainly had them
 write a project report, although I can't recall what my requirements
 [15] were.
@@ -72,9 +72,9 @@ Dobbs."  But then I thought a bit more.   I certainly had students
 write about algorithms.  I've been known to be a picky grader.  And
 "you lose a third of a grade for X" has been one of my standard
 approaches to grading.  But clichés?  I can't remember disallowing
-them.  And, I must admit, I use many clichés in my own writing, or
-at least my own musing [18].  I know that "use of clichés" has not 
-been on my Tutorial grading rubric [19].
+them.  And, I must admit, I use many clichés in my writing, or
+at least my musing [18].  I know that "use of clichés" has not 
+been a category on my Tutorial grading rubric [19].
 
 Nonetheless, I can believe that there was a point at which I came
 back from a Grinnell teaching seminar thinking more carefully about
@@ -93,12 +93,12 @@ write detailed preconditions and postconditions and took off points
 if they did not meet reasonable standards.  I also know that some
 of my CSC 207 students were frustrated that I did not give credit
 for programs that did not pass the unit tests I provided.  However,
-as I told them, Boeing and may others have shown the difficulty of
-relying on software that isn't completely thought through.
+as I told them, Boeing and many others have shown the difficulty of
+relying on software that isn't thoroughly thought through.
 
 I began this musing planning to write on how much I seem to have
 changed since I started teaching at Grinnell.  I ended by realizing
-that the key characteristics to my grading are similar: I don't
+that the central characteristics of my grading are similar: I don't
 grade everything and, when I do, I tend to be quite picky.  Oh well,
 I guess the more things change, the more they stay the same.  Or
 is that too much of a cliché?
@@ -124,13 +124,12 @@ things.
 also did not have anonymous inner classes or lambda expressions.  I like
 all of these additions, but they certainly complicate what we teach.
 
-[8] I'm glad to see that we've finally reintroduced graphs and
-recurrence relations to CSC 207; I considered them key parts of
-152.
+[8] I'm glad to see that we've finally reintroduced graphs and recurrence
+relations to CSC 207; I considered them important parts of 152.
 
 [9] What's the difference between "an independent study with nine students"
-and "a small seminar"?  You can compensated for the latter, but not the
-former.
+and "a small seminar"?  The College compensates faculty for the latter,
+but not the former.
 
 [10] Yes, I know this sounds familiar.  Stay tuned.
 
@@ -168,4 +167,4 @@ again and what its subject will be.
 
 ---
 
-*Version 0.9 of 2019-08-14.*
+*Version 1.0 of 2019-08-14.*

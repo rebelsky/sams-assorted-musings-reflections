@@ -1140,3 +1140,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Things we lose (or at least things I lose)](things-we-lose-2019-07-25) (Musing #876)  
 [Income distributions, college choices, and such](college-income-distribution-2019-07-26) (Musing #877)  
 [The state of higher education](higher-ed-2019-08-13) (Musing #878)  
+[Changes in my teaching](teaching-changes-2019-08-14) (Musing #879)  

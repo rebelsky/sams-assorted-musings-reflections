@@ -361,3 +361,7 @@ Autobiographical essays, more or less
 
 > A pitfall of accumlation.
 
+[Changes in my teaching](teaching-changes-2019-08-14) (Musing #879)
+
+> Is "the more things change, the more they stay the same" a cliché?
+
