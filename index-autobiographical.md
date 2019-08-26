@@ -365,3 +365,7 @@ Autobiographical essays, more or less
 
 > Is "the more things change, the more they stay the same" a cliché?
 
+[Driving Midwest to Northeast, or vice versa](driving-2019-08-25) (Musing #881)
+
+> What's wrong with sixteen hours in a car?
+

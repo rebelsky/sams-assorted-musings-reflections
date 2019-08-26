@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Changes in my teaching](teaching-changes-2019-08-14) (Musing #879)
+[Driving Midwest to Northeast, or vice versa](driving-2019-08-25) (Musing #881)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

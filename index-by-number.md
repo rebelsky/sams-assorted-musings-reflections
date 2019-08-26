@@ -1141,3 +1141,8 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Income distributions, college choices, and such](college-income-distribution-2019-07-26) (Musing #877)  
 [The state of higher education](higher-ed-2019-08-13) (Musing #878)  
 [Changes in my teaching](teaching-changes-2019-08-14) (Musing #879)  
+[Proto musings: Coding experiences](proto-musings-gimp-plugin-2019-08-15) (Musing #880)  
+
+## 881-890
+
+[Driving Midwest to Northeast, or vice versa](driving-2019-08-25) (Musing #881)  

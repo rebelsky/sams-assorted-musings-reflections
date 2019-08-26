@@ -97,3 +97,7 @@ The joy of code
 
 > Code to translate code.
 
+[Proto musings: Coding experiences](proto-musings-gimp-plugin-2019-08-15) (Musing #880)
+
+> A happy memory of debugging plugins.
+

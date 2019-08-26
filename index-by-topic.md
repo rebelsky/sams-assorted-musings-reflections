@@ -2003,6 +2003,10 @@ The joy of code
 
 > Code to translate code.
 
+[Proto musings: Coding experiences](proto-musings-gimp-plugin-2019-08-15) (Musing #880)
+
+> A happy memory of debugging plugins.
+
 A new CSC 151
 -------------
 
@@ -2902,6 +2906,10 @@ Autobiographical essays, more or less
 [Changes in my teaching](teaching-changes-2019-08-14) (Musing #879)
 
 > Is "the more things change, the more they stay the same" a cliché?
+
+[Driving Midwest to Northeast, or vice versa](driving-2019-08-25) (Musing #881)
+
+> What's wrong with sixteen hours in a car?
 
 Salary reviews
 --------------
