@@ -1146,4 +1146,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 ## 881-890
 
 [Driving Midwest to Northeast, or vice versa](driving-2019-08-25) (Musing #881)  
-[US 6](ewe-ess-six-2019-08-26) (Musing #882)  
+[U.S. Route 6](ewe-ess-six-2019-08-26) (Musing #882)  
