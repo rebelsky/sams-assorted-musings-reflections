@@ -2911,6 +2911,10 @@ Autobiographical essays, more or less
 
 > What's wrong with sixteen hours in a car?
 
+[US 6](ewe-ess-six-2019-08-26) (Musing #882)
+
+> The longest continuous highway in the U.S.
+
 Salary reviews
 --------------
 
