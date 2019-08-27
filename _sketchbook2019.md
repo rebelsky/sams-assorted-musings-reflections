@@ -9,17 +9,31 @@ the sketchbook._
 End of month
 ------------
 
+* Didn't do the first month.
 * Originally thought I'd post a bunch of "illustrated" musings.  Failed
   to do so.
 * Much calmer about missing days.  I'm not sure whether that's a good
-  thing or a bad thing.
+  thing or a bad thing.  Missed more than a week.  I'm pretty sure
+  that's not a good thing.  Missed another week on vacation.  That's
+  clearly a good thing.
 * Have already accumulated way too many topics for musings.
 * Michelle says fewer readers.  Do I care?  A bit; it's nice to have readers.
   However, as I've said in the past, I write primarily for myself and my
-  family.
+  family.  If I mused more regularly, I might get more readers.  I might
+  also need to rant a bit more.  (Did I write about not ranting?)
 
 Short
 -----
+
+1. Amazon classifications.  The Fuzzy and the Techie: Why the Liberal Arts Will Rule the Digital World.
+
+1. Amazon Pricing bots.  Two kinds: Ones that increase and ones that
+decrease.  Here's [a nice article about the former](http://www.michaeleisen.org/blog/?p=358).  Note that it's gone down.  <https://www.amazon.com/Making-Fly-Genetics-Animal-Design/dp/0632030488/>.
+I like the latter approach.  See Noam Nisan as an example of them conflicting.
+
+1. Rothkoscape.  Idea from p. 19 of _Slowpoke_ by Jen Soresen "Converts
+Web content into luminous color-field paintings, allowing users to experience
+information as pure emotion."
 
 1. Maryville U.
 <https://www.insidehighered.com/digital-learning/article/2018/04/11/small-private-college-partners-pearson-go-national-online>
@@ -65,13 +79,14 @@ up manuscript.  Corrections for a second edition?
 
 1. When upgrades make things worse.  
 
-1. Proto-musings: Old coding projects.
-From Facebook: Samuel Rebelsky
-July 19, 2011 ·
-This afternoon, I'm trying to hunt down my latest heisenbug. This is a fun one. It's in a GIMP plugin I'm writing. It crashes when run normally. It crashes at the same point with a malloc error when run through gdb. It runs fine through valgrind. At least I've learned how to use gdb and valgrind on GIMP plugins.
-
 Long
 ----
+
+1. Who should own the student handbook?
+
+1. Innovation fund proposal: 50 years of the open curriculum
+
+1. Innovation fund proposal: Liberal arts "quals"
 
 1. Introduction/apologies for new Dean
 
@@ -97,6 +112,8 @@ When I was in college, a wonderful, expensive (I'm white, but was on scholarship
 I am not excusing what the guy said. While it was not threatening, and it was not directed toward an individual, it was demeaning, ignorant, and indeed very racists. Still, though, I get really sad when I think of the guy losing his job. I lost a job once. It was not fun. And I got another job very quickly. Because I am a college educated person.
 
 1. Signatures (see below)
+
+1. As We May Think.
 
 Daily reading
 -------------
