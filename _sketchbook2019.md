@@ -25,6 +25,14 @@ End of month
 Short
 -----
 
+1. Lamejun.  One of my fond memories of my time in Newton, or returning
+to Newton, is eating lamejun, most frequently purchased from Massis
+bakery in Watertown.  For those not in the know, lamejun is an Armenian
+dish; a thin flatbread spread with a spiced meat.  The Rebelsky family 
+tended to eat it with yoghurt; I'm pretty sure that's not traditional.
+Eating lamejun gives me memory of my mother, of our kitchen, and, well,
+just being home. 
+
 1. Amazon classifications.  The Fuzzy and the Techie: Why the Liberal Arts Will Rule the Digital World.
 
 1. Amazon Pricing bots.  Two kinds: Ones that increase and ones that
