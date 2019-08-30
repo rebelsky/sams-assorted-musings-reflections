@@ -2007,8 +2007,8 @@ The joy of code
 
 > A happy memory of debugging plugins.
 
-A new CSC 151
--------------
+A new CSC 151 (and other aspects of CSC 151)
+--------------------------------------------
 
 [A new CSC 151](new-csc151-2017-06-05) (Musing #348)
 
@@ -2065,6 +2065,10 @@ A new CSC 151
 [Should I replace section with partial?](section-or-partial) (Musing #816)
 
 > Retinking another core topic.
+
+[How do I get into CSC 151?](csc151-2019-08-27) (Musing #883)
+
+> A common student question.
 
 Grinnellians you should know (or know about)
 --------------------------------------------
@@ -2436,6 +2440,10 @@ Grinnell.
 [Centering the humanities](centering-humanities) (Musing #849)
 
 > It's complex.
+
+[Our new dean](new-dean-2019-08-28) (Musing #884)
+
+> We're lucky to have found her.
 
 A letter to the incoming chair
 ------------------------------

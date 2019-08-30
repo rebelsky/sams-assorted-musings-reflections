@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[U.S. Route 6](ewe-ess-six-2019-08-26) (Musing #882)
+[Our new dean](new-dean-2019-08-28) (Musing #884)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

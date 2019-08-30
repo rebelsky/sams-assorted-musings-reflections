@@ -1147,3 +1147,5 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 
 [Driving Midwest to Northeast, or vice versa](driving-2019-08-25) (Musing #881)  
 [U.S. Route 6](ewe-ess-six-2019-08-26) (Musing #882)  
+[How do I get into CSC 151?](csc151-2019-08-27) (Musing #883)  
+[Our new dean](new-dean-2019-08-28) (Musing #884)  

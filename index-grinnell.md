@@ -211,3 +211,7 @@ Grinnell.
 
 > It's complex.
 
+[Our new dean](new-dean-2019-08-28) (Musing #884)
+
+> We're lucky to have found her.
+

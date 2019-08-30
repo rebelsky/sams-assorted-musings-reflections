@@ -57,3 +57,7 @@ A new CSC 151 (and other aspects of CSC 151)
 
 > Retinking another core topic.
 
+[How do I get into CSC 151?](csc151-2019-08-27) (Musing #883)
+
+> A common student question.
+
