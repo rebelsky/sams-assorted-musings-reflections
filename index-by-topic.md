@@ -2923,6 +2923,10 @@ Autobiographical essays, more or less
 
 > The longest continuous highway in the U.S.
 
+[Our 2^5 anniversary](anniversary-2019-08-29) (Musing #885)
+
+> Here's to at least another 2^5 years.
+
 Salary reviews
 --------------
 
