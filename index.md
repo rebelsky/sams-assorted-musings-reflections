@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Our 2^5 anniversary](anniversary-2019-08-29) (Musing #885)
+[This year's sabbatical](sabbatical-2019-08-30) (Musing #886)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

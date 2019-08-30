@@ -1555,6 +1555,10 @@ Overcommitment
 
 > More precisely, *too many* plans.
 
+[This year's sabbatical](sabbatical-2019-08-30) (Musing #886)
+
+> Projects big and small.
+
 On teaching 
 -----------
 

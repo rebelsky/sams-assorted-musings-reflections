@@ -1150,3 +1150,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [How do I get into CSC 151?](csc151-2019-08-27) (Musing #883)  
 [Our new dean](new-dean-2019-08-28) (Musing #884)  
 [Our 2^5 anniversary](anniversary-2019-08-29) (Musing #885)  
+[This year's sabbatical](sabbatical-2019-08-30) (Musing #886)  
