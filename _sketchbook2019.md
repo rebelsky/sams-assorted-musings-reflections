@@ -9,21 +9,14 @@ the sketchbook._
 End of month
 ------------
 
-* Didn't do the first month.
-* Originally thought I'd post a bunch of "illustrated" musings.  Failed
-  to do so.
-* Much calmer about missing days.  I'm not sure whether that's a good
-  thing or a bad thing.  Missed more than a week.  I'm pretty sure
-  that's not a good thing.  Missed another week on vacation.  That's
-  clearly a good thing.
-* Have already accumulated way too many topics for musings.
-* Michelle says fewer readers.  Do I care?  A bit; it's nice to have readers.
-  However, as I've said in the past, I write primarily for myself and my
-  family.  If I mused more regularly, I might get more readers.  I might
-  also need to rant a bit more.  (Did I write about not ranting?)
+* Started writing about what I read.  The Facebook list of book covers was
+  a useful detour, too.
+* Rants?
 
 Short
 -----
+
+1. Opening convo 2019.  Next one will have George Drake.
 
 1. Lamejun.  One of my fond memories of my time in Newton, or returning
 to Newton, is eating lamejun, most frequently purchased from Massis
@@ -89,6 +82,14 @@ up manuscript.  Corrections for a second edition?
 
 Long
 ----
+
+1. Meaning in Life.  The other day, an alum wrote to me and asked
+"How did you find purpose in work? I understand that’s a large question."
+I gave them a short answer, but promised that I'd muse more about it.  Here's
+my short answers.  That's a large question.  I'll give a brief answer for the time being and come back to it later (probably as a musing).  For my case, it's not that hard to find meaning in what I do: I help young adults learn and grow.  I believe that makes a positive impact.  At least every few years, I hear from a student or recent alum who tells me that they wouldn't have finished Grinnell without me.  That's enough for me.
+
+But that kind of meaning only applies to a few jobs.  So how do you find meaning or purpose in other kinds of work?  In some cases (perhaps in many cases) you can identify a part of what you or your company does that has a positive impact.  For example, you help people experience the joy of music.  I firmly believe that music is good for humans.  (We'll ignore the cognitive dissonance of the less good things that your company does.)  Some people find joy, rather than meaning, in what they do.  Joy is not as powerful as meaning, but it's still a reason to do things.  Still others look at their current work as a pathway to other things; a few years building skills and then you can go on to do something more meaningful/purposeful.  A few treat the purpose of work as providing resources for things they otherwise value, such as money/time to donate to causes of import.
+goes.
 
 1. Who should own the student handbook?
 
