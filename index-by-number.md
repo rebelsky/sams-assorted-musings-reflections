@@ -1151,3 +1151,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Our new dean](new-dean-2019-08-28) (Musing #884)  
 [Our 2^5 anniversary](anniversary-2019-08-29) (Musing #885)  
 [This year's sabbatical](sabbatical-2019-08-30) (Musing #886)  
+[Another month (or two) of daily musings](another-month-2019-08) (Musing #887)  

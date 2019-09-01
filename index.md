@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[This year's sabbatical](sabbatical-2019-08-30) (Musing #886)
+[Another month (or two) of daily musings](another-month-2019-08) (Musing #887)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

@@ -101,3 +101,7 @@ most of them here._
 
 > Better still.
 
+[Another month (or two) of daily musings](another-month-2019-08) (Musing #887)
+
+> Reflections on my return to the musings.
+
