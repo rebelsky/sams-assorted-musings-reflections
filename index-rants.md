@@ -466,3 +466,7 @@ Rants
 
 > No, I don't want to turn on automatic updates.
 
+[Opening Convocation 2019-20](convo-2019-09-01) (Musing #888)
+
+> Where was everyone?
+
