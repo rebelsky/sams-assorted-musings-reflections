@@ -2939,6 +2939,10 @@ Autobiographical essays, more or less
 
 > Here's to at least another 2^5 years.
 
+[A day on sabbatical](sabbatical-2019-08-15) (Musing #889)
+
+> Some thoughts on assessment.
+
 Salary reviews
 --------------
 

@@ -1153,3 +1153,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [This year's sabbatical](sabbatical-2019-08-30) (Musing #886)  
 [Another month (or two) of daily musings](another-month-2019-08) (Musing #887)  
 [Opening Convocation 2019-20](convo-2019-09-01) (Musing #888)  
+[A day on sabbatical](sabbatical-2019-08-15) (Musing #889)  
