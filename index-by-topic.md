@@ -2939,7 +2939,7 @@ Autobiographical essays, more or less
 
 > Here's to at least another 2^5 years.
 
-[A day on sabbatical](sabbatical-2019-08-15) (Musing #889)
+[A day on sabbatical](sabbatical-day-2019-09-02) (Musing #889)
 
 > Some thoughts on assessment.
 
