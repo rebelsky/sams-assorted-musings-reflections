@@ -1154,3 +1154,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Another month (or two) of daily musings](another-month-2019-08) (Musing #887)  
 [Opening Convocation 2019-20](convo-2019-09-01) (Musing #888)  
 [A day on sabbatical](sabbatical-day-2019-09-02) (Musing #889)  
+[Writers at Grinnell (and other events at Grinnell)](writers-at-grinnell-2019-09-03) (Musing #890)  

@@ -2457,6 +2457,10 @@ Grinnell.
 
 > We're lucky to have found her.
 
+[Writers at Grinnell (and other events at Grinnell)](writers-at-grinnell-2019-09-03) (Musing #890)
+
+> A highlight of the Grinnell calendar.
+
 A letter to the incoming chair
 ------------------------------
 
