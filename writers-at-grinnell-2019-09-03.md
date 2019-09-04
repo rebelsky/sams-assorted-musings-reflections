@@ -119,7 +119,7 @@ benefits of the program [5].
 unidentified white male, a stack of books, and a dusty old
 typewriter?  I have no idea.  Maybe Dean or Ralph will explain.
 
-<img src="images/writers-at-grinnell" width="600" alt="A person who presents as a right-handed white male sits in a wooden chair with a pen in hand and a notebook on lap.  In the foreground sits an out-of-focus dusty old mechanical typewriter.  On a stand are five books: A used copy of George Sanders' _Congratulations, by the Way, Stuart Dybek's _I Sailed with Magellan_, Robert Bolaño's _The Savage Detectives_, a beat-up copy of _The Scribner Anthology of Short Fiction_, and a red hardback tome whose name I cannot decipher.  Next to the books is a black cap with the Honor-G symbol."/>
+<img src="images/writers-at-grinnell" width="600" alt="A person who presents as a right-handed white male sits in a wooden chair with a pen in hand and a notebook on lap.  In the foreground sits an out-of-focus dusty old mechanical typewriter.  On a stand are five books: A used copy of George Sanders' _Congratulations, by the way_, Stuart Dybek's _I Sailed with Magellan_, Robert Bolaño's _The Savage Detectives_, a beat-up copy of _The Scribner Anthology of Short Fiction_, and a red hardback tome whose name I cannot decipher.  Next to the books is a black cap with the Honor-G symbol.  At the center of the image is a white circle with a small black triangle, representing a 'play' button."/>
 
 [6] I identify students who have taken a class with me or done research 
 with me as "my students".
@@ -179,6 +179,17 @@ Ari Berman, Senior Reporter, Mother Jones
 
 4 p.m. _The Death of Intangibles: How Sports are Measuring the Previously Unmeasurable_  
 Sean Forman ‘94, President, Sports Reference, LLC
+
+---
+
+**_Appendix: Alt Text_**
+
+As you might expect, I've added "alt text" for the image that I included.
+Here's what I wrote.
+
+> A person who presents as a right-handed white male sits in a wooden chair with a pen in hand and a notebook on lap.  In the foreground sits an out-of-focus dusty old mechanical typewriter.  On a stand are five books: A used copy of George Sanders' _Congratulations, by the way_, Stuart Dybek's _I Sailed with Magellan_, Robert Bolaño's _The Savage Detectives_, a beat-up copy of _The Scribner Anthology of Short Fiction_, and a red hardback tome whose name I cannot decipher.  Next to the books is a black cap with the Honor-G symbol.  At the center of the image is a white circle with a small black triangle, representing a 'play' button.
+
+Can anyone tell what the other book is?
 
 ---
 
