@@ -53,6 +53,9 @@ with the new Sidney Meyer Professor, at 12:00.  I'm not sure how I can
 do both.  I'm also not sure how Michelle will feel about going to see
 volleyball on Friday night.  Oh well, I'll take each event as it comes.
 
+*Thanks to Dean and Barb and Rachel and everyone else whose hard work
+brings all of these wonderful events to campus!*
+
 ---
 
 Postscript: I'm planning to attend most of this year's Writers@Grinnell
