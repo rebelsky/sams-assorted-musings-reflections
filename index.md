@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Writers at Grinnell (and other events at Grinnell)](writers-at-grinnell-2019-09-03) (Musing #890)
+[Meal plan pricing (2019 edition)](meal-plan-pricing-2019-09-04) (Musing #891)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

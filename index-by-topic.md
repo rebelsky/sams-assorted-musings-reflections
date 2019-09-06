@@ -1242,6 +1242,10 @@ Rants
 
 > Where was everyone?
 
+[Meal plan pricing (2019 edition)](meal-plan-pricing-2019-09-04) (Musing #891)
+
+> More expensive, but also more sensible, than it was three years ago.
+
 Assorted talks and speeches
 ---------------------------
 
