@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Meal plan pricing (2019 edition)](meal-plan-pricing-2019-09-04) (Musing #891)
+[Documenting code with the Six P’s](six-ps-2019-09-05) (MUsing #892)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

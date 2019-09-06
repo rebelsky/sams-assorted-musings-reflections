@@ -61,3 +61,7 @@ A new CSC 151 (and other aspects of CSC 151)
 
 > A common student question.
 
+[Documenting code with the Six P’s](six-ps-2019-09-05) (MUsing #892)
+
+> Teaching students to write.
+
