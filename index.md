@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Documenting code with the Six P’s](six-ps-2019-09-05) (MUsing #892)
+[Documenting code with the Six P’s](six-ps-2019-09-05) (Musing #892)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
