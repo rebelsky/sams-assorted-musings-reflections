@@ -1160,3 +1160,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 
 [Meal plan pricing (2019 edition)](meal-plan-pricing-2019-09-04) (Musing #891)  
 [Documenting code with the Six P’s](six-ps-2019-09-05) (Musing #892)  
+[Compassion and the anti-academic press](crying-syllabus-2019-09-06) (Musing #893)  

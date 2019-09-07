@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Documenting code with the Six P’s](six-ps-2019-09-05) (Musing #892)
+[Compassion and the anti-academic press](crying-syllabus-2019-09-06) (Musing #893)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

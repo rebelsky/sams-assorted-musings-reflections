@@ -1316,6 +1316,10 @@ On life in academia
 
 > Hutchins, Bush, Dewey, and such.
 
+[Compassion and the anti-academic press](crying-syllabus-2019-09-06) (Musing #893)
+
+> Different definitions of "wacky".
+
 Thank-You Notes
 ---------------
 

@@ -177,4 +177,4 @@ on Human Psychological Distress.  _J. Clin. Psychol._ 73:761–784, 2017.
 
 ---
 
-*Version 0.1 of 2019-09-07.*
+*Version 1.0 of 2019-09-06.*
