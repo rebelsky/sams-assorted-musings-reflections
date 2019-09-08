@@ -49,6 +49,12 @@ However, I think the real moral is "I need to run my own Web server."
 
 ---
 
+Postscript: One thing I really don't understand from this whole situation:
+I'm on sabbatical.  So why did I end up being the one who sent the email
+messages to the student mailing list explaining the situation?
+
+---
+
 [1] No, not Cornell University.  And not Grinnell College, either.
 
 [2] Grinnell one three sets to none.  Congrats Pioneers!
@@ -71,4 +77,6 @@ It makes it hard to add the "co-" because there are two of us.
 
 ---
 
-*Version 1.0 of 2019-09-07.*
+*Version 1.0 released 2019-09-07.*
+
+*Version 1.1 of 2019-09-07.*
