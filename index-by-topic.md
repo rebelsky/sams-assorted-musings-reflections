@@ -3827,6 +3827,10 @@ Almost everything else
 
 > Does the former affect your appreciation of the latter?
 
+[The CS Web server](web-server-2019-09-07) (Musing #894)
+
+> I need a life, or at least my own Web server.
+
 Musings with multiple entries
 -----------------------------
 
