@@ -96,5 +96,5 @@ index-by-topic.md: $(INDICES)
 index-by-number.md: index-by-topic.md
 	grep '#[0-9]' index-by-topic.md  \
 	| sort -k2 -t# -n -u \
-	| by-number \
+	| ./by-number \
 	> index-by-number.md
