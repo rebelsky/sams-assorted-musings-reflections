@@ -2959,6 +2959,10 @@ Autobiographical essays, more or less
 
 > Some thoughts on assessment.
 
+[DadR's weekly report, week 1](weekly-report-2019-09-08) (Musing #895)
+
+> Notes for my family.
+
 Salary reviews
 --------------
 
