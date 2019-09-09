@@ -18,10 +18,12 @@ company was even better.  It's also nice to have a longer-than-normal
 family dinner; we got to chat about more topics than we normally do.
 Earlier in the week, I finally got around to fixing the stove.
 What's that I said to Michelle? I think it was "anxiety is a bear".
-Stoves are scary.  But it works now.  Yay me!  Three other highlights
-were the Writers@Grinnell talk on Monday night, Jen Jacobsen and Andi
-Tracy's presentation on second-year students on Friday, and the Women's
-Volleyball game on Friday night; it's nice to have some time to get out.
+Stoves are scary.  But it works now.  Yay me!  And mom and I got to go 
+to what is likely Daniel's last piano lesson with Mrs. O'Connor.
+Three other highlights were the Writers@Grinnell talk on Monday night,
+Jen Jacobsen and Andi Tracy's presentation on second-year students on
+Friday, and the Women's Volleyball game on Friday night; it's nice to
+have some time to get out.
 
 Having more time is nice.  It seems like I seem more relaxed than normal.
 That's good.
@@ -97,3 +99,5 @@ intended for members of the Rebelsky clan.
 ---
 
 *Version 1.0 of 2019-09-08.*
+
+*Version 1.0.1 of 2019-09-08.*
