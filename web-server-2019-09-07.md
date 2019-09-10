@@ -20,7 +20,7 @@ the moment.  However, I had just posted our job advertisement to
 the SIGCSE-Jobs listserv [4], so my first response was "Information
 on the job is posted on the server".  I will admit that I was also
 a bit sad that "SamR's Assorted Musings and Rants" would not be
-available, but I accept that my 'blog is much important than our
+available, but I accept that my 'blog is much less important than our
 course webs.  My colleagues quickly noted that their courses are all 
 on our server.  By the end of the evening, our SysAdmin had managed
 to get our home directories posted on another server, one at
@@ -79,4 +79,4 @@ It makes it hard to add the "co-" because there are two of us.
 
 *Version 1.0 released 2019-09-07.*
 
-*Version 1.1 of 2019-09-07.*
+*Version 1.1.1 of 2019-09-07.*
