@@ -1163,3 +1163,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Compassion and the anti-academic press](crying-syllabus-2019-09-06) (Musing #893)  
 [The CS Web server](web-server-2019-09-07) (Musing #894)  
 [DadR's weekly report, week 1](weekly-report-2019-09-08) (Musing #895)  
+[Learning new (programming) languages](new-languages-2019-09-08) (Musing #896)  

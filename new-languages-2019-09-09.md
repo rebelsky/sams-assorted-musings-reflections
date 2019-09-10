@@ -6,7 +6,7 @@ Learning new (programming) languages
 As I think I mentioned in [my most recent musing on my
 sabbatical](sabbatical-2019-08-30), one of my goals for this
 sabbatical is to explore a few "new" languages.  What languages?
-Right now, my inclination is to look at [Clojure](https://clojure.org/),
+Right now, I'm inclined to look at [Clojure](https://clojure.org/),
 [Kotlin](https://kotlinlang.org/), and [Rust](https://www.rust-lang.org/).
 I may also look at the incorrectly-named "C Sharp" [1] and a few
 of the new dialects of Smalltalk, such as [Pharo](https://pharo.org)
@@ -21,8 +21,8 @@ updates since then, it's likely a very different language.
 Why do I want to learn new programming languages, other than to
 increase the number of programming languages I can put on my imaginary
 résumé [4]?  As I've said, _while the natural language you speak
-may not affect the ways in which you think_ [5], _the programming
-language(s) you use can significantly affect the ways you approach
+may not affect how you think_ [5], _the programming
+language(s) you use can significantly affect how you approach
 problem solving_.  You'd think that after thirty or so years teach
 CS, there wouldn't be more for me to learn.  You'd be wrong.  For
 example, learning Ruby just a few years ago helped me reconceptualize
@@ -59,11 +59,12 @@ I also appreciate two particular paragraphs from the post.
 
 > Smalltalk was small and elegant and beautiful. It spawned the Design Patterns revolution. It spawned the Refactoring revolution. It spawned the TDD revolution. It helped to spawn the Agile revolution. Smalltalk was a language of tremendous impact.
 
-> > Finally, Lisp is functional. And the future is looking very functional to me.
+> Finally, Lisp is functional. And the future is looking very functional to me.
 
 I've been predicting success for functional programming for more
 than twenty years, so it's good to see someone relatively famous
-say it, too.
+say it, too.  And the paragraph on Smalltalk reminds me that I need
+to learn more about Smalltalk.
 
 Other than supporting my world view, what is it about Martin's post that
 makes me want to learn more about Clojure?  In part, it's that Clojure
@@ -132,7 +133,7 @@ on my course Web sites [29].
 
 I often find it useful to *read books about new languages*.  Reading
 books gets me away from the computer [30] and can encourage me to 
-think more broadly about subjects.  However, I'm really a "hands on"
+think more broadly about subjects.  However, I'm primarily a "hands on"
 learner, so much of my reading inevitably pushes me toward the keyboard.
 Nonetheless, books are useful.  While I think I learn better from printed
 books, I'm finding it increasingly useful to read PDFs on my iPad,
@@ -279,7 +280,7 @@ Support."
 [33] If I recall correctly, _Experiments in Java_, which I wrote about
 two decades ago, describes the `import` statement incorrectly.  At the
 time, I was wedded enough to C that I thought that `import` was much
-like `include`.  However, `import` is really more about namespaces and
+like `include`.  However, `import` is more about namespaces and
 linking than including code.
 
 [34] More on that issue in a subsequent musing.
@@ -290,4 +291,4 @@ linking than including code.
 
 ---
 
-*Version 0.1 of 2019-09-08.*
+*Version 1.0 of 2019-09-09.*
