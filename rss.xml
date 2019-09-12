@@ -7,6 +7,13 @@
       A curmudgeonly faculty member in computer science writes about a variety of topics.
     </description>
     <item>
+      <title>Musing #897: Closures</title>
+      <link>https://www.cs.grinnell.edu/~rebelsky/musings/closures-2019-09-11</link>
+      <guid>https://www.cs.grinnell.edu/~rebelsky/musings/closures-2019-09-11</guid>
+      <pubDate>Thu, 12 Sep 2019 01:20:24 GMT</pubDate>
+      <description>A cool component of functional programming.</description>
+    </item>
+    <item>
       <title>Musing #896: Learning new (programming) languages</title>
       <link>https://www.cs.grinnell.edu/~rebelsky/musings/new-languages-2019-09-09</link>
       <guid>https://www.cs.grinnell.edu/~rebelsky/musings/new-languages-2019-09-09</guid>

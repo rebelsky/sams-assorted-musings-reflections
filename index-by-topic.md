@@ -2031,6 +2031,10 @@ The joy of code
 
 > And some techniques I employ for doing so.
 
+[Closures](closures-2019-09-11) (Musing #897)
+
+> A cool component of functional programming.
+
 A new CSC 151 (and other aspects of CSC 151)
 --------------------------------------------
 

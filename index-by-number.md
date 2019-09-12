@@ -1164,3 +1164,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [The CS Web server](web-server-2019-09-07) (Musing #894)  
 [DadR's weekly report, week 1](weekly-report-2019-09-08) (Musing #895)  
 [Learning new (programming) languages](new-languages-2019-09-09) (Musing #896)  
+[Closures](closures-2019-09-11) (Musing #897)  
