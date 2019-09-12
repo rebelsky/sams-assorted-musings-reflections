@@ -6,17 +6,48 @@ I put my planned musings.  Since it's an electronic document, it will
 change regularly.  When I finish a musing, it tends to disappear from
 the sketchbook._
 
+Tentative upcoming week
+-----------------------
+
+* Thursday 9-12: Distributed knowledge.
+* Friday 9-13: New Computing policies.
+* Saturday 9-14: GHC/Tapia funding
+* Sunday 9-15: Weekly report
+
 End of month
 ------------
 
 * Started writing about what I read.  The Facebook list of book covers was
   a useful detour, too.
 * Rants?
+* Had the pleasure of being connected to the children of the author of
+  one of my most-loved books.
+* Heard from a variety of ECFS that they read my musings.  I'm still not
+  sure what to do with that.  It feels a bit like the time I heard that
+  many of that group also read [If you ask a prof a question].
+* More autobiographical postings than I had planned.  Happens.
+* Photos of campus posted to Facebook generated a lot of commentary.
+* "I was trying to find out more about Dave RObinson", 
 
 Short
 -----
 
-1. Opening convo 2019.  Next one will have George Drake.
+1. Syllabi.  A lot of compoaints that students don't seem to be reading
+the syllabus.  "Why didn't they get the reading done?"  "Why do they
+think the homework I gave out is due on this Monday and not next Monday?"
+But syllabi (or at least our forms of syllabi) may be strange to
+first-year students.  It's one of the reasons that when I'm a
+Tutorial prof, I devote time in the third-or-so Tutorial meeting for
+students the record all of their assignments from their calendars.
+
+1. Nonsequiters anonymous?
+
+1. Persnickety.  List of new faculty.  Minutes of the last faculty
+meeting.
+
+1. LibraryThing and CueCat.
+
+1. Stranded by Greil Marcus.  https://greilmarcus.net/2014/10/10/it-was-totally-irresponsible-gm-re-the-stranded-discography-051112/
 
 1. Lamejun.  One of my fond memories of my time in Newton, or returning
 to Newton, is eating lamejun, most frequently purchased from Massis
@@ -83,6 +114,8 @@ up manuscript.  Corrections for a second edition?
 Long
 ----
 
+1. Section and compose.
+
 1. Meaning in Life.  The other day, an alum wrote to me and asked
 "How did you find purpose in work? I understand that’s a large question."
 I gave them a short answer, but promised that I'd muse more about it.  Here's
@@ -129,6 +162,8 @@ Daily reading
 
 Grinnellians
 ------------
+
+1. Jen Jacobsen
 
 1. Susan Sanning
 
