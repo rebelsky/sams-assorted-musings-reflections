@@ -101,7 +101,7 @@ The joy of code
 
 > A happy memory of debugging plugins.
 
-[Learning new (programming) languages](new-languages-2019-09-08) (Musing #896)
+[Learning new (programming) languages](new-languages-2019-09-09) (Musing #896)
 
 > And some techniques I employ for doing so.
 
