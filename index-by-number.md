@@ -1166,3 +1166,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Learning new (programming) languages](new-languages-2019-09-09) (Musing #896)  
 [Closures](closures-2019-09-11) (Musing #897)  
 [Finding my chill pill](chill-pill-2019-09-12) (Musing #898)  
+[Distributed knowledge](distributed-knowledge) (Musing #899)  

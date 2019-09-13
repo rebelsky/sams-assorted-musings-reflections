@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Finding my chill pill](chill-pill-2019-09-12) (Musing #898)
+[Distributed knowledge](distributed-knowledge) (Musing #899)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

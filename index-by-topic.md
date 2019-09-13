@@ -1250,6 +1250,10 @@ Rants
 
 > Regaining my composure.
 
+[Distributed knowledge](distributed-knowledge) (Musing #899)
+
+> And other changes to governance.
+
 Assorted talks and speeches
 ---------------------------
 
