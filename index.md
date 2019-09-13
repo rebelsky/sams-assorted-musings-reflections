@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Closures](closures-2019-09-11) (Musing #897)
+[Finding my chill pill](chill-pill-2019-09-12) (Musing #898)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

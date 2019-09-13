@@ -474,3 +474,7 @@ Rants
 
 > More expensive, but also more sensible, than it was three years ago.
 
+[Finding my chill pill](chill-pill-2019-09-12) (Musing #898)
+
+> Regaining my composure.
+
