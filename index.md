@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Distributed knowledge](distributed-knowledge) (Musing #899)
+[Distributed knowledge](distributed-knowledge-2019-09-13) (Musing #899)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
