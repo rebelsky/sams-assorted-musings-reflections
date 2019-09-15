@@ -2979,6 +2979,10 @@ Autobiographical essays, more or less
 
 > Notes for my family.
 
+[Those wacky Rebelskys](garners-modern-english-2019-09-14) (Musing #900)
+
+> Language quizzes and more.
+
 Salary reviews
 --------------
 
