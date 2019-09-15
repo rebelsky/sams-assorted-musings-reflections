@@ -37,8 +37,14 @@ phrase I think of as "for all intensive purposes" is really "for
 all intents and purposes" [15].  But it certainly makes sense.
 
 Of course, we're Rebelskys.  We don't always agree, with each other
-or with authorities [16].  what was the latest challenge?  Oh, yeah.
+or with authorities [16].  What was the latest challenge?  Oh, yeah.
 How should one pronounce "ophthalmologist"?
+
+---
+
+Postscript: How did Middle respond upon seing the title of this musing?  "Let's
+see how many typos we can find!"  And then he read it aloud, including
+all the punctuation [17].
 
 ---
 
@@ -49,7 +55,7 @@ assume that the introduction explains the renaming, but I have not read
 it yet.
 
 [3] I would be unlikely to write either of those statements; I
-suppose the real question is which one should write.
+suppose the real question is which one one *should* write.
 
 [4] Garner tells us to use "besought", noting both that the OED indicates
 that "beseeched" is "now regarded as incorrect" and that besought appears
@@ -98,10 +104,14 @@ asterisk, which indicates that it's a form to be avoided.
 
 [14] Or maybe someone else wrote the quizzes.
 
-[15] At least Grammarly gets this one right.
+[15] At least Grammarly gets this one correct.
 
 [16] Like Garner.
 
+[17] Unfortuantely, he has not learned Victor Borge's system.
+
 ---
 
-*Version 0.1 of 2019-09-14.*
+*Version 1.0 released 2019-09-14.*
+
+*Version 1.1 of 2019-09-14.*
