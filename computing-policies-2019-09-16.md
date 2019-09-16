@@ -53,11 +53,12 @@ hear that PC users feel lost on Macs.  Term faculty are expensive
 the best possible work out of them?  Is saving $1000 or $2000 really
 worth what we lose?  I think not.
 
-I hear that some staff also do not get to choose their operating
-system.  That also strikes me as troublesome.  There may be cases in
-which it is necessary that staff use a particular operating system,
-such as when software relevant to their position runs only on one OS.
-But other than that, they should also have freedom.
+I hear that some staff members also do not get to choose their
+operating system.  That also strikes me as troublesome.  There may
+be cases in which it is necessary that staff members use a particular
+operating system, such as when software relevant to their position
+runs only on one OS.  But other than that, they should also have
+freedom.
 
 ---
 
@@ -65,7 +66,7 @@ _**Detour**_
 
 I raised these concerns as soon as I saw the new policy [12].  I
 believe I first raised them with my Council rep, but I can no longer
-recall.  At some point the Dean's office got involved.  I thought
+recall.  At some point, the Dean's office got involved.  I thought
 I'd made my point, and changes would be made.  But I was wrong.
 
 During the first week or so of classes, I learned indirectly that
@@ -103,6 +104,9 @@ at reasonable cost).
 ---
 
 _**Returning from the detour**_
+
+_In case you have forgotten, I was enumerating some aspects of the
+new computing policies that bother me.  Here are a few more_
 
 4\. I am bothered about *the timing of the announcement*, particularly
 with regard to the budget cycle.  The policies, which take effect
@@ -235,13 +239,14 @@ quotation marks?  And does it matter that I seem to have changed
 
 [4] It's from Ralph Waldo Emerson's "Self Reliance".  I'm not sure why 
 I have difficulty recalling that, particularly given how often I use
-or mangle that statement..
+or mangle that statement.
 
 [5] Why can't we put our policies on a public Web site?  Are we embarrassed
 about them?
 
 [6] The _Software budgeting and purchasing policy_ has a _Software
-funding budgets process diagram_ and an _Additional funding sources_.
+funding budgets process diagram_ and an _Additional funding sources_
+list.
 The _Provision, Reuse, and Lifecycle Replacement of Endpoint Computing
 Devices_ has a _Lifecycle replacement process diagram_.
 
@@ -316,4 +321,4 @@ question on a multi-page survey? [28]
 
 ---
 
-*Version 0.2 of 2019-09-16.*
+*Version 0.3 of 2019-09-16.*
