@@ -9,7 +9,6 @@ the sketchbook._
 Tentative upcoming week
 -----------------------
 
-* Monday 9-16: New Computing policies.
 * ??? 9-1x: GHC/Tapia funding
 
 End of month
@@ -25,7 +24,10 @@ End of month
   many of that group also read [If you ask a prof a question].
 * More autobiographical postings than I had planned.  Happens.
 * Photos of campus posted to Facebook generated a lot of commentary.
-* "I was trying to find out more about Dave Robinson", 
+* Discovered by a student (well, an alum).  "I was trying to find out 
+  more about Dave Robinson", 
+* Muse pulls me in interesting directions.  Often feel that I have to
+  draft something just so I stop thinking about it.
 
 Short
 -----
@@ -115,6 +117,26 @@ up manuscript.  Corrections for a second edition?
 
 Long
 ----
+
+1. Stanford vs. Grinnell.
+Location: Stanford wins (unless you like isolation and snow).  Music
+lessons.  Grinnell wins, hand's down.  Cheaper (free vs. $750 for 
+non-majors, free vs. $375 for majors).  Available to all vs. by
+audition.  Class size: We win!  Diversity: Stanford wins!  Cost:
+Similar.
+
+1. Changing models of shared governance.  Here's what I had in the
+musing on music practica.  "Over the past ten years at Grinnell,
+and mostly over the past five years, we’ve seen a significant shift
+in the meaning of shared governance. These days, shared governance
+often feels more like representative governance, which isn’t quite
+the same. When I was a young faculty member, representative groups
+like Council suggested changes in policy, but allowed faculty to
+provide input and vote on those changes. Now, both the Dean’s office
+and a number of committees seem to consider it acceptable to change
+policy without broader discussion. I’m hoping that things will get
+better with our new Dean."  I'll probably also end up discussing
+ways in which faculty authority is being undermined.
 
 1. Section and compose.
 
