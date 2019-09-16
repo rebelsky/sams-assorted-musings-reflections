@@ -9,10 +9,8 @@ the sketchbook._
 Tentative upcoming week
 -----------------------
 
-* Thursday 9-12: Distributed knowledge.
-* Friday 9-13: New Computing policies.
-* Saturday 9-14: GHC/Tapia funding
-* Sunday 9-15: Weekly report
+* Monday 9-16: New Computing policies.
+* ??? 9-1x: GHC/Tapia funding
 
 End of month
 ------------
@@ -27,10 +25,14 @@ End of month
   many of that group also read [If you ask a prof a question].
 * More autobiographical postings than I had planned.  Happens.
 * Photos of campus posted to Facebook generated a lot of commentary.
-* "I was trying to find out more about Dave RObinson", 
+* "I was trying to find out more about Dave Robinson", 
 
 Short
 -----
+
+1. Qualtrics surveys and usability.  You never can tell whether the
+right arrow brings you to another page or finishes the survey.  Why
+do they design it like that?
 
 1. Syllabi.  A lot of compoaints that students don't seem to be reading
 the syllabus.  "Why didn't they get the reading done?"  "Why do they
