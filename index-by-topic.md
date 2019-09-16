@@ -1713,6 +1713,10 @@ online, but they will soon expand to more general issues about teaching._
 
 > Working on accessible assignments.
 
+[Pronouns](pronouns-2019-09-15) (Musing #901)
+
+> Attempting to be inclusive.
+
 Code camps
 ----------
 

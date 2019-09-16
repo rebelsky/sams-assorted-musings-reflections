@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Those wacky Rebelskys](garners-modern-english-2019-09-14) (Musing #900)
+[Pronouns](pronouns-2019-09-15) (Musing #901)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
