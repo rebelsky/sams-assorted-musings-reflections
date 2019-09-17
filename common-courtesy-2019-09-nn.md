@@ -25,7 +25,14 @@ Do people not get it?  Here's the simple explanation.
 **Addressing people by their chosen name and chosen pronoun is not
 "political correctness", it's _common courtesty_.**
 
+Get a clue, folks.
+
 ---
 
-*Version 0.1 of 2019-09-17.*
+Postscript: I suppose it would be overkill to add "If you don't think so,
+I'm choosing 'X' as your name and 'it' as your pronoun."
+
+---
+
+*Version 0.2 of 2019-09-17.*
 
