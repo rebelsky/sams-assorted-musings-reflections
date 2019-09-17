@@ -321,4 +321,4 @@ question on a multi-page survey? [28]
 
 ---
 
-*Version 0.3 of 2019-09-16.*
+*Version 1.0 of 2019-09-16.*

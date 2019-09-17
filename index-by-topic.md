@@ -1254,6 +1254,10 @@ Rants
 
 > And other changes to governance.
 
+[New computing policies](computing-policies-2019-09-16) (Musing #902)
+
+> More challenges to shared governance.
+
 Assorted talks and speeches
 ---------------------------
 
