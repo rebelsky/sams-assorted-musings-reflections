@@ -219,3 +219,7 @@ Grinnell.
 
 > A highlight of the Grinnell calendar.
 
+[A last-minute innovation-fund proposal](innovation-fund-2019-09-27) (Musing #903)
+
+> Beyond bean counting: A more humanistic approach to assessing Grinnell students’ individual curricula.
+

@@ -303,6 +303,8 @@ three, we would include that third cohort in year three.
 
 ---
 
+And that's what I submitted.
+
 One thing I dislike about the Innovation Fund process is that our
 answers to all of those questions have to fit into two pages.   As
 someone who served on the committee, I appreciate the requirement
@@ -360,4 +362,4 @@ page limits.
 
 ---
 
-*Version 0.1 of 2019-09-27.*
+*Version 1.0 of 2019-09-27.*

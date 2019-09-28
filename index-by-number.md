@@ -1173,3 +1173,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 
 [Pronouns](pronouns-2019-09-15) (Musing #901)  
 [New computing policies](computing-policies-2019-09-16) (Musing #902)  
+[A last-minute innovation-fund proposal](innovation-fund-2019-09-27) (Musing #903)  
