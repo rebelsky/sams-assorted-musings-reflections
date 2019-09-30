@@ -2501,6 +2501,10 @@ Grinnell.
 
 > Beyond bean counting: A more humanistic approach to assessing Grinnell students’ individual curricula.
 
+[Another last-minute innovation-fund proposal](innovation-fund-2019-09-29) (Musing #904)
+
+> Recentering Scholars' Convocation.
+
 A letter to the incoming chair
 ------------------------------
 

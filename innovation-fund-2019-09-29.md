@@ -15,10 +15,17 @@ along the way, found that a variety of concerns were raised.  And
 so we planned to drop the issue, at least for now.
 
 However, once I finished the draft of my first Innovation Fund proposal,
-I decided that I really do care enough about changing Convocation that
-I considered it appropriate to write a Planning proposal for that project.
-Such a proposal would permit more substantive discussions of the
-complications and might give us some directions forward.
+I decided that I really do care enough about changing Scholars'
+Convocation that I considered it appropriate to write a Planning
+proposal for that project.  Such a proposal would permit more
+substantive discussions of the complications and might give us some
+directions forward.  It helped that last Thursday's Convocation
+was wonderful [1].
+
+Unfortunately, my thoughts were less coherent for this proposal; I wish
+I'd had the chance to get my collaborators to read, correct, and
+contribute.  However, as I noted in the prior case, it's often better
+to submit and fail than not to submit at all [2].
 
 ---
 
@@ -92,7 +99,7 @@ experience was common, give them an opportunity to employ that
 broader knowledge in their other academic endeavors.
 
 Unfortunately, today's Scholars' Convocation series no longer
-achieves those important and lofty goals.  Many facotrs contribute
+achieves those important and lofty goals.  Many factors contribute
 to the change.  First, about fifteen years ago, the Faculty voted
 to reduce Convocation from twelve or so meetings per semester to
 only six.  This year, we have only four in the fall and five in the
@@ -163,7 +170,7 @@ a first step in restoring Scholars' Convocation to the center of a Grinnell
 education and providing a structure that permits Grinnell students to
 receive common exposure to a multitude of disciplines.
 
-_**Diversity and Inclusiveness:** [9]_
+_**Diversity and Inclusiveness:** [11]_
 
 _(How does the project contribute to a college community that maintains a diversity of people and perspectives as one of its core values?)_
 
@@ -196,10 +203,7 @@ _**Describe the project lead's qualifications (and co-leads if applicable):**_
 Professor Rebelsky has been on the faculty of Grinnell College for
 over twenty years.  
 
-As Grinnell's Director of Corporate, Foundation & Government Relations,
-Dr. Ferrari is aware of the broad range of ideas, interests, and
-endeavors on campus.  Dr. Ferrari was also one of the lead instigators
-of the recent, highly-successful, Convocation by Kate Manne.
+[...]
 
 _**Budget breakdown:**_
 
@@ -210,10 +214,20 @@ two leads.  $10,000.
 
 ---
 
+I know that this is not up to my normal standard of writing or thinking.
+Apologies to my co-leads!
+
 ---
 
-[1] In person and email.
+[1] I'll likely write a little bit about it in a few days.
+
+[2] Submitting does add a burden to the members of the Innovation Fund
+Committee.  If I didn't think the project was worthwhile, I would not have
+made the effort.  I hope that they can deal with a less-well-articulated
+proposal.
+
+[3] In person and email.
 
 ---
 
-*Version 0.1 of 2019-09-27.*
+*Version 1.0 of 2019-09-29.*

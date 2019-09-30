@@ -9,7 +9,8 @@ If you'd like, you can read [a longer introduction](intro-musings-v0).
 If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
-Latest musing: [A last-minute innovation-fund proposal](innovation-fund-2019-09-27) (Musing #903)
+Latest musing: 
+[Another last-minute innovation-fund proposal](innovation-fund-2019-09-29) (Musing #904)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
