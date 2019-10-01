@@ -1175,3 +1175,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [New computing policies](computing-policies-2019-09-16) (Musing #902)  
 [A last-minute innovation-fund proposal](innovation-fund-2019-09-27) (Musing #903)  
 [Another last-minute innovation-fund proposal](innovation-fund-2019-09-29) (Musing #904)  
+[Another month of daily musings](another-month-2019-09-30) (Musing #905)  

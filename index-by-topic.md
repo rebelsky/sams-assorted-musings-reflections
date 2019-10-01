@@ -464,6 +464,10 @@ most of them here._
 
 > Reflections on my return to the musings.
 
+[Another month of daily musings](another-month-2019-09-30) (Musing #905)
+
+> Getting comfortable with the lapses.
+
 For prospective students, parents of prospective students, and others with similar interests
 --------------------------------------------------------------------------------------------
 
