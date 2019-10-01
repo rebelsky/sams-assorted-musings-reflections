@@ -59,7 +59,7 @@ with it?
 music advisees who play two instruments and sing.  At the end of
 their careers, those students will typically want to perform recitals
 in each (two credits per recital, six credits total) and to continue
-performing in their ensembles (another 2 credits).  Those students
+performing in their ensembles (another two credits).  Those students
 will be doing eight credits of real work.  After all, you can't
 slack off in either recitals or ensembles.  So why can't they receive
 those credits?
