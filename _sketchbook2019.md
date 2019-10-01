@@ -9,32 +9,46 @@ the sketchbook._
 Tentative upcoming week
 -----------------------
 
-* ??? 9-1x: GHC/Tapia funding
+* 10-01: Convo
+* 10-02: Jen Jacobsen (write the prior day, get approval)
+* 10-03: Rant on personnel reviews and EOCEs
+* ??? GHC/Tapia funding
 
 End of month
 ------------
 
-* Started writing about what I read.  The Facebook list of book covers was
-  a useful detour, too.
-* Rants?
-* Had the pleasure of being connected to the children of the author of
-  one of my most-loved books.
-* Heard from a variety of ECFS that they read my musings.  I'm still not
-  sure what to do with that.  It feels a bit like the time I heard that
-  many of that group also read [If you ask a prof a question].
-* More autobiographical postings than I had planned.  Happens.
-* Photos of campus posted to Facebook generated a lot of commentary.
-* Discovered by a student (well, an alum).  "I was trying to find out 
-  more about Dave Robinson", 
-* Muse pulls me in interesting directions.  Often feel that I have to
-  draft something just so I stop thinking about it.
-
 Short
 -----
+
+1. Convocation.  Last week, I attended one of the best Scholars'
+Convocations I've attended in some time.  ??? ??? spoke about ????.
+Since she asked that we not take pictures or live Tweet her session,
+it seems that I should not write much about the content.  Nonetheless,
+I can write a bit about the form.  [See notes on phone.]  Thanks
+to all those who made this visit possible: Susan Ferrari, the
+Philosophy department, our GWSS committee [isn't it time that GWSS
+becomes a department?], and others that I'm probably missing.
+
+1. Fairness.  A bit ago, my department was in a training session and
+someone posted a question for us to discuss.  I think it went like
+this: "A student comes to you and asks for an extension on some
+work because they are feeling stress from an assault that happened
+a year ago.  What do you do?"  My answer was "Give them the extension
+and then make sure that they have someone that they were talking to."
+A colleague noted that it's not necessarily equitable to give someone
+an extension, since you haven't given everyone an extension.  I'm pretty
+sure that my students know that I'm a softy [literally and figuratively],
+so I don't think that's an issue for me.  I was somewhat sympathetic to
+my colleague's point, even though it's not my approach.  But our speaker
+had an interesting take on the matter.  If I recall correctly, it was
+"Not everyone is coming from the same place.  Equity can take many forms."
+And they were right.
 
 1. Qualtrics surveys and usability.  You never can tell whether the
 right arrow brings you to another page or finishes the survey.  Why
 do they design it like that?
+
+1. Common courtesty.  (Already written.)
 
 1. Syllabi.  A lot of compoaints that students don't seem to be reading
 the syllabus.  "Why didn't they get the reading done?"  "Why do they
@@ -48,6 +62,9 @@ students the record all of their assignments from their calendars.
 
 1. Persnickety.  List of new faculty.  Minutes of the last faculty
 meeting.
+
+1. Changes at Chicago.  Who the hell is Phil the Phoenix?  What year
+were we founded?
 
 1. LibraryThing and CueCat.
 
@@ -118,6 +135,15 @@ up manuscript.  Corrections for a second edition?
 Long
 ----
 
+1. Personnel reviews and EOCEs.  Just let it fly.
+
+1. New dorm evacuation policies.  Finals vs. when work is done.  What
+we tell parents.  Students who need to work.  Graduation.  Students
+who need to go to other places.  Etc.
+
+1. Music practica.  I think I need to do some more background research
+on this one.  But it is blocked off.
+
 1. Stanford vs. Grinnell.
 Location: Stanford wins (unless you like isolation and snow).  Music
 lessons.  Grinnell wins, hand's down.  Cheaper (free vs. $750 for 
@@ -145,7 +171,7 @@ ways in which faculty authority is being undermined.
 I gave them a short answer, but promised that I'd muse more about it.  Here's
 my short answers.  That's a large question.  I'll give a brief answer for the time being and come back to it later (probably as a musing).  For my case, it's not that hard to find meaning in what I do: I help young adults learn and grow.  I believe that makes a positive impact.  At least every few years, I hear from a student or recent alum who tells me that they wouldn't have finished Grinnell without me.  That's enough for me.
 
-But that kind of meaning only applies to a few jobs.  So how do you find meaning or purpose in other kinds of work?  In some cases (perhaps in many cases) you can identify a part of what you or your company does that has a positive impact.  For example, you help people experience the joy of music.  I firmly believe that music is good for humans.  (We'll ignore the cognitive dissonance of the less good things that your company does.)  Some people find joy, rather than meaning, in what they do.  Joy is not as powerful as meaning, but it's still a reason to do things.  Still others look at their current work as a pathway to other things; a few years building skills and then you can go on to do something more meaningful/purposeful.  A few treat the purpose of work as providing resources for things they otherwise value, such as money/time to donate to causes of import.
+    But that kind of meaning only applies to a few jobs.  So how do you find meaning or purpose in other kinds of work?  In some cases (perhaps in many cases) you can identify a part of what you or your company does that has a positive impact.  For example, you help people experience the joy of music.  I firmly believe that music is good for humans.  (We'll ignore the cognitive dissonance of the less good things that your company does.)  Some people find joy, rather than meaning, in what they do.  Joy is not as powerful as meaning, but it's still a reason to do things.  Still others look at their current work as a pathway to other things; a few years building skills and then you can go on to do something more meaningful/purposeful.  A few treat the purpose of work as providing resources for things they otherwise value, such as money/time to donate to causes of import.
 goes.
 
 1. Who should own the student handbook?
@@ -171,11 +197,11 @@ Helen.
 "He said that from these students' perspective, 'here I am and I don't have political and economic power..."
 This line made me go "What, now?" in relation to the Hampshire case. While I do understand that, regardless of income, education, etc., white people do have some advantages over non-whites simply because of race, we also have to acknowledge the likelihood that the person who graduates from a selective, expensive private liberal arts college in Massachusetts will likely have more political and economic power than a Maine Community College graduate, regardless of race.
 
-I think it would be helpful for students-and we are talking about students, college students, who, regardless of where they came from, will enter into adulthood with an advantage over their non-college graduate friends and family members-to understand the relative power and advantage that their education will bestow upon them. A college degree doesn't erase racism, it doesn't equalize privilege, but is simply inaccurate to assume that a college student doesn't "have political and economic power."
+    I think it would be helpful for students-and we are talking about students, college students, who, regardless of where they came from, will enter into adulthood with an advantage over their non-college graduate friends and family members-to understand the relative power and advantage that their education will bestow upon them. A college degree doesn't erase racism, it doesn't equalize privilege, but is simply inaccurate to assume that a college student doesn't "have political and economic power."
 
-When I was in college, a wonderful, expensive (I'm white, but was on scholarship) liberal arts college set in a beautiful but economically depressed area, there was an incident in which a Latina student overheard a custodial staff member (back in the days before contract hiring...) make a unambiguously racist comment in a private conversation with a co-worker. The student complained, and the staff member was fired. A professor pointed out, a few years later, that the student, now an alum, had an excellent job in finance in lower Manhattan, and the former custodial staff member remained unemployed, his family uninsured, and asked us to ponder who really had power there. It was perhaps the most valuable thing I learned in college-not understanding how much power you really have can lead to unintended damage.
+    When I was in college, a wonderful, expensive (I'm white, but was on scholarship) liberal arts college set in a beautiful but economically depressed area, there was an incident in which a Latina student overheard a custodial staff member (back in the days before contract hiring...) make a unambiguously racist comment in a private conversation with a co-worker. The student complained, and the staff member was fired. A professor pointed out, a few years later, that the student, now an alum, had an excellent job in finance in lower Manhattan, and the former custodial staff member remained unemployed, his family uninsured, and asked us to ponder who really had power there. It was perhaps the most valuable thing I learned in college-not understanding how much power you really have can lead to unintended damage.
 
-I am not excusing what the guy said. While it was not threatening, and it was not directed toward an individual, it was demeaning, ignorant, and indeed very racists. Still, though, I get really sad when I think of the guy losing his job. I lost a job once. It was not fun. And I got another job very quickly. Because I am a college educated person.
+    I am not excusing what the guy said. While it was not threatening, and it was not directed toward an individual, it was demeaning, ignorant, and indeed very racists. Still, though, I get really sad when I think of the guy losing his job. I lost a job once. It was not fun. And I got another job very quickly. Because I am a college educated person.
 
 1. Signatures (see below)
 
