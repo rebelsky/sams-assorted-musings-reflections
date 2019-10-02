@@ -227,3 +227,7 @@ Grinnell.
 
 > Recentering Scholars' Convocation.
 
+[Last week's Scholars' Convocation](convo-2019-10-01) (Musing #906)
+
+> A good reason to recenter Scholars' Convocation.
+
