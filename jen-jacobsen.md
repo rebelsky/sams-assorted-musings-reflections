@@ -82,6 +82,16 @@ does._
 
 ---
 
+Postscript: As I was reflecting back on this musing and on my 
+interactions with Jen, I realized that I missed one really important
+thing: Jen was instrumental during the time about seven years ago
+when I most successfully worked on my weight and wellness.  I'm trying 
+to get back to that state, but it's much harder seven years later.
+In any case, I appreciate all that Jen did to help at that time.
+Thanks Jen!
+
+---
+
 [1] For example, the notes I wrote earlier this semester include
 the observation that "Jen does enough teaching of our students that
 should get the title of Lecturer."
@@ -137,4 +147,4 @@ people unwilling to speak out.
 
 ---
 
-*Version 0.3 of 2019-10-01.*
+*Version 0.4 of 2019-10-03.*
