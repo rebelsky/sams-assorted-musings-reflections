@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing: 
-[Last week's Scholars' Convocation](convo-2019-10-01) (Musing #906)
+[The joy of upgrades](upgrades-2019-10-02) (Musing #907)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

@@ -486,3 +486,7 @@ Rants
 
 > More challenges to shared governance.
 
+[The joy of upgrades](upgrades-2019-10-02) (Musing #907)
+
+> Do they ever go smoothly?
+
