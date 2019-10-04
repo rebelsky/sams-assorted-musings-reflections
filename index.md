@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing: 
-[Nominations for the Grinnell Lecture](grinnell-lecture-2019-10-03) (Musing #908)
+[Grinnellians you should know: Jen Jacobsen '95](jen-jacobsen) (Musing #909)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

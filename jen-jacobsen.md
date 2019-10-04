@@ -34,9 +34,7 @@ expresses that thoughtfulness in a variety of ways, from formal
 programs to informal advice.  She's willing to challenge things.
 I particularly appreciate that she's willing to challenge *me*; I
 can count on a challenge from Jen for at least one musing per week.
-She's willing to take risks to move things forward.  I know of few
-people who have made such a positive impact on the student experience
-at Grinnell.
+She's also willing to take risks to move things forward.  
 
 I appreciate our many interactions, which have ranged from informal
 conversations and Facebook posts to week-long workshops on supporting
@@ -53,10 +51,12 @@ she made significant contributions to Al Jones' _Pioneering_.  She
 was also active as a varsity athlete.  I'm sure there's more, but
 I haven't had enough opportunities to talk to her about it.
 
-There's much more I could write.  There's probably more that I should
-write.  But I'm reluctant to go deeply into any particular stories.
-Take the time to get to know her, and you'll find the investment well
-worth your time.
+There's much more I could write.  There's probably more that I
+should write.  But I'm reluctant to go deeply into any particular
+stories.  In the end, I should just say that I know of few people
+who have made such a positive impact on the student experience at
+Grinnell.  Take the time to get to know her, and you'll find the
+investment well worth your time.
 
 ---
 
@@ -147,4 +147,4 @@ people unwilling to speak out.
 
 ---
 
-*Version 0.4 of 2019-10-03.*
+*Version 1.0 of 2019-10-04.*

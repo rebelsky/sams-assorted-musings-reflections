@@ -1179,3 +1179,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Last week's Scholars' Convocation](convo-2019-10-01) (Musing #906)  
 [The joy of upgrades](upgrades-2019-10-02) (Musing #907)  
 [Nominations for the Grinnell Lecture](grinnell-lecture-2019-10-03) (Musing #908)  
+[Jen Jacobsen '95](jen-jacobsen) (Musing #909)  

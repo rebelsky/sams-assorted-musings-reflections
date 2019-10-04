@@ -93,6 +93,10 @@ Grinnellians you should know (or know about)
 
 > Brash reformer.
 
+[Jen Jacobsen '95](jen-jacobsen) (Musing #909)
+
+> Wellness czar.  Change maker.  Student advocate.  And more.
+
 [Terian Koscik '12](terian-koscik) (Musing #129)
 
 > Artist, programmer, cartoonist, supporter of the next generation of
