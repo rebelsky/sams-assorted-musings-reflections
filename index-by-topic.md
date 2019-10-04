@@ -2150,6 +2150,10 @@ Grinnellians you should know (or know about)
 
 > Or, more precisely, why I'm *not* writing about individual students.
 
+[Nominations for the Grinnell Lecture](grinnell-lecture-2019-10-03) (Musing #908)
+
+> Too many awesome candidates.
+
 ---
 
 [Brandy Agerbeck '96](brandy-agerbeck) (Musing #127)

@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing: 
-[The joy of upgrades](upgrades-2019-10-02) (Musing #907)
+[Nominations for the Grinnell Lecture](grinnell-lecture-2019-10-03) (Musing #908)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
