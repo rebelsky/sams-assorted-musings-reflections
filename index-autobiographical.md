@@ -389,3 +389,7 @@ Autobiographical essays, more or less
 
 > Language quizzes and more.
 
+[The Beatles](beatles-2019-10-05) (Musing #910)
+
+> My muse made me do it.
+

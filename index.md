@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing: 
-[Grinnellians you should know: Jen Jacobsen '95](jen-jacobsen) (Musing #909)
+[The Beatles](beatles-2019-10-05) (Musing #910)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
