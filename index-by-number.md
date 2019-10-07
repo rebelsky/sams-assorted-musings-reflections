@@ -1181,3 +1181,7 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Nominations for the Grinnell Lecture](grinnell-lecture-2019-10-03) (Musing #908)  
 [Jen Jacobsen '95](jen-jacobsen) (Musing #909)  
 [The Beatles](beatles-2019-10-05) (Musing #910)  
+
+## 911-920
+
+[Using comments from end-of-course evaluations](eoce-comments-2019-10-05) (Musing #911)  
