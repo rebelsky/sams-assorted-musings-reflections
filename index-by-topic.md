@@ -1266,7 +1266,7 @@ Rants
 
 > Do they ever go smoothly?
 
-[Using comments from end-of-course evaluations](eoce-comments-2019-10-05) (Musing #911)
+[Using comments from end-of-course evaluations](eoce-comments-2019-10-06) (Musing #911)
 
 > The purview of the faculty member and the review chair.
 

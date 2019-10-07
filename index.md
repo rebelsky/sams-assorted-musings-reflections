@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing: 
-[Using comments from end-of-course evaluations](eoce-comments-2019-10-05) (Musing #911)
+[Using comments from end-of-course evaluations](eoce-comments-2019-10-06) (Musing #911)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
