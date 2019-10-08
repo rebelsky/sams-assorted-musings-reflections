@@ -1270,6 +1270,10 @@ Rants
 
 > The purview of the faculty member and the review chair.
 
+[Dorm departures](dorm-departures-2019-10-07) (Musing #912)
+
+> I may be losing my touch.
+
 Assorted talks and speeches
 ---------------------------
 
