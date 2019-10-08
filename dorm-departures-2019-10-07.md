@@ -59,4 +59,4 @@ in the article.
 
 ---
 
-*Version 1.0 of 2019-10-07.
+*Version 1.0 of 2019-10-07.*

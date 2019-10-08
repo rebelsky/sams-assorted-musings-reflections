@@ -120,4 +120,4 @@ in the Dean's office as an appropriate representative of the faculty.
 
 ---
 
-*Version 1.0 of 2019-10-07.
+*Version 1.0 of 2019-10-07.*
