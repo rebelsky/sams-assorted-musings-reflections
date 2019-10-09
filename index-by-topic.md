@@ -1737,6 +1737,10 @@ online, but they will soon expand to more general issues about teaching._
 
 > Attempting to be inclusive.
 
+[Equity](equity-2019-10-08) (Musing #913)
+
+> Different approaches and different models.
+
 Code camps
 ----------
 

@@ -1186,3 +1186,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 
 [Using comments from end-of-course evaluations](eoce-comments-2019-10-06) (Musing #911)  
 [Dorm departures](dorm-departures-2019-10-07) (Musing #912)  
+[Equity](equity-2019-10-08) (Musing #913)  
