@@ -3907,6 +3907,10 @@ Almost everything else
 
 > I need a life, or at least my own Web server.
 
+[Reading the AP CS Principles exam](reading-csp-2019-10-09) (Musing #914)
+
+> A week of grading sounds horrible.  But it can actually be a lot of fun.
+
 Musings with multiple entries
 -----------------------------
 

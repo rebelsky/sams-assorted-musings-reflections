@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing: 
-[Equity](equity-2019-10-08) (Musing #913)
+[Reading the AP CS Principles exam](reading-csp-2019-10-09) (Musing #914)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
