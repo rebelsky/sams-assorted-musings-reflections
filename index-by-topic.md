@@ -1274,6 +1274,10 @@ Rants
 
 > I may be losing my touch.
 
+[Visiting the Naismith Basketball Hall of Fame](naismith-museum-2019-10-10) (Musing #915)
+
+> Selling the legacy.
+
 Assorted talks and speeches
 ---------------------------
 

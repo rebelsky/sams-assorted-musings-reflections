@@ -1188,3 +1188,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Dorm departures](dorm-departures-2019-10-07) (Musing #912)  
 [Equity](equity-2019-10-08) (Musing #913)  
 [Reading the AP CS Principles exam](reading-csp-2019-10-09) (Musing #914)  
+[Visiting the Naismith Basketball Hall of Fame](naismith-museum-2019-10-10) (Musing #915)  

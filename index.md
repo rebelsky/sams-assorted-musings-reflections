@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing: 
-[Reading the AP CS Principles exam](reading-csp-2019-10-09) (Musing #914)
+[Visiting the Naismith Basketball Hall of Fame](naismith-museum-2019-10-10) (Musing #915)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
