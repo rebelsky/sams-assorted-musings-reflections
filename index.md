@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing: 
-[Visiting the Naismith Basketball Hall of Fame](naismith-museum-2019-10-10) (Musing #915)
+[Dishwashers](dishwashers-2019-10-11) (Musing #916)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

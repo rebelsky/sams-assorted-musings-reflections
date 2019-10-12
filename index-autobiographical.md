@@ -393,3 +393,7 @@ Autobiographical essays, more or less
 
 > My muse made me do it.
 
+[Dishwashers](dishwashers-2019-10-11) (Musing #916)
+
+> And their proper use.
+
