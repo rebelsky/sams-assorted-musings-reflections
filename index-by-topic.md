@@ -3919,6 +3919,10 @@ Almost everything else
 
 > A week of grading sounds horrible.  But it can actually be a lot of fun.
 
+[Visiting Mass MoCA](mass-moca-2019-10-12) (Musing #917)
+
+> I needed a week (or more).
+
 Musings with multiple entries
 -----------------------------
 
