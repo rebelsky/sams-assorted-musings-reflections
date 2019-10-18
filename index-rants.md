@@ -502,3 +502,7 @@ Rants
 
 > Selling the legacy.
 
+[My name is Sam and I'm a green alien (failures in captioning)](green-alien-2019-10-18) (Musing #918)
+
+> The wonders of auto-caption.
+

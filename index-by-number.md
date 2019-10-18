@@ -1191,3 +1191,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Visiting the Naismith Basketball Hall of Fame](naismith-museum-2019-10-10) (Musing #915)  
 [Dishwashers](dishwashers-2019-10-11) (Musing #916)  
 [Visiting Mass MoCA](mass-moca-2019-10-12) (Musing #917)  
+[My name is Sam and I'm a green alien (failures in captioning)](green-alien-2019-10-18) (Musing #918)  
