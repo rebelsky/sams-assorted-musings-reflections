@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[My name is Sam and I'm a green alien (failures in captioning)](green-alien-2019-10-18) (Musing #918)
+[None]
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
