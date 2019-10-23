@@ -1356,6 +1356,11 @@ On life in academia
 
 > Different definitions of "wacky".
 
+[Faculty contracts](faculty-contracts-2019-10-22) (MUsing #919)
+
+> Is the _Handbook_ our contract? 
+
+
 Thank-You Notes
 ---------------
 

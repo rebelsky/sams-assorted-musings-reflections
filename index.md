@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[None]
+[Faculty contracts](faculty-contracts-2019-10-22) (MUsing #919)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
