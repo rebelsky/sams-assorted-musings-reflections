@@ -1192,4 +1192,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Dishwashers](dishwashers-2019-10-11) (Musing #916)  
 [Visiting Mass MoCA](mass-moca-2019-10-12) (Musing #917)  
 *Deleted* (Musing #918)  
-[Faculty contracts](faculty-contracts-2019-10-22) (MUsing #919)  
+[Faculty contracts](faculty-contracts-2019-10-22) (Musing #919)  
