@@ -17,10 +17,12 @@ There's an ACM [3] SIG [4] Governing board meeting that weekend.
 As Vice-Chair of SIGCAS, I should attend.  I've also learned a lot
 by attending SGB [5] meetings.
 
-There's a small CS symposium at the University of Iowa.  That's not
-something I have to attend, but it's something I'd like to attend
-to strengthen contacts with UIowa and to support our students who
-would be attending to consider graduate options.
+There's a small [Graduate Research in CS symposium at the University
+of
+Iowa](https://cs.uiowa.edu/graduate-programs/2019-prospective-student-visit-day-and-graduate-research-symposium).
+That's not something I have to attend, but it's something I'd like
+to attend to strengthen contacts with UIowa and to support our
+students who would be attending to consider graduate options.
 
 I've just learned that [Grinnell's second multicultural alumni
 weekend](https://alumni.grinnell.edu/events/event-registrations/multicultural-alumni-reunion-2019)
@@ -63,4 +65,4 @@ name reminded them of a social services program.
 
 ---
 
-*Version 0.1 of 2019-10-23.*
+*Version 1.0 of 2019-10-23.*

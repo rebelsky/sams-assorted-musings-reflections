@@ -1616,6 +1616,10 @@ Overcommitment
 
 > Projects big and small.
 
+[Too many opportunities](opportunities-2019-10-23) (Musing #920)
+
+> I'm glad I don't have to choose.
+
 On teaching 
 -----------
 

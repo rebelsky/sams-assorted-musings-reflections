@@ -1193,3 +1193,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Visiting Mass MoCA](mass-moca-2019-10-12) (Musing #917)  
 *Deleted* (Musing #918)  
 [Faculty contracts](faculty-contracts-2019-10-22) (Musing #919)  
+[Too many opportunities](opportunities-2019-10-23) (Musing #920)  
