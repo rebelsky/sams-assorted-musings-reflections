@@ -506,3 +506,7 @@ Rants
 
 > Withdrawn.
 
+[Syllabus guidelines](syllabus-guidelines-2019-11-03) (Musing #921)
+
+> Some good, some less good.
+

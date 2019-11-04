@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Too many opportunities](opportunities-2019-10-23) (Musing #920)
+[Syllabus guidelines](syllabus-guidelines-2019-11-03) (Musing #921)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
