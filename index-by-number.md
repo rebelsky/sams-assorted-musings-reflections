@@ -1198,3 +1198,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 ## 921-930
 
 [Syllabus guidelines](syllabus-guidelines-2019-11-03) (Musing #921)  
+[Volleyball](volleyball-2019-11-04) (Musing #922)  

@@ -231,3 +231,7 @@ Grinnell.
 
 > A good reason to recenter Scholars' Convocation.
 
+[Volleyball](volleyball-2019-11-04) (Musing #922)
+
+> Another successful season.
+

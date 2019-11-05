@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Syllabus guidelines](syllabus-guidelines-2019-11-03) (Musing #921)
+[Volleyball](volleyball-2019-11-04) (Musing #922)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
