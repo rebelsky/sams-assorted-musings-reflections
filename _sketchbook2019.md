@@ -9,59 +9,95 @@ the sketchbook._
 Tentative upcoming week
 -----------------------
 
-* 10-01: Convo
-* 10-02: Jen Jacobsen (write the prior day, get approval)
-* 10-03: Rant on personnel reviews and EOCEs
-* ??? GHC/Tapia funding
-
 End of month
 ------------
+
+* Two months.
+* Followup on the upgrades one.  Two days later, I had 400,000 messages
+  to download.  After five hours in my office, it had downloaded about
+  a third of those.  Will it ever finish?  
+* Plus a wonderful message each night: "The operation couldn't be 
+  completed.  (MCMailErrorDomain error 1030.)"
+* Took down a musing that I thought was a light approach to a complex
+  topic but that offended a colleague.
+* Had a long period in which I didn't have the mental energy to muse.
+  Glad that I got back to it.
 
 Short
 -----
 
-1. Convocation.  Last week, I attended one of the best Scholars'
-Convocations I've attended in some time.  ??? ??? spoke about ????.
-Since she asked that we not take pictures or live Tweet her session,
-it seems that I should not write much about the content.  Nonetheless,
-I can write a bit about the form.  [See notes on phone.]  Thanks
-to all those who made this visit possible: Susan Ferrari, the
-Philosophy department, our GWSS committee [isn't it time that GWSS
-becomes a department?], and others that I'm probably missing.
+1. Persnickety.  List of new faculty.  Minutes of the last faculty
+meeting.  (Perhaps this one does not need to exist any more, but it
+could also be a quick release.)
 
-1. Fairness.  A bit ago, my department was in a training session and
-someone posted a question for us to discuss.  I think it went like
-this: "A student comes to you and asks for an extension on some
-work because they are feeling stress from an assault that happened
-a year ago.  What do you do?"  My answer was "Give them the extension
-and then make sure that they have someone that they were talking to."
-A colleague noted that it's not necessarily equitable to give someone
-an extension, since you haven't given everyone an extension.  I'm pretty
-sure that my students know that I'm a softy [literally and figuratively],
-so I don't think that's an issue for me.  I was somewhat sympathetic to
-my colleague's point, even though it's not my approach.  But our speaker
-had an interesting take on the matter.  If I recall correctly, it was
-"Not everyone is coming from the same place.  Equity can take many forms."
-And they were right.
+1. Eggnog and other holiday memories.  See file.
+
+1. Changing names.  (ACM Policies.)
+
+1. Lost opportunities.  See file.
+
+1. Strange jokes.  Watching _Superstore_ (well, having it on in the
+background while musing).  One of the episodes has the following
+sign: "Let Cloud 9 design your chuppah.  It's L'Cheavenly."  Season 1,
+Episode 8, 8:57.  Who thinks to put something like that in a tv show?
+
+1. Quiche.  When I was a teenager and a young adult, I made quiche
+regularly.  The other day, I ordered quiche for lunch and Eldest
+Son said, "What's quiche?"  What have I done wrong?
+
+1. GrinCam.  <https://comm.sites.grinnell.edu/watch-the-transformation/>.
+In my quest to take interesting photos from around campus (at least 
+interesting to me), I took a photo of what I thought was the 
+"construction camera", the camera we used to provide a live feed of
+the construction of the new HSSC.  It turns out that the thing I took
+a picture of was not that camera.  I'm not sure what purpose it serves.
+But it's nice to be able to look at the weather.  Privacy?
+
+1. The Functional Art.  <https://www.amazon.com/Functional-Art-introduction-information-visualization-ebook/dp/B0091SXDOM/>  When I saw the title, I was
+very excited.  After all, functional art is what I do.  (Functional, as
+in functional programming.)  I also appreciate craft.
 
 1. Qualtrics surveys and usability.  You never can tell whether the
 right arrow brings you to another page or finishes the survey.  Why
 do they design it like that?
 
+1. Comments on my musings.  I include [whatever the annotation software
+is] on every page.  But the only way I know that someone has commented
+is that they send me a note.  I wonder if there's a way to do that
+automagically.
+
+1. Rethinking my approach.  Often, when I talk to close colleagues
+who work in one of the areas of campus I tend to criticize, I tell
+them that they should let me know if I've stepped over the line.
+Their normal response is something like "It doesn't bother me, but
+I know it bothers some people I work with.  And you don't always
+get things right.  Even when you do, there are a lot of factors you
+don't know about."  I expect that's true.  And I've increasingly
+been trying to moderate my approach.  But I don't think I'm going to
+stop doing what I do.  Most of the things I muse about are things that
+other folks are saying.  Isn't it better to have things out in public,
+rather than discussed behind peoples' backs?
+
+1. I hate Lincare.  I have sleep apnea.  I've been using a CPAP for
+about eighteen years.  I'm a compliant patient; I'm not sure I've
+missed a night in those eighteen years except when something went
+wrong (e.g., I lost the mask while on a trip).  I just switched to
+my third CPAP.  I used Lincare, the same company I've used for all eighteen
+years.  But Lincare no longer has a Grinnell office, and dealing with
+the remote offices has not been a good experience, to say the least.
+
 1. Common courtesty.  (Already written.)
 
-1. Syllabi.  A lot of compoaints that students don't seem to be reading
-the syllabus.  "Why didn't they get the reading done?"  "Why do they
-think the homework I gave out is due on this Monday and not next Monday?"
-But syllabi (or at least our forms of syllabi) may be strange to
-first-year students.  It's one of the reasons that when I'm a
-Tutorial prof, I devote time in the third-or-so Tutorial meeting for
-students the record all of their assignments from their calendars.
+1. Syllabi.  At the start of the semeter, I heard a lot of complaints
+that students don't seem to be reading the syllabus.  "Why didn't
+they get the reading done?"  "Why do they think the homework I gave
+out is due on this Monday and not next Monday?" But syllabi (or at
+least our forms of syllabi) may be strange to first-year students.
+It's one of the reasons that when I'm a Tutorial prof, I devote
+time in the third-or-so Tutorial meeting for students the record
+all of their assignments from their calendars.
 
 1. Nonsequiters anonymous?
-
-1. Persnickety.  List of new faculty.  Minutes of the last faculty
-meeting.
 
 1. Changes at Chicago.  Who the hell is Phil the Phoenix?  What year
 were we founded?
@@ -130,16 +166,17 @@ https://jewishjournal.com/cover_story/295918/were-jews-were-not-white-we-define-
 Intriguing to have a marked up manuscript, or what seems to be a marked
 up manuscript.  Corrections for a second edition?
 
-1. When upgrades make things worse.  
+1. When upgrades make things worse. (Damn, what was I thinking about?)
+
+1. Stagg on football.  https://archive.org/details/ascientificandp00willgoog/
+And people reading it  https://archive.org/details/treatisefootball_1906_librivox.  LibriVox.  Interesting.
 
 Long
 ----
 
-1. Personnel reviews and EOCEs.  Just let it fly.
+1. Dealing with students with prior background in CS.
 
-1. New dorm evacuation policies.  Finals vs. when work is done.  What
-we tell parents.  Students who need to work.  Graduation.  Students
-who need to go to other places.  Etc.
+1. Personnel reviews and EOCEs.  Just let it fly.
 
 1. Music practica.  I think I need to do some more background research
 on this one.  But it is blocked off.
@@ -184,7 +221,7 @@ goes.
 
 1. New office.
 
-1. The new replacement policy.
+1. The new replacement policy.  (Cmoputer replacement?)
 
 1. Re-planning sabbatical.
 
@@ -202,6 +239,8 @@ This line made me go "What, now?" in relation to the Hampshire case. While I do 
     When I was in college, a wonderful, expensive (I'm white, but was on scholarship) liberal arts college set in a beautiful but economically depressed area, there was an incident in which a Latina student overheard a custodial staff member (back in the days before contract hiring...) make a unambiguously racist comment in a private conversation with a co-worker. The student complained, and the staff member was fired. A professor pointed out, a few years later, that the student, now an alum, had an excellent job in finance in lower Manhattan, and the former custodial staff member remained unemployed, his family uninsured, and asked us to ponder who really had power there. It was perhaps the most valuable thing I learned in college-not understanding how much power you really have can lead to unintended damage.
 
     I am not excusing what the guy said. While it was not threatening, and it was not directed toward an individual, it was demeaning, ignorant, and indeed very racists. Still, though, I get really sad when I think of the guy losing his job. I lost a job once. It was not fun. And I got another job very quickly. Because I am a college educated person.
+
+1. Lost to the Kerf (see page).
 
 1. Signatures (see below)
 
