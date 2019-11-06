@@ -1,0 +1,75 @@
+Eggnog (and other holiday memories)
+===================================
+
+*Topics/tags: [Autobiographical](index-autobiographical)*
+
+The other day, I opened a bottle of pre-made eggnog.  (That's eggnog
+with alcohol, in case you were wondering.)  Strangely enough, it
+brought back memories of my childhood.  What memories?  Well, when
+I was young, my parents regularly threw a party which they to which
+they assigned the politically incorrect name [1] of "Jews eat and
+drink; Christians decorate the tree; choose your religion for the
+evening."  So many aspects of that party flit through my brain,
+from the attendees who believed that you should hang tinsel one
+strand at a time to my father's tendency to purchase the tree at the
+last possible moment.  I also recall the struggles mom and I had
+with a few too-tall trees, particularly getting them in the stand.
+And, of course, there were the times that one of the dogs [4] knocked
+over the tree.  Mom had some beautiful goose egg ornaments that
+seemed to decrease in number each year because of damage [5].
+
+Where was I?  Oh, that's right.  Eggnog.  One of the long-time
+attendees at the party, Michael S, always brought eggnog that he made.
+This was the days before people worried about salmonella [2], so
+he generally let the eggnog mellow for two weeks before the party.
+I expect that the quantities of bourbon and whiskey that were in
+the eggnog also kept down the dangers.  So, when I think of eggnog,
+I think of Michael S's eggnog.  My memories of the taste are not exact,
+but I look for the smooth mixture of whipped cream and eggs along
+with the bite of the alcohol.
+
+Middle Son is talking about making real eggnog again this year.
+He's decided that he can use his *sous vide* device to pasturize
+the eggs while keeping them liquid.  We'll see.  I suppose we could
+also try to get local eggs, which I think are less likely to have
+salmonella.  I expect that we'll use the eggnog recipe in our
+family's favorite cookbook, a late 1950's edition of _Fannie Farmer_.
+I look forward to seeing what he comes up with.
+
+---
+
+Postscript: I wonder what Michael S. is doing these days.  What I
+remember most about him, other than the eggnog, is that he drove a
+Lotus [6] and that he was in a motorcycle "gang" of DEC [7] engineers
+who called themselves the "roving gonads" [8] and regularly went out 
+as a group for Chinese food.  I had some great dinners with them [9].
+
+---
+
+[1] Description?
+
+[2] Or Sam and Ella [3].
+
+[3] Or Sam and Janet evening.
+
+[4] Sax was an airdale-mutt mix; the shape and coloring of an airdale,
+but with straight hair.  Phoenix was a Tibetan terrier: Small, black
+and stupid.
+
+[5] The last one got broken last year.  Michelle and the kids worked
+really hard to glue it back together.
+
+[6] At least when it was working.  Lotus autos are notably finicky.
+
+[7] Digital equipment corporation.
+
+[8] Yes, they had women in the group.  As the party name suggests,
+it was a time when people were less worried about the language they
+used.
+
+[0] At times, I look back at parts of my childhood and ask myself,
+_What were my parents thinking?_
+
+---
+
+*Version 0.1 of 2019-11-05.*
