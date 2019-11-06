@@ -759,3 +759,7 @@ Almost everything else
 
 > I needed a week (or more).
 
+[Mid-year graduates](mid-year-graduates-2019-11-05) (Musing #923)
+
+> Lots of CS majors and other students who I will miss.
+
