@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Mid-year graduates](mid-year-graduates-2019-11-05) (Musing #923)
+[R.I.P. GrinCam](grincam-2019-11-06) (Musing #924)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

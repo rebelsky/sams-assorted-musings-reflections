@@ -2562,6 +2562,10 @@ Grinnell.
 
 > Another successful season.
 
+[R.I.P. GrinCam](grincam-2019-11-06) (Musing #924)
+
+> Something I"ll miss.
+
 A letter to the incoming chair
 ------------------------------
 
