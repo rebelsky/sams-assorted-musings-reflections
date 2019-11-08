@@ -10,6 +10,8 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
+[Further reflections on syllabus guidelines](syllabus-guidelines-2019-11-07) (Musing #925)
+
 [R.I.P. GrinCam](grincam-2019-11-06) (Musing #924)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>

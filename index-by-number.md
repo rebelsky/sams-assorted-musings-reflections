@@ -1201,3 +1201,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Volleyball](volleyball-2019-11-04) (Musing #922)  
 [Mid-year graduates](mid-year-graduates-2019-11-05) (Musing #923)  
 [R.I.P. GrinCam](grincam-2019-11-06) (Musing #924)  
+[Further reflections on syllabus guidelines](syllabus-guidelines-2019-11-07) (Musing #925)  

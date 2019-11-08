@@ -136,3 +136,7 @@ online, but they will soon expand to more general issues about teaching._
 
 > Different approaches and different models.
 
+[Further reflections on syllabus guidelines](syllabus-guidelines-2019-11-07) (Musing #925)
+
+> Learning from my friends and colleagues.
+
