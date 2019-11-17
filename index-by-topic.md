@@ -3956,6 +3956,10 @@ Almost everything else
 
 > Lots of CS majors and other students who I will miss.
 
+[Car radio](car-radio-2019-11-16) (Musing #926)
+
+> Getting lucky.
+
 Musings with multiple entries
 -----------------------------
 
