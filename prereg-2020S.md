@@ -196,22 +196,22 @@ more and less popular times?  We're going to limit our exploration
 to courses that offer two sections taught by the same faculty member.
 What are those classes, and what do we see?
 
-* Fredo Rivera is teaching two sections of ART-103, Introduction to
+* FR is teaching two sections of ART-103, Introduction to
   Art History.  The 11:00 a.m. MWF section has 22 students enrolled.
   The 3:00 p.m. MWF section has 11 students enrolled.  It appears that
   students would prefer something outside of the 3:00 p.m. slot.
   Alternately, there are students taking classes with a lab in
   the afternoon, or afternoon seminars.
-* Kathranne Knight is teaching two sections of ART-111, Introduction 
+* KK is teaching two sections of ART-111, Introduction 
   to the Studio.  The 10:00 a.m. TuTh section has 54 students
   pre-enrolled.  The 1:00 p.m. TuTh section has 42 students.  I'm
   not sure whether these numbers are high enough that they are not
   informative, but we see another preference toward morning offerings.
-* Jeremy Chen is teaching two sections of ART-134, Drawing.  The
+* JC is teaching two sections of ART-134, Drawing.  The
   10:00 am MW course has twenty students enrolled; the 1:00 pm MW
   course has 41 students.    That seems to be a preference for
   afternoonofferings.
-* Ben DeRidder is teaching two sections of BCM-262L, the lab for
+* BD is teaching two sections of BCM-262L, the lab for
   Introduction to Biological Chemistry.  I'm not sure that lab
   enrollments are as informative as course enrollments, but I note
   that there are seven students enrolled in his 8:00 am Thursday
@@ -220,58 +220,58 @@ What are those classes, and what do we see?
   like to sleep in on Thursday mornings, because students know
   labs tend to go long, because the expectation is that labs are
   in the afternoon, or something else?
-* Clark Lindgren is teaching two sections of BIO-363L, Neurobiology
+* CL is teaching two sections of BIO-363L, Neurobiology
   Lab.  The Wednesday afternoon section currently has twenty students.
   The Friday afternoon section currently has twelve.  I'm not
   surprised that students prefer Wednesdays to Fridays, but I am
   surprised at how many would choose the Friday lab.
-* Lin Liu is teaching two sections of CHI-102L, Beginning Chinese II
+* LL is teaching two sections of CHI-102L, Beginning Chinese II
   Lab [16].  The 10:00 a.m. TuTh section has twelve students.  The
   2:00 p.m. TuTh section has eight.  A slight preference for morning
   sections on Tuesday/Thursday.
-* Heriberto Hernandez is teaching two sections of CHM-129L, the
+* HH is teaching two sections of CHM-129L, the
   General Chemistry Lab.  The Thursday afternoon section has thirty-five
   students.  The Friday afternoon section has eight.  As I suggested,
   Friday afternoon labs are likely to be less popular because they
   cut into the weekend.
-* Stephen Sieck is teaching two sections of CHM-222L, the Organic Chemistry
+* SS is teaching two sections of CHM-222L, the Organic Chemistry
   II Lab [17].  His Thursday 8:00 a.m. section has eight students.  His
   Friday 1:00 p.m. section has ten students.  Those two are close
   enough that I won't try to do any analysis.
-* Elaine Marzluff is teaching two sections of CHM-363L.  There are
+* EM is teaching two sections of CHM-363L.  There are
   ten students in the Thursday afternoon lab and eight in the
   Friday afternoon lab.  Again, those numbers are close enough that
   I would not make any conclusions based on the difference.
-* John Stone is teaching two sections of CSC-161, Imperative Problem
+* JDS is teaching two sections of CSC-161, Imperative Problem
   Solving with Lab [18].  The 8:30-9:50 a.m. MWF section has twenty-nine
   students enrolled.  The 1:00-2:20 p.m. MWF section has thirty-nine
   students enrolled.  I wonder why afternoon wins.
-* Fahmida Hamid is teaching two sections of CSC-207-01, Object-Oriented
+* FH is teaching two sections of CSC-207-01, Object-Oriented
   Problem Solving, Data Structures, and Algorithms [20].  The 10:00-11:20
   a.m. MWF section has twelve students enrolled.  The 1:00-2:20 MWF section
   has twenty-five students.  I don't understand why afternoon is so much
   more popular in this case, but it clearly is.
-* Shervin Hajiamini is teaching two sections of Operating Systems and
+* SH is teaching two sections of Operating Systems and
   Parallel Algorithms with Lab.  The morning one, which is 10:00-11:50
   a.m. MWF, has thirty students.  The afternoon section, which is
   2:00-3:50 p.m., has twenty-five students.  I'm beginning to reach
   the conclusion that CS students prefer the afternoon.
-* Nicole Eikmeier is teaching two sections of CSC-301, Analysis of
+* NE is teaching two sections of CSC-301, Analysis of
   Algorithms.  Both the 8:00 a.m. and the 1:00 p.m. section have
   fifteen students.  There goes my conclusion.
-* Eric Ohrn is teaching two sections of ECN-111, Introduction to
+* EO is teaching two sections of ECN-111, Introduction to
   Economics.  There are only five students in the 8:00 a.m. MWF section,
   but there are thirty-two in the 1:00 p.m. TuTh section.  Is that a 
   time preference or a day of week preference?
-* Keith Brouhle is teaching two sections of ECN-280, Microeconomic
+* KB is teaching two sections of ECN-280, Microeconomic
   Analysis.  The 10:00 a.m. MWF section has twenty-seven students.
   The 11:00 a.m. MWF section has only fourteen.  What a difference
   an hour makes.  I've been told that 10:00 and 11:00 MWF are the
   two most popular times.  I wonder why 10:00 wins (loses?) in this case.
-* Logan Lee is teaching two sections of ECN-286, Econometrics.  The 
+* LL is teaching two sections of ECN-286, Econometrics.  The 
   8:00-9:50 a.m. MW course has twenty-eight students.  The 10:00-11:50 a.m.
   MW section has thirteen.  How did Logan get permission to teach
-  two morning sections?  And, come to think of it, how did Keith?  I
+  two morning sections?  And, come to think of it, how did KB?  I
   thought "If thou offerest two sections of the same course, thou
   shalt offer one in the morning and one in the afternoon" was one of
   the policies the Registrar imposed from on high.  In any case, I
@@ -286,72 +286,72 @@ I seem to have been incorrect in my assumption that we should offer
 CS courses preferentially in the morning because it frees science
 students for afternoon lab.  So let's soldier on.
 
-* Sejal Sutaria is teaching two sections of ENG-120, Literary Analysis.
+* SS is teaching two sections of ENG-120, Literary Analysis.
   There are eleven students in the 9:00 a.m. section and seven in the
   11:00 a.m. section.  I also note that four of the five sections of
   Literary Analysis seem to be in the morning [21].
-* Theresa Marx is teaching four sections of GRM-102L, Continuing 
+* TM is teaching four sections of GRM-102L, Continuing 
   German Lab [22].  There are twelve in the Thursday 10:00 a.m. section,
   four in the Thursday 11;00 a.m. section, one in the Friday 1:00
   p.m. section, and none in the Friday 3:00 p.m. section.  That
   last bit is surprising.  But the class at 11:00 a.m. Thursday
   is.  I thought no classes were allowed at 11:00 a.m. on Thursday.
-* Dan Reynolds is teaching four sections of GRM-222L, Continuing
+* DR is teaching four sections of GRM-222L, Continuing
   German II Lab.  The section at 10:00 a.m. Thursday has three students.
   The section at 1:00 p.m. Thursday has two students.  The section
   at 8:00 a.m. Friday has two students, and the section at 11:00 a.m.
   Friday has no students.  I'm glad to see that German offers students
   multiple options, which makes conflicts less likely.  And it's a lab,
   so I'm not going to try to make any conclusions.
-* Mariko Schimmel is teaching two sections of JPN-102, Beginning
+* MS is teaching two sections of JPN-102, Beginning
   Japanese II.  The 10:00 a.m. MWF section has fifteen students.  The
   2:00 p.m. MWF section has eleven students.  I see a slight preference
   for the morning.
-* Etsuko Onitake is teaching two sections of JPN-102L.  The 10:00 a.m.
+* EO is teaching two sections of JPN-102L.  The 10:00 a.m.
   TuTh section has nineteen students.  The 2:00 p.m. TuTh section has
   seven students.  That's a clear shift to the morning from the
   class distribution.  Room for Tuesday/Thursday afternoon seminars?
   I'm not sure.
-* Brock Schmutzler is teaching two sections of MAT-133, Calculus II.  The
+* BS is teaching two sections of MAT-133, Calculus II.  The
   MWF 1:00-2:20 section has thirty-four students.  The 2:30-3:50 p.m.
   section has only sixteen.  Is that the curse of Friday afternoon
   courses, or something else?
-* Gene Gaub is teaching two sections of MUS-112, Music Theory I lab.
+* GG is teaching two sections of MUS-112, Music Theory I lab.
   The 10:00 a.m. Tuesday section has seven students.  The 3:00 p.m.
   Tuesday section has eleven students.
-* Andi Tracy is teaching two sections of NRS-250L, Neuroscience Lab.
+* AT is teaching two sections of NRS-250L, Neuroscience Lab.
   The Wednesday afternoon lab has twelve students.  The Thursday
   afternoon lab has fourteen students.  There's not enough difference
   to analyze.
-* David Zeiss is teaching two sections of PHE-100-19, Rock Climbing.
+* DZ is teaching two sections of PHE-100-19, Rock Climbing.
   Both are at the same time.  I assume that 19A is in the first half
   of the semester and 19B is in the second half of the semester.  There
   are seventeen students in the early-semester section and only four
   in the late-semester section.
-* Johanna Meehan is teaching two sections of PHI-111, Introduction to
+* JM is teaching two sections of PHI-111, Introduction to
   Philosophy.  There are eighteen students in the 11:00 a.m. MWF section
   and eleven in the 3:00 p.m. MWF section.   I'm guessing that the
   difference is due to the "avoid Friday afternoon" preference, or
   perhaps just a reluctance to take 3:00 p.m. classes.
-* Charlotte Christensen is teaching two sections of PHY-132L.  Both
+* CC is teaching two sections of PHY-132L.  Both
   the Wednesday afternoon and Thursday afternoon sections have fifteen
   students.
-* Danielle Lussier is teaching two sections of POL-101, Introduction
+* DL is teaching two sections of POL-101, Introduction
   to Political Science.  There are thirty-two students in the 1:00 p.m.
   MWF section.  There are only fourteen in the 3:00 p.m. MWF section.
   I think we're seeing a trend here.
-* Jennifer Snook is teaching two sections of SOC-111, Introduction
+* JS is teaching two sections of SOC-111, Introduction
   to Sociology.  The 9:00 a.m. MWF section has fourteen students.
   The 11:00 a.m. section has sixteen students.  That's close enough
   that I won't draw any conclusions.
-* Chris Olsen is teaching two sections of STA-209, Applied Statistics.
+* CO is teaching two sections of STA-209, Applied Statistics.
   The 8:30-9:50 a.m. MWF section has thirty-two students enrolled.
   The 10:00-11:20 a.m. MWF section has ten.  Why?  I'm sure that
   Chris could help me with some informative statistical analyses.
-* Shonda Kuiper is teaching two sections of STA-230, Introduction
+* SK is teaching two sections of STA-230, Introduction
   to Data Science.  The 8:30-9:50 a.m. TuTh section has twenty-seven
   students.  The 1:00-2:20 TuTh section has twenty-eight.
-* David Perez is teaching two sections of WRT-101.  The 10:00-10:50
+* DP is teaching two sections of WRT-101.  The 10:00-10:50
   a.m. Tuesday section has five students.  The 1:00-1:50 Wednesday
   section has one student.  I can't separate the day of the week
   from the time of day.
@@ -453,4 +453,6 @@ lab [19]?
 
 ---
 
-*Version 1.0 of 2019-11-17.*
+*Version 1.0 released 2019-11-17.*
+
+*Version 1.1 of 2019-11-17.*
