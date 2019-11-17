@@ -1203,3 +1203,5 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [R.I.P. GrinCam](grincam-2019-11-06) (Musing #924)  
 [Further reflections on syllabus guidelines](syllabus-guidelines-2019-11-07) (Musing #925)  
 [Car radio](car-radio-2019-11-16) (Musing #926)  
+[Preregistration for Spring 2020](prereg-2020S) (Musing #927)  
+[Cuts, Closes, and Balances in CS for Spring 2020](ccb-2019-11-17) (Musing #928)  

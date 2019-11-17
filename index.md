@@ -9,8 +9,11 @@ If you'd like, you can read [a longer introduction](intro-musings-v0).
 If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
-Latest musing:
-[Car radio](car-radio-2019-11-16) (Musing #926)
+Latest musings:
+[Preregistration for Spring 2020](prereg-2020S) (Musing #927)
+and
+[Cuts, Closes, and Balances in CS for Spring 2020](ccb-2019-11-17) (Musing #928)
+
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

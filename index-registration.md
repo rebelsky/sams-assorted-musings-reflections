@@ -49,4 +49,11 @@ the registration process at Grinnell.*
 
 > What happens after preregistration.
 
+[Preregistration for Spring 2020](prereg-2020S) (Musing #927)
+
+> Over-enrolled classes, popular times, and other reflections.
+
+[Cuts, Closes, and Balances in CS for Spring 2020](ccb-2019-11-17) (Musing #928)
+
+> Some notes on how I think about the challenges of CCB.
 
