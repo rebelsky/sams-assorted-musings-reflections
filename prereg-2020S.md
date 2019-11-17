@@ -28,15 +28,12 @@ reflect on historical trends, at least as I recall them.
 
 So, let's go.
 
-First, let's see what courses are over-enrolled.  It's easiest to look
-at the courses in alphabetical order by department [4].  AMS/ANT/BIO-220,
-Racing Through Genetics, has 24 students in a course with a cap of
-20.  That's not surprising; it's a cool topic and it usually has
-two wonderful faculty teaching it.  I assume that Biology needed
-Leslie for other courses.  But even without Leslie, Katya will be
-awesome and generally over-fills her classes.  Given that, I'm
-surprised that there are still some spaces in AMS-235.  Maybe some
-students will choose to take that instead.
+First, let's see what courses are over-enrolled.  It's easiest to
+look at the courses in alphabetical order by department [4].
+AMS/ANT/BIO-220, Racing Through Genetics, has 24 students in a
+course with a cap of 20.  That's not surprising; it's a cool topic
+and it has two wonderful faculty teaching it.  If anything is
+surprising, it's that there aren't more students enrolled.
 
 Three of the four sections of ANT-104, Anthropological Inquiries, are
 over-full.  Section 2 has 27 with a cap of 25, section 3 has 29 with
@@ -455,4 +452,4 @@ lab [19]?
 
 *Version 1.0 released 2019-11-17.*
 
-*Version 1.1 of 2019-11-17.*
+*Version 1.1.1 of 2019-11-17.*
