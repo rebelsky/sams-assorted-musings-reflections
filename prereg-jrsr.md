@@ -1,7 +1,7 @@
 The JRSR and SNRS course designations
 =====================================
 
-*Topics/tags: [Miscellaneous](index-misc), [Grinnell](index-grinnell)*
+*Topics/tags: [Registration](index-registration), [Grinnell](index-grinnell)*
 
 It's preregistration time at Grinnell.  In a few days, I'll write my
 regular commentary about the end of preregistration.  Right now, I see
@@ -91,4 +91,6 @@ and with a type of language study.
 
 ---
 
-*Version 1.0 of 2018-11-11.*
+*Version 1.0 released 2018-11-11.*
+
+*Version 1.0.1 of 2018-11-11.*

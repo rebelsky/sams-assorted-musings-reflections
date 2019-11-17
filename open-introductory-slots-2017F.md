@@ -1,6 +1,8 @@
 Open slots in Fall 2017 introductory courses
 ============================================
 
+*Topics/tags: [Registration](index-registration), follow-up*
+
 [Preregistration for Fall 2017](prereg-2017F) is now over.  [Cuts, closes,
 and balances](ccb-2017F) are now over, and add/drop period has started.  
 I was about to look at current space in introductory courses, but got
@@ -191,4 +193,8 @@ of MAT-115?  Fortunately, that's not for me to decide.
 
 ---
 
-*Version 1.2 of 2017-05-09.*
+*Version 1.0 prepared around 2017-05-08*.
+
+*Version 1.2 released 2017-05-09.*
+
+*Version 1.2.1 released 2019-11-17.*

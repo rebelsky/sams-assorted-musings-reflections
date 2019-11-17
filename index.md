@@ -38,6 +38,7 @@ Latest musing:
 * [Don't embarrass me; Don't embarrass yourself: Thoughts on thinking in C and Unix](index-cnix)
 * [The joy of code](index-joc)
 * [Cool Grinnellians you should know (or know about)](index-grinnellians)
+* [Registration (and related issues)](index-registration)
 * [Other essays on Grinnell](index-grinnell)
 * [A letter to the incoming chair](index-incoming-chair)
 * [Reviews and notes about things I enjoy](index-reviews)

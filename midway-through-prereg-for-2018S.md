@@ -1,6 +1,8 @@
 Midway through preregistration for spring 2018
 ==============================================
 
+_Topics/tags: [Registration](index-registration), [Grinnell](index-grinnell)_
+
 Grinnell has an "interesting" process by which students register for
 classes.  During a week-and-a-half period [1], students and their advisors
 agree on schedules for the next semester and then "register" the students
@@ -124,4 +126,8 @@ Education".
 
 ---
 
-*Version 1.0 of 2017
+*Version 1.0 released late 2017.*
+
+*Version 1.0.1 of 2019-11-17.*
+
+*Version 1.0 of 2017*

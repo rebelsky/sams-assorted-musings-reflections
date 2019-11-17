@@ -1,7 +1,7 @@
 Registration for first-semester, first-year students
 ====================================================
 
-*Topics/tags: [Grinnell](index-grinnell), academia*
+*Topics/tags: [Registration](index-registration), [Grinnell](index-grinnell), academia*
 
 At most institutions of higher education, registration for classes
 is both a straightforward and complex task.  On the one hand, it should
@@ -125,4 +125,6 @@ put together their plan.
 
 ---
 
-*Version 1.0 of 2018-09-01.*
+*Version 1.0 released 2018-09-01.*
+
+*Version 1.0.1 of 2019-11-17.*

@@ -1,7 +1,7 @@
 Reflections on preregistration data for spring 2019
 ===================================================
 
-_Topics/tags: [Miscellaneous](index-misc), [Grinnell](index-grinnell), rambly, long, unedited_
+_Topics/tags: [Registration](index-registration), [Grinnell](index-grinnell), rambly, long, unedited_
 
 Throughout preregistration period, I
 keep track of [the status of Grinnell's course
@@ -416,4 +416,6 @@ wonder what English plans, or what the Dean will require.
 
 ---
 
-*Version 1.0 of 2018-11-16.*
+*Version 1.0 released 2018-11-16.*
+
+*Version 1.0.1 of 2019-11-17.*

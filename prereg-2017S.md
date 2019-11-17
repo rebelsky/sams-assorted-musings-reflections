@@ -1,6 +1,8 @@
 Preregistration (for spring 2017)
 =================================
 
+*Topics/tags: [Registration](index-registration)*
+
 For those of you who don't know Grinnell well (I think there are a few
 of you), Grinnell has an interesting curriculum, or, more precisely,
 lack of curriculum.  Grinnell calls its curriculum an "individually
@@ -228,4 +230,6 @@ people who can become chair of the Science Division.
 
 ---
 
-*Version 1.0.1 of 2016-12-11.*
+*Version 1.0.1 released 2016-12-11.*
+
+*Version 1.0.2 of 2019-11-17.*

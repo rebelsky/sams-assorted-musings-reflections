@@ -1,6 +1,8 @@
 Preregistration (for Fall 2017)
 ===============================
 
+*Topics/tags: [Registration](index-registration)*
+
 Grinnell's preregistration period is almost done [1].  During prereg,
 I successfully registered all 44 of my advisees who needed to register
 [2].  It was an interesting process.  Many of them are rising third-year
@@ -258,4 +260,6 @@ amount.
 
 ---
 
-*Version 1.0.1 of 2017-04-28.*
+*Version 1.0.1 released 2017-04-28.*
+
+*Version 1.0.2 of 2019-11-17.*

@@ -1,7 +1,7 @@
 Updates on preregistration for fall 2018
 ========================================
 
-_Topics/tags: [Miscellaneous](index-misc), [Grinnell](index-grinnell), rambly, long_
+_Topics/tags: [Registration](index-registration), [Grinnell](index-grinnell), rambly, long_
 
 I recently wrote about [preregistration for fall 2018](prereg-2018F),
 identifying courses that were over-enrolled.  At the time,
@@ -302,3 +302,5 @@ the lateness of the evening.
 ---
 
 *Version 1.0 released 2018-05-04.*
+
+*Version 1.0.1 of 2019-11-17.*

@@ -2445,10 +2445,6 @@ Grinnell.
 
 >  Wow, they're expensive.
 
-[Midway through preregistration for spring 2018](midway-through-prereg-for-2018S) (Musing #484)
-
-> Where do I stand?
-
 [The role of the humanities in a Grinnell education](grinnell-education-humanities) (Musing #485)
 
 > Oh, that's right.  I need to explain this to some of my students.
@@ -2506,10 +2502,6 @@ Grinnell.
 
 > My favorite place on campus.
 
-[Registration for first-year students](registration-first-year) (Musing #736)
-
-> Our fascinating process.
-
 [The cost of attending Grinnell (aka exponential growth)](grinnell-cost) (Musing #746)
 
 > Outpacing inflation.
@@ -2525,10 +2517,6 @@ Grinnell.
 [Grinnell ephemera](grinnell-ephemera-icaria) (Musing #790)
 
 > Discovering new things about the College.
-
-[Cut, close, balance](cut-close-balance) (Musing #813)
-
-> What happens after preregistration.
 
 [Increasing class sizes](increasing-class-sizes) (Musing #831)
 
@@ -2569,6 +2557,58 @@ Grinnell.
 [R.I.P. GrinCam](grincam-2019-11-06) (Musing #924)
 
 > Something I"ll miss.
+
+Registration and Related Topics
+-------------------------------
+
+*In these musings (and the occasional rant), I reflect on issues surrounding
+the registration process at Grinnell.*
+
+[Preregistration](prereg-2017S) (Essay #147)
+
+> Thoughts on preregistration at Grinnell, written soon after
+  preregistration period for spring 2017.
+
+[Preregistration (for Fall 2017)](prereg-2017F) (Musing #302)
+
+> What courses over-enroll?
+
+[Cuts, closes, and balances for Fall 2017](ccb-2017F) (Musing #312)
+
+> The aftermath of preregistration.
+
+[Open slots in Fall 2017 introductory courses](open-introductory-slots-2017F) (Musing #315)
+
+> More on the aftermath of preregistration.
+
+[Midway through preregistration for spring 2018](midway-through-prereg-for-2018S) (Musing #484)
+
+> Where do I stand?
+
+[Preregistration for Fall 2018](prereg-2018F) (Musing #613)
+
+> Sam reflects on the preregistration numbers.
+
+[Updates on preregistration for fall 2018](post-prereg-2018F) (Musing #620)
+
+> Sam reflects on the updated preregistration numbers.
+
+[Registration for first-year students](registration-first-year) (Musing #736)
+
+> Our fascinating process.
+
+[The JRSR and SNRS course designations](prereg-jrsr) (Musing #806)
+
+> Why don't we offer more sections of Intro Linguistics?
+
+[Reflections on preregistration data for spring 2019](post-prereg-2019S) (Musing #811)
+
+> What classes did students select?
+
+[Cut, close, balance](cut-close-balance) (Musing #813)
+
+> What happens after preregistration.
+
 
 A letter to the incoming chair
 ------------------------------
@@ -3222,11 +3262,6 @@ Almost everything else
 
 > Policies on supervising MAPs, and how they came about.
 
-[Preregistration](prereg-2017S) (Essay #147)
-
-> Thoughts on preregistration at Grinnell, written soon after
-  preregistration period for spring 2017.
-
 [Mondegreens](mondegreens) (Essay #143)
 
 > A great term, further explored.
@@ -3364,10 +3399,6 @@ Almost everything else
 
 > Searching for the imaginary.
 
-[Preregistration (for Fall 2017)](prereg-2017F) (Musing #302)
-
-> What classes over-enroll?
-
 [Planning a department meeting](department-meeting-2017-04-28) (Musing #303)
 
 > What do we talk about each week, or at least this week?
@@ -3379,14 +3410,6 @@ Almost everything else
 [Whoops](whoops-2017-05-02) (Musing #307)
 
 > 'nuff said.
-
-[Cuts, closes, and balances for Fall 2017](ccb-2017F) (Musing #312)
-
-> The aftermath of preregistration.
-
-[Open slots in Fall 2017 introductory courses](open-introductory-slots-2017F) (Musing #315)
-
-> More on the aftermath of preregistration.
 
 [(Lack of) sleep cycles](lack-of-sleep-cycles) (Musing #317)
 
@@ -3712,17 +3735,9 @@ Almost everything else
 
 > Better news on recycling.
 
-[Preregistration for Fall 2018](prereg-2018F) (Musing #613)
-
-> Sam reflects on the preregistration numbers.
-
 [Language](language-2018-05-02) (Musing #618)
 
 > Words matter.
-
-[Updates on preregistration for fall 2018](post-prereg-2018F) (Musing #620)
-
-> Sam reflects on the updated preregistration numbers.
 
 [Faculty parties](faculty-parties) (Musing #621)
 
@@ -3856,17 +3871,9 @@ Almost everything else
 
 > An intellectual luxury.
 
-[The JRSR and SNRS course designations](prereg-jrsr) (Musing #806)
-
-> Why don't we offer more sections of Intro Linguistics?
-
 [11/11](eleven-eleven) (Musing #807)
 
 > Armistice Day and Walt Kelly.
-
-[Reflections on preregistration data for spring 2019](post-prereg-2019S) (Musing #811)
-
-> What classes did students select?
 
 [The moat](the-moat) (Musing #818)
 

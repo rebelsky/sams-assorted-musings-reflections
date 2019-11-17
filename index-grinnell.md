@@ -114,10 +114,6 @@ Grinnell.
 
 >  Wow, they're expensive.
 
-[Midway through preregistration for spring 2018](midway-through-prereg-for-2018S) (Musing #484)
-
-> Where do I stand?
-
 [The role of the humanities in a Grinnell education](grinnell-education-humanities) (Musing #485)
 
 > Oh, that's right.  I need to explain this to some of my students.
@@ -175,10 +171,6 @@ Grinnell.
 
 > My favorite place on campus.
 
-[Registration for first-year students](registration-first-year) (Musing #736)
-
-> Our fascinating process.
-
 [The cost of attending Grinnell (aka exponential growth)](grinnell-cost) (Musing #746)
 
 > Outpacing inflation.
@@ -194,10 +186,6 @@ Grinnell.
 [Grinnell ephemera](grinnell-ephemera-icaria) (Musing #790)
 
 > Discovering new things about the College.
-
-[Cut, close, balance](cut-close-balance) (Musing #813)
-
-> What happens after preregistration.
 
 [Increasing class sizes](increasing-class-sizes) (Musing #831)
 

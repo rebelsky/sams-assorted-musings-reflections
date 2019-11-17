@@ -1,7 +1,7 @@
 Cut, close, balance
 ===================
 
-*Topics/tags: [Grinnell](index-grinnell), rambly, things I thought I'd written*
+*Topics/tags: [Registration](index-registration), [Grinnell](index-grinnell), rambly, things I thought I'd written*
 
 As I've mentioned previously, Grinnell has an atypical registration
 system for returning students: During an eleven-day period in the prior
@@ -206,4 +206,6 @@ situation than most courses.
 
 ---
 
-*Version 1.0 of 2018-11-18.*
+*Version 1.0 released 2018-11-18.*
+
+*Version 1.0.1 of 2019-11-17.*

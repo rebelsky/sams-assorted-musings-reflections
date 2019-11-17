@@ -1,7 +1,7 @@
 Preregistration for fall 2018
 =============================
 
-_Topics/tags: [Miscellaneous](index-misc), [Grinnell](index-grinnell)_
+_Topics/tags: [Registration](index-registration), [Grinnell](index-grinnell)_
 
 For some reason, I find myself compelled to look at enrollment numbers
 at the end of each preregistration period.  You can read a bit more about
@@ -318,4 +318,4 @@ that that decision is best for the students.
 
 *Version 1.0 released 2018-04-27.*
 
-*Version 1.1.1 of 2018-05-04.*
+*Version 1.1.2 of 2019-11-17.*
