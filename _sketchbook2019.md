@@ -9,6 +9,10 @@ the sketchbook._
 Tentative upcoming week
 -----------------------
 
+* Monday: What classes would I take?
+* Tuesday: Visiting UofC
+* Wednesday: How do you teach CS?
+
 End of month
 ------------
 
@@ -21,10 +25,19 @@ End of month
 * Took down a musing that I thought was a light approach to a complex
   topic but that offended a colleague.
 * Had a long period in which I didn't have the mental energy to muse.
-  Glad that I got back to it.
+  Glad that I got back to it.  Then had another week off.  Bleh.
+* After realizing that "musings on registration" was clearly a series,
+  created a separate category for those musings.  At some point, I need
+  to rearchitect the whole damn system.
+* Realized that I have a writing habit of asking questions in a paragraph
+  by themselves.  Is that a problem?  I don't think so.
 
 Short
 -----
+
+1. "My dad is the third-largest major at Grinnell" / majoring in a
+faculty member, but that's a whole separate issue.  (Now John
+Garrison is probably the third-largest major at Grinnell.)
 
 1. Persnickety.  List of new faculty.  Minutes of the last faculty
 meeting.  (Perhaps this one does not need to exist any more, but it
@@ -32,7 +45,7 @@ could also be a quick release.)
 
 1. Eggnog and other holiday memories.  See file.
 
-1. Changing names.  (ACM Policies.)
+1. Changing names.  (ACM Policies.)  Proud of my communities.
 
 1. Lost opportunities.  See file.
 
@@ -44,14 +57,6 @@ Episode 8, 8:57.  Who thinks to put something like that in a tv show?
 1. Quiche.  When I was a teenager and a young adult, I made quiche
 regularly.  The other day, I ordered quiche for lunch and Eldest
 Son said, "What's quiche?"  What have I done wrong?
-
-1. GrinCam.  <https://comm.sites.grinnell.edu/watch-the-transformation/>.
-In my quest to take interesting photos from around campus (at least 
-interesting to me), I took a photo of what I thought was the 
-"construction camera", the camera we used to provide a live feed of
-the construction of the new HSSC.  It turns out that the thing I took
-a picture of was not that camera.  I'm not sure what purpose it serves.
-But it's nice to be able to look at the weather.  Privacy?
 
 1. The Functional Art.  <https://www.amazon.com/Functional-Art-introduction-information-visualization-ebook/dp/B0091SXDOM/>  When I saw the title, I was
 very excited.  After all, functional art is what I do.  (Functional, as
@@ -173,6 +178,18 @@ And people reading it  https://archive.org/details/treatisefootball_1906_librivo
 
 Long
 ----
+
+1. For Mike: Teaching CS.
+
+1. Influential teachers.
+
+1. Why do some courses over-enroll and others fail to enroll?  I wish
+I knew.  There seem to be a host of factors involved.  Some are the
+reputation of the instructor.  (Reputation does not always correlate
+with quality.  And, as I've said, different students react differently
+to the same faculty member.)  Sometimes it's time of day.
+
+1. Joy of Code: Counting majors
 
 1. Dealing with students with prior background in CS.
 
