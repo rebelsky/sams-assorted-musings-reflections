@@ -54,6 +54,7 @@ after "S".
 
 ---
 
+*Version 1.0 released 2017-10-24.*
+
 *Version 1.1 of 2017-10-25.*
 
-*Version 1.0 released 2017-10-24.*
