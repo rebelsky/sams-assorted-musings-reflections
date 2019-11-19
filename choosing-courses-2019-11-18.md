@@ -11,10 +11,10 @@ something like this.
 anything next semester.  I know that I have the skills to teach
 myself many things.  What classes should I take?
 
-They also asked me about faculty they should take courses from.  That's
-something I try to avoid discussing with my students.  I have a
-slew of wonderful colleagues, so it's hard to prioritize any
-particular person.  I also know that different students react
+They also asked me about faculty members who they should take courses
+from.  That's something I try to avoid discussing with my students.
+I have a slew of wonderful colleagues, so it's hard to prioritize
+any particular person.  I also know that different students react
 differently to the same faculty member; one student's most influential
 faculty member can be another student's regretted class.  But I
 also acknowledge that there's a small cadre of faculty who regularly
@@ -22,14 +22,14 @@ appear in students' comments that "this person made a huge positive
 difference in my life".  So I probably mentioned a few potential
 courses, prefacing them with "My students tell me that ..."
 
-We identified way too many courses for the student to consider and then
+We identified far too many courses for the student to consider and then
 narrowed them to a more reasonable set.  Since it's a student I trust,
 I left all of the courses we'd talked about as "approved" so that they
 could make a change after sleeping on it and talking to friends [1].
 
 Reading through the course list with the student got me thinking:
 What courses would I take if I had the time to do so?  That's not
-a totally hypothetical question.  I'm on leave in the spring, and
+a completely hypothetical question.  I'm on leave in the spring and
 could sit in on a course or two.  I've certainly done so in the
 past.  And, even if I'm not going to sit in on courses, it's nice
 to think about what courses I might take.
@@ -44,7 +44,7 @@ On the one hand, I realize that almost any course would likely be
 valuable for me to take.  As I noted, I have excellent colleagues.
 And, as we tell our students, it's good to explore a bit beyond
 your comfort zone.  Now, it would often be good to have prerequisites.
-Fore example, I wouldn't take a 400-level course in a foreign
+For example, I wouldn't take a 400-level course in a foreign
 language.  Nonetheless, I could certainly try a wide variety of
 topics.  My colleagues have also been known to waive prerequisites 
 when appropriate.
@@ -107,7 +107,7 @@ but the course would certainly help me reflect on language use and
 listening more carefully to others.  Plus, I think it would be a blast
 to take a course from Dean.  Why are there open slots in this course?
 
-I'd love take Justin Thomas' _Digital Media Design_, primarily
+I'd love to take Justin Thomas' _Digital Media Design_, primarily
 because I'm interested in the intersection between technology and
 the arts, but also because I know that Justin would be fun to have
 a class from.  I'm surprised to see that there's room in that course,
@@ -157,18 +157,18 @@ musing.  It would be interesting to see the two of them teaching
 together.  I also learn something new from each of them whenever
 we talk.  But that course is also over-full.
 
-One of my regrets from my undergraduate days is that I never
-tried to get into Bevington's _Shakespeare_.  But whenever I had
-the opportunity to enroll early, I prioritized getting into one
-of Gerald Mast's film classes.  I don't regret that decision, but
-I should have found a way to try to take Bevington, too.  Anyway,
-I hear that taking one of John Garrison's Shakespeare courses would 
+One of my regrets from my undergraduate days is that I never tried
+to get into Bevington's _Shakespeare_.  But whenever I had the
+opportunity to enroll early, I prioritized getting into one of
+Gerald Mast's film classes.  I don't regret that decision, but I
+should have found a way to try to take Bevington, too.  Anyway, I
+hear that taking one of John Garrison's Shakespeare courses would
 be a reasonable substitute.  I see that he and Kelly Maynard are
 teaching _Shakespeare in the Mediterranean_.  That would be cool,
 particularly since John tells me that it has a study abroad component.
-I know that I can't get into that course, since it has an application
-process and it's only for first-year students.  But I'll add courses
-from Kelly and John to my long-term plans.
+I know that I can't get into that course because it has an application
+process and it's only for first-year students.  Instead, I'll add
+courses from Kelly and John to my long-term plans.
 
 Speaking of long-term plans, I should find a way to sit in on Sarah
 Purcell's _Digital History_.  I'd love to see Sarah's take on 
@@ -180,7 +180,7 @@ jazz, but I don't have deep enough knowledge to really understand
 what I'm listening to.
 
 Jenny Anger is teaching _Art Since 1945_ again.  I enjoyed the
-parts of that course I could attend, and would like the chance to
+parts of that course I could attend and would like the chance to
 continue learning more about the matter.  I find that the more I
 learn about art, the better it informs whatever practice I have the
 time for.  It also heightens my enjoyment of the museums I visit.
@@ -188,7 +188,7 @@ time for.  It also heightens my enjoyment of the museums I visit.
 I don't know Alexander Marcus.  But I think it would be interesting
 to sit in on his special topic course on Israel and Palestine.  I
 have some knowledge about the situation, but that knowledge is not
-deep enough.  I have opinions, but I'd like them to be better informed
+deep enough.  I have opinions, but I'd like them to be better-informed
 opinions.
 
 I see that Georgeanna Robinson is teaching her _How Colleges Work_
@@ -231,30 +231,31 @@ would normally change if I wrote it at a different time.  And I was
 right.  Even though I'd been thinking about this issue for a few
 days, sleeping on it another night revealed even more courses I'd
 like to take.  For example, it would be nice to take a core course
-in Education [10] so that I had firmer grounding in the work that I
-do.  It would also be nice to take an introductory Chemistry course
-so that I could have some idea what middle son does.  Talking to
-eldest also reminds me that background in Economics would help me
-better understand the world.  I would also benefit from taking at
-least one course in Gender, Women's, and Sexuality Studies.  However,
-they don't allow seniors to pre-register for the intro course, so I
-expect that I couldn't get in.
+in Education [10] so that I had firmer grounding in the work that
+I do.  It would also be nice to take an introductory Chemistry
+course so that I could have some idea what middle son does.  When
+I talk to Eldest Son, I regularly find that I'm reminded that further
+background in Economics would help me better understand the world.
+I would also benefit from taking at least one course in Gender,
+Women's, and Sexuality Studies [11].  However, they don't allow
+seniors to pre-register for the intro course so I expect that I
+couldn't get in easily.
 
 What else? Since Monessa Cummins is on leave this semester, I
 neglected to list one of her courses.  But if she could put up with
-me, I'd like to sit in on one of her courses [11].
+me, I'd like to sit in on one of her courses [12].
 
 In terms of particular courses, I'd like to sit in on Joe Mileti's
 _Combinatorics & Number Theory_.  While I was a math major as an
 undergrad, and likely know much of the material, doing math makes
 me happy.  Certainly, the one day a week I sat in on Titus Klinge's
 _Automata, Formal Languages, and Computational Complexity_ reminded
-me of how much I enjoy problem solving in formal systems; I expect
+me of how much I enjoy problem-solving in formal systems; I expect
 that Joe's course would give me the same feeling.  The last time I
 took number theory was in a summer math camp at the University of
 Chicago.  I also think that I'd appreciate Joe's style more than
 that of Raghavan Narasimhan; I certainly wouldn't expect Joe to
-fill twenty-seven chalkboards in an hour-long class [12].
+fill twenty-seven chalkboards in an hour-long class [14].
 
 That reminds me.  I should probably muse about the faculty and
 courses who had the most powerful influence on me as a student.
@@ -263,7 +264,11 @@ But that's a topic for another musing.
 What else?  I'd mentioned Peter-Michael Osera's _HCI and Programming_
 in an earlier musing.  That's a topic I'd like to think more about.
 However, I'd prefer it in the context of a small seminar, rather than
-the larger class it seems to have become [14].
+the larger class it seems to have become [15].
+
+I have no idea whether or not Anne Harris will ever teach a course
+at Grinnell.  I hope she will.  And if she does, I hope to have the
+opportunity to attend at least some of it.
 
 When I add these courses, I'm now up to five full-time
 semesters or more of courses to take.  How do students choose?  And
@@ -297,17 +302,21 @@ take classes from them.
 
 [10] Most likely, _Educational Principles in a Pluralistic Society_.
 
-[11] It's been way too many years since I took Latin, so I'd probably
+[11] From my interactions with Leah Allen, I feel like I would learn
+a lot in her section.  But it's likely that I would benefit from anyone's
+section.
+
+[12] It's been way too many years since I took Latin, so I'd probably
 choose either introductory Latin or one of the courses that does not
 require knowledge of classical languages.
 
-[12] Maybe it was ninety minutes.  I just remember that he looked
+[14] Maybe it was ninety minutes.  I just remember that he looked
 worn out at the end of each class.  Our brains certainly were.
 
-[14] I realize that twenty (or twenty-four) students is, in fact,
-a "small seminar" at some institutions.  Nonetheless, at Grinnell, it
-feels more like a large class.
+[15] I realize that a class of twenty (or twenty-four) students is,
+in fact, a "small seminar" at some institutions.  Nonetheless, at
+Grinnell, it feels more like a large class.
 
 ---
 
-*Version 0.3 of 2019-11-18.*
+*Version 1.0 of 2019-11-18.*

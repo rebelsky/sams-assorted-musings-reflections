@@ -734,3 +734,7 @@ Almost everything else
 
 > Getting lucky.
 
+[Whoops!](whoops-2019-11-18) (Musing #930)
+
+> Sometimes I'm too persnickety.
+

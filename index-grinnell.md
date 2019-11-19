@@ -227,3 +227,7 @@ Grinnell.
 
 > Something I"ll miss.
 
+[Choosing courses](choosing-courses-2019-11-18) (Musing #929)
+
+> Too many great options!
+

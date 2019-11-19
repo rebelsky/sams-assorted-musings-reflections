@@ -2558,6 +2558,10 @@ Grinnell.
 
 > Something I"ll miss.
 
+[Choosing courses](choosing-courses-2019-11-18) (Musing #929)
+
+> Too many great options!
+
 Registration and Related Topics
 -------------------------------
 
@@ -3973,6 +3977,10 @@ Almost everything else
 [Car radio](car-radio-2019-11-16) (Musing #926)
 
 > Getting lucky.
+
+[Whoops!](whoops-2019-11-18) (Musing #930)
+
+> Sometimes I'm too persnickety.
 
 Musings with multiple entries
 -----------------------------
