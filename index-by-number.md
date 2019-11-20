@@ -1207,3 +1207,7 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Cuts, Closes, and Balances in CS for Spring 2020](ccb-2019-11-17) (Musing #928)  
 [Choosing courses](choosing-courses-2019-11-18) (Musing #929)  
 [Whoops!](whoops-2019-11-18) (Musing #930)  
+
+## 931-940
+
+[Grinnell's persistence rate](persistence-rate-2019-11-19) (Musing #931)  

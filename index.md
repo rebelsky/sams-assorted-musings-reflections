@@ -9,10 +9,8 @@ If you'd like, you can read [a longer introduction](intro-musings-v0).
 If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
-Latest musings:
-[Choosing courses](choosing-courses-2019-11-18) (Musing #929)
-and
-[Whoops!](whoops-2019-11-18) (Musing #930)
+Latest musing:
+[Grinnell's persistence rate](persistence-rate-2019-11-19) (Musing #931)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

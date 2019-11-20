@@ -231,3 +231,7 @@ Grinnell.
 
 > Too many great options!
 
+[Grinnell's persistence rate](persistence-rate-2019-11-19) (Musing #931)
+
+> We need to improve it.
+
