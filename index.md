@@ -9,8 +9,10 @@ If you'd like, you can read [a longer introduction](intro-musings-v0).
 If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
-Latest musing:
-[Where was everybody?](frustrated-2019-11-21) (Musing #932)
+Latest musings:
+[Licensing athletes' images](ncaa-image-2019-11-22) (Musing #933)
+and
+[Double-blind grading](double-blind-grading-2019-11-22) (Musing #934)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

@@ -29,4 +29,11 @@ On life in academia
 
 > Is the _Handbook_ our contract? 
 
+[Licensing athletes' images](ncaa-image-2019-11-22) (Musing #933)
+
+> A step forward for the NCAA, I think.
+
+[Double-blind grading](double-blind-grading-2019-11-22) (Musing #934)
+
+> What is it?
 
