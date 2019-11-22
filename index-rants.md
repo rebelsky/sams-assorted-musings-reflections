@@ -510,3 +510,7 @@ Rants
 
 > Some good, some less good.
 
+[Where was everybody?](frustrated-2019-11-21) (Musing #932)
+
+> Sometimes I really hate this place.
+

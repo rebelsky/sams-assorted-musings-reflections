@@ -1211,3 +1211,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 ## 931-940
 
 [Grinnell's persistence rate](persistence-rate-2019-11-19) (Musing #931)  
+[Where was everybody?](frustrated-2019-11-21) (Musing #932)  

@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Grinnell's persistence rate](persistence-rate-2019-11-19) (Musing #931)
+[Where was everybody?](frustrated-2019-11-21) (Musing #932)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
