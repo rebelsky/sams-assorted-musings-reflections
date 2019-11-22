@@ -127,6 +127,27 @@ services spend as much or more time on personal issues with students
 as they do on academic issues, and therefore impact the students' sense
 of belonging.
 
+**Topic five: Unintended consequences**
+
+A few days after I posted the first musing, I received the following 
+invitation from the once and future director of the CTLA.
+
+> I am writing to ask if you would agree to lead a Faculty Friday lunch on Jan 24 on the topic of student retention.  I understand that you have written an essay on the topic in reaction to some comments by Dean Harris.  Could you kick off a discussion of the topic?
+ 
+Why do these things happen to me?  I'm not sure I said anything of
+particular import in the musing; I was just trying to gather my
+thoughts.  And, as I suggested in the prior musing, I have a bunch of 
+reading to do before I really understand the topic.
+
+I'm an idiot.  So I agreed to put together a group to plan a lunchtime
+discussion on retention and persistence for January 24.  Next up
+is figuring out who to invite to help put it together.  I've sent
+a note to a colleague who regularly teaches me a lot about these
+issues.  I've sent a note to Dean Harris.  I've asked that we make
+it a Faculty _and Staff_ Friday [10], since I think the conversation
+needs to involve both groups [11].  I'm glad that I have some more
+time to work on it.
+
 **And beyond**
 
 Those are the main topics I recall hearing about in the past two days.
@@ -174,6 +195,11 @@ causation.
 But I know that students express dissatisfaction at any impositions on
 self governance.
 
+[10] My request was approved.
+
+[11] It should also involve students, but I also think it's important 
+to talk together as faculty and staff.
+
 ---
 
-*Version 0.1 of 2019-11-21.*
+*Version 0.2 of 2019-11-22.*
