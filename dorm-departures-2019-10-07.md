@@ -9,7 +9,7 @@ _Scarlet and Black_ and I don't hear as much from students and
 colleagues because I don't see nearly as many students or colleagues.
 But occasionally one of them sends me something of interest.
 Recently, one pointed me to [an article in the
-_S&B_](https://grinnell.formstack.com/forms/shuttle_signup).  My
+_S&B_](http://www.thesandb.com/article/student-handbook-changes-raise-concerns.html).  My
 colleague and the article pointed out a new addition to the
 _Student Handbook_.
 
@@ -59,4 +59,6 @@ in the article.
 
 ---
 
-*Version 1.0 of 2019-10-07.*
+*Version 1.0 released 2019-10-07.*
+
+*Version 1.0.1. of 2019-10-07.*
