@@ -55,6 +55,31 @@ it if you'd share the explanation with me [5].
 
 ---
 
+Postscript: As promised, here are the explanations I received.
+
+_The MOOC/LMS answer_. Blackboard describes them this way: "Blind parallel graders - Two graders grade the same submissions. They can't see each other's grades or discuss them." 
+<https://help.blackboard.com/Learn/Instructor/Assignments/Grade_Assignments/Delegated_Grading_Examples>.  That's something that's done in MOOCs in peer grading.
+
+_The sarcastic answer_.  See [this article on double-blind marking](http://www.wissenburg.org/dbm.htm).
+
+> Grading is performed for each individual paper by taking a pencil in hand, closing both eyes (hence: double blind marking) and selecting a cell from the DBM Grading Table. The paper is then marked accordingly, and the procedure is repeated for the next paper until the last has been marked.
+
+_The potentially authoritative answer_.  The faculty member under discussion
+writes the following in their [fisking on the Provost's letter](http://www.rasmusen.org/special/2019kerfuffle/provost1.htm).
+
+> The Provost means "blind grading". I slip into saying "double-blind"
+myself, but what it means is the professor doesn't know which
+student's exam he's grading, and the student doesn't know which
+professor is grading his exam. That's what's done in experiments.
+Here, it's "single-blind" or just "blind". Just terminology.
+
+I had not heard the term "fisking" before.  I started to add a
+definition and then realized that I had written enough for [another
+musing](fisking-2019-11-25).  You can do a Web search for "fisking"
+or you can read [the new musing](fisking-2019-11-25).
+
+---
+
 [1] I guess I would have preferred that she added "academic freedom"
 to "first amendment rights", but that's probably not essential.
 
@@ -69,4 +94,6 @@ model.
 
 ---
 
-*Version 1.0 of 2019-11-22.*
+*Version 1.0 released 2019-11-22.*
+
+*Version 1.1 of 2019-11-25.*
