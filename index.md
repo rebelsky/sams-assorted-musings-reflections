@@ -10,6 +10,10 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musings:
+[Persistence rates, continued](persistence-rate-2019-11-24) (Musing #935)
+and
+[Cuts, closes, and balances in CS for Spring 2020, revisited](ccb-2019-11-24)(Musing #936)
+
 [Licensing athletes' images](ncaa-image-2019-11-22) (Musing #933)
 and
 [Double-blind grading](double-blind-grading-2019-11-22) (Musing #934)

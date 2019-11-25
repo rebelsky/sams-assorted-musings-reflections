@@ -2577,6 +2577,14 @@ Grinnell.
 
 > We need to improve it.
 
+[Persistence rates, continued](persistence-rate-2019-11-24) (Musing #935)
+
+> More thoughts on the issues.
+
+[Cuts, closes, and balances in CS for Spring 2020, revisited](ccb-2019-11-24)(Musing #936)
+
+> Unexpected challenges.
+
 Registration and Related Topics
 -------------------------------
 

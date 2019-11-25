@@ -1214,3 +1214,5 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Where was everybody?](frustrated-2019-11-21) (Musing #932)  
 [Licensing athletes' images](ncaa-image-2019-11-22) (Musing #933)  
 [Double-blind grading](double-blind-grading-2019-11-22) (Musing #934)  
+[Persistence rates, continued](persistence-rate-2019-11-24) (Musing #935)  
+[Cuts, closes, and balances in CS for Spring 2020, revisited](ccb-2019-11-24)(Musing #936)  
