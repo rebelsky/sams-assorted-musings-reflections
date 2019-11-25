@@ -3,7 +3,7 @@ Persistence rates, continued
 
 *Topics/tags: [Grinnell](index-grinnell), followup*
 
-A few days ago, I mused about When I wrote about [persistence rates
+A few days ago, I mused about about [persistence rates
 at Grinnell](persistence-rates-2019-11-19).  When I did so, I didn't
 expect to be writing a followup musing so soon thereafter.  Instead,
 I had planned to read a variety of things, including the
@@ -218,4 +218,6 @@ to talk together as faculty and staff.
 
 ---
 
-*Version 1.0 of 2019-11-24.*
+*Version 1.0 released 2019-11-24.*
+
+*Version 1.0.1 of 2019-11-24.*
