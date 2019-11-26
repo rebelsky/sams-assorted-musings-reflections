@@ -37,3 +37,7 @@ to them eventually._
 
 > Words that hurt.
 
+[Fisking](fisking-2019-11-25) (Musing #937)
+
+> A word I had not known.
+

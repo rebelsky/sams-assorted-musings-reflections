@@ -9,14 +9,8 @@ If you'd like, you can read [a longer introduction](intro-musings-v0).
 If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
-Latest musings:
-[Persistence rates, continued](persistence-rate-2019-11-24) (Musing #935)
-and
-[Cuts, closes, and balances in CS for Spring 2020, revisited](ccb-2019-11-24)(Musing #936)
-
-[Licensing athletes' images](ncaa-image-2019-11-22) (Musing #933)
-and
-[Double-blind grading](double-blind-grading-2019-11-22) (Musing #934)
+Latest musing:
+[Fisking](fisking-2019-11-25) (Musing #937)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

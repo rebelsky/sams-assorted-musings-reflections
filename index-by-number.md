@@ -1216,3 +1216,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Double-blind grading](double-blind-grading-2019-11-22) (Musing #934)  
 [Persistence rates, continued](persistence-rate-2019-11-24) (Musing #935)  
 [Cuts, closes, and balances in CS for Spring 2020, revisited](ccb-2019-11-24)(Musing #936)  
+[Fisking](fisking-2019-11-25) (Musing #937)  
