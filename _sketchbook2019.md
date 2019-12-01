@@ -9,31 +9,93 @@ the sketchbook._
 Tentative upcoming week
 -----------------------
 
-* Monday: What classes would I take?
-* Tuesday: Visiting UofC
-* Wednesday: How do you teach CS?
+* Sunday: Memo about tutorial/open curriculum.
+* Monday: Visiting UofC
+* Tuesday: Michelle
+* Wednesday: Post-prereg.
+* THursday: How do you teach CS?
 
 End of month
 ------------
 
-* Two months.
-* Followup on the upgrades one.  Two days later, I had 400,000 messages
-  to download.  After five hours in my office, it had downloaded about
-  a third of those.  Will it ever finish?  
-* Plus a wonderful message each night: "The operation couldn't be 
-  completed.  (MCMailErrorDomain error 1030.)"
-* Took down a musing that I thought was a light approach to a complex
-  topic but that offended a colleague.
-* Had a long period in which I didn't have the mental energy to muse.
-  Glad that I got back to it.  Then had another week off.  Bleh.
-* After realizing that "musings on registration" was clearly a series,
-  created a separate category for those musings.  At some point, I need
-  to rearchitect the whole damn system.
-* Realized that I have a writing habit of asking questions in a paragraph
-  by themselves.  Is that a problem?  I don't think so.
 
 Short
 -----
+
+1. Visiting UofC.  See notes on iPhone.
+
+1. When Sam worked too much at UofC.
+
+1. Fun with Grinnell email addresses.  traciand.  galangry.  perlmutt.
+I need to keep track of others.
+
+1. Trust.  At a recent faculty meeting, Dean Harris talked about how things
+work at Grinnell, and noted that a lot of what makes Grinnell work comes
+down to trust.  I agree [If I recall correctly, she even noted that
+I nodded in response.]  I'd had a musing about trust in my long-term
+mental queue of things to write about [not everything makes it into my
+sketchbook].  If I recall correctly, I had it phrased as "good will",
+rather than "trust", but it's a similar enough concept.
+
+1. Office Hour Signups.  Recently, as I was reading the excerpts from
+Grinnell's Executive Council, I learned that some consider it a FERPA
+violation to post sign-up sheets for office hours outside of our offices.
+IANAL/IANAFO [I am not a lawyer and I am not a FERPA officer ], so you
+should take everything I say [write] with a grain [or granary] of salt.
+
+1. Volunteering for NESFA.  Im not sure why my muse had me write
+this. Probably only of interest to me. But maybe the kids would
+want to know. Reminded by car parked in front of historical museum
+driveway.  My brain said “remember when you accidentally parked in
+front of a driveway and your car was towed?”  And I remembered. It
+was one of those months when I was volunteering to help with the
+NESFA (new england science fiction association) ‘zine [or whatever
+they called it].  What does that mean?  Well, back in the misty
+depths of time (that is, late 1970's/early 1980's), SF (never SciFi)
+fans kept in touch with each other, in part, by writing regular
+newletters.  Each newsletter might have reviews of books and other
+media, short stories, or whatever the author thought was of interest.
+If you mimeographed a bunch of your newsletter and sent the stack
+to NESFA, a group of people, myself included, would collate all the
+individual newsletters into a larger stack and then send them out.
+Or at least that's what I remember.  Helping out with the newsletter
+was fun; I met interesting people and built community.  It meant that
+I knew people when I attended Boskone (whatever happend to my lifetime
+membership).  And the informal friendships continued.  I still
+recall spending a train ride from Boston to Chicago for the 1982
+WorldCon in which we spent the whole ride talking and playing games.
+(I stayed after WorldCon to attend college.)  I'm pretty sure that
+I kept all of those old newsletters until mom moved out of her
+house.  I wish I had moved them to Grinnell, if only to give them to
+the UIowa archive of SF memorabilia.  Oh well.
+
+1. Honors in CS.  I'm not sure why, but I've recently been thinking
+about the requirements for honors in CS.  In order to be awarded honors
+in a department at Grinnell, you need at least a 3.4 overall gpa, at
+least a 3.5 gpa in the major [I don't know whether they count required
+courses from outside the department in that computation], and to meet
+the individual department's requirements.  Early in my career at Grinnell,
+we had a fairly clear set of requirements: You had to take both 211 and
+213, you had to take an extra upper-level CS or math class, you had to
+do extra-curricular work on campus judged as excellent by the members of
+the department, and you had to do external work judged as excellent, such
+as high performance on the GREs or publishing a paper.  We often 
+awarded honors to students who had met only three of the four requirements,
+provided they had done particularly well at one of the last two requirements.
+A few years ago, we changed the requirements to be more like those of other
+departments.  They now read [fill in details].  I was originally in favor
+of the change, but I must admit that it's getting harder and harder to
+decide whether or not students deserve honors, particularly as we deal
+with larger and larger numbers of students in the department and, therefore,
+larger numbers of candidates for honors.  In any case, as I think about our
+core requirements ("significant engagement in the department and excellence in computing-related work"), I begin to wonder why a high gpa is required
+for honors.  Isn't it honorable if you do excel in those two things, even 
+if your gpa is lower?  And don't students sometimes achieve higher gpas
+by taking fewer risks?  I recall one peer in high school who refused to take
+AP Calculus because they knew they'd get an A in the non-AP math course
+and worried they might get a B in the other course.  I'd rather a student
+who takes courses that they might get lower grades in because they want
+to challenge themselves.  Why do we focus so much on gpa?
 
 1. "My dad is the third-largest major at Grinnell" / majoring in a
 faculty member, but that's a whole separate issue.  (Now John
@@ -179,6 +241,28 @@ And people reading it  https://archive.org/details/treatisefootball_1906_librivo
 Long
 ----
 
+1. Post-prereg.
+
+1. The memo about Tutorial/Open Curriculum.
+
+1. If I had six months to live.  I'm not sure why, but I was feeling
+maudlin the other day, and asked myself what I'd do if I had six
+months to live.  My first reaction was "I'd get rid of all the crap
+I've accumulated so that my kids wouldn't have to."  But I realized
+that I should probably check with them first in case they had some
+strange reason to want to keep things.  And I also began to wonder
+whether that's something I should do now, rather than later.  But
+I find it hard to get rid of things.  (See, for example, my regret
+at getting rid of my old NESFA newsletters.)  Of course, I would
+also set aside and document things that I thought the kids might
+want to keep because they have particular meaning to me or the
+family, such as the shark's tooth that my father used to wear (Did
+he wear it, or did he just have it set up so that he could wear
+it?) or the autographed Phil Ochs albums.  I also have some things
+that likely have value to others.  It would make sense to set those
+aside for the kids to sell.  Maybe the first set of things could serve
+as the topics of musings.
+
 1. For Mike: Teaching CS.
 
 1. Influential teachers.
@@ -268,8 +352,6 @@ Daily reading
 
 Grinnellians
 ------------
-
-1. Jen Jacobsen
 
 1. Susan Sanning
 
