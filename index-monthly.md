@@ -109,3 +109,7 @@ most of them here._
 
 > Getting comfortable with the lapses.
 
+[Another month (or two) of (approximately bi-) daily musings](another-month-2019-11) (Musing #939)
+
+> Adding (parenthetical) remarks to the title.
+

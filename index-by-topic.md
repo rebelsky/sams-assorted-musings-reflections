@@ -472,6 +472,10 @@ most of them here._
 
 > Getting comfortable with the lapses.
 
+[Another month (or two) of (approximately bi-) daily musings](another-month-2019-11) (Musing #939)
+
+> Adding (parenthetical) remarks to the title.
+
 For prospective students, parents of prospective students, and others with similar interests
 --------------------------------------------------------------------------------------------
 
@@ -3149,6 +3153,10 @@ Autobiographical essays, more or less
 [Dishwashers](dishwashers-2019-10-11) (Musing #916)
 
 > And their proper use.
+
+[Gratitude](gratitude-2019-11-30) (Musing #938)
+
+> It's that time of year.
 
 Salary reviews
 --------------

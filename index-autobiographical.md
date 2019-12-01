@@ -397,3 +397,7 @@ Autobiographical essays, more or less
 
 > And their proper use.
 
+[Gratitude](gratitude-2019-11-30) (Musing #938)
+
+> It's that time of year.
+

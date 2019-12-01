@@ -1217,3 +1217,5 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Persistence rates, continued](persistence-rate-2019-11-24) (Musing #935)  
 [Cuts, closes, and balances in CS for Spring 2020, revisited](ccb-2019-11-24)(Musing #936)  
 [Fisking](fisking-2019-11-25) (Musing #937)  
+[Gratitude](gratitude-2019-11-30) (Musing #938)  
+[Another month (or two) of (approximately bi-) daily musings](another-month-2019-11) (Musing #939)  
