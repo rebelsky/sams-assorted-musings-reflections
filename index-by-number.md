@@ -1219,3 +1219,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Fisking](fisking-2019-11-25) (Musing #937)  
 [Gratitude](gratitude-2019-11-30) (Musing #938)  
 [Another month (or two) of (approximately bi-) daily musings](another-month-2019-11) (Musing #939)  
+[What would Joe say?](what-would-joe-say-2019-12-04) (Musing #940)  

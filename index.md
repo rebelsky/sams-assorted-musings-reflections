@@ -9,10 +9,8 @@ If you'd like, you can read [a longer introduction](intro-musings-v0).
 If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
-Latest musings:
-[Gratitude](gratitude-2019-11-30) (Musing #938)
-and
-[Another month (or two) of (approximately bi-) daily musings](another-month-2019-11) (Musing #939)
+Latest musing:
+[What would Joe say?](what-would-joe-say-2019-12-04) (Musing #940)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

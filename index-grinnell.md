@@ -243,3 +243,7 @@ Grinnell.
 
 > Unexpected challenges.
 
+[What would Joe say?](what-would-joe-say-2019-12-04) (Musing #940)
+
+> Seeking the opinion of a respected leader.
+
