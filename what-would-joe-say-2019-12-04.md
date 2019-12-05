@@ -10,7 +10,7 @@ a lot of people make money, but money alone isn't enough to explain the
 kind of devotion people clearly felt for him [1].  He certainly made a
 huge positive difference to Grinnell [2].  I'm not planning to muse
 much about Joe right now; I need to read Drake's biography of Rosenfield,
-_Mentor_ first.
+[_Mentor_](https://bookstore.grinnell.edu/shop_product_detail.asp?catalog_group_id=LTM&catalog_group_name=RmVhdHVyZWQgSXRlbXM&catalog_id=793&catalog_name=RmVhdHVyZWQgSXRlbXM&product_name=TWVudG9yOiBMaWZlICYgTGVnYWN5IG9mIEpvZSBSb3NlbmZpZWxk&pf_id=11152&type=3&target=shop_main.asp), first.
 
 I did appreciate one anecdote that George shared.  In the late
 1960s, when Grinnell was debating making the dorms co-ed [3,4], the
