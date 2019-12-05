@@ -52,6 +52,12 @@ in this musing.  It seemed right.
 
 ---
 
+Postscript: I realized retrospectively that some might interpret
+"Joe" as "Joe Biden".  Nonetheless, at Grinnell, "Joe" should mean
+"Joe Rosenfield".
+
+---
+
 [1] I think, for example, of John Ruan, who, after Joe died, would 
 regularly have his chauffeur drive him up to Camp Mitigwa so that he
 could sit by the statue he had donated in Joe's memory and think about
@@ -78,4 +84,6 @@ about this decision](https://www.aclu.org/other/tinker-v-des-moines-landmark-sup
 
 ---
 
-*Version 1.0 of 2019-12-04.*
+*Version 1.0 released 2019-12-04.*
+
+*Version 1.1 of 2019-12-04.*
