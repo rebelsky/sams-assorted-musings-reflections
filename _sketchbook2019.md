@@ -9,15 +9,18 @@ the sketchbook._
 Tentative upcoming week
 -----------------------
 
-* Sunday: Memo about tutorial/open curriculum.
-* Monday: Visiting UofC
-* Tuesday: Michelle
-* Wednesday: Post-prereg.
-* THursday: How do you teach CS?
+* Thursday: Workload
+* Friday: Post-prereg?
+* Saturday: Visiting UofC + Working at UofC
+* Sunday: Pioneer Classic
+* Monday: Memo about tutorial/open curriculum.
+* Tuesday: How do you teach CS?
 
 End of month
 ------------
 
+* Had hoped to be more on top of things, but missed the first three days
+of the month.
 
 Short
 -----
@@ -25,6 +28,8 @@ Short
 1. Visiting UofC.  See notes on iPhone.
 
 1. When Sam worked too much at UofC.
+
+1. Gordo.
 
 1. Fun with Grinnell email addresses.  traciand.  galangry.  perlmutt.
 I need to keep track of others.
