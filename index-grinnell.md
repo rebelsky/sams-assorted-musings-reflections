@@ -247,3 +247,7 @@ Grinnell.
 
 > Seeking the opinion of a respected leader.
 
+[Grinnell's student workload](workload-2019-12-05) (Musing #941)
+
+> How do we make it more reasonable?
+

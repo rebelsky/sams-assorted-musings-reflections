@@ -1220,3 +1220,7 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Gratitude](gratitude-2019-11-30) (Musing #938)  
 [Another month (or two) of (approximately bi-) daily musings](another-month-2019-11) (Musing #939)  
 [What would Joe say?](what-would-joe-say-2019-12-04) (Musing #940)  
+
+## 941-950
+
+[Grinnell's student workload](workload-2019-12-05) (Musing #941)  

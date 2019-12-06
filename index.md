@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[What would Joe say?](what-would-joe-say-2019-12-04) (Musing #940)
+[Grinnell's student workload](workload-2019-12-05) (Musing #941)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
