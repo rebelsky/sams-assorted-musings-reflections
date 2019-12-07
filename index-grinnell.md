@@ -251,3 +251,7 @@ Grinnell.
 
 > How do we make it more reasonable?
 
+[Grinnell's next president](grinnells-next-president-2019-12-06) (Musing #943)
+
+> Some charactistics that I'd like to see.
+

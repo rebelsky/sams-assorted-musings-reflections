@@ -1224,3 +1224,5 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 ## 941-950
 
 [Grinnell's student workload](workload-2019-12-05) (Musing #941)  
+[Swimming, diving, and parking](swimming-diving-parking-2019-12-06) (Musing #942)  
+[Grinnell's next president](grinnells-next-president-2019-12-06) (Musing #943)  

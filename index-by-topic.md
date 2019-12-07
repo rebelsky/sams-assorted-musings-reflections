@@ -1298,6 +1298,10 @@ Rants
 
 > Sometimes I really hate this place.
 
+[Swimming, diving, and parking](swimming-diving-parking-2019-12-06) (Musing #942)
+
+> Why are there so many conflicts?
+
 Assorted talks and speeches
 ---------------------------
 
@@ -2600,6 +2604,10 @@ Grinnell.
 [Grinnell's student workload](workload-2019-12-05) (Musing #941)
 
 > How do we make it more reasonable?
+
+[Grinnell's next president](grinnells-next-president-2019-12-06) (Musing #943)
+
+> Some charactistics that I'd like to see.
 
 Registration and Related Topics
 -------------------------------

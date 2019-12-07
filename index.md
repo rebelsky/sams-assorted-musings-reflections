@@ -9,8 +9,10 @@ If you'd like, you can read [a longer introduction](intro-musings-v0).
 If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
-Latest musing:
-[Grinnell's student workload](workload-2019-12-05) (Musing #941)
+Latest musings:
+[Swimming, diving, and parking](swimming-diving-parking-2019-12-06) (Musing #942)
+and
+[Grinnell's next president](grinnells-next-president-2019-12-06) (Musing #943)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

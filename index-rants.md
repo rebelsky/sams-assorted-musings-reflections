@@ -514,3 +514,7 @@ Rants
 
 > Sometimes I really hate this place.
 
+[Swimming, diving, and parking](swimming-diving-parking-2019-12-06) (Musing #942)
+
+> Why are there so many conflicts?
+
