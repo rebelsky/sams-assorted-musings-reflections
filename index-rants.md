@@ -518,3 +518,9 @@ Rants
 
 > Why are there so many conflicts?
 
+[Swimming and ... that other thing](swimming-and-something-2019-12-07) (Musing #944)
+
+> Supporting divers(ity).
+
+
+

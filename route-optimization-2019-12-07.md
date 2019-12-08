@@ -5,7 +5,7 @@ Route optimization
 
 Did you know that the fastest driving route from the Rebelsky
 driveway to the Grinnell Natatorium involves going east on 7th,
-north on Broad, east on 8th, northon Park, and then east on 10th?
+north on Broad, east on 8th, north on Park, and then east on 10th?
 I do.  Why do I know?  Because my children, like me, make it a habit
 to conceptualize the various possibilities for getting from place
 A to place B and then try to figure out the optimal route.  Sometimes
@@ -28,7 +28,9 @@ on each bus route and the time to the stop, but also based on how
 quickly each bus is to arrive after the current time.
 
 Is it strange that I value this habit?  Is it strange that I'm proud
-of how well my sons have developed the habit?
+of how well my sons have developed the habit?  I guess it's just
+another characteristic of [those wacky
+Rebelskys](garners-modern-english-2019-09-14).
 
 ---
 
@@ -42,4 +44,4 @@ as many stop signs as possible.
 
 ---
 
-*Version 0.1 of 2019-12-07.*
+*Version 1.0 of 2019-12-07.*

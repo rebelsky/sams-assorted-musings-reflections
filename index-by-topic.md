@@ -1302,6 +1302,12 @@ Rants
 
 > Why are there so many conflicts?
 
+[Swimming and ... that other thing](swimming-and-something-2019-12-07) (Musing #944)
+
+> Supporting divers(ity).
+
+
+
 Assorted talks and speeches
 ---------------------------
 
@@ -2213,6 +2219,10 @@ Grinnellians you should know (or know about)
 [Nominations for the Grinnell Lecture](grinnell-lecture-2019-10-03) (Musing #908)
 
 > Too many awesome candidates.
+
+[Joe and baseball](joe-and-baseball-2019-12-07) (Musing #946)
+
+> Preserving an anecdote about Joe Rosenfield '25.
 
 ---
 
@@ -3173,6 +3183,10 @@ Autobiographical essays, more or less
 [Gratitude](gratitude-2019-11-30) (Musing #938)
 
 > It's that time of year.
+
+[Route optimization](route-optimization-2019-12-07) (Musing #945)
+
+> Those wacky Rebelskys.
 
 Salary reviews
 --------------

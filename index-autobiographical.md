@@ -401,3 +401,7 @@ Autobiographical essays, more or less
 
 > It's that time of year.
 
+[Route optimization](route-optimization-2019-12-07) (Musing #945)
+
+> Those wacky Rebelskys.
+

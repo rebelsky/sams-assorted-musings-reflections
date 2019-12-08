@@ -10,9 +10,10 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musings:
-[Swimming, diving, and parking](swimming-diving-parking-2019-12-06) (Musing #942)
+[Swimming and ... that other thing](swimming-and-something-2019-12-07) (Musing #944),
+[Route optimization](route-optimization-2019-12-07) (Musing #945)
 and
-[Grinnell's next president](grinnells-next-president-2019-12-06) (Musing #943)
+[Joe and baseball](joe-and-baseball-2019-12-07) (Musing #946).
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

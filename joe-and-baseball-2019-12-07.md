@@ -1,7 +1,7 @@
 Joe and baseball
 ================
 
-*Topics/tags: [Grinnell](index-grinnell), short*
+*Topics/tags: [Grinnellians](index-grinnellians), short*
 
 The other day, I had the opportunity to attend a panel on Joe
 Rosenfield '25 led by George Drake '56.  During the Q&A session
@@ -25,16 +25,17 @@ It went something like this.
   to see a limousine pull up to the field.  It turns out that Joe had
   driven down from Des Moines to support us in our first game.
 
-I thought it was a nice little story and thought is should be preserved.
-I think it says a lot about the ways that Joe was comfortable using his
-money in support of the College and the things he liked.
+It's a nice little story that should be preserved.  I think it says
+a lot about the ways that Joe was comfortable using his money in
+support of the College and the things he liked.
 
-I will admit that I was surprised that Grinnell did not have a baseball
-team.  I see that there was a baseball team in 1868 and it looks like
-we fielded a team until 1915.  But no team was fielded between 1916 and
-1956, which I expect was when Joe decided to re-form [7] the team.
-I wonder why the team disbanded in the early twentieth century.  I guess
-I'll have to wait for the Wall/Bisson book to find out.
+I will admit that I was surprised that Grinnell did not have a
+baseball team.  I see that there was a baseball team in 1868 and
+it looks like we fielded a team until 1915.  But no team was fielded
+between 1916 and 1956, which I expect was when Joe decided to re-form
+[7] the team.  I wonder why the team disbanded in the early twentieth
+century.  I guess I'll have to wait for the Wall/Bisson book to
+find out.
 
 ---
 
@@ -55,11 +56,12 @@ up the story.
 [4] If I recall correctly, he was the largest minority investor in the
 Chicago Cubs.
 
-[5] I don't believe that the speaker mentioned the coaches.  I'm not sure
-whether we just had student coaches in the first years of baseball or
-whether we asked a coach form another sport to help.  The [historical
-record](https://pioneers.grinnell.edu/documents/2019/5/9//Season_by_Season_Overall_Team_Records_Update.pdf?id=1201) that I found lists no coach from
-1957 to 1969.
+[5] I don't believe that the speaker mentioned Joe paying for the
+coaches.  I'm not sure whether we just had student coaches in the
+first years of baseball or whether we asked a coach from another
+sport to help.  The [historical
+record](https://pioneers.grinnell.edu/documents/2019/5/9//Season_by_Season_Overall_Team_Records_Update.pdf?id=1201)
+that I found lists no coach from 1957 to 1969.
 
 [6] No, not the swimming house.
 
@@ -67,4 +69,4 @@ record](https://pioneers.grinnell.edu/documents/2019/5/9//Season_by_Season_Overa
 
 ---
 
-*Version 0.1 of 2019-12-07.*
+*Version 1.0 of 2019-12-07.*

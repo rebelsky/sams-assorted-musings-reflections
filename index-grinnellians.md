@@ -26,6 +26,10 @@ Grinnellians you should know (or know about)
 
 > Too many awesome candidates.
 
+[Joe and baseball](joe-and-baseball-2019-12-07) (Musing #946)
+
+> Preserving an anecdote about Joe Rosenfield '25.
+
 ---
 
 [Brandy Agerbeck '96](brandy-agerbeck) (Musing #127)
