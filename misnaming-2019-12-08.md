@@ -5,9 +5,9 @@ Misnaming
 
 The other day, as I was chatting with Andi Tracy on Facebook, I
 asked myself, "I wonder how often people end up addressing her as
-Andy Traci?" While that's a bit of a facetious question, it did get
-me thinking about common or potential misnamings I encounter (or
-might encounter) at Grinnell.
+Andy Traci or Traci Andy or something else?" While that's a bit of
+a facetious question, it did get me thinking about common or potential
+misnamings I encounter (or might encounter) at Grinnell.
 
 Paul Hutchison appears to be the most common case.  I'd swear I
 hear people refer to him as "Paul Hutchi**n**son" more than I hear
