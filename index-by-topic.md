@@ -4047,6 +4047,10 @@ Almost everything else
 
 > Sometimes I'm too persnickety.
 
+[Misnaming](misnaming-2019-12-08) (MUsing #947)
+
+> Sam needed a break from even more serious topics.
+
 Musings with multiple entries
 -----------------------------
 

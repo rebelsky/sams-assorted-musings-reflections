@@ -9,11 +9,8 @@ If you'd like, you can read [a longer introduction](intro-musings-v0).
 If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
-Latest musings:
-[Swimming and ... that other thing](swimming-and-something-2019-12-07) (Musing #944),
-[Route optimization](route-optimization-2019-12-07) (Musing #945)
-and
-[Joe and baseball](joe-and-baseball-2019-12-07) (Musing #946).
+Latest musing:
+[Misnaming](misnaming-2019-12-08) (Musing #947)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

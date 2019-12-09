@@ -1229,3 +1229,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Swimming and ... that other thing](swimming-and-something-2019-12-07) (Musing #944)  
 [Route optimization](route-optimization-2019-12-07) (Musing #945)  
 [Joe and baseball](joe-and-baseball-2019-12-07) (Musing #946)  
+[Misnaming](misnaming-2019-12-08) (MUsing #947)  
