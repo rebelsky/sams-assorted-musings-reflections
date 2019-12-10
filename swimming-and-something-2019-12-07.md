@@ -5,7 +5,7 @@ Swimming and ... that other thing
 
 As I've mentioned in other posts, I appreciate attending swimming
 and diving meets.  These days, I'll admit that I enjoy diving more
-than swimming, and it's not just because Youngest Son took it up
+than swimming, and it's not just because Middle Son took it up
 when he started college.  Swimming is mostly about speed, or at
 least I don't know enough about the sport to observe and appreciate
 subtle differences in form.  Diving, in contrast, is about form and
@@ -98,3 +98,5 @@ in our competitions.
 ---
 
 *Version 1.0 of 2019-12-07.*
+
+*Version 1.1 of 2019-12-10.*
