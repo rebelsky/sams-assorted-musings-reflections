@@ -97,6 +97,6 @@ in our competitions.
 
 ---
 
-*Version 1.0 of 2019-12-07.*
+*Version 1.0 released 2019-12-07.*
 
 *Version 1.1 of 2019-12-10.*
