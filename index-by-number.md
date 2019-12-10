@@ -1230,4 +1230,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Route optimization](route-optimization-2019-12-07) (Musing #945)  
 [Joe and baseball](joe-and-baseball-2019-12-07) (Musing #946)  
 [Misnaming](misnaming-2019-12-08) (Musing #947)  
-[Eggnog](eggnog-2019-12-09) (Musing #948)  
+[Eggnog (and other holiday memories)](eggnog-2019-12-09) (Musing #948)  

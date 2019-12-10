@@ -742,7 +742,3 @@ Almost everything else
 
 > Sam needed a break from even more serious topics.
 
-[Eggnog](eggnog-2019-12-09) (Musing #948)
-
-> Memories of holidays past.
-

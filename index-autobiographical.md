@@ -405,3 +405,7 @@ Autobiographical essays, more or less
 
 > Those wacky Rebelskys.
 
+[Eggnog (and other holiday memories)](eggnog-2019-12-09) (Musing #948)
+
+> Memories of holidays past.
+

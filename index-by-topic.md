@@ -3188,6 +3188,10 @@ Autobiographical essays, more or less
 
 > Those wacky Rebelskys.
 
+[Eggnog (and other holiday memories)](eggnog-2019-12-09) (Musing #948)
+
+> Memories of holidays past.
+
 Salary reviews
 --------------
 
@@ -4050,10 +4054,6 @@ Almost everything else
 [Misnaming](misnaming-2019-12-08) (Musing #947)
 
 > Sam needed a break from even more serious topics.
-
-[Eggnog](eggnog-2019-12-09) (Musing #948)
-
-> Memories of holidays past.
 
 Musings with multiple entries
 -----------------------------
