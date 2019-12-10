@@ -4047,9 +4047,13 @@ Almost everything else
 
 > Sometimes I'm too persnickety.
 
-[Misnaming](misnaming-2019-12-08) (MUsing #947)
+[Misnaming](misnaming-2019-12-08) (Musing #947)
 
 > Sam needed a break from even more serious topics.
+
+[Eggnog](eggnog-2019-12-09) (Musing #948)
+
+> Memories of holidays past.
 
 Musings with multiple entries
 -----------------------------

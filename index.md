@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Misnaming](misnaming-2019-12-08) (Musing #947)
+[Eggnog](eggnog-2019-12-09) (Musing #948)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
