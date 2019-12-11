@@ -255,3 +255,7 @@ Grinnell.
 
 > Some charactistics that I'd like to see.
 
+[Grinnell gossip: The (potential) new residence hall](gossip-new-residence-hall-2019-12-10) (Musing #951)
+
+> Is this news?
+

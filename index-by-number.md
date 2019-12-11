@@ -1231,3 +1231,9 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Joe and baseball](joe-and-baseball-2019-12-07) (Musing #946)  
 [Misnaming](misnaming-2019-12-08) (Musing #947)  
 [Eggnog (and other holiday memories)](eggnog-2019-12-09) (Musing #948)  
+[Raygun](raygun-2019-12-10) (Musing #949)  
+[One drive, many steps](one-drive-2019-12-10) (Musing #950)  
+
+## 951-960
+
+[Grinnell gossip: The (potential) new residence hall](gossip-new-residence-hall-2019-12-10) (Musing #951)  

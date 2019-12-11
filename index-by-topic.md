@@ -1306,7 +1306,9 @@ Rants
 
 > Supporting divers(ity).
 
+[One drive, many steps](one-drive-2019-12-10) (Musing #950)
 
+> What do your workflows look like?
 
 Assorted talks and speeches
 ---------------------------
@@ -2618,6 +2620,10 @@ Grinnell.
 [Grinnell's next president](grinnells-next-president-2019-12-06) (Musing #943)
 
 > Some charactistics that I'd like to see.
+
+[Grinnell gossip: The (potential) new residence hall](gossip-new-residence-hall-2019-12-10) (Musing #951)
+
+> Is this news?
 
 Registration and Related Topics
 -------------------------------
@@ -4054,6 +4060,10 @@ Almost everything else
 [Misnaming](misnaming-2019-12-08) (Musing #947)
 
 > Sam needed a break from even more serious topics.
+
+[Raygun](raygun-2019-12-10) (Musing #949)
+
+> Favorite store of Midwest liberal snowflakes.
 
 Musings with multiple entries
 -----------------------------

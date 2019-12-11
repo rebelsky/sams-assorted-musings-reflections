@@ -742,3 +742,7 @@ Almost everything else
 
 > Sam needed a break from even more serious topics.
 
+[Raygun](raygun-2019-12-10) (Musing #949)
+
+> Favorite store of Midwest liberal snowflakes.
+
