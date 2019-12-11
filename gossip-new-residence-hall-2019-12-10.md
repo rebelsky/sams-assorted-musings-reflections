@@ -93,7 +93,7 @@ Now you know at least as much as I do about the new dorm.
 
 ---
 
-For those who care, the minutes of Faculty Meetings can be found
+Postscript: For those who care, the minutes of Faculty Meetings can be found
 at
 <https://grinco.sharepoint.com/sites/dean/Faculty_Meetings/Forms/Mtg_Materials.aspx>.  Access is limited to people with accounts on GrinCo.  I don't
 know if access is more limited than that.  You can also find excerpts
@@ -101,6 +101,15 @@ from Council Minutes in the agendas for faculty meetings.  The ones
 I mentioned were in the agenda for the November 18 meeting.
 
 ---
+
+Postscript: One of my readers wrote the following.
+
+> There seems to be some conflation of two different projects here. The downtown dorm (slated for the former Pizza Hut lot) is intended to be primarily a residence hall (unknown whether it will be apartment-style, suite-style, other, mixed). There will likely be non-residence space on the first floor, but (probably) not retail. The project is not secret, but in early stages (which is why my statements are all qualified), with no specific design yet (I've been in several meetings about it, but am not on the planning committee, the members of which would know more).
+
+> The retail-apartment space I haven't heard about for awhile, and I know less about it, but that was (is?) planned for the old McNally's location. I had heard (and recall a couple sketches) of retail space below and apartments (but not specifically student apartments) above.
+
+---
+
 
 Postscript: If you don't know about the NACAC changes and what a Grinnell
 Gossip musing on the topic, let me know.
@@ -128,3 +137,5 @@ had a dance floor.
 ---
 
 *Version 1.0 of 2019-12-10.*
+
+*Version 1.1 released 2019-12-10.*
