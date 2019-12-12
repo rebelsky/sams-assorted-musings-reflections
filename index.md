@@ -9,11 +9,8 @@ If you'd like, you can read [a longer introduction](intro-musings-v0).
 If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
-Latest musings:
-[Raygun](raygun-2019-12-10) (Musing #949),
-[One drive, many steps](one-drive-2019-12-10) (Musing #950),
-and
-[Grinnell gossip: The (potential) new residence hall](gossip-new-residence-hall-2019-12-10) (Musing #951)
+Latest musing:
+[Letters to colleagues](letters-to-colleagues-2019-12-11) (Musing #952)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

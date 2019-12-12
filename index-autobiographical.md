@@ -409,3 +409,7 @@ Autobiographical essays, more or less
 
 > Memories of holidays past.
 
+[Letters to colleagues](letters-to-colleagues-2019-12-11) (Musing #952)
+
+> Goals for next semester.
+
