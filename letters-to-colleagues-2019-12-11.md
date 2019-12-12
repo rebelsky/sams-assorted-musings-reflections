@@ -93,4 +93,4 @@ Dance Program.  But now I'm wondering whether people pronounce it "Thud".
 
 ---
 
-*Version 0.1 of 2019-12-11.*
+*Version 1.0 of 2019-12-11.*
