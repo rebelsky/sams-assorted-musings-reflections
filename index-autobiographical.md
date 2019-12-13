@@ -413,3 +413,7 @@ Autobiographical essays, more or less
 
 > Goals for next semester.
 
+[Teaching plans for next year](teaching-next-year-2019-12-12) (Musing #953)
+
+> Anticipation.
+

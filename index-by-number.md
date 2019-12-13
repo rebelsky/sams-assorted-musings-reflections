@@ -1238,3 +1238,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 
 [Grinnell gossip: The (potential) new residence hall](gossip-new-residence-hall-2019-12-10) (Musing #951)  
 [Letters to colleagues](letters-to-colleagues-2019-12-11) (Musing #952)  
+[Teaching plans for next year](teaching-next-year-2019-12-12) (Musing #953)  
