@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Teaching plans for next year](teaching-next-year-2019-12-12) (Musing #953)
+[Conducting a salary review](conducting-salary-review-2019-12-13) (Musing #954)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
