@@ -1240,3 +1240,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Letters to colleagues](letters-to-colleagues-2019-12-11) (Musing #952)  
 [Teaching plans for next year](teaching-next-year-2019-12-12) (Musing #953)  
 [Conducting a salary review](conducting-salary-review-2019-12-13) (Musing #954)  
+["Long-term concerns"](long-term-concerns-2019-12-13) (Musing #955)  

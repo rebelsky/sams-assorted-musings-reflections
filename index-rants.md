@@ -526,3 +526,7 @@ Rants
 
 > What do your workflows look like?
 
+["Long-term concerns"](long-term-concerns-2019-12-13) (Musing #955)
+
+> The SamR album keeps skipping back to the same old tune.
+
