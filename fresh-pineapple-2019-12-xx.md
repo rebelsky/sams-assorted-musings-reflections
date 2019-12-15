@@ -1,6 +1,8 @@
 Fresh pineapple
 ===============
 
+**This musing is in draft form and is not intended for public release.**
+
 *Topics/tags: [Miscellaneous](index-misc)*
 
 I love fresh pineapple.  I'm not sure that I can articulate all the

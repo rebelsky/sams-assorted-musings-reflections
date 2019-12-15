@@ -16,18 +16,50 @@ Tentative upcoming week
 * Monday: Memo about tutorial/open curriculum.
 * Tuesday: How do you teach CS?
 
+
 End of month
 ------------
 
 * Had hoped to be more on top of things, but missed the first three days
-of the month.
+  of the month.
+* Once I started posting, often found that I wanted to post multiple 
+  things each day.  That includes one day when I posted three short
+  musings.  Maybe I should learn to pace myself.  Also issue that
+  readers had trouble keeping up when I posted multiple musings on the
+  same day.
+* Unexpected that misnaming got so much comment.
+
+Written, need minor revisions
+-----------------------------
+
+1. Fresh pineapple.
+
+1. User studies in Campus Navigation.
+
+Written, need major revisions
+-----------------------------
+
+1. Getting things right - Faculty handbook (faculty-handbook-2019-08-28).
+
+1. Bookstore gift cards (bookstore-gift-cards-2019-11-xx)
 
 Short
 -----
 
+1. Memories of holidays past or holidays passed?  Does it matter?
+
+1. "mischievous".  I've always pronounced it "miss chiv us", which is
+pretty close to the "mischief" at the root of the word.  But I have a
+close friends who adds an extra syllable, "miss cheeve ee us".  I
+thought it was only them.  But the other day, I was listening to a
+live recording of Michael Nesmith, and I'll be damned if he pronounces
+it with four syllables, too.
+
 1. Visiting UofC.  See notes on iPhone.
 
 1. When Sam worked too much at UofC.
+
+1. All Things Grinnell T-Shirt.  See deskop.
 
 1. Gordo.
 
@@ -242,6 +274,8 @@ up manuscript.  Corrections for a second edition?
 
 1. Stagg on football.  https://archive.org/details/ascientificandp00willgoog/
 And people reading it  https://archive.org/details/treatisefootball_1906_librivox.  LibriVox.  Interesting.
+
+1. Pineapple, revisited.
 
 Long
 ----

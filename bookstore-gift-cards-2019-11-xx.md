@@ -1,6 +1,8 @@
 Bookstore gift cards
 ====================
 
+**This musing is in draft form and is not intended for public release.**
+
 *Topics/tags: [Rants](index-rants)*
 
 Over the years, I've accumulated a bunch of gift cards for the

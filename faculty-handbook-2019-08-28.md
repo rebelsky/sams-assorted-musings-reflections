@@ -1,6 +1,8 @@
 Getting things right (or reason #2319 that Sam is a curmudgeon)
 ===============================================================
 
+**This musing is in draft form and is not intended for public release.**
+
 *Topics/tags: [Rants](index-rants), academia*
 
 *Warning: In portions of this rant, you will likely find that I both 
