@@ -259,3 +259,7 @@ Grinnell.
 
 > Is this news?
 
+[SEPC funding](sepc-funding-2019-12-15) (Musing #956)
+
+> Am I permitted opinions?
+
