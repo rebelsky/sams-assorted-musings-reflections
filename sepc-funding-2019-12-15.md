@@ -64,7 +64,7 @@ I guess that's it for my opinions [8].  I suppose I should do a bit more
 background research on current SEPC guidelines, but I don't know where
 to look since Student Affairs carelessly excised all of the SEPC guidelines
 from the _Student Handbook_.  I'm hoping that I can find them when I return
-to my role as Department Chair; they were not readily available [10] the
+to my role as Department Chair; they were not readily available [9] the
 last time I served as Chair.
 
 ---
@@ -107,4 +107,6 @@ more opinions on SEPC funding models as time goes on.
 
 ---
 
-*Version 1.0 of 2019-12-15.*
+*Version 1.0 released 2019-12-15.*
+
+*Version 1.0.1 of 2019-12-16.*
