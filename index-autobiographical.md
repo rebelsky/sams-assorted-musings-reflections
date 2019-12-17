@@ -417,3 +417,7 @@ Autobiographical essays, more or less
 
 > Anticipation.
 
+[Mood swings](mood-swings-2019-12-16) (Musing #957)
+
+> Learning to deal with frustration.
+

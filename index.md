@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[SEPC funding](sepc-funding-2019-12-15) (Musing #956)
+[Mood swings](mood-swings-2019-12-16) (Musing #957)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
