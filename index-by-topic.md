@@ -3222,6 +3222,10 @@ Autobiographical essays, more or less
 
 > Learning to deal with frustration.
 
+[Sympathy for my sons](sympathy-sons-2019-12-17) (Musing #958)
+
+> Feeling like a bad Internet meme.
+
 Salary reviews
 --------------
 

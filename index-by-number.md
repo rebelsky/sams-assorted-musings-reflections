@@ -1243,3 +1243,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 ["Long-term concerns"](long-term-concerns-2019-12-13) (Musing #955)  
 [SEPC funding](sepc-funding-2019-12-15) (Musing #956)  
 [Mood swings](mood-swings-2019-12-16) (Musing #957)  
+[Sympathy for my sons](sympathy-sons-2019-12-17) (Musing #958)  

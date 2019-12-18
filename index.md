@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Mood swings](mood-swings-2019-12-16) (Musing #957)
+[Sympathy for my sons](sympathy-sons-2019-12-17) (Musing #958)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
