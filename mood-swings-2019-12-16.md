@@ -42,10 +42,7 @@ the students, but we regularly over-spend our CS Table budget and
 have to use our restricted fund.  I'm the second-largest donor to
 that fund, and I would much rather the funds get used for other
 purposes then feeding random students [3].  It also bothers me
-because it's dishonest and a violation of self-governance.  It
-doesn't help that I also recently learned that someone had stolen
-much of the flintwork that John Whittaker had put out for sale
-as a fundraiser for Anthropology.  
+because it's dishonest and a violation of self-governance.  
 
 Surprisingly, there was a positive aspect to the CS Table discussion.
 One of my colleagues raised the issue of students who are food
@@ -189,5 +186,6 @@ in a better mood.
 
 ---
 
-*Version 1.0 of 2019-12-16*
+*Version 1.0 released 2019-12-16*
 
+*Version 1.1 of 2019-12-17*
