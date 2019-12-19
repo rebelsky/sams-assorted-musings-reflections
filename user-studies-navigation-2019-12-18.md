@@ -95,29 +95,29 @@ my colleagues in accessibility services, I say
 
 ---
 
-<figure>
-<img src="images/sign-8th-east.png" alt="A photo with a sign that has an arrow pointing forward and the terms 'Admission & Student Financial Services', 'Bucksbaum Arts Center', 'Burling Library', 'Grinnell College Museum of Art', and 'Humanities & Social Studies Center'.  In the background are some cars and a sign that reads 'Loose Hall'."/>
-<figcaption>The sign at 8th and East, facing south.  Aren't the HSSC and the Admissions Building to the right?</figcaption>
+<figure class="figure">
+<img class="figure-img" src="images/sign-8th-east.png" alt="A photo with a sign that has an arrow pointing forward and the terms 'Admission & Student Financial Services', 'Bucksbaum Arts Center', 'Burling Library', 'Grinnell College Museum of Art', and 'Humanities & Social Studies Center'.  In the background are some cars and a sign that reads 'Loose Hall'."/>
+<figcaption class="figure-caption">The sign at 8th and East, facing south.  Aren't the HSSC and the Admissions Building to the right?</figcaption>
 </figure>
 
-<figure>
-<img src="images/sign-noyce-hssc.png" alt="A photo with a sign that has an arrow pointing forward and five things listed: 'Bucksbaum Arts Center', 'Burling Library', 'Faulconer Art Gallery', 'Humanities and Social Studies Center', and 'Noyce Science Center'.  There is also an arrow pointing to the left that reads 'South & East Residence Halls'"/>
-<figcaption>A little bit south of 8th, facing south, between Noyce and HSSC,  I think of Noyce as being to the left and HSSC as being to the right.</figcaption>
+<figure class="figure">
+<img class="figure-img" src="images/sign-noyce-hssc.png" alt="A photo with a sign that has an arrow pointing forward and five things listed: 'Bucksbaum Arts Center', 'Burling Library', 'Faulconer Art Gallery', 'Humanities and Social Studies Center', and 'Noyce Science Center'.  There is also an arrow pointing to the left that reads 'South & East Residence Halls'"/>
+<figcaption class="figure-caption">A little bit south of 8th, facing south, between Noyce and HSSC,  I think of Noyce as being to the left and HSSC as being to the right.</figcaption>
 </figure>
 
-<figure>
-<img src="images/sign-forum.png" alt="A photo with a sign that has an arrow pointing diagonally to the left and six entries: 'Admission & Student Financial Services', 'Bear Recreation & Athletics Center', 'Humanities & Social Studies Center', 'North Residence Halls', 'Noyce Science Center', 'Rosenfield Campus Center'.  There is also an arrow pointing to the right with 'South Residence Halls'.  The Forum is visible to the right and Noyce is visible straight ahead."/>
-<figcaption>Isn't Noyce straight ahead?  And which way do I go if I want to go to the East Residence Halls?</figcaption>
+<figure class="figure">
+<img class="figure-img" src="images/sign-forum.png" alt="A photo with a sign that has an arrow pointing diagonally to the left and six entries: 'Admission & Student Financial Services', 'Bear Recreation & Athletics Center', 'Humanities & Social Studies Center', 'North Residence Halls', 'Noyce Science Center', 'Rosenfield Campus Center'.  There is also an arrow pointing to the right with 'South Residence Halls'.  The Forum is visible to the right and Noyce is visible straight ahead."/>
+<figcaption class="figure-caption">Isn't Noyce straight ahead?  And which way do I go if I want to go to the East Residence Halls?</figcaption>
 </figure>
 
-<figure>
-<img src="images/sign-burling.png" alt="A sign with an arrow pointing ahead and three entries: 'Bucksbaum Arts Center', 'Burling Library', and 'Grinnell College Museum of Art'. There's also an arrow pointing to the left that says 'South Residence Halls'.  In the background is Burling Library.  There's also a sidewalk going diagonally to the right."/>
-<figcaption>A bonus sign.  You should know where it is.  I'd make the Bucksbaum and Grinnell College Museum of Art arrows point diagonally to the right.  After all, that's the sidewalk one should take.</figcaption>
+<figure class="figure">
+<img class="figure-img" src="images/sign-burling.png" alt="A sign with an arrow pointing ahead and three entries: 'Bucksbaum Arts Center', 'Burling Library', and 'Grinnell College Museum of Art'. There's also an arrow pointing to the left that says 'South Residence Halls'.  In the background is Burling Library.  There's also a sidewalk going diagonally to the right."/>
+<figcaption class="figure-caption">A bonus sign.  You should know where it is.  I'd make the Bucksbaum and Grinnell College Museum of Art arrows point diagonally to the right.  After all, that's the sidewalk one should take.</figcaption>
 </figure>
 
-<figure>
-<img src="images/sign-steiner.png" alt="A sign with three arrows: One pointing ahead, one pointing to the left, and one pointing to the right.  The arrow pointing straight ahead is accompanied by two names: 'South Residence Halls' and 'Burling Library'.  The one pointing to the left is accompanied by five names: 'Admission & Student Financial Services', 'Bear Recreation & Athletics Center', 'Humanities and Social Studies Center', 'Noyce Science Center', and 'Rosenfield Campus Center'.  The arrow pointing to the right is accompanied by two names: 'Bucksbaum Arts Center' and 'Grinnell College Museum of Art'"/>
-<figcaption>A bonus sign.  This one is right after the new gate to campus across from Nollen House.  I'd like to see arrows to the East and North residence halls, too.  I'd also go straight to get to Noyce.  We may need a bigger sign.</figcaption>
+<figure class="figure">
+<img class="figure-img" src="images/sign-steiner.png" alt="A sign with three arrows: One pointing ahead, one pointing to the left, and one pointing to the right.  The arrow pointing straight ahead is accompanied by two names: 'South Residence Halls' and 'Burling Library'.  The one pointing to the left is accompanied by five names: 'Admission & Student Financial Services', 'Bear Recreation & Athletics Center', 'Humanities and Social Studies Center', 'Noyce Science Center', and 'Rosenfield Campus Center'.  The arrow pointing to the right is accompanied by two names: 'Bucksbaum Arts Center' and 'Grinnell College Museum of Art'"/>
+<figcaption class="figure-caption">A bonus sign.  This one is right after the new gate to campus across from Nollen House.  I'd like to see arrows to the East and North residence halls, too.  I'd also go straight to get to Noyce.  We may need a bigger sign.</figcaption>
 </figure>
 
 ---
@@ -173,4 +173,4 @@ put new ones on.
 
 ---
 
-*Version 0.2 of 2019-12-17.*
+*Version 1.0 of 2019-12-18.*
