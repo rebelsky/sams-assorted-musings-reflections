@@ -1314,6 +1314,10 @@ Rants
 
 > The SamR album keeps skipping back to the same old tune.
 
+[User studies in campus navigation](user-studies-navigation-2019-12-18) (Musing #959)
+
+> Shouldn't we run some?
+
 Assorted talks and speeches
 ---------------------------
 

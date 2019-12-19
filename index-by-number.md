@@ -1244,3 +1244,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [SEPC funding](sepc-funding-2019-12-15) (Musing #956)  
 [Mood swings](mood-swings-2019-12-16) (Musing #957)  
 [Sympathy for my sons](sympathy-sons-2019-12-17) (Musing #958)  
+[User studies in campus navigation](user-studies-navigation-2019-12-18) (Musing #959)  
