@@ -146,6 +146,8 @@ are unproductive days.
 In any case, here's hoping that tomorrow goes better.  If not, I expect
 that you'll read a lot of rants this week [10].
 
+_**Followup: Things [did get better](getting-better-2019-12-19).**_
+
 ---
 
 [1] My family kept me up late watching _Crisis on Infinite Earths_.

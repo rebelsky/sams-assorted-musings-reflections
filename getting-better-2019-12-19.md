@@ -89,4 +89,4 @@ a bit before doing so.
 
 ---
 
-*Version 0.1 of 2019-12-19.*
+*Version 1.0 of 2019-12-19.*

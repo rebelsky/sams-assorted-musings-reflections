@@ -1316,7 +1316,7 @@ Rants
 
 [User studies in campus navigation](user-studies-navigation-2019-12-18) (Musing #959)
 
-> Shouldn't we run some?
+> We should run some.
 
 Assorted talks and speeches
 ---------------------------
@@ -3229,6 +3229,14 @@ Autobiographical essays, more or less
 [Sympathy for my sons](sympathy-sons-2019-12-17) (Musing #958)
 
 > Feeling like a bad Internet meme.
+
+[Cooking](cooking-2019-12-19) (Musing #960)
+
+> Returning to old habits.
+
+[It's getting better all the time](getting-better-2019-12-19) (Musing #961)
+
+> Recovering from an earlier musing.
 
 Salary reviews
 --------------

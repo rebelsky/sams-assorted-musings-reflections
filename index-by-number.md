@@ -1245,3 +1245,8 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Mood swings](mood-swings-2019-12-16) (Musing #957)  
 [Sympathy for my sons](sympathy-sons-2019-12-17) (Musing #958)  
 [User studies in campus navigation](user-studies-navigation-2019-12-18) (Musing #959)  
+[Cooking](cooking-2019-12-19) (Musing #960)  
+
+## 961-970
+
+[It's getting better all the time](getting-better-2019-12-19) (Musing #961)  

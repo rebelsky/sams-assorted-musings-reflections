@@ -425,3 +425,11 @@ Autobiographical essays, more or less
 
 > Feeling like a bad Internet meme.
 
+[Cooking](cooking-2019-12-19) (Musing #960)
+
+> Returning to old habits.
+
+[It's getting better all the time](getting-better-2019-12-19) (Musing #961)
+
+> Recovering from an earlier musing.
+

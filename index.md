@@ -9,8 +9,10 @@ If you'd like, you can read [a longer introduction](intro-musings-v0).
 If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
-Latest musing:
-[User studies in campus navigation](user-studies-navigation-2019-12-18) (Musing #959)
+Latest musings:
+[Cooking](cooking-2019-12-19) (Musing #960)
+and
+[It's getting better all the time](getting-better-2019-12-19) (Musing #961)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
