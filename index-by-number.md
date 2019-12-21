@@ -1250,3 +1250,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 ## 961-970
 
 [It's getting better all the time](getting-better-2019-12-19) (Musing #961)  
+[From rabbit holes to dance bands](rabbit-holes-dance-bands-2019-12-20) (Musing #962)  

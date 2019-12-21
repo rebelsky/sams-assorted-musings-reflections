@@ -746,3 +746,7 @@ Almost everything else
 
 > Favorite store of Midwest liberal snowflakes.
 
+[From rabbit holes to dance bands](rabbit-holes-dance-bands-2019-12-20) (Musing #961)
+
+> You see the connection, don't you?
+
