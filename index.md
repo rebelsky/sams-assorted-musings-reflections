@@ -42,6 +42,7 @@ Latest musing:
 * [Other essays on Grinnell](index-grinnell)
 * [A letter to the incoming chair](index-incoming-chair)
 * [Reviews and notes about things I enjoy](index-reviews)
+* [Board, card, and other games](index-games)
 * [Autobiographical essays, more or less](index-autobiographical)
 * [ROF musings](index-rof)
 * [Almost everything else](index-misc)
