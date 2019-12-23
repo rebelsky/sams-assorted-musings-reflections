@@ -1252,3 +1252,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [It's getting better all the time](getting-better-2019-12-19) (Musing #961)  
 [Encounters with computer scientists and tabletop games, or something like that](sigcse-tabletop-2019-12-20) (Musing #963)  
 [_The Great Dalmuti_](great-dalmuti-2019-12-20) (Musing #964)  
+[Dad jokes for computer scientists](for-loops-joke-2019-12-23) (Musing #965)  

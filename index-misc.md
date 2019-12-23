@@ -750,3 +750,7 @@ Almost everything else
 
 > You see the connection, don't you?
 
+[Dad jokes for computer scientists](for-loops-joke-2019-12-23) (Musing #965)
+
+> Humor of some sort or other.
+

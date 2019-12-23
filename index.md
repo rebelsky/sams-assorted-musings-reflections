@@ -9,10 +9,8 @@ If you'd like, you can read [a longer introduction](intro-musings-v0).
 If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
-Latest musings:
-[Encounters with computer scientists and tabletop games, or something like that](sigcse-tabletop-2019-12-20) (Musing #963)
-and
-[_The Great Dalmuti_](great-dalmuti-2019-12-20) (Musing #964)
+Latest musing:
+[Dad jokes for computer scientists](for-loops-joke-2019-12-23) (Musing #965)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
