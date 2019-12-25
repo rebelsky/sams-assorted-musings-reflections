@@ -4125,6 +4125,10 @@ Almost everything else
 
 > Humor of some sort or other.
 
+[Fresh pineapple](fresh-pineapple-2019-12-24) (Musing #966)
+
+> Yum.
+
 Musings with multiple entries
 -----------------------------
 

@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Dad jokes for computer scientists](for-loops-joke-2019-12-23) (Musing #965)
+[Fresh pineapple](fresh-pineapple-2019-12-24) (Musing #966)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
