@@ -1,5 +1,5 @@
-Visiting the UofC
-=================
+Visiting the University of Chicago
+==================================
 
 *Topics/tags: [Autobiographical](index-autobiographical), rambly*
 
@@ -18,9 +18,10 @@ defend my thesis before March, I still had some changes to make and
 a Dissertation Secretary to satisfy [4,6].  I did manage to graduate
 in June 1993, at what I think was Hanna Holburn Gray's last graduation.
 
-Where was I?  Oh, that's right.  I was back in Chicago.  I was
-amazed at the number of changes since I was a student, changes to
-both the institution and to the neighborhood.
+Where was I?  Oh, that's right.  I was back in Chicago, about a
+month and a half ago.  While visiting, I found myself amazed at the
+number of changes since I was a student, changes to both the
+institution and to the neighborhood.
 
 Two of the biggest changes, in my mind, have to do with the logo and the
 nickname.  The logo remains similar, a phoenix in a shield with the 
@@ -229,4 +230,4 @@ though my thirty-fifth (!!) reunion is this coming spring.
 
 ---
 
-*Version 0.1 of 2019-12-26.*
+*Version 1.0 of 2019-12-26.*

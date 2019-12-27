@@ -433,3 +433,7 @@ Autobiographical essays, more or less
 
 > Recovering from an earlier musing.
 
+[Visiting the University of Chicago](visiting-uofc-2019-12-26) (Musing #967)
+
+> It's changed.
+

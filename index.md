@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Fresh pineapple](fresh-pineapple-2019-12-24) (Musing #966)
+[Visiting the University of Chicago](visiting-uofc-2019-12-26) (Musing #967)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

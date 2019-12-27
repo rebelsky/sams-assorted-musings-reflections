@@ -1254,3 +1254,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [_The Great Dalmuti_](great-dalmuti-2019-12-20) (Musing #964)  
 [Dad jokes for computer scientists](for-loops-joke-2019-12-23) (Musing #965)  
 [Fresh pineapple](fresh-pineapple-2019-12-24) (Musing #966)  
+[Visiting the University of Chicago](visiting-uofc-2019-12-26) (Musing #967)  
