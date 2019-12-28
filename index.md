@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Visiting the University of Chicago](visiting-uofc-2019-12-26) (Musing #967)
+[Choosing a reading for the Rebelsky Family Book Club](rebelsky-family-book-club-2019-12-27) (Musing #968)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

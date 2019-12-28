@@ -437,3 +437,7 @@ Autobiographical essays, more or less
 
 > It's changed.
 
+[Choosing a reading for the Rebelsky Family Book Club](rebelsky-family-book-club-2019-12-27) (Musing #968)
+
+> Decisions, decisions.
+
