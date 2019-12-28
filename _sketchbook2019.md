@@ -9,17 +9,16 @@ the sketchbook._
 Tentative upcoming week
 -----------------------
 
-* Thursday: Workload
-* Friday: Post-prereg?
-* Saturday: Visiting UofC + Working at UofC
-* Sunday: Pioneer Classic
-* Monday: Memo about tutorial/open curriculum.
-* Tuesday: How do you teach CS?
-
+* Saturday the 28th: Working at the UofC
+* Sunday the 29th: Misnaming, Revisited (?)
+* Monday the 30th: Honors in CS (?)
+* Tuesday the 31st: Another Month (might sketch)
 
 End of month
 ------------
 
+* I seem to have settled into a particular "authorial voice".  Will it
+  change with Ralph's _Craft of Creative Nonfiction_?  Should it?
 * Had hoped to be more on top of things, but missed the first three days
   of the month.
 * Once I started posting, often found that I wanted to post multiple 
@@ -27,14 +26,39 @@ End of month
   musings.  Maybe I should learn to pace myself.  Also issue that
   readers had trouble keeping up when I posted multiple musings on the
   same day.
-* Unexpected that misnaming got so much comment.
+* Unexpected that misnaming got so much commentary.  Planned a follow-up.
+  Did I ever finish it?
+* My [musing about a bad day](mood-swings-2019-12-16) got a variety
+  of follow-up comments.  Some had also had frustrating experiences with
+  students signing up for things and then not going [that wasn't really
+  one of the main points, but ...].  Some also make their students
+  rewrite their declaration essays to ensure that they've thought
+  carefully about their liberal arts education.  And many were worried
+  about my health [it turns out that I hurt my leg more than my back].
+* Started a new list of musings that are mostly finished, but need
+  a bit of editing.  See the counts below.
+* A colleague who I respect greatly told me that they view my musings
+  as a form of leadership because they get people talking about important
+  issues on campus [or something like that].
+* Scary followup conversation on workload: "If it says 'minimum', then
+  the student who takes the least time to do the work in the class
+  should have twelve hours of work each week."  I don't think they were
+  completely serious, but it appears that some people at least partially
+  view the policy that way.
+* Period around Christmas in which I wanted to rant, but considered it
+  inappropriate.
+* I should get to 1000 this month!
 
 Written, need minor revisions
 -----------------------------
 
-1. Fresh pineapple.
+1. The Pyramid.
 
-1. User studies in Campus Navigation.
+1. Honors in CS.
+
+1. Volunteering for NESFA.
+
+1. Depression (depression-2019-12-12)
 
 Written, need major revisions
 -----------------------------
@@ -43,8 +67,25 @@ Written, need major revisions
 
 1. Bookstore gift cards (bookstore-gift-cards-2019-11-xx)
 
+1. Practica Policies (practica-policies-2019-10-xx.md)
+
+1. Lost to the kerf.  (lost-to-the-kerf.md)
+
 Short
 -----
+
+1. "Addicted to vinyl".  My short Amazon biography, which I think
+I wrote in response to "Provide a way for your friends to identify
+you", reads as follows: "Wears a Tigger costume at Halloween. Lives
+in Grinnell. Addicted to vinyl."  I'm pretty sure that most of my
+friends know the first and the second.  But the third?  Not so much.
+I have a ton of vinyl [a literal ton; and probably more than that]
+[Michelle knows, having had to deal with the records and movers
+when we moved from Chicago to Maine and from Maine to Grinnell].
+At one time, they were all cataloged in a database I made in HyperCard
+[that's one of the ways I avoided working on my thesis].  In
+retrospect, I probably should have used an SQL database.  However,
+it was the late 1980's that I started cataloging them.
 
 1. Memories of holidays past or holidays passed?  Does it matter?
 
@@ -55,9 +96,17 @@ thought it was only them.  But the other day, I was listening to a
 live recording of Michael Nesmith, and I'll be damned if he pronounces
 it with four syllables, too.
 
-1. Visiting UofC.  See notes on iPhone.
+1. Building Community.  Twice in a short period, people told me that
+I'm good at building community.  It seems very strange.  The first
+was reporting on some of my normal teaching habits, as well as department
+traditions (CS table, feeding students, mentors, extra credit for
+supporting each other, etc.).  The second was simply saying something like
+"You're just naturally a caring person and students can tell".
 
 1. When Sam worked too much at UofC.
+
+1. External reviews.  Why do I keep getting asked?  And why aren't there
+"best practices" documents floating around?
 
 1. All Things Grinnell T-Shirt.  See deskop.
 
@@ -79,60 +128,6 @@ Grinnell's Executive Council, I learned that some consider it a FERPA
 violation to post sign-up sheets for office hours outside of our offices.
 IANAL/IANAFO [I am not a lawyer and I am not a FERPA officer ], so you
 should take everything I say [write] with a grain [or granary] of salt.
-
-1. Volunteering for NESFA.  Im not sure why my muse had me write
-this. Probably only of interest to me. But maybe the kids would
-want to know. Reminded by car parked in front of historical museum
-driveway.  My brain said “remember when you accidentally parked in
-front of a driveway and your car was towed?”  And I remembered. It
-was one of those months when I was volunteering to help with the
-NESFA (new england science fiction association) ‘zine [or whatever
-they called it].  What does that mean?  Well, back in the misty
-depths of time (that is, late 1970's/early 1980's), SF (never SciFi)
-fans kept in touch with each other, in part, by writing regular
-newletters.  Each newsletter might have reviews of books and other
-media, short stories, or whatever the author thought was of interest.
-If you mimeographed a bunch of your newsletter and sent the stack
-to NESFA, a group of people, myself included, would collate all the
-individual newsletters into a larger stack and then send them out.
-Or at least that's what I remember.  Helping out with the newsletter
-was fun; I met interesting people and built community.  It meant that
-I knew people when I attended Boskone (whatever happend to my lifetime
-membership).  And the informal friendships continued.  I still
-recall spending a train ride from Boston to Chicago for the 1982
-WorldCon in which we spent the whole ride talking and playing games.
-(I stayed after WorldCon to attend college.)  I'm pretty sure that
-I kept all of those old newsletters until mom moved out of her
-house.  I wish I had moved them to Grinnell, if only to give them to
-the UIowa archive of SF memorabilia.  Oh well.
-
-1. Honors in CS.  I'm not sure why, but I've recently been thinking
-about the requirements for honors in CS.  In order to be awarded honors
-in a department at Grinnell, you need at least a 3.4 overall gpa, at
-least a 3.5 gpa in the major [I don't know whether they count required
-courses from outside the department in that computation], and to meet
-the individual department's requirements.  Early in my career at Grinnell,
-we had a fairly clear set of requirements: You had to take both 211 and
-213, you had to take an extra upper-level CS or math class, you had to
-do extra-curricular work on campus judged as excellent by the members of
-the department, and you had to do external work judged as excellent, such
-as high performance on the GREs or publishing a paper.  We often 
-awarded honors to students who had met only three of the four requirements,
-provided they had done particularly well at one of the last two requirements.
-A few years ago, we changed the requirements to be more like those of other
-departments.  They now read [fill in details].  I was originally in favor
-of the change, but I must admit that it's getting harder and harder to
-decide whether or not students deserve honors, particularly as we deal
-with larger and larger numbers of students in the department and, therefore,
-larger numbers of candidates for honors.  In any case, as I think about our
-core requirements ("significant engagement in the department and excellence in computing-related work"), I begin to wonder why a high gpa is required
-for honors.  Isn't it honorable if you do excel in those two things, even 
-if your gpa is lower?  And don't students sometimes achieve higher gpas
-by taking fewer risks?  I recall one peer in high school who refused to take
-AP Calculus because they knew they'd get an A in the non-AP math course
-and worried they might get a B in the other course.  I'd rather a student
-who takes courses that they might get lower grades in because they want
-to challenge themselves.  Why do we focus so much on gpa?
 
 1. "My dad is the third-largest major at Grinnell" / majoring in a
 faculty member, but that's a whole separate issue.  (Now John
@@ -395,6 +390,15 @@ Grinnellians
 1. Susan Sanning
 
 1. Dr. Katherine Walden
+
+1. Me.  I'd like to tell you about a Grinnellian who would prefer to
+remain anonymous.  They are one of those people who seem to cause
+extreme reactions in people, but not always the same reaction.  Some
+consider them an important resource of knowledge about the institution;
+other see them as a "know it all".  
+
+   When I find them frustrating, I try to focus on the positive
+things that they do, or try to do.
 
 Signatures
 ----------
