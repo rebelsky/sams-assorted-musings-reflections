@@ -111,7 +111,7 @@ okay; I'm pretty sure that my boss at USITE let me pick up extra hours.
 And the CS suspension was only for one semester.
 
 More importantly, because I had volunteered to TA math, Diane
-Robertson hired me to be the TA for W.H. Meyer's summer Calculus
+Hermann hired me to be the TA for W.H. Meyer's summer Calculus
 offerings.  Meyer was the long-time Associate Chairman of Mathematics
 and, among other things, was responsible for placing students in
 their first course [17].  About halfway through the summer, Prof. Meyer
@@ -226,5 +226,6 @@ to finish a dozen or so incompletes right before they graduated.
 
 ---
 
-*Version 1.0 of 2019-12-26.*
+*Version 1.0 released 2019-12-28.*
 
+*Version 1.0.1 of 2019-12-29.*
