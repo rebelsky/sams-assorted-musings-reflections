@@ -14,7 +14,9 @@ Latest musing:
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
-[Musings, by number](index-by-number) 
+[Musings, by number, oldest to newest](index-by-number) 
+
+[Musings, by number, newest to oldest](index-oldest-to-newest) 
 
 [Musings, by topic](index-by-topic)
 

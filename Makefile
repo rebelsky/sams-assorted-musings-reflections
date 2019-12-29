@@ -101,3 +101,10 @@ index-by-number.md: index-by-topic.md
 	| sort -k2 -t# -n -u \
 	| ./by-number \
 	> index-by-number.md
+
+index-newest-to-oldest.md: index-by-topic.md
+	grep '#[0-9]' index-by-topic.md  \
+	| sort -k2 -t# -n -u -r \
+	| bin/newest-to-oldest \
+	> index-newest-to-oldest.md
+
