@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Choosing a reading for the Rebelsky Family Book Club](rebelsky-family-book-club-2019-12-27) (Musing #968)
+[SamR's undergraduate workload](samr-undergraduate-work-2019-12-28) (Musing #969)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

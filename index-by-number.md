@@ -1256,3 +1256,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Fresh pineapple](fresh-pineapple-2019-12-24) (Musing #966)  
 [Visiting the University of Chicago](visiting-uofc-2019-12-26) (Musing #967)  
 [Choosing a reading for the Rebelsky Family Book Club](rebelsky-family-book-club-2019-12-27) (Musing #968)  
+[SamR's undergraduate workload](samr-undergraduate-work-2019-12-28) (Musing #969)  

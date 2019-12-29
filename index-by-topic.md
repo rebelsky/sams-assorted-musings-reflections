@@ -3258,6 +3258,10 @@ Autobiographical essays, more or less
 
 > Decisions, decisions.
 
+[SamR's undergraduate workload](samr-undergraduate-work-2019-12-28) (Musing #969)
+
+> Perfectly reasonable.
+
 Salary reviews
 --------------
 
