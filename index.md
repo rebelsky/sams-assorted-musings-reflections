@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[SamR's undergraduate workload](samr-undergraduate-work-2019-12-28) (Musing #969)
+[Misnaming, revisited](misnaming-revisited-2019-12-29) (Musing #970)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

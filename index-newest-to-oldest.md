@@ -1,8 +1,9 @@
 Musings, from newest to oldest
 ==============================
 
-## 961-970
+## 971-980
 
+[Misnaming, revisited](misnaming-revisited-2019-12-29) (Musing #970)  
 [SamR's undergraduate workload](samr-undergraduate-work-2019-12-28) (Musing #969)  
 [Choosing a reading for the Rebelsky Family Book Club](rebelsky-family-book-club-2019-12-27) (Musing #968)  
 [Visiting the University of Chicago](visiting-uofc-2019-12-26) (Musing #967)  

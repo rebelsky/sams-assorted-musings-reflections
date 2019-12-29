@@ -758,3 +758,7 @@ Almost everything else
 
 > Yum.
 
+[Misnaming, revisited](misnaming-revisited-2019-12-29) (Musing #970)
+
+> Possibly a more serious topic than I had thought.
+
