@@ -16,7 +16,7 @@ Latest musing:
 
 [Musings, by number, oldest to newest](index-by-number) 
 
-[Musings, by number, newest to oldest](index-oldest-to-newest) 
+[Musings, by number, newest to oldest](index-newest-to-oldest) 
 
 [Musings, by topic](index-by-topic)
 
