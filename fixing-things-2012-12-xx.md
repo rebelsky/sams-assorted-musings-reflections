@@ -22,6 +22,12 @@ Youngest and Middle do.  I do basic repairs, like gluing furniture
 or nailing things, or even building simple furniture, but, as I 
 said, I don't tend toward more complex repairs.
 
+At times, they even inspire me.  For example, because they helped me
+realize that I could fix my own [side-view mirror](side-view-morror).
+Since the last time I had it replaced, the insurance company paid
+something like $600, it was clearly worth buying one for about $50
+and doing it myself.
+
 This past Turkey Break, when all three sons were home, Youngest
 decided that he could fix our broken pocket door.  Now, this is an
 *old* pocket door, from the late 1800's.  We weren't quite sure
@@ -82,13 +88,13 @@ Fixing things always takes more time than I would expect.  And it often
 induces unexpected challenges.  But it feels rewarding when we succeed.
 
 Of course, things don't always work so well.  When one son managed
-to partially dislodge his ceiling fan, I managed to make it *much*
-worse.  Amazingly, the professional electrician we called in failed
-to balance it well, so we had to rely on our regular [5] handyman
-to fix it.  And then there's the time I completely destroyed a
-disposal trying to install it.  The latter experience reminded me
-of why I like to hire professionals.  And, while the handle in the
-car sometimes works, it does not work consistently.
+to partially dislodge his ceiling fan, [I managed to make it *much*
+worse](ceiling-fan).  Amazingly, the professional electrician we
+called in failed to balance it well, so we had to rely on our regular
+[5] handyman to fix it.  And then there's the time I completely
+destroyed a disposal trying to install it.  The latter experience
+reminded me of why I like to hire professionals.  And, while the
+handle in the car sometimes works, it does not work consistently.
 
 Oh well.  You don't learn what you and cannot do unless you try.
 At least no one's gotten hurt and nothing has gotten (too) damaged.
@@ -139,6 +145,16 @@ are time that I should not try things [7].
 
 ---
 
+Postscript: In writing the first version of this musing, I had
+completely forgotten that I'd already mused about [trying to fix
+the ceiling fan](ceiling-fan) and [succeeding in fixing my side-view
+mirror](side-view-mirror).  However, as I wrote this musing, I
+realized that it made sense to have a new category for "[Those wacky
+Rebelskys](index-rebelskys)" and, in rearranging links, I discovered
+those two musings.
+
+---
+
 [1] At least I think it was my father-in-law.
 
 [2] No, not really.
@@ -157,4 +173,4 @@ musing.  I'm working on learning appropriate limits.
 
 ---
 
-*Version 0.1 of 2019-12-27.*
+*Version 0.2 of 2019-12-27.*
