@@ -11,8 +11,8 @@ HEAD
 # Print the first line
 while (<STDIN>) {
   chomp;
-  if (m/#([0-9]+)[0-9]\)/) {
-    $upper = 1 + $1;
+  if (m/#([0-9]+)([0-9])\)/) {
+    if ($2 == 0) { $upper = $1; } else { $upper = 1 + $1; }
     printSection($upper);
     print "$_  \n";
     last;
