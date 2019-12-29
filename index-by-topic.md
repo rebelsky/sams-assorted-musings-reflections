@@ -2815,6 +2815,29 @@ Board, card, and other games
 
 > An appendix to the prior musing, more or less.
 
+Those wacky Rebelskys
+---------------------
+
+_Stories about my family.  Since I created this index long after I
+wrote some of these stories, you'll see that phrase in the descriptions
+and titles of some musings._
+
+[Family book club: _Mindset_](family-book-club-mindset) (Musing #664)
+
+> Reading as a family.
+
+[Those wacky Rebelskys](garners-modern-english-2019-09-14) (Musing #900)
+
+> Language quizzes and more.
+
+[Route optimization](route-optimization-2019-12-07) (Musing #945)
+
+> Those wacky Rebelskys.
+
+[Choosing a reading for the Rebelsky Family Book Club](rebelsky-family-book-club-2019-12-27) (Musing #968)
+
+> Decisions, decisions.
+
 Autobiographical essays, more or less
 -------------------------------------
 
@@ -3058,10 +3081,6 @@ Autobiographical essays, more or less
 
 > I hate mine.
 
-[Family book club: _Mindset_](family-book-club-mindset) (Musing #664)
-
-> Reading as a family.
-
 [The other Rebelskys](other-rebelskys) (Musing #681)
 
 > There are other Rebelskys!
@@ -3202,10 +3221,6 @@ Autobiographical essays, more or less
 
 > Notes for my family.
 
-[Those wacky Rebelskys](garners-modern-english-2019-09-14) (Musing #900)
-
-> Language quizzes and more.
-
 [The Beatles](beatles-2019-10-05) (Musing #910)
 
 > My muse made me do it.
@@ -3217,10 +3232,6 @@ Autobiographical essays, more or less
 [Gratitude](gratitude-2019-11-30) (Musing #938)
 
 > It's that time of year.
-
-[Route optimization](route-optimization-2019-12-07) (Musing #945)
-
-> Those wacky Rebelskys.
 
 [Eggnog (and other holiday memories)](eggnog-2019-12-09) (Musing #948)
 
@@ -3253,10 +3264,6 @@ Autobiographical essays, more or less
 [Visiting the University of Chicago](visiting-uofc-2019-12-26) (Musing #967)
 
 > It's changed.
-
-[Choosing a reading for the Rebelsky Family Book Club](rebelsky-family-book-club-2019-12-27) (Musing #968)
-
-> Decisions, decisions.
 
 [SamR's undergraduate workload](samr-undergraduate-work-2019-12-28) (Musing #969)
 

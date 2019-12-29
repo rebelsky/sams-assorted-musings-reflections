@@ -1,7 +1,7 @@
 Those wacky Rebelskys
 =====================
 
-*Topics/tags: [Autobiographical](index-autobiographical), language, short*
+*Topics/tags: [Those wacky Rebelskys](index-rebelskys), language, short*
 
 For about as long as I can remember, my kids have said that their
 friends are sometimes intimidated by visiting the Rebelsky household,
@@ -114,4 +114,4 @@ asterisk, which indicates that it's a form to be avoided.
 
 *Version 1.0 released 2019-09-14.*
 
-*Version 1.1 of 2019-09-14.*
+*Version 1.1.1 of 2019-12-28.*

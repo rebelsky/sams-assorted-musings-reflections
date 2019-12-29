@@ -1,7 +1,7 @@
 Family book club: _Mindset_
 ===========================
 
-*Topics/tags: [Autobiographical](index-autobiographical)*
+*Topics/tags: [Those wacky Rebelskys](index-rebelskys)*
 
 A few months ago, I started reading Carol Dweck's _Mindset_ [1].
 Dweck's distinction between fixed mindset and growth mindset struck
@@ -95,4 +95,6 @@ seems like a horrible way to live."
 
 ---
 
-*Version 1.0 of 2018-06-23.*
+*Version 1.0 released 2018-06-23.*
+
+*Version 1.0.1 of 2019-12-28.*

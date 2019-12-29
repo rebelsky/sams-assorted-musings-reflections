@@ -84,6 +84,7 @@ INDICES = index-by-topic-head.md \
 	index-reviews.md \
         index-mixtapes.md \
         index-games.md \
+        index-rebelskys.md \
         index-autobiographical.md \
         index-salary-reviews.md \
         index-rof.md \

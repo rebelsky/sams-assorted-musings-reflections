@@ -1,7 +1,7 @@
 Route optimization
 ==================
 
-*Topics/tags: [Autobiographical](index-autobiographical), short*
+*Topics/tags: [Those wacky Rebelskys](index-rebelskys), short*
 
 Did you know that the fastest driving route from the Rebelsky
 driveway to the Grinnell Natatorium involves going east on 7th,
@@ -44,4 +44,7 @@ as many stop signs as possible.
 
 ---
 
-*Version 1.0 of 2019-12-07.*
+*Version 1.0 released 2019-12-07.*
+
+*Version 1.0.1 of 2019-12-28.*
+

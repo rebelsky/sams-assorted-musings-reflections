@@ -1,7 +1,7 @@
 Choosing a reading for the Rebelsky Family Book Club
 ====================================================
 
-*Topics/tags: [Autobiographical](index-biographical), short*
+*Topics/tags: [Those wacky Rebelskys](index-rebelskys), short*
 
 About a year and a half ago, I asked all of the members of my
 immediate family to read Carol Dweck's [Mindset](family-book-club-mindset).
@@ -95,4 +95,6 @@ books.
 
 ---
 
-*Version 1.0 of 2019-12-26.*
+*Version 1.0 released 2019-12-26.*
+
+*Version 1.0.1 of 2019-12-27.*
