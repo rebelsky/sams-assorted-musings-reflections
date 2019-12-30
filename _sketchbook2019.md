@@ -9,45 +9,10 @@ the sketchbook._
 Tentative upcoming week
 -----------------------
 
-* Saturday the 28th: Working at the UofC
 * Sunday the 29th: Misnaming, Revisited (?)
 * Monday the 30th: Honors in CS (?)
 * Tuesday the 31st: Another Month (might sketch)
-
-End of month
-------------
-
-* I seem to have settled into a particular "authorial voice".  Will it
-  change with Ralph's _Craft of Creative Nonfiction_?  Should it?
-* Had hoped to be more on top of things, but missed the first three days
-  of the month.
-* Once I started posting, often found that I wanted to post multiple 
-  things each day.  That includes one day when I posted three short
-  musings.  Maybe I should learn to pace myself.  Also issue that
-  readers had trouble keeping up when I posted multiple musings on the
-  same day.
-* Unexpected that misnaming got so much commentary.  Planned a follow-up.
-  Did I ever finish it?
-* My [musing about a bad day](mood-swings-2019-12-16) got a variety
-  of follow-up comments.  Some had also had frustrating experiences with
-  students signing up for things and then not going [that wasn't really
-  one of the main points, but ...].  Some also make their students
-  rewrite their declaration essays to ensure that they've thought
-  carefully about their liberal arts education.  And many were worried
-  about my health [it turns out that I hurt my leg more than my back].
-* Started a new list of musings that are mostly finished, but need
-  a bit of editing.  See the counts below.
-* A colleague who I respect greatly told me that they view my musings
-  as a form of leadership because they get people talking about important
-  issues on campus [or something like that].
-* Scary followup conversation on workload: "If it says 'minimum', then
-  the student who takes the least time to do the work in the class
-  should have twelve hours of work each week."  I don't think they were
-  completely serious, but it appears that some people at least partially
-  view the policy that way.
-* Period around Christmas in which I wanted to rant, but considered it
-  inappropriate.
-* I should get to 1000 this month!
+* Wednesday the 1st: My next Tutorial (?)
 
 Written, need minor revisions
 -----------------------------
@@ -59,6 +24,8 @@ Written, need minor revisions
 1. Volunteering for NESFA.
 
 1. Depression (depression-2019-12-12)
+
+1. Fixing things.
 
 Written, need major revisions
 -----------------------------
