@@ -40,7 +40,7 @@ else {
       $num = $1;
     }
     elsif ($line=~m/^number: *(.*)$/) {
-      $num = 1;
+      $num = $1;
     }
     elsif ($line =~ m/^title: *(.*)$/) {
       $title= $1;
