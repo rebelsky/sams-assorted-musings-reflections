@@ -1,0 +1,78 @@
+#!/usr/bin/perl
+
+# solidify-musing
+#   Fun with Liquid-like prefixes for .md musings.  Reads them from standard
+#   input, writes them to standard output
+
+# My assumption is that the input will look something like the following
+#
+#       ---
+#       title: This is the title
+#       number: 123
+#       tags: autobiographical, short
+#       ---
+#       Here is the start of my musing.  Isn't that amazing?
+#
+# The liquid-free versions will look more like
+#
+#       This is the title
+#       =================
+#
+#       *Topics/tags: [autobiographical](index-autobiographical), short*
+#
+#       Here is the start of the musing.  Isn't that amazing?
+
+# Some fun variables
+my $num = "";   # The number.
+my $tags = "";  # The tags.
+my $title = ""; # The title
+
+# Read the first line
+my $line = nextLine();
+
+# Do we start with liquid?
+if ($line ne "---") {
+  print "$line\n";
+}
+else {
+  while (($line = nextLine()) ne "---") {
+    if ($line =~ m/^num: *(.*)$/) {
+      $num = $1;
+    }
+    elsif ($line =~ m/^title: *(.*)$/) {
+      $title= $1;
+    }
+    elsif ($line =~ m/^tags: *(.*)$/) {
+      $tags = $1;
+    }
+  } # while
+
+  # Fix variables
+  if (!$num) { $num = "???"; }
+  if (!$title) {$title = "Untitled"; }
+  if (!$tags) { $tags = "untagged"; }
+
+  # Process the tags
+
+  # Print the head
+  print <<"HEAD";
+# $title (#$num)
+
+_Topics/tags: ${tags}_
+
+HEAD
+} # if
+
+# Print what's left
+while (<STDIN>) {
+  print $_;
+}
+
+# An we're done
+exit 0;
+
+sub nextLine() {
+  my $line = <STDIN>;
+  chomp($line);
+  return $line;
+} # nextLine
