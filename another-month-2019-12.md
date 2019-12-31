@@ -3,6 +3,9 @@ title: Another month of (mostly) daily musings
 number: 972
 tags: End-of-month musings
 blurb: Also another year.
+released: 2019-12-31
+version: 0.4
+current: 2019-12-30
 ---
 
 I've finished another month of what I call daily musings, even
@@ -191,20 +194,6 @@ predefined set of Liquid settings from the top of a file and builds a
 new headers.  We'll see how the rest of my software writing goes.  You 
 can be sure I'll report on it.
 
-Looking ahead
--------------
-
-What will happen in the next month?  I'm still trying to figure out when
-I'm going to start ranting again.  I expect it will be within the first
-week of the new year.  But we shall see.
-
-As I mentioned in the previous section, I've started to work on restructing
-parts of the system I use to build pages.  I anticipate writing some more
-software in January.
-
-I have no other topics that I plan to cover in January.  Once I start
-taking classes, I may add notes on those.
-
 Data
 ----
 
@@ -236,6 +225,23 @@ report, a memo about the anniversary of Tutorial and the open curriculum,
 and a discussion for a friend about how one might approach teaching CS.
 If I run out of topics, I can always look back to the sketchbook for
 2019 or to the even older sketchbook.
+
+Looking ahead
+-------------
+
+What will happen in the next month?  I'm still trying to figure out when
+I'm going to start ranting again.  I expect it will be within the first
+week of the new year.  But we shall see.
+
+As I mentioned in a previous section, I've started to work on restructing
+parts of the system I use to build pages.  I anticipate writing some more
+software in January.
+
+I have no other topics that I plan to cover in January.  Once I start
+taking classes, I may add notes on those.
+
+I also expect to build up my sketchbook of potential topics and notes on
+those topics.
 
 Final thoughts
 --------------
@@ -300,7 +306,3 @@ However, as I noted earlier, I wrote some musings that I have not yet
 posted.  However, I anticipate editing them before posting.
 
 [17] Or slowly.
-
----
-
-*Version 0.3 of 2019-12-30.*
