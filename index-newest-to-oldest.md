@@ -1,6 +1,10 @@
 Musings, from newest to oldest
 ==============================
 
+## 971-980
+
+[Fixing things](fixing-things-2019-12-30) (Musing #971)  
+
 ## 961-970
 
 [Misnaming, revisited](misnaming-revisited-2019-12-29) (Musing #970)  

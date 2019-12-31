@@ -21,3 +21,7 @@ and titles of some musings._
 
 > Decisions, decisions.
 
+[Fixing things](fixing-things-2019-12-30) (Musing #971)
+
+> Proud of my sons.
+
