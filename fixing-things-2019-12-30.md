@@ -1,7 +1,7 @@
 ---
 title: Fixing things
 number: 971
-blurb: Proud of my sons
+blurb: Proud of my sons.
 tags: [Those wacky Rebelskys](index-rebelskys)
 ---
 One thing that particularly impresses me about my children is their
