@@ -12,6 +12,19 @@ Tentative upcoming musings
 * Wednesday January 1st: My next Tutorial (?)
 * Thursday  January 2nd: Post-preregistration (?)
 
+Software
+--------
+
+1. Add blurb to the head.
+
+1. released, version, date in head and solidify
+
+1. 'liquify' script to add the heading.
+
+1. Script to find unmentioned musings.
+
+1. Move indices to separate directory. 
+
 Written, need minor revisions
 -----------------------------
 
@@ -39,30 +52,17 @@ Written, need major revisions
 Short
 -----
 
+1. Follow up (or prelude0 to musing 1000: Alternate titles. Up to
+four digits. Millimusing. Or is that kilomusing. Adding another
+digit. A milestone (or is that millstone or perhaps millistone or
+even kilo stone.).
+
 Long
 ----
 
 1. Post-prereg.
 
 1. The memo about Tutorial/Open Curriculum.
-
-1. If I had six months to live.  I'm not sure why, but I was feeling
-maudlin the other day, and asked myself what I'd do if I had six
-months to live.  My first reaction was "I'd get rid of all the crap
-I've accumulated so that my kids wouldn't have to."  But I realized
-that I should probably check with them first in case they had some
-strange reason to want to keep things.  And I also began to wonder
-whether that's something I should do now, rather than later.  But
-I find it hard to get rid of things.  (See, for example, my regret
-at getting rid of my old NESFA newsletters.)  Of course, I would
-also set aside and document things that I thought the kids might
-want to keep because they have particular meaning to me or the
-family, such as the shark's tooth that my father used to wear (Did
-he wear it, or did he just have it set up so that he could wear
-it?) or the autographed Phil Ochs albums.  I also have some things
-that likely have value to others.  It would make sense to set those
-aside for the kids to sell.  Maybe the first set of things could serve
-as the topics of musings.
 
 1. For Mike: Teaching CS.
 

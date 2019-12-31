@@ -6,14 +6,6 @@ I put my planned musings.  Since it's an electronic document, it will
 change regularly.  When I finish a musing, it tends to disappear from
 the sketchbook._
 
-Tentative upcoming week
------------------------
-
-* Sunday the 29th: Misnaming, Revisited (?)
-* Monday the 30th: Honors in CS (?)
-* Tuesday the 31st: Another Month (might sketch)
-* Wednesday the 1st: My next Tutorial (?)
-
 Written, need minor revisions
 -----------------------------
 
@@ -23,9 +15,9 @@ Written, need minor revisions
 
 1. Volunteering for NESFA.
 
-1. Depression (depression-2019-12-12)
+1. Office Hours and FERPA.
 
-1. Fixing things.
+1. Depression (depression-2019-12-12)
 
 Written, need major revisions
 -----------------------------
@@ -70,12 +62,10 @@ traditions (CS table, feeding students, mentors, extra credit for
 supporting each other, etc.).  The second was simply saying something like
 "You're just naturally a caring person and students can tell".
 
-1. When Sam worked too much at UofC.
-
 1. External reviews.  Why do I keep getting asked?  And why aren't there
 "best practices" documents floating around?
 
-1. All Things Grinnell T-Shirt.  See deskop.
+1. All Things Grinnell T-Shirt.  See desktop.
 
 1. Gordo.
 
@@ -89,12 +79,6 @@ I nodded in response.]  I'd had a musing about trust in my long-term
 mental queue of things to write about [not everything makes it into my
 sketchbook].  If I recall correctly, I had it phrased as "good will",
 rather than "trust", but it's a similar enough concept.
-
-1. Office Hour Signups.  Recently, as I was reading the excerpts from
-Grinnell's Executive Council, I learned that some consider it a FERPA
-violation to post sign-up sheets for office hours outside of our offices.
-IANAL/IANAFO [I am not a lawyer and I am not a FERPA officer ], so you
-should take everything I say [write] with a grain [or granary] of salt.
 
 1. "My dad is the third-largest major at Grinnell" / majoring in a
 faculty member, but that's a whole separate issue.  (Now John
