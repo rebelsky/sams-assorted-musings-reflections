@@ -2,6 +2,7 @@
 title: Another month of (mostly) daily musings
 number: 972
 tags: End-of-month musings
+blurb: Also another year.
 ---
 
 I've finished another month of what I call daily musings, even
@@ -134,6 +135,22 @@ that's a day that I'll end up posting two.
 Of course, if I fail to post daily, I may not get into musing 1000
 until March.  That should give me an incentive to post daily!
 
+This was also a month in which I found myself realizing that I have
+clearly forgotten many things I’ve written in the past. For example,
+in musing about [fixing things](fixing-things-2019-12-30), I
+discovered at least one prior musing about failing to fix things.
+[14] In musing about [a salary
+review](conducting-salary-review-2019-12-13), I was tempted to write
+a follow up musing commenting on the strange choice to move the
+post review debrief from the Dean, who has redources and should
+view faculty holistically, to the director of the CRLA, who does
+not have ready access to resources and who focuses primarily on our
+teaching. But then I realized that is written about the issue already
+[15]. I wonder how many faculty under review actually meet with the
+CTLA. I also wonder how many people who write regularly have similar
+experience of forgetting what htey've already writte.
+
+
 Behind the scenes
 -----------------
 
@@ -196,7 +213,7 @@ musings without some kind of data.
 
 How many musings did I write in December?  Let's see.  This one is number
 972.  The last musing in November was 939.  That means that I posted 
-thirty-three musings this month [14].  My average is back to a musing each
+thirty-three musings this month [16].  My average is back to a musing each
 day, even though I missed at least four days in December.
 
 What does my sketchbook look like?
@@ -225,7 +242,7 @@ Final thoughts
 
 As I look ahead to January, I look forward to musing #1000.  I also look
 forward to working on the software that supports my musings.  I'll be
-interested to see how quickly [15] the list of prospective musing topics
+interested to see how quickly [17] the list of prospective musing topics
 grows.
 
 ---
@@ -271,12 +288,19 @@ sure that it will take a non-trivial amount of time to write.
 
 [12] At least the last time I checked.
 
-[14] I was going to say that I *wrote* 33 musings or rants this month.
+[14] I remembered the incident, just not musing about it.  
+
+[15] I also previously acknowledged that the old process put a
+significant burden on the Dean.  If I count correctly, it required
+a full week of the Dean's time to read the appropriate materials
+and meet with all of the faculty under salary review.
+
+[16] I was going to say that I *wrote* 33 musings or rants this month.
 However, as I noted earlier, I wrote some musings that I have not yet
 posted.  However, I anticipate editing them before posting.
 
-[15] Or slowly.
+[17] Or slowly.
 
 ---
 
-*Version 0.2 of 2019-12-30.*
+*Version 0.3 of 2019-12-30.*
