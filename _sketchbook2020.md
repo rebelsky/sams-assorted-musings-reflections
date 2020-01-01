@@ -9,21 +9,27 @@ finish a musing, it tends to disappear from the sketchbook._
 Tentative upcoming musings
 --------------------------
 
-* Wednesday January 1st: My next Tutorial (?)
-* Thursday  January 2nd: Post-preregistration (?)
+* Wednesday January 1st: My next Tutorial (?) [Mostly written]
+* Thursday  January 2nd: Post-preregistration (If I can get it written ?)
+* Thursday, January 3rd: One story, multiple perspectives
 
 Software
 --------
 
-1. Add blurb to the head.
+1. Add blurb to the head.  (Is this conceptual or actual?)
 
 1. released, version, date in head and solidify
 
-1. 'liquify' script to add the heading.
+1. 'liquify' script to add the heading to prior musings.
 
 1. Script to find unmentioned musings.
 
 1. Move indices to separate directory. 
+
+1. `survey` script to take a list of musings (a list of dates?) and
+summarize the contents.
+
+1. Move scripts to bin.
 
 Written, need minor revisions
 -----------------------------
@@ -52,10 +58,21 @@ Written, need major revisions
 Short
 -----
 
-1. Follow up (or prelude0 to musing 1000: Alternate titles. Up to
-four digits. Millimusing. Or is that kilomusing. Adding another
-digit. A milestone (or is that millstone or perhaps millistone or
-even kilo stone.).
+1. Prelude to musing 1000 (prelude-to-1000-2020-01-xx.md)
+
+1. "The Champagne of Beers".  What does that mean?  It's not like
+they've called it the "Lafite Rothchild of beers".  Do they mean
+that it's carbonated?  Most beer is carbonated.  Do they mean that
+it's made in the Champagne region of France?  (Yes, I realize that
+Champagne is supposed to be fancy.  But it's an odd metaphor.)
+
+1. Nina Paley.  Sita Sings the Blues.  Intersting copyright.  Just
+discovered that she draws stuff to order.  What should I order?
+"Muse Musing", "Grinnellian", ...?
+
+1. Choosing a book for Rebelsky Reading Group, Revisited.  I spent
+the remainder of Winter break reading books.  _The Starless Sea_.
+Some Howard Frank Mosher.  What else?
 
 Long
 ----
@@ -66,9 +83,19 @@ Long
 
 1. For Mike: Teaching CS.
 
-Daily reading
--------------
+1. How do I introduce the end-of-month musings?  Collect all of the introductions
+and then reflect on them.  "At the end of each month, I write a musing that
+reflects back on the past month of musing and ranting.  As I 
+[noted recently](another-month-2020-01), I often feel challenged to write
+the first paragraph, as I'm saying more-or-less the same thing I've said
+every month.  Nonetheless, I do write each paragraph anew.  I wonder if I
+can learn something about my writing from reading through them."
+ 
+Articles and other readings
+---------------------------
 
 Grinnellians
 ------------
+
+1. Kate Walker
 
