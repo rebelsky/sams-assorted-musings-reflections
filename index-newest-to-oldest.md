@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 971-980
 
+[Another month of (mostly) daily musings](another-month-2019-12) (Musing #972)  
 [Fixing things](fixing-things-2019-12-30) (Musing #971)  
 
 ## 961-970

@@ -113,3 +113,7 @@ most of them here._
 
 > Adding (parenthetical) remarks to the title.
 
+[Another month of (mostly) daily musings](another-month-2019-12) (Musing #972)
+
+> Also another year.
+

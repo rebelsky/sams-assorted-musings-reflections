@@ -7,8 +7,7 @@ released: 2019-12-31
 version: 0.4
 current: 2019-12-30
 ---
-
-I've finished another month of what I call daily musings, even
+I have finished another month of what I call daily musings, even
 though they are not always musings and they certainly aren't always
 daily.  Since it's the end of the year, I've also finished another
 year of musings.  It's even harder to call them "daily musings"
@@ -40,12 +39,12 @@ that the primary change we'll see relates to my use [2] of the
 English language.  I expect to muse about those issues in the
 months to come.
 
-On frequency of posting
------------------------
+On posting frequency
+--------------------
 
 I finished last month with some inconsistency in posting.  I had
 hoped to be more on top of things at the start of this month, but
-I still managed to miss posting on the first three day sof the
+I still managed to miss posting on the first three days of the
 month.  I don't recall why.
 
 Once I started posting, often found that I wanted to post multiple 
@@ -113,6 +112,10 @@ of impact.  I suppose it's good to hear.  And since I provide leadership
 in that way, I hope it means that people won't vote for me as Chair
 of the Faculty [7] or Chair of the Science Division [9].
 
+I also discovered additional people who are reading my musings, including
+some alums who provided helpful feedback on some musings, such as the
+bad day rant I mentioned earlier.
+
 I like to rant.  Some people also seem to appreciate my rants, but
 others dislike them, even now that I've worked to moderate my
 writing.  In respect to the latter group, particularly my colleagues
@@ -145,14 +148,13 @@ discovered at least one prior musing about failing to fix things.
 [14] In musing about [a salary
 review](conducting-salary-review-2019-12-13), I was tempted to write
 a follow up musing commenting on the strange choice to move the
-post review debrief from the Dean, who has redources and should
-view faculty holistically, to the director of the CRLA, who does
+post review debrief from the Dean, who has resources and should
+view faculty holistically, to the director of the CTLA, who does
 not have ready access to resources and who focuses primarily on our
 teaching. But then I realized that is written about the issue already
 [15]. I wonder how many faculty under review actually meet with the
 CTLA. I also wonder how many people who write regularly have similar
-experience of forgetting what htey've already writte.
-
+experiences of forgetting what they've already written.
 
 Behind the scenes
 -----------------
@@ -215,7 +217,7 @@ What does my sketchbook look like?
   three from last month.
 * I have twenty-six (26) planned musings marked as "Long".  That's the 
   same number I had last month.  I don't think it's exactly the same
-  list, but i'm not positive.
+  list, but I'm not positive.
 
 Since I'm about to start a new year, I'm also starting a new sketchbook.
 I'll copy over the "written, need revisions" musings.  For the time being,
@@ -233,7 +235,7 @@ What will happen in the next month?  I'm still trying to figure out when
 I'm going to start ranting again.  I expect it will be within the first
 week of the new year.  But we shall see.
 
-As I mentioned in a previous section, I've started to work on restructing
+As I mentioned in a previous section, I've started to work on restructuring
 parts of the system I use to build pages.  I anticipate writing some more
 software in January.
 
@@ -306,3 +308,7 @@ However, as I noted earlier, I wrote some musings that I have not yet
 posted.  However, I anticipate editing them before posting.
 
 [17] Or slowly.
+
+---
+
+*Version 1.0 of 2019-12-31.*
