@@ -152,7 +152,7 @@ What about my classes?  Well, I certainly did not work on those for
 the 48-hours per week that Grinnell expects.  But I did well enough.
 
 Beyond classes, work, and movies, I somehow found time to work on
-accumulating vinyl and books, to hang with friends, to through parties,
+accumulating vinyl and books, to hang with friends, to throw parties,
 to cook, and to do the many other things that helped shape me into me.
 
 ---
@@ -228,4 +228,4 @@ to finish a dozen or so incompletes right before they graduated.
 
 *Version 1.0 released 2019-12-28.*
 
-*Version 1.0.1 of 2019-12-29.*
+*Version 1.0.2 of 2019-12-31.*
