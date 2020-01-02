@@ -3,7 +3,7 @@ title: Naming my next musing
 number: 999
 tags: meta-musings,language
 blurb: What's in a name?
-version: 0.1
+version: 0.2
 released: 
 current: 2020-01-01
 ---
@@ -60,10 +60,16 @@ including [my most-recent post-prereg musing](post-prereg-2020S).
 Of course, that punny part of my brain now wants to change "millstone" into
 Millistone".
 
-: Alternate titles. Up to
+Alternate titles. Up to
 four digits. Millimusing. Or is that kilomusing. Adding another
 digit. A milestone (or is that millstone or perhaps millistone or
 even kilo stone.).
+
+---
+
+An alum passed this along, <https://xkcd.com/1000/>, which includes
+the same concept I was tihnking of.  "Wow - Just 24 to go until a
+big round-number filestone".
 
 ---
 
