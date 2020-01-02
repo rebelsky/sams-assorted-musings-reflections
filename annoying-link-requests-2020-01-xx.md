@@ -3,7 +3,7 @@ title: Annoying link requests
 number: 
 tags: rants
 blurb: Do these work?
-version: 0.1
+version: 0.2
 released: 
 current: 2020-01-02
 ---
@@ -71,8 +71,13 @@ link requests.  Let's see ...
 > I may waive both fees for people in academia and those at select 
   nonprofits, such as EFF or Creative Commons.
 
-I'm going to add that to my home page.  Next, I need to figure out how to
-add a link to that to all of my pages [4].
+Yeah, that seems reasonable.  I'm going to add that to my home page.
+Next, I need to figure out how to add a link to that to all of my
+pages [4].
+
+Do other folks get these kinds of requests and, if so, what do you do
+in response?  Are you interested in partnering in an LLC to regularize
+the charge?
 
 ---
 
