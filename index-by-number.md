@@ -1263,3 +1263,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 
 [Fixing things](fixing-things-2019-12-30) (Musing #971)  
 [Another month of (mostly) daily musings](another-month-2019-12) (Musing #972)  
+[Looking ahead to my next Tutorial](next-tutorial-2020-01-01) (Musing #973)  

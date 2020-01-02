@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 971-980
 
+[Looking ahead to my next Tutorial](next-tutorial-2020-01-01) (Musing #973)  
 [Another month of (mostly) daily musings](another-month-2019-12) (Musing #972)  
 [Fixing things](fixing-things-2019-12-30) (Musing #971)  
 

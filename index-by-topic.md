@@ -3277,6 +3277,10 @@ Autobiographical essays, more or less
 
 > Perfectly reasonable.
 
+[Looking ahead to my next Tutorial](next-tutorial-2020-01-01) (Musing #973)
+
+> Fingers crossed!
+
 Salary reviews
 --------------
 
