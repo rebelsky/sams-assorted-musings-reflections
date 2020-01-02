@@ -31,6 +31,8 @@ summarize the contents.
 
 1. Move scripts to bin.
 
+1. Generate the one-liner for the indices.
+
 Written, need minor revisions
 -----------------------------
 
@@ -74,6 +76,22 @@ discovered that she draws stuff to order.  What should I order?
 the remainder of Winter break reading books.  _The Starless Sea_.
 Some Howard Frank Mosher.  What else?
 
+1. Academia.edu.  I keep getting messages from Academia.edu.  "The
+name Samuel Rebelsky was mentioned in an influential paper" and
+things like that.  Unfortunately, it's one of those baiting things;
+you have to pay to find out more.  But I've always been surprised
+at how often I get those messages.  Today, I went to look for one
+of the things I was mentioned in, since there seemed to be enough
+detail.  It turns out that the citation that mentioned my name was
+as follows. "C. Karagiannidis and D. Sampson. Accommodating learning
+styles in adaptation logics for personalised learning systems. In
+P. Barker and S. Rebelsky, editors, Proceedings of World Conference
+on Educational Multimedia, Hypermedia and Telecommunications 2002,
+pages 1715–1726, Denver, Colorado, USA, 2002. AACE."  So it turns
+out that I'm not being cited; the proceedings I edited are being
+cited.
+
+
 Long
 ----
 
@@ -90,7 +108,14 @@ reflects back on the past month of musing and ranting.  As I
 the first paragraph, as I'm saying more-or-less the same thing I've said
 every month.  Nonetheless, I do write each paragraph anew.  I wonder if I
 can learn something about my writing from reading through them."
- 
+
+1. Caps on special topics courses.
+
+1. Course caps.  I wonder how I should look at the data?  I wonder if
+anyone else has looked at the data?  How do we classify courses?
+
+1. GrinnellPlans: Early experiments in Social Media.
+
 Articles and other readings
 ---------------------------
 
