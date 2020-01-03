@@ -1,11 +1,11 @@
 ---
 title: Annoying link requests
-number: 
+number: 974
 tags: rants
-blurb: Do these work?
-version: 0.2
-released: 
-current: 2020-01-02
+blurb: How should I respond?
+version: 1.0
+released: 2019-01-02
+current: 
 ---
 For some reason I don't quite understand, every month or two I get
 a request to add a link to one of the pages I manage.  Here's a sample.
@@ -28,7 +28,7 @@ a request to add a link to one of the pages I manage.  Here's a sample.
 
 > P.S. If you're not the right person to contact about this, just reply to this email and let me know.
 
-I got a followup a few days later
+I got a followup message a few days later.
 
 > Hi Prof. Rebelsky, 
 
@@ -38,9 +38,9 @@ I got a followup a few days later
 
 > ...
 
-This pair is actually better than most, since it references a page
-I've updated within the past year.  Often, the requests are for
-ancient course pages from a decade or more ago.
+This pair of messages is better than most since it references a
+page I've updated within the past year.  Often, the requests are
+for ancient course pages from a decade or more ago.
 
 I assume that messages like this must be automated.  It's not hard
 to scrape my email address off of a page [1] and it's only slightly
@@ -83,24 +83,30 @@ the charge?
 
 [1] Or, I suppose, to figure out my email address from the URL.
 
-[2] Nope, I'm not going to bother to look it upon the Interweb.  Nor am I
-going to follow the link they sent me, since that may tell them that I
-read their email.
+[2] Nope, I'm not going to bother to look it up on the Interweb.
+Nor am I going to follow the link they sent me, since that may tell
+them that I read their email.
 
 [3] I recall an interview with a telemarketer on NPR a decade or
 more ago, which went something like this: "We rely on people being
 polite.  Until you hang up on me, I'm going to keep trying to
 convince you to buy our product".  Since hearing that, I'm perfectly
-comfortable hanging up on telemarketers; it's actually better for them.
-If I were a less nice person, I'd set up an AI voice response system.
+comfortable hanging up on telemarketers; it's better for them.  If
+I were a less nice person, I'd set up an AI voice response system.
 
-[4] That's actually a useful exercise, since I should be updating all
-of my pages in multiple ways, particularly when I am forced onto a new
+[4] That's a useful exercise because I should be updating all of
+my pages in multiple ways, particularly when I am forced onto a new
 server.  Among other things, I should add links to the College's
-accessibility statement for Web pages [5], our [DMCA contact](https://www.grinnell.edu/digital-millennium-copyright-act-1998), and other similar things.  I
-might also update my CC licenses to the latest versions.
+accessibility statement for Web pages [5], our [DMCA
+contact](https://www.grinnell.edu/digital-millennium-copyright-act-1998),
+and other similar things.  I might also update my CC licenses to
+the latest versions.
 
-[5] I had difficulty finding that.  I found the broader [Digital Accessibility
-Policy](https://www.grinnell.edu/sites/default/files/docs/2018-09/Digital%20Accessibility%20Policy%208-1-2018.pdf), but that's not really the same thing.  Our
-[Web accessibility page](https://www.grinnell.edu/web-accessibility) is 
-only applicable to the primary site.
+[5] I had a bit of difficulty finding that, but it's now linked from
+our primary site.  It's at <https://www.grinnell.edu/web-accessibility>.
+Unfortunately, much of the content deals with our primary site, making
+it inapplicable to my site.
+
+---
+
+*Version 1.0 of 2020-01-02.*

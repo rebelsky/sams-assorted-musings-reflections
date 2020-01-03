@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Looking ahead to my next Tutorial](next-tutorial-2020-01-01) (Musing #973)
+[Annoying link requests](annoying-link-requests-2020-01-02) (Musing #974)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

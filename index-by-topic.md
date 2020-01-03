@@ -1322,6 +1322,10 @@ Rants
 
 > We should run some.
 
+[Annoying link requests](annoying-link-requests-2020-01-02) (Musing #974)
+
+> How should I respond?
+
 Assorted talks and speeches
 ---------------------------
 
