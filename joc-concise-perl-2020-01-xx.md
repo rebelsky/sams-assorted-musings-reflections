@@ -3,7 +3,7 @@ title: The joy of code: Concise Perl
 number: 
 tags: the joy of code
 blurb: 
-version 0.1: 
+version 0.2
 released: 
 current: 2020-01-03
 ---
@@ -63,8 +63,19 @@ Isn't the beautiful?  Or perhaps hideous?
 
 ---
 
-Postscript: I believe my solution reveals something about the
-implementation of Perl: variables seem to be stored in a hash.
+Whoops.  I did not completely check my script.  It seems to have worked
+fine with values like `2020-01-03` (a date), `1.0.1` (a version), and
+972 (a number).  But it didn't work with text variables.  I'm not sure
+why.  I was able to make the following work.
+
+    $bar = "foo";
+    ${$bar} = "quux";
+    print "$foo"; // quux
+
+I guess I did not understand Perl as much as I thought.  
+
+I could try to figure out why, or I could just use a hash.  I chose the
+latter.  It wasn't as cool as my original code, but it got the job done.
 
 ---
 
