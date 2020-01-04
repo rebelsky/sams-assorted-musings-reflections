@@ -3,9 +3,9 @@ title: The honor of giving to Grinnell
 number: 975
 tags: [Grinnell](index-grinnell)
 blurb: Fun with donations.
-version: 1.0
+version: 1.1
 released: 2020-01-03
-current:
+current: 2020-01-03
 ---
 This year, a confluence of events led me to some fun experiments
 with donations to Grinnell.  First, my in-laws and my family decided
@@ -63,16 +63,6 @@ we honor you any less than those whose names appear.  Rather, the
 folks we honored were either associated with something to which we
 wished to contribute or happened to be on our minds on the day we
 donated.
-
----
-
-Postscript: Here are some parts of the Honoraria section that I appreciate,
-beyond the wide range of faculty, staff, alumni, and students who are 
-honored.  One alumnus gave in honor of Chelsea Manning, Bernie Sanders,
-and Edward Snowden.  A variety used the "in honor of" field to speak to
-union issues on campus: Three in honor of the Grinnell Union of Student Dining
-Workers, one in honor of students fighting for better working conditions,
-one in honor of Union students [14]
 
 ---
 
