@@ -36,19 +36,13 @@ if ($line ne "---") {
 }
 else {
   while (($line = nextLine()) ne "---") {
-    if ($line =~ m/^num: *(.*)$/) {
-      $num = $1;
-    }
-    elsif ($line=~m/^number: *(.*)$/) {
-      $num = $1;
-    }
-    elsif ($line =~ m/^title: *(.*)$/) {
-      $title= $1;
-    }
-    elsif ($line =~ m/^tags: *(.*)$/) {
-      $tags = $1;
+    if ($line =~ m/^([a-z]*): *(.*)$/) {
+      ${$1} = $2;
     }
   } # while
+  if ($number && !$num) {
+    $num = $number;
+  }
 
   # Fix variables
   if (!$num) { $num = "???"; }
@@ -70,6 +64,29 @@ HEAD
 while (<STDIN>) {
   print $_;
 }
+
+# Print any footer
+if ($released || $current) {
+  print <<"FOOTSEP";
+
+---
+
+FOOTSEP
+  if ($released) {
+    if ($current) {
+      print <<"FOOT1";
+*Version 1.0 released $released.*
+
+*Version $version of $current.*
+FOOT1
+    }
+    else {
+      print "*Version 1.0 of $released.*\n";
+    }
+  } else {
+    print "*Version $version of $current.*\n";
+  }
+} 
 
 # An we're done
 exit 0;
