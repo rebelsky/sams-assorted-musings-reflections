@@ -23,6 +23,7 @@
 #       Here is the start of the musing.  Isn't that amazing?
 
 # Some fun variables
+my %liquid;
 my $num = "";   # The number.
 my $tags = "";  # The tags.
 my $title = ""; # The title
@@ -37,12 +38,18 @@ if ($line ne "---") {
 else {
   while (($line = nextLine()) ne "---") {
     if ($line =~ m/^([a-z]*): *(.*)$/) {
-      ${$1} = $2;
+      $liquid{$1} = $2;
     }
   } # while
-  if ($number && !$num) {
-    $num = $number;
-  }
+
+  # A bad idea, but so what
+  $title = $liquid{"title"};
+  $num = $liquid{"num"} || $liquid{"number"};
+  $tags = $liquid{"tags"};
+  $blurb = $liquid{"blurb"};
+  $version = $liquid{"version"};
+  $released = $liquid{"released"};
+  $current = $liquid{"current"};
 
   # Fix variables
   if (!$num) { $num = "???"; }
