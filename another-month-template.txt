@@ -7,13 +7,15 @@ version: 0.1
 released: 2020-xx-xx
 current: 2020-xx-xx
 ---
-Introduction
+Write some stuff for the introduction
 
 On my writing
 -------------
 
-On frequency of posting
------------------------
+On posting frequency
+--------------------
+
+This section may not be necessary.
 
 Follow-ups to individual musings
 --------------------------------
