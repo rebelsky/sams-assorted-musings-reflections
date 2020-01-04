@@ -3,9 +3,9 @@ title: Another month of (mostly) daily musings
 number: XXX
 tags: End-of-month musings
 blurb: Whatever
-version: 0.1
+version: 0.2
 released: 
-current: 2020-01-01
+current: 2020-01-03
 ---
 We've reached the end of another month and, as is my wont [1], I'm
 using the last day of the month to look back on the past month and
@@ -19,6 +19,13 @@ these musings since I've written similar paragraphs before [3].
 On my writing
 -------------
 
+First few musings of the month (year) were quite long.  The first, on
+[my plans for my next Tutorial](next-tutorial-2020-01-01) had a lot of
+quoted material that added to its length.  The second, [my post-preregistration
+reflections](post-prereg-2020S), required me to write about a bunch of
+data.  I'm not sure that I wrote all that much meaningful, but it took a
+lot of time and resulted in a lot of text.
+
 On posting frequency
 --------------------
 
@@ -29,6 +36,27 @@ Follow-ups to individual musings
 
 Broader issues 
 --------------
+
+I’ve continued my practice of saving musings additional musings
+that I mostly finish on a day that I’ve already posted a musing,
+rather than posting them as a second [or third] musing.  However,
+I’ve discovered a disadvantage to that approach. In the past, when
+I had an idea for a short musing, I’d put a few notes in my sketchbook
+and leave it at that.  Now, I feel much more comfortable writing a
+full draft.  But that takes much more of my time, so I’m not sure
+that it’s the best idea. Oh well, I guess that’s how things go.
+
+I did have one day in which I considered posting four separate
+musings related to donating to Grinnell, [some general comments on
+donation], [followup notes on the _Honor Roll of Giving_], [a letter
+to concerned alums regarding project ignite], and [a fantasy about
+donations in my name].  But I decided that I would be better off
+posting them on separate days.
+
+I got very few comments on [my musing on Tutorial
+topics](next-tutorial-2020-01-01).  Given the number I'd previously
+received on [Plans], I found that somewhat surprising.  I guess
+[Plans] is just a better social media site. I suppose I should return.
 
 Behind the scenes
 -----------------
