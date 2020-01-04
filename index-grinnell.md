@@ -263,3 +263,7 @@ Grinnell.
 
 > Am I permitted opinions?
 
+[The honor of giving to Grinnell](honor-giving-grinnell-2020-01-03) (Musing #975)
+
+> Fun with donations.
+

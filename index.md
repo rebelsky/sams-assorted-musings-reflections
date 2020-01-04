@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Annoying link requests](annoying-link-requests-2020-01-02) (Musing #974)
+[The honor of giving to Grinnell](honor-giving-grinnell-2020-01-03) (Musing #975)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
