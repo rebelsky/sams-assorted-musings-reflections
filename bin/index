@@ -1,0 +1,44 @@
+#!/usr/bin/perl
+
+# Usage: index FILE.md
+
+# Extract basic information
+my $file = $ARGV[0];
+$file =~ s/\.html$/\.md/;
+
+my $title = `head -1 $file`;
+chomp($title);
+if ($title eq "---") {
+  $title = `grep '^title:' $file`;
+  $title =~ s/^title: *//;
+  chomp($title);
+}
+
+my $number = `grep '^number:' $file`;
+chomp($number);
+if (!$number) {
+  $number = `grep '^num:' $file`;
+  chomp($number);
+}
+$number =~ s/^[a-z]*: *//;
+if (!$number) {
+  $number = "XXX";
+}
+
+my $blurb = `grep '^blurb:' $file`;
+chomp($blurb);
+$blurb =~ s/^[a-z]*: *//;
+if (!$blurb) {
+  $blurb = "XXX";
+}
+
+my $document = $file;
+$document =~ s/\.md$//;
+
+print <<"ITEM";
+[$title]($document) (Musing #$number)
+
+> $blurb
+
+ITEM
+
