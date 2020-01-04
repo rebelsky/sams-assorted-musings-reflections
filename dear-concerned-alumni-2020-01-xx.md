@@ -1,7 +1,7 @@
 ---
 title: Dear Concerned Alumni
 number: 
-tags: [Grinnell](index-grinnell)
+tags: [Grinnell](index-grinnell), things I was writing anyway
 blurb: Please donate.
 version: 0.1
 released: 
