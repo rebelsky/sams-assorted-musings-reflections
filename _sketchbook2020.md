@@ -9,16 +9,18 @@ finish a musing, it tends to disappear from the sketchbook._
 Tentative upcoming musings
 --------------------------
 
-* Wednesday January 1st: My next Tutorial (?) [Mostly written]
-* Thursday  January 2nd: Post-preregistration (If I can get it written ?)
-* Thursday, January 3rd: One story, multiple perspectives
+* Saturday, January 4th: Dear Concerned Alumni
+* Sunday, January 5th: Honoraria (remove from list below)
+* Monday, January 6th: Post-preregistration 
+* Tuesday, January 7th: Donating in my name
+* Wednesday, January 8th: One story, multiple perspectives (?)
+* Thursday, January 9th: Sadness
+* Friday, January 10th: Games at the Rebelskys'
 
 Software
 --------
 
 1. Add blurb to the head.  (Is this conceptual or actual?)
-
-1. released, version, date in head and solidify
 
 1. 'liquify' script to add the heading to prior musings.
 
@@ -33,8 +35,12 @@ summarize the contents.
 
 1. Generate the one-liner for the indices.
 
+1. Share code between bin/make-item and bin/index
+
 Written, need minor revisions
 -----------------------------
+
+1. Honoraria.
 
 1. The Pyramid.
 
@@ -42,9 +48,10 @@ Written, need minor revisions
 
 1. Volunteering for NESFA.
 
+1. The joy of code: Concise perl
+
 1. Depression (depression-2019-12-12)
 
-1. Fixing things.
 
 Written, need major revisions
 -----------------------------
@@ -60,6 +67,8 @@ Written, need major revisions
 Short
 -----
 
+1. Rebelsky Games.  See rebelsky-games-break-2020-01-xx.
+
 1. Prelude to musing 1000 (prelude-to-1000-2020-01-xx.md)
 
 1. "The Champagne of Beers".  What does that mean?  It's not like
@@ -70,7 +79,7 @@ Champagne is supposed to be fancy.  But it's an odd metaphor.)
 
 1. Nina Paley.  Sita Sings the Blues.  Intersting copyright.  Just
 discovered that she draws stuff to order.  What should I order?
-"Muse Musing", "Grinnellian", ...?
+"Muse Musing", "Grinnellian", ...?  palegraylabs.com.
 
 1. Choosing a book for Rebelsky Reading Group, Revisited.  I spent
 the remainder of Winter break reading books.  _The Starless Sea_.
@@ -91,13 +100,13 @@ pages 1715–1726, Denver, Colorado, USA, 2002. AACE."  So it turns
 out that I'm not being cited; the proceedings I edited are being
 cited.
 
+1. Wednesday is Prince Spaghetti Day.
 
 Long
 ----
 
-1. Post-prereg.
-
-1. The memo about Tutorial/Open Curriculum.
+1. The memo about Tutorial/Open Curriculum.  (Maybe a short one and a
+long one.)
 
 1. For Mike: Teaching CS.
 
@@ -115,6 +124,8 @@ can learn something about my writing from reading through them."
 anyone else has looked at the data?  How do we classify courses?
 
 1. GrinnellPlans: Early experiments in Social Media.
+
+1. Transitioning Web sites.
 
 Articles and other readings
 ---------------------------
