@@ -3,7 +3,7 @@ title: Honoraria and Memorials in the _Honor Roll_
 number: 
 tags: Grinnell
 blurb: Fun thigns to read
-version: 
+version: 0.2
 released: 
 current: 2019-01-03
 ---
@@ -14,7 +14,7 @@ which lists the people or organizations donors wished to honor.
 Here's what the introduction to that section reads.
 
 > Each year, Grinnell receives gifts that are made specifically in
-honor of meaningful Grinnell memories or of living Grinnellians,
+honor of meaningful Grinnell memories of living Grinnellians,
 including alumni, students, faculty and staff.  Between July 1,
 2018, and June 30, 2019, the following individuals and organizations
 were honored through gifts and pledges to Grinnell.  Please note
@@ -46,13 +46,24 @@ Grinnellian, and not just because other institutions are unlikely
 to have a dorm named "Norris".  Rather, it represents a desire to
 honor Grinnell memorires, or so I hope.
 
-The Memorials section is also broken up into subsections, including
-Alumni and Students [6], Faculty and Staff, Others, and Parents and
-Friends.  I'm glad to see that people continue to donate in honor
-of Tammy Zywicki '93.  Nonetheless, it reminds me that we don't do
-enough at Grinnell to honor her memory.  Reading the Memorials
-section makes me sad, so I'm not going to report on any other
-details.
+The Memorials section has a nicely written introduction.
+
+> Many members of the Grinnell community find memorial gifts to the
+College to be an appropriate way to remember and celebrate a relative,
+friend, or special faculty or staff member.  Grinnell is gradeful
+to receive these gifts, which provide important resources for
+Grinnell students and faculty members [6].  Between July 1, 2018,
+and June 30, 2019, the following individuals and organizations were
+honored through a memorial gift to the College.  Please note the
+list is in alphabetical order by last name of the honoree.
+
+Like the Honoraria section, the Memorials section is broken up into
+subsections, including Alumni and Students [7], Faculty and Staff,
+Others, and Parents and Friends.  I'm glad to see that people
+continue to donate in honor of Tammy Zywicki '93.  Nonetheless, it
+reminds me that we don't do enough at Grinnell to honor her memory.
+Reading the Memorials section makes me sad, so I'm not going to
+report on any other details.
 
 ---
 
@@ -68,5 +79,7 @@ included enough, the donor would be more easily identifiable.
 
 [5] As opposed to Confederate students?
 
-[6] It's incredibly sad when someone who would have been a current student
+[6] And, I would hope, staff members.
+
+[7] It's incredibly sad when someone who would have been a current student
 needs to be meorialized.
