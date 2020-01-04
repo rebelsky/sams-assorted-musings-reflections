@@ -319,7 +319,3 @@ to teach Tutorial.
 [14] Yes, I realize that I could just write "Grinnellians" and the
 "thoughtful" and "intelligent" would generally be implied.  I don't
 mind being a bit redundant.
-
----
-
-*Version 1.0 of 2020-01-01.*

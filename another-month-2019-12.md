@@ -4,8 +4,8 @@ number: 972
 tags: End-of-month musings
 blurb: Also another year.
 released: 2019-12-31
-version: 0.4
-current: 2019-12-30
+version: 1.0.1
+current: 2020-01-03
 ---
 I have finished another month of what I call daily musings, even
 though they are not always musings and they certainly aren't always
@@ -308,7 +308,3 @@ However, as I noted earlier, I wrote some musings that I have not yet
 posted.  However, I anticipate editing them before posting.
 
 [17] Or slowly.
-
----
-
-*Version 1.0 of 2019-12-31.*

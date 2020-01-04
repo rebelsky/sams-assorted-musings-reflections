@@ -1,7 +1,7 @@
 ---
 title: Annoying link requests
 number: 974
-tags: rants
+tags: [rants](index-rants)
 blurb: How should I respond?
 version: 1.0
 released: 2019-01-02
@@ -106,7 +106,3 @@ the latest versions.
 our primary site.  It's at <https://www.grinnell.edu/web-accessibility>.
 Unfortunately, much of the content deals with our primary site, making
 it inapplicable to my site.
-
----
-
-*Version 1.0 of 2020-01-02.*
