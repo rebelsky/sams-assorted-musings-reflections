@@ -70,7 +70,7 @@ why.  I was able to make the following work.
 
     $bar = "foo";
     ${$bar} = "quux";
-    print "$foo"; // quux
+    print "$foo"; # quux
 
 I guess I did not understand Perl as much as I thought.  
 
