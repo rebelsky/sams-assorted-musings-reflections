@@ -267,3 +267,7 @@ Grinnell.
 
 > Fun with donations.
 
+[Dear Concerned Alumni](dear-concerned-alumni-2020-01-04) (Musing #976)
+
+> Please donate.
+

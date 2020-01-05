@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 971-980
 
+[Dear Concerned Alumni](dear-concerned-alumni-2020-01-04) (Musing #976)  
 [The honor of giving to Grinnell](honor-giving-grinnell-2020-01-03) (Musing #975)  
 [Annoying link requests](annoying-link-requests-2020-01-02) (Musing #974)  
 [Looking ahead to my next Tutorial](next-tutorial-2020-01-01) (Musing #973)  
