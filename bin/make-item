@@ -13,6 +13,7 @@ chomp($title);
 if ($title eq "---") {
   $title = `grep '^title:' $file`;
   $title =~ s/^title: *//;
+  chomp($title);
 }
 
 my $number = `grep '^number:' $file`;
