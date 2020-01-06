@@ -9,13 +9,12 @@ finish a musing, it tends to disappear from the sketchbook._
 Tentative upcoming musings
 --------------------------
 
-* Saturday, January 4th: Dear Concerned Alumni
-* Sunday, January 5th: Honoraria (remove from list below)
 * Monday, January 6th: Post-preregistration 
-* Tuesday, January 7th: Donating in my name
+* Tuesday, January 7th: Nina Paley
 * Wednesday, January 8th: One story, multiple perspectives (?)
 * Thursday, January 9th: Sadness
 * Friday, January 10th: Games at the Rebelskys'
+* Saturday, January 11th: Donating in my name (?
 
 Software
 --------
@@ -40,8 +39,6 @@ summarize the contents.
 Written, need minor revisions
 -----------------------------
 
-1. Honoraria.
-
 1. The Pyramid.
 
 1. Honors in CS.
@@ -51,7 +48,6 @@ Written, need minor revisions
 1. The joy of code: Concise perl
 
 1. Depression (depression-2019-12-12)
-
 
 Written, need major revisions
 -----------------------------
@@ -70,6 +66,9 @@ Short
 1. Rebelsky Games.  See rebelsky-games-break-2020-01-xx.
 
 1. Prelude to musing 1000 (prelude-to-1000-2020-01-xx.md)
+
+1. The Fiboacci Spiral.  Damian Hirst, Intelletual Property, and
+my Final Project for Sculpture.
 
 1. "The Champagne of Beers".  What does that mean?  It's not like
 they've called it the "Lafite Rothchild of beers".  Do they mean
