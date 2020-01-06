@@ -3,8 +3,13 @@ SamR's musing sketchbook for 2020
 
 _This document serves as my "sketchbook" of potential musings and
 rants for 2020.   It's where I put notes on those musings.  Since
-it's an electronic document, it will change regularly.  When I
-finish a musing, it tends to disappear from the sketchbook._
+it's an electronic document, it will change regularly.  For example,
+when I finish a musing, it tends to disappear from the sketchbook;
+sometimes some traces remain._
+
+_The document also tends to contain other notes related to the musings
+and rants, such as a potential schedule of musing (one I rarely hold
+to) and a list of software that I want to write._
 
 Tentative upcoming musings
 --------------------------
@@ -14,10 +19,10 @@ Tentative upcoming musings
 * Wednesday, January 8th: One story, multiple perspectives (?)
 * Thursday, January 9th: Sadness
 * Friday, January 10th: Games at the Rebelskys'
-* Saturday, January 11th: Donating in my name (?
+* Saturday, January 11th: Donating in my name / Donation fantasies (?)
 
-Software
---------
+Software to write
+-----------------
 
 1. Add blurb to the head.  (Is this conceptual or actual?)
 
@@ -47,6 +52,8 @@ Written, need minor revisions
 
 1. The joy of code: Concise perl
 
+1. My Apple Watch (my-apple-watch)
+
 1. Depression (depression-2019-12-12)
 
 Written, need major revisions
@@ -63,18 +70,22 @@ Written, need major revisions
 Short
 -----
 
-1. Rebelsky Games.  See rebelsky-games-break-2020-01-xx.
-
-1. Prelude to musing 1000 (prelude-to-1000-2020-01-xx.md)
-
-1. The Fiboacci Spiral.  Damian Hirst, Intelletual Property, and
-my Final Project for Sculpture.
-
 1. "The Champagne of Beers".  What does that mean?  It's not like
 they've called it the "Lafite Rothchild of beers".  Do they mean
 that it's carbonated?  Most beer is carbonated.  Do they mean that
 it's made in the Champagne region of France?  (Yes, I realize that
 Champagne is supposed to be fancy.  But it's an odd metaphor.)
+
+1. A tale of two unions.
+
+1. Rebelsky Games.  See rebelsky-games-break-2020-01-xx.
+
+1. My Apple Watch.  (my-apple-watch.md)
+
+1. Prelude to musing 1000 (prelude-to-1000-2020-01-xx.md)
+
+1. The Fiboacci Spiral.  Damian Hirst, Intelletual Property, and
+my Final Project for Sculpture.
 
 1. Nina Paley.  Sita Sings the Blues.  Intersting copyright.  Just
 discovered that she draws stuff to order.  What should I order?
@@ -125,6 +136,8 @@ anyone else has looked at the data?  How do we classify courses?
 1. GrinnellPlans: Early experiments in Social Media.
 
 1. Transitioning Web sites.
+
+1. Adventures in Racket Autograding.
 
 Articles and other readings
 ---------------------------
