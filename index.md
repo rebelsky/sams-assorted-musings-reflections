@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Dear Concerned Alumni](dear-concerned-alumni-2020-01-04) (Musing #976)
+[Honoraria and Memorials in the _Honor Roll_](honoraria-2020-01-05) (Musing #977)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

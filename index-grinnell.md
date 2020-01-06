@@ -271,3 +271,7 @@ Grinnell.
 
 > Please donate.
 
+[Honoraria and Memorials in the _Honor Roll_](honoraria-2020-01-05) (Musing #977)
+
+> Fun things to read
+

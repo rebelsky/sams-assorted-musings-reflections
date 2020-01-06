@@ -1,11 +1,11 @@
 ---
 title: Honoraria and Memorials in the _Honor Roll_
-number: 
-tags: Grinnell
-blurb: Fun thigns to read
-version: 0.2
-released: 
-current: 2019-01-03
+number: 977
+tags: [Grinnell](index-grinnell)
+blurb: Fun things to read
+version: 1.0
+released: 2019-01-05
+current: 
 ---
 In [a recent musing](honor-giving-grinnell-2020-01-03), I discussed
 the _Honor Roll of Giving_, particularly the Honoraria section,
@@ -33,7 +33,7 @@ the "in honor of" field to speak to union issues on campus: Three
 in honor of the Grinnell Union of Student Dining Workers, one in
 honor of students fighting for better working conditions, one in
 honor of Union students [5], and one in honor of Union Busting.
-Knowing Grinnellians, there is a good chance that the last one is
+Knowing Grinnellians, there is a possibility that the last one is
 intended to be satirical.
 
 As one might expect, there are also donations in honor of Posse.
@@ -44,13 +44,13 @@ graduation of the Class of 2019, Posse at Grinnell does not.
 The donation in honor of Norris 3rd East also feels particularly
 Grinnellian, and not just because other institutions are unlikely
 to have a dorm named "Norris".  Rather, it represents a desire to
-honor Grinnell memorires, or so I hope.
+honor Grinnell memories, or so I hope.
 
 The Memorials section has a nicely written introduction.
 
 > Many members of the Grinnell community find memorial gifts to the
 College to be an appropriate way to remember and celebrate a relative,
-friend, or special faculty or staff member.  Grinnell is gradeful
+friend, or special faculty or staff member.  Grinnell is grateful
 to receive these gifts, which provide important resources for
 Grinnell students and faculty members [6].  Between July 1, 2018,
 and June 30, 2019, the following individuals and organizations were
@@ -64,6 +64,15 @@ continue to donate in honor of Tammy Zywicki '93.  Nonetheless, it
 reminds me that we don't do enough at Grinnell to honor her memory.
 Reading the Memorials section makes me sad, so I'm not going to
 report on any other details.
+
+I see other changes to the _Honor Roll_ [8].  For example, I'm
+glad to see that I now appear in the list of faculty and staff who give;
+a few years ago, I appeared in the list of parents who give, even though
+I don't consider that my primary role at the College.  Now I appear
+in both places, as well as in the list of honoraria.
+
+In any case, I enjoyed skimming through the _Honor Roll_.  I look
+forward to reading next year's.  I hope to see your name there!
 
 ---
 
@@ -82,4 +91,6 @@ included enough, the donor would be more easily identifiable.
 [6] And, I would hope, staff members.
 
 [7] It's incredibly sad when someone who would have been a current student
-needs to be meorialized.
+needs to be memorialized.
+
+[8] I don't know whether or not they are new.

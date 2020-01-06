@@ -1267,3 +1267,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Annoying link requests](annoying-link-requests-2020-01-02) (Musing #974)  
 [The honor of giving to Grinnell](honor-giving-grinnell-2020-01-03) (Musing #975)  
 [Dear Concerned Alumni](dear-concerned-alumni-2020-01-04) (Musing #976)  
+[Honoraria and Memorials in the _Honor Roll_](honoraria-2020-01-05) (Musing #977)  
