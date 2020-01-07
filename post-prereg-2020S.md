@@ -3,9 +3,9 @@ title: Post-preregistration for spring 2020
 number: 978
 tags: [Registration](index-registration), [Grinnell](index-grinnell), assorted data, rambly, long, end-notable
 blurb: There must be some point to doing all this analysis.
-version: 0.4
-released: 
-current: 2020-01-05
+version: 1.0
+released: 2020-01-06
+current: 
 ---
 A few weeks ago, I wrote my semesterly [1] musing on preregistration,
 this one on [preregistration for spring 2020](prereg-2020S).  I
@@ -27,8 +27,8 @@ departments in alphabetical order.
 As expected, ALS [6] has gone from an over-enrolled 0-credit course
 with eighteen students to six different courses (Italian I, Hindi
 I, Brazilian Portuguese I, Hungarian I, Korean II, and Korean III),
-each with about two students.  It's still an over-enrolled course
-with twenty-one students.
+each with about two students.  It's also still an over-enrolled course
+but now with twenty-one students.
 
 Katya and Leslie's AMS/ANT/BIO-220, _Racing Through Genetics_, has gone from
 24 students to 22, but remains over-enrolled.  I assume they couldn't
@@ -46,12 +46,15 @@ ANT/HUM-205, _Desiging Museum Displays_ [7].
 The two over-enrolled sections of ART-111, _Introduction to the
 Studio_, have become three sections of ART-111.  One person is
 teaching all three sections, and the sections are all Tuesday/Thursday.
-I do not envy them [8] those days.  I guess that's a positive side
-effect of the change in in-class time for the studio classes [9].
-In contrast, there is not a new section of _Drawing_.  But Jeremy Chen
-is already teaching three courses in the spring.  Four would be awful.
-It looks like Jeremy couldn't bear to kick people out of ART-240,
-_Ceramics_, so that course is still slightly over-enrolled.
+I do not envy them [8] those long days.  I guess that's a positive
+side effect of the change in in-class time for the studio classes;
+Studio Art Faculty can now teach three courses in a day [9].
+
+In contrast, there is not a new section of _Drawing_, even though it
+was significantly over-enrolled.  But Jeremy Chen is already teaching
+three courses in the spring.  Four would be awful.  It looks like
+Jeremy couldn't bear to kick people out of ART-240, _Ceramics_, so
+that course is still slightly over-enrolled.
 
 ASC-101, _Scholars Seminar_, is still being offered, even though it
 has only two students.  But it's a one-credit course, and many students
@@ -59,7 +62,7 @@ end up adding it after they see how they do in their first semester at
 Grinnell.
 
 Somehow, nine students got cut from BCM-262-01, _Intro Biological
-Chem w/lab_, but there are still slots open in BCM-262-02.  I don't
+Chem w/lab_ but there are still slots open in BCM-262-02.  I don't
 know what's up with that.  Perhaps they are allowing the students
 who got cut to petition to get into the other section.  I know that
 there are years in which they've allowed that course to significantly
@@ -93,7 +96,7 @@ first-year students were frustrated that they got cut in the fall,
 but we managed to meet all the demand in the spring.  Six sections
 per year seem to suffice.
 
-CSC-261, _Imperative Problem Solving w/lab_ was our hardest course
+CSC-161, _Imperative Problem Solving w/lab_ was our hardest course
 to handle.  We were over-enrolled by twenty students and could not
 fit that many in the classroom.  Barbara Johnson graciously agreed
 to switch from CSC-105 to open a third section.  And we were able
@@ -135,14 +138,14 @@ That means he'll let me in.  I see that John Garrison has continued
 his practice of allowing his 300-level classes to over-enroll.
 There are eighteen in ENG-316, _Studies in English Renaissance
 Literature_.  It sounds like his practice is carrying on to others,
-too.  Markab La van, who I don't know, is allowing sixteen into
+too.  Makeba Lavan, who I don't know, is allowing sixteen into
 _ENG-229, _Studies in African American Literature_.
 
 All of the Environmental studies courses are full.  I wonder who
 is teaching ENG-295, the special topics course on _Climate Change
 and Indigenous People_.  It seems very popular (and very interesting).
 
-There's not a lot to report on in French.  It appears that FAN-103,
+There's not a lot to report on in French.  It appears that FRN-103,
 _Accelerated Introduction to French_, was cancelled.  I wonder what
 happens to the students who had enrolled in the course; it's easy to 
 lose a language if you take too much time off.  I'm glad to see that
@@ -210,19 +213,19 @@ prerequisite description.  In any case, it appears that they cut
 three students from that course.
 
 On to Mathematics and Statistics, or maybe just Mathematics, since
-Statistics now has its own designation.  Let's see.  MAT-131-01,
-_Calculus I_, remains over-enrolled by two students  It's hard to
-tell students that they can't take Calculus. At the end of
-preregistration, we had three sections of MAT-133, _Calculus II_.
-Section 1 had two slots available.  Section 2 was over-enrolled by
-two students.  Section 3 had sixteen open slots.  After CCB, we
-have two slots available in section 1, no slots in section 2, and
-eleven slots in section 3.  All three are marked as "balanced".  In
-CS, we would have been more aggressive about balancing; that is,
-we would have tried to get about 28 students in each section, rather
-than the current 30/32/21.  Equal-sized sections provide a more
-consistent experience for the students.  But it's not always possible
-to balance sections.
+Statistics now has its own designation.  MAT-131-01, _Calculus I_,
+remains over-enrolled by two students  It's hard to tell students
+that they can't take Calculus. At the end of preregistration, we
+had three sections of MAT-133, _Calculus II_.  Section 1 had two
+slots available.  Section 2 was over-enrolled by two students.
+Section 3 had sixteen open slots.  After CCB, we have two slots
+available in section 1, no slots in section 2, and eleven slots in
+section 3.  All three are marked as "balanced".  In CS, we would
+have been more aggressive about balancing; that is, we would have
+tried to get about 28 students in each section, rather than the
+current 30/32/21.  Equal-sized sections provide a more consistent
+experience for the students.  But it's not always possible to balance
+sections.
 
 While we're on the subject of MAT-133, I see that we've switched section 1
 from Chris French to "Staff".  I wonder what Chris picked up instead.  Ah!
@@ -357,7 +360,7 @@ MUS-120-09, _Perf: Clarinet_ and MUS-120-10, _Perf: Jazz Saxophone_,
 have stayed the same: Five students enrolled in each with a cap of
 four.  MUS-120-19, _Perf: Organ_, also remained the same, with four
 enrolled and a cap of three.  MUS-120-38, _Perf: Cello_, also
-remained overenrolled by one with sixteen students enrolled and a
+remained over-enrolled by one with sixteen students enrolled and a
 cap of fifteen.  MUS-120-40, _Perf: Bassoon_, is down to five
 enrolled with a cap of three.  MUS-120-91, _Perf: Guitar_ is gone
 from the list.  Twenty six are in the newly created MUS-120-11,
@@ -559,7 +562,8 @@ I could to find a way to offer another section", but it appears they
 did just that.  There are now two sections, one with sixteen students
 and one with ten.  It looks like Spanish had to cut SPN-105, _Introduction
 to Spanish Lang I_, and shuffle some teaching responsibilities to do so.
-I know those kinds of decisions are hard.
+I know those kinds of decisions are hard.  It's hard to believe that
+two intro language courses were cut [48].
 
 Spanish also had one other over-enrolled course, SPN-385, _Stds Contemp
 Span Lit & Film_, which I originally read as "Standards" but quickly
@@ -571,7 +575,7 @@ SST-115-01, _Introduction to Statistics_, had thirty-three students
 enrolled and a cap of twenty-eight.  That course raises so many
 thoughts.  Why do we have only one section when we used to need
 three or four each semester?  Because students are now taking
-STA-209, _Applied Statistics_, instead [48].  Why is it "SST" rather
+STA-209, _Applied Statistics_, instead [49].  Why is it "SST" rather
 than "STA"?  That I'm less sure about; I think it's because the
 Statistics Faculty don't necessarily have control of the curriculum
 and it does not count toward the Math/Stats major.  In any case,
@@ -582,14 +586,14 @@ of Grinnell's elements of a liberal arts education.  I also know that
 there's not much we could do about it.
 
 On to STA-209, _Applied Statistics_.  How does STA-209 differ from
-SST-115, other than in the numbering?  We require that students who
-take the latter course have had some Calculus.  That knowledge should
-allow the students to derive some key formulae, such as those relating
-to the normal curve.  But it's also an issue of mathematical maturity.
-I loved the students I taught in MAT/SST-115, they were bright and
-inquisitive and willing to undertake the experiments in statistics
-pedagogy that I was imposing on them [49].  At the same time, some
-of them struggled to add fractions.
+SST-115, other than in the numbering?  We [50] require that students
+who take the latter course have had some Calculus.  That knowledge
+should allow the students to derive some key formulae, such as those
+relating to the normal curve.  But it's also an issue of mathematical
+maturity.  I loved the students I taught in MAT/SST-115, they were
+bright and inquisitive and willing to undertake the experiments in
+statistics pedagogy that I was imposing on them [51].  At the same
+time, some of them struggled to add fractions.
 
 In any case, STA-209 is a popular class. We used to offer one section
 each semester.  We now offer four.  After preregistration, section
@@ -613,8 +617,8 @@ Science_.  Section 1 was over-enrolled by nine students.  Section 2
 was over-enrolled by ten students.  Once again, that's enough for another
 section.  And, once again, it's not clear who could teach that.  I'm
 trying to figure that out.  We have three tenure-line Statistics faculty.
-We appear to have two multi-year visitors [50].  Everyone is teaching
-this spring, and it doesn't cover the demand [51].
+We appear to have two multi-year visitors [52].  Everyone is teaching
+this spring, and it doesn't cover the demand [53].
 
 And that's it.  We're through the list of over-enrolled courses.  Does that
 mean we're done with the musing?  Not quite.  As I was reading through the
@@ -628,25 +632,25 @@ of Iowa Agriculture", and "Ethnography of Rohingyas".
 
 Studio Art has "Photographic Publication", "Advanced Oil Painting
 Series", "Hybrid Investigation", "Narrative Illustration", "Visualizing
-Post-Bodies", and "Analog Photography" [52].
+Post-Bodies", and "Analog Photography" [54].
 
-Biological Chemistry has "HDX and LCMS of Peptides" [53], "Syn
+Biological Chemistry has "HDX and LCMS of Peptides" [55], "Syn
 Teixobactin Analogue", "Bio Eval of LUG Deriv", "HDX Mass Spec of
-MTHFR" [54], "Char LNC-RNS in C elegan" [55], "LNC-RNA Express C
+MTHFR" [56], "Char LNC-RNS in C elegan" [57], "LNC-RNA Express C
 elegan", "M+ Alpha4 nAChR Intrfce", "Redox in Biology Cancer", "UB
 Chain Formation E3s", and "Regulation of HECT E3s".  Wow!  That's
 a lot.
 
 Biology has "Global Prdctn/Cnsmptn", "Slug Stability in Cancer"
-[56], "Fungal Litter Ecotypes", "Phage & Antibiotic Res", "Branched
+[58], "Fungal Litter Ecotypes", "Phage & Antibiotic Res", "Branched
 Ubiquitin Chain", "Antibiotic Resistance", "UbChain Form by WWP1",
 "Antibiotic Farm Runoff", and "Fungal Biology".
 
 Chemistry has "Sustainable Polymers", "Synthesis SERS Substrate",
-"Molecular Computations" [57], "Bacterial Hg Demeth", "Micro Syn Sub 
+"Molecular Computations" [59], "Bacterial Hg Demeth", "Micro Syn Sub 
 Alkenones", "Micro Syn Sub Chalcones", "Synthesis of TM Complexes",
 "Rlx Study Metal Complexes", "Microbial Hg Demth", "Syn of Lug and
-Deriv", "Tran Met Com Red Lig Cat" [58], "Exsy Rlx Std P-PPt Cmpds",
+Deriv", "Tran Met Com Red Lig Cat" [60], "Exsy Rlx Std P-PPt Cmpds",
 and "DFT Calcs, NMR of Cp2WH2".  That's also a lot.  Our Chemists
 are busy.
 
@@ -660,7 +664,7 @@ mathematics.
 Economics has "Adv Political Economy" and "Christmas Lights & Creme".
 
 Education has "Rural Education", "Educ and Foster Youth", "Implement
-Law Teach Union" [61], and "NGO Spd Edu Ini for Kaya".
+Law Teach Union" [63], and "NGO Spd Edu Ini for Kaya".
 
 English has "Textual Orientations", "Religion & Af Am Lit Trad",
 "Farewells in War & Peace", "Advanced Poetry Project", and "Novel
@@ -706,7 +710,7 @@ Religious Studies has "Cavell and Criticism" and "Grace in Orthodoxy".
 
 Sociology has "Pol of Mourning & Burial", "Adv Journlsm Exlprtns",
 "Whiteness Envn Justice", "Community in Soc Movement", and "Rce
-Brrrs in Clmte Mvmnt" [62].
+Brrrs in Clmte Mvmnt" [64].
 
 Statistics has "Stat Learning Bias", which is being offered as both an
 independent and a MAP.  Other departments have that, too, but it's most
@@ -715,18 +719,17 @@ obvious in Stats.
 Theatre and Dance has "Machinal Production", "Stage Mngmt & Drctn", and
 "Directing Cont Theatre".
 
-I had not known that we had a THS-499 designation for theses.  I'm guessing
-those are for independent majors.  In any case, there are eight of
-them this spring: "Eng Lang Lrns in Nw Lx D", "Comp USUK Mat Rspn Immig",
-"Invis Cancer Global", "Office Hours Emtnl Labor", "Music and
-Neoliberalism", "Beyond Baldwin & Julien", "Language of Biophilia", and
-the creatively named "Senior Thesis Film".
+I had not known that we had a THS-499 designation for theses.  I'm
+guessing those are for independent majors.  In any case, there are
+eight of them this spring: "Eng Lang Lrns in Nw Lx D", "Comp USUK
+Mat Rspn Immig", "Invis Cancer Global", "Office Hours Emtnl Labor",
+"Music and Neoliberalism", "Beyond Baldwin & Julien", "Language of
+Biophilia", and the creatively named "Senior Thesis Film".
 
+That's it for the independent-study courses I could find.  I may
+have missed a few.
 
-That's it for the independent-study courses I could find.  I may have missed
-a few of them.
-
-One more thing: I had a few special courses I was watching, Georgeanna
+One more thing: I was watching a few special courses, including Georgeanna
 Robinson's SST-195-04, _How Colleges Work_, Jon Andelson and Mark Baechtel's
 HUM-205-03, _ST: Dig Journal Publishing_, and Belinda Backous' ASC-101-01,
 _Scholar's Seminar_.  If I recall correctly, the first two courses got left
@@ -766,10 +769,10 @@ pleasant experience.  I wonder how many things I accidentally corrected.
 ---
 
 Postscript: Not only is this musing one of the longest I've written
-in terms of word count [63] and the the number of endnotes [64],
+in terms of word count [65] and the number of endnotes [66],
 it also seems to have taken me much longer than any prior musing.
 I'm not sure exactly how much time it took since I wrote it over
-multiple sessions, but I expect that it's over eight hours [65].
+multiple sessions, but I expect that it's over eight hours [67].
 I don't think I'll regularly have the time to write this much for
 a single musing.
 
@@ -779,25 +782,25 @@ make it worth eight hours of my time.  Others may learn a bit.
 Again, it's probably not enough.  However, a few of these musings
 have made a difference with staffing; if I recall correctly, they've
 helped us with Linguistics and CS.  If they also help with Studio
-Art, or Russian Cooking [66], or Mathematics, or Statistics, or
+Art, or Russian Cooking [68], or Mathematics, or Statistics, or
 Latinx literature, they are probably worth it.
 
-If you can't help teach these courses [67] but have some spare
+If you can't help teach these courses [69] but have some spare
 cash, you could donate to help one of these endeavors.  At the high
 end, you could consider endowing a professorship in one of the
-aforementioned departments [68].  Somewhere in the middle, you might
+aforementioned departments [70].  Somewhere in the middle, you might
 donate to name the Global Kitchen, unless it's named already.  I'd
 suggest naming it after the Mohans or Todd Armstrong, but there are
 certainly other opportunities.
 
 Well, enough of that digression.  I hope you enjoyed some part of this
 musing, as you will be unlikely to see many more of its like again, at
-least in semesters when I'm not on leave [69].
+least in semesters when I'm not on leave [71].
 
 ---
 
 [1] Is that the right adjective?  I write one every semester.  I suppose
-I could write semiannual or biannual.  But I'd rather tie to the semester
+I could call it semiannual or biannual.  But I'd rather tie to the semester
 than to the year.
 
 [2] Perhaps someday it will evolve into "individually advised registration".
@@ -972,64 +975,70 @@ If not, I should have.
 [47] My initially empty list of potential musings for 2020 is growing
 rapidly.
 
-[48] More on that course in a bit.
+[48] The other was introductory French.
 
-[49] Workshop-style statistics was an obvious innovation.  R was a less
+[49] More on that course in a bit.
+
+[50] Here, as in many other places in the musing, I use "We" to mean the 
+faculty (and, often, staff) of Grinnell College.  I don't necessarily
+mean to imply that I was involved in the decision.
+
+[51] Workshop-style statistics was an obvious innovation.  R was a less
 obvious one, particularly since R did not have a nice UI at the time.
 
-[50] I write "appear to" because I don't know the status of our visitors.
+[52] I write "appear to" because I don't know the status of our visitors.
 
-[51] I was going to write "the need", but it's not clear that any
+[53] I was going to write "the need", but it's not clear that any
 particular student explicitly needs either course.  On the other
 hand, I would argue that at this time, every liberally educated
 student needs some statistical literacy.
 
-[52] That reminds me: We have analog photography supplies in the basement
+[54] That reminds me: We have analog photography supplies in the basement
 of 1127 Park.  I wonder if we can give them to the Art department.  I wonder
 who I should talk to.  I'll work on that question next week.
 
-[53] Chemistry is not my forte.  LMS stands for Learning Management System.
+[55] Chemistry is not my forte.  LMS stands for Learning Management System.
 CMS stands for Content Management System.  That suggests that LCMS stands
 for Learning Content Management System.  No, I don't think that's right.
 As I said, Chemistry is not my strong suit.
 
-[54] I don't think you want to hear how I read "MTHFR".
+[56] I don't think you want to hear how I read "MTHFR".
 
-[55] Arguably, that should be _C. elegans_.
+[57] Arguably, that should be _C. elegans_.
 
-[56] I did not know that slugs contributed to cancer.  I'll need to keep more
+[58] I did not know that slugs contributed to cancer.  I'll need to keep more
 salt around.
 
-[57] I don't think that's the kind of molecular computation that my 
+[59] I don't think that's the kind of molecular computation that my 
 former CS colleague, Titus Klinge, studied.
 
-[58] I definitely have no clue about this one.  But then I have little clue
-about most of the Chemistry titles and abbreviations [59].  
+[60] I definitely have no clue about this one.  But then I have little clue
+about most of the Chemistry titles and abbreviations [61].  
 
-[59] Some might argue that I have little clue on most topics.
+[61] Some might argue that I have little clue on most topics.
 
-[60] Heinz.
+[62] Heinz.
 
-[61] I can't parse that one, either, which suggests that a prior endnote
+[63] I can't parse that one, either, which suggests that a prior endnote
 may be more accurate than I thought.
 
-[62] I like "Brrrs", which makes me think of shivering, in the title of
+[64] I like "Brrrs", which makes me think of shivering, in the title of
 a research project on the climate movement.  And yes, I understand that
 it stands for "barriers".
 
-[63] Over 8000 words, at last count.
+[65] Over 8000 words, at last count.
 
-[64] That should be obvious from this number, even though there are still
-a few after this one..
+[66] That should be obvious from this number, even though there are still
+a few after this one.
 
-[65] I'm also counting the time it took to read through and organize data.
+[67] I'm also counting the time it took to read through and organize data.
 
-[66] That would probably require that we open another evening class time.
+[68] That would probably require that we open another evening class time.
 
-[67] Or the College won't allow the appropriate department to hire you.
+[69] Or the College won't allow the appropriate department to hire you.
 
-[68] Or, I suppose, in any department.
+[70] Or, I suppose, in any department.
 
-[69] Since I'm on leave for spring 2020, I may still be able to do
+[71] Since I'm on leave for spring 2020, I may still be able to write
 one for fall 2020.  We'll see how things are going then and how
 much homework Ralph and Justin are giving me.

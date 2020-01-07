@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Honoraria and Memorials in the _Honor Roll_](honoraria-2020-01-05) (Musing #977)
+[Post-preregistration for spring 2020](post-prereg-2020S) (Musing #978)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

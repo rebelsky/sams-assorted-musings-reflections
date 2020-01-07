@@ -2720,6 +2720,10 @@ the registration process at Grinnell.*
 
 > Some notes on how I think about the challenges of CCB.
 
+[Post-preregistration for spring 2020](post-prereg-2020S) (Musing #978)
+
+> There must be some point to doing all this analysis.
+
 A letter to the incoming chair
 ------------------------------
 
