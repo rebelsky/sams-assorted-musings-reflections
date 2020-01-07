@@ -765,14 +765,16 @@ words and make typos.  I usually count on spell checkers to catch those
 mistakes.  The number of strange abbreviations in the course titles,
 as well as the number of faculty names, made spell checking a much less
 pleasant experience.  I wonder how many things I accidentally corrected.
+Grammarly tells me that it has an additional 245 things it will tell me
+about if I just pay it the appropriate ransom [65].
 
 ---
 
 Postscript: Not only is this musing one of the longest I've written
-in terms of word count [65] and the number of endnotes [66],
+in terms of word count [67] and the number of endnotes [68],
 it also seems to have taken me much longer than any prior musing.
 I'm not sure exactly how much time it took since I wrote it over
-multiple sessions, but I expect that it's over eight hours [67].
+multiple sessions, but I expect that it's over eight hours [69].
 I don't think I'll regularly have the time to write this much for
 a single musing.
 
@@ -782,20 +784,20 @@ make it worth eight hours of my time.  Others may learn a bit.
 Again, it's probably not enough.  However, a few of these musings
 have made a difference with staffing; if I recall correctly, they've
 helped us with Linguistics and CS.  If they also help with Studio
-Art, or Russian Cooking [68], or Mathematics, or Statistics, or
+Art, or Russian Cooking [70], or Mathematics, or Statistics, or
 Latinx literature, they are probably worth it.
 
-If you can't help teach these courses [69] but have some spare
+If you can't help teach these courses [71] but have some spare
 cash, you could donate to help one of these endeavors.  At the high
 end, you could consider endowing a professorship in one of the
-aforementioned departments [70].  Somewhere in the middle, you might
+aforementioned departments [72].  Somewhere in the middle, you might
 donate to name the Global Kitchen, unless it's named already.  I'd
 suggest naming it after the Mohans or Todd Armstrong, but there are
 certainly other opportunities.
 
 Well, enough of that digression.  I hope you enjoyed some part of this
 musing, as you will be unlikely to see many more of its like again, at
-least in semesters when I'm not on leave [71].
+least in semesters when I'm not on leave [73].
 
 ---
 
@@ -1026,19 +1028,27 @@ may be more accurate than I thought.
 a research project on the climate movement.  And yes, I understand that
 it stands for "barriers".
 
-[65] Over 8000 words, at last count.
+[65] No, it's not really a ransom.  More precisely, they tell me that,
+"We found 245 **additional writing issues** in this text available only
+for Premium users." [66]
 
-[66] That should be obvious from this number, even though there are still
+[66] That's a strange sentence for a grammar checker as "available
+only for Premium users" could modify not only "additional writing
+issues" but also "this text".
+
+[67] Over 8000 words, at last count.
+
+[68] That should be obvious from this number, even though there are still
 a few after this one.
 
-[67] I'm also counting the time it took to read through and organize data.
+[69] I'm also counting the time it took to read through and organize data.
 
-[68] That would probably require that we open another evening class time.
+[70] That would probably require that we open another evening class time.
 
-[69] Or the College won't allow the appropriate department to hire you.
+[71] Or the College won't allow the appropriate department to hire you.
 
-[70] Or, I suppose, in any department.
+[72] Or, I suppose, in any department.
 
-[71] Since I'm on leave for spring 2020, I may still be able to write
+[73] Since I'm on leave for spring 2020, I may still be able to write
 one for fall 2020.  We'll see how things are going then and how
 much homework Ralph and Justin are giving me.
