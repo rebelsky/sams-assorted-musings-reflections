@@ -1269,3 +1269,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Dear Concerned Alumni](dear-concerned-alumni-2020-01-04) (Musing #976)  
 [Honoraria and Memorials in the _Honor Roll_](honoraria-2020-01-05) (Musing #977)  
 [Post-preregistration for spring 2020](post-prereg-2020S) (Musing #978)  
+[Nina Paley](nina-paley-2020-01-07) (Musing #979)  

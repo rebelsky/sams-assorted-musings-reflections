@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 971-980
 
+[Nina Paley](nina-paley-2020-01-07) (Musing #979)  
 [Post-preregistration for spring 2020](post-prereg-2020S) (Musing #978)  
 [Honoraria and Memorials in the _Honor Roll_](honoraria-2020-01-05) (Musing #977)  
 [Dear Concerned Alumni](dear-concerned-alumni-2020-01-04) (Musing #976)  

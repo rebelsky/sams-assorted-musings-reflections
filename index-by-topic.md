@@ -4184,6 +4184,10 @@ Almost everything else
 
 > Possibly a more serious topic than I had thought.
 
+[Nina Paley](nina-paley-2020-01-07) (Musing #979)
+
+> Sometimes I still feel like a fanboy.
+
 Musings with multiple entries
 -----------------------------
 
