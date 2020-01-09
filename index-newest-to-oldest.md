@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 971-980
 
+[Wayne State's 2020 word list](wayne-state-word-list-2020) (Musing #980)  
 [Nina Paley](nina-paley-2020-01-07) (Musing #979)  
 [Post-preregistration for spring 2020](post-prereg-2020S) (Musing #978)  
 [Honoraria and Memorials in the _Honor Roll_](honoraria-2020-01-05) (Musing #977)  

@@ -41,3 +41,7 @@ to them eventually._
 
 > A word I had not known.
 
+[Wayne State's 2020 word list](wayne-state-word-list-2020) (Musing #980)
+
+> Fun with words.
+

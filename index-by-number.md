@@ -1270,3 +1270,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Honoraria and Memorials in the _Honor Roll_](honoraria-2020-01-05) (Musing #977)  
 [Post-preregistration for spring 2020](post-prereg-2020S) (Musing #978)  
 [Nina Paley](nina-paley-2020-01-07) (Musing #979)  
+[Wayne State's 2020 word list](wayne-state-word-list-2020) (Musing #980)  

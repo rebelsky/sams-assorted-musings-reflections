@@ -1,46 +1,53 @@
 ---
 title: Wayne State's 2020 word list
-number: 
+number: 980
 tags: language
 blurb: Fun with words.
-version: 0.1
-released: 
-current: 2020-01-07
+version: 1.0
+released: 2020-01-07 
+current:
 ---
 Wayne State recently released its [annual list of words it would
 like to see
 revived](https://today.wayne.edu/news/2020/01/06/wayne-state-word-warriors-release-2020-list-35098),
 words that were once popular, but have fallen into disuse.  Here's
-the list.  You can refer to the article I linked for definitions.
+the list.  
 
 > Cachinnate, Coruscate, Gewgaw, Luculent, Mullock, Perendinate, Redolent,
 Seriatim, Somnambulant, Velleity
 
-I knew three of the words: Gewgaw [1], Redolent, and Somnambulant.  I hadn't
-realized that any were in such disfavor.  I feel like I see things like
-"The wine is redolent of berries and spice" fairly regularly.  But maybe
-it's that I read pretentious things.  I spend enough of my time somnambulant
-that it seems I hear it regularly.  For some reason, I associate "gewgaw"
-with stories about the U.S. South.
+You can refer to the article I linked for definitions.
 
-But the rest?  I suppose I'd heard some of them before [2].  But they do
-seem like words that are used infrequently at best.
+I already knew three of the words: Gewgaw [1], Redolent, and
+Somnambulant.  I hadn't realized that any were in such disfavor.
+I feel like I see things like "The wine is redolent of berries and
+spice" fairly regularly.  But maybe it's that I read pretentious
+things.  I spend enough of my time somnambulant that it seems I
+hear it regularly [2].  For some reason, I associate "gewgaw" with
+stories about the U.S. South.
 
-I'm happy to learn "Perendinate", a type of procrastination, since I
-do procrastinate a lot.  However, I'm not sure that I understand the
-definition or example used.  Here's what they have.
+But the rest?  I suppose I'd heard some of them before [3].  Nonetheless,
+they do seem like words that are used infrequently at best.
+
+I'm happy to learn "Perendinate", a type of procrastination, particularly
+since I procrastinate a lot.  However, I'm not sure that I completely
+understand the definition or example they've used.  Here's what appears.
 
 > **Perendinate** - To procrastinate a long time, especially two days.
 
 > He received the order a month ago but perendinated on the work until 48 hours before the deadline. 
 
-First of all, two days is not a long time.  I've procrastinated on some
-things for a full semester, if not more.  In addition, there's a big
-difference between procrastinating for two days and procrastinating until
-two days before something is due.  It sounds like the person in the example
-perendinated for twenty-eight or twenty-nine days [3].
+First of all, two days is not a long time.  I've procrastinated on
+some things for a full semester, if not more.  I'm pretty sure that
+some musing topics have stayed in the queue for three
+years.  Turning to the example, there's also a big difference between
+procrastinating for two days and procrastinating until two days
+before something is due.  It sounds like the person in the example
+perendinated for twenty-eight or twenty-nine days [4].
 
-Let's see if I can find another definition.  [Here's a good one](https://wordsmith.org/words/perendinate.html), taken from _A.Word.A.Day_ with Anu Garg.
+Perhaps I should find another definition.  [Here's a good
+candidate](https://wordsmith.org/words/perendinate.html), taken from
+_A.Word.A.Day_ with Anu Garg.
 
 > **perendinate**
 
@@ -68,13 +75,13 @@ Let's see if I can find another definition.  [Here's a good one](https://wordsmi
 Thomas Alfred Walker; Peterhouse; Hutchinson & Co.; 1906. 
 
 Yes, that's much better.  I drafted this musing on Tuesday.  If I
-were to perendinate posting I would not post until Thursday.  But
-I think I'll just procrastinate, since I have another musing planned
+were to perendinate posting, I would not post until Thursday.  But
+I think I'll just procrastinate since I have another musing planned
 for Thursday.
 
-What about that other meaning?  If I started at Grinnell in 1997, can
-I say that I've perendinated at Grinnell?  And where does that meaning
-come from, in any case?
+What about that other meaning?  If I started at Grinnell in 1997,
+can I say that I've perendinated at Grinnell?  And, come to think
+of it, where does that meaning come from?
 
 ---
 
@@ -86,6 +93,9 @@ or overly intrusive trustees.  But what do I know?
 
 [1] Which I dislike.
 
-[2] It helps to work with John Stone.
+[2] Surprisingly, `aspell` does not know "somnambulant" but knew
+"somnambulist", which it suggested as a replacement.
 
-[3] Or, if it's February, twenty-six or twenty-seven days.
+[3] It helps to work with John Stone.
+
+[4] Or, if it's February, twenty-six or twenty-seven days.
