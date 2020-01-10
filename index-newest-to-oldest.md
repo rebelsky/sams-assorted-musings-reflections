@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 981-990
 
+[A draft memo regarding fifty years of Grinnell's Tutorial and the Open Curriculum](fifty-years-open-curriculum-2020-01-10) (Musing #982)  
 [Sadness and Joy (repeat)](sadness-and-joy-2020-01-09) (Musing #981)  
 
 ## 971-980

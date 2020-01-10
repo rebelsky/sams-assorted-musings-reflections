@@ -2665,6 +2665,10 @@ Grinnell.
 
 > Fun things to read
 
+[A draft memo regarding fifty years of Grinnell's Tutorial and the Open Curriculum](fifty-years-open-curriculum-2020-01-10) (Musing #982)
+
+> There's only one fiftieth anniversary; let's not waste it.
+
 Registration and Related Topics
 -------------------------------
 
