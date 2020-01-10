@@ -14,12 +14,15 @@ to) and a list of software that I want to write._
 Tentative upcoming musings
 --------------------------
 
-* Monday, January 6th: Post-preregistration 
-* Tuesday, January 7th: Nina Paley
 * Wednesday, January 8th: One story, multiple perspectives (?)
-* Thursday, January 9th: Sadness
-* Friday, January 10th: Games at the Rebelskys'
-* Saturday, January 11th: Donating in my name / Donation fantasies (?)
+* Friday, January 10th: Draft memo on Tutorial and Open Curriculum
+* Saturday, January 11th: Farewell to MathLAN
+* Sunday, January 12th: Adventures in Web server transitions
+* Games at the Rebelskys'
+* Honors in CS
+* Story/Evidence
+* Donating in my name / Donation fantasies (?)
+* More Story/Evidence
 
 Software to write
 -----------------
@@ -50,7 +53,9 @@ Written, need minor revisions
 
 1. Volunteering for NESFA.
 
-1. The joy of code: Concise perl
+1. The joy of code: Concise perl.
+
+1. Donation fantasies.
 
 1. My Apple Watch (my-apple-watch)
 
@@ -75,6 +80,8 @@ they've called it the "Lafite Rothchild of beers".  Do they mean
 that it's carbonated?  Most beer is carbonated.  Do they mean that
 it's made in the Champagne region of France?  (Yes, I realize that
 Champagne is supposed to be fancy.  But it's an odd metaphor.)
+
+1. Naming theopen curriculum.  See naming -open-curriculum-2020-01-xx.md
 
 1. A tale of two unions.
 
