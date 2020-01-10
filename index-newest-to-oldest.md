@@ -1,6 +1,10 @@
 Musings, from newest to oldest
 ==============================
 
+## 981-990
+
+[Sadness and Joy (repeat)](sadness-and-joy-2020-01-09) (Musing #981)  
+
 ## 971-980
 
 [Wayne State's 2020 word list](wayne-state-word-list-2020) (Musing #980)  

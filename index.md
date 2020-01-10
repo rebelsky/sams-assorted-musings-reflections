@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Wayne State's 2020 word list](wayne-state-word-list-2020) (Musing #980)
+[Sadness and Joy (repeat)](sadness-and-joy-2020-01-09) (Musing #981)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

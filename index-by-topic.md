@@ -3305,6 +3305,10 @@ Autobiographical essays, more or less
 
 > Fingers crossed!
 
+[Sadness and Joy (repeat)](sadness-and-joy-2020-01-09) (Musing #981)
+
+> Reflections from the end of the winter holiday.
+
 Salary reviews
 --------------
 

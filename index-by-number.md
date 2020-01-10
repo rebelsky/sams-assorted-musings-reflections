@@ -1271,3 +1271,7 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Post-preregistration for spring 2020](post-prereg-2020S) (Musing #978)  
 [Nina Paley](nina-paley-2020-01-07) (Musing #979)  
 [Wayne State's 2020 word list](wayne-state-word-list-2020) (Musing #980)  
+
+## 981-990
+
+[Sadness and Joy (repeat)](sadness-and-joy-2020-01-09) (Musing #981)  
