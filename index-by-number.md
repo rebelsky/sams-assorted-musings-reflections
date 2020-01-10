@@ -1275,4 +1275,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 ## 981-990
 
 [Sadness and Joy (repeat)](sadness-and-joy-2020-01-09) (Musing #981)  
-[A draft memo regarding fifty years of Grinnell's Tutorial and the Open Curriculum](fifty-years-open-curriculum-2020-01-10) (Musing #982)  
+[A draft memo regarding the celebration of fifty years of Grinnell's Tutorial and the Open Curriculum](fifty-years-open-curriculum-2020-01-10) (Musing #982)  

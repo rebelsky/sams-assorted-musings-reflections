@@ -1,5 +1,5 @@
 ---
-title: A draft memo regarding fifty years of Grinnell's Tutorial and the Open Curriculum
+title: A draft memo regarding the celebration of fifty years of Grinnell's Tutorial and the Open Curriculum
 number: 982
 tags: [Grinnell](index-grinnell), things I need to write
 blurb: There's only one fiftieth anniversary; let's not waste it.
