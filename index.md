@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[A draft memo regarding the celebration of fifty years of Grinnell's Tutorial and the Open Curriculum](fifty-years-open-curriculum-2020-01-10) (Musing #982)
+[Feeling surprisingly thankful](thankful-2020-01-11) (Musing #983)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

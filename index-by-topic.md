@@ -3313,6 +3313,10 @@ Autobiographical essays, more or less
 
 > Reflections from the end of the winter holiday.
 
+[Feeling surprisingly thankful](thankful-2020-01-11) (Musing #983)
+
+> Or maybe it's not that surprising.
+
 Salary reviews
 --------------
 
