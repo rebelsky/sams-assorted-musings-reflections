@@ -4204,6 +4204,10 @@ Almost everything else
 
 > Sometimes I still feel like a fanboy.
 
+[Farewell MathLAN Web Server](farewell-mathlan-web-server-2020-01-12) (Musing #984)
+
+> You shall be missed.
+
 Musings with multiple entries
 -----------------------------
 
