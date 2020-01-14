@@ -3,9 +3,9 @@ title: Naming the open curriculum
 number: 
 tags: [Grinnell](index-grinnell)
 blurb: There must be a better name
-version: 0.1
+version: 0.2
 released: 
-current: 2020-01-10
+current: 2020-01-14
 ---
 Recently, I've been reflecting on how we refer to the Grinnell
 Curriculum.  I tend to use "Open Curriculum", which is what we
@@ -57,6 +57,9 @@ the individual.
 "Student-Designed Curriculum".  Agh!  Why can't I find one that
 works.
 
+I asked someone in Communications.  They have no current plans to change
+the name [7], but they do find it frustrating that so many people consider
+it necessary to hyphenate "individually advised" [8].
 ---
 
 [1] That's my attempt to phrase our anti-requirements as positive
@@ -82,3 +85,8 @@ may have been more important, as was a clear separation of the curricula.
 [5] Yes, there are others.
 
 [6] I don't think that's what happened at Grinnell.
+
+[7] Not that it's necessarily in their purview.
+
+[8] A tip: You don't generally need a hyphen between an adverb and
+the adjective or verb it modifies.
