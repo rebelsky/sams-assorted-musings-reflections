@@ -11,16 +11,13 @@ _The document also tends to contain other notes related to the musings
 and rants, such as a potential schedule of musing (one I rarely hold
 to) and a list of software that I want to write._
 
-Tentative upcoming musings
---------------------------
+Tentative sequence of upcoming musings
+--------------------------------------
 
-* Wednesday, January 8th: One story, multiple perspectives (?)
-* Friday, January 10th: Draft memo on Tutorial and Open Curriculum
-* Saturday, January 11th: Farewell to MathLAN
-* Sunday, January 12th: Adventures in Web server transitions
+* MLK Day
 * Games at the Rebelskys'
-* Honors in CS
-* Story/Evidence
+* Adventures in Web server transitions
+* Story/Evidence/Perspectives
 * Donating in my name / Donation fantasies (?)
 * More Story/Evidence
 
@@ -94,10 +91,6 @@ Champagne is supposed to be fancy.  But it's an odd metaphor.)
 1. The Fiboacci Spiral.  Damian Hirst, Intelletual Property, and
 my Final Project for Sculpture.
 
-1. Nina Paley.  Sita Sings the Blues.  Intersting copyright.  Just
-discovered that she draws stuff to order.  What should I order?
-"Muse Musing", "Grinnellian", ...?  palegraylabs.com.
-
 1. Choosing a book for Rebelsky Reading Group, Revisited.  I spent
 the remainder of Winter break reading books.  _The Starless Sea_.
 Some Howard Frank Mosher.  What else?
@@ -119,11 +112,19 @@ cited.
 
 1. Wednesday is Prince Spaghetti Day.
 
+1. Today's Grinnell photo.  Some time in the past semester, I started
+a habit of taking a photo of something I noticed on campus and posting
+it to Facebook with a caption, along with the phrase "Today's Grinnell
+Photo".  I was a bit snarky at first, particularly given that they were
+doing all sorts of strange construction across the street from my new
+office.  But I think my photos have been generally positive.  A few get
+staged, such as when I build an art project.  But most are just a reaction
+to something I've seen.  Helps me look more closely.
+
 Long
 ----
 
-1. The memo about Tutorial/Open Curriculum.  (Maybe a short one and a
-long one.)
+1. Departmental honors. (departmental-honors-...)
 
 1. For Mike: Teaching CS.
 
