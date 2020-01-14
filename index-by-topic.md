@@ -1416,6 +1416,10 @@ On life in academia
 
 > What is it?
 
+[Honors in Computer Science](honors-in-cs-2020-01-13) (Musing #985)
+
+> What should we measure?
+
 Thank-You Notes
 ---------------
 

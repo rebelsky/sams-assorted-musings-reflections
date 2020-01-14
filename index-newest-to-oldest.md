@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 981-990
 
+[Honors in Computer Science](honors-in-cs-2020-01-13) (Musing #985)  
 [Farewell MathLAN Web Server](farewell-mathlan-web-server-2020-01-12) (Musing #984)  
 [Feeling surprisingly thankful](thankful-2020-01-11) (Musing #983)  
 [A draft memo regarding the celebration of fifty years of Grinnell's Tutorial and the Open Curriculum](fifty-years-open-curriculum-2020-01-10) (Musing #982)  

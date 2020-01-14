@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Farewell MathLAN Web Server](farewell-mathlan-web-server-2020-01-12) (Musing #984)
+[Honors in Computer Science](honors-in-cs-2020-01-13) (Musing #985)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
