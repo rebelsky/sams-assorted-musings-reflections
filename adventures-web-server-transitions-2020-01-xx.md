@@ -39,13 +39,19 @@ I often use relative URLs because it makes it easier to move sites around.
 But I haven't always done that.  I know that [some sites recommend
 "from the root" URLs](https://www.wimpyplayer.com/docs/common/urls.html),
 like the third of my examples above, and I've certainly used that strategy
-in the past.  I even see that I use it for my home page.
+in the past.  I see that I even use it for my home page.  Oh, that's
+right; I have a wide variety of pages in multiple directories that use
+the same template.  They should also use the same URLs to reach things.
 
 So, what will happen when my pages move?  Ideally, those that use relative
 URLs will be fine.  Those that use absolute URLs may work, at least for
 a bit of time, because we're supposed to have automatic redirects from
 the old CS URLs to the new ones.  But the "from-the-root" URLs?  Those
 will all break.  I wonder how many files have that issue.
+
+A day or two later, I figured out an evil hack.
+
+    ln -s /home/rebelsky/public_html /home/rebelsky/public_html/~rebelsky
 
 Suffixes.
 
