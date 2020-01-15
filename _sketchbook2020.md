@@ -18,8 +18,8 @@ Tentative sequence of upcoming musings
 * Games at the Rebelskys'
 * Adventures in Web server transitions
 * Story/Evidence/Perspectives
-* Donating in my name / Donation fantasies (?)
 * More Story/Evidence
+* Donating in my name / Donation fantasies (?)
 
 Software to write
 -----------------
@@ -78,7 +78,21 @@ that it's carbonated?  Most beer is carbonated.  Do they mean that
 it's made in the Champagne region of France?  (Yes, I realize that
 Champagne is supposed to be fancy.  But it's an odd metaphor.)
 
-1. Naming theopen curriculum.  See naming -open-curriculum-2020-01-xx.md
+1. Interviewing at conferences.  For many years, many disciplines have
+relied on their primary conferences as a venue for interviewing 
+prospective faculty.  MLA.  CS has never relied on them (at least not
+in my time as a professional).  When I asked an older economist whether
+they had made changes, I was surprised at their reaction: "The cost
+of attending a conference is small compared to the cost of graduate
+education; it shouldn't be a problem."  I tried to convince them that
+travel plus hotel (even a shared AirBNB) is a burden to many folks,
+but they were insistent.  Then I talked to a younger economist.  It turns
+out the econ is much like CS; the number of open positions outstrips
+the number of candidates.  Hence, while it may cost a bit to attend
+the conference, it has a clear payoff.  That's in stark contrast to the
+MLA meeting, in which the odds of landing a job seem surprisingly slim.
+
+1. Naming the open curriculum.  See naming -open-curriculum-2020-01-xx.md
 
 1. A tale of two unions.
 
