@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Honors in Computer Science](honors-in-cs-2020-01-13) (Musing #985)
+[Preparing for the onslaught of the semester](semester-onslaught-2020-01-14) (Musing #986)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

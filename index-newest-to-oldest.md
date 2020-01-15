@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 981-990
 
+[Preparing for the onslaught of the semester](semester-onslaught-2020-01-14) (Musing #986)  
 [Honors in Computer Science](honors-in-cs-2020-01-13) (Musing #985)  
 [Farewell MathLAN Web Server](farewell-mathlan-web-server-2020-01-12) (Musing #984)  
 [Feeling surprisingly thankful](thankful-2020-01-11) (Musing #983)  

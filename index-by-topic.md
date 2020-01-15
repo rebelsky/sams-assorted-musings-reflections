@@ -1683,6 +1683,10 @@ Overcommitment
 
 > More work than I anticipated.
 
+[Preparing for the onslaught of the semester](semester-onslaught-2020-01-14) (Musing #986)
+
+> I'm on sabbatical; things are supposed to be easier than this.
+
 On teaching 
 -----------
 
