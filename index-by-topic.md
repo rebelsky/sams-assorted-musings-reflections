@@ -3325,6 +3325,10 @@ Autobiographical essays, more or less
 
 > Or maybe it's not that surprising.
 
+[Volunteering for NESFA](nesfa-volunteering-2020-01-15) (Musing #987)
+
+> Triggering assorted memories left in my head.
+
 Salary reviews
 --------------
 

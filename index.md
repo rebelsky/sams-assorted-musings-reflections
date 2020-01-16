@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Preparing for the onslaught of the semester](semester-onslaught-2020-01-14) (Musing #986)
+[Volunteering for NESFA](nesfa-volunteering-2020-01-15) (Musing #987)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
