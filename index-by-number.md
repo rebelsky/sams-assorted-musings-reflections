@@ -1281,3 +1281,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Honors in Computer Science](honors-in-cs-2020-01-13) (Musing #985)  
 [Preparing for the onslaught of the semester](semester-onslaught-2020-01-14) (Musing #986)  
 [Volunteering for NESFA](nesfa-volunteering-2020-01-15) (Musing #987)  
+[Undergraduate student unions [1] and Berkeley CS](berkeley-tas-2020-01-16) (Musing #988)  

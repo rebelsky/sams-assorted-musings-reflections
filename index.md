@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Volunteering for NESFA](nesfa-volunteering-2020-01-15) (Musing #987)
+[Undergraduate student unions and Berkeley CS](berkeley-tas-2020-01-16) (Musing #988)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

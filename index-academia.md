@@ -41,3 +41,7 @@ On life in academia
 
 > What should we measure?
 
+[Undergraduate student unions [1] and Berkeley CS](berkeley-tas-2020-01-16) (Musing #988)
+
+> Thinking through complications.
+
