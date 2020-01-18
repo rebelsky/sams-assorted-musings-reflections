@@ -2681,6 +2681,10 @@ Grinnell.
 
 > There's only one fiftieth anniversary; let's not waste it.
 
+[MLK Day 2020](mlk-day-2020) (Musing #989)
+
+> How should we celebrate?
+
 Registration and Related Topics
 -------------------------------
 

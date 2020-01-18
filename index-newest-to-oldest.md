@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 981-990
 
+[MLK Day 2020](mlk-day-2020) (Musing #989)  
 [Undergraduate student unions [1] and Berkeley CS](berkeley-tas-2020-01-16) (Musing #988)  
 [Volunteering for NESFA](nesfa-volunteering-2020-01-15) (Musing #987)  
 [Preparing for the onslaught of the semester](semester-onslaught-2020-01-14) (Musing #986)  
