@@ -283,3 +283,7 @@ Grinnell.
 
 > How should we celebrate?
 
+[Credit where credit is due](credit-2020-01-18) (Musing #990)
+
+> I am humbled and inspired by your work.
+

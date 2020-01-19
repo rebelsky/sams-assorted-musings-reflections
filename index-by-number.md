@@ -1283,3 +1283,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Volunteering for NESFA](nesfa-volunteering-2020-01-15) (Musing #987)  
 [Undergraduate student unions [1] and Berkeley CS](berkeley-tas-2020-01-16) (Musing #988)  
 [MLK Day 2020](mlk-day-2020) (Musing #989)  
+[Credit where credit is due](credit-2020-01-18) (Musing #990)  
