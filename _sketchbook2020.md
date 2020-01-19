@@ -46,10 +46,6 @@ Written, need minor revisions
 
 1. The Pyramid.
 
-1. Honors in CS.
-
-1. Volunteering for NESFA.
-
 1. The joy of code: Concise perl.
 
 1. Donation fantasies.
@@ -65,18 +61,47 @@ Written, need major revisions
 
 1. Bookstore gift cards (bookstore-gift-cards-2019-11-xx)
 
-1. Practica Policies (practica-policies-2019-10-xx.md)
+1. Practica Policies (practica-policies-2019-10-xx.md).  This
+will evolve into "Learning about Lessons", or something like that.
 
 1. Lost to the kerf.  (lost-to-the-kerf.md)
 
 Short
 -----
 
+1. Homework for Ralph's class.
+
+1. Wednesday is Prince Spaghetti Day.
+
 1. "The Champagne of Beers".  What does that mean?  It's not like
 they've called it the "Lafite Rothchild of beers".  Do they mean
 that it's carbonated?  Most beer is carbonated.  Do they mean that
 it's made in the Champagne region of France?  (Yes, I realize that
 Champagne is supposed to be fancy.  But it's an odd metaphor.)
+
+1. Albums from my past: Ringo.  One of the wonders of the
+Intereweb is that you discover new music and experience music from your
+past in new contexts.  Recently, someone shared a playlist of twenty
+versions of Randy Newman's "Have You Seen My Baby" [endnote list].  Even before
+listening, I said to myself, "I think of that as a Ringo Starr song."
+Now, Ringo was clearly the least good singer in the Beatles.  But
+I still bought his _Ringo_ album whne it was released and I listened
+to it a lot.  [...]
+
+1. Restoring tenure for Library and PE faculty?
+
+1. Should the Dean attend CSFS meetings?  The handbook says so.
+Ther must be a reason.  My sense is that traditionally, CSFS reads
+a lot of proposals pertaining to faculty scholarship, and the Dean
+should know about that work.  CSFS also reads all of the sabbatical
+proposals, and the Dean should read those.  On the other hand, CSFS
+meetings are much less interesting than they used to be.  I suppose
+this can be yet another handbook change.
+
+1. Blurbs.  I write a short (typically one sentence or less) blurb
+for every musing.  They appear in most of the indices and in the
+RSS feed.  Does anyone read them?  Should I include them in the
+musings themselves?
 
 1. Interviewing at conferences.  For many years, many disciplines have
 relied on their primary conferences as a venue for interviewing 
@@ -123,8 +148,6 @@ on Educational Multimedia, Hypermedia and Telecommunications 2002,
 pages 1715–1726, Denver, Colorado, USA, 2002. AACE."  So it turns
 out that I'm not being cited; the proceedings I edited are being
 cited.
-
-1. Wednesday is Prince Spaghetti Day.
 
 1. Today's Grinnell photo.  Some time in the past semester, I started
 a habit of taking a photo of something I noticed on campus and posting

@@ -19,12 +19,17 @@ these musings since I've written similar paragraphs before [3].
 On my writing
 -------------
 
-First few musings of the month (year) were quite long.  The first, on
-[my plans for my next Tutorial](next-tutorial-2020-01-01) had a lot of
-quoted material that added to its length.  The second, [my post-preregistration
-reflections](post-prereg-2020S), required me to write about a bunch of
-data.  I'm not sure that I wrote all that much meaningful, but it took a
-lot of time and resulted in a lot of text.
+First few musings of the month (year) were quite long.  The first,
+on [my plans for my next Tutorial](next-tutorial-2020-01-01) had a
+lot of quoted material that added to its length.  The second, [my
+post-preregistration reflections](post-prereg-2020S), required me
+to write about a bunch of data.  I'm not sure that I wrote all that
+much meaningful, but it took a lot of time and resulted in a lot
+of text.  Later in the month, I wrote a third very-long musing,
+this time on [staff governance](governance-tenure-2020-01-19).  As
+I noted in one of the too-many postscripts to the last musing,
+I doubt that I'll have too many "lazy Sunday afternoons" in which
+I can write musings that are 4000-5000 words long.
 
 On posting frequency
 --------------------
