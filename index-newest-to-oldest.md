@@ -1,6 +1,10 @@
 Musings, from newest to oldest
 ==============================
 
+## 991-1000
+
+[Governance, tenure, and such](governance-tenure-2020-01-19) (Musing #991)  
+
 ## 981-990
 
 [Credit where credit is due](credit-2020-01-18) (Musing #990)  

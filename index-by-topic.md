@@ -1424,6 +1424,10 @@ On life in academia
 
 > Thinking through complications.
 
+[Governance, tenure, and such](governance-tenure-2020-01-19) (Musing #991)
+
+> Reflecting on more inclusive practices.
+
 Thank-You Notes
 ---------------
 

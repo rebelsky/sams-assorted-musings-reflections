@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Credit where credit is due](credit-2020-01-18) (Musing #990)
+[Governance, tenure, and such](governance-tenure-2020-01-19) (Musing #991)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
