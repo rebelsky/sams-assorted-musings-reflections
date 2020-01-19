@@ -478,7 +478,8 @@ faculty.  However, that's a subject for another musing.
 
 **_Postscript_**: I look forward to the release of Joe Wall's _History of
 Grinnell in the 20th Century_ so that I can better understand
-the issues raised in the prior postscript.
+the issues raised in the prior postscript.  I believe I'll also learn
+some things about the inclusion of students on committees.
 
 ---
 
