@@ -3,9 +3,9 @@ title: Volunteering for NESFA
 number: 987
 tags: [Autobiographical](index-autobiographical), short
 blurb: Triggering assorted memories left in my head.
-version: 1.0
+version: 1.1
 released: 2020-01-15
-current: 
+current: 2020-01-19
 ---
 I'm not sure why my muse had me write this musing since it's probably
 only of interest to me. Perhaps the kids would want to know.
@@ -16,7 +16,7 @@ Museum driveway which was blocking that driveway.  My brain said,
 your car was towed?" And I remembered.
 
 It was one of those months when I was volunteering to help with the
-NESFA (New England Science Fiction Association) ‘zine [1] What does
+NESFA (New England Science Fiction Association) APA [1] What does
 that mean?  Well, back in the misty depths of time [2] SF [3] fans
 kept in touch with each other, in part, by writing regular "newsletters"
 of sorts.  Each newsletter might have reviews of books and other
@@ -53,7 +53,8 @@ I'm not sure what that says about me.
 
 ---
 
-[1] Or whatever they called the assemblage.
+[1] Amateur Press Association, if I recall correctly.  I previously
+wrote "'zine" rather than "APA", but a helpful reader corrected me.
 
 [2] That is, late 1970's/early 1980's.
 
