@@ -1,11 +1,11 @@
 ---
-title: DadR's week in review
+title: SamR's week in review
 number: 992
 tags: [Autobiographical](index-autobiographical)
-blurb: What does DadR do with his time?
-version: 0.1
-released: 
-current: 2020-01-19
+blurb: What does SamR do with his time?
+version: 1.0
+released: 2020-01-19
+current:
 ---
 As [I noted a few months ago](weekly-report-2019-09-08), when
 Youngest went off to college in a land far, far away and Eldest
@@ -15,7 +15,9 @@ and encouraged them to do the same.  I had thought that I would
 post those as musings but, well, things didn't happen as planned.
 That is, although I wrote weekly reports, I didn't post them.  But
 perhaps it's time to start again.  Here's a slightly edited version
-of this week's report, which I sent to my family yesterday.
+of this week's report, which I sent to my family yesterday.  When
+I send them to my family, I call them "DadR's week in review", but
+for my readers, they'll just be "SamR's week in review".
 
 ---
 
@@ -35,12 +37,12 @@ to pay more attention to my diet.
 Like mom, I was disappointed in _Jesus Christ, Superstar_.  I have
 most of the album of the film memorized; it was on my regular
 playlist when I was a kid.  It's probably where I learned about
-christianity.  I even recall discussing it in junior high and
-realizing that I knew more than some christians about this stuff
+Christianity.  I even recall discussing it in junior high and
+realizing that I knew more than some Christians about this stuff
 (e.g., that the Virgin Mary and Mary Magdalene were different
 people).  Anyway, back to the show.  The set was kind of boring.
 I'm not sure if they were trying to hearken back to the stage they
-used in the early 1970's but it did not have the design flair I've
+used in the early 1970s, but it did not have the design flair I've
 seen in most recent shows.  I thought the actor who played JC's
 voice was mediocre at best.
 
@@ -52,12 +54,13 @@ sorry to see that Teammate didn't make his dive with three-and-a-half
 flips.
 
 Computers are causing difficulty in my life.  My laptop's keyboard
-is dying; the "e" key works only intermittently.  The drive that
+is dying; the "e" key works only intermittently, usually stopping
+each time I move the computer from place to place.  The drive that
 was dying toward the end of break is no longer recognized by my
 computer and I don't have the energy to send it back.  They're
 moving my Web site and it is not going smoothly.  There were other
 things, too, but I can't remember them. Oh, even though I met with
-ITS to get a new laptop about four months ago, there was a mixup
+ITS to get a new laptop about four months ago, there was a mix-up
 and it never got ordered.  But there's a positive result from that:
 Apple no longer makes 15" laptops, so I'm getting one of the new
 16" ones.  I hear they've fixed the problem with the keyboard, going
@@ -73,13 +76,13 @@ imagery.  I never did get to read the new Seanan McGuire book.
 Mom and I finished watching _Hellcats_ this week [1].  The show went
 downhill as the season went on.  As mom said, "I can see why it
 didn't get renewed."  I tried to get mom to watch _Sex Education_,
-but she didn't find it as funny as I did.  We also watched another
+but she didn't find it as funny as I did [2].  We also watched another
 episode of _Legacies_ (and yes, we'll re-watch if folks want to see
 it as a family).  I'm not sure what's up next.
 
-I'm still musing.  Today's was insanely long (5000+ words).  It was
-just one of those days that I kept writing.  I probably need an
-editor.  (Ooh!  I'll add that to this musing.)
+I'm still musing.  Today's [3] was insanely long (5000+ words).  It
+was just one of those days that I kept writing.  I probably need
+an editor.  (Ooh!  I'll add that to this musing.)
 
 I recall feeling really blah a day or two this week.  Maybe Friday
 after Jon's meet?  I can't recall.  But I seem to be doing okay
@@ -92,18 +95,26 @@ Friday, I'm helping to run a Faculty/Staff Friday on Belonging.
 
 Mom and I are supposed to go to a show with Friend on Thursday.
 We're not sure we can make it.  I may go see Andrew Yang on Monday
-night.  I may go to the Jazz Band Potato Bar on Friday night.
+night [4].  I may go to the Jazz Band Potato Bar on Friday night.
 
 I feel like I'm missing one or two things.  I'll probably remember
-immediately after I send this [2].  Oh well, that's how it goes.
+immediately after I send this [5].  Oh well, that's how it goes.
 
-Love you all! [3]
+Love you all! [6]
 
 ---
 
 [1] Yeah, we watch some mediocre TV.
 
-[2] Nope, I didn't.
+[2] Correction: She enjoyed it, but didn't want to force me to watch
+it again.  I don't mind having it on while I'm doing other work, which
+is generally how I watch TV these days.
 
-[3] That message is for my family.  I love some of my readers, but I don't
+[3] Yesterday's, from the perspective of this posting.
+
+[4] Nope, too busy to make it.
+
+[5] Nope, I didn't.
+
+[6] That message is for my family.  I love some of my readers, but I don't
 even know all of you.

@@ -123,6 +123,10 @@ Essays on writing, or at least on writing my musings
 
 > Maybe next year.
 
+[Reading for Ralph](reading-for-ralph-2020-01-20) (Musing #993)
+
+> No, not reading to ralph.
+
 On language
 -----------
 
@@ -3344,6 +3348,10 @@ Autobiographical essays, more or less
 [Volunteering for NESFA](nesfa-volunteering-2020-01-15) (Musing #987)
 
 > Triggering assorted memories left in my head.
+
+[SamR's week in review](week-in-review-2020-01-20) (Musing #992)
+
+> What does SamR do with his time?
 
 Salary reviews
 --------------

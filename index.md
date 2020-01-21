@@ -9,8 +9,10 @@ If you'd like, you can read [a longer introduction](intro-musings-v0).
 If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
-Latest musing:
-[Governance, tenure, and such](governance-tenure-2020-01-19) (Musing #991)
+Latest musings:
+[SamR's week in review](week-in-review-2020-01-20) (Musing #992)
+and
+[Reading for Ralph](reading-for-ralph-2020-01-20) (Musing #993)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

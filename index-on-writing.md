@@ -120,3 +120,7 @@ Essays on writing, or at least on writing my musings
 
 > Maybe next year.
 
+[Reading for Ralph](reading-for-ralph-2020-01-20) (Musing #993)
+
+> No, not reading to ralph.
+

@@ -445,3 +445,7 @@ Autobiographical essays, more or less
 
 > Triggering assorted memories left in my head.
 
+[SamR's week in review](week-in-review-2020-01-20) (Musing #992)
+
+> What does SamR do with his time?
+
