@@ -29,24 +29,45 @@ of text.  Later in the month, I wrote a third very-long musing,
 this time on [staff governance](governance-tenure-2020-01-19).  As
 I noted in one of the too-many postscripts to the last musing,
 I doubt that I'll have too many "lazy Sunday afternoons" in which
-I can write musings that are 4000-5000 words long.
+I can write musings that are 4000-5000 words long.  And I probably
+shouldn't spend so much time musing when [I have so much else to
+do](semester-onslaught-2020-01-14).  I also wonder whether I need
+a "TL;DR" section or to break the larger musings up into shorter
+musings.
+
+Still write "really" and "clearly" too much, at least according to
+Grammarly.  Frequently comma splice before or and and.  Not sure
+why.  
+
+About to learn a lot more on how to write.
 
 On posting frequency
 --------------------
 
 This section may not be necessary.
 
+Timeliness: Weekly report and notes for Ralph's class?
+
 Follow-ups to individual musings
 --------------------------------
+
+No one commented on my [musing on staff
+governance](governance-tenure-2020-01-19).  I wonder why.
+
+I got very few comments on [my musing on Tutorial
+topics](next-tutorial-2020-01-01).  Given the number I'd previously
+received on [Plans], I found that somewhat surprising.  I guess
+[Plans] is just a better social media site. I suppose I should
+consider returning.
 
 Broader issues 
 --------------
 
-I’ve continued my practice of saving musings additional musings
-that I mostly finish on a day that I’ve already posted a musing,
-rather than posting them as a second [or third] musing.  However,
-I’ve discovered a disadvantage to that approach. In the past, when
-I had an idea for a short musing, I’d put a few notes in my sketchbook
+I’ve continued my practice of saving additional musings that I
+mostly finish on a day that I’ve already posted a musing, rather
+than posting them as a second [or third] musing.  However, I’ve
+discovered a disadvantage to that approach. In the past, when I had
+an idea for a short musing, I’d put a few notes in my sketchbook
 and leave it at that.  Now, I feel much more comfortable writing a
 full draft.  But that takes much more of my time, so I’m not sure
 that it’s the best idea. Oh well, I guess that’s how things go.
@@ -57,11 +78,6 @@ donation], [followup notes on the _Honor Roll of Giving_], [a letter
 to concerned alums regarding project ignite], and [a fantasy about
 donations in my name].  But I decided that I would be better off
 posting them on separate days.
-
-I got very few comments on [my musing on Tutorial
-topics](next-tutorial-2020-01-01).  Given the number I'd previously
-received on [Plans], I found that somewhat surprising.  I guess
-[Plans] is just a better social media site. I suppose I should return.
 
 Behind the scenes
 -----------------

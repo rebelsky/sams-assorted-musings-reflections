@@ -71,7 +71,23 @@ Short
 
 1. Homework for Ralph's class.
 
-1. Wednesday is Prince Spaghetti Day.
+1. Ways to say no.  I'm on sabbatical.  But I keep getting requests
+to do things.  Will you run a Faculty/Staff Friday?  Yes.  Will you
+give a talk on the History of Tutorial?  Yes.  Will you be the
+treasurer for my campaign?  Yes.  Do you want to be involved in
+Tapia?  Yes.  I'm also tempted to volunteer to do things.  Hey, can
+I be involved in the planning for the anniversary of Tutorial?  I'm
+working on learning to say "No", or "No Thank You", or something
+like that.  Will you meet with this student group?  Nope; ask another
+faculty member.  Will you supervise a MAP or independent?  Nope.
+Will you attend this meeting?  Probably not.  I still haven't managed
+to separate myself from department, division, and faculty meetings.
+But that's partially because I don't think I can complain about things
+unless I've been part of the discussion.  For example, I missed the
+discussion of end-of-course evaluations for First-Year Experience.
+(Did I know it was going to happen?  I'm not sure.)
+
+1. Wednesday is Prince Spaghetti Day.  (Maybe Wednesday this week.)
 
 1. "The Champagne of Beers".  What does that mean?  It's not like
 they've called it the "Lafite Rothchild of beers".  Do they mean
@@ -88,6 +104,13 @@ Now, Ringo was clearly the least good singer in the Beatles.  But
 I still bought his _Ringo_ album whne it was released and I listened
 to it a lot.  [...]
 
+1. An experience with online copies.  In Vida's class.  G.H. Hardy article.
+Looks like it's the original,
+<http://www.esp.org/foundations/genetics/classical/hardy.pdf>.  Student
+says "That formula seems incorrect".  Bio students do hand-waving argument
+to argue that it is correct.  At least they fixed it promptly.  How many
+people read it .... My email is to rrobbins.
+
 1. Restoring tenure for Library and PE faculty?
 
 1. Should the Dean attend CSFS meetings?  The handbook says so.
@@ -102,6 +125,10 @@ this can be yet another handbook change.
 for every musing.  They appear in most of the indices and in the
 RSS feed.  Does anyone read them?  Should I include them in the
 musings themselves?
+
+1. UofC reaches $100,000 in tuition + room and board.  <https://hechingerreport.org/university-of-chicago-projected-to-be-the-first-u-s-university-to-charge-100000-a-year/>.  "I don't mind subsidizing".  Sorry, but you're not subsidizing.
+
+1. Sabbaticals for Staff.
 
 1. Interviewing at conferences.  For many years, many disciplines have
 relied on their primary conferences as a venue for interviewing 
