@@ -1699,6 +1699,10 @@ Overcommitment
 
 > I'm on sabbatical; things are supposed to be easier than this.
 
+[Ways to say "No"](no-2020-01-21) (Musing #994)
+
+> The problem is all inside my head, I said to me.
+
 On teaching 
 -----------
 

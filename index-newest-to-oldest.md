@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 991-1000
 
+[Ways to say "No"](no-2020-01-21) (Musing #994)  
 [Reading for Ralph](reading-for-ralph-2020-01-20) (Musing #993)  
 [SamR's week in review](week-in-review-2020-01-20) (Musing #992)  
 [Governance, tenure, and such](governance-tenure-2020-01-19) (Musing #991)  
