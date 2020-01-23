@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Ways to say "No"](no-2020-01-21) (Musing #994)
+[The Pyramid](pyramid-2020-01-22) (Musing #995)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

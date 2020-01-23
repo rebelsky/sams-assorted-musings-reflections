@@ -1291,3 +1291,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [SamR's week in review](week-in-review-2020-01-20) (Musing #992)  
 [Reading for Ralph](reading-for-ralph-2020-01-20) (Musing #993)  
 [Ways to say "No"](no-2020-01-21) (Musing #994)  
+[The Pyramid](pyramid-2020-01-22) (Musing #995)  

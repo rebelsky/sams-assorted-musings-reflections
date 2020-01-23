@@ -3357,6 +3357,10 @@ Autobiographical essays, more or less
 
 > What does SamR do with his time?
 
+[The Pyramid](pyramid-2020-01-22) (Musing #995)
+
+> Adventures on a strange machine.
+
 Salary reviews
 --------------
 
