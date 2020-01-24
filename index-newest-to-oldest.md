@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 991-1000
 
+[Elections for the chair of the faculty](faculty-chair-2020-01-23) (Musing #996)  
 [The Pyramid](pyramid-2020-01-22) (Musing #995)  
 [Ways to say "No"](no-2020-01-21) (Musing #994)  
 [Reading for Ralph](reading-for-ralph-2020-01-20) (Musing #993)  

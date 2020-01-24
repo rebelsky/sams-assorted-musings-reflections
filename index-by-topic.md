@@ -2701,6 +2701,10 @@ Grinnell.
 
 > I am humbled and inspired by your work.
 
+[Elections for the chair of the faculty](faculty-chair-2020-01-23) (Musing #996)
+
+> So many potential candidates!
+
 Registration and Related Topics
 -------------------------------
 
