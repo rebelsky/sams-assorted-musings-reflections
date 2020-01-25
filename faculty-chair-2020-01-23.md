@@ -3,9 +3,9 @@ title: Elections for the chair of the faculty
 number: 996
 tags: [Grinnell](index-grinnell)
 blurb: So many potential candidates!
-version: 1.0
+version: 1.1
 released:  2020-01-23
-current: 
+current: 2020-01-24
 ---
 On Monday, 3 February 2020, a few hours before voters in Iowa caucus
 for presidential candidates, the Faculty of Grinnell College will
@@ -75,18 +75,18 @@ fourteen on or about to be on Senior Faculty Status, three center
 directors, and one person already scheduled to be on Council in
 2020-21.  SFS faculty traditionally do not want to serve as Chair
 of the Faculty.  Center directors traditionally do not serve as
-Chair of the Faculty, or perhaps it's never come up.  And, while I
+Chair of the Faculty, or perhaps it's never come up [6].  And, while I
 suppose it's possible that a member of Council switches to Chair of
 the Faculty, that would require we then elect a replacement for
 their position.  In any case, that means that we're down to twenty-two
 or so real candidates.  Of the remainder, two are former Chairs of
-the Faculty and one is a former Dean of the College [6].  The list is
+the Faculty and one is a former Dean of the College [7].  The list is
 getting shorter and shorter.  Or perhaps those folks are enthusiastic
 about serving the College again.  
 
 So what happens next?  I assume some folks who are on the list will
 see the size of the list and remove their names.  At some point,
-we'll get a final list of eligible candidates [7].  Some of those
+we'll get a final list of eligible candidates [8].  Some of those
 will fall into the category of people who don't read their email
 and, therefore, did not realize that they had to remove their names.
 Others will assume they won't be elected.  Nonetheless, there should
@@ -116,10 +116,10 @@ Studies.
 Postscript: I'm not sure why someone asked if I'd be willing to
 serve.  I don't think I'd make a good Chair of the Faculty.  I'm
 too opinionated to be properly representative.  I'm not particularly
-articulate [8].  I don't have the social graces to deal with Trustees.
+articulate [9].  I don't have the social graces to deal with Trustees.
 As far as I can tell, the only things I have to recommend me are
 (a) I care deeply about the College, (b) I remember way too much
-trivia about decisions [9,10], and (c) I'm not afraid to complain
+trivia about decisions [10,11], and (c) I'm not afraid to complain
 and criticize openly.  Oh, I also care deeply about shared governance
 and want to see it expanded to include staff governance.  And no,
 that is not my platform.  As I said, those positives are far outweighed
@@ -146,16 +146,22 @@ meeting.
 
 [5] Or nominate.
 
-[6] There are also a bunch of former Dean's of the College and Chairs of 
+[6] A colleague reminded me that at least one Chair of the Faculty 
+was simultaneous Director of the Rosenfield Center.  So we could
+elect the Director of the CTLA, the Director of the Rosenfield
+Center, or the Director of Prairie Studies, all of whose names were
+still on the list as of 22 January.
+
+[7] There are also a bunch of former Dean's of the College and Chairs of 
 the Faculty in the list of SFS faculty.
 
-[7] Probably on Friday, 31 January 2020, along with the rest of the
+[8] Probably on Friday, 31 January 2020, along with the rest of the
 agenda for the 3 February 2020 meeting.
 
-[8] I can be articulate when I write.  I often stumble when I speak.
+[9] I can be articulate when I write.  I often stumble when I speak.
 
-[9] Insert obligatory joke about elephants.
+[10] Insert obligatory joke about elephants.
 
-[10] Of course, Elaine Marzluff remembers more than I do [11].
+[11] Of course, Elaine Marzluff remembers more than I do [12].
 
-[11] The elephant joke does not apply to her.
+[12] The elephant joke does not apply to her.
