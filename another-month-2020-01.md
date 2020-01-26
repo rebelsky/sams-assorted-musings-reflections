@@ -1,11 +1,11 @@
 ---
 title: Another month of (mostly) daily musings
 number: XXX
-tags: End-of-month musings
+tags: [End-of-month musings](index-monthly)
 blurb: Whatever
-version: 0.2
-released: 
-current: 2020-01-03
+version: 0.4
+released:
+current: 2020-01-25
 ---
 We've reached the end of another month and, as is my wont [1], I'm
 using the last day of the month to look back on the past month and
@@ -37,16 +37,20 @@ musings.
 
 Still write "really" and "clearly" too much, at least according to
 Grammarly.  Frequently comma splice before or and and.  Not sure
-why.  
+why.
 
 About to learn a lot more on how to write.
 
 On posting frequency
 --------------------
 
-This section may not be necessary.
+Managed to post every day.  Yay!  Or at least I remember posting every
+day.
 
 Timeliness: Weekly report and notes for Ralph's class?
+
+Thought I might have one or two other days in which I posted more than
+one, but did not.  More on that later.
 
 Follow-ups to individual musings
 --------------------------------
@@ -60,7 +64,7 @@ received on [Plans], I found that somewhat surprising.  I guess
 [Plans] is just a better social media site. I suppose I should
 consider returning.
 
-Broader issues 
+Broader issues
 --------------
 
 I’ve continued my practice of saving additional musings that I
@@ -77,7 +81,15 @@ musings related to donating to Grinnell, [some general comments on
 donation], [followup notes on the _Honor Roll of Giving_], [a letter
 to concerned alums regarding project ignite], and [a fantasy about
 donations in my name].  But I decided that I would be better off
-posting them on separate days.
+posting them on separate days.  I never did get to the last one.
+
+I feel like my musings have been having indirect impacts, although
+not ones that I intended.  I posted about GrinCam.  GrinCam went
+away.  I mentioned the online list of courses.  Suddenly it required
+a password  to access the list of courses.  I like to pretend that
+I've also had some more positive (and perhaps intentional) indirect
+impacts, like the time I suggested we offer someone a tenure-line
+position, and we did.  But these indirect impacts are strange.
 
 Behind the scenes
 -----------------
@@ -85,13 +97,23 @@ Behind the scenes
 Data
 ----
 
-What does my sketchbook look like?
+What does my sketchbook look like?  As I mentioned [at the end of
+last month](another-month-2019-12), I set aside my sketchbook from
+last year and started fresh, so these are all issues that came to
+mind since the start of the year [4].
 
 * I have N (N) musings that I've marked as "written, need minor revisions"
 * I have another N (N) musings that I've marked as "written, need major
-  revisions".  
-* I have N (N) planned musings that I've marked as "Short".  
-* I have N (N) planned musings that I've marked as "Long".  
+  revisions".
+* I have N (N) planned musings that I've marked as "Short".
+* I have N (N) planned musings that I've marked as "Long".
+* I have N (N) planned musings about Grinnellians.  Right now, the list
+  includes [Rachel Rose '01](cool-friends-2020-01-26) and Kate Walker.
+  But this may be a case
+  in which I'll look back to prior sketchbooks.  If you want to see
+  either of those musings, or a musing about another Grinnellian, let
+  me know. I may not follow your suggestion, but suggestions do help
+  me move forward.
 
 Looking ahead
 -------------
@@ -108,4 +130,4 @@ Final thoughts
 [3] Hey, that's a good topic for a musing: "How do I introduce my end-of-month
 musings?"  I'll add it to the list.
 
----
+[4] Perhaps also the last few days of last year.

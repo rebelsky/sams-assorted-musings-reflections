@@ -37,3 +37,7 @@ reason I muse.
 Other reasons: Tells my kids more about me.  I know that I value my
 mom's writings when I stumble upon them.  I hope that these will be of
 value to my kids after I'm gone.
+
+These days, I feel a compulsion to write.  I had never understood what
+writers meant when they said something like that. But I feel incomplete
+when I don't write.  And things to write about keep coming to mind.

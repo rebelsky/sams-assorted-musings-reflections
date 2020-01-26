@@ -14,7 +14,6 @@ to) and a list of software that I want to write._
 Tentative sequence of upcoming musings
 --------------------------------------
 
-* MLK Day
 * Games at the Rebelskys'
 * Adventures in Web server transitions
 * Story/Evidence/Perspectives
@@ -44,8 +43,6 @@ summarize the contents.
 Written, need minor revisions
 -----------------------------
 
-1. The Pyramid.
-
 1. The joy of code: Concise perl.
 
 1. Donation fantasies.
@@ -69,23 +66,32 @@ will evolve into "Learning about Lessons", or something like that.
 Short
 -----
 
-1. Homework for Ralph's class.
+1. Update on Chair of the Faculty.  (My family read it as "Chair of
+Poultry")  New benefits.
 
-1. Ways to say no.  I'm on sabbatical.  But I keep getting requests
-to do things.  Will you run a Faculty/Staff Friday?  Yes.  Will you
-give a talk on the History of Tutorial?  Yes.  Will you be the
-treasurer for my campaign?  Yes.  Do you want to be involved in
-Tapia?  Yes.  I'm also tempted to volunteer to do things.  Hey, can
-I be involved in the planning for the anniversary of Tutorial?  I'm
-working on learning to say "No", or "No Thank You", or something
-like that.  Will you meet with this student group?  Nope; ask another
-faculty member.  Will you supervise a MAP or independent?  Nope.
-Will you attend this meeting?  Probably not.  I still haven't managed
-to separate myself from department, division, and faculty meetings.
-But that's partially because I don't think I can complain about things
-unless I've been part of the discussion.  For example, I missed the
-discussion of end-of-course evaluations for First-Year Experience.
-(Did I know it was going to happen?  I'm not sure.)
+1.GC in the news.  Used to be one of my favorite things.  But it seems
+to have disappeared.
+
+1. Taking up space.  I take up physical space. But I also take up
+??? space.
+
+1. Prereqs. We have them for a reason.  Talking to colleague about
+them.
+
+1. Surprising my young self.  A bit ago, a colleague posted a question
+on Facebook, something like, "What about your current life would most
+suprise your college-age self?"  So I've been thinking about it.
+Weight.  Don't listen to most current music [I used to listen to a lot
+of 'XRT].  Don't spend nearly as much time at the movies as I used to.
+
+1. The passion of late converts.  Joyce and Laura's posts.  Supporting
+staff.  More.
+
+1. You're not bad with computers.  Computers are bad with you.
+
+1. GC in the news.  Why did it go away?  One of my favorite things.
+Recent ones: Kumail.  Kumail again.  Rachel Rose.  Albert Owusu
+Asare.
 
 1. Wednesday is Prince Spaghetti Day.  (Maybe Wednesday this week.)
 
@@ -94,6 +100,19 @@ they've called it the "Lafite Rothchild of beers".  Do they mean
 that it's carbonated?  Most beer is carbonated.  Do they mean that
 it's made in the Champagne region of France?  (Yes, I realize that
 Champagne is supposed to be fancy.  But it's an odd metaphor.)
+At least in the US, Champagne didn't used to have protection; any
+sparkling wine could be labeled that way.
+Ah!  [Sold in
+bottles](https://onmilwaukee.com/bars/articles/miller-high-life-champagne-sized-bottles.html).
+Didn't they know that clear bottles are bad for beer?
+
+1. Shiksas are for Practice. Michelle and I were watching _The Marvelous
+Mrs. Maisel_.   Somewhere in one of the episodes, Joel's father says
+"Shiksas are for practice". It even appears in [a list of ten of the
+best Jewish jokes in that series](https://www.heyalma.com/the-10-best-jewish-jokes-in-the-marvelous-mrs-maisel/).  It's something I recall hearing
+somewhere, but not something my family ever said.  In fact, I recall
+my grandmother saying "It's hard enough to find love, you shouldn't
+..."
 
 1. Albums from my past: Ringo.  One of the wonders of the
 Intereweb is that you discover new music and experience music from your
@@ -128,7 +147,7 @@ musings themselves?
 
 1. UofC reaches $100,000 in tuition + room and board.  <https://hechingerreport.org/university-of-chicago-projected-to-be-the-first-u-s-university-to-charge-100000-a-year/>.  "I don't mind subsidizing".  Sorry, but you're not subsidizing.
 
-1. Sabbaticals for Staff.
+1. Sabbaticals for Staff.  The president took one. Maybe start small.
 
 1. Interviewing at conferences.  For many years, many disciplines have
 relied on their primary conferences as a venue for interviewing 
@@ -188,6 +207,17 @@ to something I've seen.  Helps me look more closely.
 Long
 ----
 
+1. Child of faculty.  Last child graduating Grinnell.  Three more years
+until Youngest graduates (but not from Grinnell).  Being the child of
+a faculty member is weird, which is why I discouraged my children from
+attending Grinnell.  My own experince was as the child of a faculty
+member at a large research university, a faculty member in child psych.
+Mom used me as an example.  A lot.  When I was young, she even brought
+me in to show to her stuents.  I still recall that when I was five or
+so, I was in class with three friends
+
+1. Growth in the number of staff.  (staff-growth-...)
+
 1. Departmental honors. (departmental-honors-...)
 
 1. For Mike: Teaching CS.
@@ -211,11 +241,28 @@ anyone else has looked at the data?  How do we classify courses?
 
 1. Adventures in Racket Autograding.
 
+Unlikely to post
+----------------
+
+1. I hate (some) parents.  I'm on both the Grinnell Parents Facebook
+group and the Stanford Parents Facebook group.  In general, I find
+them good groups to be a part of.  We share tips.  We commiserate
+about being so far from our kids [1]. [1] I'm not so far from my
+Grinnell kid.  But you know what I mean.  However, there are times
+that these groups make me furious.  Recently, a [second-year student
+at Stanford passed
+away](https://news.stanford.edu/2020/01/20/update-campus-community-death-undergraduate-student/).  One of the parents wrote, "My understanding is this child died of an overdose. Why is it not mentioned in this letter?"  What in hell
+was that parent thinking?  If you lost a child, even to drugs, would
+you want that information sent out to the whole campus?  I know that I
+wouldn't.
+
 Articles and other readings
 ---------------------------
 
 Grinnellians
 ------------
+
+1. Rachel Rose
 
 1. Kate Walker
 
