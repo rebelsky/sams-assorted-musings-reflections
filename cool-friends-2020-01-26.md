@@ -20,16 +20,17 @@ institutions as friends, even if we wouldn't necessarily, say,
 invite each other to our weddings [1].  I also count many alumni
 as friends; I hope they think of themselves as my friends.
 
-I was reminded of the joys of knowing cool people the other day when
-the legendary Rachel Rose '01 posted a link to [an article on
-the use of LucasFilm "Stagecraft" technology in _The Mandalorian_].
+I was reminded of the joys of knowing cool people the other day
+when the legendary Rachel Rose '01 posted a link to [an article on
+the use of LucasFilm "Stagecraft" technology in _The
+Mandalorian_](https://www.slashfilm.com/the-mandalorian-stagecraft-photos/).
 For those who don't know Rachel, I'll just note that she's been at
 LucasFilm ever since finishing her Ph.D. in Computer Graphics at
 the University of Wisconsin, Madison, and is one of the CG supervisors
-on _The Mandalorian_.  I don't hear enough about the particulars of
-Rachel's work (or maybe I don't ask enough), but I'm pretty sure that
-she was closely involved in the Stagecraft technology, which the
-articlesimplifies as something that "uses a rear-projected LED
+on _The Mandalorian_.  I don't hear enough about the particulars
+of Rachel's work (or maybe I don't ask enough), but I'm pretty sure
+that she was closely involved in the Stagecraft technology, which
+the articlesimplifies as something that "uses a rear-projected LED
 screen to create a reactive environment that essentially works as
 an immersive real-time green screen."
 
