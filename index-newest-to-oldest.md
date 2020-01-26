@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 991-1000
 
+[Shoveling](shoveling-2020-01-25) (Musing #998)  
 [Too much to do](too-much-to-do-2020-01-24) (Musing #997)  
 [Elections for the chair of the faculty](faculty-chair-2020-01-23) (Musing #996)  
 [The Pyramid](pyramid-2020-01-22) (Musing #995)  

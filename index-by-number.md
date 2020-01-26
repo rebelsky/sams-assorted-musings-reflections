@@ -1294,3 +1294,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [The Pyramid](pyramid-2020-01-22) (Musing #995)  
 [Elections for the chair of the faculty](faculty-chair-2020-01-23) (Musing #996)  
 [Too much to do](too-much-to-do-2020-01-24) (Musing #997)  
+[Shoveling](shoveling-2020-01-25) (Musing #998)  

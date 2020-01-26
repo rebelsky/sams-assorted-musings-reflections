@@ -453,3 +453,7 @@ Autobiographical essays, more or less
 
 > Adventures on a strange machine.
 
+[Shoveling](shoveling-2020-01-25) (Musing #998)
+
+> A joy of Iowa Winters.
+

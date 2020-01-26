@@ -1,6 +1,6 @@
 ---
 title: Shoveling
-number: 997
+number: 998
 tags: [Autobiographical](index-autobiographical)
 blurb: A joy of Iowa Winters.
 version: 1.0
