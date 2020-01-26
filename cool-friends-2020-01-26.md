@@ -3,9 +3,9 @@ title: The joy of cool friends
 number: 998
 tags: [Grinnellians](index-grinnellians)
 blurb: Can I count alums as friends?
-version: 0.1
+version: 0.2
 released: 
-current: 2020-01-25
+current: 2020-01-26
 ---
 I have a lot of cool friends. I get reminded of that recently when
 I see or hear about their accomplishments, their activities, their
@@ -43,13 +43,14 @@ related technologies.
 
 I should try to convince Justin to bring her back for his [Digital
 Media Design for Performance](http://thd295.thomas.sites.grinnell.edu/)
-class [5].  I should also keep Rachel in mind the next time there's a
-call for honorary degree recipients.  Her work is artistic and I'm
-pretty sure that she was a dual CS/English major; perhaps we can give
-her an honorary doctorate in humane letters.  And I should certainly
+class [5].  I should also keep Rachel in mind the next time there's
+a call for honorary degree recipients.  Her work is artistic and
+I'm pretty sure that she was a dual CS/English major (or at least
+she loved taking courses from Ed Moore); perhaps we can give her
+an honorary doctorate in humane letters.  And I should certainly
 write a more complete musings about Rachel.  I see that I have some
-notes for such a musing that I started more than three years ago [6].
-Stay tuned.
+notes for such a musing that I started more than three years ago
+[6].  Stay tuned.
 
 ---
 
