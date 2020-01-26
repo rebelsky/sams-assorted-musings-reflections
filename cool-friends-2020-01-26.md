@@ -3,7 +3,7 @@ title: The joy of cool friends
 number: 998
 tags: [Grinnellians](index-grinnellians)
 blurb: Can I count alums as friends?
-version: 0.2
+version: 0.3
 released: 
 current: 2020-01-26
 ---
@@ -48,10 +48,11 @@ class [5].  I should also keep Rachel in mind the next time there's
 a call for honorary degree recipients.  Her work is artistic and
 I'm pretty sure that she was a dual CS/English major (or at least
 she loved taking courses from Ed Moore); perhaps we can give her
-an honorary doctorate in humane letters.  And I should certainly
-write a more complete musings about Rachel.  I see that I have some
-notes for such a musing that I started more than three years ago
-[6].  Stay tuned.
+an honorary doctorate in humane letters.  Oh!  She'd also be a great
+candidate for a Convocation.  And I should certainly write a more
+complete musings about Rachel.  I see that I have some notes for
+such a musing that I started more than three years ago [6].  Stay
+tuned.
 
 ---
 
