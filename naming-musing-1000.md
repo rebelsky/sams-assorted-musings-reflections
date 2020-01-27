@@ -3,9 +3,9 @@ title: Naming my next musing
 number: 999
 tags: [meta-musings](index-meta), [language](index-language)
 blurb: What's in a name?
-version: 0.3
-released: 
-current: 2020-01-26
+version: 1.0
+released: 2020-01-26 
+current: 
 ---
 Tomorrow I will post my thousandth musing or rant [1,2,3].  As I've
 been getting closer and closer to that deadline, I've found myself
@@ -17,7 +17,7 @@ latest milestone."  Of course, the part of my brain that likes puns [4]
 always turns "milestone" into "millstone".
 
 Now that I've written those words, I find myself wondering whether
-either of those metaphors make sense.  As I understand the words,
+either metaphor makes sense.  As I understand the words,
 a milestone is a kind of achievement and a millstone is a significant
 burden.  Let's see what the Interweb [5] says.  Depressingly enough,
 the first result of my search is the "Milestone Gold Master Card"
@@ -56,8 +56,8 @@ the M-W page, is the one I was looking for.
 
 > Examples of millstone in a Sentence \\ College loans can quickly become a *millstone* for students.  
 
-Now, I don't really think of the musings as a millstone; I enjoy musing.  But
-I must admit that there are some musings that feel a bit like millstones,
+Now, I don't really think of the musings as a millstone; I enjoy
+musing.  Nonetheless, I must admit that some musings feel a bit like millstones,
 including [my most-recent post-prereg musing](post-prereg-2020S).
 
 Of course, that punny part of my brain now wants to change "millstone"
@@ -68,7 +68,7 @@ and "millilitre" [14].  The "kilo" prefix tends to mean "one thousand".
 But changing "millstone" into "kilostone" doesn't make much sense.  I
 also expect that a kilostone represents a unit of mass that's about
 seven tons [15,16].  That's definitely a heavy burden.  Is that what
-a millstone weights?  [The first source I found on the Interweb](http://hudsonvalleygeologist.blogspot.com/2014/12/how-much-does-millstone-weigh.html)
+a millstone weighs?  [The first source I found on the Interweb](http://hudsonvalleygeologist.blogspot.com/2014/12/how-much-does-millstone-weigh.html)
 suggests that each millstone weighs under a ton.
 
 Wait!  In some cases, "milli" is used to mean "one thousand" rather 
@@ -76,15 +76,15 @@ Wait!  In some cases, "milli" is used to mean "one thousand" rather
 So I could call my next musing my "millimusing".  I suppose that would
 tempt me to keep it small.  Perhaps "kilomusing".  Or is that
 "kill a musing"?  I know that some people would like to eliminate
-some of my musings.  And neither "kilo" nor "milli" is strictly correct,
+some of my musings.  And neither "kilo" nor "milli" is strictly correct
 since some of the one-thousand postings have been rants and others
 were labeled as "essays".
 
-Of course, I'm a computer scientist, of sorts, so my "kilomusing" or
-"kilopost" or whatever should really be my 1024th and numbered 1023.
-But I didn't start at zero and I'd still like to celebrate the
-more traditional thousandth anniversary.  I guess I could call it
-"only twenty-four more to go", or something like that.
+Of course, I'm a computer scientist, of sorts, so my "kilomusing"
+or "kilopost" or whatever should be my 1024th and numbered 1023.
+But I didn't start at zero and I'd still like to celebrate the more
+traditional thousandth anniversary.  I guess I could call it "only
+twenty-four more to go", or something like that.
 
 On that note, part of me considered calling it "my final musing".
 But it's unlikely that I will stop writing.  Still, I could have
@@ -96,34 +96,60 @@ I have trouble stopping when I start thinking about these kinds of
 alternatives, so I also considered discussing how I represent the
 number of the musing: "Up to four digits", "Adding another digit".
 
-If I logged the time per musing, I could have named it in relation
-to that effort: "A half a year of full-time work down the drain",
-or something like that [19].  But the "drain" metaphor doesn't
-really work.  Perhaps "the product of ..." or "... and what do I
+If I logged the time per musing, I could have chosen a name that
+reflects that effort: "A half a year of full-time work down the
+drain", or something like that [19].  But the "drain" metaphor
+doesn't work.  Perhaps "the product of ..." or "... and what do I
 have to show for it?"  But I have something to show for it.  Words.
 Lots and lots of words: endnotes and postscripts and puns, oh my.
 Hey!  That's a good potential title.  You just have to envision
 Judy Garland saying it.
 
-What did I decide upon?  Perhaps that should be "What *will* I
+When I realized that this month would likely include musing #1000,
+I [listed some things I might do in preparation](another-month-2019-01-12).
+For example, I hoped to list the partially written musings, do a bit of
+text analysis (e.g., "How often do I write 'really'?") and topic
+analysis (e.g., "What is the most common topic I have assigned to a
+musing?" [20]), update some of the underlying software, [transition
+to a new server](farewell-mathlan-web-server-2020-01-12), and such.
+I didn't get any of that done.  I'm unlikely to get any of that done in
+the next.  So perhaps, "Failing to prepare for musing #1000" would be
+a good title.
+
+I've failed to prepare in at least one other day: I thought I had
+a few more days before musing 1000.  You'd think I'd have paid
+attention to the numbers, but I had planned a musing on an alum for
+today and my week in review for today, this musing for tomorrow,
+and musing 1,000 for the next day.  I guess the musing about the
+alum will have to wait a few days.
+
+Looking back at this musing, I've represented the subsequent musing's number
+in multiple ways.  I even used two models in the prior paragraph,
+as "1000" and "1,000".  If I were writing in some other countries,
+I might use "1.000" or "1 000".  In some of those cases, I should
+probably write "adding a digit *and* punctuation".  I've also used
+"one thousand" and perhaps even "one-thousand" [21].  Have I used
+"a thousand"?  I'm not sure.  I wouldn't hyphenate that.  I guess
+the way to name the concept is another issue to worry about.
+
+Which did I decide upon?  Perhaps that should be "Which *will* I
 decide upon", since I have not yet decided.  Stay tuned for tomorrow's
 musing to find out.
 
 ---
 
-**_Postscript_**: An alum along [XKCD #1000](https://xkcd.com/1000/),
-which includes the same concept of which I was thinking.  "Wow -
-Just 24 to go until a big round-number filestone" [20].
+**_Postscript_**: An alum pointed me to [XKCD
+#1000](https://xkcd.com/1000/), which includes the same concept of
+which I was thinking.  "Wow - Just 24 to go until a big round-number
+filestone" [22].
 
 <img src="https://imgs.xkcd.com/comics/1000_comics.png" alt="A drawing of what appears to be 1,000 stick figures, arranged to make the digits '1000'.  At the bottom, between the last two zeros, we see a stick figure with black hair saying 'WOOOO!' or 'W0000!' and a slightly taller stick figure with no hair saying 'Wow-Just 24 to go until a big round-number milestone!'.">
 
 ---
 
-**_Postscript_**: The XKCD comic is licensed under a [Creative Commons Attribution-NonCommercial 2.5 License](https://creativecommons.org/licenses/by-nc/2.5/).   No changes were made, other than the addition of a set of alt text [21].
+**_Postscript_**: The XKCD comic is licensed under a [Creative Commons Attribution-NonCommercial 2.5 License](https://creativecommons.org/licenses/by-nc/2.5/).   No changes were made, other than the addition of a set of alt text [23].
 
 As you can tell from my footer, my musings are licensed under the newer and more permissive [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
-
----
 
 ---
 
@@ -136,7 +162,7 @@ tomorrow.
 
 [3] Or "essay", as I called them in the early days.
 
-[4] Perhaps that's all of my brain.
+[4] Perhaps that's *all* of my brain.
 
 [5] Should that be "InterWeb" or perhaps "interweb".  The former
 follows the computing world's tendency to use CamelCase.  The latter
@@ -176,14 +202,20 @@ met such people.  And why prioritize the Greek over the Latin?
 [18] A.k.a. the First of April.
 
 [19] If we assume the average musing takes an hour to write, one thousand
-musings represents 1000 hours of work, or twenty-five forty-hour weeks.
+musings represents 1000 hours of work or twenty-five forty-hour weeks.
 That's about a half a year of full-time work.
 
-[20] If you count the associated things I've written, such as the Makefile
+[20] I realize that's not what people normally mean when they say
+"topic analysis".
+
+[21] I should only hyphenate when I use "one thousand" as an adjective,
+as in "one-thousand musings" but not "musing one thousand".
+
+[22] If you count the associated things I've written, such as the Makefile
 and template, it's more than 1000.  Still, "filestone" seems appropriate.
 I'm surprised that I did not mention it earlier.
 
-[21] Here's what I wrote as the alt text.
+[23] Here's what I wrote as the alt text.
 
 > A drawing of what appears to be 1,000 stick figures, arranged to make the digits '1000'.  At the bottom, between the last two zeros, we see a stick figure with black hair saying 'WOOOO!' or 'W0000!' and a slightly taller stick figure with no hair saying 'Wow-Just 24 to go until a big round-number milestone!'.
 
