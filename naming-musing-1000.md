@@ -1,5 +1,5 @@
 ---
-title: Naming my next musing
+title: Prelude to my next musing
 number: 999
 tags: [meta-musings](index-meta), [language](index-language)
 blurb: What's in a name?

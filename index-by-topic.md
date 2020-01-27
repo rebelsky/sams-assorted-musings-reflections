@@ -369,7 +369,7 @@ be found in [the list of musing son writing](index-on-writing)._
 
 > Have I beomce too polite?
 
-[Naming my next musing](naming-musing-1000) (Musing #999)
+[Prelude to my next musing](naming-musing-1000) (Musing #999)
 
 > What's in a name?
 
