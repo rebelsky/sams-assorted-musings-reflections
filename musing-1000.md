@@ -3,11 +3,11 @@ title: Reaching One Thousand
 number: 1000
 tags: [Meta-musings](index-meta)
 blurb: An achievement, of sorts.
-version: 1.0
+version: 1.0.01
 released: 2020-01-27
-current: 
+current: 2020-01-27
 ---
-In the middle of April 1996, I had an idea.  A whim, perhaps.  I
+In the middle of April 2016, I had an idea.  A whim, perhaps.  I
 had a lot of things I wanted to write.  I needed to explain to some
 students why [I was not intervening on their behalf](contacting-faculty).
 I had received a variety of questions about [what kind of computer
