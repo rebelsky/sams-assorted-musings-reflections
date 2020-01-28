@@ -40,8 +40,8 @@ As I was posting my second essay, I realized that I wanted to make this
 an even more extensive project - an essay a day, as it were.  Why an
 essay a day?  Michelle thinks it's so that I can procrastinate, and that
 may be part of it.  But it's also to keep myself in check.  As you can
-see from the [list of current and future essays](index.html), there's a
-lot that I plan to write about.  By telling myself that I will write one
+see from the [historical list of essays](index-by-number.html), there's a
+lot that for me to write about.  By telling myself that I will write one
 essay each day, I can stop obsessing about when I'll get to each essay.
 I just get to choose one each day and work on it.
 
@@ -72,4 +72,6 @@ to share.
 
 ---
 
-*Version 1.0 of 2016-04-23*.
+*Version 1.0 released 2016-04-23*.
+
+*Version 1..10 of 2020-01-27*.
