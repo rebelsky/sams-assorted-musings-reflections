@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 991-1000
 
+[Reaching One Thousand](musing-1000) (Musing #1000)  
 [Prelude to my next musing](naming-musing-1000) (Musing #999)  
 [Shoveling](shoveling-2020-01-25) (Musing #998)  
 [Too much to do](too-much-to-do-2020-01-24) (Musing #997)  

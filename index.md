@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Prelude to my next musing](naming-musing-1000) (Musing #999)
+[Reaching One Thousand](musing-1000) (Musing #1000)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

@@ -197,3 +197,7 @@ be found in [the list of musing son writing](index-on-writing)._
 
 > What's in a name?
 
+[Reaching One Thousand](musing-1000) (Musing #1000)
+
+> An achievement, of sorts.
+

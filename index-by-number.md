@@ -1296,3 +1296,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Too much to do](too-much-to-do-2020-01-24) (Musing #997)  
 [Shoveling](shoveling-2020-01-25) (Musing #998)  
 [Prelude to my next musing](naming-musing-1000) (Musing #999)  
+[Reaching One Thousand](musing-1000) (Musing #1000)  
