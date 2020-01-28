@@ -74,4 +74,4 @@ to share.
 
 *Version 1.0 released 2016-04-23*.
 
-*Version 1..10 of 2020-01-27*.
+*Version 1.0.1 of 2020-01-27*.
