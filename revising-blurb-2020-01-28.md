@@ -1,7 +1,7 @@
 ---
 title: Revising a blurb
 number: 1001
-tags: [Grinnell](index-grinnell), [On writing](index-on-writing)
+tags: [On writing](index-on-writing)
 blurb: Exercises in editing.
 version: 1.0
 released: 2020-01-28

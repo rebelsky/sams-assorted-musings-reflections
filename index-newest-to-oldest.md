@@ -1,6 +1,10 @@
 Musings, from newest to oldest
 ==============================
 
+## 1001-1010
+
+[Revising a blurb](revising-blurb-2020-01-28) (Musing #1001)  
+
 ## 991-1000
 
 [Reaching One Thousand](musing-1000) (Musing #1000)  

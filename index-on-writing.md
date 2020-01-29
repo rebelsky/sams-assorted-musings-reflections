@@ -124,3 +124,7 @@ Essays on writing, or at least on writing my musings
 
 > No, not reading to ralph.
 
+[Revising a blurb](revising-blurb-2020-01-28) (Musing #1001)
+
+> Exercises in editing.
+
