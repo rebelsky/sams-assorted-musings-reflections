@@ -14,6 +14,10 @@ to) and a list of software that I want to write._
 Tentative sequence of upcoming musings
 --------------------------------------
 
+* Blurb
+* Wednesday is Prince Spaghetti Day
+* Cool friends (Rachel Rose)
+* Presidential search open forum
 * Games at the Rebelskys'
 * Adventures in Web server transitions
 * Story/Evidence/Perspectives
@@ -49,6 +53,8 @@ Written, need minor revisions
 
 1. My Apple Watch (my-apple-watch)
 
+1. Composting (composting-2020-02-xx)
+
 1. Depression (depression-2019-12-12)
 
 Written, need major revisions
@@ -66,14 +72,48 @@ will evolve into "Learning about Lessons", or something like that.
 Short
 -----
 
-1. Update on Chair of the Faculty.  (My family read it as "Chair of
-Poultry")  New benefits.
+1. Searching for the next president.  (Grinnell, Rants)  
+(presidential-search-forum-2020-01-xx).  
 
-1.GC in the news.  Used to be one of my favorite things.  But it seems
+1. mailto links. (mailto-2020-02-xx.md)
+
+1. Commas and conjunctions.  I want the comma with dependent clauses,
+not with independent ones.  But it's the other way around.  Do I like
+the comma with the dependent clause because it feels like an appositive
+or an aside?  On hand, when they are independent, it feels like they 
+are of equal value, and don't need the comma.  I wonder why the conventions
+developed.
+
+1. Learning from my email.  The other day, USPS noted that they
+would be happy to send me photos of some of my email before I
+received (on the day I was to receive it), something they call
+[informed delivery](https://informeddelivery.usps.com/box/pages/intro/start.action).  I thought I'd only get
+photos of packages and registered mail and such.  But it appears
+that I get photos of almost all of my mail.  I'm pretty sure that they're
+not taking photos as an extra service; rather they are just forwarding
+along the photos that they have already taken.  My quick search for
+information on security issues revealed [some concerns about the ability
+to sign up to get someone else's email](https://krebsonsecurity.com/2017/10/usps-informed-delivery-is-stalkers-dream/).  But my concern is more who has
+access to the photos.  Can the police or FBI access them without a warrant?
+[The USPS FAQ](https://faq.usps.com/s/article/Informed-Delivery-Privacy-Security-Concerns) says nothing about that.  [The Wikipedia page](https://en.wikipedia.org/wiki/Informed_Delivery) says that "he Postal Service adheres to the privacy requirements of the Privacy Act established by the federal government which controls when and how the USPS shares personal information and limits the conditions in which that information can be disclosed externally to outside parties.
+But is USPS still a government agency?  It says so [in some places](http://postalnews.com/blog/2015/05/09/postal-myths-2-the-usps-is-not-a-government-agency/)
+
+1. Update on Chair of the Faculty.  My family read it in my notes
+as "Chair of Poultry".  New benefits.  Identifying a missing person
+(challenge to readers who are on the Grinnell faculty: What full
+professor, other than Anne and Raynard, was not on the original list?).
+
+1. Backups.  Drive died.  Got a new one.  How long does it take to
+copy 1 terrabyte using rsync?  About a day.  Why so long?
+
+1. GC in the news.  Used to be one of my favorite things.  But it seems
 to have disappeared.
 
 1. Taking up space.  I take up physical space. But I also take up
 ??? space.
+
+1. One hundred words.  (Two musings: One just 100 words.  One the
+longer description.)  See my ENG 207 directory.
 
 1. Prereqs. We have them for a reason.  Talking to colleague about
 them.
@@ -162,6 +202,23 @@ out the econ is much like CS; the number of open positions outstrips
 the number of candidates.  Hence, while it may cost a bit to attend
 the conference, it has a clear payoff.  That's in stark contrast to the
 MLA meeting, in which the odds of landing a job seem surprisingly slim.
+
+1. Economies of scale.  One of the side effects of the growth of the
+Interweb and e-commerce has been the appearance of high-volume used
+book sellers [Not used booksellers], like Better World Books and 
+Thrift Books.  These booksellers [correct this time] have a high enough
+volume that they don't need to make much on each book.  BWB, in 
+particular, has an interesting model: They get large numbers of discarded
+books from libraries [including Drake library], promising some return
+on the sales of those books.  [I'll admit that I'd prefer we sell books
+in the store or at the sale, since we make much more that way.  But we
+always have a ton [literally] left after thesale.]  BWB seems to have 
+a continual sale of books they've had too long, with $1.50 off each if
+you buy six or more.  Since they have a lot of cool books that are 2.99,
+including free shipping, you can get six used books for $9.00.  [I'm pretty
+sure that the libraries get nothing.]  Of course, this means that they
+pay little attention to the details of any one book.  Shows up when I
+try to order special editions.  Also Amazon pricing bots.
 
 1. Naming the open curriculum.  See naming -open-curriculum-2020-01-xx.md
 

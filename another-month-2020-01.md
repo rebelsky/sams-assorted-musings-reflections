@@ -1,11 +1,11 @@
 ---
 title: Another month of (mostly) daily musings
-number: XXX
+number: 1004
 tags: [End-of-month musings](index-monthly)
 blurb: Whatever
-version: 0.4
+version: 0.5
 released:
-current: 2020-01-25
+current: 2020-01-28
 ---
 We've reached the end of another month and, as is my wont [1], I'm
 using the last day of the month to look back on the past month and
@@ -63,6 +63,35 @@ topics](next-tutorial-2020-01-01).  Given the number I'd previously
 received on [Plans], I found that somewhat surprising.  I guess
 [Plans] is just a better social media site. I suppose I should
 consider returning.
+
+A missed opportunity
+--------------------
+
+The day after I posted [my thousandth musing](musing-1000), a colleague
+at a meeting with me said something like,
+
+> I was at the Faculty/Staff Friday last week.  I asked why you were
+running the session, given that you're on leave.  Two people at my
+table said "He's written at least two ramblings about it."
+
+"Ramblings".  I like that.  It's a bit insulting.  But it's true.
+
+If I'd heard that before I posted musing 1000, I could have made
+the decision to change the name of the pieces I write from "musings"
+to "ramblings" and called musing 1000 "my last musing".  Then I
+could have renamed the collection from "SamR's Assorted Musings and
+Rants" to "Rebelsky Rambles and Rants".  I like the alliteration.
+Perhaps I could have done "Rebelsky Regularly Rambles and Rants"
+or "Rebelsky Repeatedly Rambles and Rants" or "Rebelsky Randomly
+Rambles and Rants" or, just because that's not enough "R"s, "Rebelsky
+Regularly, Repeatedly, and Randomly Rambles and Rants"..  What else?
+Oh, Grammarly hates it when I use "really".  I'd almost certainly
+have to call it "Rebelsky Regularly, Repeatedly, and Randomly Really
+Rambles and Rants".
+
+Maybe it's good that I didn't hear it earlier.  I'll stick with the
+current title.  Plus, I appreciate that the various spelling and
+grammar checkers keep telling me to convert "a musing" to "amusing".
 
 Broader issues
 --------------
