@@ -3,7 +3,7 @@ title: Wednesday is Prince Spaghetti Day
 number: 1002
 tags: [Miscellaneous](index-misc)
 blurb: The things that occupy valuable memory.
-version: 0.1
+version: 0.2
 released: 
 current: 2020-01-28
 ---
@@ -112,6 +112,12 @@ subsidiary of Madrid, Spain-based Ebro Foods,
 S.A.](https://www.foodbusinessnews.net/articles/14843-riviana-foods-expanding-ready-to-serve-rice-plant-in-memphis)
 
 I wonder if Prince still uses wheat germ.
+
+---
+
+**_Postscript_**:  I'd recommend listening to 
+[the NPR piece](https://www.npr.org/2019/11/19/780949208/prince-pasta-anthony-commercial-turns-50-continues-to-resonate).  It presents some useful
+cultural context that I had not recalled or not understood.
 
 ---
 
