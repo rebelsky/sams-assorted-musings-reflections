@@ -3,10 +3,49 @@ title: Let me tell you a story
 number: 
 tags: [rants](index-rants), [Grinnell](index-grinnell)
 blurb: Or provide some evidence.
-version: 0.1
+version: 0.2
 released: 
-current: 2020-01-112
+current: 2020-01-30
 ---
+New order:
+
+1. Last spring, I sent an email message to President Kington,
+carbon-copying a bunch of other people [Do young people even know
+why it's called carbon-copying?], including my Chair, my Division
+Chair, and the Dean.
+
+2. The message.
+
+3. Why would I write such a message?  Why would I share it with you?
+And why now, nearly a year later?
+
+4. Three long-time planned musings (add intent and impact).  The
+story behind the musing and my own reactions may play a role in
+each of those musings.  Also, I did some followup with Dean Harris
+about some of these issues and she asked for the backstory.  [No,
+Anne, it's not your fault that I am posting this criticism of
+Grinnell to the public.  I had already planned it when you asked.
+It's just taken some time to get it into shape.]
+
+5. The narrative, likely in temporal order.
+
+6. My reactions.  Pretty clear from my letter to Raynard.  Pissed.  Found
+it yet another example of failures in communication and more.  I'll tell
+you more later.
+
+7. You may not believe it, but once we "resolved" the matter, I
+gave up sending complaints to Kington.  I've send him a few notes
+about things he does that I appreciate, such as a great opening
+speech at a Capital Campaign event.  But I've basically given up.
+
+7. My attempt to understand the other side.
+
+8. Apologies?  I apologized to my students immediately.  I think it took
+a month, and a call from the Ombuds, for the administration to apologize
+to them.
+
+---
+
 Over the past month or so, I've been reflecting on two rather
 complicated musings that I'm planning to write.  One is a followup
 to Dean Harris' comment that much of what happens successfully at
