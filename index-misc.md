@@ -770,3 +770,7 @@ Almost everything else
 
 > You shall be missed.
 
+[Wednesday is Prince Spaghetti Day](prince-spaghetti-day-2020-01-29) (Musing #1002)
+
+> The things that occupy valuable memory.
+

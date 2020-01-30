@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Revising a blurb](revising-blurb-2020-01-28) (Musing #1001)
+[Wednesday is Prince Spaghetti Day](prince-spaghetti-day-2020-01-29) (Musing #1002)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
