@@ -14,13 +14,14 @@ to) and a list of software that I want to write._
 Tentative sequence of upcoming musings
 --------------------------------------
 
-* Blurb
-* Wednesday is Prince Spaghetti Day
 * Cool friends (Rachel Rose)
-* Presidential search open forum
-* Games at the Rebelskys'
-* Adventures in Web server transitions
+* End of month
+* Craft of Creative Nonfiction
+* Searching for the next President
 * Story/Evidence/Perspectives
+* Presidential search open forum
+* Games at the Rebelskys' (is this now too late?)
+* Adventures in Web server transitions
 * More Story/Evidence
 * Donating in my name / Donation fantasies (?)
 
@@ -263,6 +264,18 @@ to something I've seen.  Helps me look more closely.
 
 Long
 ----
+
+1. Intent vs Impact.  Often think about in the context of
+icroaggressions.  But also what I'm told upsets people about some
+of my rants.  "You don't know the whole story."  Nope, I don't.
+I'm reporting on the impact I see from your action, or at least the
+impact I feel.  Of course, the same holds for me; I don't intend
+to make you feel bad or undervalued.  Well, generally I don't.  I
+want you to know how you make me feel.  Certainly at the root of
+the huge difference over reactions to the new stonework on campus.
+To some, they are gateways to help direct people and frame the
+campus.  And that's their intent.  But to others they are walls,
+separating our enclave from the surrounding community.
 
 1. Child of faculty.  Last child graduating Grinnell.  Three more years
 until Youngest graduates (but not from Grinnell).  Being the child of

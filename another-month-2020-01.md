@@ -39,12 +39,17 @@ Still write "really" and "clearly" too much, at least according to
 Grammarly.  Frequently comma splice before or and and.  Not sure
 why.
 
-About to learn a lot more on how to write.
+About to learn a lot more on how to write.  Already starting to
+think more about the structure of my musings and to rearrange a
+few.  Expect to see me experiment a bit more with structure.  It
+will almost certainly take a few more years until I can begin to
+attempt the care with language that I see in so many of the pieces.
+What does Professor Savarese call those?  Writerly prose?
 
 On posting frequency
 --------------------
 
-Managed to post every day.  Yay!  Or at least I remember posting every
+Managed to post every day.  Yay!  Or at least I recall posting every
 day.
 
 Timeliness: Weekly report and notes for Ralph's class?
@@ -52,8 +57,16 @@ Timeliness: Weekly report and notes for Ralph's class?
 Thought I might have one or two other days in which I posted more than
 one, but did not.  More on that later.
 
-Follow-ups to individual musings
---------------------------------
+Reaching one thousand musings
+-----------------------------
+
+In the prelude, I had joked about reaching four digits.  It turns out
+that it seems unnatural to type four digits.  I've been typing three
+digits for so long, the forth just seems wrong.  And all those 
+zeros! (Why I do want to type zeroe?  Oh well, potatos potatoes.)
+
+Follow-ups to other individual musings
+--------------------------------------
 
 No one commented on my [musing on staff
 governance](governance-tenure-2020-01-19).  I wonder why.
