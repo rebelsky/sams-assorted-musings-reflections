@@ -291,3 +291,7 @@ Grinnell.
 
 > So many potential candidates!
 
+[The joy of cool friends](cool-friends-2020-01-30) (Musing #1003)
+
+> Can I count alums as friends?
+

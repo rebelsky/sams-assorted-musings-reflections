@@ -1302,3 +1302,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 
 [Revising a blurb](revising-blurb-2020-01-28) (Musing #1001)  
 [Wednesday is Prince Spaghetti Day](prince-spaghetti-day-2020-01-29) (Musing #1002)  
+[The joy of cool friends](cool-friends-2020-01-30) (Musing #1003)  
