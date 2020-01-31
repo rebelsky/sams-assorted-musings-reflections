@@ -14,12 +14,9 @@ to) and a list of software that I want to write._
 Tentative sequence of upcoming musings
 --------------------------------------
 
-* Cool friends (Rachel Rose)
 * End of month
-* Craft of Creative Nonfiction
-* Searching for the next President
 * Story/Evidence/Perspectives
-* Presidential search open forum
+* Craft of (somewhat) Creative Nonfiction
 * Games at the Rebelskys' (is this now too late?)
 * Adventures in Web server transitions
 * More Story/Evidence
@@ -48,6 +45,8 @@ summarize the contents.
 Written, need minor revisions
 -----------------------------
 
+1. Office Hours and FERPA.
+
 1. The joy of code: Concise perl.
 
 1. Donation fantasies.
@@ -55,6 +54,8 @@ Written, need minor revisions
 1. My Apple Watch (my-apple-watch)
 
 1. Composting (composting-2020-02-xx)
+
+1. mailto links. (mailto-2020-02-xx.md)
 
 1. Depression (depression-2019-12-12)
 
@@ -73,10 +74,52 @@ will evolve into "Learning about Lessons", or something like that.
 Short
 -----
 
-1. Searching for the next president.  (Grinnell, Rants)  
-(presidential-search-forum-2020-01-xx).  
+1. Craft of (not-so) Creative Nonfiction.  Rearranging the Story Musing.
 
-1. mailto links. (mailto-2020-02-xx.md)
+1. Number of majors (need to run this one by Todd).  The other day,
+I was chatting with another faculty member about the distribution
+of majors at the College.  I'd really like to see us return to a
+distribution of about 1/3 Science Majors, 1/3 Humanities majors,
+and 1/3 Social Studies Majors.  But when I said that, they replied
+that some departments wouldn't want to lose majors, and I think
+they were implying my department.  But I'd *love* to lose majors.
+With, say, twenty-five or thirty majors in each class year, it would
+be likely that I'd know all of the majors.  More people showed up
+for things wehn we were smaller (or at least a greater percentage).
+More opportunities for service courses.  Would we be over-staffed,
+given that we have eight FTEs?  Well, we wouldn't be teaching at
+capacity.  But that means we'd have more opportunities for special
+topics classes, for classes for non-majors, for service courses,
+and the like.  Right now, we average about 22 advisees per faculty
+member.  If we dropped to 30 majors per year and continued to teach
+one 13-person Tutorial per year, we'd be down to eleven major advisees
+per faculty member, which is pretty close to the College average.   
+WIth two Tutorials per year, we'd be at the College average.
+
+1. Taking notes on paper vs. taking notes on the computer.  The
+latter is much easier to search.  But I feel like I learn beter
+from the former, and I think there is evidence of that.
+
+1. Touching People.  <https://www.buzzfeed.com/shelbyheinrich/men-stop-touching-us>.  It's what I was taught to do, although at the shoulder, not the 
+waist.  I hadn't realized that it felt so invasive.  I'd rather signal,
+and shouting seems impolite.  So what does one do?
+
+1. Experiencing the workload of a Grinnell student.  Taking two
+classes.  Assignment (I took an hour; some of my classmates said
+they were able to get it done in twenty), one-hour audio that I could
+not figure out how to speed up (probably not appropriate to speed up).
+Additional reading for another hour.  I probably get more email.  I
+may have more 
+
+1. "I can't come to class.  My rat died and my other rat is in
+mourning."  Funny.  But such a great strategy.  You only have
+four grandparents, but can have an arbitrary number of pets.  
+[Disclaimer: I tend to hate the jokes of the effects of the
+end-of-semester on the mortality of grandparents.  So why I am I
+writing this?]  But Ralph said, "Don't tell me your rat died, that's
+something I'll remember about you forever."  Of course, he also asked
+in class about objects to which we have a special attachment.  Won't
+he remember those forever, too?
 
 1. Commas and conjunctions.  I want the comma with dependent clauses,
 not with independent ones.  But it's the other way around.  Do I like
@@ -262,20 +305,61 @@ office.  But I think my photos have been generally positive.  A few get
 staged, such as when I build an art project.  But most are just a reaction
 to something I've seen.  Helps me look more closely.
 
+1. Random art projects.  Stations of the cross.  Although I'm not Catholic
+[I do have catholic tastes], I often go to Mass with my family.  As we visit
+different churches, I appreciate seeing the different ways that artists,
+individual and commercial, represent the stations of the cross.  At times,
+I'd like to make it an art project.  Get a high end camera.  Travel the
+country, from Church to Church, photographying the stations carefully. 
+Posting and organizing.  Allowing others to submit.
+
+1. Van Meter Montster.  Friends posts interesting fact each day.
+<https://www.desmoinesregister.com/story/news/2015/07/01/van-meter-remembers-1903-visit-from-winged-monster/29583469/>
+
 Long
 ----
 
-1. Intent vs Impact.  Often think about in the context of
-icroaggressions.  But also what I'm told upsets people about some
-of my rants.  "You don't know the whole story."  Nope, I don't.
-I'm reporting on the impact I see from your action, or at least the
-impact I feel.  Of course, the same holds for me; I don't intend
-to make you feel bad or undervalued.  Well, generally I don't.  I
-want you to know how you make me feel.  Certainly at the root of
-the huge difference over reactions to the new stonework on campus.
-To some, they are gateways to help direct people and frame the
-campus.  And that's their intent.  But to others they are walls,
-separating our enclave from the surrounding community.
+1. Let me tell you a story.
+
+1. Let me tell you another story.
+
+1. Scaffolding and metacognition.  More is better, right?  Okay,
+we know that's not always the case.  More food is not better.  More
+consumption, in general, is not better.  More years with certain
+politicians in office is definitely not better.  Still, those are
+exceptions that prove the rule.  The other day, I was at a wonderful
+Faculty (& Staff?) Friday on Metacognition, conducted by the
+even-more-wonderful Belinda Backous [I'm serious; Belinda is one
+of those folks who everyone feels fortunate to have as a colleague.
+I should probably add her to my list of people to profile.]  What's
+metacognition?  The term is self descriptive, kkkkkkit's thinking
+about how you think.  [Or learning how to learn, in the parlance
+of the academy.]  Somewhere in the middle of the presentation, she
+put up a slide< one of whose points was something like "More explicit
+instructions on assignments help develop metacognition."  That
+seemed strange to me.  Isn't part of the point of metacognition the ability
+to develop processes?  And don't you learn to develop process, at some
+point, by develping them yourself?  Introduce scaffolding.  It's a
+balance as an instructor, particularly since students are often at
+very different places.  
+
+1. Intent vs Impact.  You intend a gateway, an entrance that guides
+people onto campus, with walls carefully designed to encourage
+students to perch reading, photogenically.  I see a wall, designed
+to separate.  Others do, too.  How could one not, in this political
+climate?  Some see an attempt to mimic our more prestiguious
+colleagues.  "I tried to jew him down, but he gyped me." Often think
+about in the context of microaggressions.  But also what I'm told
+upsets people about some of my rants.  "You don't know the whole
+story."  Nope, I don't.  I'm reporting on the impact I see from
+your action, or at least the impact I feel.  Of course, the same
+holds for me; I don't intend to make you feel bad or undervalued.
+Well, generally I don't.  I want you to know how you make me feel.
+Certainly at the root of the huge difference over reactions to the
+new stonework on campus.  To some, they are gateways to help direct
+people and frame the campus.  And that's their intent.  But to
+others they are walls, separating our enclave from the surrounding
+community.
 
 1. Child of faculty.  Last child graduating Grinnell.  Three more years
 until Youngest graduates (but not from Grinnell).  Being the child of
@@ -311,8 +395,20 @@ anyone else has looked at the data?  How do we classify courses?
 
 1. Adventures in Racket Autograding.
 
+Excerpts from Staff Governance
+------------------------------
+
+1. Staff Tenure.
+
+1. Improvements to Staff Governance.
+
+1. Rethinking Shared Governance.
+
 Unlikely to post
 ----------------
+
+1. Searching for the next president.  (Grinnell, Rants)  
+(presidential-search-forum-2020-01-xx).  
 
 1. I hate (some) parents.  I'm on both the Grinnell Parents Facebook
 group and the Stanford Parents Facebook group.  In general, I find
