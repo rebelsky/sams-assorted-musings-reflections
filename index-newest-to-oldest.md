@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 1001-1010
 
+[Another month of daily musings](another-month-2020-01) (Musing #1004)  
 [The joy of cool friends](cool-friends-2020-01-30) (Musing #1003)  
 [Wednesday is Prince Spaghetti Day](prince-spaghetti-day-2020-01-29) (Musing #1002)  
 [Revising a blurb](revising-blurb-2020-01-28) (Musing #1001)  

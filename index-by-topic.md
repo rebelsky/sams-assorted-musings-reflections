@@ -500,6 +500,10 @@ most of them here._
 
 > Also another year.
 
+[Another month of daily musings](another-month-2020-01) (Musing #1004)
+
+> Looking forward to learning how to write.
+
 For prospective students, parents of prospective students, and others with similar interests
 --------------------------------------------------------------------------------------------
 

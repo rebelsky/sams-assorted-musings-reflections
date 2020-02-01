@@ -117,3 +117,7 @@ most of them here._
 
 > Also another year.
 
+[Another month of daily musings](another-month-2020-01) (Musing #1004)
+
+> Looking forward to learning how to write.
+
