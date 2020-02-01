@@ -131,6 +131,10 @@ Essays on writing, or at least on writing my musings
 
 > Exercises in editing.
 
+[One hundred words](one-hundred-words-2020-02-01) (Musing #1005)
+
+> So few!
+
 On language
 -----------
 
