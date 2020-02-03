@@ -1305,3 +1305,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [The joy of cool friends](cool-friends-2020-01-30) (Musing #1003)  
 [Another month of daily musings](another-month-2020-01) (Musing #1004)  
 [One hundred words](one-hundred-words-2020-02-01) (Musing #1005)  
+[SamR's week in review](week-in-review-2020-02-02) (Musing #1006)  

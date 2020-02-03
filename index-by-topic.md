@@ -3397,6 +3397,10 @@ Autobiographical essays, more or less
 
 > A joy of Iowa Winters.
 
+[SamR's week in review](week-in-review-2020-02-02) (Musing #1006)
+
+> What did I do this past week?
+
 Salary reviews
 --------------
 
