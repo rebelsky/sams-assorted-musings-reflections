@@ -3,9 +3,9 @@ title: SamR's week in review
 number: 1006
 tags: [Autobiographical](index-autobiographical)
 blurb: What did I do this past week?
-version: 1.0
+version: 1.1
 released: 2020-02-02
-current: 
+current: 2020-02-02
 ---
 _My family is slowly scattering across the country.  To help us keep
 track of each other, we've started a weekly note to the rest of the
@@ -68,6 +68,16 @@ being in Portland with mom.
 I'm also looking forward to Caucusing on Monday.  Did I tell you that
 one of the too-many candidate supporters who called today said, "Don't
 forget to caucus on Tuesday"?
+
+At tomorrow's faculty meeting, we have preliminary elections for Chair
+of the Faculty.  I've left my name on the ballot and have told people
+that I have no particular interest in the position, but will serve if
+elected.  However, I must admit that it would be nice to be able to work
+with Dean Harris and a cool opportunity to work with the new president.
+On the other hand, my musings would have to change significantly and I'm
+not sure my department can spare me.  In any case, we'll see what the
+Faculty decide.  There are certainly some excellent candidates still on
+the list.
 
 I'm not sure what else is on my agenda for the week.  I'll figure it
 out as I go.
