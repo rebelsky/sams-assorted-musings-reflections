@@ -1452,6 +1452,10 @@ On life in academia
 
 > Reflecting on more inclusive practices.
 
+[Preparing workshop proposals](workshop-proposals-2020-02-03) (Musing #1007)
+
+> Not as much work as I expected
+
 Thank-You Notes
 ---------------
 

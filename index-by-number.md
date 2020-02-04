@@ -1306,3 +1306,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Another month of daily musings](another-month-2020-01) (Musing #1004)  
 [One hundred words](one-hundred-words-2020-02-01) (Musing #1005)  
 [SamR's week in review](week-in-review-2020-02-02) (Musing #1006)  
+[Preparing workshop proposals](workshop-proposals-2020-02-03) (Musing #1007)  

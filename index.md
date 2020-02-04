@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[SamR's week in review](week-in-review-2020-02-02) (Musing #1006)
+[Preparing workshop proposals](workshop-proposals-2020-02-03) (Musing #1007)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
