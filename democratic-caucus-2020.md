@@ -3,9 +3,9 @@ title: The 2020 Iowa Democratic Caucus (Poweshiek County Grinnell Precinct 7 War
 number: 1008
 tags: [Miscellaneous](index-misc)
 blurb: Responding to reader requests.
-version: 1.0
+version: 1.1
 released: 2020-02-04 
-current: 
+current: 2020-02-04
 ---
 **_Disclaimer_**: _I began this musing before I heard about the
 technology issues.  It's sad; the articles I saw about the satellite
@@ -99,12 +99,10 @@ have covered the ad hoc campaign.
 
 But we weren't at the College.  And it was just the two of us.  So
 we stood there to the side, along with most of the other single-digit
-candidates: Bennett, Gabbard, and Pythagoras.  Or maybe Bennett,
-Steyer, and Pythagoras.  I thought the folks nearby we supporting
-Gabbard, but [the results](https://results.thecaucuses.org/) list
-Steyer.  I tried to convince the Pythagoras supporter that he wasn't
-eligible, but I had to admit that Carter, while eligible, was not
-running, and might be too old to serve [8].
+candidates: Bennett, Gabbard, Steyer, and Pythagoras.  I tried to
+convince the Pythagoras supporter that he wasn't eligible, but I
+had to admit that Carter, while eligible, was not running, and might
+be too old to serve [8].
 
 After the second round, someone told me that they appreciated the
 Carter strategy because it allowed us to scope out the room before
@@ -133,9 +131,17 @@ few of the photos I took [9].
 
 ---
 
-**An Agenda for the Caucus**
+**An agenda for the caucus**
 
 <img src="images/caucus/agenda.png" alt="A hand-written sign on an easel.  2020 Democratic Caucus.  Precinct 7-Ward 2 Poweshiek Count.  www.powdems.com.  1. Call caucus to order.  2. Election of permanent chair.  3. Election of permanent secretary.  4. Announcements.  5. Passing out of Presidential Preference Cards.  6. 1st Alignment into Presidential Preference Groups.  7. 2nd Alignment (Non-viable groups ONLY).  8. Election of 17 Delegates and Alternates to County Convention.  9. Election of 1 Platform Committee member (1 Alternate).  10. Election of 1 Member Committee on Committees (1 Alternate).  11. Election of 3 Central Committee Members.  12. Democratic Party Platform Proposals.  13. Ratification of Caucus.  14. Adjournment.">
+
+---
+
+**My home-made progressive sticker**
+
+_Should I take the caucus more seriously?_
+
+<img src="images/caucus/progressive.png" alt="A sticker composed of half of an Elizabeth Warren sticker and half of a Bernie Sanders sticker.  It appears to say something like 'I'm caucusing WARnie'.">
 
 ---
 
