@@ -3,9 +3,9 @@ title: Office hour sign-up sheets and other FERPA issues
 number: 1009
 tags: [Academia](index-academia)
 blurb: The wonder of rules
-version: 1.0
-released: 2020-02-05
-current: 
+version: 1.0.1
+released: 2020-02-06
+current: 2020-02-07
 ---
 Sometime last semester, as I was reading excerpts from the minutes
 of Grinnell's Executive Council [1], I learned that some folks
@@ -42,7 +42,7 @@ Nonetheless, they could be considered risky, particularly as our
 society gets more litigious.
 
 I will admit that I have not worried about these issues because I
-primarily use electronic signups for office hours[9].  I didn't
+primarily use electronic signups for office hours [9].  I didn't
 choose them for FERPA or safety reasons; rather, I find that they
 make it easier for me to tell what slots are available when a student
 emails to ask "Can I meet with you at 11:00 a.m. tomorrow?" or
