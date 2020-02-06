@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[The 2020 Iowa Democratic Caucus (Poweshiek County Grinnell Precinct 7 Ward 2)](democratic-caucus-2020) (Musing #1008)
+[Office hour sign-up sheets and other FERPA issues](office-hour-signups-ferpa-2020-02-05) (Musing #1009)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

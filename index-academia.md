@@ -53,3 +53,7 @@ On life in academia
 
 > Not as much work as I expected
 
+[Office hour sign-up sheets and other FERPA issues](office-hour-signups-ferpa-2020-02-05) (Musing #1009)
+
+> The wonder of rules
+
