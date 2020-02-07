@@ -538,3 +538,7 @@ Rants
 
 > How should I respond?
 
+[`mailto` links ](mailto-2020-02-06) (Musing #1010)
+
+> Why do designers get them wrong?
+

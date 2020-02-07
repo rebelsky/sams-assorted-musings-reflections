@@ -1309,3 +1309,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Preparing workshop proposals](workshop-proposals-2020-02-03) (Musing #1007)  
 [The 2020 Iowa Democratic Caucus (Poweshiek County Grinnell Precinct 7 Ward 2)](democratic-caucus-2020) (Musing #1008)  
 [Office hour sign-up sheets and other FERPA issues](office-hour-signups-ferpa-2020-02-05) (Musing #1009)  
+[`mailto` links ](mailto-2020-02-06) (Musing #1010)  

@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Office hour sign-up sheets and other FERPA issues](office-hour-signups-ferpa-2020-02-05) (Musing #1009)
+[`mailto` links ](mailto-2020-02-06) (Musing #1010)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
