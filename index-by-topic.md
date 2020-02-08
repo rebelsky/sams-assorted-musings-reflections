@@ -1739,6 +1739,10 @@ Overcommitment
 
 > What else is new?
 
+[Summer MAP/MIP proposals](map-mip-proposals-summer-2020) (Musing #1011)
+
+> So much yet so little.
+
 On teaching 
 -----------
 

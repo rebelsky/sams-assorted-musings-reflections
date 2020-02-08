@@ -1,6 +1,10 @@
 Musings, from newest to oldest
 ==============================
 
+## 1011-1020
+
+[Summer MAP/MIP proposals](map-mip-proposals-summer-2020) (Musing #1011)  
+
 ## 1001-1010
 
 [`mailto` links ](mailto-2020-02-06) (Musing #1010)  
