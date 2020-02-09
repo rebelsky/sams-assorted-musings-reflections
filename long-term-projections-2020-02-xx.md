@@ -3,7 +3,7 @@ title: Long-term projections
 number: 
 tags: [Grinnell](index-grinnell)
 blurb: Doing the math on the back of an envelope, or something like that.
-version: 0.1
+version: 0.2
 released: 
 current: 2020-02-09
 ---
@@ -62,7 +62,7 @@ should also generalize it, so it's easier to update.
 
 Ouch!  That's much more painful.  The expected contribution from the
 endowment exceeds the payout in year one.  And we've overdrawn the
-reserves by year 10.  That's scary.  Here's my table.
+reserves by year 10.  That's scary.  Here's my table.  YMMV [3].
 
 <table class="table">
  <tr>
@@ -240,7 +240,36 @@ in my spreadsheet.
 The remaining rows are appropriate variations of row 2.
 
 Now that I have the spreadsheet generalized, I can try other things.
-What if we earn 6%?
+What if we earn 6% each year, rather than 5%?  We make it all the
+way to year 12 before the reserve runs out.  What if we earn 6% and
+cut the percent of the budget from the endowment from 55% to 50%?
+We make it to year 17.  But how can we use less from the endowment?
+I know!  Alumni could donate!
+
+What if we stuck with the 5% and the 55%, but managed to cut the
+budget growth to 4%?  We overspend in year 12.  What if we also
+increase the payout rate to 4.5%?  Year 16.
+
+Note that once we run out of the reserve, at least in my model, we'll
+need to start taking money from the core endowment.  Under the original
+model, that means that the endowment is down to $0 in about year 32.
+If I were a Trustee, I'd find that scary.
+
+Is there a solution to all of this?  It seems like the obvious ones
+are (a) earn a higher interest rate, (b) cut expenses, (c) decrease
+the percentage of the budget that comes from the endowment, and (d)
+increase the endowment.  I don't think we have control over (a).
+Choosing (b) means that we'll gradually decrease the quality of our
+program.  That leaves (c) and (d).  There are two ways to decrease
+the percentage of the budget that comes from the endowment.  We
+could change the distribution of students, bringing in more full-pay
+students and fewer high-need students.  But that goes against our
+principles.  Or we could increase the amount we get from donations.
+What about (d)?  The primary way to increase the endowment is through
+donations.
+
+Wow.  I guess even with a $2,000,000,000 endowment, we really need
+donations.  So please donate!
 
 ---
 
@@ -252,3 +281,5 @@ What if we earn 6%?
 
 [2] Given how I've heard fundraising worked at the College during
 that time, it seems that no one thought so.
+
+[3] Your Money May Vary, or something like that.
