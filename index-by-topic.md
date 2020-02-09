@@ -2749,6 +2749,10 @@ Grinnell.
 
 > Can I count alums as friends?
 
+[Trustees and the Grinnell student union (or vice versa)](trustees-union-2020-02-08) (Musing #1012)
+
+> A good rationale and some hope for positive directions.
+
 Registration and Related Topics
 -------------------------------
 

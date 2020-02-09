@@ -1314,3 +1314,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 ## 1011-1020
 
 [Summer MAP/MIP proposals](map-mip-proposals-summer-2020) (Musing #1011)  
+[Trustees and the Grinnell student union (or vice versa)](trustees-union-2020-02-08) (Musing #1012)  
