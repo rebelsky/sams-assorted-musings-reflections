@@ -2753,6 +2753,10 @@ Grinnell.
 
 > A good rationale and some hope for positive directions.
 
+[A response to an angry alum](angry-alumni-2020-02-09) (Musing #1013)
+
+> I am not a College spokesmodel.
+
 Registration and Related Topics
 -------------------------------
 

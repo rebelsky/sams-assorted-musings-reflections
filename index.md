@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Trustees and the Grinnell student union (or vice versa)](trustees-union-2020-02-08) (Musing #1012)
+[A response to an angry alum](angry-alumni-2020-02-09) (Musing #1013)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

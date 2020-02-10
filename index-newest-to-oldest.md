@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 1011-1020
 
+[A response to an angry alum](angry-alumni-2020-02-09) (Musing #1013)  
 [Trustees and the Grinnell student union (or vice versa)](trustees-union-2020-02-08) (Musing #1012)  
 [Summer MAP/MIP proposals](map-mip-proposals-summer-2020) (Musing #1011)  
 
