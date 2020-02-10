@@ -3,9 +3,9 @@ title: A response to an angry alum
 number: 1013
 tags: [Grinnell](index-grinnell), long
 blurb: I am not a College spokesmodel.
-version: 1.0
+version: 1.0.1
 released: 2020-02-09
-current: 
+current: 2020-02-09
 ---
 Yesterday, [Grinnell's Trustees decided not to allow the union to
 expand](trustees-union-2020-02-08).  As is often the case, many
@@ -237,7 +237,7 @@ class mentors, research assistants, library helpers, lifeguards
 experience has been that the union has made this division worse,
 rather than better: Because the dining services jobs pay more than
 other jobs on campus, many high-need students choose them over the
-more important jobs.
+more educationally oriented jobs.
 
 > I even heard the Trustees acknowledge that it should be easier for
 all students to choose the more productive jobs.  They've pushed the
