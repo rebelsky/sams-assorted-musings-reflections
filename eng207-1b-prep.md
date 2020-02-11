@@ -1,9 +1,9 @@
 ---
-title: Getting ready to be workshopped
+title: Preparing to be workshopped
 number: 
 tags: [On writing](index-on-writing)
-blurb: My first manuscript
-version: 0.2
+blurb: My first manuscript for ENG-207.
+version: 0.3
 released: 
 current: 2020-02-11
 ---
@@ -59,7 +59,7 @@ the class paid close attention to language.  And they did so in a
 way that was supportive, rather than undermining.
 
 I shouldn't have been surprised.  They are, after all, Grinnell
-students.  And I shouldn't have been suprised at the effort that
+students.  And I shouldn't have been surprised at the effort that
 went into the writing, from powerful metaphors to careful language
 choice.
 
@@ -73,17 +73,10 @@ would not be intimidating or frightening.  But I know that my
 creative writing needs work, particularly because I have trouble
 with so many aspects of creative writing: metaphor, structure,
 variation, ambiguity, more than I can hope to list.  While I know
-I learn from criticisms, particularlyl the quality I epxect from
+I learn from criticisms, particularly the quality I expect from
 this class, I worry about how many I'll get.
 
-I'm also finding it hard not to include a page or more of questions
-along with my manuscript.  I have five potential titles.  Which do
-you think is best?  Or do you have another suggestion?  What do you
-see as the point of this piece?  I did not intend to link Zoe
-Leonard's _I want a president_ to President Kington.  However, I
-mention Kington twice in the piece.  Is it okay?  Have I gone
-overboard in the paragraph that I've lifted from the psyche?  I
-want to ask.
+---
 
 What does a writing assignment look like for this class?  Not like
 I'd expected.  It goes something like this.
@@ -96,11 +89,11 @@ I'd expected.  It goes something like this.
 > Write a five-to-six page piece.
 
 The structure of the assignment reveals both simplicity and complexity.
-We are mimicing parts of a professional piece of writing, but we
+We are mimicking parts of a professional piece of writing, but we
 are not to mimic the overall piece.  Not so much chameleons as, um,
 something else.  The twin tasks of identifying structural and
 stylistic elements and then attempting to replicate them should
-help us grow as writers, provided that those atttempts do not appear
+help us grow as writers, provided that those attempts do not appear
 forced.
 
 What pieces can I choose between?  That's more complicated than it
@@ -111,10 +104,27 @@ three, or perhaps the set we were to talk about on the 11th.  What
 did I choose?  Stay tuned for tomorrow's musing, when I write myself
 an assignment.
 
+I'm also finding it hard not to include a page or more of questions
+along with my manuscript.  I have five potential titles.  Which do
+you think is best?  Or do you have another suggestion?  What do you
+see as the point of this piece?  I did not intend to link Zoe
+Leonard's _I want a president_ to President Kington.  However, I
+mention Kington twice in the piece.  Is it okay?  Have I gone
+overboard in the paragraph that I've lifted from the psyche?  How
+should I structure this group of sentences to achieve the right
+rhythm?  I want to ask.
+
+But I guess that's what the workshop and the class are for.  While
+I won't get to ask questions in the workshop, except for one at the
+end, I should trust my colleagues to raise appropriate criticisms.
+More importantly, at some point I need to be able to trust myself.
+At the same time, I should acknowledge that writing is a collaborative
+process; it's worth getting feedback from others.
+
 ---
 
 I turned in my manuscript today.  I look forward to hearing from my
-colleagues.  I just hope I remember to wear clothes.
+colleagues in class.  I just hope I remember to wear clothes.
 
 ---
 
