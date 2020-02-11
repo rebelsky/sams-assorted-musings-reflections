@@ -2757,6 +2757,10 @@ Grinnell.
 
 > I am not a College spokesmodel.
 
+[Trend lines](trend-lines-2020-02-10) (Musing #1014)
+
+> Two billion is less than you think.
+
 Registration and Related Topics
 -------------------------------
 

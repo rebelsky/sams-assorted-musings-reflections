@@ -1,11 +1,11 @@
 ---
-title: Long-term projections
-number: 
+title: Trend lines
+number: 1014
 tags: [Grinnell](index-grinnell)
-blurb: Doing the math on the back of an envelope, or something like that.
-version: 0.2
-released: 
-current: 2020-02-09
+blurb: Two billion is less than you think.
+version: 1.0
+released: 2020-02-09 
+current: 
 ---
 Grinnell has something like a two-billion-dollar endowment.  With an
 endowment that large, do we really need donations?  That's something
@@ -33,8 +33,8 @@ higher rates will be difficult in the future, particularly if we adjust
 for the upcoming downturn.
 
 What other assumptions should I make?  Let's assume that our current
-budget is $100,000,000 per year, that we need the endowment to cover
-55% of the budget, and that the budget grows at 3% annually.  That
+budget is $140,000,000 per year, that we need the endowment to cover
+55% of the budget, and that the budget grows at 5% annually [3].  That
 last number may be a bit conservative; most of our expenses are
 related to personnel, and things like health care grow at a much
 higher rate.  Are the numbers themselves reasonable?  Our 2018
@@ -42,27 +42,63 @@ budget was about $130,000,000 and the endowment paid a little less
 than 57%.  It's a starting point.  I'll also assume that we have
 $100,000,000 in reserve for the downturn.  That's probably a bit high.
 
-It's spreadsheet time!  I'll create mine, you can create your own.
+It's spreadsheet time!  I'll create mine, you can create your own [4].
+Here's the basic setup I ended up with, once I realized that I wanted
+a general form.
 
-In mine, I find that in year 20, the expected contribution from the
-endowment exceeds the money available from the payout.  In particular,
-I have the endowment at $2,440,380,080, the payout at $97,615,203,
-the budget at $180,611,123, and the amount needed at $180,611,123.
-Fortunately, by that time the reserve has grown to $826,884,019.  The
-joy of compound interest!  If I trust my formulae, and perhaps I should
-not, it takes until year 60 for the reserve to run out.
+<table class="table">
+ <tr>
+  <th></th>
+  <th>A</th>
+  <th>B</th>
+  <th>C</th>
+  <th>D</th>
+  <th>E</th>
+  <th>F</th>
+  <th>G</th>
+  <th>H</th>
+ </tr>
+ <tr>
+  <th>Row</th>
+  <th>Year</th>
+  <th>Endowment</th>
+  <th>Interest</th>
+  <th>Payout</th>
+  <th>Budget</th>
+  <th>From Endowment</th>
+  <th>To Reserve</th>
+  <th>Reserve</th>
+ </tr>
+ <tr>
+  <td>1</td>
+  <td>0</td>
+  <td><code>=INIT_ENDOW</code></td>
+  <td><code>=B1*INTEREST</code></td>
+  <td><code>=B1*PAYOUT</code></td>
+  <td><code>=INIT_BUDGET</code></td>
+  <td><code>=E1*ENDOW_PERC</code></td>
+  <td><code>=C1-F1</code></td>
+  <td><code>=INIT_RESERVE+G1</td>
+ </tr>
+ <tr>
+  <td>2</td>
+  <td>1</td>
+  <td><code>=B1+C1-D1</code></td>
+  <td><code>=B2*INTEREST</code></td>
+  <td><code>=B2*PAYOUT</code></td>
+  <td><code>=E1*(1+BUDG_GROW)</code></td>
+  <td><code>=E2*ENDOW_PERC</code></td>
+  <td><code>=C2-F2</code></td>
+  <td><code>=H1*(1+INTEREST)+G2</td>
+ </tr>
+</table>
 
-Maybe I need slightly more conservative estimates.  I see from a
-recent budget presentation that our expenses have grown by about
-5.44% per year.  I suppose the 3% was a bit optimistic.  Let's
-assume we are a bit more conservative, and cut it to 5%.  The
-starting budget should really be $140,000,000.  Time to find a new
-envelope!  More precisely, it's time to update the spreadsheet.  I
-should also generalize it, so it's easier to update.
+The remaining rows are appropriate variations of row 2.
 
-Ouch!  That's much more painful.  The expected contribution from the
-endowment exceeds the payout in year one.  And we've overdrawn the
-reserves by year 10.  That's scary.  Here's my table.  YMMV [3].
+When I plug in the assumptions from above, I see that the expected
+contribution from the endowment exceeds the payout in year one.
+And we've overdrawn the reserves by year 10.  That's scary.  Here's
+my table.  As I said, YMMV [5].
 
 <table class="table">
  <tr>
@@ -187,64 +223,13 @@ reserves by year 10.  That's scary.  Here's my table.  YMMV [3].
  </tr>
 </table>
 
-How did I compute that?  Here's an approximation of the formulae
-in my spreadsheet.
-
-<table class="table">
- <tr>
-  <th></th>
-  <th>A</th>
-  <th>B</th>
-  <th>C</th>
-  <th>D</th>
-  <th>E</th>
-  <th>F</th>
-  <th>G</th>
-  <th>H</th>
- </tr>
- <tr>
-  <th>Row</th>
-  <th>Year</th>
-  <th>Endowment</th>
-  <th>Interest</th>
-  <th>Payout</th>
-  <th>Budget</th>
-  <th>From Endowment</th>
-  <th>To Reserve</th>
-  <th>Reserve</th>
- </tr>
- <tr>
-  <td>1</td>
-  <td>0</td>
-  <td><code>=INIT_ENDOW</code></td>
-  <td><code>=B1*INTEREST</code></td>
-  <td><code>=B1*PAYOUT</code></td>
-  <td><code>=INIT_BUDGET</code></td>
-  <td><code>=E1*ENDOW_PERC</code></td>
-  <td><code>=C1-F1</code></td>
-  <td><code>=INIT_RESERVE+G1</td>
- </tr>
- <tr>
-  <td>2</td>
-  <td>1</td>
-  <td><code>=B1+C1-D1</code></td>
-  <td><code>=B2*INTEREST</code></td>
-  <td><code>=B2*PAYOUT</code></td>
-  <td><code>=E1*(1+BUDG_GROW)</code></td>
-  <td><code>=E2*ENDOW_PERC</code></td>
-  <td><code>=C2-F2</code></td>
-  <td><code>=H1*(1+INTEREST)+G2</td>
- </tr>
-</table>
-
-The remaining rows are appropriate variations of row 2.
-
-Now that I have the spreadsheet generalized, I can try other things.
-What if we earn 6% each year, rather than 5%?  We make it all the
-way to year 12 before the reserve runs out.  What if we earn 6% and
-cut the percent of the budget from the endowment from 55% to 50%?
-We make it to year 17.  But how can we use less from the endowment?
-I know!  Alumni could donate!
+Since I have a general spreadsheet, I can try other things or, as
+Mike Latham used to say, adjust some levers.  What fun!  What if
+we earn 6% each year, rather than 5%?  We make it all the way to
+year 12 before the reserve runs out.  What if we earn 6% and cut
+the percent of the budget from the endowment from 55% to 50%?  We
+make it to year 17.  But how can we use less from the endowment?
+I know!  Alumni (and others) could donate!
 
 What if we stuck with the 5% and the 55%, but managed to cut the
 budget growth to 4%?  We overspend in year 12.  What if we also
@@ -252,28 +237,30 @@ increase the payout rate to 4.5%?  Year 16.
 
 Note that once we run out of the reserve, at least in my model, we'll
 need to start taking money from the core endowment.  Under the original
-model, that means that the endowment is down to $0 in about year 32.
-If I were a Trustee, I'd find that scary.
+model, that means that the endowment would be down to $0 in about
+year 28.  If I were a Trustee, I'd find that scary.
 
 Is there a solution to all of this?  It seems like the obvious ones
 are (a) earn a higher interest rate, (b) cut expenses, (c) decrease
 the percentage of the budget that comes from the endowment, and (d)
 increase the endowment.  I don't think we have control over (a).
 Choosing (b) means that we'll gradually decrease the quality of our
-program.  That leaves (c) and (d).  There are two ways to decrease
-the percentage of the budget that comes from the endowment.  We
-could change the distribution of students, bringing in more full-pay
-students and fewer high-need students.  But that goes against our
-principles.  Or we could increase the amount we get from donations.
-What about (d)?  The primary way to increase the endowment is through
-donations.
+program, at least if we cut expenses significantly.  That leaves
+(c) and (d).  There are two ways to decrease the percentage of the
+budget that comes from the endowment.  We could change the distribution
+of students, bringing in more full-pay students and fewer high-need
+students.  But that goes against our principles.  Or we could
+increase the amount we get from donations.  What about (d)?  The
+primary way to increase the endowment is through donations.
 
 Wow.  I guess even with a $2,000,000,000 endowment, we really need
-donations.  So please donate!
+donations.
+
+Please donate!
 
 ---
 
-**_Postscript_**: Thanks to Eldest, who I hope will check my work.
+**_Postscript_**: Thanks to Eldest, who helped check my work.
 
 ---
 
@@ -282,4 +269,9 @@ donations.  So please donate!
 [2] Given how I've heard fundraising worked at the College during
 that time, it seems that no one thought so.
 
-[3] Your Money May Vary, or something like that.
+[3] The notes I have from Kate Walker's last presentation suggest that
+we've grown at about 5.44% per year.
+
+[4] Or you can grab [my Excel spreadsheet](files/CollegeBudgetTrends.xlsx)
+
+[5] Your Money May Vary, or something like that.
