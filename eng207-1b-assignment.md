@@ -35,23 +35,23 @@ I got to choose between the following models:
 * Mukhopadhyay
 * Martone
 
-Which did I choose?  I ended up debating between the pieces from
-the first day of class, either the Ehrlich piece, which we discussed,
-and the Edward Abbey piece, which we did not.  The Ehrlich was a
-bit more lyrical and, while I did not need to replicate all that
-lyricism, I ended finding more that I liked (and thought I could
-replicate) in the Abbey piece.  I did want to borrow Ehrlich's use
-of multiple definitions of a word, but there was more in the Abbey
-that resonated.  What about the Kincaid piece?  The Kinkaid piece,
-while wonderful, was also painful, and I thought I'd do myself and
-Kincaid a disservice by trying to replicate that tone.
+Which did I choose?  I ended up debating between two pieces from
+the first day of this segement, either the Ehrlich piece, which we
+discussed, and the Edward Abbey piece, which we did not.  The Ehrlich
+was a bit more lyrical and, while I did not need to replicate all
+that lyricism, I ended finding more that I liked (and thought I
+could replicate) in the Abbey piece.  I did want to borrow Ehrlich's
+use of multiple definitions of a word, but there was more in the
+Abbey that resonated.  What about the Kincaid piece?  The Kinkaid
+piece, while wonderful, was also painful, and I thought I'd do
+myself and Kincaid a disservice by trying to replicate that tone.
 
 Here's the assignment I wrote for myself.  Implicit in the assignment
 is "include these seven forms".
 
 ---
 
-Based on Edward Abbey’s “Havasu”, from _Desert Solitaire_, reprinted in _Contemporary Creative Nonfiction_, The Art of Truth, Roorbach (ed.), pp. 424–428.
+Based on Edward Abbey’s “Havasu”, from _Desert Solitaire_, reprinted in _Contemporary Creative Nonfiction, The Art of Truth_, Roorbach (ed.), pp. 424–428.
 
 1. Sneak in the lyrics to a popular song by breaking them up.
 
@@ -82,7 +82,7 @@ Based on Edward Abbey’s “Havasu”, from _Desert Solitaire_, reprinted in _C
    > “I had some matches with me, sealed in paraffin (the prudent explorer).” (p. 429)
 
 You probably need to read the whole piece to understand the broader
-context of each of those.
+context of each of those.  I'd recommend it.
 
 ---
 
@@ -104,4 +104,4 @@ Tomorrow, you can see what I wrote.
 thought.  For someone who writes so eloquently about nature, Abbey
 appears to be fairly casual with it.  A friend told me that Abbey
 used to measure distances by the number of beer cans he tossed out
-the car window.
+the car or truck window along the way.
