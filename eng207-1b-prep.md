@@ -1,16 +1,16 @@
 ---
-title: Preparing to be workshopped
-number: 
-tags: [On writing](index-on-writing)
-blurb: My first manuscript for ENG-207.
-version: 0.3
-released: 
-current: 2020-02-11
+title: Workshop prep
+number: 1015
+tags: [Autobiographical](index-autobiographical)
+blurb: My first assignment for ENG-207.
+version: 1.0
+released: 2020-02-11 
+current: 
 ---
 Sitting in the waiting room at the hospital, day after day, unsure
 if things will ever change.   Having an alarm go off fifteen minutes
 before class, realizing that I've forgotten to prepare, or even
-that I was teaching class that day.  Missing my session at a
+that I was teaching a class that day.  Missing my session at a
 conference because I was out with friends and forgot I had
 responsibilities.  Returning to the house on Billings park only to
 find that it hasn't changed, except for an important absent presence.
@@ -24,10 +24,10 @@ writing in a Grinnell writing workshop and coping with my inability
 to go beyond trite beginnings.
 
 My first writing assignment in _The Craft of Creative Nonfiction_
-is due on Tuesday, 11 February 2020.  Why don't I write *our* first
-writing assignment is due then?  Because we workshop pieces, and
-so only a few pieces are due at a time.  In addition, by spreading
-out the due dates, Prof. S is able to get us to write in different
+was due on Tuesday, 11 February 2020.  Why don't I write "*our*
+first writing assignment" was due then?  Because we workshop pieces,
+and so only a few pieces are due at a time.  By spreading out the
+due dates, Prof. Savarese can also get us to write in different
 genres and subgenres.  I'm in group 2B, the first group that is
 tasked to write about travel or place.
 
@@ -56,7 +56,7 @@ criticism and then Professor Savarese would note that he was going
 to say the same thing.  Students brought in sociology, queer and
 feminist theory, and other things I couldn't comprehend. A poet in
 the class paid close attention to language.  And they did so in a
-way that was supportive, rather than undermining.
+way supported their peers, rather than undermined.
 
 I shouldn't have been surprised.  They are, after all, Grinnell
 students.  And I shouldn't have been surprised at the effort that
@@ -66,7 +66,7 @@ choice.
 I put my writing before a public audience each day.  That should make
 me a bit more confident in putting it before this class.  But I put
 my musings before people to share thoughts, not to get comments on
-my writing.  It feels very different.
+my writing.  It feels very different to submit work for workshopping.
 
 You'd also think that a workshop that I described as supportive
 would not be intimidating or frightening.  But I know that my
@@ -81,7 +81,8 @@ this class, I worry about how many I'll get.
 What does a writing assignment look like for this class?  Not like
 I'd expected.  It goes something like this.
 
-> Pick one of the pieces that we've read in this genre or subgenre.
+> Pick one of the model pieces that we've read in this genre or 
+  subgenre.
 
 > Identify some techniques the writer uses in that piece and assign
   yourself to use them in your piece.
@@ -97,7 +98,7 @@ help us grow as writers, provided that those attempts do not appear
 forced.
 
 What pieces can I choose between?  That's more complicated than it
-might seem.  We are reading and discussing about a dozen travel/place
+might seem.  We are reading and discussing a dozen or so travel/place
 pieces.  However, we had only read and discussed three of them by
 the time I started writing [2].  It seemed best to choose among those
 three, or perhaps the set we were to talk about on the 11th.  What
@@ -117,7 +118,7 @@ rhythm?  I want to ask.
 But I guess that's what the workshop and the class are for.  While
 I won't get to ask questions in the workshop, except for one at the
 end, I should trust my colleagues to raise appropriate criticisms.
-More importantly, at some point I need to be able to trust myself.
+More importantly, at some point, I need to be able to trust myself.
 At the same time, I should acknowledge that writing is a collaborative
 process; it's worth getting feedback from others.
 
@@ -141,7 +142,7 @@ steps involved in the rewrite, things like that.  Along with this
 piece, that makes somewhere between eight and ten musings for one
 short piece of nonfiction.  Not bad!
 
-Please let me know when you get bored.
+Let me know when you get bored.
 
 ---
 

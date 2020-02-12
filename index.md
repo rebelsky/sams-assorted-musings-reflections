@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Trend lines](trend-lines-2020-02-10) (Musing #1014)
+[Workshop prep](eng207-1b-prep) (Musing #1015)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

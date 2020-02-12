@@ -461,3 +461,7 @@ Autobiographical essays, more or less
 
 > What did I do this past week?
 
+[Workshop prep](eng207-1b-prep) (Musing #1015)
+
+> My first assignment for ENG-207.
+
