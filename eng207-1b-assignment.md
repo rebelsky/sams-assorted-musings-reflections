@@ -1,15 +1,15 @@
 ---
 title: My first ENG-207 assignment
-number: 
+number: 1016
 tags: [Writing](index-on-writing)
 blurb: Seven points to consider.
-version: 0.1
+version: 0.2
 released: 
 current: 2020-02-11
 ---
 I turned in my first writing assignment for _The Craft of Creative
-Nonfiction_ yesterday.  In case you've forgotten, the general
-framework for assignments is something like the following.
+Nonfiction_ yesterday.  In case you don't know, the general framework
+for assignments in that class is something like the following.
 
 > Pick one of the model pieces that we've read in this genre or subgenre.
 
@@ -20,7 +20,7 @@ framework for assignments is something like the following.
 
 I got to choose between the following models:
 
-* Abbey
+* Edward Abbey's "Havasu"
 * Ehrlich
 * Kincaid
 * Whitehead
@@ -36,15 +36,15 @@ I got to choose between the following models:
 * Martone
 
 Which did I choose?  I ended up debating between the pieces from
-the first day of class, either the ??? piece, which we discussed,
-and the Edward Abbey piece, which we did not discuss.  The ??? was
-a bit more lyrical and, while I did not need to replicate all that
+the first day of class, either the Ehrlich piece, which we discussed,
+and the Edward Abbey piece, which we did not.  The Ehrlich was a
+bit more lyrical and, while I did not need to replicate all that
 lyricism, I ended finding more that I liked (and thought I could
-replicate) in the Abbey piece.  I did want to borrow ???'s use of
-multiple definitions of a word, but there was more in the Abbey.
-What about the Kincaid piece?  The Kinkaid piece, while wonderful,
-was also painful, and I thought I'd do myself and Kincaid a disservice 
-by trying to replicate that tone.
+replicate) in the Abbey piece.  I did want to borrow Ehrlich's use
+of multiple definitions of a word, but there was more in the Abbey
+that resonated.  What about the Kincaid piece?  The Kinkaid piece,
+while wonderful, was also painful, and I thought I'd do myself and
+Kincaid a disservice by trying to replicate that tone.
 
 Here's the assignment I wrote for myself.  Implicit in the assignment
 is "include these seven forms".
@@ -90,9 +90,11 @@ Now that I read it in this form, I wonder if I should have stuck
 with those seven issues.  I know I left out a major aspect of the
 Abbey piece, but that seems okay; folks didn't assign themselves
 an object when using the Frank Conroy piece.  I really loved the
-parenthetical, the naturally, and the way he describes Native
+parenthetical, the "naturally", and the way he describes Native
 Americans thinking about him, so it seemed unavoidable to include
 them and, hence, to choose Abbey as my model.
+
+Tomorrow, you can see what I wrote.
 
 ---
 
