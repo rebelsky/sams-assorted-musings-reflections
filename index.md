@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Workshop prep](eng207-1b-prep) (Musing #1015)
+[My first ENG-207 assignment](eng207-1b-assignment) (Musing #1016)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

@@ -1318,3 +1318,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [A response to an angry alum](angry-alumni-2020-02-09) (Musing #1013)  
 [Trend lines](trend-lines-2020-02-10) (Musing #1014)  
 [Workshop prep](eng207-1b-prep) (Musing #1015)  
+[My first ENG-207 assignment](eng207-1b-assignment) (Musing #1016)  

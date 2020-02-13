@@ -135,6 +135,10 @@ Essays on writing, or at least on writing my musings
 
 > So few!
 
+[My first ENG-207 assignment](eng207-1b-assignment) (Musing #1016)
+
+> Seven points to consider.
+
 On language
 -----------
 
