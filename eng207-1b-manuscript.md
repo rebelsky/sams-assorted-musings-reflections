@@ -3,9 +3,9 @@ title: My first manuscript for ENG-207
 number: 1017
 tags: [Autobiographical](index-autobiographical), long
 blurb: Can you find a thesis?
-version: 1.0
+version: 1.0.1
 released: 2020-02-13
-current: 
+current: 2020-02-13
 ---
 We workshopped three pieces in _The Craft of Creative Nonfiction_
 today.  One was mine.  To give you a similar experience to my peers',
@@ -102,7 +102,7 @@ plastic.  But they do brighten up the place.  Once upon a time, an
 alum, having recalled them, brought me a live plant.  It died within
 the month.  Its corpse remains on the window sill.  Naturally.
 
-An inspirational poster labeled Challenges reminds you of your
+An inspirational poster labeled **Challenges** reminds you of your
 high-school guidance counselor’s office.  Surely college faculty
 would be more sophisticated than that.  Then you read the underlying
 message: "I expected times like this – but I never thought they’d
