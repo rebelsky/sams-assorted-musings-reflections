@@ -465,3 +465,7 @@ Autobiographical essays, more or less
 
 > My first assignment for ENG-207.
 
+[My first manuscript for ENG-207](eng207-1b-manuscript) (Musing #1017)
+
+> Can you find a thesis?
+

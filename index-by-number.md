@@ -1319,3 +1319,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Trend lines](trend-lines-2020-02-10) (Musing #1014)  
 [Workshop prep](eng207-1b-prep) (Musing #1015)  
 [My first ENG-207 assignment](eng207-1b-assignment) (Musing #1016)  
+[My first manuscript for ENG-207](eng207-1b-manuscript) (Musing #1017)  
