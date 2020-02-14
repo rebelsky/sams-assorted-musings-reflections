@@ -424,7 +424,7 @@ walked by while I was looking through the bookstore's discards.  I don't
 think it's appropriate to quote publicly what Kington said to me.
 (Damn you, Ralph.) (That's not what Kington said; that's what I'm
 thinking as I realize that I have to apply some of the ethics of
-nonfiction that Ralph is trying to shove into my head.)  When I
+nonfiction that Ralph is trying to drill into my head.)  When I
 returned later in the day, Security chased me away.
 
 [30] More precisely, I moved to another office, at least for this
