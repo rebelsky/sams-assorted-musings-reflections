@@ -3,9 +3,9 @@ title: Annotating my manuscript
 number: 1018
 tags: [Writing](index-on-writing), longer, end-notable
 blurb: So many opportunities!
-version: 0.1
+version: 0.2
 released: 
-current: 2020-02-13
+current: 2020-02-14
 ---
 Like much of what I write, or think, or say, my manuscript for
 English 207 is riddled with names and ideas that are likely
@@ -27,7 +27,7 @@ skim around, looking only for annotations on parts of interest.
 
 And if you don't want to scroll through, looking for the song, it's
 Jimi Hendrix's version of Bob Dylan's "All Along the Watchtower".
-You can read about lyrics and choice in <a href="#referent64">endnote 64</a>.
+You can read about lyrics and choice in <a href="#referent65">endnote 65</a>.
 
 ---
 
@@ -127,64 +127,64 @@ Bishop Desmond Tutu, "We don’t want our chains made more bearable;
 we want our chains removed."  Perhaps you’ve heard that quote
 already.  Liberated [39].  You also learn that the accompany photograph
 is by Reginald L. Jackson, Ph.D. and is entitled _The Shackle_.  Is
-it appropriate for me to have such a poster?  Have I appropriated?
+it appropriate for me to have such a poster?  Have I appropriated [40]?
 You don’t want to ask such questions.  I notice your puzzlement and
 point you to the plate in the lower-right-hand corner: "Presented
 by Community Change, Inc. to Dr. Freda Rebelsky in appreciation for
-a lifetime commitment to racial justice."  Interesting [40].
+a lifetime commitment to racial justice."  Interesting [41].
 
 You glance back at the table.  Your eye strays to a page of
 hand-written hieroglyphs, seemingly scrawled by a left-handed doctor
 after three consecutive nights of call, failing to notice their pen
-is running out of ink [41].  You decipher some sentences.  The first two
-read: "You enter the office, and query about Klein’s bottle [42].  They
-regard your question, and respond using Magritte’s Pipe [43]."  Your
+is running out of ink [42].  You decipher some sentences.  The first two
+read: "You enter the office, and query about Klein’s bottle [43].  They
+regard your question, and respond using Magritte’s Pipe [44]."  Your
 brain speaks critiques---first quietly, then louder, then
 unbearably---critiques echoing from a small classroom in the northwest
-corner of a cottage on the southeast corner of campus [44], from one or
+corner of a cottage on the southeast corner of campus [45], from one or
 more rooms up the stairs from that classroom, from a seemingly
 comfortable living room down the hall, from a Methodist temple to
-writing [45] promiscuous in its spirituality [46], from a seemingly quiet
-oasis of wisdom deep in the belly of a hog butcher [47], from a metaphorical
+writing [46] promiscuous in its spirituality [47], from a seemingly quiet
+oasis of wisdom deep in the belly of a hog butcher [48], from a metaphorical
 Little Red Schoolhouse in a large lecture hall in a faux-Gothic
-cathedral of knowledge in the pit of that butcher’s belly [48], from a
+cathedral of knowledge in the pit of that butcher’s belly [49], from a
 desk or small round table with but two or three people gathered
-around [49].
+around [50].
 
 > Too much symmetry makes this piece seem like it’s written by a
-computer.  Know your audience [50].  Explain; not everyone will understand
+computer.  Know your audience [51].  Explain; not everyone will understand
 your terms.  Vary your sentence length.  Vary your sentence structure.
-Eschew obfuscation [51].  This piece is sophomoric, perhaps even puerile.
-Ambiguity [52]!  Don’t feel compelled to use the second person just
-because that’s from the most recent piece you read [53].  Fewer adverbs!
+Eschew obfuscation [52].  This piece is sophomoric, perhaps even puerile.
+Ambiguity [53]!  Don’t feel compelled to use the second person just
+because that’s from the most recent piece you read [54].  Fewer adverbs!
 Infuse your objects with meaning while acknowledging their
-provisionality.  Don’t feel like you have to fit everything in [54].
+provisionality.  Don’t feel like you have to fit everything in [55].
 Ambiguity!  My two-year-old daughter, in the crib, could write
-better than this [55].  Don’t use the word "interesting" [56].  Know your
-genre; place is not memoir [57].  There are at least twenty basic sentence
-structures; learn more than one [58].  Even competent writers struggle
-to make meta-writing seem natural [59].  Thank you for this piece, it
+better than this [56].  Don’t use the word "interesting" [57].  Know your
+genre; place is not memoir [58].  There are at least twenty basic sentence
+structures; learn more than one [59].  Even competent writers struggle
+to make meta-writing seem natural [60].  Thank you for this piece, it
 will serve as a useful example of habits other students should
-avoid [60].  Ambiguity! [61]
+avoid [61].  Ambiguity! [62]
 
 You ignore the voices.  You ignore the voices.  You ignore the
 voices, but they insist on being heard, raising new points, finding
 additional flaws, encouraging the author, encouraging you to ignore
 the obvious power dynamic in the room and share their words with
-me [62].  You grab a fidget from the table to quiet the voices lest you
+me [63].  You grab a fidget from the table to quiet the voices lest you
 speak their truths.  They insist that you address at least one of
 the critiques, at least to yourself, before they fade.
 
 "You enter ... They regard."  "They enter ... I regard."  "I enter ...
 You regard."  "Phil enters ... Prof. R regards."  "Student enters ...
 Professor regards."  "Ashley enters ... I regard."  "Professor enters
-... Student regards."  [63] The combinations are nearly endless.
+... Student regards."  [64] The combinations are nearly endless.
 
-You settle on "You" and "I" [64] for reasons you enumerate.  That quiets
+You settle on "You" and "I" [65] for reasons you enumerate.  That quiets
 the voices, at least for a time.  But why haven’t I done the same?
 Unlike the president, who you’ve heard avoided writing courses in
-his B.S., M.D., M.B.A., and Ph.D. [65] (so many letters!), I seem to
-embrace writing [66].  I must hear similar voices.  We’ve been through
+his B.S., M.D., M.B.A., and Ph.D. [66] (so many letters!), I seem to
+embrace writing [67].  I must hear similar voices.  We’ve been through
 that, that experience of detailed critiques.  You’re tempted to
 suggest changes.  But this is not our fate.  The power differential
 is too great; comments seem too risky.  You search for something
@@ -192,20 +192,20 @@ else to say.  You consider the volumes around you.
 
 Have I read them all?  I’ve finished a few, perused parts of many
 more, rely on the rest as references, save some that serve to support
-students [67].  _From Barbie to Mortal Combat: Gender and Computer Games_
-[68]?  That’s there because many of my students want to write about
+students [68].  _From Barbie to Mortal Combat: Gender and Computer Games_
+[69]?  That’s there because many of my students want to write about
 computer games and I know it serves as a good resource.  Or, more
 precisely, it once served as a good resource; gender and gaming has
-changed significantly in the past decade [69].  A biography of Hallie
-Flanagan [70]?  Most students don’t know that Grinnell’s Flanagan theatre
+changed significantly in the past decade [70].  A biography of Hallie
+Flanagan [71]?  Most students don’t know that Grinnell’s Flanagan theatre
 was named after her.  I appreciate a quote from Harry Hopkins near
 the beginning, "President Main taught us the value of the arts, and
-the WPA will reflect that value."  That’s what made America great [71].
-_Sol LeWitt: A Retrospective_ [72]?  I am enamored of his concepts, want
+the WPA will reflect that value."  That’s what made America great [72].
+_Sol LeWitt: A Retrospective_ [73]?  I am enamored of his concepts, want
 to live within those conceptual walls.  _Experiments in Java_?  No,
 it’s not an anthropology text; it’s a CS lab manual I wrote in the
-distant past [73].  I wish my publisher had chosen cover art that embraced
-that ambiguity [74].
+distant past [74].  I wish my publisher had chosen cover art that embraced
+that ambiguity [75].
 
 You page through the lab manual.  Computers are precise.  Computers
 are organized.  Computers expect humans to be organized.  Zeros and
@@ -214,46 +214,44 @@ subtlety or disorder.  How to explain the space which faces you?
 
 Some peers have told you that they’ve heard me say that I’ve tried
 to make my office look like the typical dorm room so that students
-feel at home [75].  You ask anyway.  I might tell you that it’s an art
+feel at home [76].  You ask anyway.  I might tell you that it’s an art
 installation, in progress, entitled _Entropy_, for reasons that I
-consider obvious [76].  Or perhaps I’ll say it’s a "scientific study,
-in progress"; is there really a difference [77]?  Speaking of studies,
-I might pull one out from a stack (always organized [78]) and show you
+consider obvious [77].  Or perhaps I’ll say it’s a "scientific study,
+in progress"; is there really a difference [78]?  Speaking of studies,
+I might pull one out from a stack (always organized [79]) and show you
 that researchers discovered that some people can achieve clarity
 only by filling their lives with distractions; sensory overload
-forces them to focus [79].  Are you convinced?  Perhaps not.  You’ve
+forces them to focus [80].  Are you convinced?  Perhaps not.  You’ve
 watched enough TV to know that there’s a more obvious answer:
 _Hoarder_.  You don’t know that buried deep---somewhere amidst the
 piles of papers, or perhaps tucked in one of the books or under a
 tchotchke---is an article that says that students become more
 comfortable when they can find an object in the room to fixate on,
-ask about, or use to initiate an extended conversation [80].
+ask about, or use to initiate an extended conversation [81].
 
 Now you’re ready to discuss the exam.
 
 ---
 
-Since I think the title shapes how people read a piece, at the end
-of class, I distributed a questionaire for my fellow students to
-indicate a title preference.  I'm sharing it with you, too.  I've added
-one title suggested in class [2].
+I included the following when I shared the work yesterday.  It seems that
+I should also annotate the titles.
 
 _Which of the following titles would you suggest?  Please select one or more._
 
-* A remarkable lack of self-control
+* A remarkable lack of self-control [82]
 * Ambiguity
-* Apophenia (The experience of seeing patterns or connections in random or meaningless data)
-* CW: Academic feedback
-* Fredric Brown’s only mainstream novel
+* Apophenia (The experience of seeing patterns or connections in random or meaningless data) [83]
+* CW: Academic feedback [84]
+* Fredric Brown’s only mainstream novel [85]
 * Hoarder (I would drop the italicized word from the last page)
-* June 17, 1882
+* June 17, 1882 [86]
 * Lineage
 * Office hours
-* Privilege
+* Privilege [[87]
 * Student/Professor
 * Thank you for your feedback
-* Unclear!
-* Welcome to my lair
+* Unclear! [88]
+* Welcome to my lair [89]
 * Other:
 
 ---
@@ -456,15 +454,18 @@ admit that I struggled to find something better.
 
 [39] This was my other attempt to achieve #5 on my assignment.
 
-[40] Yes, I have intentionally used a word that most faculty would tell
+[40] I thought that was a good pair of questions, both conceptually
+and in terms of the way the writing works.
+
+[41] Yes, I have intentionally used a word that most faculty would tell
 you to avoid.  I address the issue in a subsequent paragraph.  Plus, it
 falls into the strategy of "Include a glaring problem for people to identify
 so that they don't notice the other problems."  That strategy failed.
 
-[41] I had fun trying to write this sentence.  I wonder whether I should
+[42] I had fun trying to write this sentence.  I wonder whether I should
 have gone further.
 
-[42] A [Klein bottle](https://en.wikipedia.org/wiki/Klein_bottle)
+[43] A [Klein bottle](https://en.wikipedia.org/wiki/Klein_bottle)
 is a higher-dimensional analog to a [Möbius
 strip](https://en.wikipedia.org/wiki/M%C3%B6bius_strip).  Just as
 a Möbius strip has only one side, a Klein bottle is a container,
@@ -474,7 +475,7 @@ There's an etched-chalkboard rendering of a Klein bottle, entitled
 of Noyce.  I was part of the team that selected the artist.  I like
 the whole series.
 
-[43] René Magritte's [_The Treachery of Images_](https://en.wikipedia.org/wiki/The_Treachery_of_Images) is a famous painting of a pipe with the words
+[44] René Magritte's [_The Treachery of Images_](https://en.wikipedia.org/wiki/The_Treachery_of_Images) is a famous painting of a pipe with the words
 "_Ceci n'est pas une pipe._" underneath.  There is also an etched-chalkboard
 rendering of that painting, labeled "Magritte's pipe", next to the
 Klein image.  I appreciate the implied "This is not a Klein bottle",
@@ -484,87 +485,87 @@ are three-dimensional or four-dimensional, but feel like you need a
 fourth dimension to create them, just as you need a third dimension to
 put the twist in a Möbius strip.)
 
-[44] [Mears Cottage](https://en.wikipedia.org/wiki/Mears_Cottage) is at
+[45] [Mears Cottage](https://en.wikipedia.org/wiki/Mears_Cottage) is at
 the southeast corner of Grinnell's campus.  It is currently home to our
 departments of English and History, although they will soon be evicted.
 I'm taking ENG-207 in the room in its northwest corner.
 
-[45] My instructor went to [Wesleyan](https://www.wesleyan.edu/).
+[46] My instructor went to [Wesleyan](https://www.wesleyan.edu/).
 I'm pretty sure it's named after John Wesley, founder of Methodism.
 I wanted to find a way to imply that it was the Connecticut Wesleyan,
 but failed.  Perhaps I should have used "Middle" or "Midland" or
 something.
 
-[46] [Annie Dillard](http://www.anniedillard.com/) taught creative
+[47] [Annie Dillard](http://www.anniedillard.com/) taught creative
 writing at Wesleyan.  She also wrote [the first piece we read for
 class](reading-for-ralph-2020-01-20).  Some online biography I found
 said that she describes herself as "spiritually promiscuous".
 
-[47] Carl Sandburg described Chicago as "Hog Butcher to the World".
+[48] Carl Sandburg described Chicago as "Hog Butcher to the World".
 Grinnell partners with the Associated Colleges of the Midwest for a
 writing program at the Newbury library in Chicago each fall.
 
-[48] I took "Graduate and Professional Writing" at the University of
+[49] I took "Graduate and Professional Writing" at the University of
 Chicago.  The course had the nickname "Little Red Schoolhouse".
 
-[49] I wonder whether my subconscious was trying for "Where two or three
+[50] I wonder whether my subconscious was trying for "Where two or three
 are gathered in my name."
 
-[50] I used to claim that this was the one common thing that all Grinnell
+[51] I used to claim that this was the one common thing that all Grinnell
 students learned, since we should all teach it in Tutorial.  But I've
 since been told that not everyone emphasizes the concept.
 
-[51] As I've said, I have difficulty restraining myself.  This was a
+[52] As I've said, I have difficulty restraining myself.  This was a
 "meme", of sorts, long before we identified them as memes.
 
-[52] I've been taught that ambiguity is central to creative nonfiction.
+[53] I've been taught that ambiguity is central to creative nonfiction.
 I recall an instructor saying "Ambiguity.  Ambiguity.  Ambiguity."  I
 added the emphasis.
 
-[53] That's me speaking to myself.  I'd just read Jamaica Kincaid's 
+[54] That's me speaking to myself.  I'd just read Jamaica Kincaid's 
 "A Small Place".
 
-[54] Almost certainly me talking to myself.  Also Gerald Mast commenting
+[55] Almost certainly me talking to myself.  Also Gerald Mast commenting
 on my typical essay, and my own reaction to many Tutorial papers.
 
-[55] Students used to claim that one of my colleagues in Math/CS had
+[56] Students used to claim that one of my colleagues in Math/CS had
 been known to write something similar on their exams: "When my daughter
 was two, she could have solved this problem better than you did."  When 
 I mentioned this to someone else in the department, they said "Have
 you met his daughter?  It's probably true."
 
-[56] One of the maxims I provide to my students.  A chance to have a joke
+[57] One of the maxims I provide to my students.  A chance to have a joke
 at my own expense.
 
-[57] While the piece claims to be about my office, it is almost certainly
+[58] While the piece claims to be about my office, it is almost certainly
 about me.  On the other hand, we've learned that most creative nonfiction
 bridges genres and subgenres.
 
-[58] See _The Art of Styling Sentences_.  One of my readers who
+[59] See _The Art of Styling Sentences_.  One of my readers who
 spends most of their time as a faculty member in English shared
 this critique with me, although they did give me credit for using
 two different structures, and not just one.  Expect a musing on that
 topic in the future.
 
-[59] I'm writing about meta-writing.  Does that make this meta-meta-writing?
+[60] I'm writing about meta-writing.  Does that make this meta-meta-writing?
 
-[60] I have never heard nor given this comment.  But doesn't it feel like
+[61] I have never heard nor given this comment.  But doesn't it feel like
 the kind of thing you'd expect some curmudgeonly old faculty member to
 write on your work?
 
-[61] In case it wasn't clear, this whole paragraph was item #4 on
+[62] In case it wasn't clear, this whole paragraph was item #4 on
 [my assignment](eng207-1b-assignment): Reverse a trope or role.  Rather
 than me critiqueing the student's work, the student is critiqueing 
 my work.  Or perhaps even my critique of their work.
 
-[62] Item #2 on [my assignment](eng207-1b-assignment): Rule of
+[63] Item #2 on [my assignment](eng207-1b-assignment): Rule of
 three, using two identical short sentences and then expanding in
 the third.
 
-[63] While I did not try all of these combinations, I did explore how
+[64] While I did not try all of these combinations, I did explore how
 to identify the two characters in the piece.
 
-[64] Not only is this the choice I made, it's also the start of the song
+[65] Not only is this the choice I made, it's also the start of the song
 lyric.  "You and I, we've been through that, but this is not our fate".
 It comes from Jimi Hendrix's performance of Bob Dylan's "All Along the
 Watchtower".  I appreciate Dylan's lyricism, even though I don't attempt
@@ -573,29 +574,29 @@ associate Hendrix with feedback.  Lines near the beginning also seem
 to resonate with the piece: "There's so much confusion; I can't get no
 relief."
 
-[65] Yes, Kington posseses all four degrees.
+[66] Yes, Kington posseses all four degrees.
 
-[66] In retrospect, this feels nastier than I had intended.
+[67] In retrospect, this feels nastier than I had intended.
 
-[67] I'm not sure that anyone commented on the alliteration in this
+[68] I'm not sure that anyone commented on the alliteration in this
 sentence.  I worried that it was yet another instance of my failure
 of restraint, but perhaps it was okay.
 
-[68] Yes, that's a real book title.  Many of my peer reviewers were not sure.  
+[69] Yes, that's a real book title.  Many of my peer reviewers were not sure.  
 I can't believe I misspelled "Mortal Kombat".  
 There's also a sequel, [_Beyond Barbie and Mortal Kombat: New Perspectives
 on Gender and Gaming_](https://www.amazon.com/Beyond-Barbie-Mortal-Kombat-Perspectives/dp/0262113198/).
 
-[69] I need a fact checker.  _From Barbie to Mortal Kombat_ was released
+[70] I need a fact checker.  _From Barbie to Mortal Kombat_ was released
 in 2000.  It's *two* decades old.  Even its sequel was released more than
 a decade ago.  At least I'm correct that the dynamic and understanding
 have changed.  I wonder what I should have on my shelf now.
 
-[70] Joanne Bentley's [_Hallie Flanagan: A Life in the Theatre_](https://www.amazon.com/Hallie-Flanagan-Theatre-Joanne-Bentley/dp/0394570413/).
+[71] Joanne Bentley's [_Hallie Flanagan: A Life in the Theatre_](https://www.amazon.com/Hallie-Flanagan-Theatre-Joanne-Bentley/dp/0394570413/).
 
-[71] I'm not sure if my political commentary succeeded.
+[72] I'm not sure if my political commentary succeeded.
 
-[72] [Sol LeWitt](https://en.wikipedia.org/wiki/Sol_LeWitt) is a
+[73] [Sol LeWitt](https://en.wikipedia.org/wiki/Sol_LeWitt) is a
 conceptual artist known, among other things, for his sequence of
 Wall Drawings.  The work is actually the instructions for the
 draftspeople to make on the wall, rather than what is on the wall.
@@ -604,33 +605,56 @@ and loved the opportunity to see [a large retrospective ef
 it](https://massmoca.org/sol-lewitt/) at [the Massachusetts Museum
 of Contemporary Art](https://massmoca.org).
 
-[73] I would not recommend that you purchase a copy.  It's outdated
+[74] I would not recommend that you purchase a copy.  It's outdated
 and not completely accurate.
 
-[74] That's true.  I loved the ambiguity of the title.
+[75] That's true.  I loved the ambiguity of the title.
 
-[75] That is my most common statement to students entering my office
+[76] That is my most common statement to students entering my office
 and looking around.
 
-[76] I have also said that about my office.  I appreciate how things
+[77] I have also said that about my office.  I appreciate how things
 just seem to fall from the stacks I make.
 
-[77] Would you really expect someone in a "science" department to
+[78] Would you really expect someone in a "science" department to
 say that art and science are the same.  This was my attempt to
 achieve item #6 of [the assignment](eng207-1b-assignment): "Violate
 the reader’s expectations of one of the characters'.
 
-[78] I probably shouldn't be fitting more than one technique in
+[79] I probably shouldn't be fitting more than one technique in
 this late in the piece, but Abbey's is also near the end.  Item #7:
 "Add an appropriate, but somewhat sarcastic, parenthetical comment
 about something unexpected you’ve just revealed about a character."
 
-[79] I have no idea whether or not there's a study about this issue but
+[80] I have no idea whether or not there's a study about this issue but
 I recall reading it somewhere.  In any case, it's how I experience the
 world.  I work better in chaos, which I generally tune out.  I do better
 with mess than emptiness and with music than silence.
 
-[80] I do not own that article.  It's another factoid that I've been
+[81] I do not own that article.  It's another factoid that I've been
 told, but can't prove.  Still, it feels right and it's a nice sentiment.
 And we can stretch the truth a bit, right?  If not, I can always write
 the article, perhaps even post it to Wikipedia and then print it out.
+
+[82] That describes my failure to limit my choices to insert things in
+the work.
+
+[83] I learned about the term in reading about "All Along the Watchtower".
+I also learned that there's a story about the song in which Hendrix asked
+Dylan how Dylan felt about the new arrangement of his song, and Dylan
+said something like "It's *your* song; I just wrote it."
+
+[84] "CW" is "Content Warning"
+
+[85] Fredric Brown wrote genre fiction, mostly mystery and SF/fantasy.
+But he did write one novel intended for the mainstream.  It's called 
+"The Office".
+
+[86] The date of the cyclone that tore through Grinnell.
+
+[87] The description of what I own and how I acquired it, as well as
+my ability to own that much stuff, reminds me of my privilege.
+
+[88] I had to sneak in one more comment from the instructor.
+
+[89] Suggested by my peers.
