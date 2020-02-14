@@ -3,7 +3,7 @@ title: My first manuscript for ENG-207
 number: 1017
 tags: [Autobiographical](index-autobiographical), long
 blurb: Can you find a thesis?
-version: 1.0.1
+version: 1.0.2
 released: 2020-02-13
 current: 2020-02-13
 ---
@@ -244,6 +244,13 @@ _Which of the following titles would you suggest?  Please select one or more._
 * Unclear!
 * Welcome to my lair
 * Other:
+
+---
+
+**_Postscript_**: Can you identify the song lyrics?  I didn't expect
+the students to, but only one of my same-age colleagues did.  When
+we last listened to a version of this song, Michelle didn't know
+it.
 
 ---
 
