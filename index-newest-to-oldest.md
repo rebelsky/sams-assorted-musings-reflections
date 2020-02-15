@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 1011-1020
 
+[Annotating myself](eng207-1b-annotated) (Musing #1018)  
 [My first manuscript for ENG-207](eng207-1b-manuscript) (Musing #1017)  
 [My first ENG-207 assignment](eng207-1b-assignment) (Musing #1016)  
 [Workshop prep](eng207-1b-prep) (Musing #1015)  

@@ -1320,3 +1320,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Workshop prep](eng207-1b-prep) (Musing #1015)  
 [My first ENG-207 assignment](eng207-1b-assignment) (Musing #1016)  
 [My first manuscript for ENG-207](eng207-1b-manuscript) (Musing #1017)  
+[Annotating myself](eng207-1b-annotated) (Musing #1018)  

@@ -469,3 +469,7 @@ Autobiographical essays, more or less
 
 > Can you find a thesis?
 
+[Annotating myself](eng207-1b-annotated) (Musing #1018)
+
+> Or my manuscript, or something like that.
+
