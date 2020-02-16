@@ -473,3 +473,7 @@ Autobiographical essays, more or less
 
 > Or my manuscript, or something like that.
 
+[The end of an era](swim-dive-2020-02-15) (Musing #1019)
+
+> So much time in the sauna.
+
