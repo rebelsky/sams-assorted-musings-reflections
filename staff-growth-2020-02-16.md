@@ -3,7 +3,7 @@ title: Growth in the number of staff
 number: 1020
 tags: [Grinnell](index-grinnell)
 blurb: It's not a simple matter.
-version: 1.0.1
+version: 1.1
 released: 2020-02-16
 current: 
 ---
@@ -178,6 +178,13 @@ disappear from the list of Officers or Key Employees.  It might be
 interesting to track the five highest-paid employees who are not officers
 or "key employees" and see how it changes over the years.  But that's a
 musing for another day [18].
+
+---
+
+**_Postscript_** (added after initial release): A friend reminds
+me that some of the staff additions have come through specific gifts
+to the College or from grants and therefore affect the College's
+budget differently. 
 
 ---
 
