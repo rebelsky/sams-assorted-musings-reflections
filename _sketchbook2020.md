@@ -14,13 +14,21 @@ to) and a list of software that I want to write._
 Tentative sequence of upcoming musings
 --------------------------------------
 
-* End of month
-* Story/Evidence/Perspectives
-* Craft of (somewhat) Creative Nonfiction
-* Games at the Rebelskys' (is this now too late?)
-* Adventures in Web server transitions
-* More Story/Evidence
-* Donating in my name / Donation fantasies (?)
+* Update on Chair of the Faculty
+* The Ralph sequence
+    * Critiquing my essay (eng207-1b-response; still in progress)
+    * Editing my essay (eng207-1B-edits)
+    * A revised version, maybe (eng207-1B-revised)
+    * Preparing to be workshopped, revisited
+* Comfortable structures (comfortable-structures)
+* Rachel Rose
+
+Tentative seqauence of upcoming photos
+--------------------------------------
+
+* Karla?  Of should I wait until next week.
+* Emphasis or redundancy?  Double "No Parking" sign.
+* The marble sculpture 
 
 Software to write
 -----------------
@@ -45,7 +53,7 @@ summarize the contents.
 Written, need minor revisions
 -----------------------------
 
-1. Office Hours and FERPA.
+1. The last man on earth (aka Knock).  (knock-2020-02-xx.md)
 
 1. The joy of code: Concise perl.
 
@@ -54,8 +62,6 @@ Written, need minor revisions
 1. My Apple Watch (my-apple-watch)
 
 1. Composting (composting-2020-02-xx)
-
-1. mailto links. (mailto-2020-02-xx.md)
 
 1. Depression (depression-2019-12-12)
 
@@ -71,30 +77,69 @@ will evolve into "Learning about Lessons", or something like that.
 
 1. Lost to the kerf.  (lost-to-the-kerf.md)
 
+Excerpts from Staff Governance
+------------------------------
+
+1. Staff Tenure.  Chief Diversity Officer.  I had asked at a Faculty
+meeting whether they would be hired with tenure, since I'm pretty sure
+we did that with a prior CDO.  That's a position that needs soem p
+protection so that they can "Speak Truth to Power".  I hear rumors that
+Power is worried about adding another tenured position.  But we hire
+the President with tenure and the Dean with tenure.  Why not the CDO?
+
+1. Improvements to Staff Governance.
+
+1. Rethinking Shared Governance.
+
 Short
 -----
 
+1. Update on Chair of the Faculty.  My family read it in my notes
+as "Chair of Poultry".  New benefits.  Identifying a missing person
+(challenge to readers who are on the Grinnell faculty: What full
+professor, other than Anne and Raynard, was not on the original list?).
+Didn't get nominated.  Vida got elected.  I think she'll do a great
+job.
+
+1. Punch list for the Web server.  (punch-list-2020-xx-xx)
+
+1. Lyricism.  (lyricism-2020-xx-xx.md)
+
+1. Rhizomatic.  (rhizomatic-2020-xx-xx.md)
+
+1. Close reading.  A more extended version of my notes on Ralph's first
+reading.
+
 1. Craft of (not-so) Creative Nonfiction.  Rearranging the Story Musing.
 
-1. Number of majors (need to run this one by Todd).  The other day,
-I was chatting with another faculty member about the distribution
-of majors at the College.  I'd really like to see us return to a
-distribution of about 1/3 Science Majors, 1/3 Humanities majors,
-and 1/3 Social Studies Majors.  But when I said that, they replied
-that some departments wouldn't want to lose majors, and I think
-they were implying my department.  But I'd *love* to lose majors.
-With, say, twenty-five or thirty majors in each class year, it would
-be likely that I'd know all of the majors.  More people showed up
-for things wehn we were smaller (or at least a greater percentage).
-More opportunities for service courses.  Would we be over-staffed,
-given that we have eight FTEs?  Well, we wouldn't be teaching at
-capacity.  But that means we'd have more opportunities for special
-topics classes, for classes for non-majors, for service courses,
-and the like.  Right now, we average about 22 advisees per faculty
-member.  If we dropped to 30 majors per year and continued to teach
-one 13-person Tutorial per year, we'd be down to eleven major advisees
-per faculty member, which is pretty close to the College average.   
-WIth two Tutorials per year, we'd be at the College average.
+1. Number of majors (need to run this one by Todd).  Jim Swartz,
+former Dean of the College and one of the faculty leads on the HSSC
+says that one we'll know the HSSC is successful is that the
+distribution of students will switch from the sciences back towards
+the humanities and social studies.  Now, Jim doesn't think that the
+HSSC will change national trends; it might not even convince folks
+to migrate disciplines at Grinnell.  But it might convince students
+already interested in those areas to come here.  [Maybe that should
+go at the end.] The other day, I was chatting with another faculty
+member about the distribution of majors at the College.  I'd really
+like to see us return to a distribution of about 1/3 Science Majors,
+1/3 Humanities majors, and 1/3 Social Studies Majors.  But when I
+said that, they replied that some departments wouldn't want to lose
+majors, and I think they were implying that my department would not
+like to lose majors.  But I'd *love* to lose majors.  With, say,
+twenty-five or thirty majors in each class year, rather than sixty,
+it would be likely that I'd know all of the majors.  More people
+showed up for things when we were smaller (or at least a greater
+percentage).  More opportunities for service courses.  Would we be
+over-staffed, given that we have eight FTEs?  Well, we certainly
+wouldn't be teaching at capacity.  But that means we'd have more
+opportunities for special topics classes, for classes for non-majors,
+for service courses, and the like.  Right now, we average about 22
+advisees per faculty member.  If we dropped to 30 majors per year
+and continued to teach one 13-person Tutorial per year, we'd be
+down to eleven major advisees per faculty member, which is pretty
+close to the College average.  WIth two Tutorials per year, we'd
+be at the College average.  So yes I'd like to be smaller.
 
 1. Taking notes on paper vs. taking notes on the computer.  The
 latter is much easier to search.  But I feel like I learn beter
@@ -128,6 +173,8 @@ or an aside?  On hand, when they are independent, it feels like they
 are of equal value, and don't need the comma.  I wonder why the conventions
 developed.
 
+1. Online book shopping. (online-book-shopping)
+
 1. Learning from my email.  The other day, USPS noted that they
 would be happy to send me photos of some of my email before I
 received (on the day I was to receive it), something they call
@@ -142,11 +189,6 @@ access to the photos.  Can the police or FBI access them without a warrant?
 [The USPS FAQ](https://faq.usps.com/s/article/Informed-Delivery-Privacy-Security-Concerns) says nothing about that.  [The Wikipedia page](https://en.wikipedia.org/wiki/Informed_Delivery) says that "he Postal Service adheres to the privacy requirements of the Privacy Act established by the federal government which controls when and how the USPS shares personal information and limits the conditions in which that information can be disclosed externally to outside parties.
 But is USPS still a government agency?  It says so [in some places](http://postalnews.com/blog/2015/05/09/postal-myths-2-the-usps-is-not-a-government-agency/)
 
-1. Update on Chair of the Faculty.  My family read it in my notes
-as "Chair of Poultry".  New benefits.  Identifying a missing person
-(challenge to readers who are on the Grinnell faculty: What full
-professor, other than Anne and Raynard, was not on the original list?).
-
 1. Backups.  Drive died.  Got a new one.  How long does it take to
 copy 1 terrabyte using rsync?  About a day.  Why so long?
 
@@ -155,6 +197,8 @@ to have disappeared.
 
 1. Taking up space.  I take up physical space. But I also take up
 ??? space.
+
+1. Faculty house.
 
 1. One hundred words.  (Two musings: One just 100 words.  One the
 longer description.)  See my ENG 207 directory.
@@ -313,11 +357,17 @@ I'd like to make it an art project.  Get a high end camera.  Travel the
 country, from Church to Church, photographying the stations carefully. 
 Posting and organizing.  Allowing others to submit.
 
-1. Van Meter Montster.  Friends posts interesting fact each day.
+1. Van Meter Monster.  Friends posts interesting fact each day.
 <https://www.desmoinesregister.com/story/news/2015/07/01/van-meter-remembers-1903-visit-from-winged-monster/29583469/>
 
 Long
 ----
+
+1. Eliminating merit pay.  Causes hard feelings.  Takes a lot of time.
+Ignores or devalues important achievements (which causes hard feelings):
+Invited addresses at large conferences, grant proposals, funded or not.
+
+1. Red/Black trees.  (Accompanied by an implementation.)
 
 1. Let me tell you a story.
 
@@ -395,14 +445,17 @@ anyone else has looked at the data?  How do we classify courses?
 
 1. Adventures in Racket Autograding.
 
-Excerpts from Staff Governance
-------------------------------
-
-1. Staff Tenure.
-
-1. Improvements to Staff Governance.
-
-1. Rethinking Shared Governance.
+1. On being Jewish at Grinnell.  I've always thought of myself as
+"culturally Jewish", rather than religious.  But my Judaism clearly
+shapes my world view.  Increasingly, I'm finding that identity
+challenged.  In America as a whole, anti-semitism is on the rise.
+Why can't we hire a Rabbi?  Why can't we *keep* a Rabbi once we
+hire them?  Why did we eliminate the position in Jewish studies?
+Broader world.  I understand people are frustrated at Israel's
+treatment of Palastine.  But the extermination and exhile of Jews
+from the neighboring countries or from Europe does not seem to be
+mentioned.    How many Jewish faculty remain?  Don't want to play
+"my suffering is worse than yours".
 
 Unlikely to post
 ----------------
@@ -422,6 +475,8 @@ was that parent thinking?  If you lost a child, even to drugs, would
 you want that information sent out to the whole campus?  I know that I
 wouldn't.
 
+1. Carnegie library.  Who is there right now?  According to [the Grinnell Magazine](http://magazine.grinnell.edu/about/visit/spaces/carnegie-hall), Shakespeare, Dante, Homer, Plato, Michelangelo, Darwin, Goethe, Galileo, Emerson, and Caesar.    Who would you add?  Who are we adding?  Morrison.  Who decided?  I have no idea.  Is Toni Morrison a great writer?  Without doubt.  Are there others who belong as much?  Possibly.
+
 Articles and other readings
 ---------------------------
 
@@ -432,3 +487,4 @@ Grinnellians
 
 1. Kate Walker
 
+1. Sarah Aswell
