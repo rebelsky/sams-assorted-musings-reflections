@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[The end of an era](swim-dive-2020-02-15) (Musing #1019)
+[Growth in the number of staff](staff-growth-2020-02-16) (Musing #1020)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

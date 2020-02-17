@@ -1,13 +1,13 @@
 ---
 title: Growth in the number of staff
-number: 
+number: 1020
 tags: [Grinnell](index-grinnell)
 blurb: It's not a simple matter.
-version: 0.3
-released: 
-current: 2020-02-15
+version: 1.0
+released: 2020-02-16
+current: 
 ---
-Among the things that seems to cause tensions between faculty and
+Among the things that seem to cause tensions between faculty and
 staff, at least from the faculty side, is an enormous growth in the
 number of staff positions during Kingston’s tenure, with very little,
 if any, growth in the number of tenure-line faculty positions.  I’ve
@@ -15,10 +15,10 @@ heard that we added 100 plus staff positions during his tenure.  The
 numbers vary---114, 140, 138---but all of them 
 
 Now, I get as upset as anyone about Kingston’s seeming refusal to
-consider growing the faculty, or even to put new staff positions
-in competition with new faculty positions.  That shouldn't be a
-surprise; I've raised the issue at multiple faculty meetings, in
-meetings with the president, and in my musings.
+consider growing the faculty or even to discuss new faculty positions
+in comparison to new staff positions.  That shouldn't be a surprise;
+I've raised the issue at multiple faculty meetings, in meetings
+with the president, and in my musings and rants.
 
 However, I accept that some significant growth in the number of
 staff was necessary. Let’s consider some reasons.
@@ -40,7 +40,7 @@ has a list, or could easily create a list.  However, that list is not
 public, or not available to me, or something like that.  So I'm just
 going to report on some of those that I know about.
 
-We added some positions in development.  That should be a sensible
+We added some positions in Development.  That should be a sensible
 addition.  A good development officer more than pays for themself in
 the funds they bring in [4].
 
@@ -61,7 +61,7 @@ Anyway, back to CLS.  Jobs are important in this economy (and in
 any economy).  A strong CLS can have an important impact on our
 students.  I also appreciate that CLS helps reduce my workload.
 They know more about jobs than I do and can spend more time on
-advice.  They can run sessions that help our students.  I've definitely
+advice.  They can run sessions that help our students.  I've
 appreciated working with the CLS Community Leader in the Sciences;
 they are someone I appreciate very much.
 
@@ -91,44 +91,47 @@ The CTLA and IGE are also responsible for a bunch of new positions.
 CTLA has two high-level staff positions, an Academic Support
 Assistant, and folks like the Curricular Technology Specialists.
 The two high-level staff positions and the ASA are new.  I don't
-know how many positions IGE added.  Some were clearly necessary;
-with the growth in the number of International Students, we needed
-more people to support those students.  And I like that we're
-thinking more about how we support broader global engagement in the
-curriculum.
+know how many positions IGE added.  Some were certainly necessary;
+with the growth in the number of International Students and the
+added complexity of life for international students in the US, we
+needed more people to support those students [9].  And I like that
+we're thinking more about how we support broader global engagement
+in the curriculum.
 
 There's been some useful and necessary expansion in student support,
-including a whole new sub-department on Academic Support on diversity
-and a whole new department for Disability Services.  Of course,
-Disability Services also supports faculty and staff.  The broader
-wellness movement at Grinnell also represents an expansion of people
-who support students, faculty, and staff, although I'm not sure how
-many that's added. 
+including a whole new sub-department in Student Affairs that focuses
+on diversity and inclusion and a whole new department for Disability
+Services.  Of course, Disability Services also supports faculty and
+staff.  The broader wellness movement at Grinnell also represents
+an expansion of people who support students, faculty, and staff,
+although I'm not sure how many that's added.  While I think most of
+the positions are in SHAW, I'm pretty sure that there are positions
+elsewhere.
 
 At some point, the administration decided to professionalize Safety
-[9], replacing some student positions with staff positions.  I
+[10], replacing some student positions with staff positions.  I
 thought that was an interesting decision; it was certainly a good
 student position: There was time to get homework done.  Plus, you
-got to work with Russ [10].  There have, of course, been other changes
+got to work with Russ [11].  There have, of course, been other changes
 to Safety.  They have a much bigger patrol area.  Plus, the new
 cars are intimidating, much more so than the Honda Ridgelines!
 
 Grinnell bought a golf course.  Well, we bought a country club, but
-we mostly bought it for the golf course.  There are many factors at
-play in that purchase, but it seems reasonable to ensure that the
-golf course is maintained for the golf teams.  [The staff page
-for the course](https://golf.grinnell.edu/staff/) [11] says they have
-two full-time staff members [12].  One of them appears to be in
-a department I hadn't heard of before: Auxiliary Services and Economic
-Development.  That department also lists one VP [14] and a swimming pool
-manager.
+we mostly bought it for the golf course.  There are many factors
+at play in that purchase, but it seems reasonable to ensure that
+the golf course is maintained for the golf teams.  [The golf course's
+staff page](https://golf.grinnell.edu/staff/) [12] says they have
+two full-time staff members [14].  One of them appears to be in a
+department I hadn't heard of before: Auxiliary Services and Economic
+Development.  That department also lists one VP [15] and a swimming
+pool manager.
 
 Of course, new buildings, like the golf course and the expanded
 HSSC require more ancillary staff, such as more members of Facilities
-Management to keep them working and cleaned.  I don't know how many
+Management to keep them working and clean.  I don't know how many
 folks were added there.
 
-I know that Grinnell added a procurement manager some time in the
+I know that Grinnell added a procurement manager sometime in the
 past decade. Like the folks in development, a procurement manager
 should pay for themselves, although in savings, rather than donations.
 I'm still waiting for the College to set up an in-house travel
@@ -143,19 +146,20 @@ more paperwork.  But sometimes that is necessary.
 It scares me that we likely need more staff.  I'd like to see a Web
 Accessibility Specialist in Communications.  I know we need more
 folks in ITS.  We probably need more counselors at SHAW.  It would
-be cool to have a Wellness Czar separate from SHAW [15].  I'd like
+be cool to have a Wellness Czar separate from SHAW [16].  I'd like
 a Rabbi on campus.  That may have to become a full-time position
 to attract one.  I don't know where we stand on our Imam.  It's
-also clear to me (and to others) that there are many staff members
-who seem to do the equivalent of at least two full-time positions.
-What happens when they retire?
+also clear to me (and to others) that many staff members seem to
+do the equivalent of at least two full-time positions.  What happens
+when they retire?
 
 Do I want more tenure-line faculty?  Yes. Do I think many of the
-positions I mentioned above are at least as important?  Certainly;
-some are more important. Do I think we should be discussing whether
-funds should go to a new staff position or a new faculty position?
-Obviously.  Would I like to see the list of added (and removed)
-positions?  That would be enlightening.
+positions I mentioned above are at least as important or more
+important than faculty positions?  Certainly; Do I think we should
+be discussing whether funds should go to a new staff position or a
+new faculty position, rather than keeping new faculty positions
+completely off the table?  Obviously.  Would I like to see the list
+of added (and removed) positions?  That would be enlightening.
 
 ---
 
@@ -163,6 +167,17 @@ positions?  That would be enlightening.
 think there's been an expansion in Senior Lecturer positions.  These
 are regular, part-time positions that I think carry much better
 compensation than, say, three adjunct-rate courses.
+
+---
+
+**_Postscript_**: I had hoped to draw some information from our
+[Form 990s](https://www.grinnell.edu/about-grinnell/leadership-and-administration/offices-and-services/accounting/accounting-resources).  Unfortunately,
+there's not much there on lower-level positions.  Surprisingly, some 
+upper-level positions, such as VP for Communications, seem to appear and
+disappear from the list of Officers or Key Employees.  It might be 
+interesting to track the five highest-paid employees who are not officers
+or "key employees" and see how it changes over the years.  But that's a
+musing for another day [17].
 
 ---
 
@@ -199,19 +214,25 @@ initials.
 [8] The College typically replaces faculty in Associate Dean positions
 with term faculty.
 
-[9] Formerly Safety and Security, formerly Security.
+[9] That may represent only one new position in IGE.
 
-[10] I know that Russ is retiring soon.  I wonder why there hasn't been
+[10] Formerly Safety and Security, formerly Security.
+
+[11] I know that Russ is retiring soon.  I wonder why there hasn't been
 an all-campus announcement.  He feels like such an important part of the
 Grinnell experience.
 
-[11] Why does the Golf course get a separate Web site?
+[12] Why does the Golf course get a separate Web site?
 
-[12] Plus a dog.
+[14] Plus a dog.
 
-[14] Did we need another VP?  Ah!  They are also responsible for the
+[15] Did we need another VP?  Ah!  They are also responsible for the
 bookstore, catering, mail services, and conference ops.  I don't think
-it's a new position, just a rebranding.
+it's a new position, just a rebranding.  The person in that role used to
+be VP for College Services.
 
-[15] I may be suggesting that position because I admire the person
+[16] I may be suggesting that position because I admire the person
 who had that unofficial title.
+
+[17] Don't worry, I'm unlikely to list most salaries, even though it's
+public information.
