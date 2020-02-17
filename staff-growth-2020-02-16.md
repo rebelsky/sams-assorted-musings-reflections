@@ -3,7 +3,7 @@ title: Growth in the number of staff
 number: 1020
 tags: [Grinnell](index-grinnell)
 blurb: It's not a simple matter.
-version: 1.0
+version: 1.0.1
 released: 2020-02-16
 current: 
 ---
@@ -12,7 +12,7 @@ staff, at least from the faculty side, is an enormous growth in the
 number of staff positions during Kingston’s tenure, with very little,
 if any, growth in the number of tenure-line faculty positions.  I’ve
 heard that we added 100 plus staff positions during his tenure.  The
-numbers vary---114, 140, 138---but all of them 
+numbers vary---114, 140, 138---but all of them are over one hundred.
 
 Now, I get as upset as anyone about Kingston’s seeming refusal to
 consider growing the faculty or even to discuss new faculty positions
@@ -20,8 +20,8 @@ in comparison to new staff positions.  That shouldn't be a surprise;
 I've raised the issue at multiple faculty meetings, in meetings
 with the president, and in my musings and rants.
 
-However, I accept that some significant growth in the number of
-staff was necessary. Let’s consider some reasons.
+However, I accept that significant growth in the number of staff
+was necessary. Let’s consider some reasons.
 
 There are two clear reasons that we needed to expand the number of
 staff.  As Kate Walker was fond of mentioning, we had "deferred
@@ -157,7 +157,7 @@ Do I want more tenure-line faculty?  Yes. Do I think many of the
 positions I mentioned above are at least as important or more
 important than faculty positions?  Certainly; Do I think we should
 be discussing whether funds should go to a new staff position or a
-new faculty position, rather than keeping new faculty positions
+new faculty position [17], rather than keeping new faculty positions
 completely off the table?  Obviously.  Would I like to see the list
 of added (and removed) positions?  That would be enlightening.
 
@@ -177,7 +177,7 @@ upper-level positions, such as VP for Communications, seem to appear and
 disappear from the list of Officers or Key Employees.  It might be 
 interesting to track the five highest-paid employees who are not officers
 or "key employees" and see how it changes over the years.  But that's a
-musing for another day [17].
+musing for another day [18].
 
 ---
 
@@ -234,5 +234,8 @@ be VP for College Services.
 [16] I may be suggesting that position because I admire the person
 who had that unofficial title.
 
-[17] Don't worry, I'm unlikely to list most salaries, even though it's
+[17] I'd rather we didn't have to put those positions in competition.
+But budgets always involve some competing priorities.
+
+[18] Don't worry, I'm unlikely to list most salaries, even though it's
 public information.
