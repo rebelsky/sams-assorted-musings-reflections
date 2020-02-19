@@ -2769,6 +2769,10 @@ Grinnell.
 
 > It's not a simple matter.
 
+[Updates on the chair of the faculty](faculty-chair-2020-02-18) (Musing #1021)
+
+> Yet another pointless musing.
+
 Registration and Related Topics
 -------------------------------
 

@@ -1,6 +1,10 @@
 Musings, from newest to oldest
 ==============================
 
+## 1021-1030
+
+[Updates on the chair of the faculty](faculty-chair-2020-02-18) (Musing #1021)  
+
 ## 1011-1020
 
 [Growth in the number of staff](staff-growth-2020-02-16) (Musing #1020)  
