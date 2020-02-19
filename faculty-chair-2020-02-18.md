@@ -7,12 +7,12 @@ version: 1.0
 released: 2020-02-18
 current: 
 ---
-About a month ago, I wrote about [the upcoming election of the chair
-of the faculty](faculty-chair-2020-01-23).  I'm fortunate: I was
-not elected; I was not even nominated [1].  We had two excellent
+About a month ago, I wrote about [the then-upcoming election of the
+chair of the faculty](faculty-chair-2020-01-23).  I'm fortunate: I
+was not elected; I was not even nominated [1].  We had two excellent
 candidates.  I'm glad to say that I can soon say "The Chair of the
 Faculty is a VP" [2].  I expect that the new Chair will do an awesome
-job and will represent us well.  
+job and will represent us well.
 
 Why am I musing about this topic?  I'm not completely sure.  I'd
 written it down in my physical notebook, and my family made fun of
