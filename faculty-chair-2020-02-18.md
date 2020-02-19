@@ -3,15 +3,15 @@ title: Updates on the chair of the faculty
 number: 1021
 tags: [Grinnell](index-grinnell)
 blurb: Yet another pointless musing.
-version: 1.0
+version: 1.1
 released: 2020-02-18
 current: 
 ---
 About a month ago, I wrote about [the then-upcoming election of the
 chair of the faculty](faculty-chair-2020-01-23).  I'm fortunate: I
-was not elected; I was not even nominated [1].  We had two excellent
+was not elected; I was not even nominated.  We had two excellent
 candidates.  I'm glad to say that I can soon say "The Chair of the
-Faculty is a VP" [2].  I expect that the new Chair will do an awesome
+Faculty is a VP" [1].  I expect that the new Chair will do an awesome
 job and will represent us well.
 
 Why am I musing about this topic?  I'm not completely sure.  I'd
@@ -26,7 +26,7 @@ running out of ink.
 What else is in those notes?  Let's see ... Oh, yeah, there's one
 of my brags.  I think it goes like this: One full professor's name,
 other than Anne's and Raynard's, was missing from the original list.
-Being me, I observed the absence and reported it [3].  it turned out
+Being me, I observed the absence and reported it [2].  it turned out
 that someone had failed to record them correctly in one of the
 central College databases.  It appears that being a PITA has a
 positive effect once in a while.
@@ -49,19 +49,17 @@ semesters of an academic year, as well as support from the Dean’s
 Office administrative staff; expanded support will be provided in
 a stipend each summer for work done by the Chair.
 
-That's wonderful.  I hope that it permits Chair VP [4] the time necessary
+That's wonderful.  I hope that it permits Chair VP [3] the time necessary
 to serve well in the role without being overwhelmed.  Plus, it will give
 them more time to read all the suggestions I'll send via email.
 
 ---
 
-[1] In fact, I wasn't even suggested.
-
-[2] Our new Chair, with the initials, V.P. told me that they were glad
+[1] Our new Chair, with the initials, V.P. told me that they were glad
 that I could make a joke at their expense.
 
-[3] For extra credit, figure out who it is.
+[2] For extra credit, figure out who it is.
 
-[4] Or VP Chair [5].
+[3] Or VP Chair [4].
 
-[5] Nope, I don't know when to stop.
+[4] Nope, I don't know when to stop.
