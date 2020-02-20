@@ -1327,3 +1327,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 ## 1021-1030
 
 [Updates on the chair of the faculty](faculty-chair-2020-02-18) (Musing #1021)  
+[Responding to my manuscript](eng207-1b-response) (Musing #1022)  

@@ -136,3 +136,7 @@ Essays on writing, or at least on writing my musings
 
 > Seven points to consider.
 
+[Responding to my manuscript](eng207-1b-response) (Musing #1022)
+
+> I may not be the nicest editor.
+

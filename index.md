@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Updates on the chair of the faculty](faculty-chair-2020-02-18) (Musing #1021)
+[Responding to my manuscript](eng207-1b-response) (Musing #1022)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
