@@ -315,3 +315,7 @@ Grinnell.
 
 > Yet another pointless musing.
 
+[Advising](advising-2020-02-20) (Musing #1023)
+
+> What is my approach?
+

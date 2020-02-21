@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 1021-1030
 
+[Advising](advising-2020-02-20) (Musing #1023)  
 [Responding to my manuscript](eng207-1b-response) (Musing #1022)  
 [Updates on the chair of the faculty](faculty-chair-2020-02-18) (Musing #1021)  
 
