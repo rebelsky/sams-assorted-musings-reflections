@@ -14,14 +14,13 @@ to) and a list of software that I want to write._
 Tentative sequence of upcoming musings
 --------------------------------------
 
-* Update on Chair of the Faculty
 * The Ralph sequence
-    * Critiquing my essay (eng207-1b-response; still in progress)
     * Editing my essay (eng207-1B-edits)
     * A revised version, maybe (eng207-1B-revised)
     * Preparing to be workshopped, revisited
 * Comfortable structures (comfortable-structures)
 * Rachel Rose
+* Create vs Consume
 
 Tentative seqauence of upcoming photos
 --------------------------------------
@@ -94,12 +93,18 @@ the President with tenure and the Dean with tenure.  Why not the CDO?
 Short
 -----
 
-1. Update on Chair of the Faculty.  My family read it in my notes
-as "Chair of Poultry".  New benefits.  Identifying a missing person
-(challenge to readers who are on the Grinnell faculty: What full
-professor, other than Anne and Raynard, was not on the original list?).
-Didn't get nominated.  Vida got elected.  I think she'll do a great
-job.
+1. Terminology/first-year (sketches/terminology-first-year-student)
+
+1. How things last.
+<https://www.cs.grinnell.edu/~johnsonba/CSC161/2020S/modules/data-representation/readings/integer-representation.shtml>.
+Original was called "The Binary System: A pretty damn clear guide
+to a quite confusing concept by Christine R. Wright with some help
+from Samuel A. Rebelsky" and came from a WISP student at Grinnell.
+At least I think it did.  Maybe a CS 4 student.  [Wait until I hear
+back from my Dartmouth alum friend.
+1. To Create or to Consume.  (create-consume)
+
+1. Form 990's.  <https://www.grinnell.edu/about-grinnell/leadership-and-administration/offices-and-services/accounting/accounting-resources>
 
 1. Punch list for the Web server.  (punch-list-2020-xx-xx)
 
@@ -144,6 +149,8 @@ be at the College average.  So yes I'd like to be smaller.
 1. Taking notes on paper vs. taking notes on the computer.  The
 latter is much easier to search.  But I feel like I learn beter
 from the former, and I think there is evidence of that.
+
+1. Mixtapes/Songs I love and my kids will hate.  
 
 1. Touching People.  <https://www.buzzfeed.com/shelbyheinrich/men-stop-touching-us>.  It's what I was taught to do, although at the shoulder, not the 
 waist.  I hadn't realized that it felt so invasive.  I'd rather signal,
@@ -360,8 +367,15 @@ Posting and organizing.  Allowing others to submit.
 1. Van Meter Monster.  Friends posts interesting fact each day.
 <https://www.desmoinesregister.com/story/news/2015/07/01/van-meter-remembers-1903-visit-from-winged-monster/29583469/>
 
+1. "Did I miss anything".  Great poem.  Students say it.  How faculty
+react.  (sketches/did-i-miss-anything).
+
 Long
 ----
+
+1. The Del-Lords and the Blasters.  Sketches/strange-rock-quotes.
+
+1. Eboards.  (sketchbook/eboards)
 
 1. Eliminating merit pay.  Causes hard feelings.  Takes a lot of time.
 Ignores or devalues important achievements (which causes hard feelings):
