@@ -201,3 +201,7 @@ be found in [the list of musing son writing](index-on-writing)._
 
 > An achievement, of sorts.
 
+[Musing 1024](musing-1024) (Musing #1024)
+
+> Going beyond ten bits.  Or more than a buck and a quarter.
+
