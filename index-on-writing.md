@@ -1,15 +1,6 @@
 Essays on writing, or at least on writing my musings
 ====================================================
 
-[On the genesis of _Sam's Assorted Musings and Rants_](genesis) (Essay #5)
-
-> Why I started this site.
-
-[On the form of these musings and rants](form) (Essay #11)
-
-> Why I'm putting my essays on a Web site and not a 'blog or Twitter
-  feed.
-
 [My audience](audience) (Essay #10)
 
 > I tell my students to pay attention to their audience when they 

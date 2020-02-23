@@ -4,15 +4,6 @@ Musings, by topic
 Essays on writing, or at least on writing my musings
 ----------------------------------------------------
 
-[On the genesis of _Sam's Assorted Musings and Rants_](genesis) (Essay #5)
-
-> Why I started this site.
-
-[On the form of these musings and rants](form) (Essay #11)
-
-> Why I'm putting my essays on a Web site and not a 'blog or Twitter
-  feed.
-
 [My audience](audience) (Essay #10)
 
 > I tell my students to pay attention to their audience when they 
@@ -200,7 +191,16 @@ Meta-musings
 _Notes on the experience of musing.  I didn't add this category
 until after writing musing 650, so there are likely many meta-musings
 missing.  I hope to link to them eventually.  For now, most can still
-be found in [the list of musing son writing](index-on-writing)._
+be found in [the list of musings on writing](index-on-writing)._
+
+[On the genesis of _Sam's Assorted Musings and Rants_](genesis) (Essay #5)
+
+> Why I started this site.
+
+[On the form of these musings and rants](form) (Essay #11)
+
+> Why I'm putting my essays on a Web site and not a 'blog or Twitter
+  feed.
 
 [Following my muse](following-my-muse) (Essay #88)
 
