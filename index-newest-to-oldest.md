@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 1021-1030
 
+[Knock](knock-2020-02-22) (Musing #1025)  
 [Musing 1024](musing-1024) (Musing #1024)  
 [Advising](advising-2020-02-20) (Musing #1023)  
 [Responding to my manuscript](eng207-1b-response) (Musing #1022)  

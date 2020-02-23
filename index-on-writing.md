@@ -140,3 +140,7 @@ Essays on writing, or at least on writing my musings
 
 > I may not be the nicest editor.
 
+[Knock](knock-2020-02-22) (Musing #1025)
+
+> Exploring a short-short story
+
