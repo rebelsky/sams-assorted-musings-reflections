@@ -1331,3 +1331,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Advising](advising-2020-02-20) (Musing #1023)  
 [Musing 1024](musing-1024) (Musing #1024)  
 [Knock](knock-2020-02-22) (Musing #1025)  
+[Revising the Faculty Handbook](faculty-handbook-2020-02-24) (Musing #1026)  

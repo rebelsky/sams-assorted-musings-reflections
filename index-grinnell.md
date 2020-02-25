@@ -319,3 +319,7 @@ Grinnell.
 
 > What is my approach?
 
+[Revising the Faculty Handbook](faculty-handbook-2020-02-24) (Musing #1026)
+
+> Contemplating changes.
+
