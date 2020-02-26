@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Revising the Faculty Handbook](faculty-handbook-2020-02-24) (Musing #1026)
+[Classes of students](nth-year-student-2020-02-25) (Musing #1027)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

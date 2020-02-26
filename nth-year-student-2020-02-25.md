@@ -1,13 +1,13 @@
 ---
 title: Classes of students
-number: 1026
-tags: [Grinnell](index-grinnell)
+number: 1027
+tags: [Grinnell](index-grinnell), short
 blurb: Or something like that.
 version: 1.0
 released: 2020-02-25
 current: 
 ---
-Some time in the distant past, a parent on the Grinnell Parents
+Sometime in the distant past, a parent on the Grinnell Parents
 Facebook page asked about the terms we use for students.  It went
 something like this.
 

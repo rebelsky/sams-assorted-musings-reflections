@@ -2793,6 +2793,10 @@ Grinnell.
 
 > Contemplating changes.
 
+[Classes of students](nth-year-student-2020-02-25) (Musing #1027)
+
+> Or something like that.
+
 Registration and Related Topics
 -------------------------------
 

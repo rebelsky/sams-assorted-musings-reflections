@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 1021-1030
 
+[Classes of students](nth-year-student-2020-02-25) (Musing #1027)  
 [Revising the Faculty Handbook](faculty-handbook-2020-02-24) (Musing #1026)  
 [Knock](knock-2020-02-22) (Musing #1025)  
 [Musing 1024](musing-1024) (Musing #1024)  
