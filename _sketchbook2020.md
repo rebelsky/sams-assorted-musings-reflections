@@ -363,6 +363,8 @@ Posting and organizing.  Allowing others to submit.
 1. "Did I miss anything".  Great poem.  Students say it.  How faculty
 react.  (sketches/did-i-miss-anything).
 
+1. Finding the accessibility policies.  (details-accessibility-2020-xx-xx.md)
+
 Long
 ----
 
