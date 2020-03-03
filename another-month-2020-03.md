@@ -1,16 +1,26 @@
 ---
-title: Another month of (mostly) daily musings
+title: Another month (or two) of (mostly) daily musings
 number: XXX
 tags: End-of-month musings
 blurb: Whatever
-version: 0.1
+version: 0.2
 released: 
-current: 2020-01-31
+current: 2020-03-02
 ---
-It's the end of February.  Unsurprisingly, this month felt shorter than
-most months.  It's time to write my end-of-month musing.  I'll admit
-that I sometimes find myself challenged to write this initial paragraph,
-since I've written similar paragraphs before [1,2].
+It's the end of March.  It's time to write my end-of-month musing.
+I didn't make it last month, mostly because I was in a self-imposed
+vacation from musing.  I'll admit that I sometimes find myself
+challenged to write this initial paragraph, since I've written
+similar paragraphs before [1,2].  But for those who are not long-term
+readers, I will note that at the end of most months, I step back and
+reflect on the state of my musings.  The reflections can be about 
+ways in which I write differently; after all, one reason I write daily
+is to affect how I write.  The reflections often include data [3] about
+how much I've mused and how many outstanding topics reside in my 
+sketchbooks.  I may consider particular topics I've mused about and
+perhaps even look for patterns.  Things like that.
+
+Enough of that.  Let's move on to the actual reflections.
 
 On my writing
 -------------
@@ -28,7 +38,7 @@ Keep it.
 On posting frequency
 --------------------
 
-This section may not be necessary.
+Took a vacation or two or three.  (Family weekend, SIGCSE, Oberlin)
 
 Follow-ups to individual musings
 --------------------------------
@@ -46,7 +56,6 @@ Missed an opportunity.  Musing 1010 could have been about the former
 celebration of the first paycheck, or someone's birthday, or Ultimate,
 or something like that.  But [I've mused about that celebration
 before](ten-ten).  It's not clear I needed to write anything more.
-
 
 Data
 ----
@@ -69,8 +78,10 @@ Final thoughts
 
 ---
 
-[1] Yes, Ralph, I know.  I could structure this musing differently.
+[1] Yes, Ralph, I know.  I could structure this musing differently.  But
+the consistency is part of my charm.  Right?
 
 [2] That's a good topic for a musing: "How do I introduce my
 end-of-month musings?"  I'll add it to the list.
 
+[3] Never [dashboards](levers-2020-03-03).
