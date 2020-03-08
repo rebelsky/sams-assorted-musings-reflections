@@ -3,10 +3,14 @@ title: Preparing for teaching online
 number: 1028
 tags: [Teaching](index-on-teaching), [Grinnell](index-grinnell)
 blurb: Being proactive.
-version: 1.0
+version: 1.0.2
 released: 2020-03-07 
-current: 
+current: 2020-03-08
 ---
+**_Note_**: _Folks have started to annotate this with Hypothes.is.  See the
+icons on the right side to access the annotations.  And feel free to
+add your own._
+
 Yesterday morning, the faculty received a message from the President's
 office [1] indicating that we should start making preparations to
 teach online in case a COVID-19 outbreak or other event made that
@@ -163,7 +167,7 @@ users and that "read aloud" systems can support the blind and
 vision-impaired students.  Of course, text chat is less accessible
 to some physically impaired students.  Text chat can also help some
 quieter students feel more comfortable speaking up in class since
-they have the tie and ability to carefully compose their comments.
+they have the time and ability to carefully compose their comments.
 Slack is one of the more popular chat applications and seems to
 have seen growth not only in the computing community but also in
 Digital Humanities and beyond.
@@ -202,7 +206,7 @@ next few days.
 
 ---
 
-[1] The College President's office, not the U.S> President's office.
+[1] The College President's office, not the U.S. President's office.
 
 [2] More on those later.
 
@@ -214,7 +218,6 @@ next few days.
 you consider how to teach online" were part of the initial message, but
 I also realize that people are stressed and trying to get information
 out as quickly as they can.
-you 
 
 [6] No, I don't have a good explanation of the difference between video
 conferencing and video chat.  I tend to use the terms interchangeably.
