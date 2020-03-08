@@ -57,3 +57,7 @@ On life in academia
 
 > The wonder of rules
 
+[Preparing for teaching online](preparing-for-teaching-online-2020-03-07) (Musing #1028)
+
+> Being proactive.
+
