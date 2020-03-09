@@ -61,3 +61,7 @@ On life in academia
 
 > Being proactive.
 
+[Levers and dashboards and other monstrous mechanistic metaphors](levers-2020-03-08) (Musing #1029)
+
+> Bashing bean counters.
+

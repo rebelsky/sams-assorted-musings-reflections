@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Preparing for teaching online](preparing-for-teaching-online-2020-03-07) (Musing #1028)
+[Levers and dashboards and other monstrous mechanistic metaphors](levers-2020-03-08) (Musing #1029)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 1021-1030
 
+[Levers and dashboards and other monstrous mechanistic metaphors](levers-2020-03-08) (Musing #1029)  
 [Preparing for teaching online](preparing-for-teaching-online-2020-03-07) (Musing #1028)  
 [Classes of students](nth-year-student-2020-02-25) (Musing #1027)  
 [Revising the Faculty Handbook](faculty-handbook-2020-02-24) (Musing #1026)  
