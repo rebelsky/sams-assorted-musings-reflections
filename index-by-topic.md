@@ -4388,6 +4388,10 @@ Almost everything else
 
 > Responding to reader requests.
 
+[To create or consume?](create-consume-2020-03-09) (Musing #1030)
+
+> To produce, practice, ponder, perfect, or play?
+
 Musings with multiple entries
 -----------------------------
 
