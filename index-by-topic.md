@@ -2805,6 +2805,10 @@ Grinnell.
 
 > Or something like that.
 
+[A short tribute to the Grinnell College class of 2020](class-of-2020-short) (Musing #1031)
+
+> Not a good alternative.
+
 Registration and Related Topics
 -------------------------------
 

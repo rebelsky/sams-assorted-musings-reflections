@@ -1,14 +1,14 @@
 ---
 title: A short tribute to the Grinnell College class of 2020
 number: 1031
-tags: [Grinnell](index-grinnell)
+tags: [Grinnell](index-grinnell), short
 blurb: Not a good alternative.
 version: 1.0
 released: 2020-03-13
 current: 
 ---
 A few days ago, Grinnell made the sensible decision to send most
-students home for the rest of the semester and to hold classes
+of our students home for the rest of the semester and to hold classes
 online [1].  One major impact of this decision is that the Grinnell
 College class of 2020 is unlikely to have a normal graduation.
 
@@ -25,7 +25,7 @@ For now, here are a few sentences.
 > Dear Grinnell class of 2020.  You are among the most special
 Grinnell classes to me for a whole host of reasons none of which
 I will list.  During the not-quite-four years that you have been
-here, I have found you thoughtful, wise, frustrating, inquistive,
+here, I have found you thoughtful, wise, frustrating, inquisitive,
 friendly, infuriating, amazing, insightful, challenging, smart
 (incredibly smart), frustrating [3], supportive, similar and
 different, engaged and engaging, independent and interdependent,
@@ -43,15 +43,15 @@ feel up to that task.
 
 ---
 
+**_Postscript_**: I *think* you can find the video at
+<https://grinnell.thankview.com/video/reply/5e6bb0eecbd48>.
+
+---
+
 **_Postscript_**: Finding good places to record in a hotel is hard.
 There's a bit of background noise in my video.  _C'est la vie_.
 At least there's this script/transcript.  And written trumps spoken,
 right?
-
----
-
-**_Postscript_**: I think you can find the video at
-<https://grinnell.thankview.com/video/reply/5e6bb0eecbd48>.
 
 ---
 

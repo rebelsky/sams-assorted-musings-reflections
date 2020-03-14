@@ -1336,3 +1336,7 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Preparing for teaching online](preparing-for-teaching-online-2020-03-07) (Musing #1028)  
 [Levers and dashboards and other monstrous mechanistic metaphors](levers-2020-03-08) (Musing #1029)  
 [To create or consume?](create-consume-2020-03-09) (Musing #1030)  
+
+## 1031-1040
+
+[A short tribute to the Grinnell College class of 2020](class-of-2020-short) (Musing #1031)  

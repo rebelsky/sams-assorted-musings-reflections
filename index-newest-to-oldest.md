@@ -1,6 +1,10 @@
 Musings, from newest to oldest
 ==============================
 
+## 1031-1040
+
+[A short tribute to the Grinnell College class of 2020](class-of-2020-short) (Musing #1031)  
+
 ## 1021-1030
 
 [To create or consume?](create-consume-2020-03-09) (Musing #1030)  
