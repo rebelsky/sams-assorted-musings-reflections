@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[A short tribute to the Grinnell College class of 2020](class-of-2020-short) (Musing #1031)
+[Joy in a time of (something)](joy-amidst-whatever-2020-03-16) (Musing #1032)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

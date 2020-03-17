@@ -4396,6 +4396,10 @@ Almost everything else
 
 > To produce, practice, ponder, perfect, or play?
 
+[Joy in a time of (something)](joy-amidst-whatever-2020-03-16) (Musing #1032)
+
+> The power of song.
+
 Musings with multiple entries
 -----------------------------
 
