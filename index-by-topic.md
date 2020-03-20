@@ -185,6 +185,10 @@ to them eventually._
 
 > Fun with words.
 
+[Slash and backslash](slash-backslash) (Musing #1033)
+
+> Learn the difference.
+
 Meta-musings
 ------------
 

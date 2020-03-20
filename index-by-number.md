@@ -1341,3 +1341,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 
 [A short tribute to the Grinnell College class of 2020](class-of-2020-short) (Musing #1031)  
 [Joy in a time of (something)](joy-amidst-whatever-2020-03-16) (Musing #1032)  
+[Slash and backslash](slash-backslash) (Musing #1033)  
