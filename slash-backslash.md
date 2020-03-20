@@ -109,11 +109,6 @@ make "backslash fiction".  Something like that.
 
 ---
 
-a link to a more authoritative page
-
-
----
-
 [1] Or at least most Americans in the twenty-first century.
 
 [2] Or "back slash", to match the spacing of "forward slash".
