@@ -14,14 +14,11 @@ to) and a list of software that I want to write._
 Tentative sequence of upcoming musings
 --------------------------------------
 
-* News from academia
-* Levers
+* Thankful
+* Plans
+* Unexpecgted joys - The Stanford Papua New Guinea scuplture garden.
+* Organizing my creativity?
 * Comfortable structures (comfortable-structures)
-* Create vs Consume
-* The Ralph sequence
-    * Editing my essay (eng207-1B-edits)
-    * A revised version, maybe (eng207-1B-revised)
-    * Preparing to be workshopped, revisited
 * Rachel Rose
 
 Software to write
@@ -86,7 +83,6 @@ the President with tenure and the Dean with tenure.  Why not the CDO?
 Short
 -----
 
-1. Unexpecgted joys - The Stanford Papua New Guinea scuplture garden.
 
 1. How things last.
 <https://www.cs.grinnell.edu/~johnsonba/CSC161/2020S/modules/data-representation/readings/integer-representation.shtml>.
