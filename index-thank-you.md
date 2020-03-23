@@ -37,3 +37,7 @@ Thank-You Notes
 
 > A few of the many things for which I am thankful.
 
+[Proud and Thankful](thankful-2020-03-23) (Musing #1034)
+
+> So many wonderful people!
+
