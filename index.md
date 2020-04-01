@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Proud and Thankful](thankful-2020-03-23) (Musing #1034)
+[Another month (or two) of (nothing that resembles) daily musings](another-month-2020-03) (Musing #1035)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

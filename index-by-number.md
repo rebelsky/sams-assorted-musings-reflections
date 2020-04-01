@@ -1343,3 +1343,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Joy in a time of (something)](joy-amidst-whatever-2020-03-16) (Musing #1032)  
 [Slash and backslash](slash-backslash) (Musing #1033)  
 [Proud and Thankful](thankful-2020-03-23) (Musing #1034)  
+[Another month (or two) of (nothing that resembles) daily musings](another-month-2020-03) (Musing #1035)  

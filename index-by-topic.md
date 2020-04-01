@@ -528,6 +528,10 @@ most of them here._
 
 > Looking forward to learning how to write.
 
+[Another month (or two) of (nothing that resembles) daily musings](another-month-2020-03) (Musing #1035)
+
+> Even less writing than usual.
+
 For prospective students, parents of prospective students, and others with similar interests
 --------------------------------------------------------------------------------------------
 
