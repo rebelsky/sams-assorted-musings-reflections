@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 1031-1040
 
+[Acting April Foolish](april-fools-2020) (Musing #1036)  
 [Another month (or two) of (nothing that resembles) daily musings](another-month-2020-03) (Musing #1035)  
 [Proud and Thankful](thankful-2020-03-23) (Musing #1034)  
 [Slash and backslash](slash-backslash) (Musing #1033)  

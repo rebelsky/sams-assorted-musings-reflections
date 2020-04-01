@@ -3505,6 +3505,10 @@ Autobiographical essays, more or less
 
 > So much time in the sauna.
 
+[Acting April Foolish](april-fools-2020) (Musing #1036)
+
+> Just call me Sam(son).
+
 Salary reviews
 --------------
 
