@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Acting April Foolish](april-fools-2020) (Musing #1036)
+[Synchronous or asynchronous?](synchronous-or-asynchronous-2020-04-02) (Musing #1037)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

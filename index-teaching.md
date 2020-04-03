@@ -140,3 +140,7 @@ online, but they will soon expand to more general issues about teaching._
 
 > Learning from my friends and colleagues.
 
+[Synchronous or asynchronous?](synchronous-or-asynchronous-2020-04-02) (Musing #1037)
+
+> Some initial thoughts.
+

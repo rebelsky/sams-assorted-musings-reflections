@@ -1345,3 +1345,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Proud and Thankful](thankful-2020-03-23) (Musing #1034)  
 [Another month (or two) of (nothing that resembles) daily musings](another-month-2020-03) (Musing #1035)  
 [Acting April Foolish](april-fools-2020) (Musing #1036)  
+[Synchronous or asynchronous?](synchronous-or-asynchronous-2020-04-02) (Musing #1037)  
