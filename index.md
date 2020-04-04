@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Synchronous or asynchronous?](synchronous-or-asynchronous-2020-04-02) (Musing #1037)
+[Summer 2020 MAPs](summer-2020-maps-2020-04-03) (Musing #1038)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

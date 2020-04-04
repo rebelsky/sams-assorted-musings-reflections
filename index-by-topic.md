@@ -2825,6 +2825,10 @@ Grinnell.
 
 > Not a good alternative.
 
+[Summer 2020 MAPs](summer-2020-maps-2020-04-03) (Musing #1038)
+
+> Let's go virtual!
+
 Registration and Related Topics
 -------------------------------
 
