@@ -3517,6 +3517,10 @@ Autobiographical essays, more or less
 
 > Just call me Sam(son).
 
+[A personality quiz](personality-quiz-2020-04-04) (Musing #1039)
+
+> It appears that I am like characters I don't know.
+
 Salary reviews
 --------------
 

@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Summer 2020 MAPs](summer-2020-maps-2020-04-03) (Musing #1038)
+[A personality quiz](personality-quiz-2020-04-04) (Musing #1039)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

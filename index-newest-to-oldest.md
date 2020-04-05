@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 1031-1040
 
+[A personality quiz](personality-quiz-2020-04-04) (Musing #1039)  
 [Summer 2020 MAPs](summer-2020-maps-2020-04-03) (Musing #1038)  
 [Synchronous or asynchronous?](synchronous-or-asynchronous-2020-04-02) (Musing #1037)  
 [Acting April Foolish](april-fools-2020) (Musing #1036)  
