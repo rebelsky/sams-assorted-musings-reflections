@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[A personality quiz](personality-quiz-2020-04-04) (Musing #1039)
+[Another assignment for The Craft of Creative Nonfiction](eng207-2b-assignment) (Musing #1040)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

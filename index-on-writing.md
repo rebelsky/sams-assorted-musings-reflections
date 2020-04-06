@@ -135,3 +135,7 @@ Essays on writing, or at least on writing my musings
 
 > Exploring a short-short story
 
+[Another assignment for The Craft of Creative Nonfiction](eng207-2b-assignment) (Musing #1040)
+
+> Did I make it too easy for myself?
+

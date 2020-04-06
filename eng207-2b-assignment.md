@@ -3,21 +3,22 @@ title: Another assignment for The Craft of Creative Nonfiction
 number: 1040
 tags: [Writing](index-on-writing)
 blurb: Did I make it too easy for myself?
-version: 0.1
-released: 
-current: 2020-04-05
+version: 1.0
+released: 2020-04-05
+current: 
 ---
-I'm turning in my second manuscript + assignment for English 207,
-_The Craft of Creative Nonfiction_, today.  As you may recall from
-[a previous posting](eng207-1b-assignment), we are supposed to pick
-a model piece from those we read, identify some techniques the
-author used, turn those into guidelines in an assignment for
-ourselves, and then write a five-to-six-page manuscript that follows
-those guidelines.
+Today I turned in my second manuscript + assignment for English
+207, _The Craft of Creative Nonfiction_. As you may recall from [a
+previous musing](eng207-1b-assignment), we are supposed to pick a
+model piece from those we read, identify some techniques the author
+used, turn those into guidelines in an assignment for ourselves,
+and then write a five-to-six-page manuscript that follows those
+guidelines.
 
-Today, I'll post my assignment.  Over the next few days, I'll post
-various forms of the manuscript, or comments on the manuscript, or
-something like that.
+This musing contains the assignment I wrote for myself, along with
+a few additional comments.  Over the next few days, I'll post various
+forms of the manuscript, or comments on the manuscript, or something
+like that.
 
 ---
 
@@ -77,22 +78,24 @@ it would be appropriate to include the assignment in the final
 version of the piece [12].
 
 Was it fair to pick a DFW piece as my model?  In some ways, it did
-not stretch me as much as another piece might have, since I already
+not stretch me as much as another piece might have.  After all, I already
 follow some of DFW's writerly strategies, particularly an enjoyment
-of footnotes [14].  But I spent much more time thinking about
-parentheticals vs.  footnotes than I normally do [15] and I definitely
-thought more about language and structure than I do in most of my
-writing (not just my musings and rants).  I also worked hard to
-follow the more general expectations of a piece of cultural criticism,
-including conducting some additional background research, attempting
-to weave to gether multiple threads of ideas, and even inventing a
-bit of language.  I don't mention it in the assignment, but I also
-tried to follow Prof. S's suggestion that we limit the use of the
-first person.  I couldn't do completely without it, but I restructured
-the essay significantly to remove the explicit SamR as much as
-possible.
+of footnotes [14].  
 
-What did I write about?  Stay tuned!
+Nonetheless, I did work on many things.  I spent much more time
+thinking about parentheticals vs. footnotes than I normally do
+[15].  I definitely worked more on my language choice and structure
+than I do in most of my writing (not just my musings and rants)
+[16].  I also worked hard to follow the more general expectations
+of a piece of cultural criticism, including conducting some additional
+background research, attempting to weave together multiple threads
+of ideas, and even inventing a bit of language.  I don't mention
+it in the assignment, but I also tried to follow Prof. S's suggestion
+that we limit the use of the first person.  I couldn't completely
+remove myself, but I restructured the essay significantly to remove
+the explicit SamR as much as possible.
+
+What did I write about?  Stay tuned for tomorrow's musing!
 
 ---
 
@@ -123,7 +126,7 @@ after realizing that fact.
 
 [10] The ending for this manuscript was planned before Prof. Savarese commented on DFW's crustaceanly considerations and before I had considered choosing those considerations to challenge myself in construction this creature. Sometimes the prompt guides the manuscript; sometimes the manuscript guides the prompt.
 
-[11] Among other isses, the originals were footnotes rather than endnotes.
+[11] Among other issues, the originals were footnotes rather than endnotes.
 
 [12] Almost certainly not.
 
@@ -131,3 +134,5 @@ after realizing that fact.
 
 [15] I normally avoid parentheticals, at least parentheticals of the
 kind I associate with DFW in the assignment.
+
+[16] Sorry about that.

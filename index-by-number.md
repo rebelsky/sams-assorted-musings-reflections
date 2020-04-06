@@ -1348,3 +1348,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Synchronous or asynchronous?](synchronous-or-asynchronous-2020-04-02) (Musing #1037)  
 [Summer 2020 MAPs](summer-2020-maps-2020-04-03) (Musing #1038)  
 [A personality quiz](personality-quiz-2020-04-04) (Musing #1039)  
+[Another assignment for The Craft of Creative Nonfiction](eng207-2b-assignment) (Musing #1040)  
