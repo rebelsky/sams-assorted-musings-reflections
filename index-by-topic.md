@@ -142,6 +142,10 @@ Essays on writing, or at least on writing my musings
 
 > Did I make it too easy for myself?
 
+[My second manuscript for The Craft of Creative Nonfiction](eng207-2b-manuscript) (Musing #1041)
+
+> Is it just an extended musing?
+
 On language
 -----------
 
