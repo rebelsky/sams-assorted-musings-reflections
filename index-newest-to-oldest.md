@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 1041-1050
 
+[My newer office](newer-office-2020-04-07) (Musing #1042)  
 [My second manuscript for The Craft of Creative Nonfiction](eng207-2b-manuscript) (Musing #1041)  
 
 ## 1031-1040

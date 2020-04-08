@@ -3529,6 +3529,10 @@ Autobiographical essays, more or less
 
 > It appears that I am like characters I don't know.
 
+[My newer office](newer-office-2020-04-07) (Musing #1042)
+
+> Small and mobile.
+
 Salary reviews
 --------------
 
