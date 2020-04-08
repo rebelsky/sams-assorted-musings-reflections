@@ -3,7 +3,7 @@ title: After the head shave
 number: 1043
 tags: [Autobiographical](index-autobiographical)
 blurb: The new adventures of an Uncle Fester look-a-like during the pandemic.
-version: 0.6
+version: 0.7
 released: 
 current: 2020-04-07
 ---
@@ -169,29 +169,35 @@ of stubble on the top of my head.  In class, I have the joy of being
 critiqued.  I'll write about that experience separately.  Grab mask
 and head off for exercise.  Spend a bit more time outside than I
 had intended; I really need to time how long it takes to get to the
-track (or back).  A bit more email and other communication.  Prep for
-noon meeting.  Participate in online meeting.  Make lunch.  Realize that
-I seem to have pulled something near my groin.  Ouch. Prep for afternoon
-meeting while watching livestreamed concert.  Realize that when I'm
-not trying to be creative, I can write a page of clear and grammatically
-correct text in under thirty minutes.  Online meeting to discuss report.
-Home to prepare dinner while watching Jon Richardson's Piano bar.  Shower
-after making dinner.  Take a fifteen minute break to read email and try
-to parse the new software policy.  Consider composing a parody of it
-based on art history.  Finish making dinner.  Eat dinner.  Help clean
-up from dinner.  Fill out software requisitions for Slack and Trello.
-Compose email to the Deputy Chief Information Officer to verify that
-basic Linux software is acceptable.  Deal with more email, including another
-four-year plan.  Spend some time checking prereqs and considering requirements
-for another major.  Now it's 8:15 p.m.  Muse while watching TV with
-Michelle.
+track (or back).  A bit more email and other communication.  Prep
+for noon meeting.  Participate in online meeting.  Make lunch.
+Realize that I seem to have pulled something near my groin.  Ouch.
+Prep for afternoon meeting while watching livestreamed concert.
+Realize that when I'm not trying to be creative, I can write a page
+of clear and grammatically correct text in under thirty minutes.
+Online meeting to discuss report.  Home to prepare dinner while
+watching Jon Richardson's Piano bar.  Shower after making dinner.
+Re-shave my head.  Take a fifteen minute break to read email and
+try to parse the new software policy.  Consider composing a parody
+of it based on art history.  Finish making dinner.  Eat dinner.
+Help clean up from dinner.  Fill out software requisitions for Slack
+and Trello.  Compose email to the Deputy Chief Information Officer
+to verify that basic Linux software is acceptable.  Deal with more
+email, including another four-year plan.  Spend some time checking
+prereqs and considering requirements for another major.  Now it's
+8:15 p.m.  Muse while watching TV with Michelle.  Try to decide
+whether to write about my essay again or my new office.  Choose the
+latter.
 
-Foo!
+My days feel too long.  I exercised.  Yay!  I'll accept "accepting
+critiques" as my creative activity of the day.  I did not work on
+my home office, but with the pain, I wasn't up to it.  It also appears
+that I didn't have time.  I mused.  Another good day.
 
 ---
 
 Conclusions: Still feel like I'm not getting enough done, even
-though I seem to be working full days.  But I'm exercising more (or
+though I seem to be working full (long?) days.  But I'm exercising more (or
 at least walking more, which is my current exercise).  I'm not
 slacking off as much.  I've made some progress on my home office.
 I don't think I could be doing more.  Let's hope the second week goes
