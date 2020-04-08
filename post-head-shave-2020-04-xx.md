@@ -3,9 +3,9 @@ title: After the head shave
 number: 1043
 tags: [Autobiographical](index-autobiographical)
 blurb: The new adventures of an Uncle Fester look-a-like during the pandemic.
-version: 0.4
+version: 0.6
 released: 
-current: 2020-04-04
+current: 2020-04-07
 ---
 On April 1, I shaved my head.  As I suggested [at the time](april-fools-2020),
 I thought making a big change to my appearance might motivate me to make
@@ -126,12 +126,67 @@ with Michelle (masked, of course).  Put the roast on.  Sat on the
 porch to read for a bit.  Did some writing.  Watched the Stanford
 Sunday Evening Mass with my family.  Had dinner with my family.
 Cleaned up from dinner.  Posted my musing.  Read Plans while watching 
-TV.  Off to bed around 10:30.
+TV.  Off to bed around 10:30 or 11:00.
 
 I accomplished most of my daily goals today.  I did something creative,
 although it was tied to my class.  I read.  I exercised.  I mused.  I
 did some other work (although not enough).  I didn't work on my home 
 office, but I think I deserve one day off from that.
+
+> Day five (Monday).  Up around 9am.  Worked on a report for an
+hour.  Went grocery shopping and ran some necessary errands (pharmacy,
+accountant, post office).  Did two hours of meetings in my car.
+Forgot to turn off headlights even though I turned off the car.
+Got a jump from Michelle.  Put away groceries.  Made myself a late
+lunch.  Dealt with some email.  Worked more on the report.  Attended
+the first (but not last) online/distributed faculty meeting.  Felt
+thankful for all of the folks in leadership.  More email, particularly
+having to do with major declarations.  Ah, what fun!  Reviewed
+peer's manuscript for tomorrow's _Craft of Creative Nonfiction_.
+Realize it's now 8:30pm.  That's enough for one day.  Figure out
+how to post my manuscript as today's musing.  Decide to write about
+it as well as post it as a PDF.  Now it's 9:30 p.m.  Heading off
+to bed.  Couldn't fall asleep until some time after midnight.
+
+I didn't read, except for my peer's work.  I did little creative, except
+work on my report.  I did not attempt to improve the chaotic situation
+in my home office.  I didn't exercise, other than walking on errands
+or in the grocery store.  But I didn't stop and say "I'm not going to work."
+So I suppose I should feel good about the day.
+
+> Day Six (Tuesday).  Up at about 7:00 a.m. to get ready for class.
+Fold laundry while trying to figure out when I can get a nap.  (Class
+8:00-10:00.  Walk at 10.  Meeting at 12:00.  Concert at 1:00.
+Meeting at 3:00.  Need to prep for both meetings during those gaps.
+Piano bar at 4:00.  5:00 p.m. seems to be a bit late to nap.  And
+I probably need to make dinner, too.)  Curse.  Check email.  Deal
+with some more declaration issues.  Review my comments on a peer's
+manuscript.  Continue to worry that I am too critical.  Review other
+issues related to class.  I've read the Kuusisto, but I've also
+read beyond what was assigned and need to recall the details of the
+parts I read.  Class.  Ralph comments that I look better with a bit
+of stubble on the top of my head.  In class, I have the joy of being
+critiqued.  I'll write about that experience separately.  Grab mask
+and head off for exercise.  Spend a bit more time outside than I
+had intended; I really need to time how long it takes to get to the
+track (or back).  A bit more email and other communication.  Prep for
+noon meeting.  Participate in online meeting.  Make lunch.  Realize that
+I seem to have pulled something near my groin.  Ouch. Prep for afternoon
+meeting while watching livestreamed concert.  Realize that when I'm
+not trying to be creative, I can write a page of clear and grammatically
+correct text in under thirty minutes.  Online meeting to discuss report.
+Home to prepare dinner while watching Jon Richardson's Piano bar.  Shower
+after making dinner.  Take a fifteen minute break to read email and try
+to parse the new software policy.  Consider composing a parody of it
+based on art history.  Finish making dinner.  Eat dinner.  Help clean
+up from dinner.  Fill out software requisitions for Slack and Trello.
+Compose email to the Deputy Chief Information Officer to verify that
+basic Linux software is acceptable.  Deal with more email, including another
+four-year plan.  Spend some time checking prereqs and considering requirements
+for another major.  Now it's 8:15 p.m.  Muse while watching TV with
+Michelle.
+
+Foo!
 
 ---
 
