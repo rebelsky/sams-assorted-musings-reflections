@@ -489,3 +489,7 @@ Autobiographical essays, more or less
 
 > Small and mobile.
 
+[After the head shave](post-head-shave-2020-04-08) (Musing #1043)
+
+> The new adventures of an Uncle Fester look-a-like during the pandemic.
+
