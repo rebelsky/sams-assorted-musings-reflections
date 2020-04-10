@@ -786,3 +786,7 @@ Almost everything else
 
 > The power of song.
 
+[Unexpected joys](unexpected-joys-2020-04-09) (Musing #1044)
+
+> Perhaps I should expect more of them.
+

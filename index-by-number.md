@@ -1355,3 +1355,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [My second manuscript for The Craft of Creative Nonfiction](eng207-2b-manuscript) (Musing #1041)  
 [My newer office](newer-office-2020-04-07) (Musing #1042)  
 [After the head shave](post-head-shave-2020-04-08) (Musing #1043)  
+[Unexpected joys](unexpected-joys-2020-04-09) (Musing #1044)  
