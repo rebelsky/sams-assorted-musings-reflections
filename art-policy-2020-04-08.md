@@ -46,58 +46,56 @@ that I appreciate their hard work.*
 
 ---
 
-> "For the protection and safety of our students we want to ensure that anything they view is not too challenging.  Hence, we have decided to limit what artworks may be used in classes."
+"For the protection and safety of our students we want to ensure that anything they view is not too challenging.  Hence, we have decided to limit what artworks may be used in classes."
 
-"What artists can I use?"
+> "What artists can I use?"
 
-> "The college has a very large portfolio of approved artists and artwork.  Current events have meant that our work on a catalog has been paused.  Our catalog of general-use artists includes Thomas Kinkade, painter of light."
+"The college has a very large portfolio of approved artists and artwork.  Current events have meant that our work on a catalog has been paused.  Our catalog of general-use artists includes Thomas Kinkade, painter of light."
 
-"I've been using Bruegel's 'Tower of Babel' in my classes and research for the pat five years.  Can I keep using it.  Since students are already famliar with it, I spent the past two weeks restructuring the last six weeks of my course around that work."
+> "I've been using Bruegel's 'Tower of Babel' in my classes and research for the pat five years.  Can I keep using it.  Since students are already famliar with it, I spent the past two weeks restructuring the last six weeks of my course around that work."
 
-> "It is not on our list of approved artwork.  Discontinue its use
-immediately and fill out the form.  Please fill out a form.  As we
-have said, you are not permitted to use any other work until your
-selection has been approved.  Doing so puts the College at risk for
-a copyright infringement suit or for repetitional damages associated
-with the content of the work."
+"It is not on our list of approved artwork.  Discontinue its use
+immediately and fill out the form.  As we have said, you are not
+permitted to use any other work until your selection has been approved.
+Doing so puts the College at risk for a copyright infringement suit or
+for repetitional damages associated with the content of the work."
 
-"I've filled out the form.  When can I expect a response?"
+> "I've filled out the form.  When can I expect a response?"
 
-> [Silence]
+_Silence_
 
-> [More silence]
+_More silence_
 
-> "Thomas Kinkade has works entitled 'Chicago, Winter at the Water Tower' and 'Tower Bridge, London'.  We expect that they will serve your needs for a tower."
+"Thomas Kinkade has works entitled 'Chicago, Winter at the Water Tower' and 'Tower Bridge, London'.  We expect that they will serve your needs for a tower."
 
-"Those pieces lack the depth, symbolic meaning, or religious context of 'Tower of Babel'.  I'd really like to use 'Tower of Babel'."
+> "Those pieces lack the depth, symbolic meaning, or religious context of 'Tower of Babel'.  I'd really like to use 'Tower of Babel'."
 
-> [Silence]
+_Silence_
 
-> [More silence]
-
+_More silence_
 > "We have determined that Thomas Kinkade has also released a work entitled 'Tower of David'.  That provides appropriate religious imagery."
 
-"That piece, while including a tower and referencing religion, is different.  I am having trouble figuring out how I could use it in place of 'Tower of Babel'."
+> "That piece, while including a tower and referencing religion, is different.  I am having trouble figuring out how I could use it in place of 'Tower of Babel'."
 
-> "Please note that resources (whether financial, support time, or otherwise) are not infinite.  If possible, consult with your ASAs or look for resources online."
+"Please note that resources (whether financial, support time, or otherwise) are not infinite.  If possible, consult with your ASAs or look for resources online."
 
-"I have looked at Kinkade's 'Tower of David' and read the online analyses.  It does not provide the metaphorical imagery to ground the discussions."
+> "I have looked at Kinkade's 'Tower of David' and read the online analyses.  It does not provide the metaphorical imagery to ground the discussions."
 
-> "Are you sure that students are able to process metaphoric imagery at this time?  Please bear in mind that artistic and conceptual simplicity are key tenets to keep in mind in this unprecedented time: the fewer artworks and artists that students need to learn and manage concurrently, the better."
+"Are you sure that students are able to process metaphoric imagery at this time?  Please bear in mind that artistic and conceptual simplicity are key tenets to keep in mind in this unprecedented time: the fewer artworks and artists that students need to learn and manage concurrently, the better."
 
-"Yes, I am sure."
+> "Yes, I am sure."
 
-> "Please explain what steps you have made to ensure that the artwork is accessible to those with physical or cognitive differences."
+"Please explain what steps you have made to ensure that the artwork is accessible to those with physical or cognitive differences."
 
-"I already consider that issue for all of my classes.  It is, after all, the right thing to do.  Here's the statement from my syllabus."
+> "I already consider that issue for all of my classes.  It is, after all, the right thing to do.  Here's the statement from my syllabus."
 
-> "Please provide the licensing terms for the artwork you intend to use, an address for the artist, an anticipated cost of using the artwork, a contact person at the artist's studio, the artist's FERPA policy, and operating system or systems on which one can view the artwork.  Please indicate whether the artwork will be used for legal compliance; a mandatory function other than legal compliance; business processes, information flows, reporting, or data analytics; cross-organizational unit functionality.  Will the artwork be available to all students and used by a majority of students?  Must we seek licensing permissions for all faculty and all staff?"
+"Thank you.  In addition, please provide the licensing terms for the artwork you intend to use, an address for the artist, an anticipated cost of using the artwork, a contact person at the artist's studio, the artist's FERPA policy, and operating system or systems on which one can view the artwork.  Please indicate whether the artwork will be used for legal compliance; a mandatory function other than legal compliance; business processes, information flows, reporting, or data analytics; cross-organizational unit functionality.  Will the artwork be available to all students and used by a majority of students?  Must we seek licensing permissions for all faculty and all staff?"
 
-"Really?  Okay.  Done."
+> "Really?  Okay.  Done."
 
-> "Please note that resources (whether financial, support time, or otherwise) are not infinite."
+"Please note that resources (whether financial, support time, or otherwise) are not infinite."
 
-"Neither are mine."
+> "Neither are mine."
 
 ---
 
