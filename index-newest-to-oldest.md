@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 1041-1050
 
+[Web-based software for making appointments](online-bookings-2020-04-10) (Musing #1045)  
 [Unexpected joys](unexpected-joys-2020-04-09) (Musing #1044)  
 [After the head shave](post-head-shave-2020-04-08) (Musing #1043)  
 [My newer office](newer-office-2020-04-07) (Musing #1042)  

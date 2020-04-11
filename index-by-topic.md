@@ -1933,6 +1933,10 @@ online, but they will soon expand to more general issues about teaching._
 
 > Some initial thoughts.
 
+[Web-based software for making appointments](online-bookings-2020-04-10) (Musing #1045)
+
+> Software transitions.
+
 Code camps
 ----------
 
