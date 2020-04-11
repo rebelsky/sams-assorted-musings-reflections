@@ -214,3 +214,7 @@ be found in [the list of musings on writing](index-on-writing)._
 
 > Going beyond ten bits.  Or more than a buck and a quarter.
 
+[Comfortable structures](comfortable-structures-2020-04-11) (Musing #1046)
+
+> You should know what to expect.
+

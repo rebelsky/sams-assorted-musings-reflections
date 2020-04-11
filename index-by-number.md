@@ -1357,3 +1357,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [After the head shave](post-head-shave-2020-04-08) (Musing #1043)  
 [Unexpected joys](unexpected-joys-2020-04-09) (Musing #1044)  
 [Web-based software for making appointments](online-bookings-2020-04-10) (Musing #1045)  
+[Comfortable structures](comfortable-structures-2020-04-11) (Musing #1046)  

@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Web-based software for making appointments](online-bookings-2020-04-10) (Musing #1045)
+[Comfortable structures](comfortable-structures-2020-04-11) (Musing #1046)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
