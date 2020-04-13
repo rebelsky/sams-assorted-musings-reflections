@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 1041-1050
 
+[Comfort food](comfort-food-2020-04-12) (Musing #1047)  
 [Comfortable structures](comfortable-structures-2020-04-11) (Musing #1046)  
 [Web-based software for making appointments](online-bookings-2020-04-10) (Musing #1045)  
 [Unexpected joys](unexpected-joys-2020-04-09) (Musing #1044)  

@@ -3545,6 +3545,10 @@ Autobiographical essays, more or less
 
 > The new adventures of an Uncle Fester look-a-like during the pandemic.
 
+[Comfort food](comfort-food-2020-04-12) (Musing #1047)
+
+> Come for t' food, stay for t' puns. 
+
 Salary reviews
 --------------
 
