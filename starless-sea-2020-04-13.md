@@ -1,11 +1,11 @@
 ---
 title: Reading _The Starless Sea_
 number: 1048
-tags: [Reviews](index-reviews)
+tags: [Reviews](index-reviews), short
 blurb: The Rebelsky Book Club continues.
-version: 1.0
+version: 1.0.1
 released: 2020-04-13
-current: 
+current: 2020-04-13
 ---
 In the most recent installment of _The Rebelsky Book Club_, the
 Rebelsky family read and discussed Erin Morgenstern's [1] _The
