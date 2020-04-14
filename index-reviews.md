@@ -31,3 +31,7 @@ things I enjoy.*
 
 > Humorist.  Philosopher.  Occasional downer.
 
+[Reading _The Starless Sea_](starless-sea-2020-04-13) (Musing #1048)
+
+> The Rebelsky Book Club continues.
+

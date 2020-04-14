@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Comfort food](comfort-food-2020-04-12) (Musing #1047)
+[Reading _The Starless Sea_](starless-sea-2020-04-13) (Musing #1048)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
