@@ -146,6 +146,10 @@ Essays on writing, or at least on writing my musings
 
 > Is it just an extended musing?
 
+[The Wrong Stuff](the-wrong-stuff-2020-04-14) (Musing #1049)
+
+> Does Ralph hate us?
+
 On language
 -----------
 

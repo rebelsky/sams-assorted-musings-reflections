@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 1041-1050
 
+[The Wrong Stuff](the-wrong-stuff-2020-04-14) (Musing #1049)  
 [Reading _The Starless Sea_](starless-sea-2020-04-13) (Musing #1048)  
 [Comfort food](comfort-food-2020-04-12) (Musing #1047)  
 [Comfortable structures](comfortable-structures-2020-04-11) (Musing #1046)  
