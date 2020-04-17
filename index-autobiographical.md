@@ -497,3 +497,7 @@ Autobiographical essays, more or less
 
 > Come for t' food, stay for t' puns. 
 
+[Interview prep](interview-prep-2020-04-16) (Musing #1050)
+
+> Bits of autobiography.
+
