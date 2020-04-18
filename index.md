@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Interview prep](interview-prep-2020-04-16) (Musing #1050)
+[Self-studying computer science](self-study-cs-2020-04-17) (Musing #1051)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

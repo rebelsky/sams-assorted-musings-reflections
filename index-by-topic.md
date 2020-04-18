@@ -613,6 +613,10 @@ overall characteristics of the institution and the student body.
 
 > Why I offer summer research opportunities.
 
+[Self-studying computer science](self-study-cs-2020-04-17) (Musing #1051)
+
+> I'd rather you take our classes, but here are some alternatives.
+
 For prospective faculty
 -----------------------
 

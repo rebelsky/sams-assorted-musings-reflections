@@ -1,6 +1,10 @@
 Musings, from newest to oldest
 ==============================
 
+## 1051-1060
+
+[Self-studying computer science](self-study-cs-2020-04-17) (Musing #1051)  
+
 ## 1041-1050
 
 [Interview prep](interview-prep-2020-04-16) (Musing #1050)  

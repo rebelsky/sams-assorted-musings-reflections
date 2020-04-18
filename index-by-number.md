@@ -1362,3 +1362,7 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Reading _The Starless Sea_](starless-sea-2020-04-13) (Musing #1048)  
 [The Wrong Stuff](the-wrong-stuff-2020-04-14) (Musing #1049)  
 [Interview prep](interview-prep-2020-04-16) (Musing #1050)  
+
+## 1051-1060
+
+[Self-studying computer science](self-study-cs-2020-04-17) (Musing #1051)  
