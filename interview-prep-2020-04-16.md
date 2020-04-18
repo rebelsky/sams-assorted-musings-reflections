@@ -3,7 +3,7 @@ title: Interview prep
 number: 1050
 tags: [Autobiographical](index-autobiographical)
 blurb: Bits of autobiography.
-version: 1.0
+version: 1.1
 released: 2020-04-16
 current: 
 ---
@@ -130,6 +130,15 @@ And there you have it.  My notes for the interview as well as a few
 post-interview notes.  Those of you who have known me for some time
 have likely heard most of this.  Those of you who didn't may now
 know me a little better, or a least know my public persona a little better.
+
+---
+
+**_Postscript_**: I forgot to mention one of the important parts of
+our family that my mother used to emphasize.  My grandfather only went
+to college because he had a high-school teacher who encouraged him.
+Without that encouragement, he would not have gone on to become an
+engineer, mom probably wouldn't have gone on to college (or at least
+not where she went), and I probably wouldn't be where I am now.
 
 ---
 
