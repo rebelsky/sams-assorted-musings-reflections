@@ -108,6 +108,13 @@ GCIEL and the student VR club [9].
 
 ---
 
+**_Postscript_**: Some time in the near future, I will likely write a
+very different musing with the same title.  Why?  Because *I* have to
+prepare to teach our HCI course in the spring.  I hope that Janet will
+be able to share some of her old materials!
+
+---
+
 [1] I did not mention that the Technology Studies concentration has been 
 replaced by a concentration Science, Medicine, and Society [2] and another
 one entitled "Digital Studies" that, from my perspective, looks a lot like
