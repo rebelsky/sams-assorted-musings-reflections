@@ -3,18 +3,18 @@ title: Self-studying computer science
 number: 1051
 tags: [For prospective students](index-prospective-students)
 blurb: I'd rather you take our classes, but here are some alternatives.
-version: 1.0
+version: 1.1
 released: 2020-04-17
-current: 
+current: 2020-04-18
 ---
 Once in a while, a prospective student asks me what online CS courses
 they should take before coming to Grinnell (or some other institution)
 [1].  My first response is to tell them that we don't expect any
 prior CS and design the major so that people with no background can
 complete it, even if they don't start CS in their first year at
-Grinnell.  Some wonderful majors have followed that path [2].  It's also
-found that I have to unteach bad habits that students learn in less
-good online courses.
+Grinnell.  Some wonderful majors have followed that path [2].  And
+when students come in with "prior knowledge", I've often
+found that I have to unteach bad habits.
 
 However, this year [4] folks may have some extra time in the summer,
 and, if they are going to study a bit of CS, I'd prefer that they
