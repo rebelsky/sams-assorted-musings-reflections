@@ -617,6 +617,10 @@ overall characteristics of the institution and the student body.
 
 > I'd rather you take our classes, but here are some alternatives.
 
+[Preparing to do HCI](preparing-for-hci-2020-04-18) (Musing #1052)
+
+> Study broadly.
+
 For prospective faculty
 -----------------------
 
