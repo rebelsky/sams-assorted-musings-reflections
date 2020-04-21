@@ -3,7 +3,7 @@ title: Doing the math
 number: 1053
 tags: [Miscellaneous](index-misc)
 blurb: The year ahead.
-version: 0.1
+version: 0.2
 released: 
 current: 2020-04-20
 ---
@@ -19,7 +19,7 @@ reflecting on the numbers and what affects those numbers.
 Now, I'm not a biologist, nor am I an epidemiologist, nor a physician.
 Hey, these days it's questionable whether I'm even considered a
 mathematician, a statistician, or a scientist.  But I do pay attention
-to what's happening, or at least I try to do.
+to what's happening, or at least I try to.
 
 Here's what I understand.  The SARS-CoV-2 virus is highly contagious.
 Each person with it is likely to infect more than one other person,
@@ -78,6 +78,12 @@ If we're lucky.
 The items I'm discussing are different units and one would not just
 add them together.  But I'm too lazy to come up with a formula, and,
 in any case, it would unlikely to be a good one if I did [1].
+
+---
+
+**_Postscript_**: I wrote this on April 20, 2020.  After talking to
+Michelle, I decided not to post it.  If you stumble upon it, please
+don't share it with others.
 
 ---
 
