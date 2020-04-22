@@ -148,3 +148,7 @@ online, but they will soon expand to more general issues about teaching._
 
 > Software transitions.
 
+[Mock advising](mock-advising-2020-04-21) (Musing #1053)
+
+> Not as good as the real thing.
+

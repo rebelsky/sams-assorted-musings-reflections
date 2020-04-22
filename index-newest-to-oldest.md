@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 1051-1060
 
+[Mock advising](mock-advising-2020-04-21) (Musing #1053)  
 [Preparing to do HCI](preparing-for-hci-2020-04-18) (Musing #1052)  
 [Self-studying computer science](self-study-cs-2020-04-17) (Musing #1051)  
 
