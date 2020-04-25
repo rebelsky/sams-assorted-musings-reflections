@@ -3,7 +3,7 @@ title: Drafting my final essay for The Craft of Creative Nonfiction
 number: 1055
 tags: [Writing](index-on-writing)
 blurb: So much effort!
-version: 0.2
+version: 0.3
 released: 
 current: 2020-04-25
 ---
@@ -36,25 +36,34 @@ not to make huge changes.
 
 So this morning, I sat down and told myself I'd make progress.  I
 wrote more-or-less nonstop from about 9:30 a.m. to about 1:30 p.m.
-and finished a rough draft.  I shared it with Michelle because she
-asked.  Then I sat down to write the assignment [2].  I know that's
-backwards.  But I'd been thinking about the assignment for as long
-as I'd been thinking about the essay.  It's just that, as in the case
-of the essay, I had scattered notes, rather than actual text.
+That is, I wrote.  And wrote.  And wrote.  And edited, And rearranged.
+And rewrote.  And thought.  And cursed.  And everything else that
+happens for composition.  I'm surprised at how focused I was.  I usually
+work with music.  I didn't notice when the music stopped.  I usually
+break for email messages.  I didn't notice when they arrived.  I usually
+talk to Michelle.  She may have talked to me, but I'm not sure I 
+completely noticed [2,3].
+
+Eventually, I finished something I could call an acceptable draft.
+I shared it with Michelle because she asked [4].  Then I sat down to
+write the assignment [5].  I know that's backwards.  But I'd been
+thinking about the assignment for as long as I'd been thinking about
+the essay.  It's just that, as in the case of the essay, I had
+scattered notes, rather than actual text.
 
 Rereading the model piece was helpful.  Finding the model piece was
 also helpful; it appears that I had managed to conflate two pieces
 in my head.  Fascinating.  In any case, as I reread the model piece,
 I found not just the challenges to myself I had anticipated, but
-also a few more.  You'll find them when I post the assignment [3].
+also a few more.  You'll find them when I post the assignment [6].
 As you might expect, those challenges led me to go back to the
 piece, edit, rewrite, and even restructure.  Since my inclination
 is often to add, rather than to cut, I also had to consider effects
-[4].  Adding in one place meant cutting elsewhere.  Replacing was
+[7].  Adding in one place meant cutting elsewhere.  Replacing was
 a good strategy, at times.
 
-Now it's 4:00 p.m. [5]. I've spent close to a whole day on the essay
-[6].  It seems best to take some time off and revisit it late
+Now it's 4:00 p.m. [8]. I've spent close to a whole day on the essay
+[9].  It seems best to take some time off and revisit it late
 tomorrow.  I expect that I'll find a lot to change.  I'll need to
 remember what one of Michelle's mentors told her: "Perfect is the
 enemy of good enough."  In any case, what I'm writing is not the
@@ -103,14 +112,21 @@ you to take a break.
 suggests close to two hours for the longer papers.  Or perhaps I'll just
 attempt less close editing.  We shall see.
 
-[2] As you may recall, Prof. S asks us to develop assignments based on
+[2] Sorry Micki!
+
+[3] To be honest, she did check in with me a few times and I did
+response.  It appears that I was signing in frustration a lot.
+
+[4] And because she could fact check the essay.
+
+[5] As you may recall, Prof. S asks us to develop assignments based on
 model pieces we choose.
 
-[3] On Tuesday.
+[6] On Tuesday.
 
-[4] And affects.  It is, after all, creative nonfiction.
+[7] And affects.  It is, after all, creative nonfiction.
 
-[5] Well it was, when I wrote the first draft of this musing.  Or
+[8] Well it was, when I wrote the first draft of this musing.  Or
 maybe a little later.  I'm writing this text at 4:19 p.m.
 
-[6] Six and a half hours, to be precise.
+[9] Six and a half hours, to be precise.
