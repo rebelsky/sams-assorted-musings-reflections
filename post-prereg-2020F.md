@@ -3,9 +3,9 @@ title: Post-preregistration for fall 2020
 number: 1054
 tags: [Registration](index-registration), [Grinnell](index-grinnell), long, end-notable
 blurb: Reflections on some over-enrolled courses.
-version: 1.0
+version: 1.0.1
 released: 2020-04-24
-current: 
+current: 2020-04-25
 ---
 Yes, it's that time again, time for the long, rambly musing on
 registration that bores most readers, including the writer, but
@@ -96,7 +96,7 @@ On to the twenties.
   students, for a total of thirty-five.  It's predictable that CoF [11] 
   over-enrolls.  The question is how much.  Since English does not seem
   to be offering _The Craft of Poetry_, _The Craft of Creative Nonfiction_,
-  or even _The Craft of Argument_, I would have expected to see it ore
+  or even _The Craft of Argument_, I would have expected to see it more
   over-enrolled.  On a separate note, I see that Garth Greenwell is
   teaching section 1 (also over-enrolled).  I enjoyed meeting him at
   the Writers at Grinnell session this spring and think students will
