@@ -61,3 +61,7 @@ the registration process at Grinnell.*
 
 > There must be some point to doing all this analysis.
 
+[Post-preregistration for fall 2020](post-prereg-2020F) (Musing #1054)
+
+> Reflections on some over-enrolled courses.
+

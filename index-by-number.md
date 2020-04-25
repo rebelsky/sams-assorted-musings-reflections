@@ -1368,3 +1368,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Self-studying computer science](self-study-cs-2020-04-17) (Musing #1051)  
 [Preparing to do HCI](preparing-for-hci-2020-04-18) (Musing #1052)  
 [Mock advising](mock-advising-2020-04-21) (Musing #1053)  
+[Post-preregistration for fall 2020](post-prereg-2020F) (Musing #1054)  

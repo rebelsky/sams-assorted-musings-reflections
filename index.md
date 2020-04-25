@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Mock advising](mock-advising-2020-04-21) (Musing #1053)
+[Post-preregistration for fall 2020](post-prereg-2020F) (Musing #1054)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
