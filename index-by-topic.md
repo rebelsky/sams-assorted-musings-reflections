@@ -150,6 +150,10 @@ Essays on writing, or at least on writing my musings
 
 > Does Ralph hate us?
 
+[Drafting my third essay for The Craft of Creative Nonfiction](eng207-3b-drafting) (Musing #1055)
+
+> So much effort!
+
 On language
 -----------
 

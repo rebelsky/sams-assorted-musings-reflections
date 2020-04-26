@@ -1369,3 +1369,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Preparing to do HCI](preparing-for-hci-2020-04-18) (Musing #1052)  
 [Mock advising](mock-advising-2020-04-21) (Musing #1053)  
 [Post-preregistration for fall 2020](post-prereg-2020F) (Musing #1054)  
+[Drafting my third essay for The Craft of Creative Nonfiction](eng207-3b-drafting) (Musing #1055)  

@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Post-preregistration for fall 2020](post-prereg-2020F) (Musing #1054)
+[Drafting my third essay for The Craft of Creative Nonfiction](eng207-3b-drafting) (Musing #1055)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
