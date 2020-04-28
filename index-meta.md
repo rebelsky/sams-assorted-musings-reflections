@@ -218,3 +218,7 @@ be found in [the list of musings on writing](index-on-writing)._
 
 > You should know what to expect.
 
+[Attempting to understand my readers](post-prereg-questions-2020-04-27) (Musing #1056)
+
+> Sam trolls for comments and compliments.
+

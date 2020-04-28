@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 1051-1060
 
+[Attempting to understand my readers](post-prereg-questions-2020-04-27) (Musing #1056)  
 [Drafting my third essay for The Craft of Creative Nonfiction](eng207-3b-drafting) (Musing #1055)  
 [Post-preregistration for fall 2020](post-prereg-2020F) (Musing #1054)  
 [Mock advising](mock-advising-2020-04-21) (Musing #1053)  
