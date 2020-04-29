@@ -48,10 +48,11 @@ I've spent most of my career at Grinnell working on gender diversity
 in my field.  These past few years, I've also turned my attention to
 racial diversity.  At some point, I'd like to see us be more thoughtful
 about attracting and supporting students with disAbilities, making sure
-that our curriculum is accessible to students with visual, hearing, or
-other physical impairments.  Grinnell is clearly working hard to provide
-better support for such students, and I'd hope that we could be seen as
-a particularly supportive department.
+that our curriculum is accessible to students with visual, hearing,
+or other physical impairments as well as to students beyond the
+neurotypical.  Grinnell is clearly working hard to provide better
+support for such students, and I'd hope that we could be seen as a
+particularly supportive department.
 
 What do I do as an educator?  What can I do? I feel fortunate that I'm not
 alone in prioritizing diversity.  As I'll write in a separate essay,
@@ -80,4 +81,6 @@ do to make CS more inclusive usually support everyone.
 
 ---
 
-*Version 1.0 of 2016-09-21.*
+*Version 1.0 released 2016-09-21.*
+
+*Version 1.1 of 2020-04-29.*
