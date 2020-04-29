@@ -154,6 +154,10 @@ Essays on writing, or at least on writing my musings
 
 > So much effort!
 
+[My third assignment for The Craft of Creative Nonfiction](eng207-3b-assignment) (Musing #1057)
+
+> A pathography
+
 On language
 -----------
 
