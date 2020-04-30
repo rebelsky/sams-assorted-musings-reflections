@@ -3589,6 +3589,10 @@ Autobiographical essays, more or less
 
 > Bits of autobiography.
 
+[Innumeracy (my latest manuscript for The Craft of Creative Nonfiction)](eng207-3b-manuscript) (Musing #1058)
+
+> A pathography of sorts
+
 Salary reviews
 --------------
 

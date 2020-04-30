@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 1051-1060
 
+[Innumeracy (my latest manuscript for The Craft of Creative Nonfiction)](eng207-3b-manuscript) (Musing #1058)  
 [My third assignment for The Craft of Creative Nonfiction](eng207-3b-assignment) (Musing #1057)  
 [Attempting to understand my readers](post-prereg-questions-2020-04-27) (Musing #1056)  
 [Drafting my third essay for The Craft of Creative Nonfiction](eng207-3b-drafting) (Musing #1055)  

@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[My third assignment for The Craft of Creative Nonfiction](eng207-3b-assignment) (Musing #1057)
+[Innumeracy (my latest manuscript for The Craft of Creative Nonfiction)](eng207-3b-manuscript) (Musing #1058)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
