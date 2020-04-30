@@ -3,7 +3,7 @@ title: Claviash
 number: 
 tags: [Miscellaneous](index-misc)
 blurb: However you spell it
-version: 0.1
+version: 0.2
 released: 
 current: 2020-04-29
 ---
@@ -57,6 +57,12 @@ game in particular, just about cards, family, and the number 32.
 I wonder if somewhere, deep in the recesses of that thing I call a
 brain, some aspect of claviash [1] resides.  Now I have to decide
 whether to change that part in the next version of the manuscript [2].
+
+---
+
+**_Postscript_**.  It appears some people spell the name as
+"[Bela](https://www.pagat.com/jass/bela.html)".  I don't see how
+one gets the expected pronunciation of that.
 
 ---
 
