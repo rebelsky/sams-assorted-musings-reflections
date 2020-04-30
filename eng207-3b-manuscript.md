@@ -3,9 +3,9 @@ title: Innumeracy (my latest manuscript for The Craft of Creative Nonfiction)
 number: 1058
 tags: [Autobiographical](index-autobiographical)
 blurb: A pathography of sorts
-version: 1.0
+version: 1.0.1
 released: 2020-04-29
-current: 
+current: 2020-04-29
 ---
 Those who have been keeping up with my musings know that I recently
 turned in my third manuscript for _The Craft of Creative Nonfiction_.
@@ -15,7 +15,7 @@ All that's left are the rewrites [1].
 I should warn you that the subject matters of this piece are a bit
 more troublesome than most of my musings.  I discuss death, Cancer
 (big C and all), things like that.  Writing it made me cry.  Reading
-it made Michelel cry.  You may learn things about me you didn't
+it made Michelle cry.  You may learn things about me you didn't
 want to know.  I should also warn you that I use profanity in this
 essay [2].  Oh, this is also supposed to be in the genre of "Lyric,
 Reflective, and/or Experimental Memoir".  Among other things, that
