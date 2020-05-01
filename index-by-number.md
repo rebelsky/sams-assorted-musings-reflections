@@ -1373,3 +1373,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Attempting to understand my readers](post-prereg-questions-2020-04-27) (Musing #1056)  
 [My third assignment for The Craft of Creative Nonfiction](eng207-3b-assignment) (Musing #1057)  
 [Innumeracy (my latest manuscript for The Craft of Creative Nonfiction)](eng207-3b-manuscript) (Musing #1058)  
+[Claviash](claviash-2020-04-30) (Musing #1059)  

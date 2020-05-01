@@ -4504,6 +4504,10 @@ Almost everything else
 
 > Perhaps I should expect more of them.
 
+[Claviash](claviash-2020-04-30) (Musing #1059)
+
+> However you spell it.
+
 Musings with multiple entries
 -----------------------------
 
