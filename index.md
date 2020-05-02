@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Claviash](claviash-2020-04-30) (Musing #1059)
+[Another month of (almost) daily musings](another-month-2020-04) (Musing #1060)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

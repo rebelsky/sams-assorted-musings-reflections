@@ -125,3 +125,7 @@ most of them here._
 
 > Even less writing than usual.
 
+[Another month of (almost) daily musings](another-month-2020-04) (Musing #1060)
+
+> Musing in a time of confusion.
+
