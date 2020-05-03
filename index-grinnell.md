@@ -335,3 +335,7 @@ Grinnell.
 
 > Let's go virtual!
 
+[A list of Grinnell's Summer 2020 classes](summer-2020-classes-2020-05-03) (Musing #1061)
+
+> Reorganized.
+

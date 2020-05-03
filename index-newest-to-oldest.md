@@ -1,6 +1,10 @@
 Musings, from newest to oldest
 ==============================
 
+## 1061-1070
+
+[A list of Grinnell's Summer 2020 classes](summer-2020-classes-2020-05-03) (Musing #1061)  
+
 ## 1051-1060
 
 [Another month of (almost) daily musings](another-month-2020-04) (Musing #1060)  
