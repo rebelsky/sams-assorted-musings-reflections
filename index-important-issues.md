@@ -99,3 +99,7 @@ in Web hosting.
 
 > Something Grinnell needs to work on.
 
+[Departmental initiatives to support diversity in CS](diversity-in-cs-2020-05-03) (Musing #1062)
+
+> Many, but never enough
+

@@ -1379,3 +1379,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 ## 1061-1070
 
 [A list of Grinnell's Summer 2020 classes](summer-2020-classes-2020-05-03) (Musing #1061)  
+[Departmental initiatives to support diversity in CS](diversity-in-cs-2020-05-03) (Musing #1062)  
