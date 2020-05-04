@@ -3,9 +3,9 @@ title: A list of Grinnell's Summer 2020 classes
 number: 1061
 tags: [Grinnell](index-grinnell)
 blurb: Reorganized
-version: 1.0
+version: 1.1
 released: 2020-05-03 
-current: 
+current: 2020-05-04
 ---
 This summer, for the first time in my Grinnell career, Grinnell is offering
 a set of summer classes.  I don't know if we had summer classes in the
@@ -84,6 +84,8 @@ list [3] of use.
 *THD-115-01: Theatrical Design & Technology* (4 cr.) - Thomas, J.
 
 > A hands-on, experiential introduction to the design elements of theatre and dance production. Topics include a history of western theatre architecture and stage forms, scene painting, properties, lighting, sound, drafting, make-up, and costuming. Emphasis is placed upon the design and implementation of theatrical scenes from a variety of historic eras and the analysis of the ways in which the design elements influence performance style. Prerequisite: none.
+
+> SUMMER 2020 Notes for Distance Learning Adaptation: Over the last 20 years, live performance has relied more and more upon digital media and distance collaborations. During the Summer 2020 session, THD 115 will provide students an introduction to the creation of design and technical elements used in live performance. Essential course units include sound editing and mixing, lighting console programming, mask-making, and projection design/systems in individual and small-group collaborations. Students will learn the foundations of technical drafting/drawing in scale, construction techniques, and electrical systems. Content from this class is directly applicable to the creation, design, and implementation of digital performances and is well-suited for online teaching. We will utilize these experiential components to provide a foundation for the study of how design elements, space/architecture, time, and digital media influence performance style. 
 
 ---
 
