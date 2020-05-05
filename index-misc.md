@@ -794,3 +794,7 @@ Almost everything else
 
 > However you spell it.
 
+[(Too much) Virtual live music](live-music-2020-05-04) (Musing #1063)
+
+> Choices, choices.
+

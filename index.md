@@ -9,10 +9,8 @@ If you'd like, you can read [a longer introduction](intro-musings-v0).
 If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
-Latest musings:
-[A list of Grinnell's Summer 2020 classes](summer-2020-classes-2020-05-03) (Musing #1061)
-and
-[Departmental initiatives to support diversity in CS](diversity-in-cs-2020-05-03) (Musing #1062)
+Latest musing:
+[(Too much) Virtual live music](live-music-2020-05-04) (Musing #1063)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
