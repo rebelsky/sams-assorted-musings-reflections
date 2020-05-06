@@ -3,9 +3,9 @@ title: A list of Grinnell's Summer 2020 classes
 number: 1061
 tags: [Grinnell](index-grinnell)
 blurb: Reorganized
-version: 1.1
+version: 1.1.1
 released: 2020-05-03 
-current: 2020-05-04
+current: 2020-05-06
 ---
 This summer, for the first time in my Grinnell career, Grinnell is offering
 a set of summer classes.  I don't know if we had summer classes in the
@@ -54,7 +54,7 @@ list [3] of use.
 
 **Summer Term II: July 13 through August 21**
 
-*ANT-210-01: Illness, Healing and Culture* (4 cr.) - Tapia, M.
+*ANT-210-01: Illness, Healing and Culture* (4 cr.) - Tapias, M.
 
 > This course examines beliefs about illness, healing, and the body across cultures. We will examine how the body, illness, health, and medicine are shaped not only by cultural values, but also by social, political, and historical factors. The class will draw attention to how biomedicine is only one among many culturally constructed systems of medicine. Prerequisite: Anthropology 104 (waived for summer 2020). 
 
