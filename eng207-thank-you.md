@@ -3,7 +3,7 @@ title: To my colleagues in _The Craft of Creative Nonfiction_
 number: 
 tags: [Thankful](index-thank-you)
 blurb: Thank you.
-version: 0.3
+version: 0.4
 released: 
 current: 2020-05-07
 ---
@@ -35,11 +35,13 @@ Unsurprisingly, I have gone on longer than I intended.  Thank you, once again, f
 
 I wish you all success and a sense of achievement on your remaining work.  I know that this time of the semester is often a challenge and that it is particularly so this year.
 
-Take care and be well.
+Be well and take care.
 
 -- SamR
 
-p.s. As I think most of you know, I write a 'blog, of sorts, at <https://www.cs.grinnell.edu/~rebelsky/musings>.  I would like to post a version of this message there to celebrate and acknowledge you more publicly.  I think it is safe to do so because I mention none of you by name in the note, nor do I reference any particular things I learned in class or through your work.  However, I respect your rights to privacy.  Please let me know whether or not you are okay with me posting something; if I don't hear affirmative responses from everyone, I will not post it.
+p.s. As I think most of you know, I perform my public persona in a 'blog, of sorts, at <https://www.cs.grinnell.edu/~rebelsky/musings>.  I would like to post a version of this message there to celebrate and acknowledge you.  I think it is safe to do so because I mention none of you by name in the note, nor do I reference any particular things I learned about you in class or through your work.  However, I respect your rights to privacy.  Please let me know whether or not you are okay with me posting something; if I don't hear affirmative responses from everyone, I will not post it.
+
+p.p.s. Just in case you want some additional reading and to see how my writing has evolved: <https://www.cs.grinnell.edu/~rebelsky/musings/last-day-of-class>.
 
 ---
 
@@ -47,7 +49,7 @@ Dear Professor Savarese,
 
 I realize that I should leave this message "on hold" until after I've turned in my notes and portfolio.  However, given that I am about to send a thank-you note to my classmates, this seems to be the appropriate time.
 
-Thank you for permitting me to participate in the class.  I learned so much from you and from my classmates.  You've made me a better writer.  Will you see evidence in that in my musings?  I'm not sure.  If you're lucky, you'll see a bit more variation in my sentence structure from time to time.
+Thank you for permitting me to participate in the class.  I learned so much from you and from my classmates.  You've made me a better writer.  Will you see evidence in that in my musings?  I'm not sure.  If you're lucky, you'll see a bit more variation in my sentence structure from time to time.  Perhaps even some care in word choice.
 
 Thank you for your careful and pointed feedback.  I expected you to be straightforward, perhaps even blunt, and you met those expectations.
 
@@ -62,3 +64,5 @@ Good luck on the work that you must do over these next few weeks.
 Take care and be well.
 
 -- SamR
+
+p.s. Can I start calling you "Ralph" again?
