@@ -2885,6 +2885,10 @@ Grinnell.
 
 > Reorganized.
 
+[Questioning the fall](fall-questions-2020-05-07) (Musing #1064)
+
+> Advice, of sorts.
+
 Registration and Related Topics
 -------------------------------
 

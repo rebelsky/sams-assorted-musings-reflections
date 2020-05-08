@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[(Too much) Virtual live music](live-music-2020-05-04) (Musing #1063)
+[Questioning the fall](fall-questions-2020-05-07) (Musing #1064)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
