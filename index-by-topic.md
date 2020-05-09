@@ -3609,6 +3609,10 @@ Autobiographical essays, more or less
 
 > A pathography of sorts
 
+[Difficulty focusing](difficulty-focusing-2020-05-08) (Musing #1065)
+
+> What was I writing about?
+
 Salary reviews
 --------------
 

@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 1061-1070
 
+[Difficulty focusing](difficulty-focusing-2020-05-08) (Musing #1065)  
 [Questioning the fall](fall-questions-2020-05-07) (Musing #1064)  
 [(Too much) Virtual live music](live-music-2020-05-04) (Musing #1063)  
 [Departmental initiatives to support diversity in CS](diversity-in-cs-2020-05-03) (Musing #1062)  
