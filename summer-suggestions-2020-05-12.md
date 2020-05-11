@@ -2,8 +2,8 @@
 title: Suggestions for summer
 number: 1066
 tags: [Miscellaneous]
-blurb: ???
-version: 0.2
+blurb: Take care of yourself!
+version: 0.3
 released: 
 current: 2020-05-11
 ---
@@ -126,6 +126,11 @@ have some time.
   are two of the most popular platforms.  I think both of them still
   have free options, but they may be hidden.
 
+Philip Kiely also has a YouTube video on "Side Hustles for CS Majors",
+available at <https://www.youtube.com/watch?v=8i2tN-qeKVA>.  I have not 
+watched it, but it's only eleven minutes of your time, so you might find
+something of use.
+
 That's about it for now.  Make sure that you also find ways to take
 care of your physical, emotional, and mental wellness!  Go out for
 a walk.  Do yoga.  Video chat with friends.  Whatever works for you.
@@ -136,7 +141,8 @@ Regards,
 
 p.s. The ideas in this message were developed in collaboration with the
 faculty in the CS department.  Sarah Barks and Philip Kiely provided
-additional suggestions. (I, not Philip, suggested his book.)
+additional suggestions. (I, not Philip, suggested his book.  Philip 
+suggested his video.)
 
 p.p.s. I've posted this message to my 'blog.  If I get suggestions
 and corrections, I may update it.  You can find it at
