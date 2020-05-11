@@ -3,7 +3,7 @@ title: Suggestions for summer
 number: 1066
 tags: [Miscellaneous]
 blurb: ???
-version: 0.1
+version: 0.2
 released: 
 current: 2020-05-11
 ---
@@ -18,7 +18,8 @@ hadn't figured out what to do this summer; things changed quickly.
 
 The CS department and its faculty have started to hear questions from
 students.  "What should I do now?"  This musing serves as my draft of a
-message to go out to our students.
+message to go out to our students.  I may even try to keep it up to date
+as I get more suggestions.
 
 ---
 
@@ -85,14 +86,20 @@ have some time.
 
 * You might *start a 'blog* on technology.  I know very little about
   good 'blogging (and I'm probably the only person left in the world
-  who puts an apostrophe at the start of "'blog" to acknowledge that
-  it's a contraction of "weblog").  Philip Kiely knows a lot, and has a
-  book coming out that might help.
+  who puts an apostrophe at the start of "'blog" to acknowledge
+  that it's a contraction of "weblog").  Philip Kiely knows a lot,
+  and has a book out that might help, which you can find at
+  <https://philipkiely.com/wfsd/>.  I expect that if you are a
+  Grinnell student and send PK a note, he'll send you a free copy.
 
 * You might *develop resources* for your peers.  For example, do 
   interviews with a dozen CS alums and gather information from those
   interviews.  (You could build the list of languages and frameworks
-  to learn that I was unable to present above.)
+  to learn that I was unable to present above.)  Sarah Barks says
+  that things like alumni profiles or tips for future CS students 
+  could find a home on the STEM Career Community GrinnellShare subsite: 
+  <https://grinco.sharepoint.com/sites/OAS/CLS/STEM/SitePages/Home.aspx>.
+  As you might expect, I'd prefer a more public location.
 
 * You might work your way through one or more *great texts in CS*.
   One favorite is, of course, _Structure and Interpretation of
@@ -109,7 +116,9 @@ have some time.
   Speaking of the ACM, I would strongly encourage you to consider a
   student ACM membership which, at last count, gives you access to
   O'Reilly's Safari platform.  I know the Metz book is on it, as are
-  most of the O'Reilly titles and much more.
+  most of the O'Reilly titles and much more.  If the $18 membership
+  fee is a stretch, let me know and I'll pay it for you.  (This offer
+  applies only to Grinnell students.)
 
 * You could try one of the *popular MOOCs* for learning something new
   (and for getting practice with online learning).  EdX
@@ -133,4 +142,5 @@ p.p.s. I've posted this message to my 'blog.  If I get suggestions
 and corrections, I may update it.  You can find it at
 <https://www.cs.grinnell.edu/~rebelsky/musings/summer-suggestions-2020-05-12>.
 
+---
 
