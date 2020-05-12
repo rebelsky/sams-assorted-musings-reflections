@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Difficulty focusing](difficulty-focusing-2020-05-08) (Musing #1065)
+[After the cuts, the closes, the balancing acts (for Fall 2020)](post-ccb-2020F) (Musing #1066)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

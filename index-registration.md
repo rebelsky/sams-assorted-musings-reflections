@@ -65,3 +65,7 @@ the registration process at Grinnell.*
 
 > Reflections on some over-enrolled courses.
 
+[After the cuts, the closes, the balancing acts (for Fall 2020)](post-ccb-2020F) (Musing #1066)
+
+> Pointless or not?
+
