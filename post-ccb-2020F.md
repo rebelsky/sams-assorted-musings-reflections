@@ -3,9 +3,9 @@ title: After the cuts, the closes, the balancing acts (for Fall 2020)
 number: 1066
 tags: [Registration](index-registration), Rambly, Unedited
 blurb: Pointless or not?
-version: 1.1
+version: 1.1.1
 released: 2020-05-11
-current: 2020-05-11
+current: 2020-05-12
 ---
 Today the Cut/Close/Balance process for Fall 2020 finished.  As
 I've mentioned previously, the whole process seemed pointless to
@@ -391,7 +391,9 @@ A few assorted other comments.
   different assignments and expectations..
 * I don't understand what's happening with HIS-100.  One section
   is closed, with sixteen slots open.  The other three sections are
-  open (they do have more slots available).
+  open (they do have more slots available).  (Followup: I am told
+  that the goal is to keep them balanced, but without moving students
+  around.  Closing the sections with higher enrollers helps.)
 * It's rare that there are slots left in MAT-115, _Linear Algebra_,
   and a section of MAT-218, _Topics in Discrete Mathematics_.  But
   there are this fall.  Cool!  (It's not like there are a lot, but
