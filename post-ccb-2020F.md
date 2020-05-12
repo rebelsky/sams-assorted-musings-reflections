@@ -3,9 +3,9 @@ title: After the cuts, the closes, the balancing acts (for Fall 2020)
 number: 1066
 tags: [Registration](index-registration), Rambly, Unedited
 blurb: Pointless or not?
-version: 1.0
+version: 1.1
 released: 2020-05-11
-current: 
+current: 2020-05-11
 ---
 Today the Cut/Close/Balance process for Fall 2020 finished.  As
 I've mentioned previously, the whole process seemed pointless to
@@ -379,13 +379,16 @@ A few assorted other comments.
 
 * I'm sad that ENG/GLS-349-01, _Medieval Literature_, was cut.  That
   seems like an important course.
-* I'm not sure why GDS/POL-395-01, _ST: Ggrphs Bottom Billion_, was
-  not cut.  300-level special-topics courses with one student aren't
-  usually permitted.  There are a few other 200- and 300-level
-  courses with fewer than the traditional minimum of six.  I wonder
-  how much time the Dean had this year to probe for courses to cut
-  and to negotiate about those cuts.  Since it has only happened
-  to CS once in memory [19], I don't know how all that happens.
+* There are a few courses that would normally be on the chopping
+  block: Under six students, not required for the major, not available
+  for first-years.  I wonder how much time the Dean had this year to
+  probe for courses to cut and to negotiate about those cuts.  Since it
+  has only happened to CS once in memory [19], I don't know how all those
+  decisions are made and what the implications are.  I also know that
+  some numbers are misleading.  For example, CSC 326 normally only has
+  only one or two students in each section, but it provides no teaching
+  credit and those students participate in CSC 324, just with somewhat
+  different assignments and expectations..
 * I don't understand what's happening with HIS-100.  One section
   is closed, with sixteen slots open.  The other three sections are
   open (they do have more slots available).
