@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 1061-1070
 
+[Suggestions for summer](summer-suggestions-2020-05-12) (Musing #1067)  
 [After the cuts, the closes, the balancing acts (for Fall 2020)](post-ccb-2020F) (Musing #1066)  
 [Difficulty focusing](difficulty-focusing-2020-05-08) (Musing #1065)  
 [Questioning the fall](fall-questions-2020-05-07) (Musing #1064)  

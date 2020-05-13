@@ -798,3 +798,7 @@ Almost everything else
 
 > Choices, choices.
 
+[Suggestions for summer](summer-suggestions-2020-05-12) (Musing #1067)
+
+> Take care of yourself!
+

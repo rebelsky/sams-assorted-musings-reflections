@@ -1384,3 +1384,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Questioning the fall](fall-questions-2020-05-07) (Musing #1064)  
 [Difficulty focusing](difficulty-focusing-2020-05-08) (Musing #1065)  
 [After the cuts, the closes, the balancing acts (for Fall 2020)](post-ccb-2020F) (Musing #1066)  
+[Suggestions for summer](summer-suggestions-2020-05-12) (Musing #1067)  

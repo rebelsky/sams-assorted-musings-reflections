@@ -1,44 +1,45 @@
 ---
 title: Suggestions for summer
-number: 1066
-tags: [Miscellaneous]
+number: 1067
+tags: [Miscellaneous](index-misc), Things I was writing anyway
 blurb: Take care of yourself!
-version: 0.3
-released: 
-current: 2020-05-11
+version: 1.0
+released: 2020-05-12
+current: 
 ---
-**_This musing is in draft form!_**
+The pandemic has brought complications and difficulties to many
+(all).  I lack much of the knowledge and skills necessary to help
+others, but I can sometimes provide a bit of advice to a more limited
+audience.  Right now, many Grinnell CS majors are facing the challenge
+of what to do this summer.  Some had their internships canceled.
+Some were waiting for an offer that never came through.  Some still
+hadn't figured out what to do this summer and now nothing is
+available; things changed quickly.
 
-The pandemic has brought complications and difficulties to many (all).
-I lack the knowledge and skills to help others deal with most of those,
-but I can sometimes provide a bit of advice.  Right now, many Grinnell
-CS majors are facing the challenge of what to do this summer.  Some had
-their internships canceled.  Some were waiting for an offer.  Some still
-hadn't figured out what to do this summer; things changed quickly.
-
-The CS department and its faculty have started to hear questions from
-students.  "What should I do now?"  This musing serves as my draft of a
-message to go out to our students.  I may even try to keep it up to date
-as I get more suggestions.
+The CS department and its faculty have been hearing the natural
+question from students: "What should I do now?"  This musing serves
+as my draft of a message to go out to our students [1].  I may even
+try to keep it up to date as I get more suggestions [2].
 
 ---
 
 Dear CS Students,
 
-I hope that you are well (physically, mentally, and emotionally) during
-these troubling times and that your semesters are wrapping up well.
+I hope that you are well (physically, mentally, and emotionally)---or
+at least as well as you can be---during these troubling times and
+that your semesters are wrapping up successfully.
 
 We've been receiving questions about what to do this summer from
 many of you, particularly those who have lost summer internships.
 Unfortunately, we are unlikely to be able to provide any additional
 opportunities through the CS department (we did ask).  But we're happy
-to try to support you in trying to think about other possibilities.
+to try to support you in thinking through other possibilities.
 
 I've heard that there are still some remote internships on Handshake.
 It's worth checking there.  I don't know how many, if any, of those
-are paid, but they could be good experiences.  CLS might be able
-to provide some funding, but I'm not sure how much. It may be worth
-reaching out to Sarah Barks for advice.
+are paid, but they could be good experiences in any case.  CLS might
+be able to provide some funding, but I'm not sure how much. It may
+be worth reaching out to Sarah Barks for advice.
 
 We know that some of you need to make money to support yourselves
 or your families.  Unfortunately, we can't provide you with any good
@@ -51,13 +52,15 @@ work contributions.  I don't know if that makes things less
 anxiety-inducing, but I hope it does.
 
 Okay, on to ideas of what you might do (related to computing) if you 
-have some time.
+have some time.  Most of these are to build skills, knowledge, or
+lines on your résumé; they won't provide immediate benefits beyond
+the joy of learning or, in some cases, of helping others.
 
-* You might develop a *personal project*.  That is, identify a piece
+* You might *develop a personal project*.  That is, identify a piece
   of software that you would use and that is not available (or not
   affordable or open source).
 
-* You might contribute to an *open-source project*.  Find something 
+* You might *contribute to an open-source project*.  Find something 
   meaningful to you and start to dig in.  Read the source code.  Join
   the discussion group.  Look at the bug reports and feature requests.
   See how you can help.  If you're not sure where to get started with
@@ -66,7 +69,9 @@ have some time.
     * <https://www.firsttimersonly.com/>
     * <https://opensource.com/life/16/1/6-beginner-open-source>
 
-* You might teach yourself a new language or a new framework.  (You
+  There are, of course, others.  
+
+* You might *teach yourself a new language or a new framework*.  (You
   can even do this in the context of your personal project or open-source
   project.)  Or you might delve more deeply into a language you already
   know.  I have no idea what is "hot" right now, but I have heard that
@@ -77,22 +82,25 @@ have some time.
 
 * You might do some of the *practice problems* in the collections
   of good problems out there, perhaps in a new language or a new
-  framework.  Here are some.  I admit that I don't have a good sense
-  of what people use now.
+  framework.  Here are some.  
 
      * <https://projecteuler.net/>
      * <https://www.hackerrank.com/>
      * <https://leetcode.com/>
 
-* You might *start a 'blog* on technology.  I know very little about
-  good 'blogging (and I'm probably the only person left in the world
-  who puts an apostrophe at the start of "'blog" to acknowledge
-  that it's a contraction of "weblog").  Philip Kiely knows a lot,
-  and has a book out that might help, which you can find at
-  <https://philipkiely.com/wfsd/>.  I expect that if you are a
-  Grinnell student and send PK a note, he'll send you a free copy.
+  That list reflects my historical knowledge; I admit that I don't
+  have a good sense of what people use now.
 
-* You might *develop resources* for your peers.  For example, do 
+* You might *start a 'blog* on technology or programming or something
+  like that.  I know very little about good 'blogging (and I'm
+  probably the only person left in the world who puts an apostrophe
+  at the start of "'blog" to acknowledge that it's a contraction
+  of "weblog").  Philip Kiely knows a lot, and has a book out that
+  might help, which you can find at <https://philipkiely.com/wfsd/>.
+  I expect that if you are a Grinnell student and send PK a note,
+  he would send you a free copy.
+
+* You might *create resources* for your peers.  For example, do 
   interviews with a dozen CS alums and gather information from those
   interviews.  (You could build the list of languages and frameworks
   to learn that I was unable to present above.)  Sarah Barks says
@@ -126,10 +134,10 @@ have some time.
   are two of the most popular platforms.  I think both of them still
   have free options, but they may be hidden.
 
-Philip Kiely also has a YouTube video on "Side Hustles for CS Majors",
-available at <https://www.youtube.com/watch?v=8i2tN-qeKVA>.  I have not 
-watched it, but it's only eleven minutes of your time, so you might find
-something of use.
+Philip Kiely tells me that he has a YouTube video on "Side Hustles
+for CS Majors", available at <https://www.youtube.com/watch?v=8i2tN-qeKVA>.
+I have not watched it, but it's only eleven minutes of your time,
+so you might find something of use.
 
 That's about it for now.  Make sure that you also find ways to take
 care of your physical, emotional, and mental wellness!  Go out for
@@ -144,9 +152,64 @@ faculty in the CS department.  Sarah Barks and Philip Kiely provided
 additional suggestions. (I, not Philip, suggested his book.  Philip 
 suggested his video.)
 
-p.p.s. I've posted this message to my 'blog.  If I get suggestions
-and corrections, I may update it.  You can find it at
+p.p.s. I plan to post this message to my 'blog.  If I get suggestions
+and corrections, I may update the posting.  You should be able to find it at
 <https://www.cs.grinnell.edu/~rebelsky/musings/summer-suggestions-2020-05-12>.
 
 ---
 
+**_Postscript_**: It appears that my Markdown processor (pandoc) does
+no like nested bulleted lists with spaces in the outer lists, but not
+the inner lists.  I had to rewrite my post a bit to get it to work.
+
+---
+
+**_Postscript_**: Here's what the legendary Patrick McKenzie of
+[Stripe](https://www.stripe.com) says about Philip's book on [his Twitter
+feed](https://twitter.com/patio11/status/1260239875120328706).
+
+> Writing for Software Developers launched today.
+
+> <https://philipkiely.com/wfsd/>
+
+> It's a book which includes both structured practical advice on form factor, writing style, etc, and also interviews with various writers, including @matt_levine and yours truly.
+
+> I'll give two obligatory comments:
+
+> 1) Writing is a professional skill that makes literally every professional more dangerous, in much the same way that learning to code does. I heartily endorse leveling up at it, for everyone.
+
+> 2) The concept for this book is great as a business, in ways which are not necessarily obvious.
+
+> It's an artifact for the consumption of software developers which includes basically no software.
+
+> It's a book about writing which intentionally anti-targets 99.99% of writers.
+
+> Why? Because constraining the topic to the needs of software developers specifically makes *the artifact much better* (you know you're writing for someone who cares about e.g. blog posts to get senior developer jobs and not midlist fiction, and can tailor advice appropriately).
+
+> And note that you certainly could have hypothetically written Writing For $PROFESSION for literally any profession but choosing Software Developers means you structurally have a client who has effectively infinite budget for books which deliver career effectiveness.
+
+> This lets you *clears throat* Charge More.
+
+I like the first obligatory comment, although I'd switch it for Grinnell
+students. 
+
+> Programming is a professional skill that makes literally every
+professional more dangerous, in much the same way that learning to
+write well does.  I heartily endorse leveling up at it, for everyone,
+if only to understand the stuff that is changing your world.
+
+In any case, *Congratulations Philip!*
+
+---
+
+**_Postscript_**: What does it suggest when I discover that all but one
+of the issues that Grammarly identified in this musing were in that
+quoted set of Tweets?  I think it means that Grammarly has beaten
+me into submission.
+
+---
+
+[1] More precisely, I drafted the letter in musing form.  Then I sent
+the letter.  Then I posted the musing.
+
+[2] Assuming I get more suggestions.
