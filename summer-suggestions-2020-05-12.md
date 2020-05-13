@@ -3,9 +3,9 @@ title: Suggestions for summer
 number: 1067
 tags: [Miscellaneous](index-misc), Things I was writing anyway
 blurb: Take care of yourself!
-version: 1.0
+version: 1.1
 released: 2020-05-12
-current: 
+current: 2020-05-13
 ---
 The pandemic has brought complications and difficulties to many
 (all).  I lack much of the knowledge and skills necessary to help
@@ -158,6 +158,14 @@ and corrections, I may update the posting.  You should be able to find it at
 
 ---
 
+**_Postscript_**: Follow-up messages from May 13**
+
+1. There are new remote positions being posted daily on Handshake. Students can even sort postings using the the term “remote.” Applications for CLS funding for remote, summer internships are open and are being accepted on a rolling basis until funds are depleted. Grinnell College students, faculty & staff can find out more on the CLS Grinnell Share site. The CLS advisers continue to help students navigate a wide variety of summer options!
+
+2. The US Census still seems to be hiring. (Note: While contributing to the accuracy of the census, particularly in commuities that are traditionally underrepresented on the census, is a wonderful act of citizenship, it does appear to be a risky occupation.)
+
+---
+
 **_Postscript_**: It appears that my Markdown processor (pandoc) does
 no like nested bulleted lists with spaces in the outer lists, but not
 the inner lists.  I had to rewrite my post a bit to get it to work.
@@ -212,4 +220,4 @@ me into submission.
 [1] More precisely, I drafted the letter in musing form.  Then I sent
 the letter.  Then I posted the musing.
 
-[2] Assuming I get more suggestions.
+[2] Assuming I get more suggestions.  (I did.)
