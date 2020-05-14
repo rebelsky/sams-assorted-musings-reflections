@@ -3,7 +3,7 @@ title: Sisyphean tasks (Questioning credit hours)
 number: 1068
 tags: [Teaching](index-on-teaching), rants, things I was writing anyway, really long
 blurb: Feeling like a broken record.
-version: 0.1.1
+version: 0.1.2
 released:
 current: 2020-05-14
 ---
@@ -190,10 +190,10 @@ addressed since credit hours are supposed to be transferable between
 institutions. How do we know they are equivalent if they are not
 well defined?
 
-1\. One respondent (K) noted that I was taking an American-centric view
-(I was; I appreciate the correction) and pointed me toward the
-European Credit Transfer System (ECTS) and the Bologna Process.
-I appreciate the opportunity to compare systems.  I appreciate that
+1\. One respondent (K, below) noted that I was taking an American-centric
+view (I was; I appreciate the correction) and pointed me toward the
+European Credit Transfer System (ECTS) and the Bologna Process.  I
+appreciate the opportunity to compare systems.  I appreciate that
 the focus seems to be on learning outcomes more than hours spent.
 However, since I teach at a U.S. institution, my primary interest
 remains what people at U.S. institutions are doing.
@@ -260,15 +260,17 @@ Thank you once again for your help!
 p.s. If you send a response to this message to the SIGCSE-members mailing
 list, please remember to limit the amount of material you quote.
 
+p.p.s. All formatting errors are likely my fault. 
+
 \- \- \- \- \-
 
 A\. A small liberal-arts college
 
 Since [School] has 1-, 2-, 3-, and 4-credit courses, we have a worksheet to determine the appropriate credit load for a course (see summary below). The worksheet does not address the question of work hours for which students or what final grades, and I don't think it's addressed in any other documentation.
 
-* One FIU  =  ~ 12 clock hours of direct instructional time over the course of a semester
-* One SWU  =  ~ 24 clock hours of out-of-class student work time over the course of a semester
-* Use the General Formula:  FIU’s + SWU’s  =  # credits for course
+*\ One FIU  =  ~ 12 clock hours of direct instructional time over the course of a semester
+*\ One SWU  =  ~ 24 clock hours of out-of-class student work time over the course of a semester
+*\ Use the General Formula:  FIU’s + SWU’s  =  # credits for course
 
 \- \- \- \- \-
 
