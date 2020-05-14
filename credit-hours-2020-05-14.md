@@ -3,7 +3,7 @@ title: Sisyphean tasks (Questioning credit hours)
 number: 1068
 tags: [Teaching](index-on-teaching), rants, things I was writing anyway, really long
 blurb: Feeling like a broken record.
-version: 0.1
+version: 0.1.1
 released:
 current: 2020-05-14
 ---
@@ -256,6 +256,9 @@ counting.
 Thank you once again for your help!
 
 -- SamR
+
+p.s. If you send a response to this message to the SIGCSE-members mailing
+list, please remember to limit the amount of material you quote.
 
 \- \- \- \- \-
 
