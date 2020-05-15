@@ -2889,6 +2889,14 @@ Grinnell.
 
 > Advice, of sorts.
 
+[Questioning credit hours](credit-hours-2020-05-14) (Musing #1068)
+
+> Feeling like a broken record.
+
+[Summer courses, post-preliminary-registration](summer-courses-2020-05-14) (Musing #1069)
+
+> What next?
+
 Registration and Related Topics
 -------------------------------
 

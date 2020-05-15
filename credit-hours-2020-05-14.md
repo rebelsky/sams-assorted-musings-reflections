@@ -1,11 +1,11 @@
 ---
-title: Sisyphean tasks (Questioning credit hours)
+title: Questioning credit hours
 number: 1068
 tags: [Teaching](index-on-teaching), rants, things I was writing anyway, really long
 blurb: Feeling like a broken record.
-version: 0.1.2
-released:
-current: 2020-05-14
+version: 1.0
+released: 2020-05-14
+current: 
 ---
 As many people know by now, I find myself incredibly frustrated by
 Grinnell's credit-hour definition.  At present, that definition
@@ -523,6 +523,44 @@ my unrestrained comments will help my more restrained colleagues be more
 successful in their own efforts.  
 
 Here's hoping.
+
+---
+
+**_Postscript_**: After I sent the message out to the group, I got one
+more message, this time about experiences in Australia.  I thought i
+should share it here.
+
+At my university, and I believe at most universities in Australia, the measure of course size is not the credit hour. It has a variety of names (credits, credit points, units ...), and there is absolutely no consistency is what it means. For example …
+
+At the University of Newcastle a three-year degree consists of 240 units, with most individual courses worth 10 units each. It’s made clear that a full-time load of 40 units in a semester is intended to correspond approximately with the notional 40-hour week of full-time employment. The breakdown between in-class and out-of-class hours varies, from about 2+8 to perhaps 6+4. Most course in my area are either 4+6 or 3+7.
+
+At Macquarie University, a three-year degree consists of 240 credit points, where “Each credit point equals about three hours of work per week including class time.”
+
+At James Cook University, “credit points are a basic measure of study load. Most subjects are usually worth three credit points. A normal full-time study load for one year is 24 credit points (8 subjects).” So a three-year degree would consist of 72 credit points.
+
+At the University of Western Australia, “an annual total of 48 credit points is equivalent to a standard year of full time study (one EFTSL). A standard unit worth 6 credit points will be equivalent to 0.125 EFTSL (6/48).” A three-year degree is thus 144 credit points.” (And a ‘unit’ is what many people call a ‘course’.)
+
+For completeness . . .
+
+“What type of institution are you at (e.g., four-year liberal arts college, R1 university, community college)?”
+
+An Australian university. R1 university is probably the closest match in your examples. We teach undergraduate degrees, we conduct lots of research, we award doctorates, and our standard undergraduate degree lasts three years, though some specialist degrees last longer.
+
+“How does your institution define a credit hour at the undergraduate level?”
+
+See answers above.
+
+“How/how often does the institution reinforce that definition?”
+
+For my own institution, most course outlines (which you might call syllabi) include some form of the message that a ten-unit course will generally correspond to approximately ten hours of work each week including timetabled classes.
+
+“If your institution uses an "hours worked" definition, how does it address the "For whom, and for what level of work?" question? (Or perhaps, like mine, it doesn't.)”
+
+It doesn’t. In my programming courses I always point out that programming courses almost always take many more hours per week than many other courses.
+
+“How do you know whether your class meets whatever that definition is?”
+
+We don’t, and I doubt that we can. Although for major programming assignments I do ask students to maintain a journal that includes a log of the time they spend on that assignment.
 
 ---
 

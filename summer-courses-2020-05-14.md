@@ -3,9 +3,9 @@ title: Summer courses, post-preliminary-registration
 number: 1069
 tags: [Grinnell](index-grinnell), short
 blurb: What next?
-version: 0.1
-released: 
-current: 2020-05-14
+version: 1.0
+released: 2020-05-14
+current: 
 ---
 Preliminary registration for [Grinnell's first set of online summer
 courses](summer-2020-classes-2020-05-03) wrapped up the other day.

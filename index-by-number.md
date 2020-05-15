@@ -1385,3 +1385,5 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Difficulty focusing](difficulty-focusing-2020-05-08) (Musing #1065)  
 [After the cuts, the closes, the balancing acts (for Fall 2020)](post-ccb-2020F) (Musing #1066)  
 [Suggestions for summer](summer-suggestions-2020-05-12) (Musing #1067)  
+[Questioning credit hours](credit-hours-2020-05-14) (Musing #1068)  
+[Summer courses, post-preliminary-registration](summer-courses-2020-05-14) (Musing #1069)  

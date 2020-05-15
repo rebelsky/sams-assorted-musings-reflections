@@ -9,8 +9,10 @@ If you'd like, you can read [a longer introduction](intro-musings-v0).
 If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
-Latest musing:
-[Suggestions for summer](summer-suggestions-2020-05-12) (Musing #1067)
+Latest musings:
+[Questioning credit hours](credit-hours-2020-05-14) (Musing #1068)
+and
+[Summer courses, post-preliminary-registration](summer-courses-2020-05-14) (Musing #1069)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

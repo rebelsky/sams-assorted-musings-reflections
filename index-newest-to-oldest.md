@@ -3,6 +3,8 @@ Musings, from newest to oldest
 
 ## 1061-1070
 
+[Summer courses, post-preliminary-registration](summer-courses-2020-05-14) (Musing #1069)  
+[Questioning credit hours](credit-hours-2020-05-14) (Musing #1068)  
 [Suggestions for summer](summer-suggestions-2020-05-12) (Musing #1067)  
 [After the cuts, the closes, the balancing acts (for Fall 2020)](post-ccb-2020F) (Musing #1066)  
 [Difficulty focusing](difficulty-focusing-2020-05-08) (Musing #1065)  
