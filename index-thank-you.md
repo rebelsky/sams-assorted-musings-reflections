@@ -41,3 +41,7 @@ Thank-You Notes
 
 > So many wonderful people!
 
+[Good intentions gone awry](good-intentions-2020-05-15) (Musing #1070)
+
+> Another SamR screwup, of sorts
+
