@@ -1,7 +1,7 @@
 ---
 title: Good intentions gone awry
 number: 1070
-tags: [Thank you](index-thank-you)
+tags: [Expressing appreciation](index-thank-you)
 blurb: Another SamR screwup, of sorts
 version: 1.0
 released: 2020-05-15 
