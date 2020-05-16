@@ -7,9 +7,6 @@ version: 1.0
 released: 2020-05-15 
 current: 
 ---
-**_This is a draft, not for public consumption.  Unless I specifically
-asked you to read this, please stop now._**
-
 You know those days [1] you make decisions (or sequences of decisions)
 with good intentions, but they don't end up having anything close
 to the effect you intended? That happens way too much to me. I plan
