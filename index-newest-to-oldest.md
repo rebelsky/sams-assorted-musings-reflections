@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 1061-1070
 
+[Good intentions gone awry](good-intentions-2020-05-15) (Musing #1070)  
 [Summer courses, post-preliminary-registration](summer-courses-2020-05-14) (Musing #1069)  
 [Questioning credit hours](credit-hours-2020-05-14) (Musing #1068)  
 [Suggestions for summer](summer-suggestions-2020-05-12) (Musing #1067)  
