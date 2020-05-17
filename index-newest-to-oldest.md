@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 1071-1080
 
+[Attempting grace](attempting-grace-2020-05-17) (Musing #1072)  
 [Notes for a letter that I will not send to the BoT](letter-to-bot-2020-05-16) (Musing #1071)  
 
 ## 1061-1070

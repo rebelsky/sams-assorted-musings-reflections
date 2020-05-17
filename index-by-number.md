@@ -1392,3 +1392,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 ## 1071-1080
 
 [Notes for a letter that I will not send to the BoT](letter-to-bot-2020-05-16) (Musing #1071)  
+[Attempting grace](attempting-grace-2020-05-17) (Musing #1072)  

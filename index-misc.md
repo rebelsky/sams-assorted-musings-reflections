@@ -802,3 +802,7 @@ Almost everything else
 
 > Take care of yourself!
 
+[Attempting grace](attempting-grace-2020-05-17) (Musing #1072)
+
+> Not always succeeding.
+
