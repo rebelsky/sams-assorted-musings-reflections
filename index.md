@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Good intentions gone awry](good-intentions-2020-05-15) (Musing #1070)
+[Notes for a letter that I will not send to the BoT](letter-to-bot-2020-05-16) (Musing #1071)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

@@ -1388,3 +1388,7 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Questioning credit hours](credit-hours-2020-05-14) (Musing #1068)  
 [Summer courses, post-preliminary-registration](summer-courses-2020-05-14) (Musing #1069)  
 [Good intentions gone awry](good-intentions-2020-05-15) (Musing #1070)  
+
+## 1071-1080
+
+[Notes for a letter that I will not send to the BoT](letter-to-bot-2020-05-16) (Musing #1071)  

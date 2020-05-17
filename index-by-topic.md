@@ -2901,6 +2901,10 @@ Grinnell.
 
 > What next?
 
+[Notes for a letter that I will not send to the BoT](letter-to-bot-2020-05-16) (Musing #1071)
+
+> Can't we just call of the search?
+
 Registration and Related Topics
 -------------------------------
 
