@@ -1393,3 +1393,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 
 [Notes for a letter that I will not send to the BoT](letter-to-bot-2020-05-16) (Musing #1071)  
 [Attempting grace](attempting-grace-2020-05-17) (Musing #1072)  
+[Some words for graduating CS majors (and their families) in the class of 2020](cs-seniors-2020) (Musing #1073)  

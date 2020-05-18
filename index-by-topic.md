@@ -1473,6 +1473,10 @@ Assorted talks and speeches
 
 > Writing the talk to go with the slide deck is also hard.
 
+[Some words for graduating CS majors (and their families) in the class of 2020](cs-seniors-2020) (Musing #1073)
+
+> Words I wanted to share, although not the place.
+
 On life in academia
 -------------------
 
