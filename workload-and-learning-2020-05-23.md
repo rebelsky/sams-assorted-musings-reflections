@@ -76,3 +76,9 @@ perhaps it will.
 
 As I said, I wasn't sure whether the rant would evolve into something
 else.  Perhaps it has evolved into optimism.  We shall see.
+
+---
+
+**_Postscript_**: Yes, I realize that this musing is relatively pointless.
+But I haven't mused in nearly a week, and I need to get myself back in
+the habit.  So you're stuck with this (or I am).
