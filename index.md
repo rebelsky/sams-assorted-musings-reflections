@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Some words for graduating CS majors (and their families) in the class of 2020](cs-seniors-2020) (Musing #1073)
+[Workload, learning, and such](workload-and-learning-2020-05-23) (Musing #1074)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

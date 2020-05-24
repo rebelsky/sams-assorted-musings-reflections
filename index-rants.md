@@ -542,3 +542,7 @@ Rants
 
 > Why do designers get them wrong?
 
+[Workload, learning, and such](workload-and-learning-2020-05-23) (Musing #1074)
+
+> Am I winning or losing?
+

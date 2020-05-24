@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 1071-1080
 
+[Workload, learning, and such](workload-and-learning-2020-05-23) (Musing #1074)  
 [Some words for graduating CS majors (and their families) in the class of 2020](cs-seniors-2020) (Musing #1073)  
 [Attempting grace](attempting-grace-2020-05-17) (Musing #1072)  
 [Notes for a letter that I will not send to the BoT](letter-to-bot-2020-05-16) (Musing #1071)  
