@@ -7,6 +7,9 @@ version: 1.0
 released: 2020-05-24 
 current: 
 ---
+*Warning: Most readers will likely find this musing pointless and
+rambly.  Of course, that disclaimer may hold for all my musings.*
+
 I had at least two other musings planned for today.  But neither got
 finished.  To be honest, one didn't even really get started.  Why?
 You should be able to tell from the title of this musing.  That's
@@ -117,7 +120,10 @@ Could I have written my other musings instead of this one?  Probably
 not.  I wrote this one while watching a movie with my family [7].
 One required deep concentration.  The other required me to listen
 to some music.  Neither permitted much multitasking.  This one did
-[9].
+[9].  Of course, I did have to go back and check how much space was
+available on the Macbook, but that only took a few minutes.  (It
+wanted me to verify other things when I went back to it, so it wasn't
+as quick a check as I expected.)
 
 ---
 
