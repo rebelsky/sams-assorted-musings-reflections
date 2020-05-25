@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 1071-1080
 
+[Computer troubles](computer-troubles-2020-05-24) (Musing #1075)  
 [Workload, learning, and such](workload-and-learning-2020-05-23) (Musing #1074)  
 [Some words for graduating CS majors (and their families) in the class of 2020](cs-seniors-2020) (Musing #1073)  
 [Attempting grace](attempting-grace-2020-05-17) (Musing #1072)  

@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Workload, learning, and such](workload-and-learning-2020-05-23) (Musing #1074)
+[Computer troubles](computer-troubles-2020-05-24) (Musing #1075)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

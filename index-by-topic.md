@@ -1430,6 +1430,10 @@ Rants
 
 > Am I winning or losing?
 
+[Computer troubles](computer-troubles-2020-05-24) (Musing #1075)
+
+> Why are these things never easy?
+
 Assorted talks and speeches
 ---------------------------
 
