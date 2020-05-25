@@ -1,11 +1,11 @@
 ---
 title: Lost in the Interweb, episode 803.6: Good morning, somewhere, how are you?
-number: 1074
+number: 1076
 tags: [Miscellaneous](index-misc), music, long, rambly
-blurb: A new version of "cover versions".
-version: 0.3
-released: 
-current: 2020-05-25
+blurb: A new interpreation of "cover version".
+version: 1.0
+released: 2020-05-25 
+current:
 ---
 Like many people of my generation, I love the song "City of New
 Orleans" by Steve Goodman.  And like many people of my generation
@@ -20,88 +20,90 @@ than that.  Part of it is the framing of the song: It's a train song
 (popular in the U.S.), it's even a nostalgic train song, but it
 also makes it explicit that it's nostalgic and that the age of the
 passenger train as a primary mode of transportation has reached its
-end ("and the steel rail still ain't heard the news", "this train's
+end ("the steel rail still ain't heard the news", "this train's
 got the disappearing railroad blues").
 
 Perhaps more than that, I appreciate his observations and the way he
 turns them into carefully framed lyrics, "the sons of Pullman porters
 and the sons of engineers ride their fathers' magic carpet made of
-steel [5]", which is a wonderful pairing, or "pass the paper bag that
+steel" [5], which is a wonderful pairing, or "pass the paper bag that
 holds the bottle", which is so much better than the more obvious
 "pass the bottle" or "pass the booze".
 
-The other day, I was reading about the song on the Interweb.  It was
-the result of one of those traditional labyrinthine Interweb paths.  I'd
-been reading about John Prine, who passed away recently.  Prine regularly
-played with Goodman [6].  That led me to read [the Wikipedia page on
-Goodman](https://en.wikipedia.org/wiki/Steve_Goodman), which spends
-some time on one of his most famous songs [7].
+The other day, I was reading about the song on the Interweb.  It
+was the result of one of those traditional labyrinthine Interweb
+paths.  I'd been reading about John Prine, who passed away recently.
+Prine regularly played with Goodman [6].  That led me to read [the
+Wikipedia page on Goodman](https://en.wikipedia.org/wiki/Steve_Goodman),
+which spends some time on his most famous song [7].
 
-And I discovered something interesting.  There are versions of "City
+I discovered something interesting.  There are versions of "City
 of New Orleans" in other languages.  Now, these are not your
 traditional cover versions, such as the Beatles' "[Komm, gib mir
 deine Hand](https://www.youtube.com/watch?v=6qAazPVLONM)" [8,10],
 which approximately translate the lyrics into the other the language.
-Instead, these retain the melody but discard essentially everything
-else.
+Instead, these versions retain the melody of "City of New Orleans"
+but discard almost everything else.
 
 ---
 
 We'll start with Gerard Cox's 1973 Dutch [12] version, "['t Is Weer
 Voorbij Die Mooie Zomer](https://www.youtube.com/watch?v=23ORU2CZ5K4)".
 (You can read the lyrics and an approximate translation at the end
-of this musing.)_ I'm not quite sure how to describe Cox's version
+of this musing.) I'm not quite sure how to describe Cox's version
 [14].  It has nothing to do with trains.  Rather, it's about summer.
 Here are a few of the lyrics, translated (not by me).
 
 > We played golf and jeu de boule  
 > We were happy in a chair  
-> That summer started in May  
+> That summer that started in May  
 
-Such close attention to detail, isn't it?  Cox does echo the
-nostalgia of Goodman's song, but Goodman's is a nostalgia that
-admits it's nostalgic and that nostalgia is potentially problematic.
-Cox's also notes some concerns, such as in the chorus.
+Close attention to detail, worthy of Goodman, right?  No.  However,
+Cox does echo the nostalgia of Goodman's song, even though Goodman's
+is a nostalgia that admits it's nostalgic and that nostalgia is
+potentially problematic.  Cox's also notes some concerns, such as
+in the chorus.
 
 > It's over that beautiful summer again  
-> That summer started in May  
+> That summer that started in May  
 > Ah, you thought there was no end to it  
 > But before you know it, it's all that summer long gone
 
-The summer ends, but it's coming again, at least in my reading of
-the song.  Maybe it's more meaningful in Dutch.  I do wish I knew
-more of the cultural context since there are at least two lyrics
-that feel a bit pointed to me.
+Still, the summer ends, but it's coming again, at least in my reading
+of the song.  Maybe it's more meaningful in Dutch.  I do wish I
+knew more of the cultural context since there are at least two
+lyrics that feel a bit pointed to me.
 
 > Van haring geur vermengd met zonnebrand (*Herring fragrance mixed with sunscreen*)
 
 > De ochtend vol van vogelzang (*The morning full of bird song*)  
 > Het scherpe, hoge zoemen van een mug (*The sharp, high buzzing of a mosquito*)
 
-At least in the English translation, that's doesn't bit like Goodman's
+At least in the English translation, that's doesn't bite like Goodman's
 lyrics do, but it adds some interest to a song that feels sentimentally
 trite.
 
-Did I mention the singers?  There's a group of background singers
-who start and end the song with a long sequence of "Na"s [15].  They
-transform the folkie song to, well, mediocre pop, at least in my
-world.  They also sing "oohs" on many of the verses.  I know those
-aren't in the Goodman live versions, but there's something like it in
-the Guthrie version.  Does Guthrie's version use a pedal steel or
-a choir?  Can you believe my ears are not good enough to tell?  I
-think it's a pedal steel.  I'll need to ask one of my family members.
-They all say it's backing singers.  So much for my ability to parse
-sounds [18].
+Did I mention the background singers who start and end the song
+with a long sequence of "Na"s [15]?  They transform the folkie song
+to, well, mediocre pop, at least in my world.  They also sing "oohs"
+on many of the verses.  I know those aren't in the Goodman live
+versions, but there's something like it in the Guthrie version and
+at least one of Goodman's released versions.  Does Guthrie's version
+use a pedal steel or a choir?  Can you believe my ears are not good
+enough to tell?  I think it's a pedal steel.  I'll need to ask one
+of my family members.  (They all say it's backing singers.  So much
+for my ability to parse sounds [18].)
 
 ---
 
 Next up is a French version by Joe Dassin, "[Salut les
 amoureux](https://www.youtube.com/watch?v=SkEyV7_eNBs)".  And yes,
-I've put the lyrics at the end.  Dassin, who I think inspired
-Cox, has a much folkier version.  But it's folkie in the same way
-as the Guthrie version is and the Goodman version is (at least on
-the _Steve Goodman_ album), there are still backing  vocalists singing
-along during the chorus and doing "oohs" during some verses.  
+I've put the lyrics at the end.  Dassin, who I think inspired Cox,
+has a much folkier version.  But it's folkie in the same way as the
+Guthrie version and the Goodman version (at least on the _Steve
+Goodman_ album) are.  And there are still backing vocalists singing
+along during the chorus and doing "oohs" during some verses.  No
+"Na"s, though.  Fortunately.
 
 What's the subject?  Let's check the first four lines of an English
 translation by a noted poetic translator [19].
@@ -141,19 +143,20 @@ The [first translation I
 found](http://www.hebrewsongs.com/song-shalomlacheretznehederet.htm)
 says
 
-> I was in Paris and also in Rome,  
+> I was in Paris and also in Rome,  [21]
 > I saw the seven wonders of the world,  
 > At the North Pole and also at the South,  
 > But there's no place like the Land of Israel.
 
-Yes, that's right, it's a tribute to Israel!  From trains to summers to
-breakups to a country; so many places for a song to travel!  This version
-is perhaps furthest from the original.  Unless I'm mistaken, there's none
-of the sadness that is present in the other three versions.  I suppose
-you could say that the "Lot's wife looking towards Sodom" line inspires
-some sadness, or at least puzzlement, but I expect that it just refers
-to what the Interwebknowledgebase tells me is a pillar of salt which
-people call "Lot's wife".
+Yes, that's right, it's a tribute to Israel!  We've seen the song go
+from trains to summers to breakups to a country; so many places for
+a song to travel!  With that much traveling, this version is perhaps
+furthest from the original.  Unless I'm mistaken, there's none of
+the sadness that is present in the other three versions.  I suppose
+you could say that the "Lot's wife looking towards Sodom" line
+inspires some sadness, or at least puzzlement, but I expect that
+it just refers to what the Interwebknowledgebase tells me is a
+pillar of salt which people call "Lot's wife".
 
 And yes, this version has inspired its own covers.  [My
 favorite](https://www.youtube.com/watch?v=eNdN5Ss69Jc) is by the
@@ -167,17 +170,18 @@ song travels!
 ---
 
 When I started this musing, I had only identified these three
-non-covers of "City of New Orleans".  Those are all that get mentioned
+non-covers of "City of New Orleans"; those are all that get mentioned
 in [the Wikipedia page for Steve
-Goodman](https://en.wikipedia.org/wiki/Steve_Goodman).  But [the
+Goodman](https://en.wikipedia.org/wiki/Steve_Goodman).  In writing
+the musing, I visited [the
 Wikipedia page for the
-song](https://en.wikipedia.org/wiki/City_of_New_Orleans_(song))
-lists at least two more.  The Dutch version inspired a similar
+song](https://en.wikipedia.org/wiki/City_of_New_Orleans_(song)),
+which lists at least two more.  The Dutch version inspired a similar
 German version, which I'm going to ignore.  There's also a newer
 Norwegian version by Vazelina Bilopphøggers entitled "Hei, gamle
 Valdresfjell".  [Eldar
-Vågan]*https://en.wikipedia.org/wiki/Eldar_V%C3%A5gan) appears to
-be responsible for the lyrics.
+Vågan](https://en.wikipedia.org/wiki/Eldar_V%C3%A5gan) appears to
+be responsible for the lyrics.  Let's look at that one.
 
 I couldn't find a full recording of the song.  Google claims it's
 available on [Apple
@@ -205,20 +209,26 @@ relying on the synthesized skills of Google translate.
 > In your bag, you have lemon soda and Allers
 
 We seem to be back to trains.  But there's also something about
-cross-country skiing.
+cross-country skiing.  Consider this approximate translation of
+the first chorus.
 
-> To fly many miles on cross-country skiing  
-> Yes you should have taken a train that went to Vællers
+> Hi old Vælersfjell here it comes  
+> Must take a trip before winter is over  
+> For trains running from Oslo to Vellers  
+> To train several miles on cross-country skiing
 
-So maybe it's about regret for lost opportunities to ski.  I suppose
-regret for the loss of passenger trains seems less appropriate for
-that part of the world, but I must admit that I am enough of a
-traditional 'murcan [21] that I don't know well enough about the status
-of trains.  When last I visited Europe, they still seemed fairly
-central.  Ah, perhaps that's why the concept song did not translate
-naturally.
+So maybe it's about regret for lost opportunities to ski.  Or lost
+opportunities to do things in the winter; a fitting contrast to the
+Dutch version.
 
-I think the song was pretty popular in Norway.  It appears to appear
+I suppose regret for the loss of passenger trains seems less
+appropriate for that part of the world, but I must admit that I am
+enough of a traditional 'murcan [22] that I don't know well enough
+about the status of trains.  When last I visited Europe, they still
+seemed fairly central.  Ah, perhaps that's why the concept song did
+not translate naturally to other languages.
+
+I think this version was pretty popular in Norway.  It appears to appear
 on [a bunch of compilation
 tapes](http://www.vazelina-samling.com/laatene/laat_heigamlevaldresfjell.htm).
 There are multiple versions of [its
@@ -236,22 +246,23 @@ the Israeli men's choir.
 Four covers.  Maybe five; I'm still not interested in exploring the
 German version.  All the same tune.  Very different lyrics.  You know
 what?  I asked what made the song special at the beginning?  Perhaps
-it's the melody more than the lyrics.  No, that can't be the case.
-The melody is great, but it's also a great set of lyrics, "one of
-the best train songs", as many people say [22].
+the number of rewrites indicate that it's the melody rather than
+the lyrics.  No, that can't be the case.  The melody may be great,
+but it's also a great set of lyrics, "one of the best train songs",
+as many people say [23].
 
 ---
 
 As is too often the case in "Lost in the Interweb" musings, writing
 the musing got me further lost in the Interweb.  For example, I was
 listening to [the Steve Goodman _Easter Tapes_
-version](https://www.youtube.com/watch?v=qI6u3IeypR0) [23] and
+version](https://www.youtube.com/watch?v=qI6u3IeypR0) [24] and
 found that the lyrics about the old men in the club car were
 different.  Here's what Goodman sang (starting at about 1:55).
 
 > Now I was dealin' cards with the old men in the club car.  
 > Penny a point ain't nobody keepin' score.  
-> Pass that paper bag that holds the bottle.  
+> Pass that paper bag that holds that bottle.  
 > Feel the wheels grumblin' beneath the floor.
 
 The "nobody" was not the "no one" I recalled.  So I checked the
@@ -267,37 +278,42 @@ which I'm too lazy to highlight.
 
 I feel like Guthrie's "no one" scans better than Goodman's "nobody"
 but that may be because Guthrie's is the one I know better.  The
-conversion of "beneath" to "'neath" seems natural.  Neither
-it is as big a change as, say, going from "Stoneman's
-cavalry" to "So much cavalry" [24].  But there are other changes,
-changes that change meaning.  The Goodman version puts him in the
-card game; the Guthrie version leaves it ambiguous.  The Goodman
-version personifies the wheels; the Guthrie version does not.  Strange.
+conversion of "beneath" to "'neath" seems natural.  I like the
+alternation of "the" and "that" rather than three "that"s.  Still,
+none of these it is as much of a change as, say, going from "Stoneman's
+cavalry" to "So much cavalry" [25].  One could argue that either
+alternate is appropriate.  But there are other changes, changes
+that change meaning.  The Goodman version puts him in the card game;
+the Guthrie version leaves it ambiguous.  The Goodman version
+personifies the wheels; the Guthrie version does not.  Strange.
+Different.
 
 Of course, the Easter Tapes version is not the first one Goodman
 released.  That honor belongs to the one on the 1971 _Steve Goodman_
-album [25].  What lyrics appear on that one?  Let's see.
+album [26].  What lyrics appear on that one?  Let's see.
 
 > And I was dealing cards with the old men in the club car.  
 > And it's penny a point, there ain't one keeping score.  
 > Won't you pass that paper bag that holds that bottle.  
 > You can feel the wheels grumbling through the floor.
 
+Closer to the Guthrie version (or vice versa), but still not the same.
+
 One of the many wonders of the Interwebhole is that you can find
 all sorts of things, such as one of Goodman's live performances
-from August 28, 1971 in Schwenksville, PA [26].  Those lyrics are
+from August 28, 1971 in Schwenksville, PA [27].  Those lyrics are
 a bit different.  I like the first two lines much more than the
 released version.
 
 > I was shootin' craps with the old men in the club car.  
 > Nine's my point and nobody keepin' score.  
 > Won't you pass me the paper bag that holds the tequila.  
-> You can feel the wheels grumbling [27] beneath the floor.
+> You can feel the wheels grumbling [28] beneath the floor.
 
 Other lyrics change, too.  For example,
 
 > The sons of Pullman porters.  The sons of engineers.
-> They ride their daddies' magic carpet.  It's made of steel [28].
+> They ride their daddies' magic carpet.  It's made of steel [29].
 
 He also adds "Hell" before the "Don't ya know me?"
 
@@ -305,19 +321,21 @@ That gets me wondering.  Were the lyrics evolving at that point or
 was he just modifying them for the folks in Schwenksville?  I can't
 find an earlier performance of the song.  I can't even find others
 from before the album release.  Perhaps I need to listen to
-post-release performances.  But I need to reign myself in, particularly
+post-release performances.  But I need to rein myself in, particularly
 since that means I want to track down the 1971 "Earl of Old Town"
 album, [an article in _Trains_
 magazine](https://trn.trains.com/issues/2017/september-2017), the
 800-page [biography of Goodman](http://www.clayeals.com/), perhaps
-the booklets from some anthologies, and assorted other items.  I
+the booklets from some anthologies [30], and assorted other items.  I
 should also listen to some more of the live versions; Goodman
-talks about the origins of the song in some intros [29].  I can
+talks about the origins of the song in some intros [31].  Is the
+so-called "[Dynamite Version](https://www.youtube.com/watch?v=jWYWaayje3o)"
+any different than the album version?  It's a question to check.  I shold
 also explore steam and steel; fathers and daddies; grumbling,
 drumbling, rumbling; whether each of those has two or three syllables;
 words inserted and deleted; dream and feel.  Things like that.
 
-However, As I said, I need to reign myself in.  So I'll leave it
+As I said, I need to rein myself in.  So I'll leave it
 for another musing.  It's easy to get lost in the Interweb.  Or at
 least it's easy for *me* to get lost in the Interweb.
 
@@ -326,14 +344,15 @@ least it's easy for *me* to get lost in the Interweb.
 **_Postscript_**: Goodman's biography has a [set of tracks about Steve
 Goodman](https://ecwpress.com/pages/facing-the-music-bonus-tracks)
 available for free.  Aren't you glad you have me to search the
-Interweb for you?
+Interweb to discover things like this for you?
 
 ---
 
 **_Postscript_**: I'm not sure how many versions of "City of New
-Orleans" I listened to while preparing this.  It was a lot.  And
-I'm not sick of the song.  I'm not sure whether that says something
-about the song or something about me.  Perhaps both [30].
+Orleans" and its variants I listened to while preparing this.  It
+was a lot.  And I'm not sick of the song.  I'm not sure whether
+that says something about the song or something about me.  Perhaps
+both [32].
 
 ---
 
@@ -342,7 +361,7 @@ about the song or something about me.  Perhaps both [30].
 Here are the lyrics to "'t Is Weer Voorbij Die Mooie Zomer", synthesized
 from
 [Google's presentation](https://www.google.com/search?q=T+Is+Weer+Voorbij+Die+Mooie+Zomer++lyrics)
-of [Musixmatch's copy](https://www.musixmatch.com/lyrics/Gerard-Cox/T-is-weer-voorbij-die-mooie-zomer/translation/english) [31].  I've reformatted, indenting
+of [Musixmatch's copy](https://www.musixmatch.com/lyrics/Gerard-Cox/T-is-weer-voorbij-die-mooie-zomer/translation/english) [33].  I've reformatted, indenting
 the English translation.
 
 Na nana nana
@@ -361,6 +380,8 @@ Na nana na nana nanananananana
 
 > Na nana na nana nanananananana
 
+&nbsp;
+
 Je hebt er maandenlang naar uitgekeken
 
 > You've been looking forward to it for months
@@ -377,47 +398,47 @@ Maar eindelijk, daar was ie toch: de zon
 
 > But finally, there it was: the sun
 
-De nachten kort, de dagen lang *Oeoeoeoeh* [32]
+De nachten kort, de dagen lang (*Oeoeoeoeh* [34])
 
-> The nights short, the days long *Oooh*
+> The nights short, the days long (*Oooh*)
 
-De ochtend vol van vogelzang *Oeoeoeoeh*
+De ochtend vol van vogelzang (*Oeoeoeoeh*)
 
-> The morning full of bird song *Ooooh*
+> The morning full of bird song (*Ooooh*)
 
-Het scherpe, hoge zoemen van een mug *Oeoeoeoeh*
+Het scherpe, hoge zoemen van een mug (*Oeoeoeoeh*)
 
-> The sharp, high buzzing of a mosquito
+> The sharp, high buzzing of a mosquito (*Oooooh*)
 
-Dan denk je: ha, daar is ie dan *Oeoeoeoeh*
+Dan denk je: ha, daar is ie dan (*Oeoeoeoeh*)
 
-> Then you think: ha, there it is *Ooooooh*
+> Then you think: ha, there it is (*Ooooooh*)
 
-Dit wordt minstens een zomer van een eeuw *Oeoeoeoeh*
+Dit wordt minstens een zomer van een eeuw (*Oeoeoeoeh*)
 
-> This will be at least a summer of a century of Uoooh
+> This will be at least a summer of a century of (*Ooooh*)
 
-Maar lieve mensen, oh wat gaat 't vlug *Oeoeoeoeh*
+Maar lieve mensen, oh wat gaat 't vlug (*Oeoeoeoeh*)
 
-> But dear people, oh how fast Ooeoeoeh
+> But dear people, oh how fast (*Oooooh*)
 
-'t is weer voorbij die mooie zomer
+&nbsp;
 
-> It's over that beautiful summer again
+_'t is weer voorbij die mooie zomer_
 
-Die zomer die begon zo wat in mei
+> _It's over that beautiful summer again_
 
-> That summer started in May
+_Die zomer die begon zo wat in mei_
 
-Ah, je dacht dat er geen einde aan kon komen
+> _That summer that started in May_
 
-> Ah, you thought there was no end to it
+_Ah, je dacht dat er geen einde aan kon komen_
 
-Maar voor je 't weet is heel die zomer al weer lang voorbij
+> _Ah, you thought there was no end to it_
 
-> But before you know it, it's all that summer long gone
+_Maar voor je 't weet is heel die zomer al weer lang voorbij_
 
-*Chorus*
+> _But before you know it, it's all that summer long gone_
 
 De wereld was toen vol van licht en leven
 
@@ -459,21 +480,25 @@ Nu zit ik met mijn dia's in de regen hier
 
 > Now I'm sitting here with my slides in the rain
 
-'t is weer voorbij die mooie zomer
+&nbsp;
+
+_'t is weer voorbij die mooie zomer_
 
 > It's over that beautiful summer again
 
-Die zomer die begon zo wat in mei
+_Die zomer die begon zo wat in mei_
 
-> That summer started in May
+> _That summer that started in May_
 
-Ah, je dacht dat er geen einde aan kon komen
+_Ah, je dacht dat er geen einde aan kon komen_
 
-> Ah, you thought there was no end to it
+> _Ah, you thought there was no end to it_
 
-Maar voor je 't weet is heel die zomer alweer lang voorbij
+_Maar voor je 't weet is heel die zomer alweer lang voorbij_
 
 > But before you know it, the summer is long gone.
+
+&nbsp;
 
 Na nana nana
 
@@ -491,6 +516,8 @@ Na nana na nana nanananananana
 
 > Na nana na nana nanananananana
 
+&nbsp;
+
 Herfst verkleurt weer langzaam alle bomen
 
 > Autumn slowly discolors all trees again
@@ -507,45 +534,49 @@ Toen sliepen we 's nachts buiten op 't strand
 
 > Then we slept outside on the beach at night
 
-En's morgens vissen in de zon *Oeoeoeoeh*
+En's morgens vissen in de zon (*Oeoeoeoeh*)
 
-> And in the morning fishing in the sun *Ooooooh*
+> And in the morning fishing in the sun (*Ooooooh*)
 
-En zwemmen zover als je kon Oeoeoeoeh
+En zwemmen zover als je kon (*Oeoeoeoeh*)
 
-> And swim as far as you could
+> And swim as far as you could (*Ooooooh*)
 
-We voeren met een boot een end op zee *Oeoeoeoeh*
+We voeren met een boot een end op zee (*Oeoeoeoeh*)
 
-> We sailed with a boat at sea *Oooooh*
+> We sailed with a boat at sea (*Oooooh*)
 
-'T Is jammer dat het over ging Oeoeoeoeh
+'T Is jammer dat het over ging (*Oeoeoeoeh*)
 
-> It's a shame that it passed *Ooooooh*
+> It's a shame that it passed (*Ooooooh*)
 
-'T Is allemaal herinnering Oeoeoeoeh
+'T Is allemaal herinnering (*Oeoeoeoeh*)
 
-> It's all memory *Ooooh*
+> It's all memory (*Ooooh*)
 
-Daar doen we dan de hele winter maar weer mee Oeoeoeoeh
+Daar doen we dan de hele winter maar weer mee (*Oeoeoeoeh*)
 
-> We'll do that all winter again
+> We'll do that all winter again (*Oooooh*)
 
-'T Is weer voorbij die mooie zomer
+&nbsp;
 
-> It's over that beautiful summer again
+_'T Is weer voorbij die mooie zomer_
 
-Die zomer die begon zo wat in mei
+> _It's over that beautiful summer again_
 
-> That summer started in May
+_Die zomer die begon zo wat in mei_
 
-Ah, je dacht dat er geen einde aan kon komen
+> _That summer that started in May_
 
-> Ah, you thought there was no end to it
+_Ah, je dacht dat er geen einde aan kon komen__
 
-Maar voor je 't weet is heel die zomer alweer lang voorbij
+> _Ah, you thought there was no end to it_
 
-> But before you know it, that summer is long gone
+_Maar voor je 't weet is heel die zomer alweer lang voorbij_
+
+> _But before you know it, that summer is long gone_
+
+&nbsp;
 
 Na nana nana
 
@@ -561,7 +592,7 @@ Na nanana na na nanana nana
 
 Na nana na nana nanananananana
 
-> Na nana na nana nanananananana [33]
+> Na nana na nana nanananananana [35]
 
 ---
 
@@ -611,6 +642,8 @@ Qui tiennent trop à cœur pour si peu de temps
 
 > Too dear to your heart for such a short time
 
+&nbsp;
+
 _On s'est aimés comme on se quitte_
 
 > _We loved each other like we part_
@@ -626,6 +659,8 @@ _À demain qui vient toujours un peu trop vite_
 _Aux adieux qui quelque fois se passent un peu trop bien_
 
 > _To the farewells that sometimes go a little too well_
+
+&nbsp;
 
 On fait c'qu'il faut, on tient nos rôles
 
@@ -663,6 +698,8 @@ Mais on a passé l'âge, on n'y croirait plus
 
 > But we have passed the age, we would not believe it anymore
 
+&nbsp;
+
 _On s'est aimés comme on se quitte_
 
 > _We loved each other like we part_
@@ -678,6 +715,8 @@ _À demain qui vient toujours un peu trop vite_
 _Aux adieux qui quelque fois se passent un peu trop bien_
 
 > _To the farewells that sometimes go a little too well_
+
+&nbsp;
 
 Roméo, Juliette et tous les autres
 
@@ -718,6 +757,8 @@ La patronne du café
 Va encore nous dire "salut les amoureux!"
 
 > Go tell us again "hello lovers!"
+
+&nbsp;
 
 _On s'est aimés comme on se quitte_
 
@@ -775,23 +816,23 @@ Mens vi ruller over Hadelænd kjæm ei kjærring klædd i rødt
 
 Og sæl wienerbrød og kaffe fylt i papp
 
-> And sell pastry and coffee stuffed in cardboard
+> And sells pastry and coffee served in cardboard
 
-Hei gamle Vællersfjell her kjæm je
+_Hei gamle Vællersfjell her kjæm je_
 
-> Hi old Vælersfjell here it comes
+> _Hi old Vælersfjell here it comes_
 
-Må ta en tur før vinter'n er forbi
+_Må ta en tur før vinter'n er forbi_
 
-> Must take a trip before winter is over
+> _Must take a trip before winter is over_
 
-For je kjører tog frå Oslo S tel Vællers
+_For je kjører tog frå Oslo S tel Vællers_
 
-> For trains running from Oslo to Vellers
+> _For trains running from Oslo to Vellers_
 
 For å treine flere mil på langrennski
 
-> To train several miles on cross-country skiing
+> _To train several miles on cross-country skiing_
 
 Einafjorden er krittkvit som et laken
 
@@ -835,27 +876,27 @@ I et hotellrom mæ utsikt over Næs
 
 Hei gamle Grand Hotell her kjæm je
 
-Hi old Grand Hotel here you come
+> _Hi old Grand Hotel here you come_
 
-Må ta en tur før vinter'n er forbi
+_Må ta en tur før vinter'n er forbi_
 
-> Must take a trip before winter is over
+> _Must take a trip before winter is over_
 
-Men je skulle tatt et tog som gikk tel Vællers
+_Men je skulle tatt et tog som gikk tel Vællers_
 
-> But you should have taken a train that went tel Vellers
+> _But you should have taken a train that went tel Vellers_
 
-For å flyge mange mil på langrennski
+_For å flyge mange mil på langrennski_
 
-> To fly many miles on cross-country skiing
+> _To fly many miles on cross-country skiing_
 
-Ja je skulle tatt et tog som gikk tel Vællers
+_Ja je skulle tatt et tog som gikk tel Vællers_
 
-> Yes you should have taken a train that went to Vællers
+> _Yes you should have taken a train that went to Vællers_
 
-For å flyge mange mil på langrennski
+_For å flyge mange mil på langrennski_
 
-> To fly many miles on cross-country skiing
+> _To fly many miles on cross-country skiing_
 
 ---
 
@@ -956,40 +997,50 @@ this musing?
 
 [20] Google tells me that it was written by Ilan Goldhirsch.
 
-[21] I love that Grammarly thinks that 'murcan should be "mural"
+[21] Does anyone else hear echoes of Jonathan Richman's "New England"?
+
+> I've already been to Paris, I've already been to Rome.  
+> And what did I do but miss my home?
+
+[22] I love that Grammarly thinks that 'murcan should be "mural"
 or "American"?
 
-[22] I'm too lazy to look for some folks who say that, but I know
+[23] I'm too lazy to look for some folks who say that, but I know
 that I've read it a few times.
 
-[23] _The Easter Tapes_ is a collection of recordings of Steve
+[24] _The Easter Tapes_ is a collection of recordings of Steve
 Goodman on the Vin Scelsa show.  It appears that Goodman regularly
 showed up there on Easter Sundays.
 
-[24] Perhaps three readers will know the change to which I refer.
+[25] Perhaps three readers will know the change to which I refer.
 
-[25] Or perhaps one on the _Earl of Old Town Album_.  We'll ignore
+[26] Or perhaps one on the _Earl of Old Town Album_.  We'll ignore
 that one for now.
 
-[26] I'll leave it to your search skills to find it.
+[27] I'll leave it to your search skills to find it.
 
-[27] I'd swear he says "drumbling", but my family insists it's
+[28] I'd swear he says "drumbling", but my family insists it's
 "grumbling".  "Drumble" is a word, meaning to drone or to blather.
 I like it, even if it's not the one Goodman used.
 
-[28] Or steam.
+[29] Or steam.
 
-[29] An undated live version of "City of New Orleans" from an 'XRT
+[30] The Wikiepedia page on Goodman does say "According to the liner
+notes on the Steve Goodman anthology _No Big Surprise_, 'City of
+New Orleans' was written while on the campaign trail with Senator
+Edmund Muskie."
+
+[31] An undated live version of "City of New Orleans" from an 'XRT
 tribute has Goodman reporting on the origins.
 
-[30] Probably me.  Middle Son was not found of my repeated playings
+[32] Probably me.  Middle Son was not found of my repeated playings
 or my repeated questions about what he heard.
 
-[31] Strangely enough, neither the lyrics nor the translation match
+[33] Strangely enough, neither the lyrics nor the translation match
 completely.
 
-[32] The "ooh"s (however they are spelled) are not in the Musixmatch
+[34] The "ooh"s (however they are spelled) are not in the Musixmatch
 version.  I think they are supposed to represent what the background
 singers are saying.
 
-[33] No, I did not count the "Na"s to see if they matched.
+[35] No, I did not count the "Na"s to see if they matched.

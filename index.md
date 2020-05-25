@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Computer troubles](computer-troubles-2020-05-24) (Musing #1075)
+[Lost in the Interweb, episode 803.6: Good morning, somewhere, how are you?](city-of-new-orleans-2020-05-25) (Musing #1076)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

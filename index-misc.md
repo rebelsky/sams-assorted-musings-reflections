@@ -806,3 +806,7 @@ Almost everything else
 
 > Not always succeeding.
 
+[Lost in the Interweb, episode 803.6: Good morning, somewhere, how are you?](city-of-new-orleans-2020-05-25) (Musing #1076)
+
+> A new interpreation of "cover version".
+
