@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 1071-1080
 
+[Getting sucked into the Microsoft ecosystem](planner-2020-05-27) (Musing #1077)  
 [Lost in the Interweb, episode 803.6: Good morning, somewhere, how are you?](city-of-new-orleans-2020-05-25) (Musing #1076)  
 [Computer troubles](computer-troubles-2020-05-24) (Musing #1075)  
 [Workload, learning, and such](workload-and-learning-2020-05-23) (Musing #1074)  

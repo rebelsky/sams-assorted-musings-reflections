@@ -1397,3 +1397,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Workload, learning, and such](workload-and-learning-2020-05-23) (Musing #1074)  
 [Computer troubles](computer-troubles-2020-05-24) (Musing #1075)  
 [Lost in the Interweb, episode 803.6: Good morning, somewhere, how are you?](city-of-new-orleans-2020-05-25) (Musing #1076)  
+[Getting sucked into the Microsoft ecosystem](planner-2020-05-27) (Musing #1077)  

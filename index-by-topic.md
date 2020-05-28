@@ -1993,6 +1993,10 @@ online, but they will soon expand to more general issues about teaching._
 
 > Not as good as the real thing.
 
+[Getting sucked into the Microsoft ecosystem](planner-2020-05-27) (Musing #1077)
+
+> Unintuitive, but integrated.
+
 Code camps
 ----------
 
