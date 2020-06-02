@@ -810,3 +810,7 @@ Almost everything else
 
 > A new interpreation of "cover version".
 
+[SLAC education this fall](fall-slacs-2020-06-01) (Musing #1078)
+
+> What will it look like?
+

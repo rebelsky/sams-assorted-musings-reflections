@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Getting sucked into the Microsoft ecosystem](planner-2020-05-27) (Musing #1077)
+[SLAC education this fall](fall-slacs-2020-06-01) (Musing #1078)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

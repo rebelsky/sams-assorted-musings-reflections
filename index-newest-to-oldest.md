@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 1071-1080
 
+[SLAC education this fall](fall-slacs-2020-06-01) (Musing #1078)  
 [Getting sucked into the Microsoft ecosystem](planner-2020-05-27) (Musing #1077)  
 [Lost in the Interweb, episode 803.6: Good morning, somewhere, how are you?](city-of-new-orleans-2020-05-25) (Musing #1076)  
 [Computer troubles](computer-troubles-2020-05-24) (Musing #1075)  
