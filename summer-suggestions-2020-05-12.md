@@ -3,9 +3,9 @@ title: Suggestions for summer
 number: 1067
 tags: [Miscellaneous](index-misc), Things I was writing anyway
 blurb: Take care of yourself!
-version: 1.1
+version: 1.2
 released: 2020-05-12
-current: 2020-05-13
+current: 2020-06-03
 ---
 The pandemic has brought complications and difficulties to many
 (all).  I lack much of the knowledge and skills necessary to help
@@ -56,9 +56,10 @@ have some time.  Most of these are to build skills, knowledge, or
 lines on your résumé; they won't provide immediate benefits beyond
 the joy of learning or, in some cases, of helping others.
 
-* You might *develop a personal project*.  That is, identify a piece
-  of software that you would use and that is not available (or not
-  affordable or open source).
+* You might *develop a [personal project](personal-projects-2020-06-03)*.
+  That is, identify a piece of software that you would use and that
+  is not available (or not affordable or open source) and then build
+  it.
 
 * You might *contribute to an open-source project*.  Find something 
   meaningful to you and start to dig in.  Read the source code.  Join
@@ -158,7 +159,7 @@ and corrections, I may update the posting.  You should be able to find it at
 
 ---
 
-**_Postscript_**: Follow-up messages from May 13**
+**_Postscript_**: Follow-up messages from May 13.
 
 1. There are new remote positions being posted daily on Handshake. Students can even sort postings using the the term “remote.” Applications for CLS funding for remote, summer internships are open and are being accepted on a rolling basis until funds are depleted. Grinnell College students, faculty & staff can find out more on the CLS Grinnell Share site. The CLS advisers continue to help students navigate a wide variety of summer options!
 
