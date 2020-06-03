@@ -3,7 +3,7 @@ title: Perspectives on personal projects
 number: 1080
 tags: [Miscellaneous](index-misc), things I was writing anyway
 blurb: Reflections for/from a conversation.
-version: 0.1
+version: 0.2
 released: 
 current: 2020-06-03
 ---
@@ -145,6 +145,13 @@ technology and constructed something.  Now you make it personal.
 The React tutorial teaches you how to make tic-tac-toe?  Extend it
 for an Othello game or some game you invent.  The options are
 endless, provided you have the time and the inclination.
+
+That's a lot to consider, isn't it?  Where would I suggest you start?
+From my pespective, Web scraping to present information in a new way,
+one that you find more useful, is an excellent kind of project.  We all
+spend time on sites saying "Wow, my life would be so much easier if they
+did *this*."  Try doing it.  In some cases it will be easy.  In some,
+it will be too hard.  But you'll learn from trying.
 
 Do I have anything else to suggest?  Yeah.  Not all personal projects
 have to be building technology.  Writing about technology, particularly
