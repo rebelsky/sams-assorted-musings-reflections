@@ -1997,6 +1997,10 @@ online, but they will soon expand to more general issues about teaching._
 
 > Unintuitive, but integrated.
 
+[Constructionism](constructionism-2020-06-03) (Musing #1079)
+
+> Grounding my scholarship.
+
 Code camps
 ----------
 
