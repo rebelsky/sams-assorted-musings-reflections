@@ -4588,6 +4588,10 @@ Almost everything else
 
 > What will it look like?
 
+[Perspectives on personal projects](personal-projects-2020-06-03) (Musing #1080)
+
+> Reflections for/from a conversation.
+
 Musings with multiple entries
 -----------------------------
 

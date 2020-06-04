@@ -1400,3 +1400,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Getting sucked into the Microsoft ecosystem](planner-2020-05-27) (Musing #1077)  
 [SLAC education this fall](fall-slacs-2020-06-01) (Musing #1078)  
 [Constructionism](constructionism-2020-06-03) (Musing #1079)  
+[Perspectives on personal projects](personal-projects-2020-06-03) (Musing #1080)  

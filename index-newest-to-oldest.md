@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 1071-1080
 
+[Perspectives on personal projects](personal-projects-2020-06-03) (Musing #1080)  
 [Constructionism](constructionism-2020-06-03) (Musing #1079)  
 [SLAC education this fall](fall-slacs-2020-06-01) (Musing #1078)  
 [Getting sucked into the Microsoft ecosystem](planner-2020-05-27) (Musing #1077)  
