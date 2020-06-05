@@ -1,6 +1,10 @@
 Musings, from newest to oldest
 ==============================
 
+## 1081-1090
+
+[Semisemesters or Septisepta or whatever we're calling them](seven-weeks-2020-06-04) (Musing #1081)  
+
 ## 1071-1080
 
 [Perspectives on personal projects](personal-projects-2020-06-03) (Musing #1080)  

@@ -160,3 +160,7 @@ online, but they will soon expand to more general issues about teaching._
 
 > Grounding my scholarship.
 
+[Semisemesters or Septisepta or whatever we're calling them](seven-weeks-2020-06-04) (Musing #1081)
+
+> Lots of work, but how much?
+

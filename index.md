@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Perspectives on personal projects](personal-projects-2020-06-03) (Musing #1080)
+[Semisemesters or Septisepta or whatever we're calling them](seven-weeks-2020-06-04) (Musing #1081)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

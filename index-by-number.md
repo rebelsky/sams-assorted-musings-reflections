@@ -1401,3 +1401,7 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [SLAC education this fall](fall-slacs-2020-06-01) (Musing #1078)  
 [Constructionism](constructionism-2020-06-03) (Musing #1079)  
 [Perspectives on personal projects](personal-projects-2020-06-03) (Musing #1080)  
+
+## 1081-1090
+
+[Semisemesters or Septisepta or whatever we're calling them](seven-weeks-2020-06-04) (Musing #1081)  
