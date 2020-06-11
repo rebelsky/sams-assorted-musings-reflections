@@ -3,17 +3,18 @@ title: #ShutDownGCCS
 number: 1082
 tags: [Grinnell](index-grinnell), things I was writing anyway
 blurb: How I spent my day.
-version: 1.0
+version: 1.0.1
 released: 2020-06-10
-current:
+current: 2020-06-10
 ---
-Today was #ShutDownSTEM day.  From my perspective, the primary idea
-was to take a day away from our professional responsibilities and
-to spend the day learning about anti-racism and initiating longer-term
-action on anti-racist behavior.  For most researchers, it's hard to
-take a day away from your work.  I expect many MAP students were asking
-themselves why they couldn't make progress on their projects or get
-ready for upcoming presentations [1].
+Today was [#ShutDownSTEM](https://www.shutdownstem.com/) day.  From
+my perspective, the primary idea was to take a day away from our
+professional responsibilities and to spend the day learning about
+anti-racism and initiating longer-term action on anti-racist behavior.
+For most researchers, it's hard to take a day away from your work.
+I expect many MAP students were asking themselves why they couldn't
+make progress on their projects or get ready for upcoming presentations
+[1].
 
 I spent most of the morning doing administrative work related to
 issues of inclusion and then watching videos about inclusion.  I
