@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Semisemesters or Septisepta or whatever we're calling them](seven-weeks-2020-06-04) (Musing #1081)
+[#ShutDownGCCS](shut-down-gccs-2020-06-10) (Musing #1082)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

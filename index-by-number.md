@@ -3,6 +3,7 @@ Musings, in numerical order
 
 ## 1-10
 
+[#ShutDownGCCS](shut-down-gccs-2020-06-10) (Musing #1082)  
 [Contacting faculty members on behalf of students](contacting-faculty) (Essay #1)  
 [What kind of computer should you buy?](buy-computer) (Essay #2)  
 Essay #3 was about Grinnell's relationship with Posse.    

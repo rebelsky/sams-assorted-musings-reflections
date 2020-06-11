@@ -2929,6 +2929,10 @@ Grinnell.
 
 > Can't we just call of the search?
 
+[#ShutDownGCCS](shut-down-gccs-2020-06-10) (Musing #1082)
+
+> How I spent my day.
+
 Registration and Related Topics
 -------------------------------
 

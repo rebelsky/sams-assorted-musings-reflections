@@ -1402,3 +1402,4 @@ Essay #102 was about a 'blog post by Doug Cutchins.
 Essay #3 was about Grinnell's relationship with Posse.    
 [What kind of computer should you buy?](buy-computer) (Essay #2)  
 [Contacting faculty members on behalf of students](contacting-faculty) (Essay #1)  
+[#ShutDownGCCS](shut-down-gccs-2020-06-10) (Musing #1082)  
