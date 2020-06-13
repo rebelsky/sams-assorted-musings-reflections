@@ -550,3 +550,7 @@ Rants
 
 > Why are these things never easy?
 
+[Biting my tongue ](biting-my-tongue-2020-06-12) (Musing #1083)
+
+> Or should I be biting my fingers?
+

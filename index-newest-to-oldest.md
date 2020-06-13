@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 1081-1090
 
+[Biting my tongue ](biting-my-tongue-2020-06-12) (Musing #1083)  
 [Semisemesters or Septisepta or whatever we're calling them](seven-weeks-2020-06-04) (Musing #1081)  
 
 ## 1071-1080

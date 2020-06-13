@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[#ShutDownGCCS](shut-down-gccs-2020-06-10) (Musing #1082)
+[Biting my tongue ](biting-my-tongue-2020-06-12) (Musing #1083)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
