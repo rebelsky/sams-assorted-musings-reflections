@@ -554,3 +554,7 @@ Rants
 
 > Or should I be biting my fingers?
 
+[SM Word](sm-word-2020-06-13) (Musing #1084)
+
+> Getting things backwards (or backwords).
+
