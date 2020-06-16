@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[SM Word](sm-word-2020-06-13) (Musing #1084)
+[A comedy of errors, of sorts](lab-visit-2020-06-15) (Musing #1085)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

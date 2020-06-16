@@ -509,3 +509,7 @@ Autobiographical essays, more or less
 
 > What was I writing about?
 
+[A comedy of errors, of sorts](lab-visit-2020-06-15) (Musing #1085)
+
+> Visiting my lab.
+
