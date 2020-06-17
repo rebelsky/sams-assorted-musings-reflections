@@ -5,7 +5,14 @@
     <link>https://www.cs.grinnell.edu/~rebelsky/musings/</link>
     <description>
       A curmudgeonly faculty member in computer science writes about a variety of topics.
-    </description>
+    </description>a
+    <item>
+      <title>Musing #1086: Email signatures</title>
+      <link>https://www.cs.grinnell.edu/~rebelsky/musings/email-signatures-2020-06-16</link>
+      <guid>https://www.cs.grinnell.edu/~rebelsky/musings/email-signatures-2020-06-16</guid>
+      <pubDate>Wed, 17 Jun 2020 01:36:32 GMT</pubDate>
+      <description>Fun with the things no one reads.</description>
+    </item>
     <item>
       <title>Musing #1085: A comedy of errors, of sorts</title>
       <link>https://www.cs.grinnell.edu/~rebelsky/musings/lab-visit-2020-06-15</link>

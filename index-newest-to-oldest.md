@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 1081-1090
 
+[Email signatures](email-signatures-2020-06-16) (Musing #1086)  
 [A comedy of errors, of sorts](lab-visit-2020-06-15) (Musing #1085)  
 [SM Word](sm-word-2020-06-13) (Musing #1084)  
 [Biting my tongue ](biting-my-tongue-2020-06-12) (Musing #1083)  

@@ -513,3 +513,7 @@ Autobiographical essays, more or less
 
 > Visiting my lab.
 
+[Email signatures](email-signatures-2020-06-16) (Musing #1086)
+
+> Fun with the things no one reads.
+
