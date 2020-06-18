@@ -3677,6 +3677,10 @@ Autobiographical essays, more or less
 
 > Fun with the things no one reads.
 
+[Another MIT press sale](mit-press-sale-2020-06-17) (Musing #1087)
+
+> Danger!
+
 Salary reviews
 --------------
 

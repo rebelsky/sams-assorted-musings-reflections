@@ -1410,3 +1410,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [SM Word](sm-word-2020-06-13) (Musing #1084)  
 [A comedy of errors, of sorts](lab-visit-2020-06-15) (Musing #1085)  
 [Email signatures](email-signatures-2020-06-16) (Musing #1086)  
+[Another MIT press sale](mit-press-sale-2020-06-17) (Musing #1087)  

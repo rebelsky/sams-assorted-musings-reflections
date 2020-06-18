@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Email signatures](email-signatures-2020-06-16) (Musing #1086)
+[Another MIT press sale](mit-press-sale-2020-06-17) (Musing #1087)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
