@@ -37,7 +37,8 @@ twenty-four, will hold about six students.  So, for in-person
 classes, we can either have a traditional format (small class or
 scurry) or we can rotate students through the classroom, with a
 fraction of the class doing each class in person and a fraction
-doing it online.  We can offer online classes either synchronously
+doing it online.  Online classes provide a different kind of choice.
+We can offer online classes either synchronously
 or asynchronously.  I've heard that evidence from the spring suggests
 that students learn better and prefer synchronous online classes.
 However, synchronous online classes can present difficulties for
