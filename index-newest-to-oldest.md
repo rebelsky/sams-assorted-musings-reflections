@@ -3,11 +3,13 @@ Musings, from newest to oldest
 
 ## 1081-1090
 
+[Fall planning](fall-planning-2020-06-18) (Musing #1088)  
 [Another MIT press sale](mit-press-sale-2020-06-17) (Musing #1087)  
 [Email signatures](email-signatures-2020-06-16) (Musing #1086)  
 [A comedy of errors, of sorts](lab-visit-2020-06-15) (Musing #1085)  
 [SM Word](sm-word-2020-06-13) (Musing #1084)  
 [Biting my tongue ](biting-my-tongue-2020-06-12) (Musing #1083)  
+[ShutDownGCCS](shut-down-gccs-2020-06-10) (Musing #1082)  
 [Semisemesters or Septisepta or whatever we're calling them](seven-weeks-2020-06-04) (Musing #1081)  
 
 ## 1071-1080
@@ -1407,4 +1409,3 @@ Essay #102 was about a 'blog post by Doug Cutchins.
 Essay #3 was about Grinnell's relationship with Posse.    
 [What kind of computer should you buy?](buy-computer) (Essay #2)  
 [Contacting faculty members on behalf of students](contacting-faculty) (Essay #1)  
-[#ShutDownGCCS](shut-down-gccs-2020-06-10) (Musing #1082)  
