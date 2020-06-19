@@ -48,23 +48,24 @@ so-called HyFlex courses, that support synchronous in-person students,
 synchronous online students, and asynchronous online students, all
 at the same time.
 
-Students would, of course, prefer "traditional" in-person courses.
-And Grinnell will certainly offer some of those.  It will be easiest
-with scurries.  But once you impose social distancing, things get
-complicated.  Even if you have a small class (so no rotation of who
-gets to attend), social distancing makes collaborative work difficult.
-Active learning doesn't really work in a socially distanced classroom,
-and active learning is an essential pedagogy.  Scurries also aren't
-perfect.  Since the faculty member won't be in the scurry, masks
-will still be necessary.  That means, for example, that classes
-will be more difficult for those who rely on seeing other people's
-mouths move: those with partial deafness, some ESL students, and,
-oh, those teaching another language.  That's right; part of foreign
-language pedagogy is looking at how people make sounds.  That's
-hard to do "_en mask_", as it were.  Many theatre and dance classes
-require enough physical exertion that masks might present a health
-challenge [6].  And exertion creates droplets of all sorts.  So, in
-many cases, online is *better* than socially distanced in person.
+I've heard that most tudents would prefer "traditional" in-person
+courses.  And Grinnell will certainly offer some of those.  It will
+be easiest with scurries.  But once you impose social distancing,
+things get complicated.  Even if you have a small class (so no
+rotation of who gets to attend), social distancing makes collaborative
+work difficult.  Active learning doesn't really work in a socially
+distanced classroom, and active learning is an essential pedagogy.
+Scurries also aren't perfect.  Since the faculty member won't be
+in the scurry, masks will still be necessary.  That means, for
+example, that classes will be more difficult for those who rely on
+seeing other people's mouths move: those with partial deafness,
+some ESL students, and, oh, those teaching another language.  That's
+right; part of foreign language pedagogy is looking at how people
+make sounds.  That's hard to do "_en mask_", as it were.  Many
+theatre and dance classes require enough physical exertion that
+masks might present a health challenge [6].  And exertion creates
+droplets of all sorts.  So, in many cases, online is *better* than
+socially distanced in person.
 
 In any case, I'll need to make my decisions soon.  I fall into a
 moderately high-risk group; I'm male, obese, and getting close to
