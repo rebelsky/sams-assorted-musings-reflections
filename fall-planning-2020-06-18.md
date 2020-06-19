@@ -48,7 +48,7 @@ so-called HyFlex courses, that support synchronous in-person students,
 synchronous online students, and asynchronous online students, all
 at the same time.
 
-I've heard that most tudents would prefer "traditional" in-person
+I've heard that most students would prefer "traditional" in-person
 courses.  And Grinnell will certainly offer some of those.  It will
 be easiest with scurries.  But once you impose social distancing,
 things get complicated.  Even if you have a small class (so no
