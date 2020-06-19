@@ -72,7 +72,7 @@ moderately high-risk group; I'm male, obese, and getting close to
 sixty.  I'm not over sixty, so that reduces my risk.  I'm O+, not
 A.  But there's a risk.
 
-I'm like my students.  I want a return to normalcy, a new form of
+Like my students, I want a return to normalcy, a new form of
 normalcy that resembles the old normalcy, at least in how classes
 operate [7].  I took a job at a place like Grinnell because I like
 working face-to-face with small groups of students.  Evidence
