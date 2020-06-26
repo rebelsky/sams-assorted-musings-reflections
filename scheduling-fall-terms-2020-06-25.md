@@ -156,6 +156,26 @@ online training.  And we need to identify software that works and get
 it through the approval process.  Fun fun fun [20].
 
 ---
+
+**_Postscript_**: My colleagues' commitment to our students and to
+the institution shines through in this whole process.  We are all
+[22] on nine-month contracts that ended in mid-May.  Yet faculty
+are still doing training for online teaching, participating in
+meetings, responding to requests to update the schedule, reworking
+classes almost from scratch, and so much more.  It's a lot of unpaid
+labor, and it's labor we do because we care.  While it's not paid,
+I hope that it ends up being compensated in other ways, say through
+successful classes, reasonable workload (for ourselves, our students,
+our fellow employees), a healthy community, and a sense of
+accomplishment.
+
+---
+
+**_Postscript_**: One benefit of musing about this topic was that
+I got some ideas on ways to update the memo.  Yay!  Let's hope that
+it's successful, or at least partially successful.
+
+---
  
 [1] Yes, Grinnell is considered a city.  I'm pretty sure that where I
 grew up, you needed 100,000 people to be considered a city.  Grinnell
@@ -221,3 +241,5 @@ to keep reminding myself of that.
 [20] 'Til Daddy took the keyboard away [21].
 
 [21] Or was that T-bird?
+
+[22] Or almost all.
