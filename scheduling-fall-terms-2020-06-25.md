@@ -25,7 +25,7 @@ are due tomorrow.  Well, parts of the revised schedules are due
 tomorrow.  We need to indicate which term each fall course goes in
 (Fall 1 or Fall 2), what structure we want for the class (5x65,
 4x85, 3x110, 2x170), and what time of day we want to offer the
-course (Morning, Afternoon, or Evening).  I seem to recall that we5
+course (Morning, Afternoon, or Evening).  I seem to recall that we
 are now using "Block" for that later concept.  The particular times
 for each course will be determined once those schedules are in.
 
