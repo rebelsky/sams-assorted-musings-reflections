@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Fall planning](fall-planning-2020-06-18) (Musing #1088)
+[Scheduling fall terms](scheduling-fall-terms-2020-06-25) (Musing #1089)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

@@ -363,3 +363,7 @@ Grinnell.
 
 > Difficult!
 
+[Scheduling fall terms](scheduling-fall-terms-2020-06-25) (Musing #1089)
+
+> Starting chair duties early.
+

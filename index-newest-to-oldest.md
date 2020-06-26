@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 1081-1090
 
+[Scheduling fall terms](scheduling-fall-terms-2020-06-25) (Musing #1089)  
 [Fall planning](fall-planning-2020-06-18) (Musing #1088)  
 [Another MIT press sale](mit-press-sale-2020-06-17) (Musing #1087)  
 [Email signatures](email-signatures-2020-06-16) (Musing #1086)  
