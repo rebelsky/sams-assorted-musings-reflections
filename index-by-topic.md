@@ -2013,6 +2013,10 @@ online, but they will soon expand to more general issues about teaching._
 
 > Lots of work, but how much?
 
+[Software for synchronous online face-to-face teaching ](remote-video-teaching-2020-06-27) (Musing #1090)
+
+> Revising our priorities.
+
 Code camps
 ----------
 

@@ -1413,3 +1413,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Another MIT press sale](mit-press-sale-2020-06-17) (Musing #1087)  
 [Fall planning](fall-planning-2020-06-18) (Musing #1088)  
 [Scheduling fall terms](scheduling-fall-terms-2020-06-25) (Musing #1089)  
+[Software for synchronous online face-to-face teaching ](remote-video-teaching-2020-06-27) (Musing #1090)  
