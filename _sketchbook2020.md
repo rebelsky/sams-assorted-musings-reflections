@@ -11,12 +11,29 @@ _The document also tends to contain other notes related to the musings
 and rants, such as a potential schedule of musing (one I rarely hold
 to) and a list of software that I want to write._
 
-Tentative sequence of upcoming musings
---------------------------------------
+Approximate sequence of upcoming musings
+----------------------------------------
 
-* Thankful
+* Sabbatical Report (Wednesday)
+* Faculty Activities Report (Wednesday)
+* To-do lists
+* Scheduling a Webex meeting
+* Misbehaving email
+* Adventures in Web server transitions
+
+Old
+
+* Books from the office
+* That stupid social survey (Community)
+* Can I teach online?  (Student said that the reason they survived my class
+  was my personality and my jokes.  Does my personality shine through
+  in online teaching?  I should ask my research studens.)
+* Gardening
+* Danika and the Jeb
+
+Older
+
 * Plans
-* Unexpecgted joys - The Stanford Papua New Guinea scuplture garden.
 * Organizing my creativity?
 * Comfortable structures (comfortable-structures)
 * Rachel Rose
@@ -83,7 +100,6 @@ the President with tenure and the Dean with tenure.  Why not the CDO?
 Short
 -----
 
-
 1. How things last.
 <https://www.cs.grinnell.edu/~johnsonba/CSC161/2020S/modules/data-representation/readings/integer-representation.shtml>.
 Original was called "The Binary System: A pretty damn clear guide
@@ -91,8 +107,6 @@ to a quite confusing concept by Christine R. Wright with some help
 from Samuel A. Rebelsky" and came from a WISP student at Grinnell.
 At least I think it did.  Maybe a CS 4 student.  [Wait until I hear
 back from my Dartmouth alum friend.
-1. To Create or to Consume.  (create-consume)
-
 1. Form 990's.  <https://www.grinnell.edu/about-grinnell/leadership-and-administration/offices-and-services/accounting/accounting-resources>
 
 1. Punch list for the Web server.  (punch-list-2020-xx-xx)
@@ -100,9 +114,6 @@ back from my Dartmouth alum friend.
 1. Lyricism.  (lyricism-2020-xx-xx.md)
 
 1. Rhizomatic.  (rhizomatic-2020-xx-xx.md)
-
-1. Close reading.  A more extended version of my notes on Ralph's first
-reading.
 
 1. Craft of (not-so) Creative Nonfiction.  Rearranging the Story Musing.
 
@@ -196,9 +207,6 @@ to have disappeared.
 
 1. Faculty house.
 
-1. One hundred words.  (Two musings: One just 100 words.  One the
-longer description.)  See my ENG 207 directory.
-
 1. Prereqs. We have them for a reason.  Talking to colleague about
 them.
 
@@ -216,8 +224,6 @@ staff.  More.
 1. GC in the news.  Why did it go away?  One of my favorite things.
 Recent ones: Kumail.  Kumail again.  Rachel Rose.  Albert Owusu
 Asare.
-
-1. Wednesday is Prince Spaghetti Day.  (Maybe Wednesday this week.)
 
 1. "The Champagne of Beers".  What does that mean?  It's not like
 they've called it the "Lafite Rothchild of beers".  Do they mean
@@ -312,14 +318,8 @@ try to order special editions.  Also Amazon pricing bots.
 
 1. My Apple Watch.  (my-apple-watch.md)
 
-1. Prelude to musing 1000 (prelude-to-1000-2020-01-xx.md)
-
 1. The Fiboacci Spiral.  Damian Hirst, Intelletual Property, and
 my Final Project for Sculpture.
-
-1. Choosing a book for Rebelsky Reading Group, Revisited.  I spent
-the remainder of Winter break reading books.  _The Starless Sea_.
-Some Howard Frank Mosher.  What else?
 
 1. Academia.edu.  I keep getting messages from Academia.edu.  "The
 name Samuel Rebelsky was mentioned in an influential paper" and
