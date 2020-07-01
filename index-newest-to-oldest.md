@@ -1,6 +1,10 @@
 Musings, from newest to oldest
 ==============================
 
+## 1091-1100
+
+[Preparing to fill out my annual Faculty Activity Report](far-2020-06-30) (Musing #1091)  
+
 ## 1081-1090
 
 [Software for synchronous online face-to-face teaching ](remote-video-teaching-2020-06-27) (Musing #1090)  

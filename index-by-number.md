@@ -1414,3 +1414,7 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Fall planning](fall-planning-2020-06-18) (Musing #1088)  
 [Scheduling fall terms](scheduling-fall-terms-2020-06-25) (Musing #1089)  
 [Software for synchronous online face-to-face teaching ](remote-video-teaching-2020-06-27) (Musing #1090)  
+
+## 1091-1100
+
+[Preparing to fill out my annual Faculty Activity Report](far-2020-06-30) (Musing #1091)  

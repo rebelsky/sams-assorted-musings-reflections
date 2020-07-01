@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Software for synchronous online face-to-face teaching ](remote-video-teaching-2020-06-27) (Musing #1090)
+[Preparing to fill out my annual Faculty Activity Report](far-2020-06-30) (Musing #1091)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

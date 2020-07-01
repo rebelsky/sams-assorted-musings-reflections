@@ -1560,6 +1560,10 @@ On life in academia
 
 > Bashing bean counters.
 
+[Preparing to fill out my annual Faculty Activity Report](far-2020-06-30) (Musing #1091)
+
+> I wonder what other institutions do.
+
 Thank-You Notes
 ---------------
 
