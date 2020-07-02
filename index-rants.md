@@ -558,3 +558,7 @@ Rants
 
 > Getting things backwards (or backwords).
 
+[Misbehaving email clients](misbehaving-mail-clients-2020-07-01) (Musing #1092)
+
+> A joy of moderation.
+
