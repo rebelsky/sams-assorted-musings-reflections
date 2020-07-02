@@ -20,6 +20,8 @@ Approximate sequence of upcoming musings
 * Scheduling a Webex meeting
 * Misbehaving email
 * Adventures in Web server transitions
+* Why Terms (aka Semisemesters)
+* Choosing cohorts
 
 Old
 
