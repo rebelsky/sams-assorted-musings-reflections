@@ -25,7 +25,7 @@ message will expire automatically. You do not need to do anything if you just
 want to discard it.
 
 To APPROVE the message:
-https://LISTSERV.ACM.ORG/SCRIPTS/WA-ACMLPX.CGI?OK=A169F2B6&L=SIGCSE-MEMBERS
+https://LISTSERV.ACM.ORG/SCRIPTS/WA-ACMLPX.CGI?OK=A1A2C42D&L=SIGCSE-MEMBERS
 
 Apple Mail sent this email to unsubscribe from the message “Re: [External] Re: [SIGCSE-members] Editor recommendation”.
 From: Some Person <someperson@someschool.edu>
