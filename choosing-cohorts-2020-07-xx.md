@@ -87,3 +87,31 @@ they are
 Can we have all of those groups safely on campus in the spring?  I have 
 no idea.  I'd hope that we could have *all* students safely on campus
 in the spring, but that seems unlikely 
+
+But once we've chosen cohorts, we may still have to make individual
+decisions.  Suppose things take a turn for the worse, that we realize
+that we can only have two-hundred students on campus for Spring
+Term 2, and that we decide our cohort will include only graduating
+seniors. (That's not a likely scenario, but it helps us explore
+some individual points.) Should some of those other characteristics
+come into play?  For example, should we prioritize senior Studio
+Art majors so that they can have an on-campus exhibition?  I'd say
+so.  Should we prioritize senior athletes?  If the situation is such
+that we have only two-hundred students on campus, we're unlikely to be
+participating in competitions, so probably not.  But in other situations,
+we might want to do so.
+
+And then there's a hard question that a variety of people are
+discussing.  What if some of those seniors have taken both fall
+terms off?  (I originally wrote "fall semester", but that doesn't
+exist any more.)  Should that affect whether or not they get invited
+back if we are choosing between people in the same cohort (those
+seniors)?  I can see one sense of fairness that suggests that all
+seniors should have an equal chance.  I can see another sense of
+fairness that suggests that students who have 
+
+
+
+two-hundred slots left for four-hundred seniors.  What will lead
+us to choose one senior over another?  What should lead us to choose
+one senior over another?
