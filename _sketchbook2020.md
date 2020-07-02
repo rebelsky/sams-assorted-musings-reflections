@@ -22,6 +22,7 @@ Approximate sequence of upcoming musings
 * Adventures in Web server transitions
 * Why Terms (aka Semisemesters)
 * Choosing cohorts
+* Cooling down
 
 Old
 
