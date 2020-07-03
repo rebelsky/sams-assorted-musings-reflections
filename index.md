@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Misbehaving email clients](misbehaving-mail-clients-2020-07-01) (Musing #1092)
+[Recalling my past](recalling-my-past-2020-07-02) (Musing #1093)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

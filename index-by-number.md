@@ -1419,3 +1419,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 
 [Preparing to fill out my annual Faculty Activity Report](far-2020-06-30) (Musing #1091)  
 [Misbehaving email clients](misbehaving-mail-clients-2020-07-01) (Musing #1092)  
+[Recalling my past](recalling-my-past-2020-07-02) (Musing #1093)  

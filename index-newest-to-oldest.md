@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 1091-1100
 
+[Recalling my past](recalling-my-past-2020-07-02) (Musing #1093)  
 [Misbehaving email clients](misbehaving-mail-clients-2020-07-01) (Musing #1092)  
 [Preparing to fill out my annual Faculty Activity Report](far-2020-06-30) (Musing #1091)  
 

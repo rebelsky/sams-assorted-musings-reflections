@@ -3701,6 +3701,10 @@ Autobiographical essays, more or less
 
 > Danger!
 
+[Recalling my past](recalling-my-past-2020-07-02) (Musing #1093)
+
+> Perhaps failing.
+
 Salary reviews
 --------------
 
