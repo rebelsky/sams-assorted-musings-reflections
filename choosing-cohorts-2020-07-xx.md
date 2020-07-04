@@ -1,11 +1,11 @@
 ---
 title: Choosing cohorts
 number: 
-tags: [Academia](index-academia)
+tags: [Academia](index-academia), long
 blurb: Everyone loses!
-version: 0.2
+version: 0.3
 released: 
-current: 2020-07-03
+current: 2020-07-04
 ---
 *As I note at the end, this musing represents my own perspectives and
 should not be taken as an official statement of Grinnell College.  Even
@@ -18,7 +18,7 @@ choices.*
 
 ---
 
-There's a lot of discussion on the Grinnell Parents and Familes
+There's a lot of discussion on the Grinnell Parents and Families
 Facebook group about how Grinnell is deciding on the cohorts for
 each of the four terms this year.  As you might guess, folks are
 unhappy, unhappy not only about the decisions that have been made,
@@ -32,7 +32,7 @@ decisions I might make.  So let's pretend I was in charge of decisions
 [1].
 
 What are my parameters?  Entities with much more power than I have
-have already dedided that we will  make public health our priority
+have already decided that we will  make public health our priority
 (it's hard to argue with that decision) and that prioritization
 implies that we should start with a cohort of 500 or so students out
 of the 1650-or-so students we typically enroll [2].
@@ -52,7 +52,7 @@ these kinds of situations and our students' models match.
 
 My second priority would be students who should be on campus for
 legal reasons.  I don't know the exact law about these issues, and
-my understanding is that guideance is shifting.  Still, I think
+my understanding is that guidance is shifting.  Still, I think
 it's generally expected that international students in the US who
 have F1 visas have to be on campus.
 
@@ -117,7 +117,7 @@ Can we clean out dorm rooms?  Can we do that much testing of people
 in such a short time, given that our model requires that students
 stay in College-funded hotel rooms while awaiting their first
 results?  There's probably some public health rationale at play
-here, too.  We "know" that the students on campus are healthy.  THe
+here, too.  We "know" that the students on campus are healthy.  The
 ones we are adding?  It's much less clear, even with testing.
 
 Let's assume we can add another two-hundred-and-fifty students for
@@ -136,13 +136,13 @@ evidence that fall of the second year is the hardest term in most
 students' careers.  It's when you move from exploration to settling
 down with a major.  (That seems to hold even for students who had
 majors before they started college.)  It's when you begin trying
-to figure out wheter and how you fit in a discipline.  Most
+to figure out whether and how you fit in a discipline.  Most
 second-years also start to move into leadership positions in their
 organizations.  (I've forgotten the rest.) 
 
 * We might prioritize *third-year students*.  Many of them will
 be studying abroad in the spring [9], so F2 will be their only
-chance to reeturn to campus this year.
+chance to return to campus this year.
 
 * We might prioritize *planned mid-year graduates* because it will
 be the last opportunity they have to return to campus as students.
@@ -170,12 +170,15 @@ increases the chance of transmission.  In Studio Art or Lab Science,
 social distancing might mean that we cannot fit enough students in
 the studio or lab.
 
-* We might priortize *students who can mentor the first-years*,
+* We might prioritize *students who can mentor the first-years*,
 whether they are those dorm assistants I mentioned earlier or
 class mentors.  As I noted, having trained mentors and leaders
 will contribute to the experiences of the first-year students.
 
 * We might prioritize *some other groups that I have not considered*.
+I don't have much to say about that group, other than to note that
+it's worthwhile to talk about these issues with others because we
+will learn of new ideas and approaches.
 
 The choice is a hard one.  A belief that everyone deserves some
 time on campus would lead us to prioritize mid-year graduates and
@@ -214,34 +217,60 @@ might even be what happens to seniors who take the fall off [11].
 But I wouldn't say third-years are being ignored, as I've also heard
 some people suggest.  
 
-Their experience is certainly much less good than anyone
-would hope.  But are they being ignored?  I don't think so.  My
-sense is that someone did an analysis similar to mine and decided
-that first-year students and second-year students should have
-higher-priority.
+Their experience is certainly much less good than anyone would hope.
+But are they being ignored?  I don't think so.  My sense is that
+someone did an analysis similar to mine and decided that first-year
+students and second-year students should have higher-priority.  As
+I note at the end of this musing, I expect people are making plans
+for other ways to support third-years.
 
-Who will we prioritize in spring?  Who should we prioritize in spring?
-I'd start with the same first two groups: Students who will be much
-safer on campus and students whose ability to stay in the US would be
-affected by whether or not they are on campus.
+That's the fall.  Who will we prioritize in spring?  Who should we
+prioritize in spring?  I'd start with the same first two groups:
+Students who will be much safer on campus and students whose ability
+to stay in the US would be affected by whether or not they are on
+campus.  I'm not sure if I would continue to prioritize those "leaders
+and mentors" groups; it depends on who else will be on campus.
 
-What next?  That's difficult.  I see a variety of groups that are
-important to have on campus in the spring.  In no particular order,
-they are
+What next?  That's difficult.  I'm going to assume that we plan to
+clean out the dorms almost completely, so we don't have the "continue
+the cohort from the previous term" issue at play.  But we'll still
+have students who need to be on campus for safety or legal reasons.
+Beyond those two groups, I see a variety of groups that are important
+to have on campus in the spring.  In no particular order, they are,
 
 * First-year students who could not be on campus in the fall.
-* Other students who did not have a chance to be on campus in the fall.
+* Students who enrolled in the fall who did not have a chance to be 
+  on campus in the fall.
 * Seniors, who should get part of their senior year on campus.
-* Athletes, if we've decided to restart competition (and perhaps even
-  if we have not).
-
-* There are probably others who don't immediately come to mind.
+* Athletes, if we've decided to restart competition.  There are also 
+  reasons to bring athletes back even if we haven't restarted competition;
+  building team cohesion is important.
+* Students in classes that benefit from a significant in-person component 
+  or campus resources and that we can safely and appropriately run on campus.
+  See my earlier note on such class.
+* Students doing work that belongs on campus, such as Studio Art students
+  doing shows, Theatre and Dance students involved in productions,
+  and MAP students.
+* Once again, here are probably others who don't immediately come to mind.
 
 Can we have all of those groups safely on campus in the spring?  I have 
 no idea.  I'd hope that we could have *all* students safely on campus
-in the spring, but that seems unlikely 
+in the spring, but that seems unlikely.  If we have most of the fall 
+first-year students off campus, a bunch of third-year students abroad,
+and a well-functioning system for maintaining campus health, it may be
+that the remainder will come close to fitting.
 
-But once we've chosen cohorts, we may still have to make individual
+I'm not sure that it's reasonable to make all of the decisions right
+now, not least because that public health component will have a
+significant impact.  After the default groups, I would start with
+the first-years who could not be on campus in the fall (and want
+to be on campus in the spring), add enough leadership to support
+them, and then move on to seniors.  If I had made the choice to
+bring third-years here for Fall 2, I'd also prioritize second-years.
+As I said, it's a difficult year for second-years.  Being here for
+spring could be the best time to support their identity development.
+
+Once we've chosen cohorts, we may still have to make individual
 decisions.  Suppose things take a turn for the worse, that we realize
 that we can only have two-hundred students on campus for Spring
 Term 2, and that we decide our cohort will include only graduating
@@ -249,25 +278,53 @@ seniors. (That's not a likely scenario, but it helps us explore
 some individual points.) Should some of those other characteristics
 come into play?  For example, should we prioritize senior Studio
 Art majors so that they can have an on-campus exhibition?  I'd say
-so.  Should we prioritize senior athletes?  If the situation is such
-that we have only two-hundred students on campus, we're unlikely to be
-participating in competitions, so probably not.  But in other situations,
-we might want to do so.
+so.  Should we prioritize senior athletes?  If the situation is
+such that we have only two-hundred students on campus, we're unlikely
+to be participating in competitions, so probably not.  But in other
+situations, we might want to do so.
 
-And then there's a hard question that a variety of people are
-discussing.  What if some of those seniors have taken both fall
-terms off?  (I originally wrote "fall semester", but that doesn't
-exist any more.)  Should that affect whether or not they get invited
-back if we are choosing between people in the same cohort (those
-seniors)?  I can see one sense of fairness that suggests that all
-seniors should have an equal chance.  I can see another sense of
-fairness that suggests that students who have 
+Then there's a hard question that a variety of people are discussing.
+What if some of those seniors have taken both fall terms off? [14]
+Should that affect whether or not they get invited back if we are
+choosing between people in the same cohort (those seniors)?  I can
+see one sense of fairness that suggests that all students who
+enroll for the full year deserve a chance to be on campus.  It's
+hard!
 
+Like other schools, we are trying to make it less hard by adding a
+summer term.  Perhaps third-year students [15] can be on campus in
+summer.  Perhaps we can allow those students to be on campus without
+charging them tuition.  Of course, many will be better served by
+being at internships or research experiences at other institutions.
+Perhaps we can make MAPs available for many of them, which will be
+nearly as good.  And perhaps we will once again acknowledge that
+if a student is being paid $3,400 for a MAP [16] and it costs almost
+that much to be in Grinnell over the summer [17], we will realize
+that it is inappropriate to ask summer MAP students to contribute
+from their so-called "summer earnings" [18].
 
+Where am I going with all this?  I'm not sure.  I have concluded
+that I would make somewhat different decisions than have been made.
+I've seen that there are reasons to make different decisions.  And
+I've acknowledged that choosing cohorts for spring will be complex,
+which makes it hard to make broad promises right now.
 
-two-hundred slots left for four-hundred seniors.  What will lead
-us to choose one senior over another?  What should lead us to choose
-one senior over another?
+As a parent, I would be frustrated if my student were not prioritized.
+As a parent, I am a bit frustrated at the choices my Youngest Son's
+institution is making, mostly because of the impact they will have
+on him and on us.  But as part of a community, I accept that there
+are broader interests at play and I acknowledge the generally good
+intent of those making decisions.
+
+I look forward to broader campus conversations about how we will
+best support the students who will not be on campus this fall,
+particularly the third-years who may not be here at all this year,
+the international students who cannot return to this country, the
+athletes mourning the loss of their seasons, the seniors who only
+get part of their senior year here, and so many others.  We should
+address them as a whole, as subgroups, and as individuals.  Maybe
+when Tuesday rolls around [18], I'll ask what planning is happening
+for those groups and where it is happening
 
 ---
 
@@ -288,7 +345,7 @@ I'm not even sure I intended it as a joke.
 
 [6] The terms we use for these students change over time.  I don't 
 remember what the other in-dorm support students are called.  Community
-assistans?  Student assistants?
+assistants?  Student assistants?
 
 [7] This year will likely be one in which we do not bring students 
 into our house.  That makes me sad.  Michelle and I are also moving
@@ -313,3 +370,24 @@ prioritize for spring?  I'm not sure what I'd choose [12].
 I'd prioritize that group.  But that's not true.  I'd be thinking
 about the broader issues.  And, in any case, I'm not making any of
 the decisions.
+
+[14] I originally wrote "fall semester", but that doesn't exist any
+more.
+
+[15] Rising seniors.
+
+[16] I think that's the current stipend.
+
+[17] I seem to recall that room and board on campus this summer is
+about $3,200.  I seem to recall that the notice about the fees
+for room and board suggested that they were similar to living off
+campus.  Or maybe that was just room.  Most students can feed themselves
+for less than $40 or so per day.
+
+[18] I realize that this issue is one of my "broken record" rants.  But
+I find that people forget these issues unless I bring them up regularly.
+
+[19] It's a long holiday weekend.  While some of us will be working on
+Monday, I should not assume others will be working and should not barrage
+them with questions.
+
