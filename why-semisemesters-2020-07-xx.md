@@ -3,9 +3,9 @@ title: Why terms? (Why semi-semesters?)
 number: 
 tags: [Rants](index-rants)
 blurb: Did anyone do a cost-benefit analysis?
-version: 0.1
+version: 0.2
 released: 
-current: 2020-06-30
+current: 2020-07-04
 ---
 As all of my readers should know by now, Grinnell decided to switch
 the structure of the 2020-2021 academic year to use seven-week (plus
@@ -16,6 +16,22 @@ reasons we've been given for the switch.  I recall hearing (a)
 working on two classes at once rather than four will be better for
 student stress levels, (b) terms make us more agile, and (c) um,
 something else.  Okay, I feel like I've only heard those two reasons.
+
+But if I spend the time looking, I do see that there's [an official
+explanation](https://www.grinnell.edu/messages/AY2021-planning-update)
+
+> **Condensed academic units**
+
+> In consideration of the ever-changing circumstances of a pandemic and because there is still so much unknown about the virus, we are beginning with a cautious approach. Accordingly, the 2020-21 academic year will consist of four 7.5-week terms, spread out over the traditional fall semester (F1 2020 and F2 2020) and spring semester (S1 2021 and S2 2021), with an optional summer (SU 2021) term serving as a means to ensure student academic progress. These shorter terms allow us to start small and incrementally increase the number of students on campus.
+
+Wow.  That's even less of a public rationale than I thought.  I'm
+going to stick with "reduce student stress", "be more agile", and
+"start small and incrementally increase".  Except that last one
+doesn't make sense.  We could permit students to come to campus in
+the middle of the semester; they just wouldn't get on-campus classes.
+Since we already have cohorts that are on campus without on-campus
+classes, that doesn't seem all that problematic.
+
 What does "more agile" mean?  I've understood it to mean a variety
 of things.  If the pandemic worsens, we could potentially cancel
 Fall Term 1 or Fall Term 2 [2].  If the pandemic lessens and a
@@ -50,22 +66,31 @@ we don't generally get paid for course development.  Nonetheless,
 there is a real human cost, as well as the cost to morale and mental
 wellness.
 
-I hate to say this publicly, but I think the switch to terms will
-come at a cost to the quality of learning.  In part, that's because
-many courses, including Tutorial, will have less time in class and
-more time on independent work.  (Maybe I shouldn't say this publicly.
-Maybe I should just ask.)
+I also wonder what the effect on student learning will be.  Some
+students will likely thrive with the chance to focus.  But others will
+trip and not have enough time to get back up.  And, given the other
+issues faculty are facing, I'm not sure what the course design transition
+will be like; I know that my colleagues are all working hard to 
+restructure courses for the transition, but designing for a new model
+is difficult.  Designing for two new models is even harder.  At least
+it looks like we'll be able to have as much time in class [we weren't
+going to in the original model].
 
-Then there's the administrative burden associated with the shift.  I
-don't want to think about how much time the amazing staff of the
-Registrar's office have had to spend on this.  I don't want to think
-about how much time they will be spending re-entering all of the course
-information for both semesters.  I don't want to think about how much
-reprogramming is going to be necessary to get Ellucian to appropriately
-show and credit terms.  I wonder how much that reprogramming is going
-to cost the College.
+Then there's the administrative burden associated with the shift.
+I don't want to think about how much time the amazing staff of the
+Registrar's office have had to spend on this.  I know that they
+expected to have to work during the four-day Independence Day weekend
+that was announced for capus.  I don't want to think about how much
+time they will be spending re-entering all of the course information
+for both semesters.  I don't want to think about how much reprogramming
+is going to be necessary to get Ellucian to appropriately show and
+credit terms.  I wonder how much that reprogramming is going to
+cost the College.
 
 Etc. Etc.
+
+Did someone who doesn't have to deal with all the complexities make the
+7.5-week decision?  Almost certainly.  Was it worth it?  We shall see.
 
 ---
 
