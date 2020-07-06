@@ -3,7 +3,7 @@ title: Decision processes
 number: 1095
 tags: [Academia](index-academia), things I was already writing, long, less rambly than I'd expect
 blurb: Complex.
-version: 0.2
+version: 0.3
 released: 
 current: 2020-07-05
 ---
@@ -25,15 +25,15 @@ maybe some of those decisions were imposed on them.  It's hard to
 tell from the outside.
 
 Now it appears that they are trying to come up with some guidance
-about which subset of the second-year class shoould come for F2.
+about which subset of the second-year class should come for F2.
 At first glance, you might say "Well, it should be the lab science
 students."  Or maybe you say "It should be the art students."  Or
 maybe you say "Students in small seminars."  Curriculum Committee is
-clearly considering these matters.  But they're trying to be collaborative
-in this process, at least I think they are trying to be collaborative.
-Perhaps they haven't thought about a subgroup that would really benefit
-from being on campus.  So, late Thursday, I received a message as
-department chair.
+clearly considering these matters.  But they're trying to be
+collaborative in this process, at least I think they are trying to
+be collaborative.  Perhaps they haven't thought about an academic
+subgroup that would benefit from being on campus.  So, late Thursday,
+I received a message as department chair.
 
 > From: "Curriculum Committee Science Representative" <ccscirep@grinnell.edu>  
 > Subject: CSC Student Cohort for F2  
@@ -81,11 +81,12 @@ What else went through my head as I got ready to respond?  The first
 thing I noted is that the message has gone to me as Department Chair
 [5].  In some models of governance, I would respond without involving
 my department.  But I prefer a collaborative department.  So I
-forwarded the message along to my colleagues, along with my own
-thoughts on the matter.  Once I'd recorded my thoughts (and, in doing
-so, found myself thinking more about these matters), I decided it would
-make a useful musing.  So I added some "wrapper text" and even learned
-some new things writing that text.  And now you get to read this musing.
+forwarded the message along to my colleagues, along with own thoughts
+on the matter.  Once I'd recorded my thoughts (and, in doing so,
+found myself thinking more about these matters), I decided it would
+make a useful musing.  So I added some "wrapper text" and even
+learned some new things writing that text.  And now you get to read
+this musing.
 
 Before I move on to my reflections, I should provide a little bit more
 context on the three courses mentioned in the email.  
@@ -107,7 +108,7 @@ are enjoying CS and want more or because they see value in the material
 for their major (e.g., Physics, Applied Math) or graduate plans.  We are
 teaching two sections of CS-161 this fall, one in each term.  It is capped 
 at 24 students.  Section 2, to be offered in Fall Term 1 [8], has 
-twenty-four students enrolled.  Section 1, to be in offered in Fall Term
+twenty-four students enrolled.  Section 1, to be offered in Fall Term
 2, is over-enrolled with twenty-eight students [9].
 
 CSC-207 is the third course in our introductory sequence.  It has
@@ -118,15 +119,16 @@ students.  I thought both were full, but I see that Section 1
 currently has four open slots.
 
 We teach all of these classes using what we refer to as "workshop-style
-pedgagogy".  On most days, students come to class having done a short
+pedagogy".  On most days, students come to class having done a short
 reading in advance and spend their time working in pairs on a series
 of problems we have assigned while the class mentor [11] and faculty
 member wander through the room, looking over shoulders, asking and
 answering questions.  Some might apply the term "flipped classroom",
-but there's a question as to whether flipped classrooms expect students
-to prepare by watching a video rather than reading a text.  In any
-case, we think students learn best by doing, and by doing in pairs.
-How we're going to do that online is a subject for another musing [12].
+but there's a question as to whether flipped classrooms expect
+students to prepare by watching a video rather than reading a text.
+In any case, we think students learn best by doing, and by doing
+in pairs.  How we're going to do that online is a subject for another
+musing [12].
 
 That pedagogy will not translate well to the socially distanced
 classroom.  And, as you might have noted, these classes have
@@ -173,7 +175,7 @@ as I developed and documented them in an email message to my colleagues.
 
 ---
 
-I'm not sure that I have a good answer to CC's question, in part because we don't have access to broader context.  But I'm going to do the best I can to think through the issues.
+I'm not sure that I have a good answer to CC's question, in part because we don't have access to the broader context.  But I'm going to do the best I can to think through the issues.
 
 Some reasons to have students on campus: If they are (i) on campus, (ii) in the same scurry, and (iii) the only students in that section, and (iv) social distancing in classrooms is not required for students from the same scurry, then (a) we could have a reasonable-sized in-person class, (b) they could work together on assignments in person, and (c) we can build community in the major.  Of course, postcondition a also requires that (v) the instructor is willing to teach in person in that situation, and postcondition b requires that (vi) we are able to make our lab open to these students at other hours.  Ideally, it also benefits from (vii) having a class mentor in the scurry to help them in the lab.  That mentor could also be someone who is immune to the novel coronavirus/Covid-19.  (Do we have such students?)
 
@@ -220,7 +222,7 @@ of employees.  It's hard.
 ---
 
 **_Postscript_**: I found myself wondering whether I should post this
-musing.  But then I remembered, "Transparency" is part of the the T in
+musing.  But then I remembered, "Transparency" is part of the T in
 "THRIVE". [16]
 
 > Talk to Improve **Transparency**
@@ -252,7 +254,7 @@ I wish they'd included that note.  I would have found that version much
 easier to answer.  But it's hard to get things perfect, or even close to
 perfect, when you're working at the pace that people need to work.
 And perhaps my reading was colored by a Wednesday message asking
-about whether we wanted to offer these class on campus.
+about whether we wanted to offer these classes on campus.
 
 ---
 
@@ -271,7 +273,7 @@ be spending on other professional activities.
 Although "Equity" is not explicitly one of the THRIVE principles,
 I should note that many, but not all, faculty are comparatively
 privileged.  Our jobs pay well.  We can mostly work from home during
-these times.  While some of us have explicit other summer committments,
+these times.  While some of us have explicit other summer commitments,
 many of us can find ways to spare the time for this additional work
 without affecting our ability to take care of ourselves or our
 families.
@@ -282,8 +284,8 @@ families.
 However, they are currently making some decisions.
 
 [2] F1 is the first fall term, which will include first-year students as
-well as students identified by Student Affairs as needing to be on campus.
-F2 is the second fall term.
+well as students who Student Affairs has identified as needing to
+be on campus.  F2 is the second fall term.
 
 [3] There are still a variety of people who have to work during the
 extended weekend, such as those charged with feeding our students or
@@ -305,7 +307,7 @@ committed until June 30, 2023, but there are other issues at play.
 [7] We always hope to grab a few unplanned majors (or at least people who
 end up discovering they love CS) from that group, too.
 
-[8] Why is Section 2 in Term 1 and Section 1 in Term 2?  Bcause the
+[8] Why is Section 2 in Term 1 and Section 1 in Term 2?  Because the
 magic optimization algorithm placed them that way.  
 
 [9] Henry Walker, who was originally scheduled to teach section 2, is
