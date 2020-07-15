@@ -3705,6 +3705,10 @@ Autobiographical essays, more or less
 
 > Perhaps failing.
 
+[Back to the office (and lab)](back-to-the-office-2020-07-14) (Musing #1094)
+
+> It feels so good.
+
 Salary reviews
 --------------
 
