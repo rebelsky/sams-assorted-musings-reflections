@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 1091-1100
 
+[A letter to my Tutorial students](tutorial-2020-07-16) (Musing #1095)  
 [Back to the office (and lab)](back-to-the-office-2020-07-14) (Musing #1094)  
 [Recalling my past](recalling-my-past-2020-07-02) (Musing #1093)  
 [Misbehaving email clients](misbehaving-mail-clients-2020-07-01) (Musing #1092)  

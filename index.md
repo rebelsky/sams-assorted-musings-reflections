@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Back to the office (and lab)](back-to-the-office-2020-07-14) (Musing #1094)
+[A letter to my Tutorial students](tutorial-2020-07-16) (Musing #1095)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

@@ -1421,3 +1421,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Misbehaving email clients](misbehaving-mail-clients-2020-07-01) (Musing #1092)  
 [Recalling my past](recalling-my-past-2020-07-02) (Musing #1093)  
 [Back to the office (and lab)](back-to-the-office-2020-07-14) (Musing #1094)  
+[A letter to my Tutorial students](tutorial-2020-07-16) (Musing #1095)  

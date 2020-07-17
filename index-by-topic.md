@@ -2025,6 +2025,10 @@ online, but they will soon expand to more general issues about teaching._
 
 > Revising our priorities.
 
+[A letter to my Tutorial students](tutorial-2020-07-16) (Musing #1095)
+
+> Getting acquainted
+
 Code camps
 ----------
 
