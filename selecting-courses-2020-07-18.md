@@ -2,35 +2,38 @@
 title: Selecting courses
 number: 1096
 tags: [Teaching](index-on-teaching), Grinnell
-blurb: I'd be a difficult advisee.  Or maybe not.
+blurb: Would I be a difficult advisee?
 version: 0.1
 released: 
 current: 2020-07-16
 ---
 **_This musing is in draft form.  Do not read it unless you've been told to do so._**
 
-In [a paired musing](tutorial-2020-07-16.md), I presented an
-introductory letter to my students.  At the conclusion of that
-letter, I included my answers to the questions that they had been
-asked to answer for their not-yet-known advisor.  The last question
-was to provide a list of courses for the fall.
+In [a recent musing](tutorial-2020-07-16), I presented an introductory
+letter to my students.  As a followup, I [provided my own answers
+to the set of fourteen questions](fourteen-questions-2020-07-17)
+that students are expected to answer for their (not-yet-known)
+advisors.  The last of those questions was to provide a list of
+courses for the fall.
 
-Once I started writing these notes, I realized that my "'blogger
-voice" had taken over. It seemed best not to present them directly 
-to the students in an email message and I'm too lazy to undertake 
-a rewrite [1,2].  
+Once I started writing about the courses, I realized that my "'blogger
+voice" had taken over [1]. It seemed best not to present them
+directly to the students in an email message and I'm too lazy to
+undertake a rewrite [2,3].
 
-I wasn't sure whether I ad to pretend to be a first-year student again.
-I decided that no particular model worked.  I'm going to pretend that
-the person I am now is going back to college, although perhaps with
-fewer of my college classes completed.  I'm (mostly) sticking to
-100-level classes.
+I wasn't sure whether I had to pretend to be a first-year student
+again.  I decided that no particular model worked.  I'm going to
+pretend that the person I am now is going back to college, although
+perhaps with fewer of my college classes completed.  I'm (mostly)
+sticking to 100-level classes.
 
 Do you have access to a list of classes?  Did my advisees?  Right
 now, when I visit [my _de facto_ source for the list of
 courses](https://itwebapps.grinnell.edu/DotNet/CourseOffering/), I
 see that every course is now listed as "Cancelled".  I guess I'll
 be relying on incomplete information.
+
+---
 
 _14. List below several courses you are interested in taking during the first two Fall terms. The typical schedule for new students is 3 courses plus the First-Year Tutorial and the First Year Experience, across two terms (Fall 1 and Fall 2), for a total of 16+ credits. We encourage you to list at least 6 possible courses so that you and your adviser have a number of ideas to consider. Consult [Academic Planning for New Students](https://www.grinnell.edu/about/offices-services/academic-advising/resources/new-student-planning) for suggestions on planning a well-balanced schedule._
 
@@ -60,7 +63,7 @@ six" should not be hard.
   the literature, designing an experiment, conducting the experiment,
   presenting the results.  Sounds cool.  I just want to be able to
   pick the one that sounds most interesting to me.  Plus, I hear
-  that some sections will be offered in person [3].
+  that some sections will be offered in person [4].
 * CSC-151, _Functional Problem Solving_.  Computer Science is a possible
   major, or so I'm pretending.  And I will be taking this course, at least
   in some interpretation, since I'm teaching it.
@@ -173,12 +176,12 @@ If we had a traditional first semester, we'd discuss how to optimize the
 first-year selection sheet.  That would include looking at current
 enrollments.  But we're not doing a traditional first semester.  And
 the faculty have not yet been told what first-year enrollment will look
-like [4].  Maybe I'll learn at the Tutorial sessions next week.
+like [5].  Maybe I'll learn at the Tutorial sessions next week.
 
 Should I have told myself to take CSC 151?  It's an awesome course.
 I'm not sure my Tutorial students should have to put up with two
 courses with me, one in each term.  We'll have sections available
-in spring [5].  If it were a high priority, I'd support the
+in spring [6].  If it were a high priority, I'd support the
 decision.  I'd also warn them that it fills (and tell them that,
 in my experience, any student who wants 151 in their first year
 will get it in their first year).  So let's leave things as they are.
@@ -186,7 +189,7 @@ will get it in their first year).  So let's leave things as they are.
 ---
 
 Speaking of spring, we might lay some groundwork for spring in this
-discussion [6].
+discussion [7].
 
 F\. Plan to continue Russian.
 
@@ -199,14 +202,14 @@ you should take CSC 151 in the spring.
 
 H\. It would be good to explore another prospective major.
 
-> Linguistics! [7]
+> Linguistics! [8]
 
 I\. Let's plan to fill in the fourth course later.  I'd suggest
 getting one of the social studies courses in during your first
 year.  Maybe political science, so that you can figure out what
 happened in the election.
 
-> Ok. [8]
+> Ok. [9]
 
 J\. You'll need a music course and a wellness course in the spring.
 We'll also discuss those later, after you've had more time to
@@ -224,22 +227,24 @@ what my tutees are considering and to help them in their planning.
 
 ---
 
-[1] To be honest, I could not come up with a good way to rewrite
+[1] Perhaps it had earlier, but it did not seem quite so pronounced.
+
+[2] To be honest, I could not come up with a good way to rewrite
 my list with an appropriate tone.
 
-[2] To be honest, writing them this way feels more honest to who I am
+[3] To be honest, writing them this way feels more honest to who I am
 or would be as a student.
 
-[3] Should one trust hearsay?
+[4] Should one trust hearsay?
 
-[4] Does anyone know what first-year enrollment will look like, or is that
+[5] Does anyone know what first-year enrollment will look like, or is that
 process still being designed?  I don't know.
 
-[5] I'm not sure whether or not I'll be teaching one of those.
+[6] I'm not sure whether or not I'll be teaching one of those.
 
-[6] I have that discussion planned for later in the term, but sometimes
+[7] I have that discussion planned for later in the term, but sometimes
 it happens naturally as part of the discussion.
 
-[7] Not an official major.  We'd need to have that conversation.
+[8] Not an official major.  We'd need to have that conversation.
 
-[8] It appears that I'm an agreeable student.
+[9] It appears that I'm an agreeable student.
