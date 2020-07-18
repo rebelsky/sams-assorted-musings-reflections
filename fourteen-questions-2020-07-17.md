@@ -1,11 +1,11 @@
 ---
-title: Answers to fourteen questions
-number: 
-tags: [Autobiographical](index-autobiographical)
-blurb: Fourteen, more or less.
-version: 0.1
-released: 
-current: 2020-07-16
+title: Fourteen questions
+number:  1097
+tags: [Autobiographical](index-autobiographical), long
+blurb: More or less.  It dependds on how you count.
+version: 1.0
+released: 2020-07-16 
+current: 
 ---
 
 In [a recent musing](tutorial-2020-07-16), I presented a draft
@@ -22,10 +22,10 @@ In my prior letter, I noted that since you have to answer fourteen
 questions for me, it seems only fair that I answer the same fourteen
 questions for you.  This message provides most of those answers.
 
-I'll admit that high school is a bit of a blur, so I'm going to
-substitute college for high-school in my answers.  You can feel
-free to read or ignore these comments.  They probably tell you too
-more than you need to know.
+I'll admit that high school is far enough in my past that it's a
+bit of a blur, so I'm going to substitute college for high-school
+in my answers.  You can feel free to read or ignore these comments.
+They probably tell you too more than you need to know.
 
 As always, feel free to send me email or chat with me in Teams if
 you have comments or questions.
@@ -38,24 +38,24 @@ SamR
 
 I attended the University of Chicago which, at the time, had a
 moderate-sized liberal arts college (3,000 students) in the midst
-of a large research university.  I loved (and still love) mathematics
-and film.  Mathematics provides a venue for problem solving; I find
-a sense of accomplishment when I work out a difficult mathematical
-problem.  Film provided a venue for deep analysis, analysis that
-combined visual, auditory, and textual (spoken or titled) elements.
-Toward the end of my undergraduate career, I realized that I liked
-CS.  CS has what I love about math along with the ability to build
-things.
+of a large research university.  (My high school also had about 3,000
+students, but across three years instead of four.)  
 
-Although I got A's on essays in my high-school and local college
-writing courses, I struggled with writing in my first year at UofC,
-getting a bunch of C's.  I enjoyed most of the Physics I took, but
-E&M didn't make sense to me, and it showed in my grade.  (Sleeping
-through the midterm didn't help.)  I'd taken Latin and Spanish in
-high school, so I tried learning a new language, German.  I did
-okay but found it more challenging than I expected.
+I loved (and still love) mathematics and film.  Mathematics provides
+a venue for problem solving; I find a sense of accomplishment when
+I work out a difficult mathematical problem.  Film provided a venue
+for deep analysis, analysis that combined visual, auditory, and
+textual (spoken or titled) elements.  Toward the end of my undergraduate
+career, I realized that I liked CS.  CS has what I love about math
+along with the ability to build things.
 
----
+Although I got A's on essays in my writing courses in high-school
+and a local university, I struggled with writing in my first year
+at UofC, getting a bunch of C's.  I enjoyed most of the Physics I
+took, but E&M didn't make sense to me, and it showed in my grade.
+(Sleeping through the midterm didn't help.)  I'd taken Latin and
+Spanish in high school, so I tried learning a new language, German.
+I did okay but found it more challenging than I expected.
 
 *2\. What do you most look forward to at Grinnell?*
 
@@ -69,7 +69,9 @@ innovation in teaching.
 Those remain things that I love about Grinnell.  I've also found
 that I value the size, including the variety of colleagues I know.
 
----
+This year, I look forward to our Tutorial (and to the book I hope
+we write) and to a time when everyone can be back on campus.  I'm
+not sure when that will be.
 
 _3\. What do you feel are your academic strengths?_
 
@@ -89,8 +91,6 @@ I spew reasonably readable text at a good rate.
 I seem to be good at exploring patterns in numbers and in asking
 questions about numeric data.
 
----
-
 _4\. Which academic skills do you anticipate you will work hardest to improve in the coming year? (Check all that apply) [Mathematical skills; Study habits/time management; Writing skills; Verbal expression; Independent research; Library/Information skills; Digital skills/literacy; Other]_
 
 Study habits and time management are a long-standing problem.  I
@@ -105,16 +105,14 @@ need to work on.
 
 Asking for help is also a skill I continue to need to work on.
 
----
-
 _5\. Do you have any tentative ideas about what discipline you may major in and/or career-related goals? And please let me know why your interest is in these area(s)._
 
 Entering college, I said "Math".  Going on to graduate school, I said "CS".
 At times I wonder whether I should have said "Film Studies", but I wasn't
 a good enough writer.  If I could go to college another time, I'd probably
-try studio art.  At least that's what I did during one sabbatical.
-
----
+try studio art.  At least that's what I did during one sabbatical.  As
+you'll see in my answer to the "What courses are you considering" question,
+there are also some other possible majors or topics.
 
 _6. What do you hope to accomplish through your undergraduate education?_
 
@@ -123,17 +121,15 @@ seemed to be the thing you do after high school.  In the back of my head,
 I always thought I'd be a professor, so I guess "Prepare me for graduate
 school" might have been a good answer.
 
----
-
 _7\. What activities (formal or informal) that you were involved with in 
 <strike>high school</strike> college were most important to you, and why?_
 
 I spent a lot of time in Doc Films, the student film group.  We showed
-films every day.  I worked as a projectionist, shipper, and, for a summer,
-as programmer/leader.  I don't know why I developed a passion for films
-during college, but considering the various aspect of a film interested
-me.  I also enjoyed the skill of seamless reel transitions when serving
-as a projectionist.
+films every night.  I worked as a projectionist, shipping chair,
+and, for a summer, as programmer/leader.  I don't know why I developed
+a passion for films during college, but considering the various
+aspect of a film interested me.  I also enjoyed the skill of seamless
+reel transitions when serving as a projectionist.
 
 I also became a vinyl addict in college.  I spent way too much time at
 the local used record stores.  Finding a new great tune released some kind
@@ -142,16 +138,15 @@ of endorphins, as did finding a hard-to-find record.
 I lived next door to a used book store.  Raiding the free pile that
 appeared each day was one of my favorite activities.
 
-I worked in the central users' site for many too many hours each week.
+I worked in the Central Users' Site for many too many hours each week.
 I enjoyed learning more about computing technology, reading newsgroups,
 and helping others.
 
 I worked as a teaching assistant for mathematics and computer science.
 There's a great sense of accomplishment in helping someone else learn.
 
-I also enjoyed spending time with friends.
-
----
+I also enjoyed spending time with friends.  I hope everyone finds a
+set of friends who provide good company.
 
 _8\. Beyond your studies, what activities (formal or informal) do you hope to engage in at Grinnell? Why is that?_
 
@@ -172,8 +167,6 @@ wrangler for the middle-school Chess Club and Backgammon Club, running
 a summer code camp, finding ways to bridge CS and studio art, helping
 with the library book sort and book sale, and so much more.
 
----
-
 _9\. What is your greatest concern about Grinnell? Or about the transition to college, in general?_
 
 When I started college, I was worried about making friends.
@@ -185,19 +178,16 @@ about these things.  But the College museum is awesome, Des Moines
 isn't that far away, and I seem to make more events on campus than I
 did when I was in busier cities.
 
----
-
 _10. Are you the first in your family to attend college?_
 
 Nope.  Mom had a Ph.D. and her father attended college.  Dad did not
 finish college and neither of his parents attended.  
 
-I have close friends (and colleagues) who are the first in their
-family to have attended college.  I also have close friends (and
-colleagues) who represent multiple generations of college graduates.
-I do my best to understand varied experiences.
-
----
+I hope I understand a variety of circumstances.  I have close friends
+(and colleagues) who are the first in their family to have attended
+college.  I also have close friends (and colleagues) who represent
+multiple generations of college graduates.  And I certainly have
+taught and supported students from a wide variety of backgrounds.
 
 _11. If you're comfortable, please tell me about your family, and describe the role they play in your education, if any._
 
@@ -207,8 +197,6 @@ I was interested in.  I seem to recall her talking about chemistry long
 after I'd lost any interest I had in chemistry.  Although mom was a
 professor, her experience of what higher education was like was much
 different than mine.
-
----
 
 _12. What language(s) do you speak? What language(s) are spoken in your home?_
 
@@ -220,8 +208,6 @@ actively in the CS-nerd, hacker-nerd, and linguistics-nerd
 conversations.  I can usually keep up with the math-nerd conversations.
 I stay out of the chemistry-nerd conversations.
 
----
-
 _13. Share anything else you would like your adviser to know about
 you: your passions, your identity, challenges you have faced in
 your life,  or anything that will enhance the relationship that you
@@ -230,20 +216,21 @@ are beginning with this important mentor._
 As I said, we seem to ask you hard questions.  I look forward to
 seeing what you write.  You probably deserve some answers from me.
 
-I should add a disclaimer, particularly since I did not write this
-question: I will be your academic advisor.  I will do all that I
-can to support you (or all that I can within reason).  I'll help
-you develop an academic curriculum that not only serves your needs
-but also challenges you.  I'll listen to you when you want to talk.
-I'll advocate for you and work to cut red tape.  I will try to push
-you in ways to be pushed.  To me, those are all part of advising.
+I should add a somewhat complicated disclaimer, particularly since
+I did not write this question: I will be your academic advisor.  I
+will do all that I can to support you (or all that I can within
+reason).  I'll help you develop an academic curriculum that not
+only serves your needs but also challenges you.  I'll listen to you
+when you want to talk.  I'll advocate for you and work to cut red
+tape.  I will try to push you in ways to be pushed.  To me, those
+are all part of advising.
 
-But I don't think you can assign mentors.  A mentoring relationship
-goes beyond those kinds of activities.  Mentoring relationships
-take time to develop, and they don't always develop.  I hope that
-I will develop mentoring relationships with many of my tutees;
-history suggests that I will.  But history also suggests that you
-will find your true mentors elsewhere.
+But I may not be  your mentor.  I don't think you can assign mentors.
+A mentoring relationship goes beyond those kinds of activities.
+Mentoring relationships take time to develop, and they don't always
+develop.  I hope that I will develop mentoring relationships with
+many of my tutees; history suggests that I will.  History also
+suggests that you will find your true mentors elsewhere.
 
 What will enhance my advisor-advisee relationship with you?  I've
 told you a bit about myself, both directly and indirectly, in the
@@ -301,8 +288,9 @@ too much homework, let me know.  If I'm not giving you the information
 or support you need to succeed, let me know.  If I'm being too directive,
 let me know.  (Or is that too directive?)
 
-Oh, I also make a lot of jokes.  I think they get classified as
-<strike>bad</strike> dad jokes.
+Oh, I also make a lot of jokes.  Or perhaps I should say I *try*
+to make a lot of jokes.  I think they get classified as
+<strike>bad</strike> dad jokes.  Few people laugh.
 
 I see that the new student planning document mentioned below suggests
 that we describe disabilities.  My vision is going.  I may need to
@@ -311,15 +299,24 @@ repeat yourself.  I am red-green color deficient.  Please do not
 expect me to distinguish red and green or green and black in a
 diagram.  There are also other issues I choose not to disclose.
 
----
-
 _14. List below several courses you are interested in taking during the first two Fall terms. The typical schedule for new students is 3 courses plus the First-Year Tutorial and the First Year Experience, across two terms (Fall 1 and Fall 2), for a total of 16+ credits. We encourage you to list at least 6 possible courses so that you and your adviser have a number of ideas to consider. Consult [Academic Planning for New Students](https://www.grinnell.edu/about/offices-services/academic-advising/resources/new-student-planning) for suggestions on planning a well-balanced schedule._
 
 I decided it was not worth including the list in this
 already too-long email message.  If you'd like to see my answers,
-visit my 'blog post at
-<https://www.cs.grinnell.edu/~rebelsky/musings/selecting-courses-2020-07-16>.
+visit my 'blog post at [forthcoming].
+
+---
+
+There you have it.  What I might send to my students.  I will likely
+need to edit it a bit.  Perhaps you've learned something new.  If
+you're a long-time reader, it will likely all be familiar.  Maybe
+the new context is useful.  I wonder if any of my students will
+read it [2].
+
+You'll also have the chance to read my list of courses tomorrow.
 
 ---
 
 [1] As I noted to them, turnabout is fair play.
+
+[2] I'm betting on somewhere between 25% and 50%.

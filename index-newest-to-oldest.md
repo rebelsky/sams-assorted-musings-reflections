@@ -3,6 +3,8 @@ Musings, from newest to oldest
 
 ## 1091-1100
 
+[Answers to fourteen questions](fourteen-questions-2020-07-17) (Musing #1097)  
+[Technological minimalism](technological-minimalism-2020-07-17) (Musing #1096)  
 [A letter to my Tutorial students](tutorial-2020-07-16) (Musing #1095)  
 [Back to the office (and lab)](back-to-the-office-2020-07-14) (Musing #1094)  
 [Recalling my past](recalling-my-past-2020-07-02) (Musing #1093)  

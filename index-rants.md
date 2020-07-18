@@ -562,3 +562,7 @@ Rants
 
 > A joy of moderation.
 
+[Technological minimalism](technological-minimalism-2020-07-17) (Musing #1096)
+
+> Different interpretations.
+

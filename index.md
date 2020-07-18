@@ -9,8 +9,11 @@ If you'd like, you can read [a longer introduction](intro-musings-v0).
 If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
-Latest musing:
-[A letter to my Tutorial students](tutorial-2020-07-16) (Musing #1095)
+Latest musings:
+[Technological minimalism](technological-minimalism-2020-07-17) (Musing #1096)
+and
+[Fourteen questions](fourteen-questions-2020-07-17) (Musing #1097)
+
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

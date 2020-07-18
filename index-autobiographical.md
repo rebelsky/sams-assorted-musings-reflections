@@ -529,3 +529,7 @@ Autobiographical essays, more or less
 
 > It feels so good.
 
+[Answers to fourteen questions](fourteen-questions-2020-07-17) (Musing #1097)
+
+> More or less.  It dependds on how you count.
+

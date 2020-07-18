@@ -1446,6 +1446,10 @@ Rants
 
 > A joy of moderation.
 
+[Technological minimalism](technological-minimalism-2020-07-17) (Musing #1096)
+
+> Different interpretations.
+
 Assorted talks and speeches
 ---------------------------
 
@@ -3712,6 +3716,10 @@ Autobiographical essays, more or less
 [Back to the office (and lab)](back-to-the-office-2020-07-14) (Musing #1094)
 
 > It feels so good.
+
+[Answers to fourteen questions](fourteen-questions-2020-07-17) (Musing #1097)
+
+> More or less.  It dependds on how you count.
 
 Salary reviews
 --------------
