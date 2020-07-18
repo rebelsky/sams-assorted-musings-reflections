@@ -3,9 +3,9 @@ title: Fourteen questions
 number:  1097
 tags: [Autobiographical](index-autobiographical), long
 blurb: More or less.  It dependds on how you count.
-version: 1.0
-released: 2020-07-16 
-current: 
+version: 1.1
+released: 2020-07-17 
+current: 2020-07-18
 ---
 
 In [a recent musing](tutorial-2020-07-16), I presented a draft
@@ -252,11 +252,12 @@ seems disorganized.
 I went to a school whose undergraduate curriculum involved a lot
 of requirements.  Grinnell's curriculum provides a strange contrast
 to me.  What I regret most is that Grinnell students lack a common
-intellectual heritage.  At Chicago, it was pretty clear that you,
-your roommate, or your best friend had read Freud, Marx, Plato,
-Adam Smith, and Thomas Kuhn.  (Yeah, a bunch of dead white guys.)
-Being able to draw on a common set of knowledge deepened our
-discussions, our arguments, our conversations.  I miss that.
+intellectual heritage.  At Chicago, it was pretty clear that by the
+end of your first two quaraters, you, your roommate, or your best
+friend had read Freud, Marx, Plato, Adam Smith, and Thomas Kuhn.
+(Yeah, a bunch of dead white guys.) Being able to draw on a common
+set of knowledge deepened our discussions, our arguments, our
+conversations.  I miss that.
 
 Chicago was also on the quarter system.  That meant that most
 students took between forty and forty-eight courses in their time
@@ -291,6 +292,12 @@ let me know.  (Or is that too directive?)
 Oh, I also make a lot of jokes.  Or perhaps I should say I *try*
 to make a lot of jokes.  I think they get classified as
 <strike>bad</strike> dad jokes.  Few people laugh.
+
+Backing up a bit, an alum who read a draft of this message wrote,
+" hope your students do take to heart the idea of telling you when
+there is too much homework or more importantly how to ask you for
+help and support when they need that. I found it essential at
+Grinnell."
 
 I see that the new student planning document mentioned below suggests
 that we describe disabilities.  My vision is going.  I may need to
