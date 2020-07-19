@@ -3,9 +3,9 @@ title: A draft sabbatical report
 number: 1100
 tags: [Overcommitment](index-overcommitment), Academia, Things I had to write
 blurb: A bit late.
-version: 1.0
+version: 1.1
 released: 2020-07-19 
-current:
+current: 2020-07-19
 ---
 **_Note_**: _I started this musing (and the letter within) before the
 end of June.  My life is such that I was not able to finish it until
@@ -108,14 +108,16 @@ support for the group during my sabbatical year.  I had hoped to move
 SIGCAS forward in new ways but mostly kept us in a holding pattern
 until the new board came on in summer 2020.
 
-Two opportunities to take courses arose in spring 2020.  I took
-Ralph Savarese's _The Craft of Creative Nonfiction_ and participated
-in half a semester of Justin Thomas' _Digital Media Design_ (up
-until spring break).  Justin's course has helped me think about
-other uses of technology in the arts, which relates to both my
-scholarship and my introductory courses.  Ralph's course has had a
-significant impact not only on my writing but also on the ways that
-I will teach writing in Tutorial and elsewhere.
+Two opportunities to take courses arose in spring 2020.  I took Ralph
+Savarese's _The Craft of Creative Nonfiction_ and participated in half a
+semester of Justin Thomas' _Digital Media Design_ (up until spring break).
+Justin's course has helped me think about other uses of technology in the
+arts, which relates to both my scholarship and my introductory courses.
+Ralph's course has had a significant impact not only on my writing but
+also on the ways that I will teach writing in Tutorial and elsewhere.
+Ralph also says that he considers my final piece publishable; he and I
+will work on polishing it and finding an appropriate venues some time
+this academic year.
 
 While I avoided some departmental and service responsibilities,
 others were unavoidable.  I was an active participant in our
