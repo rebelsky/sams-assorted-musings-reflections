@@ -1424,3 +1424,5 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [A letter to my Tutorial students](tutorial-2020-07-16) (Musing #1095)  
 [Technological minimalism](technological-minimalism-2020-07-17) (Musing #1096)  
 [Answers to fourteen questions](fourteen-questions-2020-07-17) (Musing #1097)  
+[A chicken and egg problem and other situations in software selection](software-selection-2020-07-18) (Musing #1098)  
+[Selecting courses](selecting-courses-2020-07-18) (Musing #1099)  

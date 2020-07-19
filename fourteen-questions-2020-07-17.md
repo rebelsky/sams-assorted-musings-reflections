@@ -3,7 +3,7 @@ title: Fourteen questions
 number:  1097
 tags: [Autobiographical](index-autobiographical), long
 blurb: More or less.  It dependds on how you count.
-version: 1.1
+version: 1.1.1
 released: 2020-07-17 
 current: 2020-07-18
 ---
@@ -310,7 +310,7 @@ _14. List below several courses you are interested in taking during the first tw
 
 I decided it was not worth including the list in this
 already too-long email message.  If you'd like to see my answers,
-visit my 'blog post at [forthcoming].
+visit my 'blog post at <https://www.cs.grinnell.edu/~rebelsky/musings/selecting-courses-2020-07-18>.
 
 ---
 

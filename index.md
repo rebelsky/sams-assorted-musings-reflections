@@ -10,10 +10,9 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musings:
-[Technological minimalism](technological-minimalism-2020-07-17) (Musing #1096)
+[A chicken and egg problem and other situations in software selection](software-selection-2020-07-18) (Musing #1098)
 and
-[Fourteen questions](fourteen-questions-2020-07-17) (Musing #1097)
-
+[Selecting courses](selecting-courses-2020-07-18) (Musing #1099)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

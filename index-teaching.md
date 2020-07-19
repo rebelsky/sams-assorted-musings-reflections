@@ -172,3 +172,11 @@ online, but they will soon expand to more general issues about teaching._
 
 > Getting acquainted
 
+[A chicken and egg problem and other situations in software selection](software-selection-2020-07-18) (Musing #1098)
+
+> Increasing complications.
+
+[Selecting courses](selecting-courses-2020-07-18) (Musing #1099)
+
+> Would I be a difficult advisee?
+
