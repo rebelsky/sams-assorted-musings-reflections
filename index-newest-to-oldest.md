@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 1091-1100
 
+[A draft sabbatical report](sabbatical-report-2020-07-19) (Musing #1100)  
 [Selecting courses](selecting-courses-2020-07-18) (Musing #1099)  
 [A chicken and egg problem and other situations in software selection](software-selection-2020-07-18) (Musing #1098)  
 [Answers to fourteen questions](fourteen-questions-2020-07-17) (Musing #1097)  

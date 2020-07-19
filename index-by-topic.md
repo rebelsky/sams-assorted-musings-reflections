@@ -1859,6 +1859,10 @@ Overcommitment
 
 > So much yet so little.
 
+[A draft sabbatical report](sabbatical-report-2020-07-19) (Musing #1100)
+
+> A bit late.
+
 On teaching 
 -----------
 

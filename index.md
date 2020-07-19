@@ -9,10 +9,8 @@ If you'd like, you can read [a longer introduction](intro-musings-v0).
 If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
-Latest musings:
-[A chicken and egg problem and other situations in software selection](software-selection-2020-07-18) (Musing #1098)
-and
-[Selecting courses](selecting-courses-2020-07-18) (Musing #1099)
+Latest musing:
+[A draft sabbatical report](sabbatical-report-2020-07-19) (Musing #1100)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
