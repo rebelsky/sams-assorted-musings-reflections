@@ -1,6 +1,10 @@
 Musings, from newest to oldest
 ==============================
 
+## 1101-1110
+
+[Appreciating the Registrar's Office](thankful-registrar-2020-07-20) (Musing #1101)  
+
 ## 1091-1100
 
 [A draft sabbatical report](sabbatical-report-2020-07-19) (Musing #1100)  

@@ -1427,3 +1427,7 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [A chicken and egg problem and other situations in software selection](software-selection-2020-07-18) (Musing #1098)  
 [Selecting courses](selecting-courses-2020-07-18) (Musing #1099)  
 [A draft sabbatical report](sabbatical-report-2020-07-19) (Musing #1100)  
+
+## 1101-1110
+
+[Appreciating the Registrar's Office](thankful-registrar-2020-07-20) (Musing #1101)  

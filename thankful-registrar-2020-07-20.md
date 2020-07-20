@@ -1,12 +1,22 @@
 ---
-title: Appreciating the Registrar's Office Staff
+title: Appreciating the Registrar's Office
 number: 1101
 tags: [Thank you notes](index-thank-yous), short
 blurb: So much work in so little time!
-version: 0.1
-released: 
-current: 2020-07-19
+version: 1.0
+released: 2020-07-20
+current: 
 ---
+
+TL;DR: Our Registrar's Office Staff are amazing.  They've been working
+incredibly hard this summer to support our students and our faculty.  
+I just want to say **Thank You** to this amazing team.
+
+---
+
+I added the short note above after writing a much longer musing,
+including way too much context.  Here's the original.
+
 This summer has been hard for everyone in academia.  At Grinnell,
 we're comparatively fortunate; while we're also worrying about what
 the fall will bring, trying to plan for a hybrid college, dealing
@@ -35,7 +45,7 @@ more.  And they are working incredibly hard.  So I'm going to add a
 few thanks and acknowledgments to my regular mix of rants, musings,
 ramblings, and more.
 
-Today I'd like to express my appreciate for the staff of the
+Today I'd like to express my appreciation for the staff of the
 Registrar's office.  I don't know all that goes on in a normal
 summer at the Registrar's office.  I do know that they have to
 gather all the data on the new students and enter it into Colleague.
@@ -51,14 +61,14 @@ I know that they have had to do a lot of immediate planning, to
 coordinate with various groups on campus, have needed to gather and
 regather data (e.g., "Here's how it looks best to distribute your
 classes between Fall 1 and Fall 2; please let us know if you want
-to change everything") and enter it in the system, to manage
+to change everything") and enter it in the system, to manage the
 complexity of getting the various Ellucian products to deal with a
 different model, to safely remove students from the registration
 system, to safely switch courses from Fall Semester to Fall Term 1
-and Fall Term 2 (delete and re-enter?), and oh so much.  Soon, they
-will have to re-enroll students, paying attention not just to the
-courses they were previously enrolled in, but also to how to manage
-conflicts.
+and Fall Term 2 (delete and re-enter?), and oh so much more.  Soon,
+they will have to re-enroll students, paying attention not just to
+the courses they were previously enrolled in, but also to how to
+manage conflicts.
 
 As far as I can tell, all of that has come at the same time as their
 normally busy work dealing with new students.  And they've had to
@@ -68,5 +78,12 @@ to deal with more questions, with angry letters from frustrated faculty,
 with confused parents and students, and more.  I do not envy them this
 work.  I hope the College has found ways to express its appreciation.
 
-In any case, I'd just like to say a public **Thank You** to the amazing
-staff of the Registrar's office.  I hope others will, too.
+In any case, I'd just like to say a public **Thank You** to the
+incredible staff of the Registrar's office.  Thank you for the work
+you've done.  Thank you for answering my questions.  Thank you for
+supporting our College.  Thank you for the work you will continue
+to have to do.  I hope that you've received multiple letters of
+acknowledgement.  I hope that you'll get some time to yourselves
+when all of this is done.
+
+Thank you.

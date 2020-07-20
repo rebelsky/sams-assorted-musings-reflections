@@ -45,3 +45,7 @@ Thank-You Notes
 
 > Another SamR screwup, of sorts
 
+[Appreciating the Registrar's Office](thankful-registrar-2020-07-20) (Musing #1101)
+
+> So much work in so little time!
+
