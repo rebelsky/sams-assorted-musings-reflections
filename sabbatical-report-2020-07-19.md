@@ -3,7 +3,7 @@ title: A draft sabbatical report
 number: 1100
 tags: [Overcommitment](index-overcommitment), Academia, Things I had to write
 blurb: A bit late.
-version: 1.1
+version: 1.1.1
 released: 2020-07-19 
 current: 2020-07-19
 ---
@@ -175,6 +175,9 @@ forward.  And my summer students have been doing well at reworking
 the project for modern Web frameworks and further steering us
 forward.  I look forward to continuing MIST as my primary research
 project over the next few years.
+
+I very much appreciate the support from the College that permits leaves
+like this.
 
 Please let me know if you need further details about any of these
 activities.
