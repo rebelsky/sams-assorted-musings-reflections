@@ -3,7 +3,7 @@ title: A draft sabbatical report
 number: 1100
 tags: [Overcommitment](index-overcommitment), Academia, Things I had to write
 blurb: A bit late.
-version: 1.1.1
+version: 1.2
 released: 2020-07-19 
 current: 2020-07-19
 ---
@@ -232,6 +232,14 @@ As always, I feel privileged to be able to take sabbaticals.  Although
 I am once again faced with my too-long and too-stressful days, I feel
 better able to handle them.  I hope we can eventually find a way for 
 everyone to get a regular sabbatical or sabbatical equivalent.
+
+---
+
+**_Postscript_**: I had planned to write a one-page note.  Now that I've
+formatted it in my approximation of the Grinnell standard, I see that
+it's a little over two-and-a-half pages, including a short paragraph
+that I did not include in the public version.    It seems to have the
+right content.  I'm leaving it as it is.
 
 ---
 
