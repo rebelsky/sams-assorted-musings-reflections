@@ -123,13 +123,23 @@ Andrew Lloyd Weber has released for 48 hours, but I can watch that later.
 Work on learning more features of Microsoft Bookings while musing
 about it (or muse about Microsoft Bookings while learning more about
 it).  Realize that I spent about two hours on that last task and it's
-10:30 p.m.  Time to read a bit more and then head for bed [14].
+10:30 p.m.  Another fifteen minutes to finish up.  Then I decide to
+explore a few parts of the latest [AAUP Salary
+Survey](https://www.aaup.org/sites/default/files/2019_20_appendices_sec.pdf).
+Next it's time to read a bit more and then head for bed [14].
+
+> There were definitely some positives for today.  I got some time to
+do creative activities.  I spent time on important professional stuff
+(learning new software but also Tutorial).  I mused.  On the other
+hand, I did not work on my home office, I did not exercise, and I did not
+do any professional reading.  Tomorrow I'm going to finish the book for
+the Rebelsky Reading Group [15]
 
 _Day Ten (Saturday)_.  
 
 Draw up plans
 
-for one of my two summer workshops [15].
+for one of my two summer workshops [16].
 _Day Eleven (Sunday)_.  
 
 _Day Twelve (Monday)_.  
@@ -180,6 +190,8 @@ those things.
 [12] Sorry, family, I'm not Catholic.  I don't have to fast today.
 
 [14] I almost wrote "head for bead".  But that doesn't rhyme.
+
+[15] I should have done that today.
 
 [16] I think we hear Monday whether we do in-person or online workshops.
 I'd lay money on the latter, so that's what I planned.
