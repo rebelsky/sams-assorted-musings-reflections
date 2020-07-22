@@ -1623,6 +1623,10 @@ Thank-You Notes
 
 > So much work in so little time!
 
+[Appreciating the ITS staff](thankful-its-2020-07-21) (Musing #1102)
+
+> An appreciation you may not have expected.
+
 Overcommitment
 --------------
 

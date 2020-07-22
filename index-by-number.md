@@ -1431,3 +1431,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 ## 1101-1110
 
 [Appreciating the Registrar's Office](thankful-registrar-2020-07-20) (Musing #1101)  
+[Appreciating the ITS staff](thankful-its-2020-07-21) (Musing #1102)  

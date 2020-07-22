@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Appreciating the Registrar's Office](thankful-registrar-2020-07-20) (Musing #1101)
+[Appreciating the ITS staff](thankful-its-2020-07-21) (Musing #1102)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
