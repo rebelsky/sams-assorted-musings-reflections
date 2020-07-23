@@ -3,7 +3,7 @@ title: An open letter to my president
 number: 1103
 tags: [Rants](index-rants)
 blurb: You got it wrong.
-version: 1.0
+version: 1.1
 released: 2020-07-22
 current: 
 ---
@@ -209,9 +209,11 @@ unintentionally, we are better off helping them understand the issues
 at play then condemning them.
 
 In your letter, you note that that you will be "working with diversity
-and inclusion professionals across campus".  I expect that you will
-also be working with the faculty to consider how we address issues
-of inclusion while affirming the expertise of the faculty.
+and inclusion professionals across campus".  It is important that the
+early conversations also include faculty and that they not be left
+until after the primary decisions are made and directions are planned.
+We must include the faculty in discussion how to achieve inclusion while
+affirming the expertise of the faculty.
 
 To summarize (or TL;DR, as the modern generation writes), I hope
 you will reaffirm the sanctity of our classrooms and the expertise
