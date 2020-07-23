@@ -1450,6 +1450,14 @@ Rants
 
 > Different interpretations.
 
+[An open letter to my president](inclusion-2020-07-22) (Musing #1103)
+
+> You got it wrong.
+
+[Endnotes for my open letter](inclusion-endnotes-2020-07-22) (Musing #1104)
+
+> It's a compulsion.
+
 Assorted talks and speeches
 ---------------------------
 

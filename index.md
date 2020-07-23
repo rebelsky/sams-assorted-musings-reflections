@@ -9,8 +9,10 @@ If you'd like, you can read [a longer introduction](intro-musings-v0).
 If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
-Latest musing:
-[Appreciating the ITS staff](thankful-its-2020-07-21) (Musing #1102)
+Latest musings:
+[An open letter to my president](inclusion-2020-07-22) (Musing #1103)
+and
+[Endnotes for my open letter](inclusion-endnotes-2020-07-22) (Musing #1104).
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

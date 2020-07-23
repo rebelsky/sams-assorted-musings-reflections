@@ -3,6 +3,8 @@ Musings, from newest to oldest
 
 ## 1101-1110
 
+[Endnotes for my open letter](inclusion-endnotes-2020-07-22) (Musing #1104)  
+[An open letter to my president](inclusion-2020-07-22) (Musing #1103)  
 [Appreciating the ITS staff](thankful-its-2020-07-21) (Musing #1102)  
 [Appreciating the Registrar's Office](thankful-registrar-2020-07-20) (Musing #1101)  
 
