@@ -222,3 +222,7 @@ be found in [the list of musings on writing](index-on-writing)._
 
 > Sam trolls for comments and compliments.
 
+[Going on hiatus](on-hiatus-2020-07-23) (Musing #1105)
+
+> It's never good when my musings begin with a list of positives.
+
