@@ -3,7 +3,7 @@ title: An open letter to my president
 number: 1103
 tags: [Rants](index-rants)
 blurb: You got it wrong.
-version: 1.1.2
+version: 1.1.3
 released: 2020-07-22
 current: 2020-07-25
 ---
@@ -114,7 +114,7 @@ to allow students to skip the class or activity, and to provide an
 alternative for those students.  If their use causes unanticipated
 harm, we might expect them to discuss the issue with students, a
 discussion which includes not only time for the students to describe
-their won experience, but also time for the faculty member to explain
+their own experience, but also time for the faculty member to explain
 their pedagogical rationale.  Treat it as a learning experience.
 After all, learning is what we do.
 
