@@ -3,9 +3,9 @@ title: An open letter to my president
 number: 1103
 tags: [Rants](index-rants)
 blurb: You got it wrong.
-version: 1.1
+version: 1.1.2
 released: 2020-07-22
-current: 
+current: 2020-07-25
 ---
 **_Content Warning_**: This musing contains slurs.  As I suggest
 in the letter, I find it necessary to write the explicit slurs,
@@ -21,10 +21,12 @@ As I suggest at the end of this document, these opinions are mine
 and should not be interpreted to be those of Grinnell College or
 any other actor.
 
-**_Background_**: Yesterday, President Harris sent a campus-wide email
-about the use of "racial slurs" in the classroom.  While I care about
-providing an inclusive classroom, when I read her letter, I found myself
-getting increasingly furious.  This musing represents my response.
+**_Background_**: Yesterday, President Harris sent [a campus-wide
+email](https://www.grinnell.edu/about/offices-services/diversity-inclusion/communications
+) about the use of "racial slurs" in the classroom.  While I care
+about providing an inclusive classroom, when I read her letter, I
+found myself getting increasingly furious.  This musing represents
+my response.
 
 ---
 
@@ -60,7 +62,7 @@ I am astounded that you did not begin your letter with a clear
 assertion of the priority of academic freedom and the rights of
 faculty to determine what to teach in their classroom and how to
 teach it.  Given that a very vocal group of students is calling for
-the firing of tenured faculty members, it is your obligation as
+the firing of faculty members, it is your obligation as
 president to affirm the rights of faculty, even if you believe that
 faculty should have taken different actions.  Presidents at other
 institutions have been able to say "While I do not support the
