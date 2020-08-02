@@ -3,7 +3,7 @@ title: Putting things on hold
 number: 1106
 tags: [Overcommitment](index-overcommitment)
 blurb: Not quite giving up.
-version: 0.1
+version: 0.2
 released: 
 current: 2020-08-02
 ---
@@ -41,17 +41,18 @@ research, service, life).  **Place on hold.**  I'll need to cross
 my fingers that ITS will not really expect me to check on all this
 software.
 
-5. Participate in discussions about balancing support for our students,
-particularly our students of color, while also supporting faculty.
-**Place on hold.** There's too much anger.  Others are discussing
-this matter.  I'll leave it to them.  But for those who worry: _I
-do not believe that **anyone** should say the n-word in class._
-However, I do believe that there are reasons to use the word in our
-classes, such as when faculty in literature or sociology or the
-arts select readings or songs or videos or ....  We should find
-ways to build inclusive classrooms, using strategies like Dean B's
-inclusive syllabus.  Although I am placing this activity, I will
-participate in a discussion that one colleague requested.
+5. Participate in discussions about balancing support for our
+students, particularly our students of color, while also supporting
+faculty.  **Place on hold.** There's too much anger.  Others are
+discussing this matter.  I'll leave it to them.  But for those who
+did not understand my prior musing: _I do not believe that **anyone**
+should say the n-word in class._ However, I do believe that there
+are reasons to use the word in our classes, such as when faculty
+in literature or sociology or the arts select readings or songs or
+videos or ....  We should find ways to build inclusive classrooms,
+using strategies like Dean B's inclusive syllabus.  Although I am
+placing this activity, I will participate in a discussion that one
+colleague requested.
 
 6. Prepare my tutorial.  **Prioritize**.
 
@@ -65,12 +66,12 @@ this course.  But so much stuff has been thrown my way and it's
 getting too close to classes.
 
 9. Move [my www.cs.grinnell.edu
-site](http://www.cs.grinnell.edu/~rebelsky/).  **Damn!**   I'd
+site](http://www.cs.grinnell.edu/~rebelsky/).  **Darn!**   I'd
 prefer not to prioritize this.  But it needs to be done by the start
 of classes, if not sooner.
 
 10. Move and rebuild [the www.cs.grinnell.edu
-site](http://www.cs.grinnell.edu).  **Damn!**  I'd prefer not to
+site](http://www.cs.grinnell.edu).  **Darn!**  I'd prefer not to
 prioritize this.  But the site has been on hiatus since last fall,
 when ITS took a snapshot.  The data are out of date.  The design
 is out of date.  We need to do something.  There are also broader
@@ -79,12 +80,13 @@ issues at play, but I will not rant about them here.
 11. Continue reporting on the the security, privacy, and FERPA violations
 I observe.  **Place on hold**.  Let someone else do it.
 
-12. Oppose repeated incursions on faculty governance.  **Place on hold;
-consider giving up**> Let someone else do it.  I'm happy to share
-my list if anyone asks [4], but I will no longer raise issues as
-they occur.  I've also accepted that it's an increasingly complex
-issue: I believe we need to better support staff governance; doing
-so may mean giving up some faculty authority [5,6].
+12. Oppose repeated incursions on faculty governance.  **Place on
+hold; consider giving up**. Let someone else do it.  I'm happy to
+generate and share my list if anyone asks [4], but I will no longer
+raise issues as they occur.  I've also accepted that it's an
+increasingly complex issue: I believe we need to better support
+staff governance; doing so may mean giving up some faculty authority
+[5,6].
 
 13. [7] Challenge Council's critiques of my department.  **Place
 on hold**.  I've asked folks to discuss them with my colleagues.
@@ -111,7 +113,10 @@ can trust them to continue moving MIST forward.  I'll be available
 on demand, but that's it.
 
 17. Home and family.  **Prioritize** and then **Prioritize again**.
-I'll talk to them about how best to do so.
+I'll talk to them about how best to do so.  And I'll need to figure
+out why this didn't appear until magic number 17.  Most likely,
+because it does not reflect the stress on my life and the things
+above do.
 
 18. Respond to micro- and macro-aggressions.  **Place on hold**.  They
 build.  They build more.  But responding doesn't seem to help.  Maybe
@@ -120,8 +125,39 @@ I'll make a list instead.  I need a way for them not to fester [8].
 19. Comment on assorted absurdities.  **Place on hold**.  Does anyone
 but me care that you can't find the THRIVE principles?  Probably not.
 
-20. Seek counseling.  **Add**.  Given everything above, it seems
+20. Explore software problems.  **Place on hold**.  Everyone else seems
+to be able to ignore them.  Why can't I?  Does it matter that when I
+digitally sign a message, people who use Outlook for iDevice get a
+garbled version?  It's not my problem.  Let someone else investigate.
+Instead of looking deeper into issues, I'll just report them [9].
+WebAdvisor/Self Service/Academic Planning/Student Planning doesn't
+show courses?  Someone else can deal with the issues and implications.
+
+21. Work on list of departmental issues to discuss with Dean and/or
+Chair of Faculty.  **Place on hold**.  I'll wait until they reach out
+to me.  I think they said they would.
+
+22. Muse.  **Leave on hold**.  I love writing.  Maybe I can even avoid
+ranting.  But there are clearly higher priorities.
+
+22. Seek counseling.  **Add**.  Given everything above, it seems
 necessary.
+
+Hmmm.  N to place on hold.  M to prioritize (or equivalent).  Maybe
+I should have written "Drop" rather than "Place on hold" for more
+things.  I guess that can be a task for later.  I wish I didn't
+have to deal with the issues I've marked as "Darn".  I wonder if I
+can hold off on any of the "Prioritize" items.
+
+You know the saddest thing?  I told myself that I was going to try to
+stay away from work today.  I spent over three hours on necessary work
+things (advisees, final messages on software issues, followup emails,
+things related to those darn issues [10], etc.).  Then I spent another
+thirty minutes on this musing.
+
+Next up: Turning off my email.  Today, it will be off during the
+day until I check in in the evening.  This week, I will try to keep
+it off outside of 8am-5pm.  Can I do it?  We shall see.
 
 ---
 
@@ -147,3 +183,6 @@ probably acknowledge that we need to go beyond gender binaries.
 
 [8] No, not Uncle Fester.
 
+[9] Apologies to my ITS colleagues.
+
+[10] That is, the topics above I marked as "Darn".
