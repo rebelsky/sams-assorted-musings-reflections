@@ -242,3 +242,7 @@ Overcommitment
 
 > A bit late.
 
+[Putting things on hold](putting-things-on-hold-2020-08-02) (Musing #1106)
+
+> Not quite giving up.
+
