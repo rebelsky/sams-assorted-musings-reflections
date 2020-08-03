@@ -1435,4 +1435,3 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [An open letter to my president](inclusion-2020-07-22) (Musing #1103)  
 [Endnotes for my open letter](inclusion-endnotes-2020-07-22) (Musing #1104)  
 [Going on hiatus](on-hiatus-2020-07-23) (Musing #1105)  
-[Putting things on hold](putting-things-on-hold-2020-08-02) (Musing #1106)  

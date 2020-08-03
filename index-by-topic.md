@@ -436,7 +436,6 @@ be found in [the list of musings on writing](index-on-writing)._
 [Going on hiatus](on-hiatus-2020-07-23) (Musing #1105)
 
 > It's never good when my musings begin with a list of positives.
-
 Monthly reflections
 -------------------
 
@@ -1882,10 +1881,6 @@ Overcommitment
 [A draft sabbatical report](sabbatical-report-2020-07-19) (Musing #1100)
 
 > A bit late.
-
-[Putting things on hold](putting-things-on-hold-2020-08-02) (Musing #1106)
-
-> Not quite giving up.
 
 On teaching 
 -----------
