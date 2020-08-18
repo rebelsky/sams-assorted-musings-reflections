@@ -436,6 +436,11 @@ be found in [the list of musings on writing](index-on-writing)._
 [Going on hiatus](on-hiatus-2020-07-23) (Musing #1105)
 
 > It's never good when my musings begin with a list of positives.
+
+[Considering a return from hiatus](return-from-hiatus-2020-08-17) (Musing #1107)
+
+> Still undecided.
+
 Monthly reflections
 -------------------
 

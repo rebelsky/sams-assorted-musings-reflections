@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Going on hiatus](on-hiatus-2020-07-23) (Musing #1105)
+[Considering a return from hiatus](return-from-hiatus-2020-08-17) (Musing #1107)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
