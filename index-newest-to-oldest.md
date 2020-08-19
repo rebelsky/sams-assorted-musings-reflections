@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 1101-1110
 
+[Adventures in Web server transitions](web-server-transitions-2020-08-18) (Musing #1108)  
 [Considering a return from hiatus](return-from-hiatus-2020-08-17) (Musing #1107)  
 [Going on hiatus](on-hiatus-2020-07-23) (Musing #1105)  
 [Endnotes for my open letter](inclusion-endnotes-2020-07-22) (Musing #1104)  

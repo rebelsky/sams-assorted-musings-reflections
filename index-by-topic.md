@@ -4696,6 +4696,10 @@ Almost everything else
 
 > Reflections for/from a conversation.
 
+[Adventures in Web server transitions](web-server-transitions-2020-08-18) (Musing #1108)
+
+> So many complexities!
+
 Musings with multiple entries
 -----------------------------
 
