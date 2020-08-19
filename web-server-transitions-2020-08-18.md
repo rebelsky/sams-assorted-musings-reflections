@@ -3,9 +3,9 @@ title: Adventures in Web server transitions
 number: 1108
 tags: [Miscellaneous](index-miscellaneous), Technology [1], Rambly
 blurb: So many complexities!
-version: 1.0
+version: 1.1
 released: 2020-08-18 
-current: 
+current: 2020-08-18
 ---
 **_Warning!  This musing is too technical for non-technical people and
 not techincal enough for technical people.  It's also rambly and
@@ -165,8 +165,8 @@ to write instructions for copying over the html files.  `rsync` is the
 typical command.  I just need to get the settings right.  Here's my first
 step.
 
-    time rsync -avz *.html rebelsky.cs.grinnell.edu:/home/rebelsky/musings
-    time rsync -avz images rebelsky.cs.grinnell.edu:/home/rebelsky/musings
+    time rsync -avz *.html rebelsky.cs.grinnell.edu:/home/rebelsky/public_html/musings
+    time rsync -avz images rebelsky.cs.grinnell.edu:/home/rebelsky/public_html/musings
 
 I didn't really need two separate commands, but it seemed a bit easier to
 do things that way.  About 18 seconds to sync the `.html` files.  A
@@ -275,6 +275,17 @@ who are sick in their rooms can follow along if they so choose [15].
 
 However, I don't think our new Web model will easily support this
 approach.  I probably can't do live editing on the new server.
+
+---
+
+**_Postscript_**: I was right.  Or maybe I was wrong.  In any case, after
+I "published" this musing, I learned that the rsync commands I wrote did
+not work as expected.  I wonder why not.  I'll need to consult with
+a colleague.  But not tonight.
+
+**_Update_**: After two more minutes, I realized that I had written
+the path incorrectly in the `rsync` command.  I've fixed it above.
+But it's definitely time to quit now.
 
 ---
 
