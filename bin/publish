@@ -1,7 +1,7 @@
 #!/bin/bash
 
 echo "Synching HTML files."
-time rsync -avz *.html rebelsky.cs.grinnell.edu:/home/rebelsky/musings
+time rsync -lptgoDvz *.html rebelsky.cs.grinnell.edu:/home/rebelsky/public_html/musings
 echo "Synching images."
-time rsync -avz images rebelsky.cs.grinnell.edu:/home/rebelsky/musings
+time rsync -avz images rebelsky.cs.grinnell.edu:/home/rebelsky/public_html/musings
 echo "Done"
