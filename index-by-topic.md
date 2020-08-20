@@ -1588,6 +1588,10 @@ On life in academia
 
 > I wonder what other institutions do.
 
+[Incredibly irresponsible](irresponsible-2020-08-19) (Musing #1109)
+
+> Pandemic planning that's beyond irritating.
+
 Thank-You Notes
 ---------------
 

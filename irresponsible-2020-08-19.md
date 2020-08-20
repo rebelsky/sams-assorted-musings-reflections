@@ -2,14 +2,11 @@
 title: Incredibly irresponsible
 number: 1109
 tags: [Academia](index-academia), Rants
-blurb: Pandemic planning that's not just irritating.
-version: 0.1
-released: 
-current: 2020-08-19
+blurb: Pandemic planning that's beyond irritating.
+version: 1.0
+released: 2020-08-19 
+current: 
 ---
-
-**This musing is in draft form.  Please do not read it unless I've
-asked you to do so.**
 
 It's late summer.  In late summer in the US, school typically begins.
 President Harris tells me that it's because we're tied to an agrarian
@@ -27,8 +24,8 @@ that they would be online this fall.  Others have looked to
 compromises, such as low-density campuses, with only one-quarter
 to one-half of the students there at any one time, and a mix of
 in-person and online classes.  And some, spearheaded by Mitchell
-Elias Daniels Jr., who someone became president of Purdue immediately
-after serving as governor of Indiana, have been pushing for full
+Elias Daniels Jr.---who somehow became president of Purdue immediately
+after serving as governor of Indiana---have been pushing for full
 residency and in-person classes.
 
 I get it.  It's not a decision I would make, but I understand the
@@ -68,7 +65,7 @@ Of course, there are many out there who think that full capacity is
 irresponsible.  What is it they say?  "If a cruise ship is a petri dish,
 a dorm is an incubator full of peetri dishes."  Something like that.
 
-As you may have heard, Notre Dame's hope for a successful in-person
+As you may have heard, Notre Dame's hopes for a successful in-person
 fall have shown to be a bit optimistic.  After passing 100 positive
 tests on campus, they've moved to online classes for the next two weeks,
 while keeping students on campus.  Let's hope that that keeps things
@@ -91,7 +88,7 @@ tests.
 So what's irresponsible?  Notre Dame, like the University of North
 Carolina at Chapel Hill and other institutions, is considering sending
 students home.  Here's a quotation from the article, which comes
-from a [streamed video by the president](https://www.youtube.com/watch?v=7vtKUv7xKGg&feature=youtu.be&t=1207) [4].
+from a [streaming video by the president](https://www.youtube.com/watch?v=7vtKUv7xKGg&feature=youtu.be&t=1207) [4].
 
 > Upon receiving recent results, we began to make plans to send you home and continue instruction online, as we did last spring.
 
@@ -102,7 +99,7 @@ home communities?  What are they thinking?
 
 As I said, it's not just Notre Dame.  [UNC-Chapel Hill is telling
 students to go
-come](https://www.unc.edu/posts/2020/08/17/shift-to-remote-cm/) [5].
+home](https://www.unc.edu/posts/2020/08/17/shift-to-remote-cm/) [5].
 I'm sure that other schools are, too.  If they are not testing each
 student before sending them home, recommending that they quarantine
 themselves for two weeks when they get home, and providing follow-up
