@@ -1438,3 +1438,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Considering a return from hiatus](return-from-hiatus-2020-08-17) (Musing #1107)  
 [Adventures in Web server transitions](web-server-transitions-2020-08-18) (Musing #1108)  
 [Incredibly irresponsible](irresponsible-2020-08-19) (Musing #1109)  
+[Preregistration for Spring 2021](prereg-2021S) (Musing #1110)  

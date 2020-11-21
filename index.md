@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Incredibly irresponsible](irresponsible-2020-08-19) (Musing #1109)
+[Preregistration for Spring 2021](prereg-2021S) (Musing #1110)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

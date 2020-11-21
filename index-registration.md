@@ -69,3 +69,7 @@ the registration process at Grinnell.*
 
 > Pointless or not?
 
+[Preregistration for Spring 2021](prereg-2021S) (Musing #1110)
+
+> A musing both expected and unexpected.
+
