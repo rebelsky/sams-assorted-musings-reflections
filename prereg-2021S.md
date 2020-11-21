@@ -3,11 +3,11 @@ title: Preregistration for Spring 2021
 number: 1110
 tags: [Registration](index-registration), [Grinnell](index-grinnell), assorted data, rambly, long, end-notable
 blurb: A musing both expected and unexpected.
-version: 1.0
+version: 1.1
 released: 2020-11-21 
-current: 
+current: 2020-11-21
 ---
-_Warning!  This musing has received **no** rewriting and no editing [1].
+_Warning!  This musing has received almost **no** editing or rewriting [1].
 Writing what you see already took too much of my life._
 
 It's 7:00 a.m. on a Saturday morning.  I should be in bed.  I'm behind on
@@ -371,11 +371,11 @@ As long as we're on the subject of Psychology, it appears that
 students, section 1 of **PSY-495**, _Senior Seminar_, is over-enrolled
 by three students, and section 2 of PSY-495 is over-enrolled by
 four students.  In Spring 2, **PSY-232**, _Human Computer Interaction_,
-is over-enrolled by thirteen students and *PSY-345** Psychopharmacology,
-is over-enrolled by seven.  I'm amazed that we offer Psychopharmacology
-at all; I have nightmares about Grinnell students experimenting on
-each other or using it as a first step in creating their own
-substances [53].
+is over-enrolled by thirteen students and **PSY-345**,
+_Psychopharmacology_, is over-enrolled by seven.  I'm amazed that
+we offer Psychopharmacology at all; I have nightmares about Grinnell
+students experimenting on each other or using it as a first step
+in creating their own substances [53].
 
 I assume that they find three students to cut from Abnormal.  I
 wonder if it's normal to cut from Abnormal.  I assume they allow
@@ -386,27 +386,30 @@ CS.  And Psychopharm?  I have no idea.  I assume they push students
 to other psych courses, which have a bit of space.
 
 Returning to other courses that need cross-term balancing,I see
-that the Spring Two section of PHI-111 is over-enrolled by sixteen
-students (41/25) and the Spring One section has four open slots.
-That's much more of a gap than I recall from Thursday night [54].
-It's good to see Philosophy getting more popular.  I wonder who they
-will keep, who they will cut, and how they will shift.
+that the Spring Two section of **PHI-111**, _Introduction to
+Philosophy_, is over-enrolled by sixteen students (41/25) and the
+Spring One section has four open slots.  That's much more of a gap
+than I recall from Thursday night [54].  It's good to see Philosophy
+getting more popular.  I wonder who they will keep, who they will
+cut, and how they will shift.
 
 Chemistry and Biological Chemistry have an interesting pairing of
 what were cross-term balancing needs.  On Thursday evening, I saw
-that BCM-262 was over-enrolled in Spring Two with space in Spring
-One and CHM-222 was over-enrolled in Spring One with space in Spring
-Two.  That makes some sense, as CHM-222 is officially a prerequisite
-for BCM-262.  But the search schedule of courses info for BCM-262
-in Spring One does say "Students may take the prerequisite for BCM-262
-of CHM222 in S1 or S2, but if they want to take CHM222 in S2, they
-need to contact the Registrar to get permission."  I wonder why
-there are two sections of CHM-222 in Spring Two rather than Spring One.
-Probably because of other restrictions on faculty time.  And didn't
-we decide to use "Spring 1" and "Spring 2" rather than "S1" and "S2"?
-There's an accessibility issue at play---"F" and "S" sound almost
-identical for those of us with high-end hearing loss.  Plus, "F1"
-sounds too much like that thing Trump tried to eliminate.
+that **BCM-262**, _Introduction to Biological Chemistry_, was
+over-enrolled in Spring Two with space in Spring One and **CHM-222**,
+_Organic Chemistry II_, was over-enrolled in Spring One with space
+in Spring Two.  That makes some sense, as CHM-222 is officially a
+prerequisite for BCM-262.  But the search schedule of courses info
+for BCM-262 in Spring One does say "Students may take the prerequisite
+for BCM-262 of CHM222 in S1 or S2, but if they want to take CHM222
+in S2, they need to contact the Registrar to get permission."  I
+wonder why there are two sections of CHM-222 in Spring Two rather
+than Spring One.  Probably because of other restrictions on faculty
+time.  And didn't we decide to use "Spring 1" and "Spring 2" rather
+than "S1" and "S2"?  There's an accessibility issue at play---"F"
+and "S" sound almost identical for those of us with high-end hearing
+loss.  Plus, "F1" sounds too much like that thing Trump tried to
+eliminate.
 
 Where do things stand now? [55]  The Spring One section of BCM-262
 has five available slots.  The Spring Two section of BCM-262 is
@@ -436,7 +439,10 @@ America would get more [56].
 I wonder how the rest of Classics is doing, particularly given the
 snarky comments about Classics yesterday's otherwise excellent speaker
 gave.  What was it, "If the Humanities aren't careful, we'll end up
-like Classics" [58]?  I thought Classics was one of the Humanities . 
+like Classics" [58]?  I thought Classics was one of the Humanities. 
+And aren't the Classics awesome?  So maybe he was implying, "If we 
+aren't careful, we'll end up as awesome as we already are."  But
+I don't think that was the point.
 
 Let's see ... **LAT-222**, _Intermediate Latin_, has fifteen students.
 That's pretty good, especially since rumor has it that our Elementary
@@ -556,7 +562,7 @@ enrollment course, and it's an upper-level 300-course with an
 Foundations of US Popular Culture_, is over-enrolled by nine students
 (34/25).  **HIS-223**, _Health & Medicine in American History_, is
 over-enrolled by twelve students (37/25).  **HIS-295**, _ST:
-Surveillance in Modern History**, is over-enrolled by two (27/25).
+Surveillance in Modern History_, is over-enrolled by two (27/25).
 **HIS-327**, _The Civil Rights Movement_, is over-enrolled by seven
 (19/12).
 
@@ -713,9 +719,10 @@ prospective lawyers no longer come to Grinnell?  Or perhaps I should
 say "Only eleven students are enrolled in logic.  That explains
 so much." [90]
 
-Well, that's what I have for this preregistration period.  I'll
-see you again in the spring for the individually-advised-registration
-period [93,95,97].
+Well, that's what I have for this preregistration period.
+Congratulations on reaching the end of one of my longer musings.
+I'll see you again in the spring for the next
+individually-advised-registration period [93,95,97].
 
 ---
 
