@@ -3,7 +3,7 @@ title: Preregistration for Spring 2021
 number: 1110
 tags: [Registration](index-registration), [Grinnell](index-grinnell), assorted data, rambly, long, end-notable
 blurb: A musing both expected and unexpected.
-version: 1.1
+version: 1.1.1
 released: 2020-11-21 
 current: 2020-11-21
 ---
@@ -245,7 +245,7 @@ and 29 in the Spring Two section.  Cool!  There's a little bit of
 slack for students who neglected to enroll and there's no need to
 balance.  We would have needed three sections in a normal semester
 (or we would have needed to cut students), which I should keep in
-mind for spring Two022.  Of course, spring Two022 will also not be a
+mind for spring 2022.  Of course, spring 2022 will also not be a
 typical semester.  If students are back, I assume we'll have more
 students than normal or at least more first-year students.
 
