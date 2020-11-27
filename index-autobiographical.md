@@ -533,3 +533,7 @@ Autobiographical essays, more or less
 
 > More or less.  It dependds on how you count.
 
+[Thankful](thankful-2020-11-26) (Musing #1111)
+
+> Another Thanksgiving
+

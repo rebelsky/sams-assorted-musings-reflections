@@ -1,6 +1,10 @@
 Musings, from newest to oldest
 ==============================
 
+## 1111-1120
+
+[Thankful](thankful-2020-11-26) (Musing #1111)  
+
 ## 1101-1110
 
 [Preregistration for Spring 2021](prereg-2021S) (Musing #1110)  
