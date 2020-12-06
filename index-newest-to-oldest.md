@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 1111-1120
 
+[Mastery grading](mastery-grading-2020-12-05) (Musing #1112)  
 [Thankful](thankful-2020-11-26) (Musing #1111)  
 
 ## 1101-1110

@@ -2073,6 +2073,10 @@ online, but they will soon expand to more general issues about teaching._
 
 > Would I be a difficult advisee?
 
+[Mastery grading](mastery-grading-2020-12-05) (Musing #1112)
+
+> Trying to master a new kind of grading.
+
 Code camps
 ----------
 

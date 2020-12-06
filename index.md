@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Thankful](thankful-2020-11-26) (Musing #1111)
+[Mastery grading](mastery-grading-2020-12-05) (Musing #1112)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

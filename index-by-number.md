@@ -1443,3 +1443,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 ## 1111-1120
 
 [Thankful](thankful-2020-11-26) (Musing #1111)  
+[Mastery grading](mastery-grading-2020-12-05) (Musing #1112)  
