@@ -242,3 +242,7 @@ Overcommitment
 
 > A bit late.
 
+[Surviving Fall Term Two](surviving-fall-two-2020-12-26) (Musing #1113)
+
+> Among the many reasons I wasn't musing.
+
