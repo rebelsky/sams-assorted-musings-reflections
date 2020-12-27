@@ -367,3 +367,7 @@ Grinnell.
 
 > Starting chair duties early.
 
+[Circles: Restorative justice, community building, and more](circles-2020-12-27) (Musing #1114)
+
+> Give 'em a try!
+

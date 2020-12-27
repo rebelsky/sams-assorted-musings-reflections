@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Surviving Fall Term Two](surviving-fall-two-2020-12-26) (Musing #1113)
+[Circles: Restorative justice, community building, and more](circles-2020-12-27) (Musing #1114)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
