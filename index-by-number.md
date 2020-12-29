@@ -1446,3 +1446,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Mastery grading](mastery-grading-2020-12-05) (Musing #1112)  
 [Surviving Fall Term Two](surviving-fall-two-2020-12-26) (Musing #1113)  
 [Circles: Restorative justice, community building, and more](circles-2020-12-27) (Musing #1114)  
+[Plans for Winter Break](winter-break-2020-12-28) (Musing #1115)  

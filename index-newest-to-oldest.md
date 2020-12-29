@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 1111-1120
 
+[Plans for Winter Break](winter-break-2020-12-28) (Musing #1115)  
 [Circles: Restorative justice, community building, and more](circles-2020-12-27) (Musing #1114)  
 [Surviving Fall Term Two](surviving-fall-two-2020-12-26) (Musing #1113)  
 [Mastery grading](mastery-grading-2020-12-05) (Musing #1112)  

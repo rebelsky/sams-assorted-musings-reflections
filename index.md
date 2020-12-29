@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Circles: Restorative justice, community building, and more](circles-2020-12-27) (Musing #1114)
+[Plans for Winter Break](winter-break-2020-12-28) (Musing #1115)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

@@ -1895,6 +1895,10 @@ Overcommitment
 
 > Among the many reasons I wasn't musing.
 
+[Plans for Winter Break](winter-break-2020-12-28) (Musing #1115)
+
+> A lot to do; hopefully not too much.
+
 On teaching 
 -----------
 
