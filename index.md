@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Plans for Winter Break](winter-break-2020-12-28) (Musing #1115)
+[(Mostly) Avoiding social media](social-media-2020-12-29) (Musing #1116)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

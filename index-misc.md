@@ -822,3 +822,7 @@ Almost everything else
 
 > So many complexities!
 
+[(Mostly) Avoiding social media](social-media-2020-12-29) (Musing #1116)
+
+> Mostly succeeding.
+
