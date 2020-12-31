@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[(Mostly) Avoiding social media](social-media-2020-12-29) (Musing #1116)
+[Shoveling snow](shoveling-snow-2020-12-30) (Musing #1117)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

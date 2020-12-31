@@ -3,43 +3,46 @@ title: Shoveling snow
 number: 1117
 tags: [Miscellaneous](index-misc)
 blurb: Random reflections
-version: 0.1
-released: 
-current: 2020-12-30
+version: 1.0
+released: 2020-12-30 
+current: 
 ---
 It snowed in Grinnell yesterday and last night.  About seven inches, give
 or take.  It was beautiful.
 
-Because I'm me, I was tempted to go on Facebook, post a photo, and write 
+I will admit that I was tempted to go on Facebook, post a photo, and write 
 something like,
 
 > I love the snow.
 
 > Particularly when my sons are home to shovel.
 
-Middle decided to shovel for a bit last night, in the midst of the
-storm.  I'm not sure whether or not it had an impact; we had a lot
-of wind.  I can tell about the wind because parts of our backyard
-are nearly clear and parts are probably fourteen inches or more.
-While I don't particularly appreciate shoveling the taller drifts,
-I do like looking at the landscape the wind makes out back.
+But I'm [avoiding Facebook](social-media-2020-12-29).
+
+In any case, Middle Son decided to shovel for a bit last night, in
+the midst of the storm.  I'm not sure whether or not it had an
+impact; we had a lot of wind.  I can tell about the wind because
+parts of our backyard are nearly clear and parts are probably
+fourteen inches or more.  While I don't particularly appreciate
+shoveling the taller drifts, I do like looking at the landscape the
+wind makes out back.
 
 Today I'm particularly grateful for whoever decided to use their
 snowblower on our front sidewalk.  Yes, I realize that there are
-environmental implications, but it's nice to have less to shovel,
-or less for the boys to shovel.  (Arguably, I should say "less for
+environmental implications, but it's nice to have less to shovel---or 
+less for the boys to shovel.  (Arguably, I should say "less for
 the men to shovel", but I expect we'll always call them "the boys".)
 And I'm certainly glad that the boys are shoveling.
 
 I went outside to help and was reminded of something I notice each
-year: There are clearly very different perspectives on shoveling.
-Shovelers differ in how much of a walk they shovel, side-to-side.
-Some shovel one shovel's width (or one blower's width, if they blow
-snow).  Some make sure to shovel the full width of the walk.  I
-tend to fall into the latter camp.  I realize that it's much faster
-when you shovel less.  But I always look toward the next snowstorm,
-and I know that I find it harder to do a second shovel unless I've
-cleared the walk completely after the prior storm.
+year: There are very different perspectives on shoveling.  Shovelers
+differ in how much of a walk they shovel, side-to-side.  Some shovel
+one shovel's width (or one blower's width, if they blow snow).  Some
+make sure to shovel the full width of the walk.  I tend to fall
+into the latter camp.  I realize that it's much faster when you
+shovel less.  But I always look toward the next snowstorm, and I
+know that I find it harder to do a second shovel unless I've cleared
+the walk completely after the prior storm.
 
 Then there's a question of how much you clear.  Some folks are
 comfortable leaving a lot of snow on the parts they've cleared.
@@ -60,7 +63,7 @@ side walk.  There's a walk from the back door to the garage.  There's
 a walk that goes south around the garage to the alley.  And there's
 a walk that goes north toward our parking spaces.  Oh, I suppose there's
 also the parking spaces on the side of the garage and the apron to the
-garage.
+garage.  I described them in [an earlier musing](shoveling-2020-01-25).
 
 So which do you clear?  Michelle doesn't generally worry about the
 walks between the main sidewalk and the street; I prefer to shovel
@@ -75,7 +78,7 @@ may want to get off the sidewalk.  So I always shovel at least one of
 them.
 
 We always shovel the front walk, the side walk, and the walk to the
-garage.  I used to avoid shoveling the walk south of the the garage,
+garage.  I used to avoid shoveling the walk south of the garage,
 but Michelle always wanted that shoveled.  These days, it's my path
 to work, so I like it shoveled.  We generally put off the path to
 the parking spaces.  I often shovel the apron; my minivan doesn't
@@ -104,3 +107,15 @@ one of those novice writers who deem it necessary to include all of
 their thoughts, rather than valuing brevity. 
 
 Oh well, at least you can skip the postscript.
+
+---
+
+**_Postscript_**: I appreciate that after Eldest Son came in from
+shoveling, he said something like "I should know better than to shovel
+the sidewalk from edge to edge."  I'm so proud.
+
+---
+
+**_Postscript_**: Since I've mentioned Middle and Eldest, I should note
+that Youngest Son was the first one up to shovel this morning.  I
+appreciate that, too.  I'm lucky to have three awesome sons.

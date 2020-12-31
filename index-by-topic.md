@@ -4732,6 +4732,12 @@ Almost everything else
 
 > Mostly succeeding.
 
+[Shoveling snow](shoveling-snow-2020-12-30) (Musing #1117)
+
+> Random reflections
+
+> A joy of Iowa Winters.
+
 Musings with multiple entries
 -----------------------------
 
