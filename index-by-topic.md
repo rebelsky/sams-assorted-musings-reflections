@@ -3785,6 +3785,10 @@ Autobiographical essays, more or less
 
 > Another Thanksgiving
 
+[Resolutions for the New Year](new-years-resolutions-2020-12-31) (Musing #1118)
+
+> Going with the flow, or with the crowd, or something like that.
+
 Salary reviews
 --------------
 

@@ -1449,3 +1449,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Plans for Winter Break](winter-break-2020-12-28) (Musing #1115)  
 [(Mostly) Avoiding social media](social-media-2020-12-29) (Musing #1116)  
 [Shoveling snow](shoveling-snow-2020-12-30) (Musing #1117)  
+[Resolutions for the New Year](new-years-resolutions-2020-12-31) (Musing #1118)  

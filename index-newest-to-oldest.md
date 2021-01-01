@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 1111-1120
 
+[Resolutions for the New Year](new-years-resolutions-2020-12-31) (Musing #1118)  
 [Shoveling snow](shoveling-snow-2020-12-30) (Musing #1117)  
 [(Mostly) Avoiding social media](social-media-2020-12-29) (Musing #1116)  
 [Plans for Winter Break](winter-break-2020-12-28) (Musing #1115)  
