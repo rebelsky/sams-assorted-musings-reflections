@@ -4,7 +4,7 @@ number: 1119
 tags: [Autobiographical](index-autobiographical)
 blurb: Ever-changing family bonding.
 version: 1.0
-released: 2020-01-01
+released: 2021-01-01
 current:
 ---
 The Rebelsky Family Reading Group met twice during winter break.
