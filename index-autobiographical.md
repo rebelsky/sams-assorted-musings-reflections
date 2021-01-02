@@ -541,3 +541,7 @@ Autobiographical essays, more or less
 
 > Going with the flow, or with the crowd, or something like that.
 
+[The latest installment(s) of the Rebelsky Family Reading Group](rebelsky-book-club-2021-01-01) (Musing #1119)
+
+> Ever-changing family bonding.
+

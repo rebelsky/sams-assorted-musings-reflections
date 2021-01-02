@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Resolutions for the New Year](new-years-resolutions-2020-12-31) (Musing #1118)
+[The latest installment(s) of the Rebelsky Family Reading Group](rebelsky-book-club-2021-01-01) (Musing #1119)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
