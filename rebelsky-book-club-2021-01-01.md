@@ -3,9 +3,9 @@ title: The latest installment(s) of the Rebelsky Family Reading Group
 number: 1119
 tags: [Autobiographical](index-autobiographical)
 blurb: Ever-changing family bonding.
-version: 1.0
+version: 1.0.2
 released: 2021-01-01
-current:
+current:2020-01-02
 ---
 The Rebelsky Family Reading Group met twice during winter break.
 For those who are not long-term readers or for those who don't
@@ -24,7 +24,7 @@ across the country, but we've managed.  For example, I recall one
 meeting in Eldest Son's living room in Cleveland.  We planned a meeting
 for this winter break, and Youngest had chosen the book.  Youngest
 chose _Catch 22_, but we all found that were behind on reading.  So
-he switched to _The Hitchhikers Guide to the Gallery_, which we all
+he switched to _The Hitchhiker's Guide to the Galaxy, which we all
 managed to read in one day [2].
 
 I'd been looking ahead to this time and made plans for my choices.
@@ -89,7 +89,7 @@ them picture books.
 
 [4] Perhaps they were worried about what else I might choose.  I
 suggested Umberto Eco's _The Name of the Rose_, Harold Bloom's _The
-Western Canon_, and a collection by Borges [5].  I was also considering
+Western Canon_, and a collection by Borges.  I was also considering
 R. F. Kuang's _The Poppy War_ and Greil Marcus' _The History of Rock
 'n' Roll in Ten Songs_.  Come to think of it, I hadn't thought about
 rock books.  Maybe next time I'll choose _Stranded_.
