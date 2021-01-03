@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[The latest installment(s) of the Rebelsky Family Reading Group](rebelsky-book-club-2021-01-01) (Musing #1119)
+[The joy of code: Cellular language generation](joc-cellular-language-2021-01-02) (Musing #1120)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
