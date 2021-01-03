@@ -1451,4 +1451,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Shoveling snow](shoveling-snow-2020-12-30) (Musing #1117)  
 [Resolutions for the New Year](new-years-resolutions-2020-12-31) (Musing #1118)  
 [The latest installment(s) of the Rebelsky Family Reading Group](rebelsky-book-club-2021-01-01) (Musing #1119)  
-[The joy of code: Cellular language generation](joc-cellular-language-2021-01-02) (Musing #1120)  
+[The joy of code: Experiments in cellular language generation](joc-cellular-language-2021-01-02) (Musing #1120)  

@@ -1,5 +1,5 @@
 ---
-title: The joy of code: Cellular language generation
+title: The joy of code: Experiments in cellular language generation
 number: 1120
 tags: [The joy of code](index-joc), CSC-151, technical, long, end-notable
 blurb: Maybe I should read the research literature.

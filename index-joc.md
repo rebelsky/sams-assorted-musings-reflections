@@ -109,7 +109,7 @@ The joy of code
 
 > A cool component of functional programming.
 
-[The joy of code: Cellular language generation](joc-cellular-language-2021-01-02) (Musing #1120)
+[The joy of code: Experiments in cellular language generation](joc-cellular-language-2021-01-02) (Musing #1120)
 
 > Maybe I should read the research literature.
 
