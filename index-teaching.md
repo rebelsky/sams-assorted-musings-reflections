@@ -184,3 +184,7 @@ online, but they will soon expand to more general issues about teaching._
 
 > Trying to master a new kind of grading.
 
+[Reflections on remote teaching in Term Two of Fall 2020](remote-teaching-2020FaT2-2021-01-05) (Musing #1121)
+
+> Looking back, looking ahead.
+

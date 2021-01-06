@@ -1,6 +1,10 @@
 Musings, from newest to oldest
 ==============================
 
+## 1121-1130
+
+[Reflections on remote teaching in Term Two of Fall 2020](remote-teaching-2020FaT2-2021-01-05) (Musing #1121)  
+
 ## 1111-1120
 
 [The joy of code: Experiments in cellular language generation](joc-cellular-language-2021-01-02) (Musing #1120)  

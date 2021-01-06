@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[The joy of code: Experiments in cellular language generation](joc-cellular-language-2021-01-02) (Musing #1120)
+[Reflections on remote teaching in Term Two of Fall 2020](remote-teaching-2020FaT2-2021-01-05) (Musing #1121)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

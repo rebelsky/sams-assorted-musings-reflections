@@ -1452,3 +1452,7 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Resolutions for the New Year](new-years-resolutions-2020-12-31) (Musing #1118)  
 [The latest installment(s) of the Rebelsky Family Reading Group](rebelsky-book-club-2021-01-01) (Musing #1119)  
 [The joy of code: Experiments in cellular language generation](joc-cellular-language-2021-01-02) (Musing #1120)  
+
+## 1121-1130
+
+[Reflections on remote teaching in Term Two of Fall 2020](remote-teaching-2020FaT2-2021-01-05) (Musing #1121)  
