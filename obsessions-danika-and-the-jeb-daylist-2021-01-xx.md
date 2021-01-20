@@ -1,29 +1,30 @@
 ---
 title: Odd obsessions: The Danika and the Jeb Daylist
-number: 
+number: 1122
 tags: [Autobiographical](index-autobiographical)
 blurb: There are times that I don't understand myself.
-version: 0.1
+version: 0.9
 released: 
-current: 2021-01-16
+current: 2021-01-20
 ---
-One of the few benefits of the pandemic is that it's much easier to "attend"
-live concerts.  In the early days of the pandemic, I went to a daily
-show by Grinnell alum Jon Richardson.  I also started attending
-shows by a duo called "Danika and the Jeb".  
+One of the few benefits of the pandemic is that it's much easier
+to "attend" live concerts.  In the early days of the pandemic, I
+went to a daily show by Grinnell alum Jon Richardson [1].  I also started
+attending shows by a duo called "Danika [2] and the Jeb".
 
-My relation to Danika [1] and the Jeb is a strange one; at some point,
+My relation to Danika and the Jeb is a strange one; at some point,
 I got a suggestion to back their new album on Kickstarter.  They
-started out in Iowa [2], I liked the quick preview I heard, and Danika
-writes clever "please support me" prose.  I think I supported two
-different albums, but it may be three.  I'll admit that the albums
-got lost in the too much music that I own.  
+started out in Iowa (although they are now in Nashville), I liked
+the quick preview I heard, and Danika writes clever "please support
+me" prose.  I think I supported two different albums, but it may
+be three.  I'll admit that the albums got lost in the too much music
+that I own.
 
 In any case, I ended up on their mailing list.  At the start of the
 pandemic, they started doing regular shows on
 [StageIt](https://www.stageit.com/danikaandthejeb) [3] and I thought
 I'd check them out.  I also supported them on Patreon [4].  I like
-their stage presence, I particlarly enjoy Danika's voice, especially
+their stage presence, I particularly enjoy Danika's voice, especially
 when she takes a soulful turn. Jeb is an awesome guitar player and
 clearly gets deeply into into his playing.  Danika also does a great
 job of making the audience feel welcome and narrating the songs.
@@ -53,11 +54,12 @@ their CDs, but not all of them.  So I decided to take the challenge.
 Because I have an obsessive personality, I decided to take the more
 extreme challenge "for those who really enjoy our music".  The
 challenge requires listening to the playlist twenty times.  Since
-it's three hours long [6], that's a lot of my time.  But I listen
-in the background while I do other work [7].  At times, I'm an
-active YouTube listener, adding a comment on a piece.  But most of
-the time, it's background music.  I don't feel guilty; Danika did
-write "It's 100% cool to listen to this in the background :)"
+the playlist three hours long [6], that's a lot of my time.  But I
+found myself able to put it on in the background while I do other work
+[7,9].  At times, I'm an active YouTube listener, adding a comment
+on a piece.  But most of the time, it's background music.  I don't
+feel guilty; Danika did write "It's 100% cool to listen to this in
+the background :)"
 
 There are a few "behind the scenes" videos in the list, including
 [a twenty-minute report on a recent European
@@ -66,12 +68,12 @@ the first time or two, but I'd much prefer to listen to music than
 a narrative.  And at least two of my favorite songs aren't in the
 list.
 
-Since I'm doing twenty passes through the list, I decided to use [the
-last video in the series](https://www.youtube.com/watch?v=aGCfi3ZfBqs) 
+Since I'm doing twenty passes through the list, I decided to use
+[the last video in the series](https://www.youtube.com/watch?v=aGCfi3ZfBqs)
 to record some thoughts and provide evidence that I'd been listening.
-It isn't quite the right place, but, hey, there were no other comments
-on the videos.  Because I hate to throw things away, I'm also recording 
-them here.  
+It isn't quite the right place, but, hey, there were no other
+comments on the videos.  Because I hate to throw things away, I've
+also recorded them here.  I may have edited them slightly.
 
 > Whoo!  Made it through the Day List once.  (Well, once and a half.)  You should have "Thanks for watching the Daylist" video to record comments like this.  And what happened to Day Show 2349 (aka [Live at Campbell Steele gallery](https://www.youtube.com/watch?v=2blPGjW0sdc))?  I know I watched it in the playlist, but it's gone now.
 
@@ -79,21 +81,21 @@ them here.
 
 > Third time through.  Only seventeen or so to go.
 
-> Forgot to record pass four on the Day List.  Just finished pass five.  Only fifteen left!  (We'll see if I make it to twenty.)  I wonder if anyone reads these comments.  I'm finding myself wanting to hear "[You Make a Bad Day Good](https://www.youtube.com/watch?v=sfVrW9tleGA)" [8,9], [the cover of "Son of a Preacher Man"](https://www.youtube.com/watch?v=i9UNZ9QBEac), and more.  On the other hand, I'm finding myself more fond of some songs than the first time through.
+> Forgot to record pass four on the Day List.  Just finished pass five.  Only fifteen left!  (We'll see if I make it to twenty.)  I wonder if anyone reads these comments.  I'm finding myself wanting to hear "[You Make a Bad Day Good](https://www.youtube.com/watch?v=sfVrW9tleGA)" [10,11], [the cover of "Son of a Preacher Man"](https://www.youtube.com/watch?v=i9UNZ9QBEac), and more.  On the other hand, I'm finding myself more fond of some songs than the first time through.
 
 > Finished pass six.  I've started to watch the travelogues at 2xspeed.  (No offense, I hope. I love the music, and I liked them the first few times, but I listen for the music.)  And I'm still wondering if anyone reads these
 
-> Finished pass seven.  Beginning to question my sanity.  Would love to see "[Unlit Match](https://www.youtube.com/watch?v=DxBD88R0yMo)" in the mix.  Amused that "[Lock Me In Tonight](https://www.youtube.com/watch?v=910w4ICkj8A)" has become an earworm for me [10,11].  (There are many D&tJ songs I like much more.)
+> Finished pass seven.  Beginning to question my sanity.  Would love to see "[Unlit Match](https://www.youtube.com/watch?v=DxBD88R0yMo)" in the mix.  Amused that "[Lock Me In Tonight](https://www.youtube.com/watch?v=910w4ICkj8A)" has become an earworm for me [12,14].  (There are many D&tJ songs I like much more.)
 
 > Finished pass eight.  Wondering why some songs are marked as unlisted.  Bridging out into songs I miss, like "[Open Up](https://www.youtube.com/watch?v=WieI4W2Tt9Y)".
 
-> Finished pass nine.  Nearly halfway.  Appreciate that I'm getting some responses to comments.  Wonder what I misheard in "[No Hometown](https://www.youtube.com/watch?v=3ix7jlzyKjw)" [12].
+> Finished pass nine.  Nearly halfway.  Appreciate that I'm getting some responses to comments.  Wonder what I misheard in "[No Hometown](https://www.youtube.com/watch?v=3ix7jlzyKjw)" [15].
 
 > Pass ten finished.  Halfway!  Wondering why so many great videos are unlisted.  (I know they were originally for Patreons, but if the goal is to increase viewership, perhaps the Patreon videos can be released after a few months.)
 
 > Done with pass eleven.  Needed to skip the [20-minute Euro Tour](https://www.youtube.com/watch?v=pJq98ENEMfg) this time, but subbed in (a) Make My Own Day (Live at 20 Front Street) [love the version], (b) Dreams Held Hostage [like the song, can't stand the background noise], (c) White Christmas [always a great song; I like the backing and the guitar solo]; (d) The Second Chances Promo Reel [I like hearing your narratives]; (e) a t-shirt promo reel with you laughing [um …]; (f) a plug for you opening for the Nadas [sounds like it would have been a great show, even though it's ore than a decade ago]; (g) Living Your Dream, dedicated to Gary Andrew [enjoying it; need to move it into the Day List :-)].  Moving on to pass twelve.
 
-> Done with pass 12.  Skipped the Euro Tour again.  Watched as many other videos as I could find.  Here are the quick notes.  Miss You Most (At Christmas Time) [Not enough views for such a great cover!]; Forever Young [Love the matching guitars; hate the background chatter]; Living Your Dream x 2 [no comments right now]; Video Press Kit [10K+ views.  Wow!  The snippet of Bluebird doesn't seem to be from a video I recall-do you have more out there?]; Son of a Preacher Man [at the Mill, right?]; This Love [I realize it doesn't count since it's not on your channel, but …]; Try [I'm amused about the Alyssa Jacey dialog in the comments]; another [Some Kind of Wonderful](https://www.youtube.com/watch?v=s2NIDSO7Hi0) [I prefer the sound of the Artistree version and the intro]; Black Horse and a Cherry Tree [nice cover]; and Danika Holmes Music Video Day 1 [um …].  At some point, I need to think about ranking my favorite videos. On to lucky pass 13.
+> Done with pass 12.  Skipped the Euro Tour again.  Watched as many other videos as I could find.  Here are the quick notes.  Miss You Most (At Christmas Time) [Not enough views for such a great cover!]; Forever Young [Love the matching guitars; hate the background chatter]; Living Your Dream x 2 [no comments right now]; Video Press Kit [10K+ views.  Wow!  The snippet of Bluebird doesn't seem to be from a video I recall-do you have more out there?]; Son of a Preacher Man [at the Mill, right?]; This Love [I realize it doesn't count since it's not on your channel, but …]; Try [I'm amused about the Alyssa Jacey dialog in the comments]; another [Some Kind of Wonderful](https://www.youtube.com/watch?v=s2NIDSO7Hi0) [I prefer the sound of the ArtisTree version and the intro]; Black Horse and a Cherry Tree [nice cover]; and Danika Holmes Music Video Day 1 [um …].  At some point, I need to think about ranking my favorite videos. On to lucky pass 13.
 
 > Done with unlucky pass 13 of the Daylist.  Watched some of this pass while making dinner for family.  (I did that for some other passes, but I thought I'd mention it here.)  I'm beginning to wonder why I log my comments here; perhaps as evidence that I've done each pass.  I'm beginning to feel like an overly obsessive fan.  Should I log Danika's hairstyles?  (No.)  Attempt to transcribe lyrics?  (No.)  Use Audacity to remove the wind noise in "Paparazzi"?  (No.)  Comment on every video?  (Maybe.)  Watch the Day list instead of attending shows?  (No.)  Have a goal of seven more passes through the Daylist to reach 20?  (Yes.)  Become a concert promoter and set up a post-pandemic tour with D&tJ + Hannah + Gemma + ?  (No.)  Venmo D&tJ?  (Probably.)
 
@@ -105,7 +107,7 @@ Back to the log.
 
 > Done with pass 14.  Two passes in one day.  Yay!  I'm sad that I couldn't make today's show.  I've started thinking about which videos are my favorites (and least favorites).  Today I'm also realizing that the big key that Danika shows off in this video looks a lot like our front door key.  The next time through, I think I'll sub in the three versions of "Unlit match" for the Euro Tour video.  Or maybe the Live StageIt Broadcast.
 
-> Note [16]: I will delete all these comments a few days after I reach twenty passes through the Daylist.
+> Note [18]: I will delete all these comments a few days after I reach twenty passes through the Daylist.
 
 > Done with Pass 15.  Replaced the behind-the-scenes pieces with
   the [Live StageIt Broadcast from Nashville on Nov. 21,
@@ -122,7 +124,7 @@ Back to the log.
   out what kind of Fender Jeb is playing.  The shape looks like a
   Telecaster, but the headstock does not.  (Figured it out; it's
   the John 5 Signature Telecaster.)  Next up: Figuring out the green
-  Strat-shaped electric.  Watched Hannah Woolmer's show on Sunday
+  Strat-shaped electric [19].  Watched Hannah Woolmer's show on Sunday
   and started to wonder whether you've thought of doing a prerecorded
   video intro like she does.  Not a lot of comments from this pass.
   Looking forward to moving on to the [music-only
@@ -134,9 +136,50 @@ Back to the log.
   of my favorite songs.  The "[Baby It's Cold
   Outside](https://www.youtube.com/watch?v=INQ7Z1IrSYE)" surprised
   me; I've heard it before, but I'm not used to it in the playlist.
-  On the other hand, I'm not sure I needed to heaer "No Body, No
+  On the other hand, I'm not sure I needed to hear "No Body, No
   Crime" twice in the playlist; I'd rather hear more originals.
   Three passes left to twenty!  Then on to other D&tJ music.
+
+> Done with Pass 18.  90% done with 20 passes.  I'm running out of
+  things to write.  I also thought I was reaching the point that
+  I'm starting to get sick of many of the songs, even ones that I
+  love.  Will I still enjoy them at the next live show?  I hope so.
+  Or maybe I'm not getting sick of them; I found that I still really
+  enjoyed "Sway Into The Storm", "No Hometown", and "Rainy Day
+  Lovin'", among others.  Looking forward to tomorrow's show.
+
+> Done with Pass 19.  Only one more to go.  I returned to the main
+  Daylist for these last two passes.  No other comments this time 
+  through.
+
+I attended the Tuesday afternoon show between passes 19 and 20.  I
+managed to get Jeb to talk about his guitars, which helps with
+[the video list](https://rebelsky.cs.grinnell.edu/datj/youtube).
+I found myself really disconcerted that Danika kept referring to
+"Sam is My Muse", but there was another attendee named
+samismymuse.  Very strange.
+
+> Almost finished Pass 20 between yesterday's afternoon show and
+  yesterday's evening show.  Then life got busy.  But I'm finally
+  done with 20 listenings [20], right before [the Hannah Woolmer
+  show](https://www.stageit.com/hannah_woolmer/) [21].  You [22]
+  should expect to see email, Venmo, comments at a show, and a 'blog
+  post [23] or two.
+
+> If I watch the Daylist another ten times [24], will you play Dar
+  Williams' "Iowa" and/or Greg Brown's "Iowa Waltz" at a Tuesday
+  afternoon show?  (Iron Butterfly's "In-a-gadda-da-vida" would
+  also be fun [25].)
+
+Now I'm done.  I still love their music.  I've obsessed much too
+much about Jeb's guitars (and Danika's).  I've made some strange
+comments at the shows along the way.  Did I really just offer to
+watch the Daylist again?
+
+You know what?  Watching the Daylist 20+ times may have turned me
+into an obsessive fan.  Sorry D&tJ!  Ill try to step back a bit.
+
+Oh well, off to work on the database.
 
 ---
 
@@ -150,17 +193,18 @@ that I created](https://rebelsky.cs.grinnell.edu/datj/youtube.html).
 ---
 
 **_Postscript_**: Just in case it wasn't clear, the obsession here
-was listening to the Daylist twenty times.  For some reason, I like
-strange challenges.  There are also some related obsessions, such
-as with D&tJ's music and the aforementioned database.
+was the challenge of listening to the Daylist twenty times.  There
+are also some related obsessions, such as with D&tJ's music and the
+aforementioned database.
 
 ---
 
-[1] Pronounced "Da-neek-uh" not  "Da-nick-uh".  You can hear the
-pronunciation at the start of "[You Make a Bad Day Good](https://www.youtube.com/watch?v=sfVrW9tleGA)".
+[1] That reminds me; I haven't been to one of Jon's shows in a long
+while.  Unfortunately, they're at a time when I'm normally in a meeting,
+teaching, or preparing dinner.
 
-[2] They are now based in the Nashville area and have been for some
-years.
+[2] Pronounced "Da-neek-uh" not  "Dan-ick-uh".  You can hear the
+pronunciation at the start of "[You Make a Bad Day Good](https://www.youtube.com/watch?v=sfVrW9tleGA)".
 
 [3] They may have already been doing regular shows on StageIt.
 
@@ -172,25 +216,48 @@ years.
 show](https://www.youtube.com/watch?v=2blPGjW0sdc), or at least subbed
 in some shorter videos.
 
-[7] This week, my "other work" has been class prep and administrivia.
+[7] This week, my "other work" has been class prep and administrivia [8].
 
-[8] No, I did not include links to the originals in my comments.  But
+[8] Some of my "other work" ended up being these musings.
+
+[9] There are some songs that I love enough that it's hard not to 
+look up and watch.
+
+[10] No, I did not include links to the originals in my comments.  But
 this musing felt incomplete without them.  As I said, I'm somewhat obsessive.
 
-[9] No, I did not have links to endnotes in the original comment.
+[11] No, I did not have links to endnotes in the original comment.
 
-[10] "Lock Me In Tonight" feels more like traditional mainstream modern
+[12] "Lock Me In Tonight" feels more like traditional mainstream modern
 country than most of Danika's songs.  I prefer the more soulful songs
 or the ones with deeper meaning.
 
-[11] In my world, an earworm is a song you can't get out of your head.
+[14] In my world, an earworm is a song you can't get out of your head.
 I woke up hearing Danika sing "Lock Me In Tonight" two days in a row.
 
-[12] I had written something like "I love the way you sing 'Cotton' in 
-this song" [14] and got a big "Huh?" as a response [15].  
+[15] I had written something like "I love the way you sing 'Cotton' in 
+this song" [16] and got a big "Huh?" as a response [17].  
 
-[14] Rhymed with "forgotten".
+[16] Rhymed with "forgotten".
 
-[15] I have since confirmed that I heard the lyric correctly.
+[17] I have since confirmed that I heard the lyric correctly.
 
-[16] The note was part of my Pass 14 post.
+[18] The note was part of my Pass 14 post.
+
+[19] It's a Fender, too.
+
+[20] Now is 1:55 p.m., CST, 2021-01-20.
+
+[21] Hannah Woolmer is part of a group of musicians who seem to bounce
+between each others shows.  I *think* it started with Hannah visiting
+a Danika and the Jeb show.  I seem to recall her being mentioned on
+[the 2020-11-21 show](https://www.youtube.com/watch?v=ACZkP-LYrd8)
+
+[22] In case it's not clear, "You" is "Danika and the Jeb".
+
+[23] That's this post.
+
+[24] I was going to say "twenty", but I don't think I could make it
+through another twenty passes.
+
+[25] Jeb talked about it at one of their shows.  I don't recall why.
