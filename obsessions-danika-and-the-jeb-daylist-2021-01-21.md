@@ -1,11 +1,11 @@
 ---
 title: Odd obsessions: The Danika and the Jeb Daylist
 number: 1122
-tags: [Autobiographical](index-autobiographical)
+tags: [Obsessions](index-obsessions)
 blurb: There are times that I don't understand myself.
-version: 0.9
-released: 
-current: 2021-01-21
+version: 1.0
+released: 2021-01-21
+current: 
 ---
 One of the few benefits of the pandemic is that it's much easier
 to "attend" live concerts.  In the early days of the pandemic, I
@@ -284,9 +284,9 @@ this song" [16] and got a big "Huh?" as a response [17].
 [21] Now is 1:55 p.m., CST, 2021-01-20.
 
 [22] Hannah Woolmer is part of a group of musicians who seem to bounce
-between each others shows.  I *think* it started with Hannah visiting
+between each others' shows.  I *think* it started with Hannah visiting
 a Danika and the Jeb show.  I seem to recall her being mentioned on
-[the 2020-11-21 show](https://www.youtube.com/watch?v=ACZkP-LYrd8)
+[the 2020-11-21 show](https://www.youtube.com/watch?v=ACZkP-LYrd8).
 
 [23] In case it's not clear, "You" is "Danika and the Jeb".
 

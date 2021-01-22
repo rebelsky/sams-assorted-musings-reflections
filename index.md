@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Reflections on remote teaching in Term Two of Fall 2020](remote-teaching-2020FaT2-2021-01-05) (Musing #1121)
+[Odd obsessions: The Danika and the Jeb Daylist](obsessions-danika-and-the-jeb-daylist-2021-01-21) (Musing #1122)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
