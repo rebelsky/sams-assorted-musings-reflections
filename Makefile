@@ -89,6 +89,7 @@ INDICES = index-by-topic-head.md \
         index-salary-reviews.md \
         index-rof.md \
         index-email.md \
+        index-obsessions.md \
 	index-misc.md \
         index-multiple-entries.md \
 	index-removed.md 

@@ -46,6 +46,7 @@ Latest musing:
 * [Reviews and notes about things I enjoy](index-reviews)
 * [Board, card, and other games](index-games)
 * [Autobiographical essays, more or less](index-autobiographical)
+* [Some of SamR's obsessions](index-obsessions)
 * [ROF musings](index-rof)
 * [Almost everything else](index-misc)
 
