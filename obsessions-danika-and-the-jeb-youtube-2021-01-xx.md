@@ -3,9 +3,9 @@ title: Odd obsessions: Cataloguing Danika and the Jeb on YouTube
 number: 
 tags: [Miscellaneous](index-misc), postscripted
 blurb: My muse encourages an obsession.
-version: 0.1
+version: 0.2
 released: 
-current: 2021-01-19
+current: 2021-01-18
 ---
 As I was writing about [my obsessive response to the Danika and the
 Jeb Daylist](obsessions-danika-and-the-jeb-daylist-2021-01-xx), I
@@ -17,34 +17,19 @@ with (relatively short) commentary.  I've tried to mark the ones
 posted by D&tJ with an asterisk.
 
 Followup: Someway far to far into this musing, I decided to set up
-[a separate database](https://rebelsky.cs.grinnell.edu/datj/youtube).
-You'll find that the hobgoblin of my small mind is goblined me less
-than normal.
+[a separate database](https://rebelsky.cs.grinnell.edu/datj/youtube)
+[1].  You'll find that the hobgoblin of my small mind attacked me
+me much less than normal.  That is, I've left things many things
+non-uniform, and perhaps even incomplete.
 
-Originals (I think)
--------------------
+Originals
+---------
 
-These are songs written by Danika (and others), along with some comments.
-I've placed them in alphabetical order.
-
-"**???**"
-
-> [Live at JJ Kellys, Lansing, Illinois, 2011-03-10](https://www.youtube.com/watch?v=fCk1dc-uIXA)
-
-> > Jeb and the Danika on Taylor acoustic/electrics.
-
-> > Lots of background noise.  I hate background noise.  But I love
-    this song and this performance.  I don't understand how musicians
-    can perform when everyone is talking this much.
+These are songs written by Danika (and others). 
+I've placed them in alphabetical order and added some short comments.
 
 > > "I jumped in my car and I drove way" "Gone are the days I could turn
     your head and make you look my way."  Time for a change?
-
-"**???**"
-
-> [Live at Goose Island, Chicago, IL, 2011-08-11](https://www.youtube.com/watch?v=METUcFBsCeU)
-
-> > Danika on vocals.  Jeb in the background on some guitar (probably the Taylor)
 
 "**Black Swan**"
 
@@ -67,7 +52,8 @@ I've placed them in alphabetical order.
 
 "**Bluebird**"
 
-> _Comment_
+> As far as I can tell, the most-posted D&tJ song on YouTube, with at
+  least nine versions.  (It also appears on some of the promo videos.)
 
 > [Live at ArtisTree](https://www.youtube.com/watch?v=qhgtd5PHUtA) (Official, Daylist 21)
 
@@ -113,22 +99,29 @@ I've placed them in alphabetical order.
 > [Songs with Friends (w/Alyssa Jacey and Kira Hooks)](https://www.youtube.com/watch?v=eoDGscvtIA0) (Official, Unlisted, Daylist 11)
 
 > > The harmony on the chorus is really nice.  I also appreciate the 
-    percussion that Jacey adds [1].
+    percussion that Jacey adds [2].
 
 > > In case you want to check out these other artists, you can check
     them out at <https://alyssajacey.com> and <https://www.kirahooks.com>
-    or on YouTube ([Alyssa Jacey](https://www.youtube.com/channel/UCHLXs6ZLxBu_Wb8ohiSqNDw) and [Kira Hooks](...))
-    the
+    or on YouTube ([Alyssa Jacey](https://www.youtube.com/channel/UCHLXs6ZLxBu_Wb8ohiSqNDw) and [Kira Hooks](...)).
+
+> > I'd love to see more in the "Songs With Friends" series.
 
 > [Live at ArtisTree](https://www.youtube.com/watch?v=eSs6NoPl6FI) (Official, unlisted)
 
 > > Danika on grand piano.  Jeb on acoustic guitar.
 
-> [From backstage, somewhere, ca. 2014](https://www.youtube.com/watch?v=CDhmImjKR3o)
+> > A solid version, although I admit I like the harmony on the Songs with
+    Friends version.  I'd like to hear Jeb's guitar mixed a bit louder.
 
-> > Danika on electric piano.
+> [Live on stage, somewhere, ca. 2014](https://www.youtube.com/watch?v=CDhmImjKR3o)
 
-> > Video shot sideways.
+> > Danika on electric piano.  Jeb on Taylor acoustic.
+
+> > Video shot sideways.  The videographer starts backstage and moves around
+    to the front.  Someone nearby sings along.  One of the few D&tJ outside
+    videos without a lot of crowd noise.  A nice version; I like the mix
+    of Jeb's guitar.
 
 "**Concrete Dragons**"
 
@@ -176,8 +169,6 @@ I've placed them in alphabetical order.
 
 > [Album Version from _Living Your Dream_](https://www.youtube.com/watch?v=1x84ypv9S7A)
 
-> > 
-
 "**In A Memory**"
 
 > _Comments_
@@ -197,22 +188,23 @@ I've placed them in alphabetical order.
 
 "**Infinity**"
 
-> _Comments_
+> _I'm not sure why, but I don't haev a lot to say about this song._
 
 > [Life at ArtisTree](https://www.youtube.com/watch?v=sS4X-KIVBtE) (Official, Daylist 20)
 
 "**Lucky For Me**"
 
-> An original Christmas/Holiday song.  I appreciate the relentlessly
-  upbeat theme, with Danika reciting the many things she's luck about
-  (such as being the taster for cookies).  Next year, all the D&tJ 
-  holiday songs need to go on my holiday playlist.
+> _An original Christmas/Holiday song.  I appreciate the relentlessly
+  upbeat theme, with Danika using the voice of a young girl reciting
+  the many things she's luck about (such as being the taster for
+  cookies).  Next year, all the D&tJ holiday songs need to go on
+  my holiday playlist._
 
 > [Acoustic Christmas Sessions](https://www.youtube.com/watch?v=6aSxue3nl6o) (Official, Daylist 30)
 
 "**Living Your Dream**"
 
->  _Comments_
+>  _I haven't listened to this enough to have an opinion._
 
 > [Live at the Mill, Iowa City, 2013-02-06](https://www.youtube.com/watch?v=6s2tVMYmuBY)
 
@@ -220,11 +212,11 @@ I've placed them in alphabetical order.
 
 "**Lock Me In Tonight**"
 
-> Danika writes and performs what I think of as a semi-shallow
+> _Danika writes and performs what I think of as a standard
   modern country song (with a somewhat standard official
   music video).  As I've noted before, I wasn't thrilled with
   the song the first time I heard it (as part of the Daylist),
-  but it's grown on me and, at times, has been an earworm.
+  but it's grown on me and, at times, has been an earworm._
 
 > [Official Music Video](https://www.youtube.com/watch?v=910w4ICkj8A) (Daylist 33)
 
@@ -265,7 +257,7 @@ I've placed them in alphabetical order.
 "**No Hometown**"
 
 > I *think* this is a relatively new song; written in spring 2020 and
-  released to Patreons [2].  One of my favorite D&tJ songs; speaks well
+  released to Patreons [3,4].  One of my favorite D&tJ songs; speaks well
   to what life might feel like in many of the Iowa towns around here.
 
 > [Patreon Video](https://www.youtube.com/watch?v=3ix7jlzyKjw)
@@ -305,6 +297,13 @@ I've placed them in alphabetical order.
 
 > > Jeb on Taylor cutaway acoustic/electric.  Danika on vocals.
 
+> [Live at Goose Island, Chicago, IL, 2011-08-11](https://www.youtube.com/watch?v=METUcFBsCeU)
+
+> > Danika on vocals.  Jeb in the background on some guitar (probably the Taylor)
+
+> > Too much background noise for my taste.  Danika looks really happy
+    at the beginning.
+
 "**Sway Into the Storm**"
 
 > _I'm surprised that there isn't a hit cover of this song (probably
@@ -312,8 +311,10 @@ I've placed them in alphabetical order.
   country: an interesting story, a compelling vocal riff in the
   chorus, some great building musical tension, and more. 
 
-> I also like the references to other songs ("You took the high
-  road and I took the low", "No redemption song", perhaps others).
+> I also like the references to other songs---"You took the high
+  road and I took the low", "No redemption song", "Shelter from 
+  the storm" (more implicit), perhaps others.  There was some point
+  during the binge that I listened to this four times in a row.
 
 > [Live at ArtisTree](https://www.youtube.com/watch?v=bLiZfxJQWRs) (Official, Daylist 23)
 
@@ -344,6 +345,35 @@ I've placed them in alphabetical order.
 
 > > After enough time with the Daylist version, I appreciate hearing it 
     with an electric guitar.
+
+"**Time For A Change**"
+
+> A sad, folky, narrative song.  I really like this one.  It feels like
+  it should be a classic.
+
+> [Live from JJ Kellys, Lansing, IL, 2011-03-10](https://www.youtube.com/watch?v=fCk1dc-uIXA)
+
+> > Jeb and the Danika on Taylor acoustic/electrics.
+
+> > Untitled here.  It took me a bit to remember which song it is.  
+    Perhaps my favorite of the versions I've heard..
+
+> > Except that there's lots of background noise.  I hate background noise.  
+    But I love this song and this performance.  I don't understand
+    how musicians can perform when everyone is talking this much.
+
+> [Album version from _Balance, Volume 1_](https://www.youtube.com/watch?v=Wu_CeEd9bfQ)
+
+> > Has a nice guitar solo (presumably by Jeb).
+
+> > It appears that I was the first person to watch this video.  I
+    wish D&tJ got credit for these views.
+
+> [On the _Songs for Freedom_ compilation](https://abolitiontour.bandcamp.com/track/time-for-a-change)
+
+> > Full band version!  Not the same as the one on _Balance, Volume 1_.
+    I'm not sure whether it's the same as the version on _Second Chances_.
+    I particularly like the backing vocals.
 
 "**Unlit Match**"
 
@@ -397,7 +427,7 @@ own in some way or other.
 > [Bill Withers Tribute](https://www.youtube.com/watch?v=It6qZCS7bjo) (Daylist 6)
 
 > > I love Danika's voice on this, and I love the no-backing "I
-    know I know ...".  (Withers [3] used drum backing in the original
+    know I know ...".  (Withers [5] used drum backing in the original
     and it looks like he did so in [live
     versions](https://www.youtube.com/watch?v=CICIOJqEb5c), too.)
     he uses just drums there.)  As always, Jeb has some great guitar
@@ -405,12 +435,18 @@ own in some way or other.
 
 > [Live at the Mill, Iowa City, 2013-02-06](https://www.youtube.com/watch?v=CKF6XhhR_gI)
 
-> > Why is it nearly 14 minutes long?
+> > I was asking myself "Why is this 14 minutes long?"  It turns out that
+    Jeb does a lot of soloing on this.
 
 > [Live at Sugarland House Concerts, posted 2019-09-29](https://www.youtube.com/watch?v=Iui2vaP-MK8)
 
 > > Danika on her brown Stonebridge custom acoustic.  Jeb on his 
     cutaway Stonebridge acoustic/electric.
+
+"**Angel From Montgomery**" (Written by John Prine, originally performed by John Prine)
+
+> They do a wonderful job on this.  Unfortunately, I couldn't find a
+  live video.  Perhaps they'll post one soon.
 
 "**Auld Lang Syne** (lyrics by Robert Burns, performed by lots of people)
 
@@ -506,6 +542,11 @@ own in some way or other.
     I'll admit that I prefer Hendrix's version.  And, as I said
     above, I miss the vocals.
 
+> > I watched this at double speed once.  It's too fast for the music,
+    but I enjoyed seeing how they move at that speed.  (I'm also
+    amused that the next song, "Infinity", has a lyric of "Let's
+    take it slow".)
+
 > 31:00--37:45 of [Live StageIt Broadcast from Nashville - Nov. 21, 2020](https://www.youtube.com/watch?v=ACZkP-LYrd8) (Official)
 
 "**No Body, No Crime**" (written by Taylor Swift; originally performed by Taylor Swift featuring HAIM)
@@ -539,7 +580,9 @@ own in some way or other.
 
 > _One of my favorite D&tJ covers.  The song works incredibly well with just vocals and guitars.  As Danika suggests in the ArtisTree version, this is a song they really make their own._
 
-> > insert quotation
+> > We play mostly original music that we wrote.  Occasionally, we will throw
+in a song that we wish we wrote.  But we hope you have never heard it
+anything close to this before
 
 > 23:55--28:20 of [Live StageIt Broadcast from Nashville, 2020-11-21](https://www.youtube.com/watch?v=ACZkP-LYrd8) (official)
 
@@ -606,7 +649,7 @@ own in some way or other.
 
 > > The video does not have the song title.
 
-"**Try**" (written by Pink, originally by Pink)
+"**Try**" (written by Michael Busbee and Ben West, originally performed by Pink)
 
 > [Cover ca. 2012](https://www.youtube.com/watch?v=QL-8wZAsxzU)
 
@@ -651,7 +694,9 @@ own in some way or other.
 
 > > Posted with the video sideways.
 
-"**White Christmas**"
+"**White Christmas**" (by Irving Berlin, originally performed by Bing Crosby)
+
+> Another song about which I have no comments to make.
 
 > [Acoustic Christmas Sessions](https://www.youtube.com/watch?v=8KxUqwwbRQE)
 
@@ -853,7 +898,7 @@ for a list of instruments?  Jeb's electric is almost certainly a
 [Fender John 5 Signature
 Telecaster](http://www.fendercustomshop.com/series/artist/john-5-hb-signature-telecaster-rosewood-fingerboard-black/).
 The cutout acoustic/electrics that both Jeb and the Danika play are
-by Taylor [4].  I can't tell which of the Taylors they are.  As far
+by Taylor [6].  I can't tell which of the Taylors they are.  As far
 as I can tlle, Danika's brown guitar doesn't have a manufacturer
 name on the headstock, and the neck says "Music is what feeling
 sounds like."  I hadn't noticed that until I looked closely.  Ah,
@@ -865,21 +910,30 @@ Stonebridge has fancier engraving on the neck.
 
 ---
 
-**_Postscript_**: I'm a computer scientist.  Why didn't I set up a
-database for all these data?  Perhaps because I didn't realize quite
-how much there would be.  In any case, that's a task for another time.
+**_Postscript_**: I don't really have time for more obsessions right
+now, other than perhaps a much-needed obsession with rearranging
+my office and lab.  But when I do, I think I'm going to collect
+D&tJ lyrics.
 
 ---
 
-[1] Is Alyssa Jacey also a percussionist?  There's [a video of her
+[1] As I noted in an earlier (now-deleted) Postscript: I'm a computer
+scientist.  Why didn't I set up a database for all these data?
+Perhaps because I didn't realize quite how much there would be.
+It's also clear that the data I wanted to record changed over time.
+
+[2] Is Alyssa Jacey also a percussionist?  There's [a video of her
 performing drums on the Beatles' "Come
 Together"](https://www.youtube.com/watch?v=Myms-aO0cpU).
 
-[2] Is "Patreons" the right term?  Perhaps "Patreon supporters?"
+[3] Is "Patreons" the right term?  Perhaps "Patreon supporters?"
 I see that some folks use "Patrons" as the term.
 
-[3] Should I say "Jones" since Booker T. Jones produced and arranged?
+[4] There is also [an undated live version](2020-04-27), which suggests
+    that it precedes the pandemic.
 
-[4] I'm surprised that Taylor never designated Jeb as a "Taylor Artist"
+[5] Should I say "Jones" since Booker T. Jones produced and arranged?
+
+[6] I'm surprised that Taylor never designated Jeb as a "Taylor Artist"
 or some such.  He's since moved on to Stonebridge, so I guess that won't
 happen.
