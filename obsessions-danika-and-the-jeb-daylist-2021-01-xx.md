@@ -5,7 +5,7 @@ tags: [Autobiographical](index-autobiographical)
 blurb: There are times that I don't understand myself.
 version: 0.9
 released: 
-current: 2021-01-20
+current: 2021-01-21
 ---
 One of the few benefits of the pandemic is that it's much easier
 to "attend" live concerts.  In the early days of the pandemic, I
@@ -26,7 +26,7 @@ pandemic, they started doing regular shows on
 I'd check them out.  I also supported them on Patreon [4].  I like
 their stage presence, I particularly enjoy Danika's voice, especially
 when she takes a soulful turn. Jeb is an awesome guitar player and
-clearly gets deeply into into his playing.  Danika also does a great
+delves deeply into his music and sound.  Danika also does a great
 job of making the audience feel welcome and narrating the songs.
 There are some originals (e.g., "Unlit Match", "You Make A Bad Day
 Good", "Sway Into the Storm", "No Hometown") and some covers (e.g.,
@@ -61,19 +61,22 @@ on a piece.  But most of the time, it's background music.  I don't
 feel guilty; Danika did write "It's 100% cool to listen to this in
 the background :)"
 
-There are a few "behind the scenes" videos in the list, including
+There are a few "behind the scenes" videos on the list, including
 [a twenty-minute report on a recent European
 tour](https://www.youtube.com/watch?v=pJq98ENEMfg).  I enjoyed them
 the first time or two, but I'd much prefer to listen to music than
-a narrative.  And at least two of my favorite songs aren't in the
+a narrative.  And at least two of my favorite songs aren't on the
 list.
 
-Since I'm doing twenty passes through the list, I decided to use
-[the last video in the series](https://www.youtube.com/watch?v=aGCfi3ZfBqs)
-to record some thoughts and provide evidence that I'd been listening.
-It isn't quite the right place, but, hey, there were no other
-comments on the videos.  Because I hate to throw things away, I've
-also recorded them here.  I may have edited them slightly.
+Since I was planning twenty passes through the list, I decided to
+use [the last video in the
+series](https://www.youtube.com/watch?v=aGCfi3ZfBqs) to record some
+thoughts and to provide evidence that I had been listening.  That
+video wasn't quite the right place, but, hey, there were no other
+comments on that video and D&tJ did not provide another option.  In
+any case, I'll also eliminate them soon.  Because I hate to throw
+things away, I've also recorded them here.  I may have edited them
+slightly in this musing.
 
 > Whoo!  Made it through the Day List once.  (Well, once and a half.)  You should have "Thanks for watching the Daylist" video to record comments like this.  And what happened to Day Show 2349 (aka [Live at Campbell Steele gallery](https://www.youtube.com/watch?v=2blPGjW0sdc))?  I know I watched it in the playlist, but it's gone now.
 
@@ -93,11 +96,11 @@ also recorded them here.  I may have edited them slightly.
 
 > Pass ten finished.  Halfway!  Wondering why so many great videos are unlisted.  (I know they were originally for Patreons, but if the goal is to increase viewership, perhaps the Patreon videos can be released after a few months.)
 
-> Done with pass eleven.  Needed to skip the [20-minute Euro Tour](https://www.youtube.com/watch?v=pJq98ENEMfg) this time, but subbed in (a) Make My Own Day (Live at 20 Front Street) [love the version], (b) Dreams Held Hostage [like the song, can't stand the background noise], (c) White Christmas [always a great song; I like the backing and the guitar solo]; (d) The Second Chances Promo Reel [I like hearing your narratives]; (e) a t-shirt promo reel with you laughing [um …]; (f) a plug for you opening for the Nadas [sounds like it would have been a great show, even though it's ore than a decade ago]; (g) Living Your Dream, dedicated to Gary Andrew [enjoying it; need to move it into the Day List :-)].  Moving on to pass twelve.
+> Done with pass eleven.  Needed to skip the [20-minute Euro Tour](https://www.youtube.com/watch?v=pJq98ENEMfg) this time, but subbed in (a) [Make My Own Day (Live at 20 Front Street)](https://www.youtube.com/watch?v=puk9gifzOBg) [love the version], (b) [Dreams Held Hostage](https://www.youtube.com/watch?v=6goppFpmuYI) [like the song, can't stand the background noise], (c) [White Christmas](https://www.youtube.com/watch?v=8KxUqwwbRQE) [always a great song; I like the backing and the guitar solo]; (d) [The Second Chances Promo Reel](https://www.youtube.com/watch?v=_bRfYZ0LrsY) [I like hearing your narratives]; (e) [a t-shirt promo reel with you laughing](https://www.youtube.com/watch?v=IE6cbQ7675U) [um …]; (f) [a plug for you opening for the Nadas](https://www.youtube.com/watch?v=NbxBppGhT5c) [sounds like it would have been a great show, even though it's more than a decade ago]; (g) [Living Your Dream, dedicated to Gary Andrew](https://www.youtube.com/watch?v=gB3ha8yjcHQ) [enjoying it; I hope you move it into the Day List :-)].  Moving on to pass twelve.
 
-> Done with pass 12.  Skipped the Euro Tour again.  Watched as many other videos as I could find.  Here are the quick notes.  Miss You Most (At Christmas Time) [Not enough views for such a great cover!]; Forever Young [Love the matching guitars; hate the background chatter]; Living Your Dream x 2 [no comments right now]; Video Press Kit [10K+ views.  Wow!  The snippet of Bluebird doesn't seem to be from a video I recall-do you have more out there?]; Son of a Preacher Man [at the Mill, right?]; This Love [I realize it doesn't count since it's not on your channel, but …]; Try [I'm amused about the Alyssa Jacey dialog in the comments]; another [Some Kind of Wonderful](https://www.youtube.com/watch?v=s2NIDSO7Hi0) [I prefer the sound of the ArtisTree version and the intro]; Black Horse and a Cherry Tree [nice cover]; and Danika Holmes Music Video Day 1 [um …].  At some point, I need to think about ranking my favorite videos. On to lucky pass 13.
+> Done with pass 12.  Skipped the Euro Tour again.  Watched as many other videos as I could find.  Here are the quick notes.  [Miss You Most (At Christmas Time)](https://www.youtube.com/watch?v=tVtjjHeYw1A) [Not enough views for such a great cover!]; [Forever Young](https://www.youtube.com/watch?v=ewWoUfzA_5w) [Love the matching guitars; hate the background chatter]; [Living Your Dream](https://www.youtube.com/watch?v=gB3ha8yjcHQ) x 2 [no comments right now]; [Video Press Kit](...) [10K+ views.  Wow!  The snippet of Bluebird doesn't seem to be from a video I recall-do you have more out there?]; [Son of a Preacher Man](https://www.youtube.com/watch?v=i9UNZ9QBEac) [at the Mill, right?]; [This Love](https://www.youtube.com/watch?v=dKqwhWQH9Ig) [I realize it doesn't count since it's not on your channel, but …]; [Try](https://www.youtube.com/watch?v=QL-8wZAsxzU) [I'm amused about the Alyssa Jacey dialog in the comments]; another [Some Kind of Wonderful](https://www.youtube.com/watch?v=s2NIDSO7Hi0) [I prefer the sound of the ArtisTree version and the intro]; [Black Horse and a Cherry Tree](https://www.youtube.com/watch?v=GR1HhSj8js4) [nice cover]; and [Danika Holmes Music Video Day 1](https://www.youtube.com/watch?v=QoafUap29IQ) [um …].  At some point, I need to think about ranking my favorite videos. On to lucky pass 13.
 
-> Done with unlucky pass 13 of the Daylist.  Watched some of this pass while making dinner for family.  (I did that for some other passes, but I thought I'd mention it here.)  I'm beginning to wonder why I log my comments here; perhaps as evidence that I've done each pass.  I'm beginning to feel like an overly obsessive fan.  Should I log Danika's hairstyles?  (No.)  Attempt to transcribe lyrics?  (No.)  Use Audacity to remove the wind noise in "Paparazzi"?  (No.)  Comment on every video?  (Maybe.)  Watch the Day list instead of attending shows?  (No.)  Have a goal of seven more passes through the Daylist to reach 20?  (Yes.)  Become a concert promoter and set up a post-pandemic tour with D&tJ + Hannah + Gemma + ?  (No.)  Venmo D&tJ?  (Probably.)
+> Done with unlucky pass 13 of the Daylist.  Watched some of this pass while making dinner for the family.  (I did that for some other passes, but I thought I'd mention it here.)  I'm beginning to wonder why I log my comments here; perhaps as evidence that I've done each pass.  I'm beginning to feel like an overly obsessive fan.  Should I log Danika's hairstyles?  (No.)  Attempt to transcribe lyrics?  (No.)  Use Audacity to remove the wind noise in "Paparazzi"?  (No.)  Comment on every video?  (Maybe.)  Watch the Day list instead of attending shows?  (No.)  Have a goal of seven more passes through the Daylist to reach 20?  (Yes.)  Become a concert promoter and set up a post-pandemic tour with D&tJ + Hannah + Gemma + ?  (No.)  Venmo D&tJ?  (Probably.)
 
 The unspoken question, since it wasn't something others would understand, is
 "Muse about listening to the Daylist?".  The answer is "Yes" and this musing
@@ -105,7 +108,7 @@ is the result.  There are times my muse chooses strange goals.
 
 Back to the log.
 
-> Done with pass 14.  Two passes in one day.  Yay!  I'm sad that I couldn't make today's show.  I've started thinking about which videos are my favorites (and least favorites).  Today I'm also realizing that the big key that Danika shows off in this video looks a lot like our front door key.  The next time through, I think I'll sub in the three versions of "Unlit match" for the Euro Tour video.  Or maybe the Live StageIt Broadcast.
+> Done with pass 14.  Two passes in one day.  Yay!  I'm sad that I couldn't make today's show.  I've started thinking about which videos are my favorites (and least favorites).  Today I'm also realizing that the big key that Danika shows off in this video looks a lot like our front door key.  The next time through, I think I'll sub in the three versions of "Unlit Match" for the Euro Tour video.  Or maybe the [Live StageIt Broadcast](https://www.youtube.com/watch?v=ACZkP-LYrd8).
 
 > Note [18]: I will delete all these comments a few days after I reach twenty passes through the Daylist.
 
@@ -115,9 +118,11 @@ Back to the log.
   but a sad one.  Wondering what kind of guitar Jeb is playing in
   that show.  Finally tracked down the original of "[Dancing in the
   Snow](https://www.youtube.com/watch?v=gyeqz0evnlA)".  I prefer
-  your version.  Watching "Pockets Full of Gold" reminds me that I
-  miss the art interludes that were a regular part of the early
-  shows.  For example, I'd love to see the guitar player tribute again.
+  your version.  Watching "[Pockets Full of
+  Gold](https://www.youtube.com/watch?v=KHTvYHGEFX8)" reminds me
+  that I miss the art interludes that were a regular part of the
+  early shows.  For example, I'd love to see the guitar player
+  tribute again.
 
 > Finished with Pass 16.  80% done! Watched the 2020-11-21 video
   again in place of the behind-the-scenes shows.  Trying to figure
@@ -155,31 +160,34 @@ Back to the log.
 I attended the Tuesday afternoon show between passes 19 and 20.  I
 managed to get Jeb to talk about his guitars, which helps with
 [the video list](https://rebelsky.cs.grinnell.edu/datj/youtube).
-I found myself really disconcerted that Danika kept referring to
+I found myself disconcerted that Danika kept referring to
 "Sam is My Muse", but there was another attendee named
 samismymuse.  Very strange.
 
 > Almost finished Pass 20 between yesterday's afternoon show and
   yesterday's evening show.  Then life got busy.  But I'm finally
-  done with 20 listenings [20], right before [the Hannah Woolmer
-  show](https://www.stageit.com/hannah_woolmer/) [21].  You [22]
+  done with 20 listenings [20,21], right before [the Hannah Woolmer
+  show](https://www.stageit.com/hannah_woolmer/) [22].  You [23]
   should expect to see email, Venmo, comments at a show, and a 'blog
-  post [23] or two.
+  post [24] or two.
 
-> If I watch the Daylist another ten times [24], will you play Dar
+> If I watch the Daylist another ten times [25], will you play Dar
   Williams' "Iowa" and/or Greg Brown's "Iowa Waltz" at a Tuesday
   afternoon show?  (Iron Butterfly's "In-a-gadda-da-vida" would
-  also be fun [25].)
+  also be fun [26].)
 
 Now I'm done.  I still love their music.  I've obsessed much too
 much about Jeb's guitars (and Danika's).  I've made some strange
-comments at the shows along the way.  Did I really just offer to
-watch the Daylist again?
+comments at the shows along the way.  Did I just offer to watch the
+Daylist again?
 
 You know what?  Watching the Daylist 20+ times may have turned me
-into an obsessive fan.  Sorry D&tJ!  Ill try to step back a bit.
+into an obsessive fan.  Sorry D&tJ!  I'll try to step back a bit.
 
 Oh well, off to work on the database.
+
+I'll reflect more directly on the music and my favorite songs in
+another musing.
 
 ---
 
@@ -196,6 +204,31 @@ that I created](https://rebelsky.cs.grinnell.edu/datj/youtube.html).
 was the challenge of listening to the Daylist twenty times.  There
 are also some related obsessions, such as with D&tJ's music and the
 aforementioned database.
+
+---
+
+**_Postscript_**: Here's the email I sent to D&tJ.
+
+> Dear Danika and Jeb,
+
+> Thanks for setting up the Daylist and for the encouragement to watch
+  it multiple times.
+
+> I've now completed twenty passes through the Daylist, plus a few partial 
+  passes.  If you'd like to see my 'blog post about the experience of
+  listening, you can find it at
+  <https://rebelsky.cs.grinnell.edu/musings/obsessions-danika-and-the-jeb-daylist-2021-01-21>.
+
+> Now that but since the CDs you shipped on December 7 arrived
+  yesterday [27], I think have all of your CDs.  I love your music,
+  but don't need extra copies, other than to give to friends.
+
+> So I don't really need any reward for playing the Daylist twenty
+  times.  Your music and the StageIt shows are reward enough.  However, 
+  if you feel like playing Dar Williams' "Iowa" or your own "How to
+  Beautiful" at an upcoming show, that would be great.
+
+> Thanks again!
 
 ---
 
@@ -246,18 +279,22 @@ this song" [16] and got a big "Huh?" as a response [17].
 
 [19] It's a Fender, too.
 
-[20] Now is 1:55 p.m., CST, 2021-01-20.
+[20] Also endnote 20.
 
-[21] Hannah Woolmer is part of a group of musicians who seem to bounce
+[21] Now is 1:55 p.m., CST, 2021-01-20.
+
+[22] Hannah Woolmer is part of a group of musicians who seem to bounce
 between each others shows.  I *think* it started with Hannah visiting
 a Danika and the Jeb show.  I seem to recall her being mentioned on
 [the 2020-11-21 show](https://www.youtube.com/watch?v=ACZkP-LYrd8)
 
-[22] In case it's not clear, "You" is "Danika and the Jeb".
+[23] In case it's not clear, "You" is "Danika and the Jeb".
 
-[23] That's this post.
+[24] That's this post.
 
-[24] I was going to say "twenty", but I don't think I could make it
+[25] I was going to say "twenty", but I don't think I could make it
 through another twenty passes.
 
-[25] Jeb talked about it at one of their shows.  I don't recall why.
+[26] Jeb talked about it at one of their shows.  I don't recall why.
+
+[27] January 20.  Yay USPS!
