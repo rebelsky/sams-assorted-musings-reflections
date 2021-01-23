@@ -188,3 +188,7 @@ online, but they will soon expand to more general issues about teaching._
 
 > Looking back, looking ahead.
 
+[Teaching with Technology: Managing Multiple Meetings on Microsoft Teams](teams-multiple-meetings-2021-01-22) (Musing #1123)
+
+> Ah, the joys of technology.
+

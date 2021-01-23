@@ -3,13 +3,10 @@ title: Teaching with Technology: Managing Multiple Meetings on Microsoft Teams
 number: 1123
 tags: [Teaching](index-teaching), technical
 blurb: Ah, the joys of technology.
-version: 0.2
-released: 
-current: 2021-01-22
+version: 1.0
+released: 2021-01-22 
+current: 
 ---
-_Warning!  This musing is currently in draft state.  It is intended
-primarily for those with whom I've shared the link._
-
 _If you only care about how to join multiple simultaneous video/audio
 meetings on Teams (at least on a Mac), jump ahead to the section entitled
 "Instructions"._
