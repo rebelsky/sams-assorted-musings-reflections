@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Teaching with Technology: Managing Multiple Meetings on Microsoft Teams](teams-multiple-meetings-2021-01-22) (Musing #1123)
+[Correlation is not causation](correlation-vs-causation-2021-01-23) (Musing #1124)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

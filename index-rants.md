@@ -574,3 +574,7 @@ Rants
 
 > It's a compulsion.
 
+[Correlation is not causation](correlation-vs-causation-2021-01-23) (Musing #1124)
+
+> You knew that, didn't you?
+
