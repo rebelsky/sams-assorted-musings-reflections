@@ -578,3 +578,7 @@ Rants
 
 > You knew that, didn't you?
 
+[The joys of Cisco](cisco-sucks-2021-01-25) (Musing #1125)
+
+> Tech support is an awful experience.  You knew that, didn't you?
+

@@ -1459,3 +1459,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Odd obsessions: The Danika and the Jeb Daylist](obsessions-danika-and-the-jeb-daylist-2021-01-21) (Musing #1122)  
 [Teaching with Technology: Managing Multiple Meetings on Microsoft Teams](teams-multiple-meetings-2021-01-22) (Musing #1123)  
 [Correlation is not causation](correlation-vs-causation-2021-01-23) (Musing #1124)  
+[The joys of Cisco](cisco-sucks-2021-01-25) (Musing #1125)  
