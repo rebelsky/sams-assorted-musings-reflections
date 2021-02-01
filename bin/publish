@@ -6,4 +6,6 @@ echo "Synching images."
 time rsync -avz images rebelsky.cs.grinnell.edu:/home/rebelsky/public_html/musings
 echo "Synching css."
 time rsync -avz css rebelsky.cs.grinnell.edu:/home/rebelsky/public_html/musings
+echo "Synching rss."
+time rsync -avz rss.xml rebelsky.cs.grinnell.edu:/home/rebelsky/public_html/musings
 echo "Done"
