@@ -3,7 +3,7 @@ title: A formerly open letter to my president
 number: 1103
 tags: [Rants](index-rants)
 blurb: Gone.
-version: 1.1.3
+version: 1.2
 released: 2020-07-22
 current: 2021-02-05
 ---
