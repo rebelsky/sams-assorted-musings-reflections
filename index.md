@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[The joys of Cisco](cisco-sucks-2021-01-25) (Musing #1125)
+[Happy 90th Birthday Mom!](happy-birthday-mom-2021-03-11) (Musing #1127)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

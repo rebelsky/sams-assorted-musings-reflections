@@ -192,3 +192,7 @@ online, but they will soon expand to more general issues about teaching._
 
 > Ah, the joys of technology.
 
+[Cutting curbs and other thoughts on universal design](curb-cuts-2021-02-24) (Musing #1126)
+
+> Not all universal design is really universal
+

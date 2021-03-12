@@ -1460,3 +1460,5 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Teaching with Technology: Managing Multiple Meetings on Microsoft Teams](teams-multiple-meetings-2021-01-22) (Musing #1123)  
 [Correlation is not causation](correlation-vs-causation-2021-01-23) (Musing #1124)  
 [The joys of Cisco](cisco-sucks-2021-01-25) (Musing #1125)  
+[Cutting curbs and other thoughts on universal design](curb-cuts-2021-02-24) (Musing #1126)  
+[Happy 90th Birthday Mom!](happy-birthday-mom-2021-03-11) (Musing #1127)  

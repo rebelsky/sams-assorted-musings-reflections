@@ -2101,6 +2101,10 @@ online, but they will soon expand to more general issues about teaching._
 
 > Ah, the joys of technology.
 
+[Cutting curbs and other thoughts on universal design](curb-cuts-2021-02-24) (Musing #1126)
+
+> Not all universal design is really universal
+
 Code camps
 ----------
 
@@ -3812,6 +3816,10 @@ Autobiographical essays, more or less
 [The latest installment(s) of the Rebelsky Family Reading Group](rebelsky-book-club-2021-01-01) (Musing #1119)
 
 > Ever-changing family bonding.
+
+[Happy 90th Birthday Mom!](happy-birthday-mom-2021-03-11) (Musing #1127)
+
+> And related imaginings.
 
 Salary reviews
 --------------

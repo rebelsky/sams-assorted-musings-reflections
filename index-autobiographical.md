@@ -545,3 +545,7 @@ Autobiographical essays, more or less
 
 > Ever-changing family bonding.
 
+[Happy 90th Birthday Mom!](happy-birthday-mom-2021-03-11) (Musing #1127)
+
+> And related imaginings.
+
