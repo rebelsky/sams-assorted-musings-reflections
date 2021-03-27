@@ -3,9 +3,9 @@ title: It's time for a change
 number: 1128
 tags: [Autobiographical](index-autobiographical), [overcommitment](index-overcommitment)
 blurb: The title says it all.
-version: 1.0
+version: 1.0.1
 released: 2021-03-27 
-current: 
+current: 2021-03-27
 ---
 *Content warning: Illness, snarkiness, stress, mediocre writing [1], etc.*
 
@@ -131,7 +131,7 @@ The other coronary arteries seem to be doing pretty well.
 
 I came home from Methodist on Thursday.  I was hoping to come home on
 Wednesday, since I seemed "well enough" by Wednesday morning.  But they
-want you therefore at least 48 hours after surgery.
+want you there for [16] at least 48 hours after surgery.
 
 It seems like I'm doing pretty well.  Michelle says that I'm looking
 better than I've looked in a while.  The output fraction from my
@@ -156,7 +156,7 @@ letters that I'm supposed to write this weekend.
 
 As I also said at the beginning, I'm my mother's son.  While there
 are many things I can't change directly, there's a subset of those
-things that I can change by raising related issues [16].  Will I
+things that I can change by raising related issues [17].  Will I
 be able to stop pointing out things to improve?  I don't know.
 Should I stop?  If they cause stress, I should.  Maybe I can find
 a way to raise these issues without stressing about them.
@@ -177,16 +177,16 @@ Department administrative business, on the other hand, generally
 causes a lot of stress, probably more than it should.  Why?  Too
 many years of things stacking up on each other, which makes it too
 easy to see the negatives and too hard to see the positives.  The
-sheer number of things [17] adds to the stress.  I definitely can't
+sheer number of things [18] adds to the stress.  I definitely can't
 lead the department for the rest of this academic year.  I'm debating 
 whether or not I should even participate in department, division, or
-faculty meetings [18].
+faculty meetings [19].
 
 I must say that my colleagues have been wonderful.  Some volunteered
 to take over my grading.  Some volunteered to take on other
 administrative responsibilities.  The Dean let me know that she
 would find replacements for any of my tasks.  Our Consulting Associate
-Dean [19] has taken on a huge amount.  My beyond-Grinnell colleagues
+Dean [20] has taken on a huge amount.  My beyond-Grinnell colleagues
 have offered to provide more human resources for the tasks I'm
 working on.  A wide variety of folks have sent well wishes and
 offered help.  Just so folks know, I appreciate the well wishes,
@@ -266,18 +266,21 @@ to air flight someone.
 
 [15] Ah: "A Summer Song" and "Yesterday's Gone".  Probably a few others.
 
-[16] I'm being good, I'm not even coming up with examples.
+[16] Grammarly corrected "there for" to "therefore" and I didn't pay
+enough attention.  It's fixed now.
 
-[17] See the note above.  At present, the list includes four major
+[17] I'm being good, I'm not even coming up with examples.
+
+[18] See the note above.  At present, the list includes four major
 spring tasks, thirty-two or so smaller tasks, sixteen or so complex
-department discussions to lead [20], eight summer tasks, eight major
+department discussions to lead [21], eight summer tasks, eight major
 fall tasks, and at least four other fall tasks.
 
-[18] I find it amusing that some of the messages I've received from
+[19] I find it amusing that some of the messages I've received from
 colleagues say "We need you back to make your important comments
 at division and faculty meetings."
 
-[19] No, not CAD.
+[20] No, not CAD.
 
-[20] I have fourteen listed, but some can/should split and I
+[21] I have fourteen listed, but some can/should split and I
 like using powers of two.
