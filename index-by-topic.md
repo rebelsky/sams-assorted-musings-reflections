@@ -3821,6 +3821,14 @@ Autobiographical essays, more or less
 
 > And related imaginings.
 
+[It's time for a change](time-for-a-change-2021-03-27) (Musing #1128)
+
+> The title says it all.
+
+[Getting my gig at Grinnell](getting-grinnell-gig-2021-03-31) (Musing #1129)
+
+> Ending up in the middle of ....
+
 Salary reviews
 --------------
 

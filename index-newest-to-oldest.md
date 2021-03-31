@@ -3,6 +3,8 @@ Musings, from newest to oldest
 
 ## 1121-1130
 
+[Getting my gig at Grinnell](getting-grinnell-gig-2021-03-31) (Musing #1129)  
+[It's time for a change](time-for-a-change-2021-03-27) (Musing #1128)  
 [Happy 90th Birthday Mom!](happy-birthday-mom-2021-03-11) (Musing #1127)  
 [Cutting curbs and other thoughts on universal design](curb-cuts-2021-02-24) (Musing #1126)  
 [The joys of Cisco](cisco-sucks-2021-01-25) (Musing #1125)  
