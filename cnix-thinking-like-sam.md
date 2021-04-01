@@ -1,8 +1,12 @@
-Introduction: Thinking like Sam (aka Some of SamR's perspectives on software development)
-=================================================================
-
-**Part of an ongoing series of essays tentatively entitled _Don't embarrass
-me, Don't embarrass yourself: Notes on thinking in C and Unix_.**
+---
+title: Thinking like Sam (aka Some of SamR's thoughts on software development)
+number: 216
+tags: [Don't embarrass me, don't embarrass yourself: Thoughts on thinking in C and Unix](index-cnix)
+blurb: 
+version: 1.1
+released: 2017-02-01 
+current: 2021-03-31
+---
 
 As I've noted already, the primary focus of this work [1] is trying to
 help you understand [some of the ways C programmers approach software
@@ -22,6 +26,8 @@ have a short comment that explains what it does, and any tricky parts
 of the code probably need an explanation.  I tend to develop by listing
 steps as comments and then going back and coding.  I realize that's more
 comments than most programmers need, but I find it a useful strategy.
+I also realize that comments tend to go stale, so good programmers take
+the time to update (or remove) comments when they change their code.
 
 *Try to test*.  You have some responsibility to make sure that your code
 is correct.  Careful analysis helps.  But it also helps to have tests
@@ -32,12 +38,14 @@ what is likely to go long, particularly as I *explore edges*. [2]
 *Continue to concentrate on core concepts*.  Programming fads come and
 go.  My long-time experience suggests that they key things programmers
 and computer scientists needed to learn three decades ago remain important
-today.  Computer scientists need to be able to design, read, and analyze
-algorithms and data structures.  Computer scientists need to know a basic 
-"literature" of algorithms and data structures: key searching and sorting
-algorithms; stacks, queues, linked lists, hash tables, and graphs.  Computer
-scientists need to understand memory layout.  Those are a few of those
-concepts.
+today.  Computer scientists, computer programmers, and software
+developers ("computer scientists", in the following). need to be
+able to design, read, and analyze algorithms and data structures.
+Computer scientists need to know a basic "literature" of algorithms
+and data structures: searching and sorting algorithms; stacks,
+queues, linked lists, hash tables, and graphs.  Computer scientists
+need to understand memory layout.  And yes, there are others concepts
+computer scientists need.  Those are just some.
 
 *Diagram and draw*.  Most of us understand what is happening in a program
 better if we draw it out, particularly when we are dealing with pointers
@@ -68,7 +76,8 @@ of examples.  I'll probably pull out some things from _The Unix Programming
 Environment_.  I'll refer to columns in _Joel on Software_ or Jon
 Bentley's _Programming Pearls_.  In general, I think that students are
 best served by sources that are designed for professionals, rather than
-for education, because such sources force you to think more deeply.
+for education, because such sources often force you to think more deeply
+since their focus is not on pre-masticating ideas.
 
 *Choose clarity*.  C encourages you to write concise, sometimes obtuse,
 code.  I generally recommend that you strive for concise but clear
@@ -112,6 +121,12 @@ question, then write code to answer it.  You'll see me then follow up
 with a quotation from the man page.  I learn better by combining these
 approaches, and I hope you will, too.
 
+*Stick to standard style*.  The way you structure code affects how
+readable others will find the code.  There are a few standards for
+formatting C code.  Follow one of them.  I tend
+to try to follow [GNU
+standards](https://www.gnu.org/prep/standards/html_node/Writing-C.html).
+
 *Find, foster, and feel fun*.  Programming should be enjoyable, at least
 most of the time.  Find joy in your work, even if it's through stupid
 jokes or annoying alliteration.
@@ -148,7 +163,3 @@ efficient.  However, I find that the kind of efficiency that leads to
 unreadable code is often pointless.  It's okay to manually optimize; but
 you probably want to profile first.  It also turns out that optimizers
 tend to do better with clear code.
-
----
-
-*Version 1.0 of 2017-02-01.*

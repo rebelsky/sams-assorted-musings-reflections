@@ -1,6 +1,12 @@
-Don't Embarrass Me; Don't Embarrass Yourself: Thinking in C
-===========================================================
-
+---
+title: Thinking in C
+number: 176
+tags: [Don't embarrass me, don't embarrass yourself: Thoughts on thinking in C and Unix](index-cnix)
+blurb: 
+version: 1.2
+released: 2017-01-02
+current: 2021-03-31
+---
 The philosopher Benjamin Whorf suggests that
 the language we speak influences how we think.
 Even though most linguists and philosophers [dispute the Whorfian
@@ -28,12 +34,12 @@ first course to get students accustomed to higher-order programming,
 anonymous procedures, recursion, and the benefits of side-effect-free
 approaches.  We teach C in the second course not only to help students
 think imperatively, but also for the additional ways of thinking that
-C encourages [1].  We teach Java [2] or C# [3] in the third course to
+C encourages [1].  We teach Java [2] or C# [3,4] in the third course to
 develop models of object-oriented thinking and to give students the
 experience of working with a language that does not trust the programmer
-[4].  We've found that not only do these three approaches give students
+[5].  We've found that not only do these three approaches give students
 the background to think about problems in multiple ways, they also
-prepare students to master almost any modern programming language [5].
+prepare students to master almost any modern programming language [6].
 
 But we're here to consider thinking in C.  So, how do C programmers
 think?  From my perspective, there are four key characteristics of a
@@ -42,37 +48,38 @@ C programmer.
 First, C is an imperative programming language. Hence, C programmers
 think imperatively.  How do imperative programmers think?  They design
 programs in which they explicitly sequence operations that affect the
-state of the system.  That means that their programs emphasize sequence
-and state.
+state of the system.  That means that *they emphasize sequence
+and state when designing programs*.
 
 Now, there are a wide variety of imperative programming languages, or
 programming languages that support imperative programming.  C differs from
 most of them in that it gives you more direct access to the underlying
-machine.  The second characteristic of C programmers is that they pay
-attention to the underlying machine.  They think about the representation
-of different types, and ways they can take advantage of the different
-representations.  They are willing to work in terms of individual bits.
-As an example of this, in the C implementation of Racket, one bit [8]
-is used to indicate whether a value is a comparatively small integer
-(representable in 31 bits or less) or a reference to a value structure.
+machine.  The second characteristic of C programmers is that *they
+pay attention to the underlying machine*.  They think about the
+representation of different types and about ways they can take
+advantage of the different representations.  They are willing to
+work in terms of individual bits.  As an example of this, in the C
+implementation of Racket, one bit [9] is used to indicate whether
+a value is a comparatively small integer (representable in 31 bits
+or less) or a reference to a value structure [10].
 
 One of the key ways in which C programmers think about the underlying
-machine is that they understand pointers and how memory is used.  They
+machine is that *they understand pointers and how memory is used*.  They
 worry about the stack and the heap, about allocation and deallocation,
 about array overflows, and more.
 
 Why would someone work in C rather than some other imperative
-language, particularly given the need to handle all of the joys [9] of
+language, particularly given the need to handle all of the joys [11] of
 memory management in C?  Well, because you have more direct access to the
-underlying machine, you can write very efficient code.  And that's the
-third hallmark of C programmers: They pay close attention to efficiency,
-and consider how their code uses resources.  A Python programmer
+underlying machine, you can write very efficient code.  And that'another
+hallmark of C programmers: *They pay close attention to efficiency*,
+and they consider how their code uses resources.  A Python programmer
 concatenates two strings, and doesn't really think about the cost.
 A C programmer thinks about the associated costs, and looks for ways
 to ameliorate them.
 
-Finally, C programmers are Unix programmers.  They tend to program
-with the associated tools and techniques of the Unix environment.
+Finally, C programmers are Unix programmers.  *They tend to program
+with the associated tools and techniques of the Unix environment.*
 We'll consider those tools and techniques soon.
 
 I find that a short comment in Kernighan and Ritchie's _The C Programming
@@ -102,7 +109,7 @@ problem](https://www.joelonsoftware.com/2001/12/11/back-to-basics/).
 Why swap the names of the parameters?  So that we can think
 of `t` as "target" and `s` as "source".  Why the different
 formatting?  Because real C programmers follow [GNU coding
-standards](http://www.gnu.org/prep/standards/html_node/) [10].
+standards](http://www.gnu.org/prep/standards/html_node/) [12].
 
 In any case, C programmers (a) think about computation in terms of
 manipulating state; (b) pay attention to underlying issues, including
@@ -123,27 +130,31 @@ letters.  People who write Java as "JAVA" should not be trusted.
 [3] "C#" is usually pronounced "C sharp".  However, if you prefer, you
 can pronounce it "C hashtag" or "C octothorpe" or even "C mesh".
 
-[4] When I teach our third course, I encourage students to remember that
+[4] When I first wrote this, in 2017, we were considering switching
+our third class to C#.  However, we're still teaching it in Java.  It's
+probably worth revisiting that question.
+
+[5] When I teach our third course, I encourage students to remember that
 "Java is your nanny".
 
-[5] I originally wrote "Any other modern programming language".  But C
-is about forty-five years old, Scheme is about forty years old [6],
+[6] I originally wrote "Any other modern programming language".  But C
+is about forty-five years old, Scheme is about forty years old [7],
 and Java is about twenty-five years old.
 
-[6] Scheme's general approach and syntax are close variants of LISP [7],
+[7] Scheme's general approach and syntax are close variants of LISP [8],
 which is close to sixty years old.
 
-[7] LISP is also written "Lisp".  It is not quite an acronym.  The original
+[8] LISP is also written "Lisp".  It is not quite an acronym.  The original
 name stood for "LISt Processor".  At some point, some folks started thinking
 of it as "LIst and Symbolic Processor".  But now it's just Lisp.
 
-[8] I think it's the low-order bit, but I'm not sure.  I can't find
+[9] I think it's the low-order bit, but I'm not sure.  I can't find
 the documentation at this moment.
 
-[9] In case you couldn't tell, "joys" was intended sarcastically.
+[10] At least that used to be the case.  I don't know if it still holds.
+I haven't played with Racket innards for awhile.
 
-[10] We'll cover coding standards in a future essay.
+[11] In case you couldn't tell, "joys" was intended sarcastically.
+However, Bill Joy was almost certainly a C programmer.
 
----
-
-*Version 1.1 of 2017-01-02.*
+[12] We will cover coding standards in a future essay.

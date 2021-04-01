@@ -1,6 +1,12 @@
-Don't embarrass me; Don't embarrass yourself: Thinking in Unix
-==============================================================
-
+---
+title: Thinking in Unix
+number: 179
+tags: [Don't embarrass me, don't embarrass yourself: Thoughts on thinking in C and Unix](index-cnix)
+blurb: 
+version: 1.2
+released: 2017-01-04
+current: 2021-03-31
+---
 We've just considered what it means to [think in C](cnix-thinking-in-c).
 Unix is an operating system [1].  How does one "think" in an operating
 system?  I suppose, like a C programmer, one could pay attention to
@@ -16,13 +22,13 @@ mine.
 results by combining those tools appropriately.*  What tools?  I think
 each Unix programmer ends up relying on a different set, but most include
 `grep`, `head`, `tail`, `wc`, `sort`, `cat` [2,3], and such in their
-lists [4].  How do they combine them?  Well, because most Unix tools use
+toolkits [4].  How do they combine them?  Well, because most Unix tools use
 human-readable sequences of characters (a.k.a. "text files") as input
 and output, one can combine tools using pipes or by taking the output
-of one command as the command-line arguments of another.
+of one command as the command-line arguments of another [5].
 
 *Unix programmers realize that there are a variety of ways to solve
-problems, and look for the ones that are most efficient."  Of course, there
+problems and look for the ones that are most efficient.*  Of course, there
 are many models of efficiency.  For a one-off task, efficient use of
 programmer time is the most efficient.  At the other extreme, for a large
 number of related tasks, building a general tool might be the most
@@ -37,27 +43,28 @@ Makefiles to automate tasks.  Sometimes, it's writing a short script
 in a scripting language (e.g., Perl, Python, Ruby, PHP, Bash).  And
 sometimes, it even involves writing a nicely efficient C program.
 
-*Unix programmers know enough of a shell (most typically bash, but
+*Unix programmers know enough of a shell (most typically bash [6], but
 sometimes tcsh) to tie everything together.*  Unix programmers know about
 pipes and other forms of file redirection, about environment variables,
 about command line parameters, and so on and so forth.
 
-*Unix programmers share.*  'nuff said [5].
+*Unix programmers share.*  'nuff said [7].
 
-As we proceed through this series of essays [6], we'll consider most of
+As we proceed through this series of essays [8], we'll consider most of
 these issues in more depth.  We'll visit a variety of useful tools,
-look a little at scripting, spend some time making Makefiles, considering
-tasks to automate, and so on and so forth.  It should be fun!
+look a little at scripting, and then spend some time making Makefiles,
+considering tasks to automate, and so on and so forth.  It should
+be fun!
 
 ---
 
 **Exercises**
 
-Here are some tasks that can be solved in a variety of ways [7].  Think
+Here are some tasks that can be solved in a variety of ways [9].  Think
 about how you'd solve them (or, better yet, solve them).  We'll discuss
 the strengths and weaknesses (and time constraints) of various approaches.
 You can use existing tools, write C programs, write scripts, or anything
-else within reason [8].
+else within reason [10].
 
 * Given a DOS-formatted text file, one in which lines end with `\r\n` rather 
   than just `\n`, convert it to a standard text file, one in which lines
@@ -96,19 +103,21 @@ is used to view and join files.
 [4] Assignment for my students: Find six other Unix utilities that are
 likely to be useful.
 
-[5] Well, maybe not, since I haven't indicated what Unix programmers
+[5] Don't worry if you don't know how to use pipes.  Don't worry if you
+don't know how to use the output of a command as the parameters of another
+command.  We'll cover it.
+
+[6] Perhaps zsh these days.
+
+[7] Well, maybe not, since I haven't indicated what Unix programmers
 share.  They share code.  They share ideas.  They share tools.  They
 share libraries.  Perhaps most importantly, they share a joy in
 programming.
 
-[6] Or this book, or this course.
+[8] Or this book, or this course.
 
-[7] Note that most of these tasks were developed as part of one of
+[9] Note that most of these tasks were developed as part of one of
 the sections of my "Thinking in C and Unix" course.
 
-[8] You cannot, for example, open a file in Microsoft Word and use
+[10] You cannot, for example, open a file in Microsoft Word and use
 Word to achieve one of these goals.
-
----
-
-*Version 1.1.1 of 2017-01-04.*

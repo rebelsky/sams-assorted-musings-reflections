@@ -1,10 +1,17 @@
-An introduction to "Don't embarrass me; Don't embarrass yourself: Thoughts on thinking in C and Unix"
-==============================================================================
+---
+title: An introduction to "Don't embarrass me; Don't embarrass yourself: Thoughts on thinking in C and Unix"
+number: 175
+tags: [Don't embarrass me, don't embarrass yourself: Thoughts on thinking in C and Unix](index-cnix)
+blurb: 
+version: 1.2
+released: 2017-01-01
+current: 2021-03-31
+---
 
 Welcome to a work [1] that is tentatively entitled _Don't embarrass me;
 Don't embarrass yourself_ and tentatively subtitled _Thoughts on thinking
 in C and Unix_.  As the subtitle suggests, the focus of the work is to
-help people develop skills a C programmers and as Unix programmers [2].
+help people develop skills as C programmers and as Unix programmers [2].
 In case you weren't sure, C is a programming language designed in the
 early 1970's, and Unix is both an operating system and a user environment
 designed about the same time.  That both have survived and perhaps even
@@ -19,21 +26,22 @@ and Yacc [6] to translate something that looked a whole lot like Pascal.
 However, almost every time I assumed that they knew how to do something
 that I thought should be "obvious" to seasoned undergraduates, most of
 them looked at me in puzzlement.  "It should be easy to track down that
-segfault", I would say, "just use gdb or valgrind [8]."  They'd say "We've
+segfault", I would say, "just use gdb or valgrind [8,10]."  They'd say "We've
 only used gdb once, and what is this valgrind thingy?"  Or I might say
-"the following macro will help", and they'd not know what a macro is.
+"the following macro will help", and they'd not know what a C macro is.
 Don't even get me started on function pointers.
 
-So I started giving a series of optional, mostly impromptu, lectures
-[10] on topics I thought they should know as students who program in C
-in a Unix environment.  Most of the class came, as did a few hangers-on.
-Toward the end of the semester, they said "Those lectures were great.
-You should offer a course like this."  Now, a course in how to use various
-Unix tools and how to program better in C feels a bit too practical for
-a liberal arts college like Grinnell.  But I agreed that the lectures
-seemed to be useful.  So I came up with a compromise: During my next
-sabbatical, I offered a one-credit "course" [11] in which I gave a
-somewhat more in-depth treatment of these topics.
+So I started giving a series of optional, mostly impromptu, lectures [11] 
+on topics I thought they should know as students who program in C
+in a Unix-like environment [12].  Most of the class came, as did a
+few hangers-on.  Toward the end of the semester, they said "Those
+lectures were great.  You should offer a course like this."  Now,
+a course in how to use various Unix tools and how to program better
+in C feels a bit too practical for a liberal arts college like
+Grinnell.  But I agreed that the lectures seemed to be useful.  So
+I came up with a compromise: During my next sabbatical, I offered
+a one-credit "course" [14,15] in which I gave a somewhat more in-depth
+treatment of these topics.
 
 Somewhat in jest, I started referring to the course as "Don't embarrass me;
 Don't embarrass yourself."  Why?  Because most of our students, having
@@ -55,7 +63,7 @@ encourages them to think.
 
 The first offering of the course was pretty successful.  I had one
 colleague from another department sit in on the course, and, at the
-end, pronounced it one of the most useful courses at Grinnell [12].
+end, pronounced it one of the most useful courses at Grinnell [16].
 It continues to seem successful in that students keep taking it and
 students not enrolled still sit in on the course.
 
@@ -84,8 +92,8 @@ useful in this different form.
 Does the world really need another book on thinking in C
 and Unix?  Probably not.  Eric S. Raymond's [_The Art of Unix
 Programming_](http://www.catb.org/esr/writings/taoup/) is an excellent
-text that is available free online.  Kernighan and Pike's _The Unix
-Programming Environment_ is a classic [14].  Although Mike Gancarz's _The
+text that is available free online [17].  Kernighan and Pike's _The Unix
+Programming Environment_ is a classic [18].  Although Mike Gancarz's _The
 Unix Philosophy_, is less widely read than those two works, it also has
 very useful parts.  Beyond that, there's a whole Web of information on
 these topics.
@@ -94,14 +102,15 @@ However, I still find it useful to present these materials in a way that
 will make sense to our students, and that reflect my own perspectives on
 programming and program development.  I also find that each of those books
 is simultaneously too basic (e.g., my students don't really need to learn
-about directory structures; they learned that in CSC 161 and elsewhere)
+about directory structures; they learned that in CSC-161 [19] and elsewhere)
 and too advanced (e.g., I don't need to cover low-level system calls;
-they should learn those in CSC 211 or CSC 213).  I'm targeting somewhere
-in between And, as noted above, the writings will allow me to teach more
-of a workshop-style class [15].  Also, lots of people continue to write
-books on topics that have already been covered in classic works.
+they should learn those in CSC-211 [20] or CSC-213 [21]).  I'm
+targeting somewhere in between And, as noted above, the writings
+will allow me to teach more of a workshop-style class [22].  Also,
+lots of people continue to write books on topics that have already
+been covered in classic works.
 
-Will there be an audience beyond my students?  I don't know.  I'm not
+Will there be an audience beyond my students?  I don't know [23].  I'm not
 sure that I really care.  If this work allows my students to learn better,
 it's worth my time.
 
@@ -158,21 +167,41 @@ values; the "i" in "grind" is pronounced more like "ih" as in "sin"
 "wind" can be pronounced one way to mean "blowing air" (which is what
 I meant) and another way to mean "twist and turn".
 
-[10] I don't really lecture.  I talk for a bit, and then ask students
+[10] These days, address sanitizer or something similar seems to be a
+more common approach.  I'll have to learn that.
+
+[11] I don't really lecture.  I talk for a bit, and then ask students
 to answer questions.  In my experience, you learn better by trying and
 thinking on your own, than by listening.  I also find that you learn
 many things better if you've tried yourself, and then someone suggests
 a better approach.
 
-[11] Typical Grinnell courses are four credits.
+[12] E.g., Linux, macOS.
 
-[12] I think that was a compliment.
+[14] Typical Grinnell courses are four credits.
 
-[14] It does not have a cover illustration, so it has not alternate name.
+[15] My choice to offer a one-credit course during sabbatical says somehting
+about my personality.
 
-[15] I suppose I could find parts of those other readings to do the
+[16] I think that was a compliment.
+
+[17] I have heard that many people are not comfortable reading ESR, so it
+may be appropriate to write some new things.
+
+[18] It does not have a cover illustration, so it has not alternate name.
+
+[19] CSC-161 is Grinnell's _Imperative Problem Solving and Data
+Structures_, the second course in Grinnell's CS curriculum.  It
+covers the basics of C programming, including some pointer management,
+as well as simple linked data structures and a bit of Linux.
+
+[20] CSC-211 is _Computer Organization and Architecture_.
+
+[21] CSC-213 is _Operating Systems_.  Well, it's really _Operating Systems
+and Parallel Algorithms_.  But it's primarily an OS course.
+
+[22] I suppose I could find parts of those other readings to do the
 same.  However, I actually think it's easier to write the stuff myself.
 
----
-
-*Version 1.1 of 2017-01-05.*
+[23] I did have a colleague at another institution tell me that they were 
+using parts in their intro systems course.
