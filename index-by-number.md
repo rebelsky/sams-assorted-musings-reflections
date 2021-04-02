@@ -1464,3 +1464,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Happy 90th Birthday Mom!](happy-birthday-mom-2021-03-11) (Musing #1127)  
 [It's time for a change](time-for-a-change-2021-03-27) (Musing #1128)  
 [Getting my gig at Grinnell](getting-grinnell-gig-2021-03-31) (Musing #1129)  
+[Preconditions for strcpy](cnix-preconditions-strcpy) (Musing #1130)  

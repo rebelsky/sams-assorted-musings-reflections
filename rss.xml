@@ -7,6 +7,13 @@
       A curmudgeonly faculty member in computer science writes about a variety of topics.
     </description>
     <item>
+      <title>Musing #1130: Preconditions for strcpy</title>
+      <link>https://www.cs.grinnell.edu/~rebelsky/musings/cnix-preconditions-strcpy</link>
+      <guid>https://www.cs.grinnell.edu/~rebelsky/musings/cnix-preconditions-strcpy</guid>
+      <pubDate>Fri, 02 Apr 2021 00:53:29 GMT</pubDate>
+      <description>Attempts to understand memory usage.</description>
+    </item>
+    <item>
       <title>Musing #1129: Getting my gig at Grinnell</title>
       <link>https://www.cs.grinnell.edu/~rebelsky/musings/getting-grinnell-gig-2021-03-31</link>
       <guid>https://www.cs.grinnell.edu/~rebelsky/musings/getting-grinnell-gig-2021-03-31</guid>

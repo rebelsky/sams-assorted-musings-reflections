@@ -2234,6 +2234,10 @@ Searching files with `find`
 
 ## Miscellaneous C Topics
 
+[Preconditions for strcpy](cnix-preconditions-strcpy) (Musing #1130)
+
+> Attempts to understand memory usage.
+
 [Stages of C compilation](cnix-compilation-phases) (Essay #179) 
 
 > What some of those stages are, and why you should know.
