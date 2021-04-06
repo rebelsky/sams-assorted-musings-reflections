@@ -1,6 +1,10 @@
 Musings, from newest to oldest
 ==============================
 
+## 1131-1140
+
+[Two weeks!](two-weeks-2021-04-05) (Musing #1131)  
+
 ## 1121-1130
 
 [Preconditions for strcpy](cnix-preconditions-strcpy) (Musing #1130)  

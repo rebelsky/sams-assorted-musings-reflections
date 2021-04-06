@@ -1465,3 +1465,7 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [It's time for a change](time-for-a-change-2021-03-27) (Musing #1128)  
 [Getting my gig at Grinnell](getting-grinnell-gig-2021-03-31) (Musing #1129)  
 [Preconditions for strcpy](cnix-preconditions-strcpy) (Musing #1130)  
+
+## 1131-1140
+
+[Two weeks!](two-weeks-2021-04-05) (Musing #1131)  

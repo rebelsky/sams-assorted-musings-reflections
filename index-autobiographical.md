@@ -557,3 +557,7 @@ Autobiographical essays, more or less
 
 > Ending up in the middle of ....
 
+[Two weeks!](two-weeks-2021-04-05) (Musing #1131)
+
+> Starting my new life.
+
