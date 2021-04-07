@@ -1469,3 +1469,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 ## 1131-1140
 
 [Two weeks!](two-weeks-2021-04-05) (Musing #1131)  
+[How should a student learn compilers and interpreters?](compilers-2021-04-06) (Musing #1132)  

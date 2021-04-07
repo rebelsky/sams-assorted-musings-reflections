@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Two weeks!](two-weeks-2021-04-05) (Musing #1131)
+[How should a student learn compilers and interpreters?](compilers-2021-04-06) (Musing #1132)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

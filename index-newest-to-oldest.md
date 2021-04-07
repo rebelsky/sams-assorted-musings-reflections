@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 1131-1140
 
+[How should a student learn compilers and interpreters?](compilers-2021-04-06) (Musing #1132)  
 [Two weeks!](two-weeks-2021-04-05) (Musing #1131)  
 
 ## 1121-1130

@@ -4792,9 +4792,11 @@ Almost everything else
 
 [Shoveling snow](shoveling-snow-2020-12-30) (Musing #1117)
 
-> Random reflections
-
 > A joy of Iowa Winters.
+
+[How should a student learn compilers and interpreters?](compilers-2021-04-06) (Musing #1132)
+
+> And related questions.
 
 Musings with multiple entries
 -----------------------------
