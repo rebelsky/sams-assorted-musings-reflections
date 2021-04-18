@@ -371,3 +371,7 @@ Grinnell.
 
 > Give 'em a try!
 
+[What's the largest major at Grinnell?](major-sizes-2021-04-18) (Musing #1133)
+
+> Approximate data, at best.
+
