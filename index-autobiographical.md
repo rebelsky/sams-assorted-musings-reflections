@@ -561,3 +561,7 @@ Autobiographical essays, more or less
 
 > Starting my new life.
 
+[Four weeks!](four-weeks-2021-04-19) (Musing #1134)
+
+> Plugging along.
+

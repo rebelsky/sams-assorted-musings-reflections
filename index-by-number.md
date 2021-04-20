@@ -1471,3 +1471,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Two weeks!](two-weeks-2021-04-05) (Musing #1131)  
 [How should a student learn compilers and interpreters?](compilers-2021-04-06) (Musing #1132)  
 [What's the largest major at Grinnell?](major-sizes-2021-04-18) (Musing #1133)  
+[Four weeks!](four-weeks-2021-04-19) (Musing #1134)  
