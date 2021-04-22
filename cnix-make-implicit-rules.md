@@ -79,7 +79,7 @@ Let's try it out by updating our Makefile once again.
     # +----------------+
     
     # Generating .o files
-    %.o: $.c mathlib.h
+    %.o: %.c mathlib.h
             $(CC) $(CFLAGS) -c -o $@ $<
     
     # Generating executables
@@ -298,4 +298,6 @@ rules are pretty clear.
 
 ---
 
-*Version 1.0.1 of 2017-02-06.*
+*Version 1.0 released 2017-01-09.*
+
+*Version 1.0.2 of 2021-04-22.*
