@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Four weeks!](four-weeks-2021-04-19) (Musing #1134)
+[I (still) hate Ellucian Self-Service Academic Planning](self-service-academic-planning-2021-04-22) (Musing #1135)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

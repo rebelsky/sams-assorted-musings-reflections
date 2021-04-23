@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 1131-1140
 
+[I (still) hate Ellucian Self-Service Academic Planning](self-service-academic-planning-2021-04-22) (Musing #1135)  
 [Four weeks!](four-weeks-2021-04-19) (Musing #1134)  
 [What's the largest major at Grinnell?](major-sizes-2021-04-18) (Musing #1133)  
 [How should a student learn compilers and interpreters?](compilers-2021-04-06) (Musing #1132)  

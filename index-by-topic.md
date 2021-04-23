@@ -1474,6 +1474,10 @@ Rants
 
 > Tech support is an awful experience.  You knew that, didn't you?
 
+[I (still) hate Ellucian Self-Service Academic Planning](self-service-academic-planning-2021-04-22) (Musing #1135)
+
+> A comparatively calm rant.
+
 Assorted talks and speeches
 ---------------------------
 
