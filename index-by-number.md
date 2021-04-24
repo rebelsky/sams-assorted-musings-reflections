@@ -1473,3 +1473,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [What's the largest major at Grinnell?](major-sizes-2021-04-18) (Musing #1133)  
 [Four weeks!](four-weeks-2021-04-19) (Musing #1134)  
 [I (still) hate Ellucian Self-Service Academic Planning](self-service-academic-planning-2021-04-22) (Musing #1135)  
+[Preregistration for Fall 2021](prereg-2021F) (Musing #1136)  

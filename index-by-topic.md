@@ -3135,6 +3135,10 @@ the registration process at Grinnell.*
 
 > A musing both expected and unexpected.
 
+[Preregistration for Fall 2021](prereg-2021F) (Musing #1136)
+
+> A return to normalcy?
+
 A letter to the incoming chair
 ------------------------------
 
