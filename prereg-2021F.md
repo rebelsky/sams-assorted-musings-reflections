@@ -3,9 +3,9 @@ title: Preregistration for Fall 2021
 number: 1136
 tags: [Registration](index-registration), [Grinnell](index-grinnell), assorted data, rambly, long
 blurb: A return to normalcy?
-version: 1.0
-released: 2021-11-24
-current: 
+version: 1.0.1
+released: 2021-04-24
+current: 2021-04-26
 ---
 _Warning!  As is normally the case for my not-so-legendary
 preregistration musings, this musing has received almost **no**
@@ -319,7 +319,7 @@ Or maybe a return to Cello, which I haven't played for 40+ years.
 Or I could take the new MUS-100-01, _Introduction to Music Studies_,
 which would permit me to better understand my children's conversations.
 LIN-114-01, _Introduction to General Linguistics_, would also help me
-better understand my children [19].  Maybe I should consider that.
+better understand my children.  Maybe I should consider that.
 But LIN-114 is only open to first-years and second-years, so I'm
 probably not eligible.
 
@@ -475,7 +475,7 @@ year.
 
 [19] The number of older colleagues seems to be decreasing.
 
-[20] I'm working on "late-career dead wood".
+[20] I'm working on being "late-career dead wood".
 
 [21] Yes, I know, I could look it up.  But I'm not sure where.  The
 PHE-100 courses have a common description in [the College
