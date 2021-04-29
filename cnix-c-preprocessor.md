@@ -4,7 +4,7 @@ The C Preprocessor
 **Part of an ongoing series of essays tentatively entitled _Don't embarrass
 me, Don't embarrass yourself: Notes on thinking in C and Unix_.**
 
-As we saw in [an earlier essay](cnix-compilation-phases.md), the first
+As we saw in [an earlier essay](cnix-compilation-phases), the first
 step the C compiler does is to *preprocess* the source file.  Preprocessing
 generally involves simple textual manipulation.  There are a variety of
 things that the preprocessor does.
@@ -614,4 +614,6 @@ stop making stupid associations.
 
 ---
 
-*Version 1.0 of 2017-03-24.*
+*Version 1.0 released 2017-03-24.*
+
+*Version 1.0.1 of 2021-04-29.*
