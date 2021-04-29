@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Preregistration for Fall 2021](prereg-2021F) (Musing #1136)
+[Advance planning](advance-planning-2021-04-28) (Musing #1137)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

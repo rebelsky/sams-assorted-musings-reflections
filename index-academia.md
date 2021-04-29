@@ -73,3 +73,7 @@ On life in academia
 
 > Pandemic planning that's beyond irritating.
 
+[Advance planning](advance-planning-2021-04-28) (Musing #1137)
+
+> It's part of the job.
+

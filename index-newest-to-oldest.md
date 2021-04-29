@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 1131-1140
 
+[Advance planning](advance-planning-2021-04-28) (Musing #1137)  
 [Preregistration for Fall 2021](prereg-2021F) (Musing #1136)  
 [I (still) hate Ellucian Self-Service Academic Planning](self-service-academic-planning-2021-04-22) (Musing #1135)  
 [Four weeks!](four-weeks-2021-04-19) (Musing #1134)  
