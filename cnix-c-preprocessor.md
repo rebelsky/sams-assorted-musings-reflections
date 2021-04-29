@@ -13,10 +13,10 @@ things that the preprocessor does.
   comments are generally for human beings [1].
 * The preprocessor replaces any line of the form `#include <FILENAME>`
   with the contents of the named file, using a standard list of directories 
-  to look for the file.
+  to look for the file [2].
 * The preprocessor replaces any line of the form `#include "PATH_TO_FILE"`
   with the contents of the named file, treating the path relative to the
-  current directory [2].
+  current directory [3].
 * The preprocessor replaces any constants defined on the command line
   with `-DCONSTANT=VALUE` with the corresponding value.
 * The preprocessor replaces any constants defined in the file with
@@ -26,9 +26,9 @@ things that the preprocessor does.
 * The preprocessor handles macros, which we will cover in subsequent readings.
 * The preprocessor inserts comments that help the remaining compiler
   steps identify where in the original file they are so that they can
-  provide appropriate error message.
-* A few more things that you don't need to know right now.
-* Many more things that I either never knew about or forgot about.
+  provide appropriate error messages.
+* The preprocessor does few more things that you don't need to know right now.
+* The preprocessor does many more things that I either never knew about or forgot about.
 
 Let's look at the first few in turn.
 
@@ -186,13 +186,13 @@ include3.c:2:1: note: previous definition of ‘result3’ was here
 Yup, that's definitely a problem.  Now, you maybe thinking to yourself
 "Sam, no one would ever include the same file twice."  But it turns
 out that that's not true.  Sometimes, you will include two files, and
-each will include the same other file [3].  There are also a few times
+each will include the same other file [4].  There are also a few times
 that programmers intentionally include the same file, but they then 
-arrange to avoid overlaps [4].  How do we handle the inadvertent
+arrange to avoid overlaps [5].  How do we handle the inadvertent
 double include?  We'll get to that topic soon.
 
 Next up are constants.  You may recall that one way to define constants
-is on the command line, with `-DCONSTANT=VALUE` [5].  Let's explore
+is on the command line, with `-DCONSTANT=VALUE` [6].  Let's explore
 that approach.
 
 <pre>
@@ -244,7 +244,7 @@ main (int argc, char *argv)
 </pre>
 
 Wasn't that fun?  As you can see, defining constants with command-line
-flags lets us quickly reconfigure our program [6].  However, we more
+flags lets us quickly reconfigure our program [7].  However, we more
 often define the constants directly in the file, with `#define`.
 
 <pre>
@@ -334,7 +334,7 @@ $ cc -E example6.c
 int
 main (int argc, char *argv)
 {
-  int values[16];
+  int values[17];
   int sum = 0;
   int i;
 
@@ -354,7 +354,7 @@ at the end.  If you want an else clause, you use `#else`.
 Let's consider a simple example.  While we are developing our program,
 we always want to seed the random number generator with the same value.
 However, when we deploy, we most likely want to seed the random number
-generator in a less predictable way [6].  In the example below, we
+generator in a less predictable way [7].  In the example below, we
 simply print out a random number.  Note that I have elided the cruft
 that comes from including `<stdio.h>`.
 
@@ -448,7 +448,7 @@ $ ./ex7
 </pre>
 
 Conditionals are one way we normally avoid repeated includes.  Here's
-the earlier example, using a sensible "`#ifndef` wrapper" [7,8].
+the earlier example, using a sensible "`#ifndef` wrapper" [8,9].
 
 <pre>
 $ cat example8.c 
@@ -502,7 +502,7 @@ Isn't that much nicer?  Now you know why most header files start
 with an `#ifndef`.
 
 We can also use a similar approach to define values only when they
-are not defined on the command line [9].
+are not defined on the command line [10].
 
 <pre>
 $ cat example9.c 
@@ -537,7 +537,7 @@ $ cc -E example9.c
 int
 main (int argc, char *argv)
 {
-  int values[16];
+  int values[17];
   int sum = 0;
   int i;
 
@@ -561,7 +561,7 @@ $ cc -DARRAY_LEN=128 -E example9.c
 int
 main (int argc, char *argv)
 {
-  int values[128];
+  int values[129];
   int sum = 0;
   int i;
 
@@ -582,33 +582,42 @@ great power and flexibility.
 [1] There are, of course, some exceptions.  Some comments can serve as
 compiler hints in some languages.
 
-[2] Even if you execute the compilation command from another directory,
-the path is relative to the directory in which the compiled file is.
+[2] I assume that there's a shell variable for that, but I can't
+recall.  I also assume that `/usr/include` and `/usr/local/include`
+are on the list.  You can add elements to the list with `-Idir`.
+The [GCC
+manual](https://gcc.gnu.org/onlinedocs/gcc-4.9.4/cpp/Search-Path.html)
+doesn't list a shell variable, so maybe there isn't one.
 
-[3] I'm too lazy to work out the example, but you know what I mean.  If
+[3] Even if you execute the compilation command from another directory,
+the path is relative to the directory in which the compiled file is.
+The compiler will also search relative to each directory in the "standard
+include list".
+
+[4] I'm too lazy to work out the example, but you know what I mean.  If
 you don't, drop me a message and I'll write the example.
 
-[4] That's a subject for a future essay.
+[5] That's a subject for a future essay.
 
-[5] At times, we may write `-D'CONSTANT=VALUE'` if we are worried
+[6] At times, we may write `-D'CONSTANT=VALUE'` if we are worried
 about the shell doing something strange with the name or the value.
 
-[6] I'm using `time (0)` as the seed.  That's not ideal.  But it
+[7] I'm using `time (0)` as the seed.  That's not ideal.  But it
 varies enough that I'm comfortable with it as an example.
 
-[7] `#ifndef` is like the inverse of `#ifdef`.  It means "if not
+[8] `#ifndef` is like the inverse of `#ifdef`.  It means "if not
 defined".
 
-[8] I feel way too pleased that example 8 is a variant of example 3,
+[9] I feel way too pleased that example 8 is a variant of example 3,
 given that 3 and 8 look similar.  I'm almost as pleased that this
 endnote ended up as number 8.
 
-[9] I'm also happy that the variant of number 6 is number 9 [10].  
+[10] I'm also happy that the variant of number 6 is number 9 [11].  
 
-[10] Unfortunately, when I hear "number 9", I think of the phrase "turn
-me on dead man" [11].
+[11] Unfortunately, when I hear "number 9", I think of the phrase "turn
+me on dead man" [12].
 
-[11] If you did not immediately understand that comment, I'm sure
+[12] If you did not immediately understand that comment, I'm sure
 that a Web search would help you.  I'm not sure what will help me
 stop making stupid associations.
 
@@ -616,4 +625,4 @@ stop making stupid associations.
 
 *Version 1.0 released 2017-03-24.*
 
-*Version 1.0.1 of 2021-04-29.*
+*Version 1.1 of 2021-04-29.*
