@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Advance planning](advance-planning-2021-04-28) (Musing #1137)
+[An awkward class design](awkward-class-designs-2021-04-30) (Musing #1138)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

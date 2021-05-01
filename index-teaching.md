@@ -196,3 +196,7 @@ online, but they will soon expand to more general issues about teaching._
 
 > Not all universal design is really universal
 
+[An Awkward class design](awkward-class-designs-2021-04-30) (Musing #1138)
+
+> Maybe I shouldn't use my HCI class as a usability test.
+

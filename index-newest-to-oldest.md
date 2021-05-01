@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 1131-1140
 
+[An Awkward class design](awkward-class-designs-2021-04-30) (Musing #1138)  
 [Advance planning](advance-planning-2021-04-28) (Musing #1137)  
 [Preregistration for Fall 2021](prereg-2021F) (Musing #1136)  
 [I (still) hate Ellucian Self-Service Academic Planning](self-service-academic-planning-2021-04-22) (Musing #1135)  
