@@ -1476,3 +1476,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Preregistration for Fall 2021](prereg-2021F) (Musing #1136)  
 [Advance planning](advance-planning-2021-04-28) (Musing #1137)  
 [An Awkward class design](awkward-class-designs-2021-04-30) (Musing #1138)  
+[Minor irritants](minor-irritants-2021-05-02) (Musing #1139)  

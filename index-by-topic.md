@@ -1478,6 +1478,10 @@ Rants
 
 > A comparatively calm rant.
 
+[Minor irritants](minor-irritants-2021-05-02) (Musing #1139)
+
+> Fun with the little things that get to me.
+
 Assorted talks and speeches
 ---------------------------
 
