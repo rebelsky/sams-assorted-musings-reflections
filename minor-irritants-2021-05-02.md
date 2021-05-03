@@ -3,9 +3,9 @@ title: Minor irritants
 number: 1139
 tags: [Rants](index-rants), end-notable
 blurb: Fun with the little things that get to me.
-version: 1.0
+version: 1.0.1
 released: 2021-05-02
-current: 
+current: 2021-05-02
 ---
 As many of my readers know, I'm trying to take a step back from the
 things that stress me.  I'm mostly succeeding.  But I'm also someone
@@ -80,7 +80,7 @@ better writers [23].  But, for the sake of this musing, or for the
 sake of my muse, I will attempt the rewrite.  Here goes.  And yes,
 it's at least my second attempt.
 
-> To be eligible for graduation a student must earn at least a 2.00 cumulative grade-point average (GPA) and satisfactorily complete at least 124 credits, the tutorial, the First-Year Experience Course, a major (departmental, interdepartmental, or independent), and the College's residency requirement.
+> To be eligible for graduation, a student must earn at least a 2.00 cumulative grade-point average (GPA) and satisfactorily complete at least 124 credits, the tutorial, the First-Year Experience Course, a major (departmental, interdepartmental, or independent), and the College's residency requirement.
 
 It's not great writing.  It may not even be good writing.  But it's
 likely up to snuff for policy writing and, more importantly, it's
