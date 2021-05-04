@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 1131-1140
 
+[Six weeks!](six-weeks-2021-05-03) (Musing #1140)  
 [Minor irritants](minor-irritants-2021-05-02) (Musing #1139)  
 [An Awkward class design](awkward-class-designs-2021-04-30) (Musing #1138)  
 [Advance planning](advance-planning-2021-04-28) (Musing #1137)  

@@ -3864,6 +3864,11 @@ Autobiographical essays, more or less
 
 > Plugging along.
 
+[Six weeks!](six-weeks-2021-05-03) (Musing #1140)
+
+> I'm alive.  I'm great.
+
+
 Salary reviews
 --------------
 
