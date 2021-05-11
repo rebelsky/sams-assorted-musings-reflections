@@ -1,6 +1,10 @@
 Musings, from newest to oldest
 ==============================
 
+## 1141-1150
+
+[Post-Preregistration for Fall 2021: The Effects of CCB](post-prereg-2021F) (Musing #1141)  
+
 ## 1131-1140
 
 [Six weeks!](six-weeks-2021-05-03) (Musing #1140)  

@@ -1478,3 +1478,7 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [An Awkward class design](awkward-class-designs-2021-04-30) (Musing #1138)  
 [Minor irritants](minor-irritants-2021-05-02) (Musing #1139)  
 [Six weeks!](six-weeks-2021-05-03) (Musing #1140)  
+
+## 1141-1150
+
+[Post-Preregistration for Fall 2021: The Effects of CCB](post-prereg-2021F) (Musing #1141)  

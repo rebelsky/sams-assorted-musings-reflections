@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Six weeks!](six-weeks-2021-05-03) (Musing #1140)
+[Post-Preregistration for Fall 2021: The Effects of CCB](post-prereg-2021F) (Musing #1141)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

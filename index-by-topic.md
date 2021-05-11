@@ -3151,6 +3151,10 @@ the registration process at Grinnell.*
 
 > A return to normalcy?
 
+[Post-Preregistration for Fall 2021: The Effects of CCB](post-prereg-2021F) (Musing #1141)
+
+> The pain!  The pain!
+
 A letter to the incoming chair
 ------------------------------
 
