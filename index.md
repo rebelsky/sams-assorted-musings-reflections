@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Post-Preregistration for Fall 2021: The Effects of CCB](post-prereg-2021F) (Musing #1141)
+[Three-fourths of a lifetime](dad-2021-05-11) (Musing #1142)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

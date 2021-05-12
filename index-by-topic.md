@@ -3872,6 +3872,9 @@ Autobiographical essays, more or less
 
 > I'm alive.  I'm great.
 
+[Three-fourths of a lifetime](dad-2021-05-11) (Musing #1142)
+
+> More or less.
 
 Salary reviews
 --------------
