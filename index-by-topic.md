@@ -3876,6 +3876,10 @@ Autobiographical essays, more or less
 
 > More or less.
 
+[Words fail me](shocked-2021-05-12) (Musing #1143)
+
+> It's hard to know what to say.
+
 Salary reviews
 --------------
 

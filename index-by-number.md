@@ -1483,3 +1483,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 
 [Post-Preregistration for Fall 2021: The Effects of CCB](post-prereg-2021F) (Musing #1141)  
 [Three-fourths of a lifetime](dad-2021-05-11) (Musing #1142)  
+[Words fail me](shocked-2021-05-12) (Musing #1143)  
