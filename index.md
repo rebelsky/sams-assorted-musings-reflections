@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Words fail me](shocked-2021-05-12) (Musing #1143)
+[Cuts, Closes, and Balances, Continued](ccb-continued-2021-05-13) (Musing #1144)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

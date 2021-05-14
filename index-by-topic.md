@@ -3155,6 +3155,10 @@ the registration process at Grinnell.*
 
 > The pain!  The pain!
 
+[Cuts, Closes, and Balances, Continued](ccb-continued-2021-05-13) (Musing #1144)
+
+> Some direct effects.
+
 A letter to the incoming chair
 ------------------------------
 
