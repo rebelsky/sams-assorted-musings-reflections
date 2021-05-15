@@ -9,8 +9,11 @@ If you'd like, you can read [a longer introduction](intro-musings-v0).
 If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
-Latest musing:
-[Cuts, Closes, and Balances, Continued](ccb-continued-2021-05-13) (Musing #1144)
+Latest musings:
+[Summer workshops](summer-workshops-2021) (Musing #1145)
+and
+[I hate computers](i-hate-computers-2021-05-14) (Musing #1146)
+
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

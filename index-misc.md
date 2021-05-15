@@ -834,3 +834,7 @@ Almost everything else
 
 > And related questions.
 
+[I hate computers](i-hate-computers-2021-05-14) (Musing #1146)
+
+> Particularly today.
+

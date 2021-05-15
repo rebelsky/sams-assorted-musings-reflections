@@ -375,3 +375,7 @@ Grinnell.
 
 > Approximate data, at best.
 
+[Summer workshops](summer-workshops-2021) (Musing #1145)
+
+> Trying to cut back.
+

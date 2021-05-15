@@ -3072,6 +3072,10 @@ Grinnell.
 
 > Approximate data, at best.
 
+[Summer workshops](summer-workshops-2021) (Musing #1145)
+
+> Trying to cut back.
+
 Registration and Related Topics
 -------------------------------
 
@@ -4845,6 +4849,10 @@ Almost everything else
 [How should a student learn compilers and interpreters?](compilers-2021-04-06) (Musing #1132)
 
 > And related questions.
+
+[I hate computers](i-hate-computers-2021-05-14) (Musing #1146)
+
+> Particularly today.
 
 Musings with multiple entries
 -----------------------------
