@@ -577,3 +577,7 @@ Autobiographical essays, more or less
 
 > It's hard to know what to say.
 
+[Eight weeks!](eight-weeks-2021-05-17) (Musing #1147)
+
+> Am I settling into a rhythm?  Perhaps.
+

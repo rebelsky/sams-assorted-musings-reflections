@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 1141-1150
 
+[Eight weeks!](eight-weeks-2021-05-17) (Musing #1147)  
 [I hate computers](i-hate-computers-2021-05-14) (Musing #1146)  
 [Summer workshops](summer-workshops-2021) (Musing #1145)  
 [Cuts, Closes, and Balances, Continued](ccb-continued-2021-05-13) (Musing #1144)  

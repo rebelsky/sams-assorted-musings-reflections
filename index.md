@@ -9,11 +9,8 @@ If you'd like, you can read [a longer introduction](intro-musings-v0).
 If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
-Latest musings:
-[Summer workshops](summer-workshops-2021) (Musing #1145)
-and
-[I hate computers](i-hate-computers-2021-05-14) (Musing #1146)
-
+Latest musing:
+[Eight weeks!](eight-weeks-2021-05-17) (Musing #1147)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
