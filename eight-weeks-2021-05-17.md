@@ -3,9 +3,9 @@ title: Eight weeks!
 number: 1147
 tags: [Autobiographical](index-autobiographical), rambly
 blurb: Am I settling into a rhythm?  Perhaps.
-version: 1.0
+version: 1.1
 released: 2021-05-17
-current: 
+current: 2021-05-17
 ---
 
 It's now eight weeks since my heart attack.  I'm not sure that
@@ -49,12 +49,12 @@ back to my mom and her own sets of pills.  However, I'm not taking
 Shaklee vitamins and supplements [6,7,8].  I'm also not taking
 Prednisone, which is probably good.
 
-I miss Naproxen.  Naproxen deals with my joint pain better than any 
-other anti-inflammatory I've used.  But it also interacts poorly with
-my other drugs.  The Ibuprofen I've been taking in its place doesn't
-work nearly so well on the pain.  I've gone back to Naproxen once or
-twice when the pain was particularly bad [9], but I've generally
-been successful at avoiding it.
+I miss Naproxen.  Naproxen deals with my joint pain better than any
+other anti-inflammatory I've used.  But it also interacts poorly
+with my other drugs.  The Acetaminophen [9] I've been taking in its
+place doesn't work nearly so well on the pain.  I've gone back to
+Naproxen once or twice when the pain was particularly bad [11], but
+I've generally been successful at avoiding it.
 
 I continue to watch my diet.  I now find myself wondering whether
 I should classify what I'm avoiding.  I've cut down on salt to help
@@ -84,7 +84,7 @@ mind.
 
 Exercise is also helping.  I still don't particularly enjoy exercising,
 but I definitely enjoy having exercised.  And I'm building strength
-and stamina.  I've been at or above seven METs [10] on the Sci-Fit
+and stamina.  I've been at or above seven METs [12] on the Sci-Fit
 and the Nu-Step.  My nurse says that's appropriate for masonry work.
 But no, I'm not planning on any such work.  I see on
 [Wikipedia](https://en.wikipedia.org/wiki/Metabolic_equivalent_of_task)
@@ -103,7 +103,7 @@ with Michelle.  Adding two hours per day to my travel time would
 leave me with too little time for other things.  I worry a bit that
 there are days that I seem to need more than ten hours; I sometimes
 feel like I could sleep all day on the weekend.  I hope that as I
-lose weight and continue to exercise, that will get better [11].
+lose weight and continue to exercise, that will get better [14].
 
 I continue to worry about my thought processes.  I struggle to
 ad-lib in class, or even to give lectures I've given before without
@@ -117,7 +117,7 @@ Grading is also taking a surprisingly long time, even when I use
 simple rubrics.  But I suppose that's always been the case.  I've
 never found myself to grade particularly quickly or promptly. I
 miss the CSC-151 Gradescope Learning Assessments, which were quick
-and easy to grade [12].  I'm trying to figure out what those will
+and easy to grade [15].  I'm trying to figure out what those will
 be like when we return to in-person classes.
 
 What to do with "time off" in the evening is a bit of a struggle.
@@ -133,7 +133,7 @@ workshops](summer-workshops-2021).  I need to find other things
 that stimulate my thinking to muse about, things within the Vygotsky
 proximal zone of my current brain.  I hope my readers have enjoyed
 the more-frequent-than-they've-been-for-the-past-year-or-so,
-still-less-frequent-than-daily musings [14].
+still-less-frequent-than-daily musings [16].
 
 Of course, if I muse, I'm at the computer.  And I think that one
 of my goals should be to spend less time at the computer.  I'm not
@@ -142,7 +142,7 @@ out someday.
 
 Stress and work level?  Covered.  Diet?  Covered.  Meds?  Covered.
 Exercise?  Covered.  Enjoyment?  Covered, more or less.  It appears
-that there is a cover over my primary wellness issues [15].  
+that there is a cover over my primary wellness issues [17].  
 
 To summarize, I'm doing well.  Quite well.  Damn well.  I'm settled.
 I'm calm.  I've found time to write.  I've found time to read.  I've
@@ -173,21 +173,26 @@ Plus some excellent cleaning products.
 
 [8] Yes, I'm still taking a daily multivitamin.
 
-[9] I think my doctor said that the occasional Naproxen is okay.  If
+[9] Is that the same as Paracetamol? [10]
+
+[10] Which always reminds me of "Paracetamol Paralyis", a great
+song by The Distractions.
+
+[11] I think my doctor said that the occasional Naproxen is okay.  If
 not, I'll find out the next time I visit.
 
-[10] No, not the baseball players.
+[12] No, not the baseball players.
 
-[11] Why do I associate less weight and more exercise with less sleep?
+[14] Why do I associate less weight and more exercise with less sleep?
 I'm not sure.
 
-[12] Writing them was less quick and easy.
+[15] Writing them was less quick and easy.
 
-[14] I tried eliminating the hyphens.  I failed.
+[16] I tried eliminating the hyphens.  I failed.
 
-[15] In case it wasn't clear, this musing serves as the "cover" [16].
+[17] In case it wasn't clear, this musing serves as the "cover" [18].
 
-[16] The paragraph is a failure.  I lack the time or energy to correct
-it.  Deal [17].
+[18] The paragraph is a failure.  I lack the time or energy to correct
+it.  Deal [19].
 
-[17] No, not cards.  "Deal" as in "Deal with it."
+[19] No, not cards.  "Deal" as in "Deal with it."
