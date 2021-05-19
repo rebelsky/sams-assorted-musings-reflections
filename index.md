@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Eight weeks!](eight-weeks-2021-05-17) (Musing #1147)
+[Moving offices](moving-offices-2021-05-18) (Musing #1148)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

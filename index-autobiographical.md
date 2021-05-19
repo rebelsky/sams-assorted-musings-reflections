@@ -581,3 +581,7 @@ Autobiographical essays, more or less
 
 > Am I settling into a rhythm?  Perhaps.
 
+[Moving offices](moving-offices-2021-05-18) (Musing #1148)
+
+> It's utterly terrifying.
+

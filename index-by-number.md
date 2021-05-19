@@ -1488,3 +1488,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Summer workshops](summer-workshops-2021) (Musing #1145)  
 [I hate computers](i-hate-computers-2021-05-14) (Musing #1146)  
 [Eight weeks!](eight-weeks-2021-05-17) (Musing #1147)  
+[Moving offices](moving-offices-2021-05-18) (Musing #1148)  
