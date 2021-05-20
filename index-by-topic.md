@@ -1482,6 +1482,10 @@ Rants
 
 > Fun with the little things that get to me.
 
+[Still a curmudgeon](curmudgeon-2021-05-19) (Musing #1149)
+
+> I try to change, but it's hard.
+
 Assorted talks and speeches
 ---------------------------
 
