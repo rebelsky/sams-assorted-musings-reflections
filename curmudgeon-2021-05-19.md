@@ -3,9 +3,9 @@ title: Still a curmudgeon
 number: 1149
 tags: [Rants](index-rants)
 blurb: I try to change, but it's hard.
-version: 1.0
+version: 1.0.1
 released: 2021-05-19
-current: 
+current: 2021-05-19
 ---
 As I mentioned [recently](eight-weeks-2021-05-17), I decided to attend
 the Faculty Meeting on Tuesday, 18 May 2021.  I'm not sure whether or
@@ -67,7 +67,7 @@ many of us.  As I said, I'm a curmudgeon.
 There was a lot of great news at the meeting.  The President has
 lifted the cap on tenure-line positions [3].  We're getting a 3%
 raise.  As importantly, the staff are getting the same raise.  So
-why did I want to make these remarks?? 
+why did I want to remark,
 
 > Hmmm ... you've decided that we've all done a great job this year
 and are giving everyone the same raise [4], why not make that the
@@ -75,8 +75,10 @@ regular policy?  Grinnell has excellent faculty and staff.  Why
 have a policy that makes half the folks on campus feel bad because
 they got less than the median?
 
+And why did I think to myself,
+
 > If it's that easy to lift the cap on the number of tenure-line
-positions, why didn't it happen under President Kington? 
+positions, why didn't it happen under President Kington? [5]
 
 Somewhere during the meeting, we talked about the search for the
 new Dean.  Perhaps it's that I'm burning out, but all I could think
@@ -174,7 +176,7 @@ play.  And thank you BoT for agreeing!
 [4] Not quite, but close.
 
 [5] I'm not sure that there's an acceptable answer to that question.
-There is an obvious one.
+There is an obvious one.  And that one is not acceptable.
 
 [6] Or perhaps a zeroth, if you count like a computer scientist.
 
