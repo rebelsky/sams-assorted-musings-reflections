@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Still a curmudgeon](curmudgeon-2021-05-19) (Musing #1149)
+[The last day of classes (Spring Term Two, 2021)](last-day-of-classes-2021-05-20) (Musing #1150)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

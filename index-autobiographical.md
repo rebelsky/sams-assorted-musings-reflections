@@ -585,3 +585,7 @@ Autobiographical essays, more or less
 
 > It's utterly terrifying.
 
+[The last day of classes (Spring Term Two, 2021)](last-day-of-classes-2021-05-20) (Musing #1150)
+
+> A peek inside Sam's tangled brain.
+

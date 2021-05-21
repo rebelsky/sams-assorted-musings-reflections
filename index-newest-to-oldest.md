@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 1141-1150
 
+[The last day of classes (Spring Term Two, 2021)](last-day-of-classes-2021-05-20) (Musing #1150)  
 [Still a curmudgeon](curmudgeon-2021-05-19) (Musing #1149)  
 [Moving offices](moving-offices-2021-05-18) (Musing #1148)  
 [Eight weeks!](eight-weeks-2021-05-17) (Musing #1147)  
