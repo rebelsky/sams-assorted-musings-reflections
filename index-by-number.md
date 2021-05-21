@@ -1491,3 +1491,7 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Moving offices](moving-offices-2021-05-18) (Musing #1148)  
 [Still a curmudgeon](curmudgeon-2021-05-19) (Musing #1149)  
 [The last day of classes (Spring Term Two, 2021)](last-day-of-classes-2021-05-20) (Musing #1150)  
+
+## 1151-1160
+
+[Dear Grinnell students who want to take CSC-151](csc151-interest) (Musing #1151)  

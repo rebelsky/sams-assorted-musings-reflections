@@ -1,6 +1,10 @@
 Musings, from newest to oldest
 ==============================
 
+## 1151-1160
+
+[Dear Grinnell students who want to take CSC-151](csc151-interest) (Musing #1151)  
+
 ## 1141-1150
 
 [The last day of classes (Spring Term Two, 2021)](last-day-of-classes-2021-05-20) (Musing #1150)  

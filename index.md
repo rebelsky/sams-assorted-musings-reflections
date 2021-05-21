@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[The last day of classes (Spring Term Two, 2021)](last-day-of-classes-2021-05-20) (Musing #1150)
+[Dear Grinnell students who want to take CSC-151](csc151-interest) (Musing #1151)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

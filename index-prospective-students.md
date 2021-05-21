@@ -71,3 +71,7 @@ overall characteristics of the institution and the student body.
 
 > Study broadly.
 
+[Dear Grinnell students who want to take CSC-151](csc151-interest) (Musing #1151)
+
+> Plan ahead.
+
