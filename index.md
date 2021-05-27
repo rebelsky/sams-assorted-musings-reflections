@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Dear Grinnell students who want to take CSC-151](csc151-interest) (Musing #1151)
+[Normally kind](normally-kind-2021-05-26) (Musing #1153)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

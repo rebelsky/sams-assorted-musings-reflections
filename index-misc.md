@@ -838,3 +838,7 @@ Almost everything else
 
 > Particularly today.
 
+[Normally kind](normally-kind-2021-05-26) (Musing #1152)
+
+> Let's make kindness the new norm.
+

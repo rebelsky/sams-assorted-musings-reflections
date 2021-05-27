@@ -1495,3 +1495,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 ## 1151-1160
 
 [Dear Grinnell students who want to take CSC-151](csc151-interest) (Musing #1151)  
+[Fragmentary Beatles-related memories](fragmentary-beatles-memories-2021-05-25) (Musing #1152)  

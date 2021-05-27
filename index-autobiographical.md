@@ -589,3 +589,7 @@ Autobiographical essays, more or less
 
 > A peek inside Sam's tangled brain.
 
+[Fragmentary Beatles-related memories](fragmentary-beatles-memories-2021-05-25) (Musing #1152)
+
+> Fragmentary, like most of my memories.
+
