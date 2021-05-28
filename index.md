@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Normally kind](normally-kind-2021-05-26) (Musing #1153)
+[Some words for graduating CS majors (and their families) in the class of 2021](cs-seniors-2021) (Musing #1154)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

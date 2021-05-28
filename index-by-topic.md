@@ -1541,6 +1541,10 @@ Assorted talks and speeches
 
 > Words I wanted to share, although not the place.
 
+[Some words for graduating CS majors (and their families) in the class of 2021](cs-seniors-2021) (Musing #1154)
+
+> Words to share.
+
 On life in academia
 -------------------
 

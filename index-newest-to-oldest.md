@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 1151-1160
 
+[Some words for graduating CS majors (and their families) in the class of 2021](cs-seniors-2021) (Musing #1154)  
 [Fragmentary Beatles-related memories](fragmentary-beatles-memories-2021-05-25) (Musing #1152)  
 [Dear Grinnell students who want to take CSC-151](csc151-interest) (Musing #1151)  
 
