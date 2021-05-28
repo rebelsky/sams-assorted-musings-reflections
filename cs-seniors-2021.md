@@ -3,9 +3,9 @@ title: Some words for graduating CS majors (and their families) in the class of 
 number: 1154
 tags: [Speeches](index-talks-speeches), Grinnell, Grinnell CS, N3rd
 blurb: Words to share.
-version: 1.0
+version: 1.1
 released: 2021-05-27
-current: 
+current: 2021-05-27
 ---
 On Thursday, 27 May 2021, we had a graduation event for Grinnell's CS
 seniors [1].  It was a bit different than normal.
@@ -259,6 +259,9 @@ Plate_](https://www.amazon.com/Heart-Plate-Vegetarian-Recipes-Generation/dp/0547
 Too few of the students were willing to take them.  But I understand
 that they have too much stuff to worry about moving and not wanting
 to take more.
+
+<img src="images/cs2021-mug-front.png" alt="A mug with a picture of a squirrel in a graduation cap and the words 'Noyce 3rd'.  There are multiple signatures."/>
+<img src="images/cs2021-mug-back.png" alt="The same mug, from a different perspective.  More signatures are visible."/>
 
 ---
 
