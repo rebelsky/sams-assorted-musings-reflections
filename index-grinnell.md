@@ -379,3 +379,8 @@ Grinnell.
 
 > Trying to cut back.
 
+[Breathe in, let go (institutional issues, take one)](breathe-in-let-go-grinnell) (Musing #1155)
+
+> Good advice.
+
+
