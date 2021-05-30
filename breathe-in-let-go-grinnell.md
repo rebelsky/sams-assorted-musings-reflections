@@ -1,5 +1,5 @@
 ---
-title: Breathe in, let go (institutional issues, take one)
+title: Breathe in, let go (setting aside institutional issues, take one)
 number: 1155
 tags: [Grinnell](index-grinnell), [Rants](index-rants), long
 blurb: Good advice.
