@@ -1498,3 +1498,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Fragmentary Beatles-related memories](fragmentary-beatles-memories-2021-05-25) (Musing #1152)  
 [Some words for graduating CS majors (and their families) in the class of 2021](cs-seniors-2021) (Musing #1154)  
 [Breathe in, let go (setting aside institutional issues, take one)](breathe-in-let-go-grinnell) (Musing #1155)  
+[Some of SamR's stuff to do](stuff-to-do-2021-05-30) (Musing #1156)  

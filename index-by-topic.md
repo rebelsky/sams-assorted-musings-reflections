@@ -1931,6 +1931,10 @@ Overcommitment
 
 > A lot to do; hopefully not too much.
 
+[Some of SamR's stuff to do](stuff-to-do-2021-05-30) (Musing #1156)
+
+> Not too much!
+
 On teaching 
 -----------
 
