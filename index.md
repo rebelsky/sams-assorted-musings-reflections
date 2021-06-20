@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Some of SamR's stuff to do](stuff-to-do-2021-05-30) (Musing #1156)
+[Discarding stuff](discarding-2021-06-19) (Musing #1157)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

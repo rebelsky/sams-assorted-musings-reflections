@@ -3925,6 +3925,10 @@ Autobiographical essays, more or less
 
 > Fragmentary, like most of my memories.
 
+[Discarding stuff](discarding-2021-06-19) (Musing #1157)
+
+> Or at least offering to discard stuff.
+
 Salary reviews
 --------------
 
