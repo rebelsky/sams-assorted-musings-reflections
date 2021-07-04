@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Discarding stuff](discarding-2021-06-19) (Musing #1157)
+[Random thoughts from a road trip](road-trip-2021-07-04) (Musing #1158)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

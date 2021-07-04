@@ -1500,3 +1500,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Breathe in, let go (setting aside institutional issues, take one)](breathe-in-let-go-grinnell) (Musing #1155)  
 [Some of SamR's stuff to do](stuff-to-do-2021-05-30) (Musing #1156)  
 [Discarding stuff](discarding-2021-06-19) (Musing #1157)  
+[Random thoughts from a road trip](road-trip-2021-07-04) (Musing #1158)  

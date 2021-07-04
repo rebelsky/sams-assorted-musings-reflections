@@ -4899,6 +4899,10 @@ Almost everything else
 
 > Let's make kindness the new norm.
 
+[Random thoughts from a road trip](road-trip-2021-07-04) (Musing #1158)
+
+> Nineteen hours and this is all I could come up with?
+
 Musings with multiple entries
 -----------------------------
 
