@@ -1,5 +1,5 @@
 ---
-title: What are your favorite pieces? (Visiting the Des Moines Art Center)
+title: What are your favorite pieces? --- Visiting the Des Moines Art Center
 number: 1159
 tags: [Miscellaneous](index-misc), Art
 blurb: There are so many!
