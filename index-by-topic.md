@@ -4903,6 +4903,10 @@ Almost everything else
 
 > Nineteen hours and this is all I could come up with?
 
+[What are your favorite pieces? (Visiting the Des Moines Art Center)](art-center-2021-07-15) (Musing #1159)
+
+> There are so many!
+
 Musings with multiple entries
 -----------------------------
 

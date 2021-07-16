@@ -1501,3 +1501,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Some of SamR's stuff to do](stuff-to-do-2021-05-30) (Musing #1156)  
 [Discarding stuff](discarding-2021-06-19) (Musing #1157)  
 [Random thoughts from a road trip](road-trip-2021-07-04) (Musing #1158)  
+[What are your favorite pieces? (Visiting the Des Moines Art Center)](art-center-2021-07-15) (Musing #1159)  

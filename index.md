@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Random thoughts from a road trip](road-trip-2021-07-04) (Musing #1158)
+[What are your favorite pieces? (Visiting the Des Moines Art Center)](art-center-2021-07-15) (Musing #1159)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

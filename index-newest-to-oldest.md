@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 1151-1160
 
+[What are your favorite pieces? (Visiting the Des Moines Art Center)](art-center-2021-07-15) (Musing #1159)  
 [Random thoughts from a road trip](road-trip-2021-07-04) (Musing #1158)  
 [Discarding stuff](discarding-2021-06-19) (Musing #1157)  
 [Some of SamR's stuff to do](stuff-to-do-2021-05-30) (Musing #1156)  
