@@ -4055,6 +4055,17 @@ Some of SamR's obsessions
 
 > There are times that I don't understand myself.
 
+Tales of Tchotchkes
+-------------------
+
+[Preface to Tales of Tchotchkes](tchotchkes-preface) (Musing #1160)
+
+> What is all that stuff?
+
+[Tales of Tchotchkes: An Odd Bodkins Printing Plate](tchotchkes-odd-bodkins) (Musing #1161)
+
+> You gotta begin somewhere
+
 Almost everything else
 ----------------------
 

@@ -1,8 +1,13 @@
 Musings, from newest to oldest
 ==============================
 
+## 1161-1170
+
+[Tales of Tchotchkes: An Odd Bodkins Printing Plate](tchotchkes-odd-bodkins) (Musing #1161)  
+
 ## 1151-1160
 
+[Preface to Tales of Tchotchkes](tchotchkes-preface) (Musing #1160)  
 [What are your favorite pieces? (Visiting the Des Moines Art Center)](art-center-2021-07-15) (Musing #1159)  
 [Random thoughts from a road trip](road-trip-2021-07-04) (Musing #1158)  
 [Discarding stuff](discarding-2021-06-19) (Musing #1157)  

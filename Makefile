@@ -90,6 +90,7 @@ INDICES = index-by-topic-head.md \
         index-rof.md \
         index-email.md \
         index-obsessions.md \
+	index-tchotchkes.md \
 	index-misc.md \
         index-multiple-entries.md \
 	index-removed.md 

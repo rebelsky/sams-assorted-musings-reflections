@@ -9,8 +9,10 @@ If you'd like, you can read [a longer introduction](intro-musings-v0).
 If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
-Latest musing:
-[What are your favorite pieces? (Visiting the Des Moines Art Center)](art-center-2021-07-15) (Musing #1159)
+Latest musings:
+[Preface to Tales of Tchotchkes](tchotchkes-preface) (Musing #1160)
+and
+[Tales of Tchotchkes: An Odd Bodkins Printing Plate](tchotchkes-odd-bodkins) (Musing #1161)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
@@ -47,6 +49,7 @@ Latest musing:
 * [Board, card, and other games](index-games)
 * [Autobiographical essays, more or less](index-autobiographical)
 * [Some of SamR's obsessions](index-obsessions)
+* [Tales of Tchotchkes](index-tchotchkes)
 * [ROF musings](index-rof)
 * [Almost everything else](index-misc)
 
