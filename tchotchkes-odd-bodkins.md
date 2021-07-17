@@ -9,9 +9,10 @@ current:
 ---
 <img src="images/odd-bodkins-plate.png" alt="A printing plate with three Odd Bodkins strips.">
 
-Odd Bodkins is one of my favorite strips.  Or at least Odd Bodkins
 Item: _A printing plate with three Odd Bodkins Comic Strips_  
+
 Location: _South wall of my work office, next to the whiteboard_  
+
 Acquired: _eBay, circa 2019_  
 
 ---
@@ -20,6 +21,7 @@ Today's office tchotchke is a printing plate for three of Dan
 O'Neill's "Odd Bodkins" comic strips that I bought on eBay a few
 years ago.
 
+Odd Bodkins is one of my favorite strips.  Or at least Odd Bodkins
 *was* one of my favorite strips; it hasn't been published in years,
 and I don't think I've looked at any of my Odd Bodkins collections
 in a long while.  But when I was in high school, it was perfect for
