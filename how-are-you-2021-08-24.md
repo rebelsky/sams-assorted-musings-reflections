@@ -139,6 +139,12 @@ Perhaps the answer to that original question should be,
 
 ---
 
+_Postscript_: I got to see live music with close friends and marvelous
+musicians the other night.  That was amazing.  Good for my soul and
+my mood.  I need to remember to channel that feeling more.
+
+---
+
 [1] My esteemed colleague, Andi Tracy, regularly reminds us that *no one*
 functions well on insufficient sleep.
 
