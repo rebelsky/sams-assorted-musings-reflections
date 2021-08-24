@@ -9,10 +9,8 @@ If you'd like, you can read [a longer introduction](intro-musings-v0).
 If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
-Latest musings:
-[Preface to Tales of Tchotchkes](tchotchkes-preface) (Musing #1160)
-and
-[Tales of Tchotchkes: An Odd Bodkins Printing Plate](tchotchkes-odd-bodkins) (Musing #1161)
+Latest musing:
+[How are you, Sam?](how-are-you-2021-08-24) (Musing #1162)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

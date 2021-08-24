@@ -3929,6 +3929,10 @@ Autobiographical essays, more or less
 
 > Or at least offering to discard stuff.
 
+[How are you, Sam?](how-are-you-2021-08-24) (Musing #1162)
+
+> Pretty good.  Often great.
+
 Salary reviews
 --------------
 

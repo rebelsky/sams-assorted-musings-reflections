@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 1161-1170
 
+[How are you, Sam?](how-are-you-2021-08-24) (Musing #1162)  
 [Tales of Tchotchkes: An Odd Bodkins Printing Plate](tchotchkes-odd-bodkins) (Musing #1161)  
 
 ## 1151-1160
