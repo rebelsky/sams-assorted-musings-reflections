@@ -3096,6 +3096,9 @@ Grinnell.
 
 > Good advice.
 
+[First-Year Registration, Fall 2021](first-year-registration-2021-08-28) (Musing #1163)
+
+> Not a derecho, but perhaps some other kind of storm.
 
 Registration and Related Topics
 -------------------------------

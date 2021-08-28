@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[How are you, Sam?](how-are-you-2021-08-24) (Musing #1162)
+[First-Year Registration, Fall 2021](first-year-registration-2021-08-28) (Musing #1163)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

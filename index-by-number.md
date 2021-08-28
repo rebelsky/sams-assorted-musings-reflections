@@ -1508,3 +1508,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 
 [Tales of Tchotchkes: An Odd Bodkins Printing Plate](tchotchkes-odd-bodkins) (Musing #1161)  
 [How are you, Sam?](how-are-you-2021-08-24) (Musing #1162)  
+[First-Year Registration, Fall 2021](first-year-registration-2021-08-28) (Musing #1163)  
