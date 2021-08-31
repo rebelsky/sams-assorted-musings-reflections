@@ -850,3 +850,7 @@ Almost everything else
 
 > There are so many!
 
+[A quick and dirty intro to command-line JUnit testing](junit-2021-08-30) (Musing #1164)
+
+> Perhaps not so quick.  Definitely way too dirty.
+

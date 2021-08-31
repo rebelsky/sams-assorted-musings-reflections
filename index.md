@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[First-Year Registration, Fall 2021](first-year-registration-2021-08-28) (Musing #1163)
+[A quick and dirty intro to command-line JUnit testing](junit-2021-08-30) (Musing #1164)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
