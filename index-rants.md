@@ -594,3 +594,7 @@ Rants
 
 > I try to change, but it's hard.
 
+[What does HP stand for?](hp-2021-09-07) (Musing #1165)
+
+> I hate computers (and printers).
+

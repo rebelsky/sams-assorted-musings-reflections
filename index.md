@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[A quick and dirty intro to command-line JUnit testing](junit-2021-08-30) (Musing #1164)
+[What does HP stand for?](hp-2021-09-07) (Musing #1165)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

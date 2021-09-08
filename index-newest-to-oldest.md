@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 1161-1170
 
+[What does HP stand for?](hp-2021-09-07) (Musing #1165)  
 [A quick and dirty intro to command-line JUnit testing](junit-2021-08-30) (Musing #1164)  
 [First-Year Registration, Fall 2021](first-year-registration-2021-08-28) (Musing #1163)  
 [How are you, Sam?](how-are-you-2021-08-24) (Musing #1162)  
