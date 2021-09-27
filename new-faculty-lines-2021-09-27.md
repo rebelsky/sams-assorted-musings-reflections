@@ -3,7 +3,7 @@ title: New faculty lines
 number: 1166
 tags: [Grinnell](index-grinnell)
 blurb: Why do I always see the negative?
-version: 1.1.1
+version: 1.1.2
 released: 2021-09-27
 current: 2021-09-27
 ---
@@ -124,12 +124,12 @@ more staffing.
 We are currently the largest department in terms of the number of
 majors and have been for the past four or so years.  We are not
 even in the top five in terms of the number of regular FTE faculty
-[7].  Two years ago, we had eight regular FTE faculty.  We're
-currently at six.  We're hiring one this year [8] and expect approval
-to hire another next year [9].  But eight faculty is not enough to
-support 120 majors [10].  We can barely offer the curriculum for this
-many majors with nine.  Ten is more appropriate, particularly when
-you consider issues like advising load.
+[7].  Two years ago, we were approved to go to eight regular FTE
+faculty.  We're currently at six.  We're hiring one this year [8]
+and expect approval to hire another next year [9].  But eight faculty
+is not enough to support 120 majors [10].  We can barely offer the
+curriculum for this many majors with nine.  Ten is more appropriate,
+particularly when you consider issues like advising load.
 
 **1** position in _Theatre_ (Literature).  Remember when I mentioned
 the positions that departments lost?  Theatrical literature was one
