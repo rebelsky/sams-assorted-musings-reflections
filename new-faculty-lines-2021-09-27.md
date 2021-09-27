@@ -1,9 +1,9 @@
 ---
 title: New faculty lines
 number: 1166
-tags: [Grinnell]
+tags: [Grinnell](index-grinnell)
 blurb: Why do I always see the negative?
-version: 1.1
+version: 1.1.1
 released: 2021-09-27
 current: 2021-09-27
 ---
