@@ -1511,3 +1511,5 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [First-Year Registration, Fall 2021](first-year-registration-2021-08-28) (Musing #1163)  
 [A quick and dirty intro to command-line JUnit testing](junit-2021-08-30) (Musing #1164)  
 [What does HP stand for?](hp-2021-09-07) (Musing #1165)  
+[New faculty lines](new-faculty-lines-2021-09-27) (Musing #1166)  
+[The speed of radix sort](radix-sort-2021-10-01) (Musing #1167)  

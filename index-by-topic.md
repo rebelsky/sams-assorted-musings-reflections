@@ -3104,6 +3104,10 @@ Grinnell.
 
 > Not a derecho, but perhaps some other kind of storm.
 
+[New faculty lines](new-faculty-lines-2021-09-27) (Musing #1166)
+
+> Why do I always see the negative?
+
 Registration and Related Topics
 -------------------------------
 
@@ -4932,6 +4936,10 @@ Almost everything else
 [A quick and dirty intro to command-line JUnit testing](junit-2021-08-30) (Musing #1164)
 
 > Perhaps not so quick.  Definitely way too dirty.
+
+[The speed of radix sort](radix-sort-2021-10-01) (Musing #1167)
+
+> More joy with C
 
 Musings with multiple entries
 -----------------------------

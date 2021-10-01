@@ -387,3 +387,7 @@ Grinnell.
 
 > Not a derecho, but perhaps some other kind of storm.
 
+[New faculty lines](new-faculty-lines-2021-09-27) (Musing #1166)
+
+> Why do I always see the negative?
+

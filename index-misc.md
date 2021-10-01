@@ -854,3 +854,7 @@ Almost everything else
 
 > Perhaps not so quick.  Definitely way too dirty.
 
+[The speed of radix sort](radix-sort-2021-10-01) (Musing #1167)
+
+> More joy with C
+

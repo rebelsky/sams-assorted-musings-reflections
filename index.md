@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[What does HP stand for?](hp-2021-09-07) (Musing #1165)
+[The speed of radix sort](radix-sort-2021-10-01) (Musing #1167)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
