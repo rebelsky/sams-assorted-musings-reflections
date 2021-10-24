@@ -3,9 +3,9 @@ title: Worse than Sedona?  Initial encounters with Interfolio
 number: 1169
 tags: [Academia](index-academia), Rants
 blurb: Definitely worse.
-version: 1.0
+version: 1.1
 released: 2021-10-23
-current:
+current: 2021-10-23
 ---
 For too many years, faculty members at Grinnell have had to report
 their work and accomplishments using [Sedona](https://sedonaweb.com).
@@ -272,6 +272,16 @@ suffer as much as we do.
 assistant who has to manage Interfolio, including dealing with the
 slew of questions from annoying folks like me.  And yes, I've tried to
 limit the questions I've sent.
+
+---
+
+**Postscript**: You may be wondering why I don't pass all of this work
+on to one of our Academic Assistants.  In part, it's because I don't think
+they should suffer any more than we should; as I said, I think the
+Administrators, rather than the Academic Assistants, should be the
+ones who suffer for the decisions.  In part, it's because they don't
+know the answers to the round peg/square hold questions and it takes
+just as much time to get back to them on those.
 
 ---
 
