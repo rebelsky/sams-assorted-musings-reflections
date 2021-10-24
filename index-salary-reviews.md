@@ -37,3 +37,7 @@ Salary reviews
 
 > Trying to figure out what score I think I deserve.
 
+[Another (not-quite) triennial salary review](salary-review-2021-10-23) (Musing #1168)
+
+> This one is quadrennial!
+

@@ -1628,6 +1628,10 @@ On life in academia
 
 > It's part of the job.
 
+[Worse than Sedona?  My encounters with Interfolio](worse-than-sedona-2021-10-23) (Musing #1169)
+
+> Definitely worse.
+
 Thank-You Notes
 ---------------
 
@@ -3982,6 +3986,10 @@ Salary reviews
 [Rating myself](rating-myself-2017) (Musing #477)
 
 > Trying to figure out what score I think I deserve.
+
+[Another (not-quite) triennial salary review](salary-review-2021-10-23) (Musing #1168)
+
+> This one is quadrennial!
 
 ROF musings
 -----------

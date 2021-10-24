@@ -77,3 +77,7 @@ On life in academia
 
 > It's part of the job.
 
+[Worse than Sedona?  My encounters with Interfolio](worse-than-sedona-2021-10-23) (Musing #1169)
+
+> Definitely worse.
+

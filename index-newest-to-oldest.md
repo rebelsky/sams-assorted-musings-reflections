@@ -3,6 +3,8 @@ Musings, from newest to oldest
 
 ## 1161-1170
 
+[Worse than Sedona?  My encounters with Interfolio](worse-than-sedona-2021-10-23) (Musing #1169)  
+[Another (not-quite) triennial salary review](salary-review-2021-10-23) (Musing #1168)  
 [The speed of radix sort](radix-sort-2021-10-01) (Musing #1167)  
 [New faculty lines](new-faculty-lines-2021-09-27) (Musing #1166)  
 [What does HP stand for?](hp-2021-09-07) (Musing #1165)  
