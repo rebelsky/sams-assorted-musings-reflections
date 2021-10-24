@@ -3,9 +3,9 @@ title: Another (not-quite) triennial salary review
 number: 1168
 tags: [Salary reviews](index-salary-reviews), long, things I had to write
 blurb: This one is quadrennial!
-version: 0.1
-released: 2021-10-22
-current: 2021-10-22
+version: 1.1
+released: 2021-10-23
+current: 2021-10-23
 ---
 It's time, once again, for my [triennial salary
 review](triennial-salary-reviews) [1]. Michelle asks me why I bother
@@ -254,7 +254,7 @@ Chairing the department during a pandemic involved a host of
 adjustments as well as running interference for my faculty.  I also
 had to represent the department as ITS repeatedly instituted new
 policies without considering the impact on a department that creates
-software as part of its curriculum.  <!-- "You can't recommend software
+software as part of its curriculum [7].  <!-- "You can't recommend software
 to students." "You can't use the software you write."  "You can't
 distribute the software you write to people outside the College."
 "If you use unapproved software, we will terminate you."  I had to
@@ -353,7 +353,7 @@ about ten hours per week as part of the Tapia 2021 Infrastructure
 Committee.
 
 Are those times right?  I'm not sure.  But we were told to approximate.
-And I don't log my life [7].  But, um, I do seem to spend a lot of
+And I don't log my life [8].  But, um, I do seem to spend a lot of
 time on service.  Fortunately, most of it is valuable.  At least I
 think it's valuable.
 
@@ -384,14 +384,14 @@ a strange blank line in the middle.
 
 ---
 
-Teaching. Scholarship. Service.  The big three [9].  Are we done yet?
+Teaching. Scholarship. Service.  The big three [10].  Are we done yet?
 Nope!  There's an optional question.
 
 **If the above have missed any significant activities during the review period, you may describe them here.**
 
 Was there anything else significant?  Nope, I don't think so. Oh,
 wait!  I took Ralph's class on creative nonfiction.  That was quite
-significant to me [10].  It's probably not significant to the Faculty
+significant to me [11].  It's probably not significant to the Faculty
 Salary Committee.
 
 Speaking of writing, "have missed" feels wrong to me, even if
@@ -501,7 +501,7 @@ asked this in Sedona, so we're asking it in Interfolio."  As I noted
 earlier, I expect that contributions to diversity (broadly defined, I
 hope) will eventually become part of our salary rubric.  But this?  As far
 as I know, contributions to student research relate much more to our
-ability to take year-long sabbaticals [11].  They have little to do
+ability to take year-long sabbaticals [12].  They have little to do
 with [our salary rubric](https://grinco.sharepoint.com/sites/dean/Fac_Resources/Faculty_Salary_Criteria.pdf), other than that supporting MAPs counts.
 However, the Salary Committee can take MAP info directly from the list
 of courses they receive.  So why write this?  Maybe so that I have it
@@ -529,7 +529,7 @@ I hope that this year and next will bring added clarity.
 Isn't that a positive ending note?  But it's true.  The only people
 who seem to think it's a good idea that I take lots of students are
 the students themselves and a selected set of colleagues. But those
-in power?  Nope.  And I'm sick of fighting about it [15].
+in power?  Nope.  And I'm sick of fighting about it [16].
 
 ---
 
@@ -573,7 +573,7 @@ For teaching, I have some low scores.  But I think they are
 explainable.  I definitely hit "B. Advising an especially large
 number of students per semester, during the semesters in which the
 faculty member taught".  Hey, I even hit it during semesters in
-which I was on leave [17].  "C. Teaching classes outside of core
+which I was on leave [18].  "C. Teaching classes outside of core
 competencies, especially service courses like tutorial and statistics."
 Check.  I taught Tutorial.  Potentially, HCI counts here, too.  "D.
 Teaching independent studies, guided readings, for-credit internships,
@@ -586,15 +586,15 @@ CSC-151.  CSC-321 and CSC-322 involve community-based learning.  Should I
 go back and make that explicit in my statement?  Nah.  I'll leave it to
 my Review Chair.
 
-I can't get a 5.  I don't have high outliers [18].  Perhaps a 4.
+I can't get a 5.  I don't have high outliers [19].  Perhaps a 4.
 "Good peer evaluations, self-description of teaching as it appears
 in the Faculty Activities Report and 2 or more additional factors
 that the College values."  I have at least four additional factors
 that the College values.
 
 On to scholarship.  Again, I don't think I deserve a 5.  My work is
-not seminal [19].  But it did get an award.  If I count correctly,
-I published four refereed, anonymously reviewed [19], conference papers,
+not seminal [20].  But it did get an award.  If I count correctly,
+I published four refereed, anonymously reviewed [20], conference papers,
 one of which got an award.  There were some posters, panels, and BoFs.
 I'd hope that's enough for a 4.
 
@@ -623,14 +623,14 @@ I just wish we had combat pay.
 ---
 
 **Postscript**: This plus the CV plus the Interfolio garbage
-represents more than nine hours of work [20].  Another day of my life
+represents more than nine hours of work [21].  Another day of my life
 down the drain.  Michelle's right.  It's probably not worth the
 effort.
 
 ---
 
 **Postscript**: After spending three hours fighting with Interfolio
-[21], I decided to add one more thing to that final open-ended
+[22], I decided to add one more thing to that final open-ended
 section.  Here goes.
 
 > I believe I have covered everything in the comments above and in
@@ -659,40 +659,43 @@ one of the phrases I live by.
 
 [6] Or for completeness' sake.
 
-[7] There was a time that I logged my life.  I don't do so any more.
+[7] Additional details about frustrations with ITS elided from the
+public version.
 
-[8] Someday soon, there will likely be a fourth: IDEA (Inclusion,
-Diversity, Equity, and Accessibility) [9].
+[8] There was a time that I logged my life.  I don't do so any more.
 
-[9] I don't recall where or with whom I was discussing this acronym.
+[9] Someday soon, there will likely be a fourth: IDEA (Inclusion,
+Diversity, Equity, and Accessibility) [10].
+
+[10] I don't recall where or with whom I was discussing this acronym.
 The government added "Accessibility" at the end of "DEI".  I like rearranging
 the letters for a better acronym.  (At least no one used "DIE".)  "AIDE"
 is also not bad.
 
-[10] It may be difficult to tell from this musing, but _The Craft of
+[11] It may be difficult to tell from this musing, but _The Craft of
 Creative Nonfiction_ significantly affected how I approach and reflect
 on my writing.
 
-[11] In order to qualify for a full-year sabbatical, a faculty member
+[12] In order to qualify for a full-year sabbatical, a faculty member
 must contribute at an appropriate level to our "opportunities for all
-interested students to do research" program [12].
+interested students to do research" program [14].
 
-[12] Feel free to insert your own snarky note about the disconnect
+[14] Feel free to insert your own snarky note about the disconnect
 between the College's supposed commitment to this program and its
 failure to provide enough CS faculty to support such opportunities
 for CS majors.  Or you could ask me to write the long rant on what's
-happened with the research opportunities program [14].
+happened with the research opportunities program [15].
 
-[14] The last conversation I've had about it suggested that it's more
+[15] The last conversation I've had about it suggested that it's more
 about providing opportunities in courses, rather than the full-semester
 (and preferably full-summer) opportunities that are more impactful.  But
 if it's focused on opportunities in 300-level courses, what happens to
 the faculty who don't teach 300-level courses.  As I said, I could rant
 and ramble bout many problematic aspects of the program.
 
-[15] That brings up the latest challenge for Sam's attempt to pull
+[16] That brings up the latest challenge for Sam's attempt to pull
 back.  We've been told we can no longer take volunteer summer research
-students [16].  I don't agree with all of the rationales, but I accept
+students [17].  I don't agree with all of the rationales, but I accept
 many of them.  What's the challenge?  Will I be able to avoid asking
 the obvious questions?
 
@@ -707,7 +710,7 @@ at least to match current pay scales at Grinnell?"
 Now that I've written them down, I think I can avoid asking them at
 the next meeting in which this comes up.  At least I hope I can.
 
-[16] I debated about the hyphen in "summer research".  What are
+[17] I debated about the hyphen in "summer research".  What are
 "summer research students"?  Are the students who are doing summer
 research, which would suggest the hyphen?  Are they research students
 during the summer, which would suggest avoiding the hyphen?  Or is
@@ -717,18 +720,18 @@ adjective "volunteer".  I suppose I could write "volunteer, summer,
 research students".  Perhaps one of my more grammatically informed
 sons, students, or colleagues will enlighten me.
 
-[17] Never again.  That is, I will not permit a significant overload
+[18] Never again.  That is, I will not permit a significant overload
 of advisees while on leave.  Perhaps I should say that I'll take none
 while on leave.  I wonder how the College would adjust to that?
 
-[18] I'm still waiting to hear how they are determining outliers.  It's
+[19] I'm still waiting to hear how they are determining outliers.  It's
 a reasonable question.  There aren't all that many statistical tests.
 
-[19] "Blind review" is an inappropriate term.  Here's [a nice
+[20] "Blind review" is an inappropriate term.  Here's [a nice
 explanation as to
 why](https://blog.apaonline.org/2020/02/20/an-end-to-blind-review/).  Don't
 use it.  Complain when you see Interfolio (and others) use it.
 
-[20] Once I finished with Interfolio, it was closer to eleven.
+[21] Once I finished with Interfolio, it was closer to eleven.
 
-[21] As I noted, we'll see more about that in a future musing.
+[22] As I noted, we'll see more about that in a future musing.
