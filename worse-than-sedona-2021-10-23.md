@@ -1,5 +1,5 @@
 ---
-title: Worse than Sedona?  My encounters with Interfolio
+title: Worse than Sedona?  Initial encounters with Interfolio
 number: 1169
 tags: [Academia](index-academia), Rants
 blurb: Definitely worse.

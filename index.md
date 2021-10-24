@@ -12,7 +12,7 @@ please read [this post](intro-musings-sigcse-members).
 Latest musings:
 [Another (not-quite) triennial salary review](salary-review-2021-10-23) (Musing #1168)
 and
-[Worse than Sedona?  My encounters with Interfolio](worse-than-sedona-2021-10-23) (Musing #1169).
+[Worse than Sedona?  Initial encounters with Interfolio](worse-than-sedona-2021-10-23) (Musing #1169).
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
