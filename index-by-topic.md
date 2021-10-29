@@ -1943,6 +1943,10 @@ Overcommitment
 
 > Not too much!
 
+[Back of the (virtual) envelope calculations](envelope-2021-10-28) (Musing #1170)
+
+> Running the numbers.
+
 On teaching 
 -----------
 

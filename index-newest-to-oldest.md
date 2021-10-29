@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 1161-1170
 
+[Back of the (virtual) envelope calculations](envelope-2021-10-28) (Musing #1170)  
 [Worse than Sedona?  Initial encounters with Interfolio](worse-than-sedona-2021-10-23) (Musing #1169)  
 [Another (not-quite) triennial salary review](salary-review-2021-10-23) (Musing #1168)  
 [The speed of radix sort](radix-sort-2021-10-01) (Musing #1167)  

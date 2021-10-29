@@ -9,10 +9,8 @@ If you'd like, you can read [a longer introduction](intro-musings-v0).
 If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
-Latest musings:
-[Another (not-quite) triennial salary review](salary-review-2021-10-23) (Musing #1168)
-and
-[Worse than Sedona?  Initial encounters with Interfolio](worse-than-sedona-2021-10-23) (Musing #1169).
+Latest musing:
+[Back of the (virtual) envelope calculations](envelope-2021-10-28) (Musing #1170)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
