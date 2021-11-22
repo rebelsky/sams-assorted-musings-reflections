@@ -1,6 +1,10 @@
 Musings, from newest to oldest
 ==============================
 
+## 1171-1180
+
+[Preregistration for Spring 2022](prereg-2022Sp) (Musing #1171)  
+
 ## 1161-1170
 
 [Back of the (virtual) envelope calculations](envelope-2021-10-28) (Musing #1170)  

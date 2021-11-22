@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Back of the (virtual) envelope calculations](envelope-2021-10-28) (Musing #1170)
+[Preregistration for Spring 2022](prereg-2022Sp) (Musing #1171)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

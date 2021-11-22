@@ -1516,3 +1516,7 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Another (not-quite) triennial salary review](salary-review-2021-10-23) (Musing #1168)  
 [Worse than Sedona?  Initial encounters with Interfolio](worse-than-sedona-2021-10-23) (Musing #1169)  
 [Back of the (virtual) envelope calculations](envelope-2021-10-28) (Musing #1170)  
+
+## 1171-1180
+
+[Preregistration for Spring 2022](prereg-2022Sp) (Musing #1171)  

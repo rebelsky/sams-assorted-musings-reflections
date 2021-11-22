@@ -85,3 +85,7 @@ the registration process at Grinnell.*
 
 > Some direct effects.
 
+[Preregistration for Spring 2022](prereg-2022Sp) (Musing #1171)
+
+> Preparing for the end
+
