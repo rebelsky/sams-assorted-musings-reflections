@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Preregistration for Spring 2022](prereg-2022Sp) (Musing #1171)
+[Thankful](thankful-2021-11-25) (Musing #1172)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

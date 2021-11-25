@@ -1520,3 +1520,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 ## 1171-1180
 
 [Preregistration for Spring 2022](prereg-2022Sp) (Musing #1171)  
+[Thankful](thankful-2021-11-25) (Musing #1172)  

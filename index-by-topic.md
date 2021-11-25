@@ -3956,6 +3956,10 @@ Autobiographical essays, more or less
 
 > Pretty good.  Often great.
 
+[Thankful](thankful-2021-11-25) (Musing #1172)
+
+> Not just on Thanksgiving.
+
 Salary reviews
 --------------
 

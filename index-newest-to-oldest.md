@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 1171-1180
 
+[Thankful](thankful-2021-11-25) (Musing #1172)  
 [Preregistration for Spring 2022](prereg-2022Sp) (Musing #1171)  
 
 ## 1161-1170
