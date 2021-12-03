@@ -3960,6 +3960,10 @@ Autobiographical essays, more or less
 
 > Not just on Thanksgiving.
 
+[Alone again, naturally](alone-again-2021-12-02) (Musing #1173)
+
+> Why does Sam think in song titles?
+
 Salary reviews
 --------------
 
