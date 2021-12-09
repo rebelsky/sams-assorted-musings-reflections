@@ -3,6 +3,8 @@ Musings, from newest to oldest
 
 ## 1171-1180
 
+[Halfway there](halfway-there-2021-12-09) (Musing #1175)  
+[A Selection of Open Spring 2022 Courses](open-courses-2022Sp) (Musing #1174)  
 [Alone again, naturally](alone-again-2021-12-02) (Musing #1173)  
 [Thankful](thankful-2021-11-25) (Musing #1172)  
 [Preregistration for Spring 2022](prereg-2022Sp) (Musing #1171)  

@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Alone again, naturally](alone-again-2021-12-02) (Musing #1173)
+[Halfway there](halfway-there-2021-12-09) (Musing #1175)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

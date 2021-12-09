@@ -89,3 +89,7 @@ the registration process at Grinnell.*
 
 > Preparing for the end
 
+[A Selection of Open Spring 2022 Courses](open-courses-2022Sp) (Musing #1174)
+
+> "What can I take?"
+

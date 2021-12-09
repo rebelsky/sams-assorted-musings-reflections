@@ -209,6 +209,10 @@ to them eventually._
 
 > Learn the difference.
 
+[Halfway there](halfway-there-2021-12-09) (Musing #1175)
+
+> Inclusion happens gradually.
+
 Meta-musings
 ------------
 
@@ -3206,6 +3210,10 @@ the registration process at Grinnell.*
 [Preregistration for Spring 2022](prereg-2022Sp) (Musing #1171)
 
 > Preparing for the end
+
+[A Selection of Open Spring 2022 Courses](open-courses-2022Sp) (Musing #1174)
+
+> "What can I take?"
 
 A letter to the incoming chair
 ------------------------------

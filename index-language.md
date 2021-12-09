@@ -49,3 +49,7 @@ to them eventually._
 
 > Learn the difference.
 
+[Halfway there](halfway-there-2021-12-09) (Musing #1175)
+
+> Inclusion happens gradually.
+
