@@ -65,3 +65,7 @@ A new CSC 151 (and other aspects of CSC 151)
 
 > Teaching students to write.
 
+[Cite the damn source!](cite-the-damn-source-2021-12-27) (Musing #1176)
+
+> What am I doing wrong?
+

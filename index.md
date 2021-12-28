@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Halfway there](halfway-there-2021-12-09) (Musing #1175)
+[Cite the damn source!](cite-the-damn-source-2021-12-27) (Musing #1176)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

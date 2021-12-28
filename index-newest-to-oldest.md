@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 1171-1180
 
+[Cite the damn source!](cite-the-damn-source-2021-12-27) (Musing #1176)  
 [Halfway there](halfway-there-2021-12-09) (Musing #1175)  
 [A Selection of Open Spring 2022 Courses](open-courses-2022Sp) (Musing #1174)  
 [Alone again, naturally](alone-again-2021-12-02) (Musing #1173)  
