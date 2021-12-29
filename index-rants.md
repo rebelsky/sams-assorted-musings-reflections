@@ -598,3 +598,7 @@ Rants
 
 > I hate computers (and printers).
 
+[(Being required to) Get Outlook for [Fill in device/OS]](get-outlook-2021-12-28) (Musing #1177)
+
+> Mediocre technology, at best.
+

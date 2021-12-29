@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Cite the damn source!](cite-the-damn-source-2021-12-27) (Musing #1176)
+[(Being required to) Get Outlook for [Fill in device/OS]](get-outlook-2021-12-28) (Musing #1177)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

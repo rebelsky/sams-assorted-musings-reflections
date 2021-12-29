@@ -1525,3 +1525,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [A Selection of Open Spring 2022 Courses](open-courses-2022Sp) (Musing #1174)  
 [Halfway there](halfway-there-2021-12-09) (Musing #1175)  
 [Cite the damn source!](cite-the-damn-source-2021-12-27) (Musing #1176)  
+[(Being required to) Get Outlook for [Fill in device/OS]](get-outlook-2021-12-28) (Musing #1177)  
