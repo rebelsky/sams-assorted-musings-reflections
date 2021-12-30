@@ -2,8 +2,8 @@
 title: Disconnected
 number: 1178
 tags: [Autobiographical](index-autobiographical), [Grinnell](index-grinnell)
-blurb: It's only a job.
-version: 0.1
+blurb: It's just a job.
+version: 0.2
 released: 
 current: 2021-12-30
 ---
@@ -13,16 +13,15 @@ I've been fortunate.
 
 Quite fortunate.
 
-Amazingly fortunate.
+Astoundingly fortunate.
 
 &nbsp;
 
 I'm paid to teach, which is my joy, my passion, my vocation.
 
-I've had the privilege to teach incredible people.
-
-People who are incredible in so many ways.  Not just nice, or smart, or
-hard working.  People who can make a difference.  More than that, too.
+I've had the privilege to teach incredible people, people who are
+incredible in so many ways.  Not just nice, or smart, or hard
+working.  People who can make a difference.  More than that, too.
 I can't put it into words.  Let's stick with one word, incredible.
 
 Through teaching, advising, mentoring, promoting, cajoling, and
@@ -32,10 +31,10 @@ incredible people.  I like to think it's a positive difference.
 I've also been able to study things that interest me and to involve
 some of these incredible people in my studies.
 
+I've had many opportunities to write.  Perhaps everyone does.
+
 I've served a discipline I love and an institution that I'd
 become increasingly passionate about.
-
-And I've had many opportunities to write.  I suppose everyone does.
 
 &nbsp;
 
@@ -72,7 +71,7 @@ And pondered.
 And pondered.
 
 Perhaps I've pondered too much.  I've been known to do that from
-time to time.  Perhaps.
+time to time.  Perhaps I haven't pondered enough.  Perhaps.
 
 &nbsp;
 
@@ -94,7 +93,7 @@ And ...
 
 And ...
 
-And I don't have much more to say.
+And I don't have much to add.
 
 &nbsp;
 
@@ -106,18 +105,20 @@ I will continue to teach.
 
 I expect to continue to have the great fortune to teach incredible people.
 
-Perhaps I will still make a difference to them.
+Potentially, I will still make a difference to them.
 
 I will also continue to have the great fortune to work with amazing
-colleagues.  I neglected to mention that before.
+colleagues.  I neglected to mention that before.  I should have.
 
 I will continue to study things that interest me.  I'll continue
 to involve students, at least if there's not too much additional
 needless overhead involved.
 
-I will continue to serve my discipline.
+I will continue to have opportunities to write.  Perhaps everyone does.
 
-I'll continue to have opportunities to write.  I suppose everybody does.
+I will continue to serve the discipline I love.
+
+And I'll continue to do necessary or required administrative work.
 
 &nbsp;
 
