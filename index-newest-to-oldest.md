@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 1171-1180
 
+[Disconnected](disconnected-2021-12-30) (Musing #1178)  
 [(Being required to) Get Outlook for [Fill in device/OS]](get-outlook-2021-12-28) (Musing #1177)  
 [Cite the damn source!](cite-the-damn-source-2021-12-27) (Musing #1176)  
 [Halfway there](halfway-there-2021-12-09) (Musing #1175)  

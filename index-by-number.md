@@ -1526,3 +1526,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Halfway there](halfway-there-2021-12-09) (Musing #1175)  
 [Cite the damn source!](cite-the-damn-source-2021-12-27) (Musing #1176)  
 [(Being required to) Get Outlook for [Fill in device/OS]](get-outlook-2021-12-28) (Musing #1177)  
+[Disconnected](disconnected-2021-12-30) (Musing #1178)  

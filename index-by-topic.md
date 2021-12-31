@@ -3980,6 +3980,10 @@ Autobiographical essays, more or less
 
 > Why does Sam think in song titles?
 
+[Disconnected](disconnected-2021-12-30) (Musing #1178)
+
+> It's just a job.
+
 Salary reviews
 --------------
 

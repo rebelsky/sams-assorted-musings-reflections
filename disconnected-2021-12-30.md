@@ -3,9 +3,9 @@ title: Disconnected
 number: 1178
 tags: [Autobiographical](index-autobiographical), [Grinnell](index-grinnell)
 blurb: It's just a job.
-version: 0.2
-released: 
-current: 2021-12-30
+version: 1.0
+released: 2021-12-30
+current: 
 ---
 It's midway through my twenty-fifth year at Grinnell.
 
@@ -57,10 +57,10 @@ thinking, considering, studying, asking, writing, talking, shouting, screaming,
 crying. 
 
 I've tried to go beyond the harms and hurts, the things that frustrate
-me so much I want to scream, the incursions on academic freedom, the
-broken trust, the policies and procedures that make it harder for
-me to do my job, the silences, the broken web of trust, the easy
-dismissals, the rest.
+me so much I want to scream, the incursions on academic freedom,
+the policies and procedures that make it harder for me to do my
+job, the silences, the broken web of trust, the easy dismissals,
+the failure to value careful language, the rest.
 
 I've pondered what's at the core.
 
@@ -76,7 +76,8 @@ time to time.  Perhaps I haven't pondered enough.  Perhaps.
 &nbsp;
 
 I may have an answer.  It may not be the only answer.  It may not
-even be an accurate answer.  But it may suffice, for the time being.
+even be an accurate answer.  Nonetheless, it may suffice. At least
+it may suffice for the time being.
 
 More than a decade ago, back when Russell K was president, Mark
 Schneider warned us that, unless we were proactive, Grinnell would
@@ -93,7 +94,7 @@ And ...
 
 And ...
 
-And I don't have much to add.
+And I don't have anything to add.
 
 &nbsp;
 
@@ -122,4 +123,4 @@ And I'll continue to do necessary or required administrative work.
 
 &nbsp;
 
-Reminder to self: It's just a job.
+Reminder to self: It's just a job.  
