@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Disconnected](disconnected-2021-12-30) (Musing #1178)
+[Yet another rebuild of the CSC-151 repository](csc151-rebuild-2022-01-03) (Musing #1179)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

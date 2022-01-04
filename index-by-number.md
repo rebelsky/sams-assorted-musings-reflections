@@ -1527,3 +1527,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Cite the damn source!](cite-the-damn-source-2021-12-27) (Musing #1176)  
 [(Being required to) Get Outlook for [Fill in device/OS]](get-outlook-2021-12-28) (Musing #1177)  
 [Disconnected](disconnected-2021-12-30) (Musing #1178)  
+[Yet another rebuild of the CSC-151 repository](csc151-rebuild-2022-01-03) (Musing #1179)  

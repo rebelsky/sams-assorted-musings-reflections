@@ -69,3 +69,7 @@ A new CSC 151 (and other aspects of CSC 151)
 
 > What am I doing wrong?
 
+[Yet another rebuild of the CSC-151 repository](csc151-rebuild-2022-01-03) (Musing #1179)
+
+> Why do I do these things?
+
