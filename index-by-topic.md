@@ -4993,6 +4993,10 @@ Almost everything else
 
 > More joy with C
 
+[A day that should live in infamy](day-infamy-2022-01-06) (Musing #1181)
+
+> January 6, in case you weren't sure.
+
 Musings with multiple entries
 -----------------------------
 

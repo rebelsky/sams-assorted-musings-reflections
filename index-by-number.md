@@ -1529,3 +1529,7 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Disconnected](disconnected-2021-12-30) (Musing #1178)  
 [Yet another rebuild of the CSC-151 repository](csc151-rebuild-2022-01-03) (Musing #1179)  
 [Be more kind](be-more-kind-2022-01-05) (Musing #1180)  
+
+## 1181-1190
+
+[A day that should live in infamy](day-infamy-2022-01-06) (Musing #1181)  

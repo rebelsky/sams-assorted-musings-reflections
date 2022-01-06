@@ -1,6 +1,10 @@
 Musings, from newest to oldest
 ==============================
 
+## 1181-1190
+
+[A day that should live in infamy](day-infamy-2022-01-06) (Musing #1181)  
+
 ## 1171-1180
 
 [Be more kind](be-more-kind-2022-01-05) (Musing #1180)  
