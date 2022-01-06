@@ -1502,6 +1502,10 @@ Rants
 
 > Mediocre technology, at best.
 
+[Be more kind](be-more-kind-2022-01-05) (Musing #1180)
+
+> Please.
+
 Assorted talks and speeches
 ---------------------------
 
