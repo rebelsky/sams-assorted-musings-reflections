@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[A day that should live in infamy](day-infamy-2022-01-06) (Musing #1181)
+[Yet another draft set of learning outcomes for CSC-151](csc151-learning-outcomes-2022-01-07) (Musing #1182)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

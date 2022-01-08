@@ -2573,6 +2573,10 @@ A new CSC 151 (and other aspects of CSC 151)
 
 > Why do I do these things?
 
+[Yet another draft set of learning outcomes for CSC-151](csc151-learning-outcomes-2022-01-07) (Musing #1182)
+
+> Rephrasing the wheel.
+
 Grinnellians you should know (or know about)
 --------------------------------------------
 

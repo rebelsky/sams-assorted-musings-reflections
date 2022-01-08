@@ -1533,3 +1533,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 ## 1181-1190
 
 [A day that should live in infamy](day-infamy-2022-01-06) (Musing #1181)  
+[Yet another draft set of learning outcomes for CSC-151](csc151-learning-outcomes-2022-01-07) (Musing #1182)  

@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 1181-1190
 
+[Yet another draft set of learning outcomes for CSC-151](csc151-learning-outcomes-2022-01-07) (Musing #1182)  
 [A day that should live in infamy](day-infamy-2022-01-06) (Musing #1181)  
 
 ## 1171-1180
