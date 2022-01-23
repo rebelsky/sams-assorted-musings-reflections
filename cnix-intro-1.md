@@ -3,9 +3,9 @@ title: An introduction to "Don't embarrass me; Don't embarrass yourself: Thought
 number: 175
 tags: [Don't embarrass me, don't embarrass yourself: Thoughts on thinking in C and Unix](index-cnix)
 blurb: 
-version: 1.2
+version: 1.2.1
 released: 2017-01-01
-current: 2021-03-31
+current: 2022-01-23
 ---
 
 Welcome to a work [1] that is tentatively entitled _Don't embarrass me;
@@ -70,13 +70,13 @@ students not enrolled still sit in on the course.
 Why am I writing all of it down?  Since I am more used to teaching in
 what our department calls "workshop-style" classes and which many people
 might think of as a "flipped classroom" (students read stuff in advance
-and do work during class), I thought it would be useful to turn some
-of my "lectures" into readings, which should allow a somewhat different
-in-class approach.  This work, as I am referring to it, is my attempt to
-create the appropriate readings to prepare students for in-class work.
-I expect that I'll still expect them to do out-of-class programming
-exercises; we'll probably end up using in-class time to discuss their
-answers to those exercises.
+and do work during class), I thought it would be useful to turn
+some of my "lectures" into readings, which should allow a somewhat
+different in-class approach.  This "work", as I am referring to it,
+represents my attempt to create the appropriate readings to prepare
+students for in-class work.  I expect that I'll still expect them
+to do out-of-class programming exercises; we'll probably end up
+using in-class time to discuss their answers to those exercises.
 
 I'm also writing this stuff down for another reason, one of the reasons
 that I think the course is successful.  My colleague, Jerod Weinman,
@@ -99,7 +99,7 @@ very useful parts.  Beyond that, there's a whole Web of information on
 these topics.
 
 However, I still find it useful to present these materials in a way that
-will make sense to our students, and that reflect my own perspectives on
+will make sense to our students, and that reflects my own perspectives on
 programming and program development.  I also find that each of those books
 is simultaneously too basic (e.g., my students don't really need to learn
 about directory structures; they learned that in CSC-161 [19] and elsewhere)
@@ -155,7 +155,7 @@ the compiler
 [6] Lex is a program that makes it easy to identify the individual
 "parts of speech" in a program; in technical terms, it does "lexical
 analysis".  Yacc does the more complex portions of the compilation [7].
-It's name stands for "Yet another compiler compiler".
+Its name stands for "Yet another compiler compiler".
 
 [7] No, that's not called "Yaking".
 
@@ -168,7 +168,7 @@ values; the "i" in "grind" is pronounced more like "ih" as in "sin"
 I meant) and another way to mean "twist and turn".
 
 [10] These days, address sanitizer or something similar seems to be a
-more common approach.  I'll have to learn that.
+more common approach.  I've used it a bit, but need to use it more.
 
 [11] I don't really lecture.  I talk for a bit, and then ask students
 to answer questions.  In my experience, you learn better by trying and
@@ -180,8 +180,9 @@ a better approach.
 
 [14] Typical Grinnell courses are four credits.
 
-[15] My choice to offer a one-credit course during sabbatical says somehting
-about my personality.
+[15] My choice to offer a one-credit course during a sabbatical
+says something about my personality.  My decision to write something
+like a textbook for the course likely says something similar.
 
 [16] I think that was a compliment.
 
