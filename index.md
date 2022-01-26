@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Yet another draft set of learning outcomes for CSC-151](csc151-learning-outcomes-2022-01-07) (Musing #1182)
+[A grader's guide to CSC-151](graders-guide-151-2022-01-26) (Musing #1183)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

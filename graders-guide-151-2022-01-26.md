@@ -2,7 +2,7 @@
 title: A grader's guide to CSC-151
 number: 1183
 tags: [CSC-151](index-151), Things I had to write anyway
-blurb: 
+blurb: General guidance for my generous graders.
 version: 1.0
 released: 2022-01-26
 current:

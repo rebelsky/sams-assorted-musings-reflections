@@ -77,3 +77,7 @@ A new CSC 151 (and other aspects of CSC 151)
 
 > Rephrasing the wheel.
 
+[A grader's guide to CSC-151](graders-guide-151-2022-01-26) (Musing #1183)
+
+> General guidance for my generous graders.
+
