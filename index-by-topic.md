@@ -1644,6 +1644,10 @@ On life in academia
 
 > Definitely worse.
 
+[A short simulation of normalcy](simulation-normalcy-2022-02-16) (Musing #1184)
+
+> Missing the rest of my job.
+
 Thank-You Notes
 ---------------
 

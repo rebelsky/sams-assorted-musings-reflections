@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 1181-1190
 
+[A short simulation of normalcy](simulation-normalcy-2022-02-16) (Musing #1184)  
 [A grader's guide to CSC-151](graders-guide-151-2022-01-26) (Musing #1183)  
 [Yet another draft set of learning outcomes for CSC-151](csc151-learning-outcomes-2022-01-07) (Musing #1182)  
 [A day that should live in infamy](day-infamy-2022-01-06) (Musing #1181)  
