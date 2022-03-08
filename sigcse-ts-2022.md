@@ -155,6 +155,12 @@ in their 'blogs or other reporting.
 
 ---
 
+**_Postscript_**: I also appreciate that the TS was in Providence, RI,
+which meant that I got to see Eldest Son and one of my best friends
+from college.
+
+---
+
 [1] And for those who are confused by the latecomer with the same initials,
 ACM stands for Association for Computing Machinery [2].
 
