@@ -85,3 +85,7 @@ On life in academia
 
 > Missing the rest of my job.
 
+[The 2022 SIGCSE Technical Symposium](sigcse-ts-2022) (Musing #1185)
+
+> Two years later.
+

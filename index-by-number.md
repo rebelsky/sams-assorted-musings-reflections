@@ -1536,3 +1536,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Yet another draft set of learning outcomes for CSC-151](csc151-learning-outcomes-2022-01-07) (Musing #1182)  
 [A grader's guide to CSC-151](graders-guide-151-2022-01-26) (Musing #1183)  
 [A short simulation of normalcy](simulation-normalcy-2022-02-16) (Musing #1184)  
+[The 2022 SIGCSE Technical Symposium](sigcse-ts-2022) (Musing #1185)  
