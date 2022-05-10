@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 1181-1190
 
+[Dinner with trustees](dinner-with-trustees-2022-05-04) (Musing #1186)  
 [The 2022 SIGCSE Technical Symposium](sigcse-ts-2022) (Musing #1185)  
 [A short simulation of normalcy](simulation-normalcy-2022-02-16) (Musing #1184)  
 [A grader's guide to CSC-151](graders-guide-151-2022-01-26) (Musing #1183)  

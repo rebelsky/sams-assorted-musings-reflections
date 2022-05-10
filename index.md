@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[The 2022 SIGCSE Technical Symposium](sigcse-ts-2022) (Musing #1185)
+[Dinner with trustees](dinner-with-trustees-2022-05-04) (Musing #1186)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

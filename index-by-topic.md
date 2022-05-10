@@ -3152,6 +3152,10 @@ Grinnell.
 
 > Why do I always see the negative?
 
+[Dinner with trustees](dinner-with-trustees-2022-05-04) (Musing #1186)
+
+> Feeling conflicted.
+
 Registration and Related Topics
 -------------------------------
 
