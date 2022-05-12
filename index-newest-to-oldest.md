@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 1181-1190
 
+[Reflections on registration](registration-2022-05-11) (Musing #1188)  
 [Loss](loss-2022-05-09) (Musing #1187)  
 [Dinner with trustees](dinner-with-trustees-2022-05-04) (Musing #1186)  
 [The 2022 SIGCSE Technical Symposium](sigcse-ts-2022) (Musing #1185)  

@@ -1539,3 +1539,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [The 2022 SIGCSE Technical Symposium](sigcse-ts-2022) (Musing #1185)  
 [Dinner with trustees](dinner-with-trustees-2022-05-04) (Musing #1186)  
 [Loss](loss-2022-05-09) (Musing #1187)  
+[Reflections on registration](registration-2022-05-11) (Musing #1188)  

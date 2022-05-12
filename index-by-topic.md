@@ -3251,6 +3251,10 @@ the registration process at Grinnell.*
 
 > "What can I take?"
 
+[Reflections on registration](registration-2022-05-11) (Musing #1188)
+
+> Institutional values in conflict.
+
 A letter to the incoming chair
 ------------------------------
 
