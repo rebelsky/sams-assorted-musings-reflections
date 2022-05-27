@@ -1506,6 +1506,10 @@ Rants
 
 > Please.
 
+[Uploading student work to Gradescope and other bad decisions](gradescope-uploads-2022-05-26) (Musing #1189)
+
+> For each and every action ...
+
 Assorted talks and speeches
 ---------------------------
 
