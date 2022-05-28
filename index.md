@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Uploading student work to Gradescope and other bad decisions](gradescope-uploads-2022-05-26) (Musing #1189)
+[Guns](guns-2022-05-28) (Musing #1190)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

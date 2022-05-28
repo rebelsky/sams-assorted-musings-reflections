@@ -5029,6 +5029,10 @@ Almost everything else
 
 > January 6, in case you weren't sure.
 
+[Guns](guns-2022-05-28) (Musing #1190)
+
+> Feeling hopeless.
+
 Musings with multiple entries
 -----------------------------
 

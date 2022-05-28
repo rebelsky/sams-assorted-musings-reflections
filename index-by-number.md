@@ -1541,3 +1541,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Loss](loss-2022-05-09) (Musing #1187)  
 [Reflections on registration](registration-2022-05-11) (Musing #1188)  
 [Uploading student work to Gradescope and other bad decisions](gradescope-uploads-2022-05-26) (Musing #1189)  
+[Guns](guns-2022-05-28) (Musing #1190)  
