@@ -866,3 +866,7 @@ Almost everything else
 
 > Feeling hopeless.
 
+[Cycles of technology](tech-cycles-2022-06-08) (Musing #1191)
+
+> Can neural networks muse?
+
