@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Cycles of technology](tech-cycles-2022-06-08) (Musing #1191)
+[Young alumni weekend](yaw-2022-06-20) (Musing #1192)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

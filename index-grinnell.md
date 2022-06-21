@@ -395,3 +395,7 @@ Grinnell.
 
 > Feeling conflicted.
 
+[Young alumni weekend](yaw-2022-06-20) (Musing #1192)
+
+> YAW!  Who?
+
