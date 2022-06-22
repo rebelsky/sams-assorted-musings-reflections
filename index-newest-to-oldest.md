@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 1191-1200
 
+[Questions from Young Alumni Weekend](yaw-questions-2022-06-21) (Musing #1193)  
 [Young alumni weekend](yaw-2022-06-20) (Musing #1192)  
 [Cycles of technology](tech-cycles-2022-06-08) (Musing #1191)  
 

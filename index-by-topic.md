@@ -4028,6 +4028,10 @@ Autobiographical essays, more or less
 
 > It's hard to find the words.
 
+[Questions from Young Alumni Weekend](yaw-questions-2022-06-21) (Musing #1193)
+
+> Also answers.
+
 Salary reviews
 --------------
 

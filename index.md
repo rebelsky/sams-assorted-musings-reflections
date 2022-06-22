@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Young alumni weekend](yaw-2022-06-20) (Musing #1192)
+[Questions from Young Alumni Weekend](yaw-questions-2022-06-21) (Musing #1193)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
@@ -48,6 +48,7 @@ Latest musing:
 * [Autobiographical essays, more or less](index-autobiographical)
 * [Some of SamR's obsessions](index-obsessions)
 * [Tales of Tchotchkes](index-tchotchkes)
+* [technology (traditionally troublesome)](index-technology)
 * [ROF musings](index-rof)
 * [Almost everything else](index-misc)
 
