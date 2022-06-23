@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Questions from Young Alumni Weekend](yaw-questions-2022-06-21) (Musing #1193)
+[DNS woes](dns-woes-2022-06-22) (Musing #1194)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
