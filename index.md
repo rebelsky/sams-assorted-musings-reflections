@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[DNS woes](dns-woes-2022-06-22) (Musing #1194)
+[Fifty Years of Title IX](title-ix-2022-06-23) (Musing #1195)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

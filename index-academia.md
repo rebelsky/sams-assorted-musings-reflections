@@ -89,3 +89,7 @@ On life in academia
 
 > Two years later.
 
+[Fifty Years of Title IX](title-ix-2022-06-23) (Musing #1195)
+
+> Sam explores a bit
+

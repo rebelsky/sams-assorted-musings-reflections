@@ -1548,3 +1548,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Cycles of technology](tech-cycles-2022-06-08) (Musing #1191)  
 [Young alumni weekend](yaw-2022-06-20) (Musing #1192)  
 [Questions from Young Alumni Weekend](yaw-questions-2022-06-21) (Musing #1193)  
+[Fifty Years of Title IX](title-ix-2022-06-23) (Musing #1195)  
