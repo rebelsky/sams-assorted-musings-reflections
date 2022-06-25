@@ -1658,7 +1658,11 @@ On life in academia
 
 [Fifty Years of Title IX](title-ix-2022-06-23) (Musing #1195)
 
-> Sam explores a bit
+> Sam explores a bit.
+
+[A Hidden Curriculum](hidden-curriculum-2022-06-24) (Musing #1196)
+
+> One of many.
 
 Thank-You Notes
 ---------------

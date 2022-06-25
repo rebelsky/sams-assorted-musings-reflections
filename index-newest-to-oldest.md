@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 1191-1200
 
+[A Hidden Curriculum](hidden-curriculum-2022-06-24) (Musing #1196)  
 [Fifty Years of Title IX](title-ix-2022-06-23) (Musing #1195)  
 [Questions from Young Alumni Weekend](yaw-questions-2022-06-21) (Musing #1193)  
 [Young alumni weekend](yaw-2022-06-20) (Musing #1192)  
