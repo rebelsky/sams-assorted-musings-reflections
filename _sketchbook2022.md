@@ -1,6 +1,8 @@
 Sketchbook, Summer 2022
 =======================
 
+* Musing 1100: A return to daily musings?
+* Title IX? (June 23)
 * Registration priorities
 * Summer days
 * Setting up a temporary computer
@@ -36,3 +38,6 @@ Less reading and more assignments would have worked better for me personally, we
 Word clouds: "miniscule" is actually from "mini-project".  "problematic" comes
 from "problem".
 
+---
+
+Followup to "It's time for a change."  Maybe musing 1200?  Maybe 1201?
