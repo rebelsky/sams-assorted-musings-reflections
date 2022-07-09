@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[The 2022 SIGCSE Technical Symposium](sigcse-ts-2022) (Musing #1185)
+[A Hidden Curriculum](hidden-curriculum-2022-06-24) (Musing #1196)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
@@ -48,6 +48,7 @@ Latest musing:
 * [Autobiographical essays, more or less](index-autobiographical)
 * [Some of SamR's obsessions](index-obsessions)
 * [Tales of Tchotchkes](index-tchotchkes)
+* [technology (traditionally troublesome)](index-technology)
 * [ROF musings](index-rof)
 * [Almost everything else](index-misc)
 

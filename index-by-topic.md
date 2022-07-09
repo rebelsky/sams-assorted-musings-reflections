@@ -1506,6 +1506,10 @@ Rants
 
 > Please.
 
+[Uploading student work to Gradescope and other bad decisions](gradescope-uploads-2022-05-26) (Musing #1189)
+
+> For each and every action ...
+
 Assorted talks and speeches
 ---------------------------
 
@@ -1651,6 +1655,14 @@ On life in academia
 [The 2022 SIGCSE Technical Symposium](sigcse-ts-2022) (Musing #1185)
 
 > Two years later.
+
+[Fifty Years of Title IX](title-ix-2022-06-23) (Musing #1195)
+
+> Sam explores a bit.
+
+[A Hidden Curriculum](hidden-curriculum-2022-06-24) (Musing #1196)
+
+> One of many.
 
 Thank-You Notes
 ---------------
@@ -3152,6 +3164,14 @@ Grinnell.
 
 > Why do I always see the negative?
 
+[Dinner with trustees](dinner-with-trustees-2022-05-04) (Musing #1186)
+
+> Feeling conflicted.
+
+[Young alumni weekend](yaw-2022-06-20) (Musing #1192)
+
+> YAW!  Who?
+
 Registration and Related Topics
 -------------------------------
 
@@ -3246,6 +3266,10 @@ the registration process at Grinnell.*
 [A Selection of Open Spring 2022 Courses](open-courses-2022Sp) (Musing #1174)
 
 > "What can I take?"
+
+[Reflections on registration](registration-2022-05-11) (Musing #1188)
+
+> Institutional values in conflict.
 
 A letter to the incoming chair
 ------------------------------
@@ -4007,6 +4031,14 @@ Autobiographical essays, more or less
 [Disconnected](disconnected-2021-12-30) (Musing #1178)
 
 > It's just a job.
+
+[Loss](loss-2022-05-09) (Musing #1187)
+
+> It's hard to find the words.
+
+[Questions from Young Alumni Weekend](yaw-questions-2022-06-21) (Musing #1193)
+
+> Also answers.
 
 Salary reviews
 --------------
@@ -5012,6 +5044,14 @@ Almost everything else
 [A day that should live in infamy](day-infamy-2022-01-06) (Musing #1181)
 
 > January 6, in case you weren't sure.
+
+[Guns](guns-2022-05-28) (Musing #1190)
+
+> Feeling hopeless.
+
+[Cycles of technology](tech-cycles-2022-06-08) (Musing #1191)
+
+> Can neural networks muse?
 
 Musings with multiple entries
 -----------------------------

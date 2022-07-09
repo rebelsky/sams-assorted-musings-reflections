@@ -1,8 +1,21 @@
 Musings, from newest to oldest
 ==============================
 
+## 1191-1200
+
+[A Hidden Curriculum](hidden-curriculum-2022-06-24) (Musing #1196)  
+[Fifty Years of Title IX](title-ix-2022-06-23) (Musing #1195)  
+[Questions from Young Alumni Weekend](yaw-questions-2022-06-21) (Musing #1193)  
+[Young alumni weekend](yaw-2022-06-20) (Musing #1192)  
+[Cycles of technology](tech-cycles-2022-06-08) (Musing #1191)  
+
 ## 1181-1190
 
+[Guns](guns-2022-05-28) (Musing #1190)  
+[Uploading student work to Gradescope and other bad decisions](gradescope-uploads-2022-05-26) (Musing #1189)  
+[Reflections on registration](registration-2022-05-11) (Musing #1188)  
+[Loss](loss-2022-05-09) (Musing #1187)  
+[Dinner with trustees](dinner-with-trustees-2022-05-04) (Musing #1186)  
 [The 2022 SIGCSE Technical Symposium](sigcse-ts-2022) (Musing #1185)  
 [A short simulation of normalcy](simulation-normalcy-2022-02-16) (Musing #1184)  
 [A grader's guide to CSC-151](graders-guide-151-2022-01-26) (Musing #1183)  

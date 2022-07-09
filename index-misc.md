@@ -862,3 +862,11 @@ Almost everything else
 
 > January 6, in case you weren't sure.
 
+[Guns](guns-2022-05-28) (Musing #1190)
+
+> Feeling hopeless.
+
+[Cycles of technology](tech-cycles-2022-06-08) (Musing #1191)
+
+> Can neural networks muse?
+
