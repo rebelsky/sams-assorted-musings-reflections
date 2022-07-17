@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[A Hidden Curriculum](hidden-curriculum-2022-06-24) (Musing #1196)
+[I (still) hate computers](email-woes-2022-07-16) (Musing #1197)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

@@ -9,3 +9,7 @@ to/from past musings._
 
 > I hate computers.  Or maybe they hate me.
 
+[I (still) hate computers](email-woes-2022-07-16) (Musing #1197)
+
+> What goes around, comes around
+
