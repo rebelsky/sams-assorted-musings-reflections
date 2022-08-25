@@ -1550,3 +1550,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Questions from Young Alumni Weekend](yaw-questions-2022-06-21) (Musing #1193)  
 [Fifty Years of Title IX](title-ix-2022-06-23) (Musing #1195)  
 [A Hidden Curriculum](hidden-curriculum-2022-06-24) (Musing #1196)  
+[Terminology](terminology-2022-08-25) (Musing #1198)  

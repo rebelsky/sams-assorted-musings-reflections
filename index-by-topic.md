@@ -213,6 +213,10 @@ to them eventually._
 
 > Inclusion happens gradually.
 
+[Terminology](terminology-2022-08-25) (Musing #1198)
+
+> Complicated, but sometimes necessarily so.
+
 Meta-musings
 ------------
 
