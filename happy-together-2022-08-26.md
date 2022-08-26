@@ -55,7 +55,7 @@ In spite of the substitutions, I enjoyed the show.  A lot.  The
 not-Vogues had great harmonies; I really love "Five O'Clock World"
 and their version of "You're The One".  Most of the performers were
 either having fun on stage or were good at faking it [5].  I was
-particularly fond of the Cowsill's performance.  The audience clearly
+particularly fond of the Cowsills' performance.  The audience clearly
 loved the show.  I would have preferred a bit more up-tempo music
 (e.g., if we'd had Mark Lindsey from Paul Revere and the Raiders,
 as originally scheduled, or perhaps even Chuck Negron of Three Dog
