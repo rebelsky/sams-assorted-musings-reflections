@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Terminology](terminology-2022-08-25) (Musing #1198)
+[Unexpected cover bands](happy-together-2022-08-26) (Musing #1199)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

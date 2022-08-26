@@ -35,3 +35,7 @@ things I enjoy.*
 
 > The Rebelsky Book Club continues.
 
+[Unexpected cover bands](happy-together-2022-08-26) (Musing #1199)
+
+> Fascinating.
+

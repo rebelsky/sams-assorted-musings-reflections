@@ -1551,3 +1551,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Fifty Years of Title IX](title-ix-2022-06-23) (Musing #1195)  
 [A Hidden Curriculum](hidden-curriculum-2022-06-24) (Musing #1196)  
 [Terminology](terminology-2022-08-25) (Musing #1198)  
+[Unexpected cover bands](happy-together-2022-08-26) (Musing #1199)  
