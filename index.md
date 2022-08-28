@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Unexpected cover bands](happy-together-2022-08-26) (Musing #1199)
+[Musing Twelve Hundred (more or less)](1200) (Musing #1200)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

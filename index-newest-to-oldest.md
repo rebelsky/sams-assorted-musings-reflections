@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 1191-1200
 
+[Musing Twelve Hundred (more or less)](1200) (Musing #1200)  
 [Unexpected cover bands](happy-together-2022-08-26) (Musing #1199)  
 [Terminology](terminology-2022-08-25) (Musing #1198)  
 [A Hidden Curriculum](hidden-curriculum-2022-06-24) (Musing #1196)  

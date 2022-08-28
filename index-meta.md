@@ -230,3 +230,7 @@ be found in [the list of musings on writing](index-on-writing)._
 
 > Still undecided.
 
+[Musing Twelve Hundred (more or less)](1200) (Musing #1200)
+
+> I've written more than 1200.  So does that makes this more or less?
+
