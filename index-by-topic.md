@@ -4052,6 +4052,10 @@ Autobiographical essays, more or less
 
 > Also answers.
 
+[Thirty-five years!](anniversary-2022-08-29) (Musing #1201)
+
+> Happy anniversary!
+
 Salary reviews
 --------------
 

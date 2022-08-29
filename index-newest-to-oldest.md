@@ -1,6 +1,10 @@
 Musings, from newest to oldest
 ==============================
 
+## 1201-1210
+
+[Thirty-five years!](anniversary-2022-08-29) (Musing #1201)  
+
 ## 1191-1200
 
 [Musing Twelve Hundred (more or less)](1200) (Musing #1200)  

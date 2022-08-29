@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Musing Twelve Hundred (more or less)](1200) (Musing #1200)
+[Thirty-five years!](anniversary-2022-08-29) (Musing #1201)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

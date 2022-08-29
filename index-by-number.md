@@ -1553,3 +1553,7 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Terminology](terminology-2022-08-25) (Musing #1198)  
 [Unexpected cover bands](happy-together-2022-08-26) (Musing #1199)  
 [Musing Twelve Hundred (more or less)](1200) (Musing #1200)  
+
+## 1201-1210
+
+[Thirty-five years!](anniversary-2022-08-29) (Musing #1201)  
