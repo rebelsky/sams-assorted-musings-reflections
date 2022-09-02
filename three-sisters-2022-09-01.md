@@ -3,9 +3,9 @@ title: One of my sets of three sisters
 number: 1202
 tags: [Autobiographical](index-biographical)
 blurb: What else might I have called this?
-version: 0.1
-released: 2022-08-30
-current: 2022-08-29
+version: 1.0
+released: 2022-09-01
+current:
 ---
 At both the opening Scholars' Convocation of the year and the opening
 Community Friday, Dean Montgomery talked about the "Three Sisters"
@@ -27,9 +27,10 @@ a benefit from the squash and two kinds of benefits from the beans; in
 exchange, it only has to benefit the beans.  But I guess it works all right
 for everyone involved, particularly for the people who farm in this way.
 
-In any case, Dean Montgomery asked us to consider our own three sisters,
-at least, as they apply to our professional lives.  For example, they might
-be the traditional triumvirate of teaching, service, and scholarship [1].
+In any case, Dean Montgomery asked us to consider our own three
+sisters.  Perhaps she asked us to consider the three sisters in our
+professional lives.  For example, they might be the traditional
+triumvirate of teaching, service, and scholarship [1].
 
 I've been thinking about the question ever since.  It strikes me
 that I have multiple sets of three sisters, each for a different
@@ -46,7 +47,7 @@ the world.  In some ways, BPC also serves as the fertilizer [2], giving
 me the energy to do my work.
 
 The acronym for another sister also starts with B and ends with C: BJC,
-or the beauty and joy of computing.  The fun that comes with building
+or the Beauty and Joy of Computing.  The fun that comes with building
 programs and algorithms should be available to all, not just a select
 few.  And the joy can motivate folks to study CS.
 
@@ -58,12 +59,14 @@ CS Education more the soil than one of the three plants?  Perhaps.
 But it seems most natural to phrase it as such.  I frequently
 approach the beauty and joy of computing by teaching them or teaching
 with them.  I teach, in no small part, to broaden participation.
-It all goes together.  Should this one be CSG-Ed rather than CSEd?
-That is, should my focus be computing for social good?  Perhaps.
-I know that CSG-Ed is a successful way to approach BPC issues.
-However, I also know that, as much as I appreciate CSG, it's not
-the only focus of my work; computing for the arts and the Digital
-Humanities play greater roles in my approaches [3].
+It all goes together.  
+
+Should this one be CSG-Ed rather than CSEd?  That is, should my
+focus be computing for social good?  Perhaps.  I know that CSG-Ed
+is a successful way to approach BPC issues.  However, I also know
+that, as much as I appreciate CSG, it's not the only focus of my
+work; computing for the arts and the Digital Humanities play greater
+roles in my approaches [3].
 
 I guess that's it.  
 
@@ -95,6 +98,6 @@ embracing mutually supportive activities.
 
 [2] In a good way.
 
-[3] Grammarly says that I should write "more significant roles", but I don't
-think I can judge the significance of each yet, at least not without some
-careful experimentation.
+[3] Grammarly says that I should write "more significant roles",
+but I don't think I can judge the significance of each yet, not
+without careful experimentation.

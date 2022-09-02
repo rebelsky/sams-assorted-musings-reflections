@@ -4056,6 +4056,10 @@ Autobiographical essays, more or less
 
 > Happy anniversary!
 
+[One of my sets of three sisters](three-sisters-2022-09-01) (Musing #1202)
+
+> What else might I have called this?
+
 Salary reviews
 --------------
 

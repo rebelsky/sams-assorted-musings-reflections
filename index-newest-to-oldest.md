@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 1201-1210
 
+[One of my sets of three sisters](three-sisters-2022-09-01) (Musing #1202)  
 [Thirty-five years!](anniversary-2022-08-29) (Musing #1201)  
 
 ## 1191-1200
