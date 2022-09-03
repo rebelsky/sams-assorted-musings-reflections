@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[One of my sets of three sisters](three-sisters-2022-09-01) (Musing #1202)
+[Our Tapia 2022 Prep Session](tapia2022-prep-2022-09-03) (Musing #1203)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

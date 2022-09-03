@@ -53,3 +53,7 @@ Assorted talks and speeches
 
 > Words to share.
 
+[Our Tapia 2022 Prep Session](tapia2022-prep-2022-09-03) (Musing #1203)
+
+> It's good to keep a record.
+
