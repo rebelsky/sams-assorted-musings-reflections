@@ -1559,3 +1559,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Thirty-five years!](anniversary-2022-08-29) (Musing #1201)  
 [One of my sets of three sisters](three-sisters-2022-09-01) (Musing #1202)  
 [Our Tapia 2022 Prep Session](tapia2022-prep-2022-09-03) (Musing #1203)  
+[Corn Mazes](corn-mazes-2022-09-04) (Musing #1204)  

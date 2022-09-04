@@ -5077,6 +5077,10 @@ Almost everything else
 
 > Can neural networks muse?
 
+[Corn Mazes](corn-mazes-2022-09-04) (Musing #1204)
+
+> I think I understand.
+
 Musings with multiple entries
 -----------------------------
 
