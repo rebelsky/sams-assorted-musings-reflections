@@ -39,3 +39,7 @@ things I enjoy.*
 
 > Fascinating.
 
+[Visiting the National Building Museum](national-building-museum-2022-09-05) (Musing #1205)
+
+> Depressing.
+

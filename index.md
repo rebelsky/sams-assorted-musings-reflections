@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Corn Mazes](corn-mazes-2022-09-04) (Musing #1204)
+[Visiting the National Building Museum](national-building-museum-2022-09-05) (Musing #1205)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

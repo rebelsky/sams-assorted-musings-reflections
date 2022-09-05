@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 1201-1210
 
+[Visiting the National Building Museum](national-building-museum-2022-09-05) (Musing #1205)  
 [Corn Mazes](corn-mazes-2022-09-04) (Musing #1204)  
 [Our Tapia 2022 Prep Session](tapia2022-prep-2022-09-03) (Musing #1203)  
 [One of my sets of three sisters](three-sisters-2022-09-01) (Musing #1202)  
