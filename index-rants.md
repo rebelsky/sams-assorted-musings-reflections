@@ -610,3 +610,6 @@ Rants
 
 > For each and every action ...
 
+[Textbooks and Syllabi](textbooks-2022-09-26) (Musing #1206)
+
+> I was good.  I didn't write "WTF".  Well, I didn't write it too many times.
