@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Imposter syndrome](imposter-syndrome-2022-09-27) (Musing #1207)
+[Textbooks and Syllabi](textbooks-2022-09-26) (Musing #1206)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
