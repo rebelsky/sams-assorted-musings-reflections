@@ -399,3 +399,7 @@ Grinnell.
 
 > YAW!  Who?
 
+[Title IX, Men's Soccer, Women Coaches, Grinnell, and Such](soccer-2022-10-27) (Musing #1207)
+
+> The newspaper of record needs to get its records right.
+

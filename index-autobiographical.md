@@ -629,7 +629,3 @@ Autobiographical essays, more or less
 
 > What else might I have called this?
 
-[Imposter syndrome](imposter-syndrome-2022-09-27) (Musing #1207)
-
-> Experiencing it in a new context.
-

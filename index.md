@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Textbooks and Syllabi](textbooks-2022-09-26) (Musing #1206)
+[Title IX, Men's Soccer, Women Coaches, Grinnell, and Such](soccer-2022-10-27) (Musing #1207)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

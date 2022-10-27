@@ -3,7 +3,7 @@ Musings, from newest to oldest
 
 ## 1201-1210
 
-[Imposter syndrome](imposter-syndrome-2022-09-27) (Musing #1207)  
+[Title IX, Men's Soccer, Women Coaches, Grinnell, and Such](soccer-2022-10-27) (Musing #1207)  
 [Textbooks and Syllabi](textbooks-2022-09-26) (Musing #1206)  
 [Visiting the National Building Museum](national-building-museum-2022-09-05) (Musing #1205)  
 [Corn Mazes](corn-mazes-2022-09-04) (Musing #1204)  

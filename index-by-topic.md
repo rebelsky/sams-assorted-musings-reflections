@@ -3187,6 +3187,10 @@ Grinnell.
 
 > YAW!  Who?
 
+[Title IX, Men's Soccer, Women Coaches, Grinnell, and Such](soccer-2022-10-27) (Musing #1207)
+
+> The newspaper of record needs to get its records right.
+
 Registration and Related Topics
 -------------------------------
 
@@ -4070,10 +4074,6 @@ Autobiographical essays, more or less
 [One of my sets of three sisters](three-sisters-2022-09-01) (Musing #1202)
 
 > What else might I have called this?
-
-[Imposter syndrome](imposter-syndrome-2022-09-27) (Musing #1207)
-
-> Experiencing it in a new context.
 
 Salary reviews
 --------------
