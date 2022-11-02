@@ -3,11 +3,11 @@ title: Grinnell's new registration process
 number: 1208
 tags: [Registration](index-registration)
 blurb: An exercise in game theory.
-version: 1.0
+version: 1.0.01
 released: 2022-11-01
-current:
+current: 2022-11-01
 ---
-It's the second half of fall semester.  That means it's time for another round of registration [1].  But this year will not be the same as past years.  Grinnell has a brand new registration process [2].  Don't worry!  It's still uniquely Grinnell and still confusing.  And like anything new in academia, it's causing consternation and worry.
+It's the second half of fall semester.  That means it's time for another registration period [1].  But this year will not be the same as past years.  Grinnell has a brand new registration process [2].  Don't worry!  It's still uniquely Grinnell and still confusing.  And like anything new in academia, it's causing consternation and worry.
 
 Here's how it works.  Or at least here's how I think it works.
 
