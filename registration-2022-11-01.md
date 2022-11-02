@@ -47,13 +47,13 @@ Of course, we all know that equal treatment is not necessarily equitable treatme
 
 That prior paragraph suggests that I've started to move from the process to some additional commentary.  I'll admit that I feel better about the system now than I did at first.  It retains many of the strengths of Grinnell's registration chaos while addressing some important issues.  I'm hopeful that over the long term, we can encode some of those individual situations better or find ways to address them.
 
-What do I see as additional positives?
+What do I see as likely positives?
 
 * We gain much by clarifying our cut policies.  I've been surprised reading some of the policies, particularly since I might have prioritized differently.
 * It seems much less likely that students will be cut from their high-priority courses, not least because they can better indicate those high-priority courses.
 * We won't encounter situations in which a student is cut from two or three courses and has to scramble to find other courses.  In part, that's because we're asking them to plan ahead.  In part, that's because they should have a better sense as to what's available.
 
-What do I see as additional negatives?
+What do I see as postential issues?
 
 * Students will still going be scrambling to add courses round 3, particularly students toward the bottom of round 3 (i.e., second-years and first-years).  It will not necessarily be easy for those students to find courses that fit into their schedule by the time it's their turn.  Some people are confident that this will work out, but we'll have to see.  It may be that students will need to be more willing to experiment with new subjects.
 * Some colleagues have suggested that the system may have hidden biases against students with disabilities, particularly with regard to the first-come, first-served aspect.
@@ -65,13 +65,13 @@ What do I see as additional negatives?
 * I'm not sure what the loss of balancing will do to the system.  It seems like some students who might have been balanced to another section in past semesters won't be able to enroll at all in this model (e.g., because they are a second-year and all the slots are taking by third-years and seniors).  It may be that we have to handle that with other aspects of the priority process.
 * As I've said, it's not necessarily equitable.  I have some students who need three specific classes to make appropriate forward progress.  I have others who only need one.  Our system treats them the same.
 
-We'll certainly see more positives and negatives as the system works itself out.
-
 Some aspects are neither positive nor negative.  Here's one.  Since students can change courses during round one, I expect round one will be an interesting exercise in game theory.  For example, if a student sees that a course is over-enrolled and they are in a low-priority group, it behooves them to switch to another course, even if it is less important.  After all, they will likely be dropped anyway.  This switching seems particularly likely to happen in multi-section courses; since we are no longer going to balance students, students will have to balance themselves.  Unfortunately, students will need to make these decisions with incomplete knowledge.  That is, they will know how many students are enrolled in each class, but they won't know where the other students stand on the priority list.
 
 I look forward to CS students building a tool that helps their peers keep track of enrollment and to Econ students writing a paper or strategy guide on the game theory problem.
 
-This first semester of the new registration system is going to be hard.  And there will be flaws.  The second will likely be better, if only because it will only involve three class years.  After that, I hope we'll be able to work out most of the problems in the system.
+We'll certainly see more benefits and issues as the system works itself out.  And, in spite of the list of potential issues, I consider the new system better than our old one.  I'm having trouble conceiving of a much better one.
+
+Still, this first semester of the new registration system is going to be hard.  And there will be flaws.  The second will likely be better, if only because it will only involve three class years.  After that, I hope we'll be able to work out most of the remaining problems in the process, even if it means changing some parts.
 
 Fingers crossed.
 
