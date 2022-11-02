@@ -1563,3 +1563,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Visiting the National Building Museum](national-building-museum-2022-09-05) (Musing #1205)  
 [Textbooks and Syllabi](textbooks-2022-09-26) (Musing #1206)  
 [Title IX, Men's Soccer, Women Coaches, Grinnell, and Such](soccer-2022-10-27) (Musing #1207)  
+[Grinnell's new registration process](registration-2022-11-01) (Musing #1208)  

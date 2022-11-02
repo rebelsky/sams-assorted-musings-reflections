@@ -3290,6 +3290,10 @@ the registration process at Grinnell.*
 
 > Institutional values in conflict.
 
+[Grinnell's new registration process](registration-2022-11-01) (Musing #1208)
+
+> An exercise in game theory.
+
 A letter to the incoming chair
 ------------------------------
 

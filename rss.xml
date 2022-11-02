@@ -5,7 +5,13 @@
     <link>https://www.cs.grinnell.edu/~rebelsky/musings/</link>
     <description>
       A curmudgeonly faculty member in computer science writes about a variety of topics.
-    </description>
+    <item>
+      <title>Musing #1208: Grinnell's new registration process</title>
+      <link>https://www.cs.grinnell.edu/~rebelsky/musings/registration-2022-11-01</link>
+      <guid>https://www.cs.grinnell.edu/~rebelsky/musings/registration-2022-11-01</guid>
+      <pubDate>Wed, 02 Nov 2022 01:20:50 GMT</pubDate>
+      <description>An exercise in game theory.</description>
+    </item>
     <item>
       <title>Musing #1207: Title IX, Men's Soccer, Women Coaches, Grinnell, and Such</title>
       <link>https://www.cs.grinnell.edu/~rebelsky/musings/soccer-2022-10-27</link>
