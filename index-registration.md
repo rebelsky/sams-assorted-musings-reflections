@@ -101,3 +101,7 @@ the registration process at Grinnell.*
 
 > An exercise in game theory.
 
+[A report on round one of registration for Spring 2023](registration-round-1-spring-2023) (Musing #1209)
+
+> What happened?  What did we learn?
+
