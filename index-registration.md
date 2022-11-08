@@ -105,3 +105,7 @@ the registration process at Grinnell.*
 
 > What happened?  What did we learn?
 
+[Round 2a of Grinnell's new registration process](registration-round2a-2023Sp) (Musing #1210)
+
+> What will happen?
+

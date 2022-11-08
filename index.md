@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[A report on round one of registration for Spring 2023](registration-round-1-spring-2023) (Musing #1209)
+[Round 2a of Grinnell's new registration process](registration-round2a-2023Sp) (Musing #1210)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
