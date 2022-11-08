@@ -1,12 +1,14 @@
 ---
 title: Round 2a of Grinnell's new registration process
 number: 1210
-tags: [Registration](index-registration)
+tags: [Registration](index-registration), rambly
 blurb: What will happen?
-version: 0.1
+version: 1.0
 released: 2022-11-08
 current: 
 ---
+_I didn't proofread/edit this musing, either_.
+
 Today was round 2a of Grinnell's new registration process.  Seniors who were cut from courses had the option to bring their schedule back up to nine credits, on a first-come, first-served basis.
 
 I got up early to see how my advisees were doing.  I was a bit surprised to see that the cuts had not been made as of 6:55 a.m.  Or at least it looked like the cuts had not been made; many classes were still over-enrolled.  They remained that way through at least 8:00 a.m.  It appears that making the cuts was not quite as easy as had been expected.  Or maybe it was just more time-consuming.  Or perhaps I just misunderstood the plans.
@@ -114,6 +116,8 @@ I've learned that there are a few generous faculty who increase capacity in some
 I've learned that I don't understand numbers at this point.  There are a lot of amazing classes left that I assume will fill in round 3.
 
 I've learned that students don't completely understand the system.
+
+I've learned that our various systems for reporting enrollment numbers don't match.  For example, if I look up CSC-312 in [Search Schedule of Courses](https://colss-prod.ec.grinnell.edu/Student/Student/Courses/Search), I see that it's over-enrolled by one with a wait list of one.  But if I look in our [course offerings report](https://odsstu.grinnell.edu/reports/report/RGS/Catalog%20and%20Courses/Course_Offering_0007), I see that it's full, but not over-enrolled.  If I look under the "Course Plan" screen for a student on SelfService, I see that it has a wait list of four.
 
 I look forward to learning more.
 
