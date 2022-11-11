@@ -1566,3 +1566,7 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Grinnell's new registration process](registration-2022-11-01) (Musing #1208)  
 [A report on round one of registration for Spring 2023](registration-round-1-spring-2023) (Musing #1209)  
 [Round 2a of Grinnell's new registration process](registration-round2a-2023Sp) (Musing #1210)  
+
+## 1211-1220
+
+[The end of Round 2 of Registration for Spring 2023](registration-round2-2023Sp) (Musing #1211)  

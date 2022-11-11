@@ -109,3 +109,7 @@ the registration process at Grinnell.*
 
 > What will happen?
 
+[The end of Round 2 of Registration for Spring 2023](registration-round2-2023Sp) (Musing #1211)
+
+> More complaints, different data.
+

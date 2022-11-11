@@ -1,6 +1,10 @@
 Musings, from newest to oldest
 ==============================
 
+## 1211-1220
+
+[The end of Round 2 of Registration for Spring 2023](registration-round2-2023Sp) (Musing #1211)  
+
 ## 1201-1210
 
 [Round 2a of Grinnell's new registration process](registration-round2a-2023Sp) (Musing #1210)  
