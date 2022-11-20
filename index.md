@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[The end of Round 2 of Registration for Spring 2023](registration-round2-2023Sp) (Musing #1211)
+[Bad UI design](bad-ui-design-2022-11-19) (Musing #1212)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
