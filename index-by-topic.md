@@ -1521,6 +1521,11 @@ Rants
 [Textbooks and Syllabi](textbooks-2022-09-26) (Musing #1206)
 
 > I was good.  I didn't write "WTF".  Well, I didn't write it too many times.
+
+[Bad UI design](bad-ui-design-2022-11-19) (Musing #1212)
+
+> Illustrated!
+
 Assorted talks and speeches
 ---------------------------
 
