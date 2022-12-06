@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Bad UI design](bad-ui-design-2022-11-19) (Musing #1212)
+[Fun with Dell service](dell-rant-2022-12-05) (Musing #1213)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

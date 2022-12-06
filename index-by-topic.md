@@ -1526,6 +1526,10 @@ Rants
 
 > Illustrated!
 
+[Fun with Dell service](dell-rant-2022-12-05) (Musing #1213)
+
+> Why do they make easy things so hard?
+
 Assorted talks and speeches
 ---------------------------
 
