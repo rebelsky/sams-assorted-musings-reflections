@@ -1572,3 +1572,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [The end of Round 2 of Registration for Spring 2023](registration-round2-2023Sp) (Musing #1211)  
 [Bad UI design](bad-ui-design-2022-11-19) (Musing #1212)  
 [Fun with Dell service](dell-rant-2022-12-05) (Musing #1213)  
+[Canoes and Cinderblocks and Cases, oh my!](chen-2023-02-24) (Musing #1214)  

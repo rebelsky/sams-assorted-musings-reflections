@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Fun with Dell service](dell-rant-2022-12-05) (Musing #1213)
+[Canoes and Cinderblocks and Cases, oh my!](chen-2023-02-24) (Musing #1214)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

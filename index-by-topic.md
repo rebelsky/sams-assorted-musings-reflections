@@ -2795,6 +2795,10 @@ Grinnellians you should know (or know about)
 
 > Mentor, architect of CS at Grinnell, educator, and beyond
 
+[Canoes and Cinderblocks and Cases, oh my!](chen-2023-02-24) (Musing #1214)
+
+> People I'm fortunate to know.
+
 About Grinnell
 --------------
 
