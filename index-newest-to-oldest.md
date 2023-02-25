@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 1211-1220
 
+[Losing Great Grinnellians](caulkins-et-al-2023-02-25) (Musing #1215)  
 [Canoes and Cinderblocks and Cases, oh my!](chen-2023-02-24) (Musing #1214)  
 [Fun with Dell service](dell-rant-2022-12-05) (Musing #1213)  
 [Bad UI design](bad-ui-design-2022-11-19) (Musing #1212)  

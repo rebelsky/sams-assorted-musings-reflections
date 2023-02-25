@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Canoes and Cinderblocks and Cases, oh my!](chen-2023-02-24) (Musing #1214)
+[Losing Great Grinnellians](caulkins-et-al-2023-02-25) (Musing #1215)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

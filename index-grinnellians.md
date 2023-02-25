@@ -172,3 +172,7 @@ Grinnellians you should know (or know about)
 
 > People I'm fortunate to know.
 
+[Losing Great Grinnellians](caulkins-et-al-2023-02-25) (Musing #1215)
+
+> Too many!
+
