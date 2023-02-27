@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Losing Great Grinnellians](caulkins-et-al-2023-02-25) (Musing #1215)
+["I miss your musings"](missing-musings-2023-02-26) (Musing #1216)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
