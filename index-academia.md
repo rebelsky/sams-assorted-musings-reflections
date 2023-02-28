@@ -97,3 +97,7 @@ On life in academia
 
 > One of many.
 
+[Graduate Student Strikes](unions-2023-02-27) (Musing #1217)
+
+> The issues seem more complex than I'd originally thought.
+

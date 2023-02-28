@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-["I miss your musings"](missing-musings-2023-02-26) (Musing #1216)
+[Graduate Student Strikes](unions-2023-02-27) (Musing #1217)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

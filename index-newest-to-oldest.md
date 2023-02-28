@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 1211-1220
 
+[Graduate Student Strikes](unions-2023-02-27) (Musing #1217)  
 ["I miss your musings"](missing-musings-2023-02-26) (Musing #1216)  
 [Losing Great Grinnellians](caulkins-et-al-2023-02-25) (Musing #1215)  
 [Canoes and Cinderblocks and Cases, oh my!](chen-2023-02-24) (Musing #1214)  
