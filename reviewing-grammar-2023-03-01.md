@@ -3,9 +3,9 @@ title: Preliminary reflections on whether reviews of professional work should in
 number: 1219
 tags: [Academia](index-academia), SIGCSE TS, rambly
 blurb: Wow, that's a long title.
-version: 1.0 
+version: 1.0.1
 released: 2023-03-01
-current: 
+current: 2023-03-02
 ---
 _Disclaimer: This musing represents my rough and preliminary thoughts on a topic. As the note in the footer suggests, they are in no way intended to represent policies or practices of the Association of Computing Machinery's Special Interest Group on Computer Science Education (ACM SIGCSE), the corresponding SIGCSE Technical Symposium, or the various leaders associated with SIGCSE or the Technical Symposium._
 
@@ -86,3 +86,4 @@ I should review my notes from the discussions so far, at least the notes I can f
 [12] Yay! More volunteers are needed.
 
 [14] Hmmm ... I don't see an explicit session for the discussion of reviewing on [the agenda](https://sigcse2023.sigcse.org/program/program-sigcse-ts-2023/).   That puzzles me. There are, however, some workshops by great people on peer reviewing. I hope that I can find a way to attend one of those.
+
