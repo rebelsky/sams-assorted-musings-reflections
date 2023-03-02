@@ -43,3 +43,7 @@ things I enjoy.*
 
 > Depressing.
 
+[A joyful afternoon with Dan and Claudia Zanes](zanes-2023-02-28) (Musing #1218)
+
+> So much fun!
+

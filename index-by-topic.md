@@ -1696,6 +1696,10 @@ On life in academia
 
 > The issues seem more complex than I'd originally thought.
 
+[Preliminary reflections on whether reviews of professional work should include comments on grammar and style](reviewing-grammar-2023-03-01) (Musing #1219)
+
+> Wow, that's a long title.
+
 Thank-You Notes
 ---------------
 
@@ -3426,6 +3430,10 @@ things I enjoy.*
 [Visiting the National Building Museum](national-building-museum-2022-09-05) (Musing #1205)
 
 > Depressing.
+
+[A joyful afternoon with Dan and Claudia Zanes](zanes-2023-02-28) (Musing #1218)
+
+> So much fun!
 
 Mixtapes
 --------

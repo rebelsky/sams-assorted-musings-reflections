@@ -1576,3 +1576,5 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Losing Great Grinnellians](caulkins-et-al-2023-02-25) (Musing #1215)  
 ["I miss your musings"](missing-musings-2023-02-26) (Musing #1216)  
 [Graduate Student Strikes](unions-2023-02-27) (Musing #1217)  
+[A joyful afternoon with Dan and Claudia Zanes](zanes-2023-02-28) (Musing #1218)  
+[Preliminary reflections on whether reviews of professional work should include comments on grammar and style](reviewing-grammar-2023-03-01) (Musing #1219)  
