@@ -403,3 +403,7 @@ Grinnell.
 
 > The newspaper of record needs to get its records right.
 
+[On group advising](group-advising-2023-03-05) (Musing #1220)
+
+> I don't get it.
+

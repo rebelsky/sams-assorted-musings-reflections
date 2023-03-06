@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Preliminary reflections on whether reviews of professional work should include comments on grammar and style](reviewing-grammar-2023-03-01) (Musing #1219)
+[On group advising](group-advising-2023-03-05) (Musing #1220)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
