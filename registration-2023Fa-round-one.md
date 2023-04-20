@@ -3,9 +3,9 @@ title: Round one of registration for Fall 2023
 number: 1221
 tags: [Registration](index-registration), end-notable, long, only moderately rambly
 blurb: The experiment continues!
-version:1.0
+version:1.0.1
 released: 2023-04-19
-current: 
+current: 2023-04-19
 ---
 _**I wrote this a few days ago but forgot to post it.**_
 
@@ -13,7 +13,7 @@ Here at Grinnell, we've just finished the first round of registration for Fall 2
 
 A few things need to happen as we prepare for registration.
 
-* Students meet with their academic advisors to select courses for the call.  Ideally, this involves considering what areas of growth the student should emphasize and what might be missing from the student's current liberal arts education. In addition, it will likely include the consideration of "fallback" courses to account for situations in which students do not get all of the courses they want.
+* Students meet with their academic advisors to select courses for the fall.  Ideally, this involves considering what areas of growth the student should emphasize and what might be missing from the student's current liberal arts education. In addition, it will likely include the consideration of "fallback" courses to account for situations in which students do not get all of the courses they want.
 * The Registrar sets the course cap of each course at 100 students.  That permits courses to over-enroll and eliminates the issues associated with a "first-come, first-served" approach [2].
 * Departments develop priority policies for each course.  These policies help determine who is selected to enroll in a course and the order in which students come off the waiting list.  For example, in CS, we prioritize majors for 300-level courses, in order of seniority from seniors to second-years [3].  But we also prioritize each major having at least one 300-level CS course.  At the 100 level, we prioritize students with no declared major since they are prospective majors.
 
