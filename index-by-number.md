@@ -1579,3 +1579,7 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [A joyful afternoon with Dan and Claudia Zanes](zanes-2023-02-28) (Musing #1218)  
 [Preliminary reflections on whether reviews of professional work should include comments on grammar and style](reviewing-grammar-2023-03-01) (Musing #1219)  
 [On group advising](group-advising-2023-03-05) (Musing #1220)  
+
+## 1221-1230
+
+[Round one of registration for Fall 2023](registration-2023Fa-round-one) (Musing #1221)  

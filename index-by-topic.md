@@ -3339,6 +3339,10 @@ the registration process at Grinnell.*
 
 > More complaints, different data.
 
+[Round one of registration for Fall 2023](registration-2023Fa-round-one) (Musing #1221)
+
+> The experiment continues!
+
 A letter to the incoming chair
 ------------------------------
 

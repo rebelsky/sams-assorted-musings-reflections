@@ -1,6 +1,10 @@
 Musings, from newest to oldest
 ==============================
 
+## 1221-1230
+
+[Round one of registration for Fall 2023](registration-2023Fa-round-one) (Musing #1221)  
+
 ## 1211-1220
 
 [On group advising](group-advising-2023-03-05) (Musing #1220)  
