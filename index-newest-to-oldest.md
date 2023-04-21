@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 1221-1230
 
+[Reflections on round two of registration for Fall 2023](registration-2023Fa-round-two) (Musing #1222)  
 [Round one of registration for Fall 2023](registration-2023Fa-round-one) (Musing #1221)  
 
 ## 1211-1220

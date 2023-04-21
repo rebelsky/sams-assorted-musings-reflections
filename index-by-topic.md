@@ -3343,6 +3343,10 @@ the registration process at Grinnell.*
 
 > The experiment continues!
 
+[Reflections on round two of registration for Fall 2023](registration-2023Fa-round-two) (Musing #1222)
+
+> Data, of some sort or other
+
 A letter to the incoming chair
 ------------------------------
 
