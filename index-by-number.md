@@ -1584,3 +1584,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 
 [Round one of registration for Fall 2023](registration-2023Fa-round-one) (Musing #1221)  
 [Reflections on round two of registration for Fall 2023](registration-2023Fa-round-two) (Musing #1222)  
+[Misgivings about Microsoft Email Encryption](microsoft-encryption-2023-04-22) (Musing #1223)  

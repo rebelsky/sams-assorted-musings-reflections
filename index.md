@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Reflections on round two of registration for Fall 2023](registration-2023Fa-round-two) (Musing #1222)
+[Misgivings about Microsoft Email Encryption](microsoft-encryption-2023-04-22) (Musing #1223)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

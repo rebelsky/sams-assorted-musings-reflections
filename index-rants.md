@@ -622,3 +622,7 @@ Rants
 
 > Why do they make easy things so hard?
 
+[Misgivings about Microsoft Email Encryption](microsoft-encryption-2023-04-22) (Musing #1223)
+
+> Two M's, two E's
+
