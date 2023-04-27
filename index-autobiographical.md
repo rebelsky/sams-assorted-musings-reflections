@@ -629,3 +629,7 @@ Autobiographical essays, more or less
 
 > What else might I have called this?
 
+[Road trip!](road-trip-2023-04-26) (Musing #1224)
+
+> Exclamation point! 
+
