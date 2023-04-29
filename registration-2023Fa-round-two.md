@@ -3,9 +3,9 @@ title: Reflections on round two of registration for Fall 2023
 number: 1222
 tags: [Registration](index-registration), data, boring
 blurb: Data, of some sort or other
-version: 1.0
+version: 1.0.1
 released: 2023-04-20
-current: 
+current: 2023-04-29
 ---
 Round two of Grinnell's registration for Fall 2023 finishes tonight.  For those who don't know what "round two" means, you can check [my somewhat rambly musing on round one](registration-2023Fa-round-one).  I've spent enough years looking at data in the old model that I still need to get used to reading numbers after round one or round two; many excellent courses have spaces remaining after round one.  I wonder how things are going after round two?
 
@@ -18,7 +18,7 @@ SOC/GWS-395 remains significantly over-enrolled, with twenty students still in a
 Beyond that are the courses that faculty probably allowed to over-enroll slightly.  Or perhaps that's not entirely correct. For example, I see CSC-161-02 listed as over-enrolled by one, but it also has the cap at 18, and we usually set the cap at 24.  I suppose that's the approach the Registrar uses to hold slots for students in lower years [5].
 
 * PHY-131-02, _General Physics I w/lab_, is over-enrolled by eight students.
-* BCM-262L-01, _Introdction to Biological Chemistry Lab_, is over-enrolled by four students, for a total of 16.
+* BCM-262L-01, _Introduction to Biological Chemistry Lab_, is over-enrolled by four students, for a total of 16.
 * CHM-221-01, _Organic Chemistry I w/lab_, is over-enrolled by three students, for a total of 23.  I thought section 2 was the one that was previously over-enrolled.
 * CHM-221L-01, _Organic Chemistry I lab_, is also over-enrolled by three students, for a total of 23.  Is there room in the lab for 23 students/  I hope so.
 * PHE-100-47, _Fishing_, is over-enrolled by three students, for a total of eight.  I don't know where students fish.  If they drive, Coach Jaws may need a bigger van.
