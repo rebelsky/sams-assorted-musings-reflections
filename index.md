@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Road trip!](road-trip-2023-04-26) (Musing #1224)
+[Recent random reflections on revised registration rules and regulations](registration-2023Fa-reflections) (Musing #1225)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

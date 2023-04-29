@@ -121,3 +121,7 @@ the registration process at Grinnell.*
 
 > Data, of some sort or other
 
+[Recent random reflections on revised registration rules and regulations](registration-2023Fa-reflections) (Musing #1225)
+
+> Alliterate!
+
