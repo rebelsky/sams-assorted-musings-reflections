@@ -3,7 +3,7 @@ title: Reflections on round two of registration for Fall 2023
 number: 1222
 tags: [Registration](index-registration), data, boring
 blurb: Data, of some sort or other
-version: 1.0.1
+version: 1.1
 released: 2023-04-20
 current: 2023-04-29
 ---
@@ -83,7 +83,7 @@ _Of course, Economics also does separate registration for their upper-level semi
 
 In Education ...
 
-* EDU-295-01, _Special TOpic: Mapping Racial Trauma_.
+* EDU-295-01, _Special Topic: Mapping Racial Trauma_.
 
 In English ...
 
@@ -96,6 +96,10 @@ In Environmental Science ...
 In Film and Media Studies ...
 
 * FMS-255-01, _Fundamentals of Video Production_ (also listed as ART-255-01).
+
+In Gender and Women's Studies ...
+
+* GWS-395-01, _ST: Gender-Based Violence_.
 
 In Humanities ...
 
@@ -208,7 +212,7 @@ PHE-100-22,
 PHI-243-01, and
 SOC-360-01.
 
-Cool.  There are still seats available in Bowling!  I wonder if Coach Jaws will let me kin [11].
+Cool.  There are still seats available in Bowling!  I wonder if Coach Jaws will let me in [11].
 
 Are there things that puzzle me in all this?  Almost certainly.  I'm surprised there are slots in _The Craft of Fiction_ and _The Craft of Poetry_ after round 2.  Those courses usually fill early. 
 
@@ -237,3 +241,4 @@ I look forward to seeing what happens in round 3. A lot more classes will fill. 
 [10] Am I the only one who sees "SST" and thinks "SST Records"?  It's been a long time since I've listened to, say, Black Flag.
 
 [11] Yeah.  Coach Jaws coaches soccer, fishing, and bowling.  He used to coach golf, too.  If we had a hockey team, he'd probably coach that, too.
+
