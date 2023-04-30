@@ -5,8 +5,10 @@ tags: [Registration](index-registration), data, boring
 blurb: Data, of some sort or other
 version: 1.1
 released: 2023-04-20
-current: 2023-04-29
+current: 2023-04-30
 ---
+_**n.b.: Some of the data in this musing may be misstated; I was relying on what I saw on the [list of course offerings](https://odsstu.grinnell.edu/reports/report/RGS/Catalog%20and%20Courses/Course_Offering_0007), and that does not provide as accurate a picture as I expected.  See [the musing on round three](registration-2023Fa-round-three) for more details._
+
 Round two of Grinnell's registration for Fall 2023 finishes tonight.  For those who don't know what "round two" means, you can check [my somewhat rambly musing on round one](registration-2023Fa-round-one).  I've spent enough years looking at data in the old model that I still need to get used to reading numbers after round one or round two; many excellent courses have spaces remaining after round one.  I wonder how things are going after round two?
 
 It's still a bit before midnight [1].  I think it's close enough that I can report on some trends, more or less.

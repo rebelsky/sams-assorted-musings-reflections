@@ -3,13 +3,15 @@ title:  Recent random reflections on revised registration rules and regulations
 number: 1225
 tags: [Registration](index-registration)
 blurb: Alliterate!
-version: 0.1
+version: 1.1
 released: 2023-04-29
-current: 
+current: 2023-04-30
 ---
 _n.b. These are not random in the sense that they are selected unpredictably according to some probability distribution and, in the limit, would follow that distribution.  Rather, they reflect what I found myself thinking about during the past few weeks of registration and what came to mind when I sat down to write.  Or perhaps they are selected from a probability distribution; it's just one that we don't understand [1]._
 
-As the note above suggests, I've been thinking a lot about registration of late.  That is, perhaps, not all that surprising.  After all, I regularly muse about Grinnell's registration system during our registration period.  We're also working with a revised set of policies [2] that are still settling down.  Given the state of things, I found my muse compelling me to sit down and write about what I've observed [4].  As in the case of much of my musing, I'm mostly recording things as they come to mind.
+_**n.b.: Some of the data in this musing may be misstated; I was relying on what I saw on the [list of course offerings](https://odsstu.grinnell.edu/reports/report/RGS/Catalog%20and%20Courses/Course_Offering_0007), and that does not provide as accurate a picture as I expected.  See [the musing on round three](registration-2023Fa-round-three) for more details._
+
+As the first note above suggests, I've been thinking a lot about registration of late.  That is, perhaps, not all that surprising.  After all, I regularly muse about Grinnell's registration system during our registration period.  We're also working with a revised set of policies [2] that are still settling down.  Given the state of things, I found my muse compelling me to sit down and write about what I've observed [4].  As in the case of much of my musing, I'm mostly recording things as they come to mind.
 
 **Advising for registration is harder than it used to be, perhaps much harder**.  Under the old system, I worked with my advisees to select their preferred schedules, chatted about a few potential fallbacks, registered, crossed our fingers that they'd get into the sections they wanted (or that the Registrar's office could rearrange the schedule to get them into the classes they wanted but not necessarily the sections they wanted), spent a few days reviewing the fallout, and then registered for the rest.  Under the new system, I'm expected to help them consider many more fallbacks and, even with those fallbacks, we still have to look at the fallout after rounds 1 and 2, and we now must do so in a much shorter time frame.
 
@@ -37,17 +39,17 @@ I was already considering taking all of the students off my wait list who had be
 
 **Our current manual cut process requires too much manual labor**.  Particularly for the reasons mentioned above, cutting is hard.  I'm not sure how the Registrar's office did it when they had to do it with even more conflicts.deal  I certainly understand why there was a desire to move away from that old process.  I also noted that this year's process was hard enough that it took until Tuesday night to complete.  I feel sorry for our Registrar and her staff.
 
-**Our current registration process remains neither equal nor equitable**.  Too many factors affect a student's ability to be successful in the process: the popularity of their major, their particular major, their advisor's reaction to the process, "insider" knowledge, and more.  We've already considered the issue of major popularity: If you have a popular major, you can only choose major courses in the first round; if you have a less popular major (or a major that pre-enrolls you in major courses), you have much more freedom.  And, as expected, students have already found ways to game the system.  I think I mentioned one already: If there's a course you really want in round one, you can significantly increase your odds of getting that course by making Comparative Herbalism your other course [17].  At worst, you end up in Comparative Herbalism, which is a great course.  I also saw my students who are less organized losing out in the process, even though I tried to intervene.
+**Our current registration process remains neither equal nor equitable**.  Too many factors affect a student's ability to be successful in the process: the popularity of their major, their particular major, their advisor's reaction to the process, "insider" knowledge, and more.  We've already considered the issue of major popularity: If you have a popular major, you can only choose major courses in the first round; if you have a less popular major (or a major that pre-enrolls you in major courses), you have much more freedom.  And, as expected, students have already found ways to game the system.  I think I mentioned one already: If there's a course you really want in round one, you can significantly increase your odds of getting that course by making Comparative Herbalism your other course [17,18].  At worst, you end up in Comparative Herbalism, which is a great course.  I also saw my students who are less organized losing out in the process, even though I tried to intervene.
 
 **There are enough moving parts in the process that things get lost**.  For example, I see that my CSC-151 section is over-enrolled by seven students.  That sounds like a lot.  But it's mostly that those students are taking slots that we had reserved for first-year students, perhaps slots that we had *intended* to reserve for first-year students.  I bear some of the blame.  I didn't check the policy data we sent the Registrar closely and, even though I was reading the schedule regularly, I didn't catch that the capacity of 18 was intended to indicate slots held for first-years.  There's also the hidden issue: Changing the course capacity because the system can't handle holding slots for certain class years is a technological problem.  Unfortunately, it's a technological problem that has no resolution; we're not going to get Ellucian to add that feature.
 
-**You learn a lot reading through enrollments**.  For example, I discovered that one department, with three tenured faculty and one tenure-line faculty member, appears to have none of the tenured faculty teaching next year.  When I asked others about it, few were aware of the situation.  I hope everyone and everything in that department is okay [18].
+**You learn a lot reading through enrollments**.  For example, I discovered that one department, with three tenured faculty and one tenure-line faculty member, appears to have none of the tenured faculty teaching next year.  When I asked others about it, few were aware of the situation.  I hope everyone and everything in that department is okay [19].
 
-**Ellucian Self-Service makes some things harder**.  After round three, I wanted to review all twenty advisees to ensure they were making adequate progress and to learn what pain points we might hit down the road.  Fortunately, Self-Service provides unique and straightforward URLs for each advisee [20], which means that I can bookmark them.  Unfortunately, Self-Service provides inadequate information in the Progress report.  Consider the following screenshot from the overview, which is supposed to help me understand how many courses the student has in the major.
+**Ellucian Self-Service makes some things harder**.  After round three, I wanted to review all twenty advisees to ensure they were making adequate progress and to learn what pain points we might hit down the road.  Fortunately, Self-Service provides unique and straightforward URLs for each advisee [21], which means that I can bookmark them.  Unfortunately, Self-Service provides inadequate information in the Progress report.  Consider the following screenshot from the overview, which is supposed to help me understand how many courses the student has in the major.
 
 <img src="images/progress-report.png" width=600 alt="Five lines of information in a table.  CSC-151 is marked as Completed.  CSC-161 is marked as Completed.  CSC-207 is marked as In-Progress.  CSC-395 is marked as Planned.  CSC-213 is marked as Planned.'">
 
-Can you tell whether the student is registered for CSC-213, registered for CSC-395, registered for both, or registered for neither?  I can't.  In fact, the report looks nearly identical for the four situations.  If the student had selected 301 and 213---rather than 395 and 213---the four situations would appear identically [21].  How am I, as an advisor, supposed to plan with that?  I realize that I can switch over to the current semester view, which will show which courses are registered and which are not.  But I can't keep all that info in my head when I'm going through a sequence of students.  And I shouldn't have to.  The report should show me when students are registered for classes [22].
+Can you tell whether the student is registered for CSC-213, registered for CSC-395, registered for both, or registered for neither?  I can't.  In fact, the report looks nearly identical for the four situations.  If the student had selected 301 and 213---rather than 395 and 213---the four situations would appear identically [22].  How am I, as an advisor, supposed to plan with that?  I realize that I can switch over to the current semester view, which will show which courses are registered and which are not.  But I can't keep all that info in my head when I'm going through a sequence of students.  And I shouldn't have to.  The report should show me when students are registered for classes [23].
 
 ---
 
@@ -91,12 +93,14 @@ I suppose that I should have learned two important things.  First, because advis
 
 [17] That strategy didn't work this year since it's not being offered in the fall.  But it's likely to work in the future.  
 
-[18] I think it's just the normal confluence of situations: one is moving to SFS, one is on sabbatical, one has an external opportunity, etc.  I just worry because the College has not treated that department well of late [19].
+[18] For those registering for Fall courses, I've learned that Introduction to Political Science is an even better alternative; there are only six total slots available for returning students.
 
-[19] Snarky followup comment ellided.
+[19] I think it's just the normal confluence of situations: one is moving to SFS, one is on sabbatical, one has an external opportunity, etc.  I just worry because the College has not treated that department well of late [20].
 
-[20] https://colss-prod.ec.grinnell.edu/Student/Planning/Advisors/Advise/########, where you replace the octothorpes by the student id.
+[20] Snarky followup comment ellided.
 
-[21] Nope, I'm not explaining the difference.
+[21] https://colss-prod.ec.grinnell.edu/Student/Planning/Advisors/Advise/########, where you replace the octothorpes by the student id.
 
-[22] I checked with ITS.  They said (approximately): "They fixed this problem in an earlier release.  But it appears they broke it again."  Someone at Ellucian needs to learn about test suites.
+[22] Nope, I'm not explaining the difference.
+
+[23] I checked with ITS.  They said (approximately): "They fixed this problem in an earlier release.  But it appears they broke it again."  Someone at Ellucian needs to learn about test suites.

@@ -3,11 +3,13 @@ title: Round one of registration for Fall 2023
 number: 1221
 tags: [Registration](index-registration), end-notable, long, only moderately rambly
 blurb: The experiment continues!
-version:1.0.1
+version:1.1.0
 released: 2023-04-19
-current: 2023-04-19
+current: 2023-04-30
 ---
-_**I wrote this a few days ago but forgot to post it.**_
+_**I wrote this a few days before posting it. I don't recall why there was a delay.**_
+
+_**n.b.: Some of the data in this musing may be misstated; I was relying on what I saw on the [list of course offerings](https://odsstu.grinnell.edu/reports/report/RGS/Catalog%20and%20Courses/Course_Offering_0007), and that does not provide as accurate a picture as I expected.  See [the musing on round three](registration-2023Fa-round-three) for more details._
 
 Here at Grinnell, we've just finished the first round of registration for Fall 2023.  For those of you who don't know or don't remember, Grinnell has historically had a strange registration system.  We continue to have a peculiar registration, but it's evolved from the prior one.  Here's how it works, at least as I understand it [1].
 
