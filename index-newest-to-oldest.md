@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 1221-1230
 
+[Reflections on round three of registration for Fall 2023](registration-2023Fa-round-three) (Musing #1226)  
 [Recent random reflections on revised registration rules and regulations](registration-2023Fa-reflections) (Musing #1225)  
 [Road trip!](road-trip-2023-04-26) (Musing #1224)  
 [Misgivings about Microsoft Email Encryption](microsoft-encryption-2023-04-22) (Musing #1223)  

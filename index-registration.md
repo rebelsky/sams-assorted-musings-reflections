@@ -125,3 +125,7 @@ the registration process at Grinnell.*
 
 > Alliterate!
 
+[Reflections on round three of registration for Fall 2023](registration-2023Fa-round-three) (Musing #1226)
+
+> So interesting!
+

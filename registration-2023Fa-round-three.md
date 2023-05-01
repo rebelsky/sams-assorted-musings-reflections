@@ -1,11 +1,11 @@
 ---
 title: Reflections on round three of registration for Fall 2023
 number: 1226
-tags: [Registration](index-registration), data
+tags: [Registration](index-registration), data, unedited
 blurb: So interesting!
-version: 0.1
+version: 1.0
 released: 2023-04-30
-current: 2023-04-29
+current: 
 ---
 Round three of registration for Fall 2023 finished a few days ago.  At some point soon, we should be moving on to round four [1,2].  What's there for me to do?  I should look at the end-of-round-three data, right?
 
@@ -108,7 +108,7 @@ In Education ...
 * EDU-101-02 (round 3), _Educational Principles in a Pluralistic Society_.  I think we're holding six slots in each section for incoming first-years.
 * EDU-102-01 (round 3), _Introduction to Participant Obsevation in Schools_.  It's good to see Jonathan Larson back at Grinnell.
 * EDU-295-01 (round 2), _Special Topic: Mapping Racial Trauma_.
-* EDU-301-01 (round 3), _Teaching & Tutoring Writing_.  Ooh!  A course with Tisha Turk.  Fun!
+* EDU-301-01 (round 3), _Teaching & Tutoring Writing_.  Ooh!  A course with Tisha Turk.  Fun!  Cross-listed with the Writing Lab.
 
 In English ...
 
@@ -151,8 +151,8 @@ In Humanities ...
 
 In Mathematics ...
 
-* MAT-115-01 (round 3), _Introductoin to Statistics_.
-* MAT-115-02 (round 3), _Introductoin to Statistics_.
+* MAT-115-01 (round 3), _Introductoin to Statistics_.  Cross-listed with Social Studies.
+* MAT-115-02 (round 3), _Introductoin to Statistics_.  Cross-listed with Social Studies.
 * MAT-208-01 (round 2), _Discrete Structures_.  Also listed as CSC-208-01.
 * MAT-215-02 (round 2), _Linear Algebra_.  
 * MAT-316-01 (round 3), _Foundations of Analysis_.
@@ -218,21 +218,55 @@ In Psychology ...
 
 * PSY-214-01 (round 2), _Social Psychology w/lab_.
 * PSY-222-01 (round 2), _Industrial Psychology_.
+* PSY-225-01 (round 3), _Research Methods_.
+* PSY-231-01 (round 3), _Sensation & Perception w/lab_.
+* PSY-317-01 (round 3), _Personality Psychology w/lab_.
 * PSY-348-01 (round 2), _Behavoral Medicine w/lab_.
 * PSY-395-01 (round 2), _ST: Neural Basis of Consciousness_.
+* PSY-395-01 (round 3), _ST:Neural Basis Consciousness_.
+
+In Religious Studies ...
+
+REL-295-01 (round 3), _ST: Rel, Race, & Evangelicism
+
+In Science ...
+
+SCI-125-01 (round 3), _Intro to Earth Syst Sci w/lab
+
+In Science, Medicine, and Society ...
+
+SMS-154-01 (round 3), _Evolution of Technology
+SMS-295-01 (round 3), _ST: People in Biology
 
 In Sociology ...
 
+* SOC-240-01 (round 3), _Social Movements_.
+* SOC-252-01 (round 3), _Animals and Society_.
 * SOC-285-01 (round 2), _Contemporary Sociological Theory_.
 * SOC-291-01 (round 2), _Methods of Empirical Investigation_.
+* SOC-295-01 (round 3), _ST: The Sociology of Law_.
+* SOC-295-02 (round 3), _ST: Environmental Sociology_.
+* SOC-360-01 (round 3), _Work in the "New" Economy_.
+* SOC-395-02 (round 3), _ST: Social Network Analysis_.
 
 In Social Studies ...
 
-* SST-120-01 [11], _Introduction to Material Culture Studies_ (cross listed as HUM-120-01).  
+* SST-115-01 (round 3), _Introduction to Statistics_.  Cross-listed as MAT-115.
+* SST-115-02 (round 3), _Introduction to Statistics_.  Cross-listed as MAT-115.
+* SST-120-01 (round 2), _Introduction to Material Culture Studies_.  Cross-listed as HUM-120-01.
+* SST-125-01 (round 3), _Introduction to Geographic Information Systems_.
+
+In Spanish ...
+
+SPN-395-01 (round 3), _ST: Caravans, Gangs, Drugs
 
 In Statistics ...
 
-* STA-230-03 (round 2), _Introduction to Data Science_.  Section 1 has 13 seats, and Section 2 has 15 seats.
+* STA-209-01 (round 3), _Applied Statistics_.
+* STA-209-02 (round 3), _Applied Statistics_.  Section 3 has 2 seats.
+* STA-230-03 (round 2), _Introduction to Data Science_.  Section 1 has 5 seats, and Section 2 has 8 seats.
+* STA-310-01 (round 3), _Statistical Modeling_.
+* STA-310-02 (round 3), _Statistical Modeling_.
 
 In Studio Art ...
 
@@ -242,25 +276,133 @@ In Studio Art ...
 * ART-238-01 (round 3), _Painting_.
 * ART-255-01 (round 2), _Fundamentals of Video Production_ (also listed as FMS-255-01).
 
+In Theatre, Dance, and Performance Studies ...
+
+* THD-102-01 (round 3), _Intro to Dance Technique_.
+* THD-195-01 (round 3), _ST: Stage Mgmnt Show Control_.
+
 In the Writing Laboratory ...
 
-* WRT-301-01 (round 2), _Teaching and Tutoring Writing_.
+* WRT-301-01 (round 2), _Teaching and Tutoring Writing_.  Cross-listed in Education.
 
 Where do we stand for nearly-full classes?  I'm still tempted to say, "You can analyze [the data](https://odsstu.grinnell.edu/reports/report/RGS/Catalog%20and%20Courses/Course_Offering_0007) as well as I can", and leave it at that.  But it shouldn't take me much work to list the numbers, if not the names.
 
 With one seat remaining:
+ANT-104-06,
+ART-240-01,
+BCM-262-01,
+BCM-262L-02,
+BIO-325-01,
+CHM-358-01,
+ENG-332-01,
+ENG-395-01,
+FRN-303-01,
+MAT-317-01,
+MUS-213L-02,
+NRS-495-01,
+PHE-100-19A,
+PHE-100-24,
+PHY-132L-01,
+SPN-320-01, and
+STA-340-01.
+
+Wow!  I hadnt realized that there are six sections of ANT-104, _Anthropological Inquiries_.  It looks like there are six slots in each section reserved for incoming first-years.  Most sections (other than section 6) have about nine open slots.
 
 With two seats remaining:
+ANT-221-01,
+ANT-290-01,
+ART-111-03,
+BIO-251-01,
+BIO-325L-01,
+BIO-366-01,
+BIO-366L-02,
+BIO-390-01,
+CSC-151-02,
+CSC-151-03,
+GWS-211-01,
+HIS-202-01,
+HIS-271-01,
+HIS-314-01,
+HIS-335-01,
+MAT-218-01,
+MUS-120-02,
+MUS-120-08,
+MUS-120-11,
+PHE-100-05,
+PHE-100-26,
+PHI-111-01,
+POL-320-01,
+POL-356-01,
+PST-320-01,
+SPN-295-01,
+SPN-343-01, and
+STA-209-03.
+
+Wow!  That's a lot.
 
 With three seats remaining:
+ANT-395-02,
+ARB-295-01,
+ART-242-01,
+CSC-341-01,
+EAS-295-01,
+ECN-374-01,
+ECN-375-01,
+ENG-121-01,
+ENG-207-01,
+ENV-125L-01,
+GLS-295-01,
+GWS-111-03,
+HIS-295-01,
+HUM-101-01,
+HUM-295-01,
+MAT-220-01,
+PHE-100-23,
+PHY-131-01,
+PHY-232L-03,
+REL-226-01,
+SOC-111-05,
+SPN-105-01, and
+THD-195-02.
 
 With four seats remaining:
+ALS-122-01,
+ART-315-01,
+CHI-101L-01,
+CHM-129-02,
+CLS-231-01,
+ECN-236-01,
+FRN-313-01,
+GWS-111-01,
+HIS-268-01,
+LIN-114-02,
+MAT-215-01,
+MAT-218-02,
+MUS-120-16,
+MUS-120-42,
+PHE-100-25,
+PHI-102-02,
+PHI-231-01,
+PHY-456-01,
+PSY-113-02,
+REL-268-01, and
+THD-110-01.
 
 Are there things that puzzle me in all this?  I'm puzzled that ANT/BIO-220, _Racing Through Genetics_, is still open, with surprisingly many slots available.  It's rare that you can get a course taught by faculty across disciplines (Anthropology and Biology, in this case).  It's rarer still that you can take a course taught by such excellent faculty.
 
-I'm frustrated that the report page doesn't clarify how many slots are actually available for returning students and how many are reserved for incoming first years.  We need that information for advising.  At least _I_ need that information for advising.  Maybe I'll put in a ticket.
+I'm frustrated that the report page doesn't clarify how many slots are actually available for returning students and how many are reserved for incoming first years.  **We need that information for advising.**  At least _I_ need that information for advising.  Maybe I'll put in a ticket to get a revised report.  I should ask about wait lists, too.  I did discover that the very tight cap on _Introduction to Political Science_ [5] is documented on the policy page; I need to read that more carefully next time.  We need our cap of six returning students per fall section of CSC-151 documented better.
 
-In the past, I scanned through the list of special topics courses to see what new things were happening at the College.  I didn't do so this year, probably because I'm on leave.  Possibly because I'm too busy with all the other aspects of registration.  But I saw enough interesting special topics that I should make a point to starting doing so again next year.
+I discovered that I'm easily confused, especially when I've been on leave.  I kept seeing Jennifer Shook listed in Theatre [6], and, for some reason, I confused her with the Jennifer Snook in Sociology.
+
+I learned about some new special topics courses.  In the past, I scanned through the list of special topics courses to see what new things were happening at the College.  I didn't do so this year, probably because I'm on leave.  Possibly because I'm too busy with all the other aspects of registration.  But I saw enough interesting special topics that I should make a point to starting doing so again next year.
+
+I see that some departments are in as bad shape as CS.  We have all our 200- and 300-level courses full, except for two slots in CSC-341 [7].  Psychology has all their 200- and 300-level courses full, except for five slots in PSY-260-01, _Cognitive Psychology w/lab_.  As far as I can tell, Sociology only has one upper-level course open, with 13 slots in SOC-270-01, _Gender and Society_.  If there are other departments in similar situations, I'm sure my readers will let me know.
+
+Am I done with this season of musing on registration?  Perhaps.  We'll see if my muse calls me back to this subject.
+
+---
+
+**_Postscript_**: Now that I've discovered that I misunderstood some of the data , I've added disclaimers to my earlier musings.
 
 ---
 
@@ -271,3 +413,9 @@ In the past, I scanned through the list of special topics courses to see what ne
 [3] I've been writing "Strange" a lot, haven't it?  I suppose that makes sense; many things about Grinnell are strange.
 
 [4] Sam is a broken record.
+
+[5] Six slots total, across all sections.
+
+[6] More precisely, Theatre, Dance, and Performance Studies.
+
+[7] You remember the long name, right?
