@@ -3,7 +3,7 @@ title: Reflections on round three of registration for Fall 2023
 number: 1226
 tags: [Registration](index-registration), data, unedited
 blurb: So interesting!
-version: 1.0.1
+version: 1.0.2
 released: 2023-04-30
 current: 2023-04-30
 ---
@@ -285,9 +285,11 @@ In the Writing Laboratory ...
 
 * WRT-301-01 (round 2), _Teaching and Tutoring Writing_.  Cross-listed in Education.
 
+---
+
 Where do we stand for nearly-full classes?  I'm still tempted to say, "You can analyze [the data](https://odsstu.grinnell.edu/reports/report/RGS/Catalog%20and%20Courses/Course_Offering_0007) as well as I can", and leave it at that.  But it shouldn't take me much work to list the numbers, if not the names.
 
-With one seat remaining:
+_With one seat remaining_:
 ANT-104-06,
 ART-240-01,
 BCM-262-01,
@@ -306,9 +308,9 @@ PHY-132L-01,
 SPN-320-01, and
 STA-340-01.
 
-Wow!  I hadnt realized that there are six sections of ANT-104, _Anthropological Inquiries_.  It looks like there are six slots in each section reserved for incoming first-years.  Most sections (other than section 6) have about nine open slots.
+I hadnt realized that there are six sections of ANT-104, _Anthropological Inquiries_.  It looks like there are six slots in each section reserved for incoming first-years.  Most sections (other than section 6) have about nine open slots.
 
-With two seats remaining:
+_With two seats remaining_:
 ANT-221-01,
 ANT-290-01,
 ART-111-03,
@@ -340,7 +342,7 @@ STA-209-03.
 
 Wow!  That's a lot.
 
-With three seats remaining:
+_With three seats remaining_:
 ANT-395-02,
 ARB-295-01,
 ART-242-01,
@@ -365,7 +367,7 @@ SOC-111-05,
 SPN-105-01, and
 THD-195-02.
 
-With four seats remaining:
+_With four seats remaining_:
 ALS-122-01,
 ART-315-01,
 CHI-101L-01,
@@ -387,6 +389,8 @@ PHY-456-01,
 PSY-113-02,
 REL-268-01, and
 THD-110-01.
+
+---
 
 Are there things that puzzle me in all this?  I'm puzzled that ANT/BIO-220, _Racing Through Genetics_, is still open, with surprisingly many slots available.  It's rare that you can get a course taught by faculty across disciplines (Anthropology and Biology, in this case).  It's rarer still that you can take a course taught by such excellent faculty.
 
