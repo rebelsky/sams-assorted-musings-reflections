@@ -3,7 +3,7 @@ title: Reflections on round three of registration for Fall 2023
 number: 1226
 tags: [Registration](index-registration), data, unedited
 blurb: So interesting!
-version: 1.0.2
+version: 1.0.3
 released: 2023-04-30
 current: 2023-04-30
 ---
@@ -19,7 +19,9 @@ One new over-enrolled class!  All the rest seem similar enough.  On to the full 
 
 Wait a second!  Excel seems to have eaten my spreadsheet of filled classes.  Damn.  Have I mentioned that I hate computers?  And I hate Microsoft?  Oh well, I'll estimate as I go.
 
-Maybe I'll combine old and new data, doing my best to indicate which round courses filled in.
+I suppose I'll combine old and new data, doing my best to indicate which round courses filled in.
+
+---
 
 In American Studies ...
 
