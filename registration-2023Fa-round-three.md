@@ -3,9 +3,9 @@ title: Reflections on round three of registration for Fall 2023
 number: 1226
 tags: [Registration](index-registration), data, unedited
 blurb: So interesting!
-version: 1.0
+version: 1.0.1
 released: 2023-04-30
-current: 
+current: 2023-04-30
 ---
 Round three of registration for Fall 2023 finished a few days ago.  At some point soon, we should be moving on to round four [1,2].  What's there for me to do?  I should look at the end-of-round-three data, right?
 
@@ -227,16 +227,16 @@ In Psychology ...
 
 In Religious Studies ...
 
-REL-295-01 (round 3), _ST: Rel, Race, & Evangelicism
+* REL-295-01 (round 3), _ST: Rel, Race, & Evangelicism
 
 In Science ...
 
-SCI-125-01 (round 3), _Intro to Earth Syst Sci w/lab
+* SCI-125-01 (round 3), _Intro to Earth Syst Sci w/lab
 
 In Science, Medicine, and Society ...
 
-SMS-154-01 (round 3), _Evolution of Technology
-SMS-295-01 (round 3), _ST: People in Biology
+* SMS-154-01 (round 3), _Evolution of Technology_.
+* SMS-295-01 (round 3), _ST: People in Biology_.
 
 In Sociology ...
 
@@ -258,7 +258,7 @@ In Social Studies ...
 
 In Spanish ...
 
-SPN-395-01 (round 3), _ST: Caravans, Gangs, Drugs
+* SPN-395-01 (round 3), _ST: Caravans, Gangs, Drugs
 
 In Statistics ...
 
