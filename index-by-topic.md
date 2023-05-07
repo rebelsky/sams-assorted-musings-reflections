@@ -3228,6 +3228,10 @@ Grinnell.
 
 > I don't get it.
 
+[Another dinner with Grinnell's Board of Trustees](trustees-2023-05-06) (Musing #1227)
+
+> Always fun (these days)
+
 Registration and Related Topics
 -------------------------------
 
