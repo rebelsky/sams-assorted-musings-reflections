@@ -3232,6 +3232,10 @@ Grinnell.
 
 > Always fun (these days)
 
+[Salaries](salaries-2023-05-07) (Musing #1228)
+
+> Why do I care?
+
 Registration and Related Topics
 -------------------------------
 
