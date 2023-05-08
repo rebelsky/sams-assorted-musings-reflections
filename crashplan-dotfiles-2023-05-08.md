@@ -3,7 +3,7 @@ title: CrashPlan and dotfiles
 number: 1229
 tags: [Rants](index-rants), technology
 blurb: The first in a series
-version: 0.1
+version: 0.2
 released: 2023-05-08
 current: 2023-05-07
 ---
@@ -66,6 +66,10 @@ Then I restored the file to a new location.  Lo and behold, it contained the dot
 So, in spite of what Code42 says about CrashPlan, it *does* back up dot files; it just doesn't give you control over excluding them from backups or restoring them individually.  That's absolutely horrible UI design.
 
 Why do we buy such badly designed software?
+
+---
+
+**_PostScript_**: Just in case it's not clear, my concern is with CrashPlan and not with ITS staff.  It's certainly not with the awesome person who has spent way too much time trying to help me figure out CrashPlan.
 
 ---
 
