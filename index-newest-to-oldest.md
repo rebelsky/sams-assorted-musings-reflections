@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 1221-1230
 
+[CrashPlan and dotfiles](crashplan-dotfiles-2023-05-08) (Musing #1229)  
 [Salaries](salaries-2023-05-07) (Musing #1228)  
 [Another dinner with Grinnell's Board of Trustees](trustees-2023-05-06) (Musing #1227)  
 [Reflections on round three of registration for Fall 2023](registration-2023Fa-round-three) (Musing #1226)  

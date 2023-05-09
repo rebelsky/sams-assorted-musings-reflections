@@ -1538,6 +1538,10 @@ Rants
 
 > Two M's, two E's
 
+[CrashPlan and dotfiles](crashplan-dotfiles-2023-05-08) (Musing #1229)
+
+> The first in a series
+
 Assorted talks and speeches
 ---------------------------
 

@@ -1590,3 +1590,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Reflections on round three of registration for Fall 2023](registration-2023Fa-round-three) (Musing #1226)  
 [Another dinner with Grinnell's Board of Trustees](trustees-2023-05-06) (Musing #1227)  
 [Salaries](salaries-2023-05-07) (Musing #1228)  
+[CrashPlan and dotfiles](crashplan-dotfiles-2023-05-08) (Musing #1229)  
