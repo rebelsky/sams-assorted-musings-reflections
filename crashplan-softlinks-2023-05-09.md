@@ -3,17 +3,17 @@ title: CrashPlan and relative soft links
 number: 1230
 tags: [Rants](index-rants), technology
 blurb: The second in a series.
-version: 0.1
+version: 1.0
 released: 2023-05-09
-current: 2023-05-07
+current: 
 ---
-_Warning: This rant is on technical issues.  It may not be accessible to all ofmy readers._
+_Warning: This rant is on technical issues.  It may not be accessible to all of my readers._
 
-As you may have learned in [my prior musing](crashplan-dotfiles-2023-05-08), Grinnell is now using CrashPlan to back up staff and faculty laptops.  Since I've learned that CrashPlan provides incorrect information about how they handle dot files, that voice in the back of my head wants me to consider other aspects.
+As you may have learned in [my prior musing](crashplan-dotfiles-2023-05-08), Grinnell now uses CrashPlan to back up staff and faculty laptops.  Since I've learned that CrashPlan provides incorrect information about how they handle dot files, that voice in the back of my head wants me to consider other aspects.
 
-The next issue that came to mind was symbolic links.  What are symbolic links?  They are a kind of alias.  If file `bar` is a symbolic link to `foo`, each time one looks at `bar`, they see the contents of `foo`.  If `baz` is a symbolic link to directory `qux`, whenever we save files to `baz`, they get saved to `qux`, and vice versa.
+The next issue that came to mind was symbolic links.  What are symbolic links?  They are a kind of alias.  If file `bar` is a symbolic link to `foo`, each time one looks at `bar`, they see the contents of `foo`.  If `baz` is a symbolic link to the directory `qux`, whenever we save files to `baz`, they get saved to `qux`, and vice versa.
 
-There are lots of reasons to use soft links.  I'm not getting into most of them here.  But one reason is particularly relevant: It helps me keep dotfiles private.  We're told that [CrashPlan doesn't back up the targets of aliases](https://support.code42.com/Incydr/Agent/Configuring/How_to_use_soft_and_hard_links_with_the_Code42_agent).  If I put files I don't want backed in a directory, and then soft link to them from my main directory, they should work as expected, but not get backed up.
+There are lots of reasons to use soft links.  I'm not getting into most of them here.  But one reason is particularly relevant: It helps me keep dotfiles private.  We're told that [CrashPlan doesn't back up the targets of aliases](https://support.code42.com/Incydr/Agent/Configuring/How_to_use_soft_and_hard_links_with_the_Code42_agent).  If I put files I don't want backed up in a directory, and then soft link to them from my primary directory, they should work as expected, but not get backed up.
 
 Here's what [the documentation](https://support.code42.com/Incydr/Agent/Configuring/How_to_use_soft_and_hard_links_with_the_Code42_agent) says,
 
@@ -22,7 +22,7 @@ Here's what [the documentation](https://support.code42.com/Incydr/Agent/Configur
 
 As I said, I like to check things.  So let's go for it.
 
-First, I set up a test directory (in my case, /Users/rebelskyAliasTest), add some directories, files, and soft links.
+First, I set up a test directory (in my case, /Users/rebelskyAliasTest).  Then I add some directories, files, and soft links.
 
 ```
 $ cd
@@ -78,7 +78,7 @@ $ cat file2.txt
 cat: file2.txt: No such file or dir
 ```
 
-Things are already looking bad.  `file1.txt` and `file2.txt` don't seem to link correctly.  The "No such file or dir" error is a bit confusing, since we see `file1.txt` and `file2.txt`, but the error is about the file they link to.
+Things are already looking bad.  `file1.txt` and `file2.txt` don't seem to link correctly.  The "No such file or dir" error is a bit confusing since we see `file1.txt` and `file2.txt`, but the error is about the file they link to.
 
 Where do those links point?
 
@@ -98,8 +98,10 @@ lrwxr-xr-x 1 rebelsky staff 112 May 5 14:50 subdir -> /Applications/CrashPlan.ap
 
 Those are very strange targets.  It appears that CrashPlan does *not* correctly back up symbolic links, at least not relative symbolic links.
 
-Strike two.  At least I'm not relying on CrashPlan for backups.
+Strike two.
+
+At least I'm not relying on CrashPlan for backups.
 
 ----
 
-**_Postscript_**: Note that this rant is only about the bad design of CrashPlan.  You'll note that I haven't mentioned ITS at all.  A colleague told me that symbolic links are particularly complicated.  However, I know that Time Machine deals correctly with them, as does `rsync`.
+**_Postscript_**: Note that this rant is only about the bad design of CrashPlan.  You'll note that I haven't mentioned ITS at all.  Perhaps I shouldn't blame CrashPlan.  After all, a colleague told me that symbolic links are particularly complicated.  However, I know that Time Machine deals correctly with them, as does `rsync`.  CrashPlan could, too, particularly since it promises to do so.

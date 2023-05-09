@@ -7,6 +7,13 @@
       A curmudgeonly faculty member in computer science writes about a variety of topics.
     </description>
     <item>
+      <title>Musing #1230: CrashPlan and relative soft links</title>
+      <link>https://www.cs.grinnell.edu/~rebelsky/musings/crashplan-softlinks-2023-05-09</link>
+      <guid>https://www.cs.grinnell.edu/~rebelsky/musings/crashplan-softlinks-2023-05-09</guid>
+      <pubDate>Tue, 09 May 2023 23:53:05 GMT</pubDate>
+      <description>The second in a series.</description>
+    </item>
+    <item>
       <title>Musing #1229: CrashPlan and dotfiles</title>
       <link>https://www.cs.grinnell.edu/~rebelsky/musings/crashplan-dotfiles-2023-05-08</link>
       <guid>https://www.cs.grinnell.edu/~rebelsky/musings/crashplan-dotfiles-2023-05-08</guid>
