@@ -630,3 +630,11 @@ Rants
 
 > The first in a series
 
+[CrashPlan and relative soft links](crashplan-softlinks-2023-05-09) (Musing #1230)
+
+> The second in a series.
+
+[Planning to crash](crashplan-2023-05-10) (Musing #1231)
+
+> The third in a series.  Perhaps the last in the series.
+

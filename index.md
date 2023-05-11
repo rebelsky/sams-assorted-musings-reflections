@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[CrashPlan and dotfiles](crashplan-dotfiles-2023-05-08) (Musing #1229)
+[Planning to crash](crashplan-2023-05-10) (Musing #1231)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

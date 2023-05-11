@@ -1,8 +1,13 @@
 Musings, from newest to oldest
 ==============================
 
+## 1231-1240
+
+[Planning to crash](crashplan-2023-05-10) (Musing #1231)  
+
 ## 1221-1230
 
+[CrashPlan and relative soft links](crashplan-softlinks-2023-05-09) (Musing #1230)  
 [CrashPlan and dotfiles](crashplan-dotfiles-2023-05-08) (Musing #1229)  
 [Salaries](salaries-2023-05-07) (Musing #1228)  
 [Another dinner with Grinnell's Board of Trustees](trustees-2023-05-06) (Musing #1227)  

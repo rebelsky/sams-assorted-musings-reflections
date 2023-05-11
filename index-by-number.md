@@ -1591,3 +1591,8 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Another dinner with Grinnell's Board of Trustees](trustees-2023-05-06) (Musing #1227)  
 [Salaries](salaries-2023-05-07) (Musing #1228)  
 [CrashPlan and dotfiles](crashplan-dotfiles-2023-05-08) (Musing #1229)  
+[CrashPlan and relative soft links](crashplan-softlinks-2023-05-09) (Musing #1230)  
+
+## 1231-1240
+
+[Planning to crash](crashplan-2023-05-10) (Musing #1231)  
