@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 1231-1240
 
+[Forty-four years](forty-four-years-2023-05-11) (Musing #1232)  
 [Planning to crash](crashplan-2023-05-10) (Musing #1231)  
 
 ## 1221-1230

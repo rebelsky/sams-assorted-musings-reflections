@@ -633,3 +633,7 @@ Autobiographical essays, more or less
 
 > Exclamation point! 
 
+[Forty-four years](forty-four-years-2023-05-11) (Musing #1232)
+
+> It gets easier!
+
