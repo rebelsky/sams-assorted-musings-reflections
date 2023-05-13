@@ -170,8 +170,9 @@ the same week.  I'm pretty good at creating Web sites and having
 students create Web sites; I've been doing so since 1995.  If I
 attended, I'd likely end up being a troublemaker ("I don't want my
 students to use some crappy site builder; they should write raw
-HTML/CSS.").  So it's probably best that I not attend.  Also, it's
-the last week of summer research [32].
+HTML/CSS.").  So it's probably best that I not attend, even if I'd
+likely learn some new uses of the Web, as I always learn from Mo.
+Also, it's the last week of summer research [32].
 
 NSO [33] begins on August 20 and classes begin on August 26, so
 you might think we'd have exhausted the summer workshops. Nonetheless,
