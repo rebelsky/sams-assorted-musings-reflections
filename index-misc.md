@@ -874,3 +874,7 @@ Almost everything else
 
 > I think I understand.
 
+[One two three four!](onetwothreefour) (Musing #1234)
+
+> Five?
+
