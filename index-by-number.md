@@ -1597,3 +1597,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 
 [Planning to crash](crashplan-2023-05-10) (Musing #1231)  
 [Forty-four years](forty-four-years-2023-05-11) (Musing #1232)  
+[Faculty nightmares](faculty-nightmares-2023-05-12) (Musing #1233)  

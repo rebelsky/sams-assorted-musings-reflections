@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Forty-four years](forty-four-years-2023-05-11) (Musing #1232)
+[Faculty nightmares](faculty-nightmares-2023-05-12) (Musing #1233)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

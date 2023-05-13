@@ -105,3 +105,7 @@ On life in academia
 
 > Wow, that's a long title.
 
+[Faculty nightmares](faculty-nightmares-2023-05-12) (Musing #1233)
+
+> Not the same as normal nightmares.
+
