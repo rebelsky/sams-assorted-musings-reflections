@@ -85,7 +85,7 @@ Of course, that would be an even bigger budget hit than $1/hour for students.  D
  
 > * EXAMPLES: Discuss real examples to illustrate perspectives about the Union and its expansion.  _These are quasi-real.  And I've made it clear when I've estimated.  I'm not sure I've illustrated a perspective, though._
 
-I do not seem to have tipped off our foes.  Alternately, I've followed policy.
+I do not seem to have tipped off our foes.  Alternately, I've followed policy.  I should be fine.
 
 ---
 
