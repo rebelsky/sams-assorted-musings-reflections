@@ -3252,6 +3252,10 @@ Grinnell.
 
 > Why do I care?
 
+[Student wages](student-wages-2023-05-15) (Musing #1235)
+
+> Some back-of-the-envelope calculations.
+
 Registration and Related Topics
 -------------------------------
 

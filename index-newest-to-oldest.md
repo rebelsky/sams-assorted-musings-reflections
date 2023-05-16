@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 1231-1240
 
+[Student wages](student-wages-2023-05-15) (Musing #1235)  
 [One two three four!](onetwothreefour) (Musing #1234)  
 [Faculty nightmares](faculty-nightmares-2023-05-12) (Musing #1233)  
 [Forty-four years](forty-four-years-2023-05-11) (Musing #1232)  

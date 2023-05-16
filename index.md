@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[One two three four!](onetwothreefour) (Musing #1234)
+[Student wages](student-wages-2023-05-15) (Musing #1235)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
