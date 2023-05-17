@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 1231-1240
 
+[Do not Cease and Desist!](cease-and-desist-2023-05-16) (Musing #1236)  
 [Student wages](student-wages-2023-05-15) (Musing #1235)  
 [One two three four!](onetwothreefour) (Musing #1234)  
 [Faculty nightmares](faculty-nightmares-2023-05-12) (Musing #1233)  

@@ -109,3 +109,7 @@ On life in academia
 
 > Not the same as normal nightmares.
 
+[Do not Cease and Desist!](cease-and-desist-2023-05-16) (Musing #1236)
+
+> Such a great response!
+

@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Student wages](student-wages-2023-05-15) (Musing #1235)
+[Do not Cease and Desist!](cease-and-desist-2023-05-16) (Musing #1236)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
