@@ -3,9 +3,9 @@ title: Planning to crash
 number: 1231
 tags: [Rants](index-rants), technology
 blurb: The third in a series.  Perhaps the last in the series.
-version: 1.0
+version: 1.0.1
 released: 2023-05-10
-current: 
+current: 2023-05-17
 ---
 As I've noted in [my prior musing](crashplan-softlinks-2023-05-09) and [the one before that](crashplan-dotfiles-2023-05-08), ITS at Grinnell has installed CrashPlan on College-owned faculty and staff laptops.  CrashPlan is cloud-based backup software that also permits local backups.
 
@@ -23,7 +23,7 @@ Here's the answer, as best I understand it.
 
 > CrashPlan is not intended to make it easy for faculty and staff to back up and restore their laptops.  CrashPlan is only intended to make backups so that the College can access faculty/staff data on laptops, presumably for matters of legal hold or legal challenge.
 
-That's right, CrashPlan provides no utility to users. Instead, it is yet another piece of software in the paranoid ITS`regime's toolkit.
+That's right, CrashPlan provides no utility to users. Instead, it is yet another piece of software in the paranoid ITS regime's toolkit.
 
 I realize that ITS needs to make our data available in cases of legal hold.  Perhaps I should be glad that they're taking over the process; I lost a day of vacation when the College decided that a legal hold had been placed on my data, and I had to handle making all the backups [8].
 
