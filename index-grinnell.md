@@ -419,3 +419,7 @@ Grinnell.
 
 > Some back-of-the-envelope calculations.
 
+[Mixed messages](multiple-section-courses-2023-05-20) (Musing #1238)
+
+> Are different sections of the same course equivalent?
+

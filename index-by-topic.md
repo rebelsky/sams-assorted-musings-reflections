@@ -1550,6 +1550,10 @@ Rants
 
 > The third in a series.  Perhaps the last in the series.
 
+[Ah, the joy of Microsoft](microsoft-directory-2023-05-17) (Musing #1237)
+
+> More technology failures.
+
 Assorted talks and speeches
 ---------------------------
 
@@ -3259,6 +3263,10 @@ Grinnell.
 [Student wages](student-wages-2023-05-15) (Musing #1235)
 
 > Some back-of-the-envelope calculations.
+
+[Mixed messages](multiple-section-courses-2023-05-20) (Musing #1238)
+
+> Are different sections of the same course equivalent?
 
 Registration and Related Topics
 -------------------------------

@@ -638,3 +638,7 @@ Rants
 
 > The third in a series.  Perhaps the last in the series.
 
+[Ah, the joy of Microsoft](microsoft-directory-2023-05-17) (Musing #1237)
+
+> More technology failures.
+

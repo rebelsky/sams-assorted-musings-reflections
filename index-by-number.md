@@ -1601,3 +1601,5 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [One two three four!](onetwothreefour) (Musing #1234)  
 [Student wages](student-wages-2023-05-15) (Musing #1235)  
 [Do not Cease and Desist!](cease-and-desist-2023-05-16) (Musing #1236)  
+[Ah, the joy of Microsoft](microsoft-directory-2023-05-17) (Musing #1237)  
+[Mixed messages](multiple-section-courses-2023-05-20) (Musing #1238)  
