@@ -5228,6 +5228,10 @@ Almost everything else
 
 > Five?
 
+[The fix ain't in](celtics-lakers-2023-05-23) (Musing #1240)
+
+> Surprising.
+
 Musings with multiple entries
 -----------------------------
 

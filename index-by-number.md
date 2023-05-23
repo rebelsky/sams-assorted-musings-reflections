@@ -1604,3 +1604,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Ah, the joy of Microsoft](microsoft-directory-2023-05-17) (Musing #1237)  
 [Mixed messages](multiple-section-courses-2023-05-20) (Musing #1238)  
 [A curmudgeon attends Grinnell's 2023 graduation](graduation-2023) (Musing #1239)  
+[The fix ain't in](celtics-lakers-2023-05-23) (Musing #1240)  
