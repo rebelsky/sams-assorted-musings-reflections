@@ -423,3 +423,14 @@ Grinnell.
 
 > Are different sections of the same course equivalent?
 
+[A curmudgeon attends Grinnell's 2023 graduation](graduation-2023) (Musing #1239)
+
+> Why can't I just be happy?
+
+grep: graduation-2023.md\r: No such file or directory
+grep: graduation-2023.md\r: No such file or directory
+grep: graduation-2023.md\r: No such file or directory
+[](graduation-2023.md) (Musing #XXX)
+
+> XXX
+
