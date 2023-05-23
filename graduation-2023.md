@@ -3,9 +3,9 @@ title: A curmudgeon attends Grinnell's 2023 graduation
 number: 1239
 tags: [Grinnell](index-grinnell)
 blurb: Why can't I just be happy?
-version: 1.0
+version: 1.1
 released: 2023-05-22
-current: 
+current: 2023-05-23
 ---
 Today was Grinnell's annual graduation [1].  I should have been happy.  And I was, at times.  But I'm a curmudgeon, so I was also grumpy at far too many times [2].  I want to rant about some things.  But shouldn't I embrace the joy?  After all, most people at graduation were joyful (or seemed joyful [3]).  Still, some things bothered me.  Can I do both?  I can try.  I'll use italics for my curmudgeonly voice and a roman face for my more cheerful voice [4].
 
@@ -45,9 +45,9 @@ I was able to congratulate students and parents.  I also had the chance to talk 
 
 _But what about the CS breakfast?  That's a long-standing frustration, starting from the year they doubled the price, gave us less food, and the Dean wouldn't raise our budget for the increased price and increased number of majors, forcing us to pay from our restricted fund.  This year was also less than I'd hoped for.  While I don't blame anyone in particular, I think combining food for multiple departments is inappropriate if you're charging individual departments, having food outside the reception room is inconvenient, the tables needed tablecloths, and what's it with the brown orange juice?  I realize that College Catering can't be expected to keep up with the high demand, but what we get for what we are charged is inappropriate, particularly given that we are forced to use College Catering.  It also sucks that we have grown so much that we can't have the CS breakfast in the department._
 
-Fortunately, I'm not the chair of the department.  If all goes as planned, I'll never again be the department chair [8].  I have better things to worry about than catering and breakfast.  I shouldn't let events from the past color my experience of today.
+Fortunately, I'm not the chair of the department.  If all goes as planned, I'll never again be the department chair [8].  I have better things to worry about than catering and breakfast.  I shouldn't let events from the past color my experience of today.  After all, Dining Services does an absolutely amazing job feeding evereyone after graduation.
 
-I even came up with two new ideas for graduation.
+There are also other things to think about than CS breakfast.  I even came up with two new ideas for graduation.
 
 First, students wear caps at graduation.  The caps have tassels.  _No one seems to have taught the students the protocol for flipping the tassels_ [9], which is also not a particularly meaningful tradition.  In any case, this is Iowa.  "Detasseling" is a thing [10].  Couldn't we find a way to "detassel" the students' caps?
 
@@ -58,6 +58,8 @@ _Damn, I've been coopted by the slogan._
 It really was a wonderful graduation.  This class had their first year interrupted by the pandemic, their second year primarily online, and their third year behind masks.  Having them here in person for graduation was great.  And now that we've learned to stream, family and friends could visit virtually as well as in person.
 
 **Congratulations, Class of 2023!** [12]
+
+And **Thank you to everyone involved in making the graduation work so smooothly!**  I couldn't hope to list all the campus organizations involved, but FM and Dining Services did a particularly nice job.
 
 ---
 
