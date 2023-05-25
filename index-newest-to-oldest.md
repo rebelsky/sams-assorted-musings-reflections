@@ -1,6 +1,10 @@
 Musings, from newest to oldest
 ==============================
 
+## 1241-1250
+
+[The Frida Kahlo Mexican Restaurant](frida-kahlo-restaurant-2023-05-24) (Musing #1241)  
+
 ## 1231-1240
 
 [The fix ain't in](celtics-lakers-2023-05-23) (Musing #1240)  

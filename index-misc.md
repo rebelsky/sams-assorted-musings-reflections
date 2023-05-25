@@ -882,3 +882,7 @@ Almost everything else
 
 > Surprising.
 
+[The Frida Kahlo Mexican Restaurant](frida-kahlo-restaurant-2023-05-24) (Musing #1241)
+
+> NIL.
+

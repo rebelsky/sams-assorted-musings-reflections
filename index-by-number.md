@@ -1605,3 +1605,7 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Mixed messages](multiple-section-courses-2023-05-20) (Musing #1238)  
 [A curmudgeon attends Grinnell's 2023 graduation](graduation-2023) (Musing #1239)  
 [The fix ain't in](celtics-lakers-2023-05-23) (Musing #1240)  
+
+## 1241-1250
+
+[The Frida Kahlo Mexican Restaurant](frida-kahlo-restaurant-2023-05-24) (Musing #1241)  
