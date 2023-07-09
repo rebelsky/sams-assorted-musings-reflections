@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[The Frida Kahlo Mexican Restaurant](frida-kahlo-restaurant-2023-05-24) (Musing #1241)
+[Half-remembered childhood tales of infinite recursion](infinite-recursion-2023-07-08) (Musing #1242)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

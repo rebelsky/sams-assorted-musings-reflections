@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 1241-1250
 
+[Half-remembered childhood tales of infinite recursion](infinite-recursion-2023-07-08) (Musing #1242)  
 [The Frida Kahlo Mexican Restaurant](frida-kahlo-restaurant-2023-05-24) (Musing #1241)  
 
 ## 1231-1240

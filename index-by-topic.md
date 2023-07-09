@@ -4207,6 +4207,10 @@ Autobiographical essays, more or less
 
 > It gets easier!
 
+[Half-remembered childhood tales of infinite recursion](infinite-recursion-2023-07-08) (Musing #1242)
+
+> It was a dark and stormy night ...
+
 Salary reviews
 --------------
 
