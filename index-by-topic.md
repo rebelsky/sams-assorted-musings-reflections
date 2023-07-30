@@ -2245,6 +2245,10 @@ online, but they will soon expand to more general issues about teaching._
 
 > Maybe I shouldn't use my HCI class as a usability test.
 
+[Learning objectives for CSC-151 (2023Fa)](csc151-2023fa-learning-objectives) (Musing #1243)
+
+> How many? Which ones?
+
 Code camps
 ----------
 

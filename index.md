@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Half-remembered childhood tales of infinite recursion](infinite-recursion-2023-07-08) (Musing #1242)
+[Learning objectives for CSC-151 (2023Fa)](csc151-2023fa-learning-objectives) (Musing #1243)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
