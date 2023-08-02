@@ -3,9 +3,9 @@ title: Learning objectives for CSC-151 (2023Fa)
 number: 1243
 tags: [Teaching](index-teaching)
 blurb: How many? Which ones?
-version: 1.0
+version: 1.0.1
 released: 2023-08-01
-current: 
+current: 2023-08-01
 ---
 It's the time of the summer when I start getting my fall classes ready. I even feel a bit behind; there's less than a month until the first day of classes. Agh!
 
@@ -39,7 +39,7 @@ Let's start with the data. Here are my colleagues' learning objectives.
 * **List recursion**.  Design and write recursive functions over lists.
 * **Numeric recursion**.  Design and write recursive functions over the natural numbers.
 
-**Phase Three*
+**Phase Three**
 
 * **Dictionaries**.  Design and write functions that use dictionaries.
 * **Vectors**.  Design and write functions (potentially recursive functions) that use vectors.
@@ -69,7 +69,7 @@ What does my list look like? Here goes! I've also added a few comments on the ch
 * **Lambda-free anonymous procedures**. Use `section` and composition to simplify computations. _Section and composition provide a different way to think about building procedures. I spent enough time reading Backus' Turing Award Talk [5] that I consider this approach a key aspect of functional thinking._
 * **List recursion**.  Design and write recursive functions over lists.
 
-**Phase Three*
+**Phase Three**
 
 * **Ethical considerations**.  Consider implications of the power of computing. _My colleagues had added a day on ethical considerations (in addition to the ethical considerations I hope we consider throughout the semester). We show value by making it a learning outcome._
 * **Local bindings**. Refactor redundancy and add clarity in computations with let-bindings.
