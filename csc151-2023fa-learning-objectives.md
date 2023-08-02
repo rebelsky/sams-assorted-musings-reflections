@@ -4,12 +4,12 @@ number: 1243
 tags: [Teaching](index-teaching)
 blurb: How many? Which ones?
 version: 1.0
-released: 2023-07-29
+released: 2023-08-01
 current: 
 ---
 It's the time of the summer when I start getting my fall classes ready. I even feel a bit behind; there's less than a month until the first day of classes. Agh!
 
-Anyway, one of the first things I do when putting together a class is to summarize the learning objectives for the course (or at least the primary topics) [1]. The design of the class should be structured around those goals. In addition, since I'll be using a form of mastery grading in my fall classes, the learning objectives are central to the grading system.
+In any case, one of the first things I do when putting together a class is to summarize the learning objectives for the course (or at least the primary topics) [1]. The design of the class should be structured around those goals. In addition, since I'll be using a form of mastery grading in my fall classes, the learning objectives are central to the grading system.
 
 Today, we'll consider my preliminary design for the learning objectives for my section of CSC-151 [2]. This fall, I'm returning to a version of CSC-151 that emphasizes image making and manipulation. The last time I taught such a course was in the spring of 2017. 
 
@@ -101,7 +101,7 @@ _I'm not always predictable._  Perhaps that's why I added randomness.
 
 I found myself tempted to add learning objectives that correspond to the three models of image making we will use in the course (images as functions from positions to colors, images as collections of manipulated shapes, and turtle graphics). However, 24 learning objectives already seem like enough (or more than enough).
 
-I'll be meeting with the other Fall 2023 instructor sometime in the next few weeks to discuss whether or not we want common learning outcomes---or at least how many common learning outcomes we want. For example, I know the other sections tend to use pattern matching to decompose lists, but I prefer not to. I would expect pattern matching to be one of the learning outcomes for the other section.
+Is my set of 24 learning objectives better than my colleagues' 15?  Not necessarily.  There are reasons to prefer each approach.  I'll be meeting with the other Fall 2023 instructor sometime in the next few weeks to discuss whether or not we want common learning outcomes---or at least how many common learning outcomes we want. For example, I know the other sections tend to use pattern matching to decompose lists, but I prefer not to. I would expect pattern matching to be one of the learning outcomes for the other section.
 
 In a few weeks, you might be able to see where the discussions have led us.
 
