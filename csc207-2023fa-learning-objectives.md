@@ -3,9 +3,9 @@ title: Learning objectives for CSC-207 (2023Fa)
 number: 1244
 tags: [Teaching](index-teaching), unedited, rambly
 blurb: The task continues.
-version: 1.0
+version: 1.0.1
 released: 2023-08-02
-current: 
+current: 2023-08-02
 ---
 As I mentioned [yesterday](csc151-2023fa-learning-objectives), it's the time of the summer when I start getting my fall classes ready and I tend to start by drafting the learning objectives.  I used to start with a list of topics.  However, our assessment-centric institution has pushed me towards objectives (goals, outcomes, whatever).
 
@@ -252,7 +252,7 @@ I should also think about cutting down the number.  Stay tuned for more details.
 
 [3] These days, some people call it CS3.  I don't like that name, since it's not a common usage.  CS3 has also been used to mean "baby software design", among other things.  I can't believe that some major conferences have accepted papers that refer to Data Structures and Algorithms as CS3.
 
-[4] We've added object-oriented programming principles to the traditional CS2 dagta structures and algorithms.
+[4] We've added object-oriented programming principles to the traditional CS2 data structures and algorithms.
 
 [5] Building and analyzing algorithms, data structures, and ADTs represent the core of computer science, at least in my world.
 
