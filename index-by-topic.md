@@ -2249,6 +2249,10 @@ online, but they will soon expand to more general issues about teaching._
 
 > How many? Which ones?
 
+[Learning objectives for CSC-207 (2023Fa)](csc207-2023fa-learning-objectives) (Musing #1244)
+
+> The task continues.
+
 Code camps
 ----------
 
