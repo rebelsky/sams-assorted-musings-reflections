@@ -208,3 +208,7 @@ online, but they will soon expand to more general issues about teaching._
 
 > The task continues.
 
+[Scholars' Seminar, Abbreviated](scholars-seminar-abbreviated-2023-08-03) (Musing #1245)
+
+> Things all faculty should know
+

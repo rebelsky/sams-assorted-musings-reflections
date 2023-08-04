@@ -2253,6 +2253,10 @@ online, but they will soon expand to more general issues about teaching._
 
 > The task continues.
 
+[Scholars' Seminar, Abbreviated](scholars-seminar-abbreviated-2023-08-03) (Musing #1245)
+
+> Things all faculty should know
+
 Code camps
 ----------
 
@@ -3280,12 +3284,9 @@ Grinnell.
 
 > Why can't I just be happy?
 
-grep: graduation-2023.md\r: No such file or directory
-grep: graduation-2023.md\r: No such file or directory
-grep: graduation-2023.md\r: No such file or directory
-[](graduation-2023.md) (Musing #XXX)
+[Scholars' Seminar, Abbreviated](scholars-seminar-abbreviated-2023-08-03) (Musing #1245)
 
-> XXX
+> Things all faculty should know
 
 Registration and Related Topics
 -------------------------------

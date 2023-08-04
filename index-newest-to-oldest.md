@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 1241-1250
 
+[Scholars' Seminar, Abbreviated](scholars-seminar-abbreviated-2023-08-03) (Musing #1245)  
 [Learning objectives for CSC-207 (2023Fa)](csc207-2023fa-learning-objectives) (Musing #1244)  
 [Learning objectives for CSC-151 (2023Fa)](csc151-2023fa-learning-objectives) (Musing #1243)  
 [Half-remembered childhood tales of infinite recursion](infinite-recursion-2023-07-08) (Musing #1242)  
