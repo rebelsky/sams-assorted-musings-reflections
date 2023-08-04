@@ -81,3 +81,7 @@ A new CSC 151 (and other aspects of CSC 151)
 
 > General guidance for my generous graders.
 
+[Learning objectives for CSC-151 (2023Fa)](csc151-2023fa-learning-objectives) (Musing #1243)
+
+> How many? Which ones?
+

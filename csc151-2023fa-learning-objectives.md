@@ -1,11 +1,11 @@
 ---
 title: Learning objectives for CSC-151 (2023Fa)
 number: 1243
-tags: [Teaching](index-teaching)
+tags: [CSC-151](index-151)
 blurb: How many? Which ones?
-version: 1.0.1
+version: 1.0.2
 released: 2023-08-01
-current: 2023-08-01
+current: 2023-08-04
 ---
 It's the time of the summer when I start getting my fall classes ready. I even feel a bit behind; there's less than a month until the first day of classes. Agh!
 
