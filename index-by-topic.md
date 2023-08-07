@@ -3288,6 +3288,10 @@ Grinnell.
 
 > Things all faculty should know
 
+[A bit of joy](joy-2023-08-06) (Musing #1246)
+
+> Such wonderful colleagues.
+
 Registration and Related Topics
 -------------------------------
 
