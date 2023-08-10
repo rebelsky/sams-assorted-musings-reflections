@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[A bit of joy](joy-2023-08-06) (Musing #1246)
+[Updating Grinnell's Academic Honesty Handbook](academic-integrity-handbook-2023-08-09) (Musing #1247)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

@@ -435,3 +435,7 @@ Grinnell.
 
 > Such wonderful colleagues.
 
+[Updating Grinnell's Academic Honesty Handbook](academic-integrity-handbook-2023-08-09) (Musing #1247)
+
+> A bit of bragging.
+

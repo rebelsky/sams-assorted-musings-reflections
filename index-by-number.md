@@ -1614,3 +1614,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Learning objectives for CSC-207 (2023Fa)](csc207-2023fa-learning-objectives) (Musing #1244)  
 [Scholars' Seminar, Abbreviated](scholars-seminar-abbreviated-2023-08-03) (Musing #1245)  
 [A bit of joy](joy-2023-08-06) (Musing #1246)  
+[Updating Grinnell's Academic Honesty Handbook](academic-integrity-handbook-2023-08-09) (Musing #1247)  
