@@ -4228,6 +4228,10 @@ Autobiographical essays, more or less
 
 > It was a dark and stormy night ...
 
+[Two weeks to go](two-weeks-to-go-2023-08-10) (Musing #1248)
+
+> Panic!  Panic!
+
 Salary reviews
 --------------
 
