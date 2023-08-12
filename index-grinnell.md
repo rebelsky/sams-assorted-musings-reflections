@@ -439,3 +439,7 @@ Grinnell.
 
 > A bit of bragging.
 
+[Major counts, more or less](major-counts-2023-08-11) (Musing #1249)
+
+> Terrifying data.
+

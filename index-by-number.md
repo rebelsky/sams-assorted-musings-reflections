@@ -1616,3 +1616,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [A bit of joy](joy-2023-08-06) (Musing #1246)  
 [Updating Grinnell's Academic Honesty Handbook](academic-integrity-handbook-2023-08-09) (Musing #1247)  
 [Two weeks to go](two-weeks-to-go-2023-08-10) (Musing #1248)  
+[Major counts, more or less](major-counts-2023-08-11) (Musing #1249)  
