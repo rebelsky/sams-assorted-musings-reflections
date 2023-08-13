@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Major counts, more or less](major-counts-2023-08-11) (Musing #1249)
+[Sam attends student supervisor training](student-supervisor-training-2023-08-11) (Musing #1250)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

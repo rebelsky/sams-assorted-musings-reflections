@@ -3300,6 +3300,10 @@ Grinnell.
 
 > Terrifying data.
 
+[Sam attends student supervisor training](student-supervisor-training-2023-08-11) (Musing #1250)
+
+> More enjoyable than I'd expected.
+
 Registration and Related Topics
 -------------------------------
 
