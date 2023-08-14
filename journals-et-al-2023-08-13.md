@@ -1,5 +1,5 @@
 ---
-title: Journals, notebooks, diaries, and blogs
+title: Journals, notebooks, diaries, and 'blogs
 number: 1251
 tags: [On writing](index-on-writing)
 blurb: So many options
