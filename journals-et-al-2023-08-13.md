@@ -40,6 +40,7 @@ As I said, I may start "journaling" in the Schuster sense.  I'll let you know af
 ---
 
 **_Postscript_**: Aren't you delighted that I didn't detour into dictionary definitions of the diverse designations for documentation?
+
 ---
 
 [1] No relation to Ivy, at least none that I know of.
