@@ -1,6 +1,10 @@
 Musings, from newest to oldest
 ==============================
 
+## 1251-1260
+
+[Journals, notebooks, diaries, and blogs](journals-et-al-2023-08-13) (Musing #1251)  
+
 ## 1241-1250
 
 [Sam attends student supervisor training](student-supervisor-training-2023-08-11) (Musing #1250)  

@@ -1618,3 +1618,7 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Two weeks to go](two-weeks-to-go-2023-08-10) (Musing #1248)  
 [Major counts, more or less](major-counts-2023-08-11) (Musing #1249)  
 [Sam attends student supervisor training](student-supervisor-training-2023-08-11) (Musing #1250)  
+
+## 1251-1260
+
+[Journals, notebooks, diaries, and blogs](journals-et-al-2023-08-13) (Musing #1251)  

@@ -155,3 +155,7 @@ Essays on writing, or at least on writing my musings
 
 > A pathography
 
+[Journals, notebooks, diaries, and blogs](journals-et-al-2023-08-13) (Musing #1251)
+
+> So many options
+
