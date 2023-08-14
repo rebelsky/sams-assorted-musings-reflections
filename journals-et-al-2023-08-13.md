@@ -7,7 +7,7 @@ version: 1.0
 released: 2023-08-13
 current: 
 ---
-We have the next meeting of the Rebelsky Family Book Club in a few weeks.  In preparation for that meeting, I'm reading _Buy Yourself the F*cking Lilies: And Other Rituals to Fix Your Life_ by Tara Schuster [1], one of the books we plan to discuss [2].  Early on in the book, Schuster writes about the value of journaling.  However, her model of journaling is a bit different than mine, or at least seems different.  Hers is a "daily word-vomit [of] your thoughts onto three pages of paper".  But she doesn't really mean thoughts.  She means emotions.  You can tell that by reading the first hint she gives you.
+We have the next meeting of the Rebelsky Family Book Club in a few weeks.  In preparation for that meeting, I'm reading _Buy Yourself the F\*cking Lilies: And Other Rituals to Fix Your Life_ by Tara Schuster [1], one of the books we plan to discuss [2].  Early on in the book, Schuster writes about the value of journaling.  However, her model of journaling is a bit different than mine, or at least seems different.  Hers is a "daily word-vomit [of] your thoughts onto three pages of paper".  But she doesn't really mean thoughts.  She means emotions.  You can tell that by reading the first hint she gives you.
 
 > 1\. **Admit the thought or feeling** [3] you're having, no matter how dark, petty, or seemingly insignificant.  Permit the feeling or thought to exist even if it's something as small as "An ex reached out to me today and it made me feel uncomfortable thinking about all the _what-ifs_," or as large as "It's always bothered me that my dad isn't much of a hugger.  I haven't ever really talked about this, but I always wanted to be held." [4]
 
