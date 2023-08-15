@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 1251-1260
 
+[High-level skills, low-level tasks](high-level-low-level-2023-08-14) (Musing #1252)  
 [Journals, notebooks, diaries, and blogs](journals-et-al-2023-08-13) (Musing #1251)  
 
 ## 1241-1250

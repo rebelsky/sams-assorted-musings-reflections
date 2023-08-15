@@ -1622,3 +1622,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 ## 1251-1260
 
 [Journals, notebooks, diaries, and blogs](journals-et-al-2023-08-13) (Musing #1251)  
+[High-level skills, low-level tasks](high-level-low-level-2023-08-14) (Musing #1252)  

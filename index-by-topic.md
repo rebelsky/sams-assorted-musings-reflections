@@ -5273,6 +5273,10 @@ Almost everything else
 
 > NIL.
 
+[High-level skills, low-level tasks](high-level-low-level-2023-08-14) (Musing #1252)
+
+> Not the best combination.
+
 Musings with multiple entries
 -----------------------------
 
