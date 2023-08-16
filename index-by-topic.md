@@ -2681,6 +2681,10 @@ A new CSC 151 (and other aspects of CSC 151)
 
 > How many? Which ones?
 
+[Preliminary notes on revised image models for CSC-151](csc151-image-models-v0) (Musing #1253)
+
+> Just starting to think through the issues.
+
 Grinnellians you should know (or know about)
 --------------------------------------------
 
