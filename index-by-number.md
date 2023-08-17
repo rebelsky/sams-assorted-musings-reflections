@@ -1624,3 +1624,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Journals, notebooks, diaries, and blogs](journals-et-al-2023-08-13) (Musing #1251)  
 [High-level skills, low-level tasks](high-level-low-level-2023-08-14) (Musing #1252)  
 [Preliminary notes on revised image models for CSC-151](csc151-image-models-v0) (Musing #1253)  
+[On writing and computers (perhaps also ChatGPT and large language models)](writing-computers-2023-08-16) (Musing #1254)  

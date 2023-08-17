@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Preliminary notes on revised image models for CSC-151](csc151-image-models-v0) (Musing #1253)
+[On writing and computers (perhaps also ChatGPT and large language models)](writing-computers-2023-08-16) (Musing #1254)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
