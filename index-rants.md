@@ -642,3 +642,7 @@ Rants
 
 > More technology failures.
 
+[Another inappropriate B-word](other-b-word-2023-08-21) (Musing #1256)
+
+> Let's consider each other's feelings.
+

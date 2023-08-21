@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 1251-1260
 
+[Another inappropriate B-word](other-b-word-2023-08-21) (Musing #1256)  
 [Placement in CS](cs-placement-2023-08-20) (Musing #1255)  
 [On writing and computers (perhaps also ChatGPT and large language models)](writing-computers-2023-08-16) (Musing #1254)  
 [Preliminary notes on revised image models for CSC-151](csc151-image-models-v0) (Musing #1253)  

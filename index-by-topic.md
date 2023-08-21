@@ -221,6 +221,10 @@ to them eventually._
 
 > Complicated, but sometimes necessarily so.
 
+[Another inappropriate B-word](other-b-word-2023-08-21) (Musing #1256)
+
+> Let's consider each other's feelings.
+
 ChatGPT, LLMs, and Other Similar Issues
 ---------------------------------------
 
@@ -1564,6 +1568,10 @@ Rants
 [Ah, the joy of Microsoft](microsoft-directory-2023-05-17) (Musing #1237)
 
 > More technology failures.
+
+[Another inappropriate B-word](other-b-word-2023-08-21) (Musing #1256)
+
+> Let's consider each other's feelings.
 
 Assorted talks and speeches
 ---------------------------

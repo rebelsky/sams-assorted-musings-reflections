@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Placement in CS](cs-placement-2023-08-20) (Musing #1255)
+[Another inappropriate B-word](other-b-word-2023-08-21) (Musing #1256)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
