@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[On writing and computers (perhaps also ChatGPT and large language models)](writing-computers-2023-08-16) (Musing #1254)
+[Placement in CS](cs-placement-2023-08-20) (Musing #1255)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

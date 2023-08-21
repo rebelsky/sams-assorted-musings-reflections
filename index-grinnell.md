@@ -447,3 +447,7 @@ Grinnell.
 
 > More enjoyable than I'd expected.
 
+[Placement in CS](cs-placement-2023-08-20) (Musing #1255)
+
+> It's complicated.
+
