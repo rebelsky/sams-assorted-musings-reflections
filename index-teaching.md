@@ -208,3 +208,7 @@ online, but they will soon expand to more general issues about teaching._
 
 > Things all faculty should know
 
+[Metacognitive wrappers, revised](metacognitive-wrappers-2023-09-04) (Musing #1257)
+
+> Inspiration from Scholar's Seminar.
+
