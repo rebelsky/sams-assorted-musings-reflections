@@ -1627,3 +1627,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [On writing and computers (perhaps also ChatGPT and large language models)](writing-computers-2023-08-16) (Musing #1254)  
 [Placement in CS](cs-placement-2023-08-20) (Musing #1255)  
 [Another inappropriate B-word](other-b-word-2023-08-21) (Musing #1256)  
+[Metacognitive wrappers, revised](metacognitive-wrappers-2023-09-04) (Musing #1257)  

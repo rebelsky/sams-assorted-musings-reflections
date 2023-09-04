@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 1251-1260
 
+[Metacognitive wrappers, revised](metacognitive-wrappers-2023-09-04) (Musing #1257)  
 [Another inappropriate B-word](other-b-word-2023-08-21) (Musing #1256)  
 [Placement in CS](cs-placement-2023-08-20) (Musing #1255)  
 [On writing and computers (perhaps also ChatGPT and large language models)](writing-computers-2023-08-16) (Musing #1254)  
