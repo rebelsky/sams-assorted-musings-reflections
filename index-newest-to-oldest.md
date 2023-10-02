@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 1251-1260
 
+[So many research papers to assess!](so-many-papers-2023-10-01) (Musing #1258)  
 [Metacognitive wrappers, revised](metacognitive-wrappers-2023-09-04) (Musing #1257)  
 [Another inappropriate B-word](other-b-word-2023-08-21) (Musing #1256)  
 [Placement in CS](cs-placement-2023-08-20) (Musing #1255)  
