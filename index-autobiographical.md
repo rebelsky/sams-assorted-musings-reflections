@@ -645,3 +645,7 @@ Autobiographical essays, more or less
 
 > Panic!  Panic!
 
+[Happy birthday, Love!](michelle-2023-12-03) (Musing #1259)
+
+> "My gift is my 'blog, and this one's for you."
+

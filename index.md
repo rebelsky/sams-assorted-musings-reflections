@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[So many research papers to assess!](so-many-papers-2023-10-01) (Musing #1258)
+[Happy birthday, Love!](michelle-2023-12-03) (Musing #1259)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
