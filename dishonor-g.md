@@ -3,9 +3,9 @@ title: The (Dis-)Honor G
 number: 1260
 tags: [Grinnell](index-grinnell), [Rants](index-rants)
 blurb: Harm is not marketing. 
-version: 1.0
+version: 1.0.1
 released: 2023-12-16
-current: 
+current: 2023-12-16
 ---
 Grinnell has approximately four primary insignia/logos. 
 
@@ -27,7 +27,7 @@ And then there's the Honor G, the symbol used for our athletics program.
 
 <img src="images/grinnell-college-honor-g.png" alt="A black iron cross shape with a red iron cross shape within it and the letter G within that." width=300/">
 
-Does that image shock you? It surprises many people the first time. They ask,
+Does that image shock you? It surprises many people the first time they see it. They ask,
 
 > Why is Grinnell using a version of [the Iron Cross](https://www.adl.org/resources/hate-symbol/iron-cross) as a logo, given that it's a known hate symbol?
 
@@ -47,7 +47,7 @@ I let the question drop. Or at least I put it on the back burner. However, the r
 
 This time, the response was much less encouraging. Something like "We are considering it as part of our broader marketing plans."
 
-**A hateful and harmful symbol is not a marketing issue.** I don't know a more polite way to say that.
+**A hateful and harmful symbol is not a marketing issue.** I don't know a polite way to say that. I shouldn't have to say that.
 
 I realize that there are, perhaps, financial issues at play. Some alums are likely incredibly fond the Honor G and might withhold donations if we eliminated it. And the process of removing it from campus will likely be expensive, as well as complicated. For example, do we change all the championship banners that include the symbol?
 
@@ -55,11 +55,11 @@ But these issues can be resolved. If we've done our jobs correctly, our alums sh
 
 _Why is it so hard?_
 
-Continuing to use this symbol when we know that it is a symbol of hate dishonors the College and dishonors the athletes who wear it. Hence, I consider it not an "Honor G" but rather a "Dishonor G". 
+Continuing to use this symbol when we know that it is **a symbol of hate dishonors the College and dishonors the athletes who wear it**. Hence, I consider it not an "Honor G" but rather a "Dishonor G". 
 
 Unfortunately, this group considering "broader marketing plans" has no faculty representatives. I'm not even sure who is in the group. I don't have a representative with whom I can raise my concerns [9]. Hence, I'm musing instead. I know some Trustees sometimes read my musings. I hope they read this one and act on it.
 
-Soon.
+Soon!
 
 ---
 
