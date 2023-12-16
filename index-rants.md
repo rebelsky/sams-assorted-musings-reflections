@@ -646,3 +646,7 @@ Rants
 
 > Let's consider each other's feelings.
 
+[The (Dis-)Honor G](dishonor-g) (Musing #1260)
+
+> Harm is not marketing. 
+

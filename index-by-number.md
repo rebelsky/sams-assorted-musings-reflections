@@ -1630,3 +1630,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Metacognitive wrappers, revised](metacognitive-wrappers-2023-09-04) (Musing #1257)  
 [So many research papers to assess!](so-many-papers-2023-10-01) (Musing #1258)  
 [Happy birthday, Love!](michelle-2023-12-03) (Musing #1259)  
+[The (Dis-)Honor G](dishonor-g) (Musing #1260)  

@@ -1573,6 +1573,10 @@ Rants
 
 > Let's consider each other's feelings.
 
+[The (Dis-)Honor G](dishonor-g) (Musing #1260)
+
+> Harm is not marketing. 
+
 Assorted talks and speeches
 ---------------------------
 
@@ -3338,6 +3342,10 @@ Grinnell.
 [Placement in CS](cs-placement-2023-08-20) (Musing #1255)
 
 > It's complicated.
+
+[The (Dis-)Honor G](dishonor-g) (Musing #1260)
+
+> Harm is not marketing. 
 
 Registration and Related Topics
 -------------------------------

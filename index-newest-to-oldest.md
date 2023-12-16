@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 1251-1260
 
+[The (Dis-)Honor G](dishonor-g) (Musing #1260)  
 [Happy birthday, Love!](michelle-2023-12-03) (Musing #1259)  
 [So many research papers to assess!](so-many-papers-2023-10-01) (Musing #1258)  
 [Metacognitive wrappers, revised](metacognitive-wrappers-2023-09-04) (Musing #1257)  
