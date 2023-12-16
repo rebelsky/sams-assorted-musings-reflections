@@ -3,7 +3,7 @@ title: The (Dis-)Honor G
 number: 1260
 tags: [Grinnell](index-grinnell), [Rants](index-rants)
 blurb: Harm is not marketing. 
-version: 1.0.1
+version: 1.0.2
 released: 2023-12-16
 current: 2023-12-16
 ---
@@ -11,21 +11,21 @@ Grinnell has approximately four primary insignia/logos.
 
 There's the College seal, which seems to appear primarily on official documents and some podia around campus [1,2,3,4].  Or at least it used to.
 
-<img src="images/grinnell-college-seal.png" alt="A circular seal. At the top, it reads 'COLLEGIUM IOWENSE'. At the bottom, it reads 'Grinnelli'. There's a book at the center. Above the book are the words 'CHRISTO DUCE' in a ribbon shape. Below the book is the year MDCCCXLVII." width=300/>
+<img src="images/grinnell-college-seal.png" alt="A circular seal. At the top, it reads 'COLLEGIUM IOWENSE'. At the bottom, it reads 'Grinnelli'. There's a book at the center. Above the book are the words 'CHRISTO DUCE' in a ribbon shape. Below the book is the year MDCCCXLVII." width=100/>
 
 There's our primary logo, a set of four laurel leaves.
 
-<img src="images/grinnell-college-laurel-leaves.png" alt="Four red curvy shapes, arranged approximately in a two-by-two grid" width=300/>
+<img src="images/grinnell-college-laurel-leaves.png" alt="Four red curvy shapes, arranged approximately in a two-by-two grid" width=100/>
 
 There's a hybrid of the two that I did not realize we were using but found while searching for the primary logo.  
 
-<img src="images/grinnell-college-logo-veritas.png" alt="The laurel leaves in white on a black oval-like shape, with lines through the upper-right and lower-left leaves. The year 1846 is about the leaves. The words VERITAS ET HUMANITAS are at the top, above the black oval. The words COLLEGIUM GRINNELLENSE are below." width=300/>
+<img src="images/grinnell-college-logo-veritas.png" alt="The laurel leaves in white on a black oval-like shape, with lines through the upper-right and lower-left leaves. The year 1846 is about the leaves. The words VERITAS ET HUMANITAS are at the top, above the black oval. The words COLLEGIUM GRINNELLENSE are below." width=100/>
 
 Perhaps it's not so much a hybrid as an update of the seal. I'm not sure. I was surprised how many copies of this one are out there.
 
 And then there's the Honor G, the symbol used for our athletics program.
 
-<img src="images/grinnell-college-honor-g.png" alt="A black iron cross shape with a red iron cross shape within it and the letter G within that." width=300/">
+<img src="images/grinnell-college-honor-g.png" alt="A black iron cross shape with a red iron cross shape within it and the letter G within that." width=100/">
 
 Does that image shock you? It surprises many people the first time they see it. They ask,
 
