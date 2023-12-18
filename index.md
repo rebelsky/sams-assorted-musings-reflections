@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[The (Dis-)Honor G](dishonor-g) (Musing #1260)
+[Experiments in portfolio mastery grading](portfolio-mastery-grading) (Musing #1261)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

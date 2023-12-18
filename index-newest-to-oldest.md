@@ -1,6 +1,10 @@
 Musings, from newest to oldest
 ==============================
 
+## 1261-1270
+
+[Experiments in portfolio mastery grading](portfolio-mastery-grading) (Musing #1261)  
+
 ## 1251-1260
 
 [The (Dis-)Honor G](dishonor-g) (Musing #1260)  

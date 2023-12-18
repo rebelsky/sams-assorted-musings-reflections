@@ -1631,3 +1631,7 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [So many research papers to assess!](so-many-papers-2023-10-01) (Musing #1258)  
 [Happy birthday, Love!](michelle-2023-12-03) (Musing #1259)  
 [The (Dis-)Honor G](dishonor-g) (Musing #1260)  
+
+## 1261-1270
+
+[Experiments in portfolio mastery grading](portfolio-mastery-grading) (Musing #1261)  

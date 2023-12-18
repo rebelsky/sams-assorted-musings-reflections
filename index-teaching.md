@@ -212,3 +212,7 @@ online, but they will soon expand to more general issues about teaching._
 
 > Inspiration from Scholar's Seminar.
 
+[Experiments in portfolio mastery grading](portfolio-mastery-grading) (Musing #1261)
+
+> A good idea that needs some work.
+
