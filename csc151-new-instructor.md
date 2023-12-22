@@ -3,9 +3,9 @@ title: Starting a guide for new CSC-151 instructors
 number: 1263
 tags: [CSC151](index-151)
 blurb: A guide for my colleague(s).
-version: 1.0
+version: 1.0.1
 released: 2023-12-21
-current: 
+current: 2023-12-22
 ---
 This coming spring, one of my awesome new colleagues [1] is co-teaching CSC-151 with me. This will be the first time they've taught CSC-151, and I may be less available than usual, so it seemed like a good time to start gathering the information on CSC-151 for the colleague and future colleagues [2]. The information may also be useful for students (current and prospective), class mentors, faculty at other institutions, and, um, others I have not yet determined.
 
@@ -74,7 +74,7 @@ We have two implementations of Scheme available to us: _DrRacket_ and _Scamper_.
 
 We have _custom Racket libraries_ for the DrRacket version of the course. These include some additional image-making procedures, an alternate syntax for regular expressions, and some higher-order procedures I find useful as I get students to think functionally.
 
-We build the Web site with _Jekyll_. I suppose I need to provide instructions for our Jekyll sites, too. Historically, we've deployed those to our personal sites (now on sites.grinnell.edu). However, there is also a [csc151.sites.grinnell.edu](https://csc151.sites.grinnell.edu). I admit to being a fan of individual sites, particularly since I put things on my course site that others may not want on their sites, such as my philosophy of teaching and learning.
+We build the Web site with _Jekyll_. I suppose I need to provide instructions for our Jekyll sites, too. Historically, we've deployed those to our personal sites (now on sites.grinnell.edu). However, there is also a [csc151.cs.grinnell.edu](https://csc151.cs.grinnell.edu). I admit to being a fan of individual sites, particularly since I put things on my course site that others may not want on their sites, such as my philosophy of teaching and learning.
 
 We use _Git_ (and _GitHub_) to maintain the readings, labs, and other Web site materials, as well as various libraries and utility programs. There are enough Git repos involved that I need a separate document to describe them all.
 
