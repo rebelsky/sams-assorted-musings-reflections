@@ -3,9 +3,9 @@ title: Reflections on yet another registration process
 number: 1262
 tags: [Registration](index-registration), [Grinnell](index-grinnell)
 blurb: It's complicated. 
-version: 1.0
+version: 1.0.1
 released: 2023-12-20
-current:
+current: 2023-12-21
 ---
 _Note: I started this musing about a month ago. Since Registration didn't finish before Thanksgiving, I didn't finish the musing. I've updated it, but it may not have done a perfect job. Please excuse any tense switches._
 
@@ -84,7 +84,7 @@ Courses might over-enroll in phase one. Hence, in phase two, we'd see what adjus
 
 In phase three, each student would be permitted to add _one_ elective class. Students who had side-enrolled in a special course (e.g., one with a study-abroad component) would have that course count for their phase-three course. Our current waitlist + priority approach might work well here, although I'd suggest that we simply enroll students in courses directly as we take them off the waitlist, rather than inviting them to enroll. 
 
-Note that some students might have only two courses after phase three (one for their major and one elective) while others might have as many as four (one for each of two majors, one required external course, and the elective). That's it's own kind of inquity, but I consider it much less inequitable than our current system.
+Note that some students might have only two courses after phase three (one for their major and one elective) while others might have as many as four (one for each of two majors, one required external course, and the elective). That's it's own kind of inequity, but I consider it much less inequitable than our current system.
 
 After phase three, each student should have (a) courses that allow them to advance in their major(s) and (b) an elective they would like.  At this point, we could move to open, first-come, first-served registration in phase four. That phase could also prioritize students by seniority.
 
