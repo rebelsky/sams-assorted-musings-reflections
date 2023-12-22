@@ -3,7 +3,8 @@ Musings, from newest to oldest
 
 ## 1261-1270
 
-[Reflections on yet another registration registration process](registration-2023-12-20) (Musing #1262)  
+[Starting a guide for new CSC-151 instructors](csc151-new-instructor) (Musing #1263)  
+[Reflections on yet another registration process](registration-2023-12-20) (Musing #1262)  
 [Experiments in portfolio mastery grading](portfolio-mastery-grading) (Musing #1261)  
 
 ## 1251-1260

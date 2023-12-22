@@ -129,7 +129,7 @@ the registration process at Grinnell.*
 
 > So interesting!
 
-[Reflections on yet another registration registration process](registration-2023-12-20) (Musing #1262)
+[Reflections on yet another registration process](registration-2023-12-20) (Musing #1262)
 
 > It's complicated. 
 

@@ -1,5 +1,5 @@
 ---
-title: Reflections on yet another registration registration process
+title: Reflections on yet another registration process
 number: 1262
 tags: [Registration](index-registration), [Grinnell](index-grinnell)
 blurb: It's complicated. 

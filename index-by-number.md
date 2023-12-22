@@ -1635,4 +1635,5 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 ## 1261-1270
 
 [Experiments in portfolio mastery grading](portfolio-mastery-grading) (Musing #1261)  
-[Reflections on yet another registration registration process](registration-2023-12-20) (Musing #1262)  
+[Reflections on yet another registration process](registration-2023-12-20) (Musing #1262)  
+[Starting a guide for new CSC-151 instructors](csc151-new-instructor) (Musing #1263)  

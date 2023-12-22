@@ -2720,6 +2720,10 @@ A new CSC 151 (and other aspects of CSC 151)
 
 > Just starting to think through the issues.
 
+[Starting a guide for new CSC-151 instructors](csc151-new-instructor) (Musing #1263)
+
+> A guide for my colleague(s).
+
 Grinnellians you should know (or know about)
 --------------------------------------------
 
@@ -3486,7 +3490,7 @@ the registration process at Grinnell.*
 
 > So interesting!
 
-[Reflections on yet another registration registration process](registration-2023-12-20) (Musing #1262)
+[Reflections on yet another registration process](registration-2023-12-20) (Musing #1262)
 
 > It's complicated. 
 
