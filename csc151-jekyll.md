@@ -170,7 +170,7 @@ Merge changes into branch
 
 ### Organization
 
-# ### Content
+#### Content
 
 `_eboards` 
   : Live notes, used mostly in SamR's sections.
