@@ -3,9 +3,9 @@ title: Starting a guide for new CSC-151 instructors
 number: 1263
 tags: [CSC151](index-151)
 blurb: A guide for my colleague(s).
-version: 1.0.1
+version: 1.1.0
 released: 2023-12-21
-current: 2023-12-22
+current: 2023-12-30
 ---
 This coming spring, one of my awesome new colleagues [1] is co-teaching CSC-151 with me. This will be the first time they've taught CSC-151, and I may be less available than usual, so it seemed like a good time to start gathering the information on CSC-151 for the colleague and future colleagues [2]. The information may also be useful for students (current and prospective), class mentors, faculty at other institutions, and, um, others I have not yet determined.
 
@@ -129,6 +129,7 @@ The preceding may or may not be enough to get my new colleague started. As I not
 * I should describe the software that we use to take grade information from Gradescope and report on how students are doing. At least I should explain my version of the software.
 * I hope that you don't need to write any autograders right now. But when you do, it will be useful to have some guidance. Perhaps that will even give me an incentive to restructure the autograding software.
 * As I noted above, we have half a dozen or more GitHub repos. A guide to the repos (and to our customary protocols for using those repos) seems called for.
+* Perhaps a [guide to building the web site with Jekyll](csc151-jekyll) would be useful [14].
 * I'd swear that I've written a history of CSC-151, but I might write a new one (or update the old one).
 
 ---
@@ -156,3 +157,5 @@ The preceding may or may not be enough to get my new colleague started. As I not
 [11] Or perhaps you may be stuck teaching with Sam. Certainly, the colleague for whom I originally wrote this piece will be teaching with me. I assume others will also end up in that position.
 
 [12] Or "those are issues of which you should be aware". 
+
+[14] Perhaps not. Read that musing for details.

@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Starting a guide for new CSC-151 instructors](csc151-new-instructor) (Musing #1263)
+[Building the CSC-151 Web site with Jekyll](csc151-jekyll) (Musing #1264)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

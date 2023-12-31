@@ -93,3 +93,7 @@ A new CSC 151 (and other aspects of CSC 151)
 
 > A guide for my colleague(s).
 
+[Building the CSC-151 Web site with Jekyll](csc151-jekyll) (Musing #1264)
+
+> Didn't we document this already?
+
