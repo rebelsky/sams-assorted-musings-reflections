@@ -14,10 +14,6 @@ Latest musings:
 and
 [Preparing for CSC-151](csc151-preparation) (Musing #1266)
 
-> Some approximate guidance.
-
-[Building the CSC-151 Web site with Jekyll](csc151-jekyll) (Musing #1264)
-
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
 [Musings, by number, oldest to newest](index-by-number) 
