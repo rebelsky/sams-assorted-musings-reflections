@@ -9,7 +9,13 @@ If you'd like, you can read [a longer introduction](intro-musings-v0).
 If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
-Latest musing:
+Latest musings:
+[CSC-151's many GitHub repos](csc151-github) (Musing #1265)
+and
+[Preparing for CSC-151](csc151-preparation) (Musing #1266)
+
+> Some approximate guidance.
+
 [Building the CSC-151 Web site with Jekyll](csc151-jekyll) (Musing #1264)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>

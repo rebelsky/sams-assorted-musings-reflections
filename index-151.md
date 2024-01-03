@@ -97,3 +97,11 @@ A new CSC 151 (and other aspects of CSC 151)
 
 > Didn't we document this already?
 
+[CSC-151's many GitHub repos](csc151-github) (Musing #1265)
+
+> Somewhat shared resources for the course.
+
+[Preparing for CSC-151](csc151-preparation) (Musing #1266)
+
+> Some approximate guidance.
+

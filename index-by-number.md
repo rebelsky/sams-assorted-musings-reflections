@@ -1638,3 +1638,5 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Reflections on yet another registration process](registration-2023-12-20) (Musing #1262)  
 [Starting a guide for new CSC-151 instructors](csc151-new-instructor) (Musing #1263)  
 [Building the CSC-151 Web site with Jekyll](csc151-jekyll) (Musing #1264)  
+[CSC-151's many GitHub repos](csc151-github) (Musing #1265)  
+[Preparing for CSC-151](csc151-preparation) (Musing #1266)  

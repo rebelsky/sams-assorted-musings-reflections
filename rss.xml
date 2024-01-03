@@ -7,6 +7,20 @@
       A curmudgeonly faculty member in computer science writes about a variety of topics.
     </description>
     <item>
+      <title>Musing #1266: Preparing for CSC-151</title>
+      <link>https://www.cs.grinnell.edu/~rebelsky/musings/csc151-preparation</link>
+      <guid>https://www.cs.grinnell.edu/~rebelsky/musings/csc151-preparation</guid>
+      <pubDate>Wed, 03 Jan 2024 22:29:45 GMT</pubDate>
+      <description>Some approximate guidance.</description>
+    </item>
+    <item>
+      <title>Musing #1265: CSC-151's many GitHub repos</title>
+      <link>https://www.cs.grinnell.edu/~rebelsky/musings/csc151-github</link>
+      <guid>https://www.cs.grinnell.edu/~rebelsky/musings/csc151-github</guid>
+      <pubDate>Wed, 03 Jan 2024 22:29:30 GMT</pubDate>
+      <description>Somewhat shared resources for the course.</description>
+    </item>
+    <item>
       <title>Musing #1264: Building the CSC-151 Web site with Jekyll</title>
       <link>https://www.cs.grinnell.edu/~rebelsky/musings/csc151-jekyll</link>
       <guid>https://www.cs.grinnell.edu/~rebelsky/musings/csc151-jekyll</guid>

@@ -3,9 +3,9 @@ title: Starting a guide for new CSC-151 instructors
 number: 1263
 tags: [CSC151](index-151)
 blurb: A guide for my colleague(s).
-version: 1.1.0
+version: 1.2.0
 released: 2023-12-21
-current: 2023-12-30
+current: 2024-01-03
 ---
 This coming spring, one of my awesome new colleagues [1] is co-teaching CSC-151 with me. This will be the first time they've taught CSC-151, and I may be less available than usual, so it seemed like a good time to start gathering the information on CSC-151 for the colleague and future colleagues [2]. The information may also be useful for students (current and prospective), class mentors, faculty at other institutions, and, um, others I have not yet determined.
 
@@ -120,17 +120,21 @@ I've told you a bit about the course and some of its underpinnings. I've written
 
 ---
 
-**_PostScript_**
+**_Postscript_**
 
 The preceding may or may not be enough to get my new colleague started. As I noted, there's certainly a lot more to write. Here's my quick list of other musings that I should write soon. I may come back and add links and notes when I write them.
 
+* I wrote [a list of learning objectives](csc151-2023fa-learning-objectives) before the Fall 2023 offering. They are a good place to start thinking about LOs. We can also revisit them.
 * In spite of the apparent uniformity of CSC-151, there are a variety of options in how you arrange and teach a section, from the version of Scheme to use to how you structure class meetings. I considered calling these "controversies", but they aren't all that controversial. Mostly, it's a matter of differences of opinion. 
+* Perhaps you will find it useful to read [a discussion of how I prepare for CSC-151, both for the course as a whole and for the daily sessions](csc151-preparation).
 * I should better explain our approach to mastery grading, particularly our emphasis on small learning assessments and mini-projects.
 * I should describe the software that we use to take grade information from Gradescope and report on how students are doing. At least I should explain my version of the software.
 * I hope that you don't need to write any autograders right now. But when you do, it will be useful to have some guidance. Perhaps that will even give me an incentive to restructure the autograding software.
-* As I noted above, we have half a dozen or more GitHub repos. A guide to the repos (and to our customary protocols for using those repos) seems called for.
+* As I noted above, we have half a dozen or more GitHub repos. [A guide to the repos (and to our customary protocols for using those repos)](csc151-github) seems called for.
 * Perhaps a [guide to building the web site with Jekyll](csc151-jekyll) would be useful [14].
 * I'd swear that I've written a history of CSC-151, but I might write a new one (or update the old one).
+
+You can also read [additional musings I've written about 151 topics](index-151).
 
 ---
 
