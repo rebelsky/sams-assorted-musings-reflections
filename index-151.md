@@ -105,3 +105,7 @@ A new CSC 151 (and other aspects of CSC 151)
 
 > Some approximate guidance.
 
+[Reflecting on end-of-course evaluations for CSC-151 2023Fa](csc151-2023fa-eoces) (Musing #1267)
+
+> So much to learn!
+

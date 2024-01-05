@@ -1640,3 +1640,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Building the CSC-151 Web site with Jekyll](csc151-jekyll) (Musing #1264)  
 [CSC-151's many GitHub repos](csc151-github) (Musing #1265)  
 [Preparing for CSC-151](csc151-preparation) (Musing #1266)  
+[Reflecting on end-of-course evaluations for CSC-151 2023Fa](csc151-2023fa-eoces) (Musing #1267)  
