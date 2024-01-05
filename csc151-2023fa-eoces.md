@@ -3,9 +3,9 @@ title: Reflecting on end-of-course evaluations for CSC-151 2023Fa
 number: 1267
 tags: [CSC-151](index-151), long, rambly, unedited
 blurb: So much to learn!
-version: 1.0
+version: 1.1
 released: 2024-01-04
-current: 
+current: 2024-01-04
 ---
 Like many institutions, Grinnell asks students to fill out end-of-course evaluations (EOCEs) at the end of each semester. And, like many institutions, Grinnell has historically assumed that EOCEs can serve two purposes: Faculty members can use EOCEs to reflect on their teaching and the institution can use EOCEs to judge the quality of faculty members' instruction. Of course, those two goals conflict. If my goal is to improve the course, I want students to carefully critique me. If my goal is to get a good raise or get promoted, I want students to praise me.
 
@@ -78,16 +78,16 @@ How can I help those who are taking too much time? I can pay more attention to w
 
 Let me see what else I can learn from the other answers those students gave.
 
-* Student 1: Did not provide any textual feedback.
-* Student 6: Identifies the mini-projects as the issue. Notes some stress from the 10:00 p.m. deadlines [10]. Notes some stress that they took longer than the time estimates. Perhaps I should drop those.
-* Student 10: Noted that the pre-reflection and post-reflection took extra time. Noted that they had other issues that may make them slower in general.
-* Student 12: Also identified the mini-projects as the primary issue.  Also disliked the time estimates. Noted that English is not their native language, which causes some work to take longer.
-* Student 24: Noted that they didn't always do the reading questions (or, more precisely, that they didn't always have time to do the reading questions).
+* One did not provide any textual feedback.
+* Another identifies the mini-projects as the issue. Notes some stress from the 10:00 p.m. deadlines [10]. Notes some stress that they took longer than the time estimates. Perhaps I should drop those.
+* A third noted that the pre-reflection and post-reflection took extra time. Noted that they had other issues that may make them slower in general.
+* A fourth Also identified the mini-projects as the primary issue.  Also disliked the time estimates. Noted that English is not their native language, which causes some work to take longer.
+* The fifth observed that they didn't always do the reading questions (or, more precisely, that they didn't always have time to do the reading questions).
 
 Hmmm ... What about the two students who reported 10--12 hours?
 
-* Student 4: Reports spending about seven hours per mini-project and one hour per reading. Also reports having prior experience with CS [9].
-* Student 20: Writes: "MPs definitely tilted the scale a lot. I could've probably spent less time on them with better habits, but those habits are surprisingly hard to just adopt."
+* One eports spending about seven hours per mini-project and one hour per reading. Also reports having prior experience with CS [9].
+* The other writes: "MPs definitely tilted the scale a lot. I could've probably spent less time on them with better habits, but those habits are surprisingly hard to just adopt."
 
 It appears that eliminating the estimated time would be helpful. I had intended the estimated times as a tool; students who were taking more should reach out for help. But that's not how students are taking them. And my estimates are not always good.
 
@@ -97,9 +97,9 @@ I should also work on cutting a bit from the mini-projects. While students learn
 
 I'm sarcastic. Or snarky. Or both. Or perhaps they are the same. Or similar. Many students enjoy my snarkiness. But not all. Here are the telling comments.
 
-> [T]he sarcastic way the professor handled interaction with students made me uncomfortable to approach him for questions or office hours. It was not funny as it was meant to be. (Student 4)
+> [T]he sarcastic way the professor handled interaction with students made me uncomfortable to approach him for questions or office hours. It was not funny as it was meant to be. 
 
-> Please comment on: The Instructor helped me to understand the subject matter of the course. I did feel that I learned a lot, although sometimes Sam approached things such as questions a little sarcastically. (Student 14)
+> Please comment on: The Instructor helped me to understand the subject matter of the course. I did feel that I learned a lot, although sometimes Sam approached things such as questions a little sarcastically. 
 
 I know that not every student deals well with my sarcasm. And I don't want to make students uncomfortable approaching me.  I've tried to teach while doing my best to restrain my sarcasm, and it has not been successful. Can I say to myself that "it's only two students" or should I treat it as an issue that more students felt but few were comfortable addressing in the EOCEs? I thought I had asked my students this question directly on the last day of class, but it appears that I did not.
 
@@ -107,9 +107,9 @@ So, what should I do? I'll try to be less snarky. I'll encourage my class mentor
 
 In my defense, students also found me kind. Let's see ...
 
-* The strategy sam uses to get extension (tokens) and his kindness make the course manageable. (Student 10)
-* Thank you for being kind Sam. (Student 11)
-* He was very open to take questions and easy to reach over teams and email. He was very kind which made it easier to reach out. (Student 16)
+* The strategy sam uses to get extension (tokens) and his kindness make the course manageable. 
+* Thank you for being kind Sam. 
+* He was very open to take questions and easy to reach over teams and email. He was very kind which made it easier to reach out. 
 
 Damn. I thought there were more of those. Maybe my kindness doesn't balance my snarkiness.
 
@@ -121,22 +121,22 @@ But that's not how my class ends up going. Students ask questions on the reading
 
 Is it better to stick to a schedule or to adapt to what I see happening in the course? I know my answer, but let's see what students wrote.
 
-> I feel like the instructor did a great job of going over things in class that people struggled on and spent multiple class sessions on topics that were difficult to help us reinforce ideas which was helpful instead of just going to the next topic sometimes. (Student 13)
+> I feel like the instructor did a great job of going over things in class that people struggled on and spent multiple class sessions on topics that were difficult to help us reinforce ideas which was helpful instead of just going to the next topic sometimes. 
 
-> The days when SamR spent the whole class reviewing topics that a majority of the class was struggling with or answering questions were incredibly helpful.  (Student 17)
+> The days when SamR spent the whole class reviewing topics that a majority of the class was struggling with or answering questions were incredibly helpful.  
 
-> Questions at the start were helpful, and so was lab work. The more general format of writing important things and questions down on the eBoard live was also great. (Student 5)
+> Questions at the start were helpful, and so was lab work. The more general format of writing important things and questions down on the eBoard live was also great. 
 
-> The course sessions often included an introduction, going over readings, homework, projects, and/or questions, and a lab when we had time. I believe that this format was good for ensuring that we understood the core concepts that the readings were trying to teach us through the discussions, while also allowing us to practice the concepts through labs. I feel like this format was good for helping me learn the course material. (Student 7)
+> The course sessions often included an introduction, going over readings, homework, projects, and/or questions, and a lab when we had time. I believe that this format was good for ensuring that we understood the core concepts that the readings were trying to teach us through the discussions, while also allowing us to practice the concepts through labs. I feel like this format was good for helping me learn the course material. 
 
-> The breakdown between answering questions, at the begining, moving on to well designed labs, and focusing more on the in group collaboration lab time rather than on getting evrything one hundred percent done worked great for me, as it helped me focus on building the soft skills of collaborations with other and planning out code rather than stressing about the technicalities of racket. (Student 11)
+> The breakdown between answering questions, at the begining, moving on to well designed labs, and focusing more on the in group collaboration lab time rather than on getting evrything one hundred percent done worked great for me, as it helped me focus on building the soft skills of collaborations with other and planning out code rather than stressing about the technicalities of racket. 
 
-> I really like that the professor divided each session in segments, having one for checking in, one for questions and one for lab. That made it organized and efficient. (Student 12)
+> I really like that the professor divided each session in segments, having one for checking in, one for questions and one for lab. That made it organized and efficient. 
 
 
 Aren't those last three nice summaries of how I structure my classes? However, I am amused that someone considers me organized.
 
-> It was also helpful to have time to ask questions before we started working on labs. (Student 9)
+> It was also helpful to have time to ask questions before we started working on labs. 
 
 There are more, but these seem like enough to help me conclude that my current structure is appropriate. I also asked a question on the last day of class, after the students had turned in their EOCEs. Let's see ...
 
@@ -172,9 +172,9 @@ Most recently, we've used the "Sam says I can stop here" policy. When there are 
 
 Some students think I should require everyone to finish the lab.
 
-> I see the value that removing the pressure to finish a lab in class adds to group dynamics, and I hesitate to ask for more work, but I also wonder how things would be different if we were expected to complete some portion of our labs. (Student 3)
+> I see the value that removing the pressure to finish a lab in class adds to group dynamics, and I hesitate to ask for more work, but I also wonder how things would be different if we were expected to complete some portion of our labs. 
 
-> I think that the lab is useful for helping reinforce our learning, so I think trying to give us time to complete them would help us better learn the material. (Student 7)
+> I think that the lab is useful for helping reinforce our learning, so I think trying to give us time to complete them would help us better learn the material. 
 
 I also asked a "Sam closes his eyes" question on the last day of class.
 
@@ -190,9 +190,9 @@ Given that students are already spending a bit too much time on the class (in ge
 
 Are there other changes to make? There were some comments on how I set up partnering. 
 
->  I think it might be beneficial to have one partner for the week to do all of the Monday, Wednesday and Friday labs with just so it's easier to adjust to each partner and see the benefits to understanding the way another person thinks rather than maybe steamrolling over them if you're the person who knows more. I think expanding the amount of time would make people have to listen to their partners more since it's over a longer period of time. (Student 15)
+>  I think it might be beneficial to have one partner for the week to do all of the Monday, Wednesday and Friday labs with just so it's easier to adjust to each partner and see the benefits to understanding the way another person thinks rather than maybe steamrolling over them if you're the person who knows more. I think expanding the amount of time would make people have to listen to their partners more since it's over a longer period of time. 
 
-> I would like to have seen a more equal distribution of partners. I ended up with some people multiple times, and some people never. I'm not sure what would be more effective than the current card system, but I would have liked to work with more of my classmates. (Student 17)
+> I would like to have seen a more equal distribution of partners. I ended up with some people multiple times, and some people never. I'm not sure what would be more effective than the current card system, but I would have liked to work with more of my classmates. 
 
 For those who don't know, I try to use random assignment for partners. When students arrive in class each day, they grab a card that tells them where to sit in the room. Two students assigned to the same computer become partners that day. I've historically had them get new partners each day for a variety of reasons.
 
@@ -212,9 +212,9 @@ I don't tend to provide answer keys in the course. Students get feedback on thei
 
 Why don't I provide answers to quizzes and LAs? In part, providing answers will make it harder to reuse the questions. In part, I want to encourage students to ask someone for the answers (e.g., the class mentors or me). What did students write?
 
-> I would have liked a little bit more feedback on the quizzes and would have liked access to the answers to those that we have done. (Student 7)
+> I would have liked a little bit more feedback on the quizzes and would have liked access to the answers to those that we have done. 
 
-> A minor thing that I think should be added is answers to the sample LA problems on the class page. (Student 7)
+> A minor thing that I think should be added is answers to the sample LA problems on the class page. 
 
 Okay, it's only one student who asked for answers. I can try to find time to give them answers to the sample problems, but I won't give them for the quizzes and LAs. I'll try to remember to encourage them to do so.
 
@@ -225,27 +225,27 @@ That's about all that I have for recommendations on changing the course. In gene
 
 Nonetheless, it feels like I should share some of the comments with students in the upcoming session. Let's see ...
 
-> I started going to office hours a lot pretty recently and I keep going because there is a lot of stuff I don't know and because the professor doesn't judge me because I don't know something. (Student 2)
+> I started going to office hours a lot pretty recently and I keep going because there is a lot of stuff I don't know and because the professor doesn't judge me because I don't know something. 
 
 Morals: It's helpful to go to office hours. Sam is less snarky during office hours. Make sure to make an appointment for office hours.
 
-> I appreciated being able to Teams message [Sam] with small questions and getting a timely response rather than putting off a whole project until next class because of a small road block. (Student 17)
+> I appreciated being able to Teams message [Sam] with small questions and getting a timely response rather than putting off a whole project until next class because of a small road block. 
 
 Morals: Ask questions, small or large. Sam answers questions on Teams.
 
-> CS is really hard but what made it a little bit easier was working with someone. A lot of times I would come to class confused about the reading we had last night and then my partner would explain it to me because they understood. Or whenever I would get stuck while being the driver my partner was always there for me to try and explain what was happening. Even when things were hard and I was confused (and wanted to give up internally) because I had a partner, that made me keep going. (Student 2)
+> CS is really hard but what made it a little bit easier was working with someone. A lot of times I would come to class confused about the reading we had last night and then my partner would explain it to me because they understood. Or whenever I would get stuck while being the driver my partner was always there for me to try and explain what was happening. Even when things were hard and I was confused (and wanted to give up internally) because I had a partner, that made me keep going. 
 
 Morals: Be a good partner; it makes a difference. It's okay to be confused; your partner will help.
 
-> [The instructor] was very open to take questions and easy to reach over teams and email. (Student 16)
+> [The instructor] was very open to take questions and easy to reach over teams and email. 
 
 Moral: Ask questions, whether via Teams or email (or in person).
 
-> The Redo policy was the biggest factor that contributed to my learning. Being able to say that my code didn't work and following up on why it didn't work gave me the peace of mind to accept that not everything I make will be perfect the first time around. (Student 19)
+> The Redo policy was the biggest factor that contributed to my learning. Being able to say that my code didn't work and following up on why it didn't work gave me the peace of mind to accept that not everything I make will be perfect the first time around. 
 
 Morals: You don't have to be perfect the first time (or even the second). Submit the work you have; you'll get feedback.
 
-> I really liked that the instructor was always open for answering all sort of questions. I also appreciate that he answer out loud questions that were made anonymously through tm or gradescope. (Student 12)
+> I really liked that the instructor was always open for answering all sort of questions. I also appreciate that he answer out loud questions that were made anonymously through tm or gradescope. 
 
 Morals: Ask questions on reading responses and in class; you'll get answers.
 
@@ -254,19 +254,19 @@ Other recommendations for me
 
 There were a few more comments that I should address (or at least consider). These generally come as responses to _What is something about the course that you would recommend we change or discontinue? Why?_
 
-> The way Gradescope shows assignments was confusing for me because they're not clearly in order and they all look so similar that it jumbled together in my mind. (Student 14)
+> The way Gradescope shows assignments was confusing for me because they're not clearly in order and they all look so similar that it jumbled together in my mind. 
 
 I don't tend to view materials on Gradescope from the student view, so I'm not sure what it looks like. But we do have a lot of "assignments". I'm not sure the best way to help, other than to (a) put everything on the syllabus, (b) add links to the list of upcoming work on the daily eboards, or (c) make a separate page of links.
 
-> I'd appreciate if all quizzes could be taken on a computer. Being able to test my code is a big factor in reducing stress during SoLAs, and not being able to do that for in-class LAs really stressed me out. (Student 19)
+> I'd appreciate if all quizzes could be taken on a computer. Being able to test my code is a big factor in reducing stress during SoLAs, and not being able to do that for in-class LAs really stressed me out. 
 
 Managing on-computer quizzes when there are more students than computers is difficult. I also ask different kinds of questions when students can't use the computer, and I don't expect perfect code. Since students can do SoLA questions on the computer, I think paper quizzes strike an appropriate balance.
 
-> Maybe change the mini project deadlines make them longer? (Student 2)
+> Maybe change the mini project deadlines make them longer? 
 
 If I understand, this student is suggesting more time on mini-projects. They may also be suggesting that I make bigger mini-projects. I prefer the rhythm of weekly mini-projects. They also help keep students on task. And this response is echoed by another student.
 
->  I think that miniprojects are too mini. When thinking about how I would show my work to other people, I feel that miniprojects fit in a strange middle between something simple like a class example and something complex like a website to solve a demand. I would like the course to have bigger projects, at least more to the end of it. (Student 4)
+>  I think that miniprojects are too mini. When thinking about how I would show my work to other people, I feel that miniprojects fit in a strange middle between something simple like a class example and something complex like a website to solve a demand. I would like the course to have bigger projects, at least more to the end of it. 
 
 Hmmm ... What are my end-of-semester projects? There's a two week group project that I call "A procedure is worth 1000 pictures". That's mostly week thirteen. Week fourteen is the last SoLA. Week eleven was word clouds. That's a fun and appropriate project to show off. In the fall, week twelve is Thanksgiving break, so I don't have something due. I could add something new in the spring.  Week ten is SoLA 3. Week nine was pixel problems.
 
@@ -274,27 +274,27 @@ There were also other comments that I should look toward bigger projects, or at 
 
 Of course, there are also contrary opinions. Here's one.
 
-> I think the homework load can be too much at times, It would be a lot less stressful if the projects were split up into smaller parts that were due more frequently. This could be like splitting up a project due thursday into three parts due sunday, tuesday, and thursday before class. (Student 16)
+> I think the homework load can be too much at times, It would be a lot less stressful if the projects were split up into smaller parts that were due more frequently. This could be like splitting up a project due thursday into three parts due sunday, tuesday, and thursday before class. 
 
 Scaffolding is good. But scaffolding can be excessive. For assignments that are only a week long, I worry about too much scaffolding.
 
-> The 10 o'clock deadlines. Please make it at least 11. I understand why they are the time they are but I almost always couldn't meet them and my personal work style is (probably unhealthy) more oriented towards working at night. I think maybe 11 would work as a new time. (Student 6)
+> The 10 o'clock deadlines. Please make it at least 11. I understand why they are the time they are but I almost always couldn't meet them and my personal work style is (probably unhealthy) more oriented towards working at night. I think maybe 11 would work as a new time. 
 
 Done, at least for mini-projects. I'm keeping readings at 10:00 p.m. 
 
-> Having the mini-projects and SOLAs more evenly spaced out so that there is more time between SOLA 3 and SOLA 4 in the final week. (Student 18)
+> Having the mini-projects and SOLAs more evenly spaced out so that there is more time between SOLA 3 and SOLA 4 in the final week. 
 
 I'm planning to add an extra SoLA in the spring, so there will be four SoLAs with six LAs each rather than three SoLAs with eight LAs each (plus the final SoLA, which is a chance for students to try again on any topics they've missed). In terms of the gap between the last regular SoLA (SoLA 3 in the fall and SoLA 4 this coming spring) and the final SoLA (SoLA 4 in the fall and SoLA 5 this coming spring), I prefer to have the last regular SoLA in week 14 so that it can encompass all the topics; I don't want to introduce new topics on the final SoLA.
 
-> I wish the class had more exercises on passing functions as parameters, using lambda to create lambda (fxn that returns and fxn). Also, I wish we had more training in using map, filter, section, etc. in creative ways. (Student 8)
+> I wish the class had more exercises on passing functions as parameters, using lambda to create lambda (fxn that returns and fxn). Also, I wish we had more training in using map, filter, section, etc. in creative ways. 
 
 It's an introductory course, so I don't want to push to hard on these things.
 
-> This is not very easy to do but planning in advance the days where we don't do a lab would be helpful. There isn't much I would change overall though. (Student 5)
+> This is not very easy to do but planning in advance the days where we don't do a lab would be helpful. There isn't much I would change overall though. 
 
 Unfortunately, students don't always get stuck on the some topic, so it's hard to know when I'm going to replace a lab with a discussion.
 
-> I would like to see how this course would work with a more common programming language. Many institutions use Python for their first CS courses. I feel that if I had worked an entire semester with Python or similar languages I would have more applicable projects I could show. (Student 4)
+> I would like to see how this course would work with a more common programming language. Many institutions use Python for their first CS courses. I feel that if I had worked an entire semester with Python or similar languages I would have more applicable projects I could show. 
 
 That's a complex change. I worry that a more popular language will lose some of the advantages we see with Scheme. But don't worry; I'm sure we'll discuss it again.
 
@@ -305,19 +305,19 @@ Favorite comments
 
 There were a few comments that made me particularly happy. Even though I like to hear ideas for improvement, I also appreciate encouragement when I do things well.
 
-> Having taken a lot of education classes here, I think this course was possibly the only non-education class I've taken that feels like there was a lot of effort put into the actual teaching of this course and creation of a classroom culture and other things of the sort that typically aren't done in college classes.  (Student 5)
+> Having taken a lot of education classes here, I think this course was possibly the only non-education class I've taken that feels like there was a lot of effort put into the actual teaching of this course and creation of a classroom culture and other things of the sort that typically aren't done in college classes.  
 
 I have many colleagues who put as much or more effort into the design of their classes; I'm sorry that the student didn't encounter these courses. CSC-151 also benefits from years of effort by multiple faculty to consider these kinds issues. I spend more time on classroom culture than most, but the overall pedagogy comes from all of us. Nonetheless, I'm glad that our work on the class is working.
 
-> Thank you for being kind Sam. You genuienly made an incredible diffrence this semester, and please just know that the amount you care for students and their wellbeing does not go unoticed and makes a genuine diffrence in our lives. Your teaching was great, but it was this that truly made a diffrence this semester, and made it so much easier to work through the course and focus on learning without having to stress as much about having a bad day negativley impact your preformance on the whole semester and your future. (Student 11)
+> Thank you for being kind Sam. You genuienly made an incredible diffrence this semester, and please just know that the amount you care for students and their wellbeing does not go unoticed and makes a genuine diffrence in our lives. Your teaching was great, but it was this that truly made a diffrence this semester, and made it so much easier to work through the course and focus on learning without having to stress as much about having a bad day negativley impact your preformance on the whole semester and your future. 
 
 Remember my earlier comment about what I want students to learn in my classes? "Be kind" is probably the most important thing.
 
-> Even though I had a lot of CS experience already, I'm really glad I took this course because it taught me a lot of skills not specifically related to programming that I've found really helpful, like teamwork and communication. (Student 9)
+> Even though I had a lot of CS experience already, I'm really glad I took this course because it taught me a lot of skills not specifically related to programming that I've found really helpful, like teamwork and communication. 
 
 I hope that the skills for working with others translate to other situations, too. As I've noted, I hope students learn more than the official "subject matter of the course".
 
-> I overall really enjoyed the class, and I think this class made me realize the rumors of it being a "really difficult weed out class" are completely wrong. (Student 15)
+> I overall really enjoyed the class, and I think this class made me realize the rumors of it being a "really difficult weed out class" are completely wrong. 
 
 I thought we'd eliminated that reputation. It's never been our goal to have a weed-out class.
 
