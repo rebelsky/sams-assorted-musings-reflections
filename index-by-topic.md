@@ -4472,6 +4472,8 @@ Tales of Tchotchkes
 
 > You gotta begin somewhere
 
+Adventures with ChatGPT
+-----------------------
 Almost everything else
 ----------------------
 

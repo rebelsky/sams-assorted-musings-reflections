@@ -54,5 +54,6 @@ and
 * [Tales of Tchotchkes](index-tchotchkes)
 * [technology (traditionally troublesome)](index-technology)
 * [ROF musings](index-rof)
+* [On ChatGPT](index-chatgpt)
 * [Almost everything else](index-misc)
 
