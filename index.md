@@ -9,10 +9,8 @@ If you'd like, you can read [a longer introduction](intro-musings-v0).
 If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
-Latest musings:
-[Redesigning the CSC-151 image model](csc151-image-models-v1) (Musing #1268)
-and
-[Distractable](distractable-2024-01-09) (Musing #1269).
+Latest musing:
+[Fun with ChatGPT: Finding angles between points](chatgpt-angle-2024-01-11) (Musing #1270)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
