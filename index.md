@@ -9,8 +9,10 @@ If you'd like, you can read [a longer introduction](intro-musings-v0).
 If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
-Latest musing:
-[Reflecting on end-of-course evaluations for CSC-151 2023Fa](csc151-2023fa-eoces) (Musing #1267)
+Latest musings:
+[Redesigning the CSC-151 image model](csc151-image-models-v1) (Musing #1268)
+and
+[Distractable](distractable-2024-01-09) (Musing #1269).
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
@@ -35,6 +37,7 @@ Latest musing:
 * [Thank-you notes](index-thank-you)
 * [On overcommitment](index-overcommitment)
 * [On teaching](index-teaching)
+* [CSC-151](index-151)
 * [Code camps](index-code-camps)
 * [On writing letters of recommendation](index-recommendations)
 * [Essays I removed](index-removed)

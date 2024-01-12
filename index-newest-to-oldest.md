@@ -3,6 +3,8 @@ Musings, from newest to oldest
 
 ## 1261-1270
 
+[Distractable](distractable-2024-01-09) (Musing #1269)  
+[Redesigning the CSC-151 image model](csc151-image-models-v1) (Musing #1268)  
 [Reflecting on end-of-course evaluations for CSC-151 2023Fa](csc151-2023fa-eoces) (Musing #1267)  
 [Preparing for CSC-151](csc151-preparation) (Musing #1266)  
 [CSC-151's many GitHub repos](csc151-github) (Musing #1265)  

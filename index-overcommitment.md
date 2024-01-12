@@ -266,3 +266,7 @@ Overcommitment
 
 > A good idea that needs some work.
 
+[Distractable](distractable-2024-01-09) (Musing #1269)
+
+> One of the causes of overcommitment. Perhaps a symptom.
+

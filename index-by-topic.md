@@ -2074,6 +2074,10 @@ Overcommitment
 
 > A good idea that needs some work.
 
+[Distractable](distractable-2024-01-09) (Musing #1269)
+
+> One of the causes of overcommitment. Perhaps a symptom.
+
 On teaching 
 -----------
 
@@ -2629,8 +2633,12 @@ The joy of code
 
 > Maybe I should read the research literature.
 
-A new CSC 151 (and other aspects of CSC 151)
---------------------------------------------
+CSC-151
+-------
+
+_CSC-151 is Grinnell's introductory course in computer science. I've taught it for most of my career at Grinnell._
+
+_This collection initially started with a musing about the switch away from the "Media Computation" version of CSC-151 to a "data-science lite" version. It has since evolved into a collection of all sorts of information about 151. Along the way, I've developed two more versions of 151 (one on text-based digital humanities and one on image-making). I've also switched to a mastery-grading approach._
 
 [A new CSC 151](new-csc151-2017-06-05) (Musing #348)
 
@@ -2739,6 +2747,10 @@ A new CSC 151 (and other aspects of CSC 151)
 [Reflecting on end-of-course evaluations for CSC-151 2023Fa](csc151-2023fa-eoces) (Musing #1267)
 
 > So much to learn!
+
+[Redesigning the CSC-151 image model](csc151-image-models-v1) (Musing #1268)
+
+> I may have done this before.
 
 Grinnellians you should know (or know about)
 --------------------------------------------
