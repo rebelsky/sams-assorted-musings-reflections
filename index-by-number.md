@@ -1644,3 +1644,7 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Redesigning the CSC-151 image model](csc151-image-models-v1) (Musing #1268)  
 [Distractable](distractable-2024-01-09) (Musing #1269)  
 [Fun with ChatGPT: Finding angles between points](chatgpt-angle-2024-01-11) (Musing #1270)  
+
+## 1271-1280
+
+[Giving myself more time and more space](resolution-2024-01-26) (Musing #1271)  

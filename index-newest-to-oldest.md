@@ -1,6 +1,10 @@
 Musings, from newest to oldest
 ==============================
 
+## 1271-1280
+
+[Giving myself more time and more space](resolution-2024-01-26) (Musing #1271)  
+
 ## 1261-1270
 
 [Fun with ChatGPT: Finding angles between points](chatgpt-angle-2024-01-11) (Musing #1270)  

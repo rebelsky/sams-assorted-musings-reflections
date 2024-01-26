@@ -4331,6 +4331,10 @@ Autobiographical essays, more or less
 
 > "My gift is my 'blog, and this one's for you."
 
+[Giving myself more time and more space](resolution-2024-01-26) (Musing #1271)
+
+> A resolution of sorts.
+
 Salary reviews
 --------------
 

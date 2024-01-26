@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Fun with ChatGPT: Finding angles between points](chatgpt-angle-2024-01-11) (Musing #1270)
+[Giving myself more time and more space](resolution-2024-01-26) (Musing #1271)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
