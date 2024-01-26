@@ -1,7 +1,7 @@
 ---
 title: Giving myself more time and more space
 number: 1271
-tags: [Autobiographical], disjointed.
+tags: [Autobiographical](index-autobiographical), disjointed.
 blurb: A resolution of sorts.
 version: 1.0
 released: 2024-01-26
