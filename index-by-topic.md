@@ -2078,6 +2078,10 @@ Overcommitment
 
 > One of the causes of overcommitment. Perhaps a symptom.
 
+[Overcommitted again, naturally](overcommitment-2024-02-23) (Musing #1272)
+
+> I'm hopeless.
+
 On teaching 
 -----------
 
