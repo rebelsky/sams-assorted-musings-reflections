@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Overcommitted again, naturally](overcommitment-2024-02-23) (Musing #1272)
+[My latest advising statement](advising-statement-2024-02-24) (Musing #1273)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

@@ -1649,3 +1649,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 
 [Giving myself more time and more space](resolution-2024-01-26) (Musing #1271)  
 [Overcommitted again, naturally](overcommitment-2024-02-23) (Musing #1272)  
+[My latest advising statement](advising-statement-2024-02-24) (Musing #1273)  

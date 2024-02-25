@@ -455,3 +455,7 @@ Grinnell.
 
 > Harm is not marketing. 
 
+[My latest advising statement](advising-statement-2024-02-24) (Musing #1273)
+
+> It's complicated.
+
