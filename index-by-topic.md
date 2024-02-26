@@ -2082,6 +2082,10 @@ Overcommitment
 
 > I'm hopeless.
 
+[Writing a lab](writing-a-lab-2024-02-25) (Musing #1274)
+
+> One of the many places my time goes.
+
 On teaching 
 -----------
 
@@ -2299,6 +2303,10 @@ online, but they will soon expand to more general issues about teaching._
 [Experiments in portfolio mastery grading](portfolio-mastery-grading) (Musing #1261)
 
 > A good idea that needs some work.
+
+[Writing a lab](writing-a-lab-2024-02-25) (Musing #1274)
+
+> One of the many places my time goes.
 
 Code camps
 ----------
@@ -2755,6 +2763,10 @@ _This collection initially started with a musing about the switch away from the 
 [Redesigning the CSC-151 image model](csc151-image-models-v1) (Musing #1268)
 
 > I may have done this before.
+
+[Writing a lab](writing-a-lab-2024-02-25) (Musing #1274)
+
+> One of the many places my time goes.
 
 Grinnellians you should know (or know about)
 --------------------------------------------

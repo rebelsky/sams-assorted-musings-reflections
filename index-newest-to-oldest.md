@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 1271-1280
 
+[Writing a lab](writing-a-lab-2024-02-25) (Musing #1274)  
 [My latest advising statement](advising-statement-2024-02-24) (Musing #1273)  
 [Overcommitted again, naturally](overcommitment-2024-02-23) (Musing #1272)  
 [Giving myself more time and more space](resolution-2024-01-26) (Musing #1271)  

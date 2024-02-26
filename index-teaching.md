@@ -216,3 +216,7 @@ online, but they will soon expand to more general issues about teaching._
 
 > A good idea that needs some work.
 
+[Writing a lab](writing-a-lab-2024-02-25) (Musing #1274)
+
+> One of the many places my time goes.
+

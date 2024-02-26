@@ -274,3 +274,7 @@ Overcommitment
 
 > I'm hopeless.
 
+[Writing a lab](writing-a-lab-2024-02-25) (Musing #1274)
+
+> One of the many places my time goes.
+

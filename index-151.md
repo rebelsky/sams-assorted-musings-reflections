@@ -117,3 +117,7 @@ _This collection initially started with a musing about the switch away from the 
 
 > I may have done this before.
 
+[Writing a lab](writing-a-lab-2024-02-25) (Musing #1274)
+
+> One of the many places my time goes.
+

@@ -37,6 +37,10 @@ Making minor revisions to labs for a new library is much less time consuming.
 
 ---
 
+**_Postscript_**: If you wish, you can read [the general instructions for the lab](https://rebelsky.cs.grinnell.edu/Courses/CSC151/2024Sp/labs/list-composition.html) or the [Racket code file the students work with](https://rebelsky.cs.grinnell.edu/Courses/CSC151/2024Sp/code/labs/list-composition.rkt)
+
+---
+
 [1] I don't know about procedures that produce sound.
 
 [2] I did encounter an exception this weekend. A student was trying to calculate the size of the outside of an outlined triangle, given knowledge of the width and height of the triangle and the width of the outline. They couldn't get the right answer, but they couldn't tell why. Or maybe that's not an exception; they could see that they had the wrong answer, and that might have helped them understand why.
