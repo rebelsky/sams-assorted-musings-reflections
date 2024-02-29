@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Writing a lab](writing-a-lab-2024-02-25) (Musing #1274)
+[Choosing cover tunes](choosing-cover-tunes-2024-02-28) (Musing #1275)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

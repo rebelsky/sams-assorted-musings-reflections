@@ -17,3 +17,7 @@ Mixtapes
 
 > Thinking ahead to a future mixtape.
 
+[Choosing cover tunes](choosing-cover-tunes-2024-02-28) (Musing #1275)
+
+> So many options!
+
