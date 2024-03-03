@@ -3,9 +3,9 @@ title: Choosing cover tunes
 number: 1275
 tags: [Music](index-music), rambly, unedited
 blurb: So many options!
-version: 1.0
+version: 1.1
 released: 2024-02-28
-current: 
+current: 2024-03-01
 ---
 I'm fortunate to have a pair of friends who are great musicians [1]. Danika has a great, soulful voice. I keep saying that she'd sound great singing the white pages [2,3]. And Jeb his a firey guitar player. When Michelle and I were living apart, we had remote dates during their StageIt shows. We've been privileged to have them play at our house and to visit them at theirs.
 
@@ -25,9 +25,9 @@ I think we've joked about them doing the full version of Iron Butterfly's "In-A-
 
 I enjoy Danika and (the) Jeb's soul covers. Would it be asking for some soul or Motown? Most such songs have a great guitar part and awesome vocal lines. There are so many options. The Pointer Sisters' "Yes We Can Can"? The Spinners' "I'll Be Around"? Probably not The Temptations' "Papa Was a Rolling Stone", even though it's one of my favorite songs of all time.
 
-What about less famous bands that I enjoy? Perhaps something by The Del Lords? Top Ten (rip) and Eric Ambel are great guitar players. But my favorite Del Lords song, "Judas Kiss", really benefis from the harmony vocals.  A bit of power pop?The Hoodoo Gurus' "I Want You Back" often makes it to my mix tapes as does The Plimsouls' "A Million Miles Away". The dB's' "Amplifier" would be funny, especially given Jeb's new amplifier corner.
+What about less famous bands that I enjoy? Perhaps something by The Del Lords? Top Ten (rip) and Eric Ambel are great guitar players. But my favorite Del Lords song, "Judas Kiss", really benefis from the harmony vocals.  A bit of power pop?The Hoodoo Gurus' "I Want You Back" often makes it to my mix tapes as does The Plimsouls' "A Million Miles Away". The dB's' "Amplifier" might be appropriate, but it's a bit dismal.
 
-What about some of the albums that lived in Michelle and my cars back before we moved to Iowa? We spent a lot of time listening to early Michelle Shocked, Gregson and Collister's _Love is a Strange Hotel_ (all covers, I suppose), Lowen and Navarro's _Walking on a Wire_ (we chose "Legacy" from that album already), various Joe Ely albums, the Bad Examples, John Svetkey, and, um, I forget what else was on our normal playlist. I'll need to check with Michelle. I'm not sure Michelle Shocked would work; the guitar bits are not much for Jeb to work with and while I love songs like "Anchorage", I don't know that they'd benefit from the D&tJ treatment. And "The L&M Don't Stop Here Anymore", which is another fave, is already a cover. Some Joe Ely songs could be fun. Perhaps "Fools Fall in Love". Or the Flatlanders' "West Texas Waltz", since some of the Danika and (the) Jeb fanily are in West Texas [7]. What about The Bad Examples? "Not Dead Yet" and "Hey Saint Peter" could be a lot of fun. I should ask Michelle [8].
+What about some of the albums that lived in Michelle and my cars back before we moved to Iowa? We spent a lot of time listening to early Michelle Shocked, Gregson and Collister's _Love is a Strange Hotel_ (all covers, I suppose), Lowen and Navarro's _Walking on a Wire_ (we chose "Legacy" by the duo already), various Joe Ely albums, the Bad Examples, Jon Svetkey, and, um, I forget what else was on our normal playlist. I'll need to check with Michelle. I'm not sure Michelle Shocked would work; the guitar bits are not much for Jeb to work with and while I love songs like "Anchorage", I don't know that they'd benefit from the D&tJ treatment. And "The L&M Don't Stop Here Anymore", which is another fave, is already a cover. Some Joe Ely songs could be fun. Perhaps "Fools Fall in Love". Or the Flatlanders' "West Texas Waltz", since some of the Danika and (the) Jeb fanily are in West Texas [7]. What about The Bad Examples? "Not Dead Yet" and "Hey Saint Peter" could be a lot of fun. I should ask Michelle [8].
 
 The more I write, the more songs come to mind. How about "Kisses Sweeter Than Wine"? "Never Tell an Angel" by The Stompers. The Pousette-Dart Band's "Amnesia", which seems strangely appropriate for Danika [9]. That reminds me that we also used to listen to Poi Dog Pondering, although I'm not sure why I made the connection. "U-Li-La-Lu" could be fun.
 
@@ -36,6 +36,16 @@ Did we listen to Ferron while driving? I know I did. "Ain't Life a Brook" is suc
 Okay. It's time to stop.  Perhaps I need to spend time making mix tapes again. I certainly haven't succeeded in narrowing my choices. Maybe I'll let Michelle choose instead.
 
 What will we choose? I suppose you'll find out if you go to D&tJ's next covers show, whenever that is.
+
+---
+
+**_Postscript_**: This musing needed some updates. 
+
+* All I'd remembered from "Amplifier" was the lines "She'd taken everything ... she left his amplifier", which is kind of funny. But it's a depressing song. 
+* Somehow, I misspelled Jon Svetkey's first name.
+* I misidentified what Lowen & Navarro album "Legacy" is on.
+
+There are probably other issues to address, but those were the first few.
 
 ---
 
