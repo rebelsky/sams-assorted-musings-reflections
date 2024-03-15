@@ -3407,6 +3407,10 @@ Grinnell.
 
 > It's complicated.
 
+[Declaring a CS major (Spring 2024)](cs-major-declaration-2024-03-15) (Musing #1276)
+
+> A sensible process.
+
 Registration and Related Topics
 -------------------------------
 

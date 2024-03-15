@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musing:
-[Choosing cover tunes](choosing-cover-tunes-2024-02-28) (Musing #1275)
+[Declaring a CS major (Spring 2024)](cs-major-declaration-2024-03-15) (Musing #1276)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
