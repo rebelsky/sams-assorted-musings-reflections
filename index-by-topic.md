@@ -2086,6 +2086,10 @@ Overcommitment
 
 > One of the many places my time goes.
 
+[Writing assignments](writing-assignments-2024-03-17) (Musing #1277)
+
+> Another place my time goes.
+
 On teaching 
 -----------
 
@@ -2307,6 +2311,10 @@ online, but they will soon expand to more general issues about teaching._
 [Writing a lab](writing-a-lab-2024-02-25) (Musing #1274)
 
 > One of the many places my time goes.
+
+[Writing assignments](writing-assignments-2024-03-17) (Musing #1277)
+
+> Another place my time goes.
 
 Code camps
 ----------
@@ -2767,6 +2775,10 @@ _This collection initially started with a musing about the switch away from the 
 [Writing a lab](writing-a-lab-2024-02-25) (Musing #1274)
 
 > One of the many places my time goes.
+
+[Writing assignments](writing-assignments-2024-03-17) (Musing #1277)
+
+> Another place my time goes.
 
 Grinnellians you should know (or know about)
 --------------------------------------------

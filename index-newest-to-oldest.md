@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 1271-1280
 
+[Writing assignments](writing-assignments-2024-03-17) (Musing #1277)  
 [Declaring a CS major (Spring 2024)](cs-major-declaration-2024-03-15) (Musing #1276)  
 [Choosing cover tunes](choosing-cover-tunes-2024-02-28) (Musing #1275)  
 [Writing a lab](writing-a-lab-2024-02-25) (Musing #1274)  

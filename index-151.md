@@ -121,3 +121,7 @@ _This collection initially started with a musing about the switch away from the 
 
 > One of the many places my time goes.
 
+[Writing assignments](writing-assignments-2024-03-17) (Musing #1277)
+
+> Another place my time goes.
+
