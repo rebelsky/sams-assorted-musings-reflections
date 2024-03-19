@@ -2316,6 +2316,10 @@ online, but they will soon expand to more general issues about teaching._
 
 > Another place my time goes.
 
+[Setting up class](setting-up-class-2024-03-19) (Musing #1278)
+
+> So much to do.
+
 Code camps
 ----------
 

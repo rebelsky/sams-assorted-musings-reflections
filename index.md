@@ -10,8 +10,10 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musings:
-[Declaring a CS major (Spring 2024)](cs-major-declaration-2024-03-15) (Musing #1276) and
-[Writing assignments](writing-assignments-2024-03-17) (Musing #1277)
+[Setting up class](setting-up-class-2024-03-19) (Musing #1278),
+[Writing assignments](writing-assignments-2024-03-17) (Musing #1277),
+and
+[Declaring a CS major (Spring 2024)](cs-major-declaration-2024-03-15) (Musing #1276).
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
