@@ -1655,3 +1655,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Declaring a CS major (Spring 2024)](cs-major-declaration-2024-03-15) (Musing #1276)  
 [Writing assignments](writing-assignments-2024-03-17) (Musing #1277)  
 [Setting up class](setting-up-class-2024-03-19) (Musing #1278)  
+[Creating Submit buttons in Qualtrics](qualtrics-submit) (Musing #1279)  

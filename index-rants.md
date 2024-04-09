@@ -650,3 +650,7 @@ Rants
 
 > Harm is not marketing. 
 
+[Creating Submit buttons in Qualtrics](qualtrics-submit) (Musing #1279)
+
+> UI basics.
+
