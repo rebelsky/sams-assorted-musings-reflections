@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 1271-1280
 
+[Registration priorities](registration-priorities-2024-04-27) (Musing #1280)  
 [Creating Submit buttons in Qualtrics](qualtrics-submit) (Musing #1279)  
 [Setting up class](setting-up-class-2024-03-19) (Musing #1278)  
 [Writing assignments](writing-assignments-2024-03-17) (Musing #1277)  

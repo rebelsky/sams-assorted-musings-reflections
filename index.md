@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musings:
-[Creating Submit buttons in Qualtrics](qualtrics-submit) (Musing #1279)
+[Registration priorities](registration-priorities-2024-04-27) (Musing #1280)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

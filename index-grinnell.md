@@ -463,3 +463,7 @@ Grinnell.
 
 > A sensible process.
 
+[Registration priorities](registration-priorities-2024-04-27) (Musing #1280)
+
+> Amazingly, not a rant.
+
