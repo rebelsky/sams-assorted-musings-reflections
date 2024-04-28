@@ -3,7 +3,7 @@ title: Registration priorities
 number: 1280
 tags: [Grinnell](index-grinnell)
 blurb: Amazingly, not a rant.
-version: 1.0
+version: 1.1
 released: 2024-04-27
 current: 
 ---
@@ -84,6 +84,14 @@ There are probably more values to consider. But let's leave it at five:
 As far as I can tell, someone decided to flip each of the first four values in designing new registration systems. That is, the new processes have moved us from a focus on communal fairness to individual, emphasize equality rather than equity, demonstrate a distrust of faculty, and attempt to automate what used to be manual processes. Who decided? Since President Harris expressed dissatisfaction with our old registration process, I must assume that these are her decisions.
 
 As Grinnell's Registrar has suggested, we can't build a successful registration system unless make explicit some basic principles. I'd say these four (five?) sets of values are one place we need to start. And, while we may not completely agree, knowing what values are at play will be an important step.
+
+---
+
+**_Postscript_**: It appears that I could have used [the original equality vs equity](https://interactioninstitute.org/illustrating-equality-vs-equity/) cartoon rather than making ASCII art, provided I added something like the following.
+
+> This image is free to use with attribution: "Interaction Institute for Social Change | Artist: Angus Maguire." For online use please provide links: <interactioninstitute.org> and <madewithangus.com>.
+
+That's okay. I had fun making the ASCII art, even if I changed the story a bit.
 
 ---
 
