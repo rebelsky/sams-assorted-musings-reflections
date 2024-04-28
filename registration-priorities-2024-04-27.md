@@ -3,7 +3,7 @@ title: Registration priorities
 number: 1280
 tags: [Grinnell](index-grinnell)
 blurb: Amazingly, not a rant.
-version: 1.1
+version: 1.1.1
 released: 2024-04-27
 current: 
 ---
@@ -81,7 +81,7 @@ There are probably more values to consider. But let's leave it at five:
 * Do we rely on automated processes or do we prioritize manual processes?
 * How transparent are we?
 
-As far as I can tell, someone decided to flip each of the first four values in designing new registration systems. That is, the new processes have moved us from a focus on communal fairness to individual, emphasize equality rather than equity, demonstrate a distrust of faculty, and attempt to automate what used to be manual processes. Who decided? Since President Harris expressed dissatisfaction with our old registration process, I must assume that these are her decisions.
+As far as I can tell, someone decided to flip each of the first four values in designing new registration systems. That is, the new processes have moved us from a focus on communal fairness to individual, emphasize equality rather than equity, demonstrate a distrust of faculty, and attempt to automate what used to be manual processes. 
 
 As Grinnell's Registrar has suggested, we can't build a successful registration system unless make explicit some basic principles. I'd say these four (five?) sets of values are one place we need to start. And, while we may not completely agree, knowing what values are at play will be an important step.
 
