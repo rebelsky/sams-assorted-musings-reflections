@@ -225,6 +225,10 @@ to them eventually._
 
 > Let's consider each other's feelings.
 
+[Buffalo!](buffalo-2024-04-28) (Musing #1281)
+
+> Times eleven.
+
 ChatGPT, LLMs, and Other Similar Issues
 ---------------------------------------
 

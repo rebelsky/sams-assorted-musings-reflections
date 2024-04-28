@@ -1,6 +1,10 @@
 Musings, from newest to oldest
 ==============================
 
+## 1281-1290
+
+[Buffalo!](buffalo-2024-04-28) (Musing #1281)  
+
 ## 1271-1280
 
 [Registration priorities](registration-priorities-2024-04-27) (Musing #1280)  

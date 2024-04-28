@@ -10,6 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musings:
+[Buffalo!](buffalo-2024-04-28) (Musing #1281) and
 [Registration priorities](registration-priorities-2024-04-27) (Musing #1280)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>

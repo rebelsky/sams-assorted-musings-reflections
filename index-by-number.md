@@ -1657,3 +1657,7 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Setting up class](setting-up-class-2024-03-19) (Musing #1278)  
 [Creating Submit buttons in Qualtrics](qualtrics-submit) (Musing #1279)  
 [Registration priorities](registration-priorities-2024-04-27) (Musing #1280)  
+
+## 1281-1290
+
+[Buffalo!](buffalo-2024-04-28) (Musing #1281)  
