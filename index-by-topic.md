@@ -4391,6 +4391,10 @@ Autobiographical essays, more or less
 
 > A resolution of sorts.
 
+[Forty-five years](forty-five-years) (Musing #1282)
+
+> Three-fourths of my life. All of his.
+
 Salary reviews
 --------------
 

@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 1281-1290
 
+[Forty-five years](forty-five-years) (Musing #1282)  
 [Buffalo!](buffalo-2024-04-28) (Musing #1281)  
 
 ## 1271-1280

@@ -1661,3 +1661,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 ## 1281-1290
 
 [Buffalo!](buffalo-2024-04-28) (Musing #1281)  
+[Forty-five years](forty-five-years) (Musing #1282)  
