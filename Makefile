@@ -75,6 +75,7 @@ INDICES = index-by-topic-head.md \
 	index-teaching.md \
         index-code-camps.md \
 	index-recommendations.md \
+        index-technology.md \
         index-cnix.md \
 	index-joc.md \
         index-151.md \
