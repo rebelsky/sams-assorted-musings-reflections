@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musings:
-[Forty-five years](forty-five-years) (Musing #1282).
+[Partitioning arrays](partitioning-2024-05-22) (Musing #1283)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

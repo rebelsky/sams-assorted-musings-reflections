@@ -2385,6 +2385,25 @@ On writing letters of recommendation
 
 [Another evening of writing recommendation letters](recommendations-january-2017) (Essay #214)
 
+Technology (traditionally troublesome)
+--------------------------------------
+
+_Warning!  This index was not added until musing 1194 or so.  It is
+therefore necessarily incomplete.  I will do my best to update links
+to/from past musings._
+
+[DNS woes](dns-woes-2022-06-22) (Musing #1194)
+
+> I hate computers.  Or maybe they hate me.
+
+[I (still) hate computers](email-woes-2022-07-16) (Musing #1197)
+
+> What goes around, comes around
+
+[Partitioning arrays](partitioning-2024-05-22) (Musing #1283)
+
+> Questioning approaches.
+
 Don't embarass me; don't embarass yourself: Some notes on thinking in C and Unix
 --------------------------------------------------------------------------------
 

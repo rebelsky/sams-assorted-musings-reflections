@@ -1548,8 +1548,10 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Cycles of technology](tech-cycles-2022-06-08) (Musing #1191)  
 [Young alumni weekend](yaw-2022-06-20) (Musing #1192)  
 [Questions from Young Alumni Weekend](yaw-questions-2022-06-21) (Musing #1193)  
+[DNS woes](dns-woes-2022-06-22) (Musing #1194)  
 [Fifty Years of Title IX](title-ix-2022-06-23) (Musing #1195)  
 [A Hidden Curriculum](hidden-curriculum-2022-06-24) (Musing #1196)  
+[I (still) hate computers](email-woes-2022-07-16) (Musing #1197)  
 [Terminology](terminology-2022-08-25) (Musing #1198)  
 [Unexpected cover bands](happy-together-2022-08-26) (Musing #1199)  
 [Musing Twelve Hundred (more or less)](1200) (Musing #1200)  
@@ -1662,3 +1664,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 
 [Buffalo!](buffalo-2024-04-28) (Musing #1281)  
 [Forty-five years](forty-five-years) (Musing #1282)  
+[Partitioning arrays](partitioning-2024-05-22) (Musing #1283)  

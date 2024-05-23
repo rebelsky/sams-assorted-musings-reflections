@@ -13,3 +13,7 @@ to/from past musings._
 
 > What goes around, comes around
 
+[Partitioning arrays](partitioning-2024-05-22) (Musing #1283)
+
+> Questioning approaches.
+

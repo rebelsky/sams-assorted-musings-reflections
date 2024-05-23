@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 1281-1290
 
+[Partitioning arrays](partitioning-2024-05-22) (Musing #1283)  
 [Forty-five years](forty-five-years) (Musing #1282)  
 [Buffalo!](buffalo-2024-04-28) (Musing #1281)  
 
@@ -115,8 +116,10 @@ Musings, from newest to oldest
 [Musing Twelve Hundred (more or less)](1200) (Musing #1200)  
 [Unexpected cover bands](happy-together-2022-08-26) (Musing #1199)  
 [Terminology](terminology-2022-08-25) (Musing #1198)  
+[I (still) hate computers](email-woes-2022-07-16) (Musing #1197)  
 [A Hidden Curriculum](hidden-curriculum-2022-06-24) (Musing #1196)  
 [Fifty Years of Title IX](title-ix-2022-06-23) (Musing #1195)  
+[DNS woes](dns-woes-2022-06-22) (Musing #1194)  
 [Questions from Young Alumni Weekend](yaw-questions-2022-06-21) (Musing #1193)  
 [Young alumni weekend](yaw-2022-06-20) (Musing #1192)  
 [Cycles of technology](tech-cycles-2022-06-08) (Musing #1191)  
