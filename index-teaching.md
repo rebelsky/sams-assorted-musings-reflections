@@ -228,3 +228,7 @@ online, but they will soon expand to more general issues about teaching._
 
 > So much to do.
 
+[Reflections on my teaching](teaching-reflections-2024-05-30) (Musing #1284)
+
+> What do I do?
+

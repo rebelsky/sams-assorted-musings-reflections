@@ -2328,6 +2328,10 @@ online, but they will soon expand to more general issues about teaching._
 
 > So much to do.
 
+[Reflections on my teaching](teaching-reflections-2024-05-30) (Musing #1284)
+
+> What do I do?
+
 Code camps
 ----------
 
@@ -4413,6 +4417,10 @@ Autobiographical essays, more or less
 [Forty-five years](forty-five-years) (Musing #1282)
 
 > Three-fourths of my life. All of his.
+
+[Reflections on my teaching](teaching-reflections-2024-05-30) (Musing #1284)
+
+> What do I do?
 
 Salary reviews
 --------------

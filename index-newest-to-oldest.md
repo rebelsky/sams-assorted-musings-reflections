@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 1281-1290
 
+[Reflections on my teaching](teaching-reflections-2024-05-30) (Musing #1284)  
 [Partitioning arrays](partitioning-2024-05-22) (Musing #1283)  
 [Forty-five years](forty-five-years) (Musing #1282)  
 [Buffalo!](buffalo-2024-04-28) (Musing #1281)  

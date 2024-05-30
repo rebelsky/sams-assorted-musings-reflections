@@ -15,7 +15,7 @@ As I said, I wasn't sure why they seemed so happy with me. I tried discussing it
 
 In any case, I have to admit that some students find me special [5]. Perhaps many students find me special. I suppose I should take stock of what might contribute to my apparent success as a teacher.
 
-In putting together this musing, I initially considered writing these comments as suggestions for other faculty. However, as I've said in the past, it's not clear that what works for one faculty member will work for another; things that are natural for one person may seem forced for another. Nonetheless, there are some things that every faculty member should do or consider doing. I'll let you figure out what those are.
+In putting this musing together, I initially considered writing these comments as suggestions for other faculty. However, as I've said in the past, it's not clear that what works for one faculty member will work for another; things that are natural for one person may seem forced for another. Nonetheless, there are some things that every faculty member should do or consider doing. I'll let you figure out what those are.
 
 Before going on, I should note that I'm fortunate. My classes are small. CSC-207 was over-enrolled at 27 students [6]. I also started the semester with 25 students in CSC-151 [7]. Some of my recommendations reflect that context; folks with significantly more students may not be able to adopt my interpersonal habits.
 

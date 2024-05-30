@@ -657,3 +657,7 @@ Autobiographical essays, more or less
 
 > Three-fourths of my life. All of his.
 
+[Reflections on my teaching](teaching-reflections-2024-05-30) (Musing #1284)
+
+> What do I do?
+

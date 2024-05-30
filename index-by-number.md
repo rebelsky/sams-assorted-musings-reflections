@@ -1665,3 +1665,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Buffalo!](buffalo-2024-04-28) (Musing #1281)  
 [Forty-five years](forty-five-years) (Musing #1282)  
 [Partitioning arrays](partitioning-2024-05-22) (Musing #1283)  
+[Reflections on my teaching](teaching-reflections-2024-05-30) (Musing #1284)  
