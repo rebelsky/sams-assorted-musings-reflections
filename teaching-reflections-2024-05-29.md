@@ -147,6 +147,10 @@ It must be the snark.
 
 ---
 
+**_Postscript_**: Speaking of reviews, a colleague writing about reviews said that a dilligent faculty member would spend about three hours writing about their teaching, scholarship, and service. They must write faster than I do. At this point, I've likely spent six or more hours on this musing. If it were for a review, I'd be spending another few hours editing. And that's only for one part of the review. I suppose I'm something other than "dilligent". Perhaps "obsessive" is a better word.
+
+---
+
 **_Postscript_**: It took me long enough to write this musing that I now have end-of-course evaluations (EOCEs) available for my classes. 
 
 Of the 24 students in CSC-207 who filled out the EOCEs, 21 seemed to have a positive experience, and three seemed to have a negative experience. As in the fall, a few students really didn't like the eboard technique; I'll admit that there are benefits to having whiteboards. I'm surprised that some students wrote things like "Rebelsky was a fantastic lecturer". I've always thought of myself as a decent lecturer. What I do best is involve students in design. Perhaps this is a more appropriate comment: "The lectures, especially where we talked through an ADT or something were great."
