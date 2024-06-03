@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 1281-1290
 
+[Living with depression](depression-2024-06-02) (Musing #1285)  
 [Reflections on my teaching](teaching-reflections-2024-05-30) (Musing #1284)  
 [Partitioning arrays](partitioning-2024-05-22) (Musing #1283)  
 [Forty-five years](forty-five-years) (Musing #1282)  
