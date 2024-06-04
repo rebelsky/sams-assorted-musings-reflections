@@ -1,11 +1,11 @@
 ---
 title: On writing and computers (perhaps also ChatGPT and large language models)
 number: 1254
-tags: [On writing](index-on-writing), [ChatGPT and LLMs](index-llms)
+tags: [On writing](index-on-writing), [Generative AI](index-generative-ai)
 blurb: Starting a new series.
-version: 1.0
+version: 1.0.1
 released: 2023-08-16
-current: 
+current: 2024-06-03
 ---
 _I drafted much of this musing on June 20 and then put it aside for nearly two months.  Some time-based comments are from that date, particularly the first line._
 

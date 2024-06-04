@@ -26,7 +26,7 @@ Latest musings:
 * [For alumni, and for others who donate to the department](index-alumni)
 * [On writing, or at least on writing these essays](index-on-writing)
 * [On language](index-language)
-* [ChatGPT, LLMs, and Other Similar Issues](index-llms)
+* [Adventures with generative AI](index-generative-ai)
 * [Various notes on life in academia](index-academia)
 * [Meta-musings](index-meta)
 * [Reflections on some important issues](index-important-issues)
@@ -52,6 +52,5 @@ Latest musings:
 * [Tales of Tchotchkes](index-tchotchkes)
 * [technology (traditionally troublesome)](index-technology)
 * [ROF musings](index-rof)
-* [On ChatGPT](index-chatgpt)
 * [Almost everything else](index-misc)
 

@@ -59,7 +59,6 @@ pdf: html $(sect-pdf) $(md-pdf)         # Builds all valid .pdf targets
 INDICES = index-by-topic-head.md \
 	index-on-writing.md \
         index-language.md \
-        index-llms.md \
 	index-meta.md \
         index-monthly.md \
 	index-prospective-students.md \
@@ -93,7 +92,7 @@ INDICES = index-by-topic-head.md \
         index-email.md \
         index-obsessions.md \
 	index-tchotchkes.md \
-        index-chatgpt.md \
+        index-generative-ai.md \
 	index-misc.md \
         index-multiple-entries.md \
 	index-removed.md 
