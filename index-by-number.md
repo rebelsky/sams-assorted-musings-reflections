@@ -1667,3 +1667,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Partitioning arrays](partitioning-2024-05-22) (Musing #1283)  
 [Reflections on my teaching](teaching-reflections-2024-05-30) (Musing #1284)  
 [Living with depression](depression-2024-06-02) (Musing #1285)  
+[Developing and presenting AI policies for the SIGCSE Technical Symposium](sigcse-ts-ai-2024-06-03) (Musing #1286)  

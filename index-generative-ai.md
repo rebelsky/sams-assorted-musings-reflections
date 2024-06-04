@@ -9,3 +9,7 @@ Adventures with Generative AI
 
 > Getting things wrong.
 
+[Developing and presenting AI policies for the SIGCSE Technical Symposium](sigcse-ts-ai-2024-06-03) (Musing #1286)
+
+> Maybe I should have written them with generative AI.
+
