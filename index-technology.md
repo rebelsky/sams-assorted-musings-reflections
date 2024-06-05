@@ -17,3 +17,7 @@ to/from past musings._
 
 > Questioning approaches.
 
+[My professional responsibility to complain about technology](acm-code-25-2024-06-04) (Musing #1287)
+
+> "Give comprehensive and thorough evaluations of computer systems and their impacts, including analysis of possible risks."
+

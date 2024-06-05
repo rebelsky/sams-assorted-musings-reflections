@@ -665,3 +665,7 @@ Autobiographical essays, more or less
 
 > Is it "suffering"?
 
+[My professional responsibility to complain about software](acm-code-25-2024-06-04) (Musing #1287)
+
+> "Give comprehensive and thorough evaluations of computer systems and their impacts, including analysis of possible risks."
+

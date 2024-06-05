@@ -10,8 +10,8 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musings:
-[Living with depression](depression-2024-06-02) (Musing #1285) and
-[Developing and presenting AI policies for the SIGCSE Technical Symposium](sigcse-ts-ai-2024-06-03) (Musing #1286)
+[Developing and presenting AI policies for the SIGCSE Technical Symposium](sigcse-ts-ai-2024-06-03) (Musing #1286) and
+[My professional responsibility to complain about technology](acm-code-25-2024-06-04) (Musing #1287)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

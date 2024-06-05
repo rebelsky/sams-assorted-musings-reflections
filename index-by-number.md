@@ -1668,3 +1668,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Reflections on my teaching](teaching-reflections-2024-05-30) (Musing #1284)  
 [Living with depression](depression-2024-06-02) (Musing #1285)  
 [Developing and presenting AI policies for the SIGCSE Technical Symposium](sigcse-ts-ai-2024-06-03) (Musing #1286)  
+[My professional responsibility to complain about technology](acm-code-25-2024-06-04) (Musing #1287)  
