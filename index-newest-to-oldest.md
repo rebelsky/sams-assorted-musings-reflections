@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 1281-1290
 
+[Learning assessments](learning-assessments-2024-06-05) (Musing #1288)  
 [My professional responsibility to complain about technology](acm-code-25-2024-06-04) (Musing #1287)  
 [Developing and presenting AI policies for the SIGCSE Technical Symposium](sigcse-ts-ai-2024-06-03) (Musing #1286)  
 [Living with depression](depression-2024-06-02) (Musing #1285)  

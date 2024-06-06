@@ -10,8 +10,8 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musings:
-[Developing and presenting AI policies for the SIGCSE Technical Symposium](sigcse-ts-ai-2024-06-03) (Musing #1286) and
-[My professional responsibility to complain about technology](acm-code-25-2024-06-04) (Musing #1287)
+[My professional responsibility to complain about technology](acm-code-25-2024-06-04) (Musing #1287) and
+[Learning assessments](learning-assessments-2024-06-05) (Musing #1288)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

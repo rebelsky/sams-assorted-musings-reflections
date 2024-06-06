@@ -232,3 +232,7 @@ online, but they will soon expand to more general issues about teaching._
 
 > What do I do?
 
+[Learning assessments](learning-assessments-2024-06-05) (Musing #1288)
+
+> Assessments, objectives, outcomes, goals, and the ilk.
+
