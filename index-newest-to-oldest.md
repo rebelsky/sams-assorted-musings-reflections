@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 1281-1290
 
+[Gaining seniority](gaining-seniority-2024-06-08) (Musing #1289)  
 [Learning assessments](learning-assessments-2024-06-05) (Musing #1288)  
 [My professional responsibility to complain about technology](acm-code-25-2024-06-04) (Musing #1287)  
 [Developing and presenting AI policies for the SIGCSE Technical Symposium](sigcse-ts-ai-2024-06-03) (Musing #1286)  

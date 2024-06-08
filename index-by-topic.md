@@ -3463,6 +3463,10 @@ Grinnell.
 
 > Amazingly, not a rant.
 
+[Gaining seniority](gaining-seniority-2024-06-08) (Musing #1289)
+
+> Or just getting older.
+
 Registration and Related Topics
 -------------------------------
 

@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musings:
-[My professional responsibility to complain about technology](acm-code-25-2024-06-04) (Musing #1287) and
+[Gaining seniority](gaining-seniority-2024-06-08) (Musing #1289) and
 [Learning assessments](learning-assessments-2024-06-05) (Musing #1288)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
