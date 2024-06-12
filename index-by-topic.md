@@ -2329,6 +2329,10 @@ online, but they will soon expand to more general issues about teaching._
 
 > Assessments, objectives, outcomes, goals, and the ilk.
 
+[My current approaches to mastery grading](mastery-grading-2024-06-12) (Musing #1290)
+
+> I'm still working to master it.
+
 Code camps
 ----------
 
