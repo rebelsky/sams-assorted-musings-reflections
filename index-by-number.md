@@ -1672,3 +1672,7 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Learning assessments](learning-assessments-2024-06-05) (Musing #1288)  
 [Gaining seniority](gaining-seniority-2024-06-08) (Musing #1289)  
 [My current approaches to mastery grading](mastery-grading-2024-06-12) (Musing #1290)  
+
+## 1291-1300
+
+[Unintentional mashups](unintentional-mashups-2024-06-15) (Musing #1291)  

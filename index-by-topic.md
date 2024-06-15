@@ -5487,6 +5487,10 @@ Almost everything else
 
 > Not the best combination.
 
+[Unintentional mashups](unintentional-mashups-2024-06-15) (Musing #1291)
+
+> Why do these songs sound the same to me?
+
 Musings with multiple entries
 -----------------------------
 

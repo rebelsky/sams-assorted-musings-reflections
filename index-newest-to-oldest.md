@@ -1,6 +1,10 @@
 Musings, from newest to oldest
 ==============================
 
+## 1291-1300
+
+[Unintentional mashups](unintentional-mashups-2024-06-15) (Musing #1291)  
+
 ## 1281-1290
 
 [My current approaches to mastery grading](mastery-grading-2024-06-12) (Musing #1290)  
