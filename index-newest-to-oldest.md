@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 1291-1300
 
+["Tomorrow's my birthday"](tomorrow-birthday-2024-06-16) (Musing #1292)  
 [Unintentional mashups](unintentional-mashups-2024-06-15) (Musing #1291)  
 
 ## 1281-1290

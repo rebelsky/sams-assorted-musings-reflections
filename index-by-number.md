@@ -1676,3 +1676,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 ## 1291-1300
 
 [Unintentional mashups](unintentional-mashups-2024-06-15) (Musing #1291)  
+["Tomorrow's my birthday"](tomorrow-birthday-2024-06-16) (Musing #1292)  

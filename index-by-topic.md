@@ -4439,6 +4439,10 @@ Autobiographical essays, more or less
 
 > "Give comprehensive and thorough evaluations of computer systems and their impacts, including analysis of possible risks."
 
+["Tomorrow's my birthday"](tomorrow-birthday-2024-06-16) (Musing #1292)
+
+> Today is June 16, 2024.
+
 Salary reviews
 --------------
 
