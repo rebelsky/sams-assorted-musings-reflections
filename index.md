@@ -10,9 +10,8 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musings:
-["Tomorrow's my birthday"](tomorrow-birthday-2024-06-16) (Musing #1292),
-[Unintentional mashups](unintentional-mashups-2024-06-15) (Musing #1291), and
-[My current approaches to mastery grading](mastery-grading-2024-06-12) (Musing #1290)
+[What kind of computer should you buy? (2024 version)](buy-computer-2024) (Musing #1293) and
+["Tomorrow's my birthday"](tomorrow-birthday-2024-06-16) (Musing #1292).
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

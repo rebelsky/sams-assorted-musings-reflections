@@ -75,3 +75,7 @@ overall characteristics of the institution and the student body.
 
 > Plan ahead.
 
+[What kind of computer should you buy? (2024 version)](buy-computer-2024) (Musing #1293)
+
+> I don't know.
+

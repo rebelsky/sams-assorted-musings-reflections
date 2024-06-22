@@ -677,6 +677,10 @@ overall characteristics of the institution and the student body.
 
 > Plan ahead.
 
+[What kind of computer should you buy? (2024 version)](buy-computer-2024) (Musing #1293)
+
+> I don't know.
+
 For prospective faculty
 -----------------------
 
@@ -3470,6 +3474,10 @@ Grinnell.
 [Gaining seniority](gaining-seniority-2024-06-08) (Musing #1289)
 
 > Or just getting older.
+
+[What kind of computer should you buy? (2024 version)](buy-computer-2024) (Musing #1293)
+
+> I don't know.
 
 Registration and Related Topics
 -------------------------------
