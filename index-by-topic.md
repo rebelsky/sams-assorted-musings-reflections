@@ -4455,6 +4455,10 @@ Autobiographical essays, more or less
 
 > Or perhaps just documentation of that planning.
 
+[A draft sabbatical application letter](sabbatical-letter-2024-08-05) (Musing #1295)
+
+> Fairly rough.
+
 Salary reviews
 --------------
 

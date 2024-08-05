@@ -9,7 +9,8 @@ If you'd like, you can read [a longer introduction](intro-musings-v0).
 If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
-Latest musing:
+Latest musings:
+[A draft sabbatical application letter](sabbatical-letter-2024-08-05) (Musing #1295) and
 [Sabbatical planning](sabbatical-planning-2024-08-04) (Musing #1294)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
