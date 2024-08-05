@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 1291-1300
 
+[Sabbatical planning](sabbatical-planning-2024-08-04) (Musing #1294)  
 [What kind of computer should you buy? (2024 version)](buy-computer-2024) (Musing #1293)  
 ["Tomorrow's my birthday"](tomorrow-birthday-2024-06-16) (Musing #1292)  
 [Unintentional mashups](unintentional-mashups-2024-06-15) (Musing #1291)  

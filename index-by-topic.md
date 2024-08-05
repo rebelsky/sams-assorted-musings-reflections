@@ -4451,6 +4451,10 @@ Autobiographical essays, more or less
 
 > Today is June 16, 2024.
 
+[Sabbatical planning](sabbatical-planning-2024-08-04) (Musing #1294)
+
+> Or perhaps just documentation of that planning.
+
 Salary reviews
 --------------
 

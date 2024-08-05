@@ -9,9 +9,8 @@ If you'd like, you can read [a longer introduction](intro-musings-v0).
 If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
-Latest musings:
-[What kind of computer should you buy? (2024 version)](buy-computer-2024) (Musing #1293) and
-["Tomorrow's my birthday"](tomorrow-birthday-2024-06-16) (Musing #1292).
+Latest musing:
+[Sabbatical planning](sabbatical-planning-2024-08-04) (Musing #1294)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
