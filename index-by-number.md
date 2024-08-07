@@ -1680,3 +1680,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [What kind of computer should you buy? (2024 version)](buy-computer-2024) (Musing #1293)  
 [Sabbatical planning](sabbatical-planning-2024-08-04) (Musing #1294)  
 [A draft sabbatical application letter](sabbatical-letter-2024-08-05) (Musing #1295)  
+[What I wish I'd known when I started at Grinnell](what-i-wish-id-known-2024-08-06) (Musing #1296)  

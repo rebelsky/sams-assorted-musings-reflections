@@ -3479,6 +3479,10 @@ Grinnell.
 
 > I don't know.
 
+[What I wish I'd known when I started at Grinnell](what-i-wish-id-known-2024-08-06) (Musing #1296)
+
+> I don't remember that far back.
+
 Registration and Related Topics
 -------------------------------
 
