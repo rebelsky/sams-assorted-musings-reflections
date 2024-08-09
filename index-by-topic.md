@@ -1756,6 +1756,10 @@ On life in academia
 
 > Such a great response!
 
+[Three weeks to go](three-weeks-to-go-2024-08-08) (Musing #1297)
+
+> Agh!
+
 Thank-You Notes
 ---------------
 
