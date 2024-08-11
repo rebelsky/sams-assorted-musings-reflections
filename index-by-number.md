@@ -1682,3 +1682,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [A draft sabbatical application letter](sabbatical-letter-2024-08-05) (Musing #1295)  
 [What I wish I'd known when I started at Grinnell](what-i-wish-id-known-2024-08-06) (Musing #1296)  
 [Three weeks to go](three-weeks-to-go-2024-08-08) (Musing #1297)  
+[Planning updates for CSC-207 in Fall 2024](csc-207-2024fa) (Musing #1298)  

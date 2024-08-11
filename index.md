@@ -10,9 +10,8 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musings:
+[Planning updates for CSC-207 in Fall 2024](csc-207-2024fa) (Musing #1298) and
 [Three weeks to go](three-weeks-to-go-2024-08-08) (Musing #1297)
-and
-[What I wish I'd known when I started at Grinnell](what-i-wish-id-known-2024-08-06) (Musing #1296)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

@@ -240,3 +240,7 @@ online, but they will soon expand to more general issues about teaching._
 
 > I'm still working to master it.
 
+[Planning updates for CSC-207 in Fall 2024](csc-207-2024fa) (Musing #1298)
+
+> How many changes should I make?
+
