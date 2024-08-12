@@ -162,6 +162,10 @@ Essays on writing, or at least on writing my musings
 
 > So many options
 
+["and'd"](andd-2024-08-12) (Musing #1299)
+
+> Not helpful!
+
 On language
 -----------
 
@@ -1581,6 +1585,10 @@ Rants
 [Creating Submit buttons in Qualtrics](qualtrics-submit) (Musing #1279)
 
 > UI basics.
+
+["and'd"](andd-2024-08-12) (Musing #1299)
+
+> Not helpful!
 
 Assorted talks and speeches
 ---------------------------

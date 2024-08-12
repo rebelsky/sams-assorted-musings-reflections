@@ -159,3 +159,7 @@ Essays on writing, or at least on writing my musings
 
 > So many options
 
+["and'd"](andd-2024-08-12) (Musing #1299)
+
+> Not helpful!
+

@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 1291-1300
 
+["and'd"](andd-2024-08-12) (Musing #1299)  
 [Planning updates for CSC-207 in Fall 2024](csc-207-2024fa) (Musing #1298)  
 [Three weeks to go](three-weeks-to-go-2024-08-08) (Musing #1297)  
 [What I wish I'd known when I started at Grinnell](what-i-wish-id-known-2024-08-06) (Musing #1296)  
