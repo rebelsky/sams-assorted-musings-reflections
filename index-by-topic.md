@@ -473,6 +473,10 @@ be found in [the list of musings on writing](index-on-writing)._
 
 > I'm not sure how to respond.
 
+[Thirteen hundred posts (more or less)](thirteen-hundred) (Musing #1300)
+
+> So many hours of my life!
+
 Monthly reflections
 -------------------
 

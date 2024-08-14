@@ -9,9 +9,8 @@ If you'd like, you can read [a longer introduction](intro-musings-v0).
 If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
-Latest musings:
-["and'd"](andd-2024-08-12) (Musing #1299) and
-[Planning updates for CSC-207 in Fall 2024](csc-207-2024fa) (Musing #1298).
+Latest musing:
+[Thirteen hundred posts (more or less)](thirteen-hundred) (Musing #1300) 
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
