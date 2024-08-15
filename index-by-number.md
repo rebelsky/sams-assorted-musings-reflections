@@ -1685,3 +1685,7 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Planning updates for CSC-207 in Fall 2024](csc-207-2024fa) (Musing #1298)  
 ["and'd"](andd-2024-08-12) (Musing #1299)  
 [Thirteen hundred posts (more or less)](thirteen-hundred) (Musing #1300)  
+
+## 1301-1310
+
+[Developmental reviews](developmental-reviews-2024-08-15) (Musing #1301)  

@@ -9,7 +9,9 @@ If you'd like, you can read [a longer introduction](intro-musings-v0).
 If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
-Latest musing:
+Latest musings:
+[Developmental reviews](developmental-reviews-2024-08-15) (Musing #1301)
+and
 [Thirteen hundred posts (more or less)](thirteen-hundred) (Musing #1300) 
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>

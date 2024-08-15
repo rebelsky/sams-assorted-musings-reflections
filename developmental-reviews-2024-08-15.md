@@ -1,7 +1,7 @@
 ---
 title: Developmental reviews
 number: 1301
-tags: [Autobiographical](index-autobiographical)
+tags: [Grinnell](index-grinnell)
 blurb: Yay! More paperwork
 version: 1.0
 released: 2024-08-15
@@ -46,6 +46,18 @@ I'm not sure why we are asked to look back six years since we're only reporting 
 Speaking of FARs, I need to update my FAR for my sabbatical application and my developmental review. Filling in the form seems like a good starting point. Stay tuned for the next musing!
 
 Hmmm ... I've mostly reported on what's in the documents. I've made some side [15] comments as end notes. Does this musing need more? Nah. You can wait until I report on how I've filled in the notes form.
+
+---
+
+**_Postscript_**: Just to have a bit more here, I'm adding quick answers to the three questions.
+
+**Reflect on the past 3 years**. Stressful. Stressful enough that I had a heart attack. Still made forward progress. Incorporated mastery grading in all my courses. Chaired a major conference and co-edited a 1000+ page proceedings.
+
+**My plans for the next 3 years**. Survive. Chair another major conference. Finish clearing out my lab so someone else can have it. Use sabbatical to write textbooks. Get the Web Governance Committee to do work this year. Hope we hire more excellent new faculty members in CS.
+
+**Is there anything else you think is relevant that was not covered above?** I don't think I should publicly post my comments about issues at the College. I probably shouldn't include them in my triennial developmental review either.
+
+Wasnt that fun? I wonder what my final answers will look like.
 
 ---
 

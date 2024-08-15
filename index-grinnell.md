@@ -479,3 +479,7 @@ Grinnell.
 
 > I don't remember that far back.
 
+[Developmental reviews](developmental-reviews-2024-08-15) (Musing #1301)
+
+> Yay! More paperwork
+
