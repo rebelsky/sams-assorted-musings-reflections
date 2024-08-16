@@ -3,9 +3,9 @@ title: Developmental reviews
 number: 1301
 tags: [Grinnell](index-grinnell)
 blurb: Yay! More paperwork
-version: 1.0
+version: 1.1
 released: 2024-08-15
-current: 
+current: 2024-08-15
 ---
 This past spring, the Grinnell faculty voted to put a temporary hold on triennial post-tenure [1] merit reviews. Instead, we're just doing "developmental reviews". We're getting closer to a point where every faculty member receives the same percentage raise, a system I've long advocated for. We're not quite there: Most faculty will get a 3.75 merit score, newly promoted faculty will get a 5.0 merit score, and folks who were reviewed within the past three years will get the higher of 3.75 and their merit score. At least, I think that's how it goes.
 
@@ -21,23 +21,23 @@ While it makes sense to ask about three-year chunks, I find "the next 3 years" t
 
 There's another optional form for us to fill out as we prepare to answer the questions: A record of the past six years, with categories of Teaching, Teaching Goals/Development, Advisees, Heavy Service, Other Service, Research [3], Groundskeeping [4], Well-being, and Life events. There are also some examples in each. Let's see.
 
-**Teaching**: E.g., MAPs, new courses, significant projects, etc. [5].
+> **Teaching**: E.g., MAPs, new courses, significant projects, etc. [5].
 
-**Teaching goals/development**: E.g., Attended nearly all teaching-centered Community Fridays, developing a new seminar, sharing student work (e.g. posters, website, presentations), ungrading, visit 2 colleagues' classes (1 each term), implement ungrading [6], teach Tutorial [7], redesign lab, update studio classroom, work with DASIL.
+> **Teaching goals/development**: E.g., Attended nearly all teaching-centered Community Fridays, developing a new seminar, sharing student work (e.g. posters, website, presentations), ungrading, visit 2 colleagues' classes (1 each term), implement ungrading [6], teach Tutorial [7], redesign lab, update studio classroom, work with DASIL.
 
-**Advisees**: E.g. Tutorial advisees, total advisees, current advisees, goal for reasonable number of advisees [8].
+> **Advisees**: E.g. Tutorial advisees, total advisees, current advisees, goal for reasonable number of advisees [8].
 
-**Heavy service**: E.g. Dept. Chair, Scholarship Committee, TT search chair [9], Serve on Curriculum Committee? [10]
+> **Heavy service**: E.g. Dept. Chair, Scholarship Committee, TT search chair [9], Serve on Curriculum Committee? [10]
 
-**Other service**: E.g. Informal mentoring, served on PhD committee, FIS host, Peer reviews for [journals, presses], Department self-study [11], faculty mentor program.
+> **Other service**: E.g. Informal mentoring, served on PhD committee, FIS host, Peer reviews for [journals, presses], Department self-study [11], faculty mentor program.
 
-**Research, performance, exhibition, coaching, library, etc.**: E.g. Book chapter published, presented at [meeting], present at [meeting] [12], fieldwork for next project, attend coaching clinic, finish book proposal, develop new library program.
+> **Research, performance, exhibition, coaching, library, etc.**: E.g. Book chapter published, presented at [meeting], present at [meeting] [12], fieldwork for next project, attend coaching clinic, finish book proposal, develop new library program.
 
-**Groundskeeping**: E.g. Informal mentoring of BIPOC students, served as IPOP [14] facilitator, revise syllabi to be more inclusive, disrupt "canon".
+> **Groundskeeping**: E.g. Informal mentoring of BIPOC students, served as IPOP [14] facilitator, revise syllabi to be more inclusive, disrupt "canon".
 
-**Well-being**: E.g. ways of rest, things to shed.
+> **Well-being**: E.g. ways of rest, things to shed.
 
-**Life events**: E.g. births, deaths, health challenges, shifts, etc.
+> **Life events**: E.g. births, deaths, health challenges, shifts, etc.
 
 Those seem like good things to log or at least consider. Wouldn't it be nice if our faculty records system was as easy to fill out as that spreadsheet? 
 
