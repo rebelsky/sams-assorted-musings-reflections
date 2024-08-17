@@ -658,3 +658,7 @@ Rants
 
 > Not helpful!
 
+[Hardcore porn and other adventures with Microsoft Teams](hardcore-porn-2024-08-16) (Musing #1302)
+
+> Lots of asterisks.
+

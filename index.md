@@ -10,7 +10,8 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musings:
-[Developmental reviews](developmental-reviews-2024-08-15) (Musing #1301)
+[Hardcore porn and other adventures with Microsoft Teams](hardcore-porn-2024-08-16) (Musing #1302),
+[Developmental reviews](developmental-reviews-2024-08-15) (Musing #1301),
 and
 [Thirteen hundred posts (more or less)](thirteen-hundred) (Musing #1300) 
 

@@ -5,15 +5,15 @@ tags: [Rants](index-rants), accessibility, technology, short
 blurb: Lots of asterisks.
 version: 1.0
 released: 2024-08-16
-current: 2024-08-14
+current: 
 ---
+<img src="images/hardcore-porn.png" width=600" alt="A screenshot of a Teams transcription. The first statement is by Rebelsky, Samuel and says Yeah, it's only when you put **** after ******** that it's a problem. The next statement is also by Rebelsky, Samuel and says Ohh, you have porn's not acceptable either."/>
+
 The other day, I was talking to a colleague on Microsoft Teams. When I use Teams for video chat, I often turn on auto-captioning. It helps with my hearing loss. It also helps with my distractability. Plus, it's fun to see what it thinks it hears [1].
 
 At some point in our conversation, my colleague used the word "hardcore". I don't recall the exact context, but it was the usual meaning of "seriously over-committed." Surprisingly, the Teams transcription did not include the word "hardcore". Instead, it used eight asterisks, "\*\*\*\*\*\*\*\*".
 
 I mentioned the change, and we started talking about it. I wanted to suggest that things are contextual, and it's only when you put "porn" after "hardcore" that the word might be a problem. Conveniently, the Teams Transcription used asterisks for "porn", too.
-
-<img src="images/hardcore-porn.png" width=600" alt="A screenshot of a Teams transcription. The first statement is by Rebelsky, Samuel and says Yeah, it's only when you put **** after ******** that it's a problem. The next statement is also by Rebelsky, Samuel and says Ohh, you have porn's not acceptable either."/>
 
 That lead me to note that in "porn's not acceptable either", Teams did not replace the "porn's" with "\*\*\*\*'s" [2].
 

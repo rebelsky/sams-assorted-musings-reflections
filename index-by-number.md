@@ -1689,3 +1689,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 ## 1301-1310
 
 [Developmental reviews](developmental-reviews-2024-08-15) (Musing #1301)  
+[Hardcore porn and other adventures with Microsoft Teams](hardcore-porn-2024-08-16) (Musing #1302)  
