@@ -78,9 +78,10 @@ INDICES = index-by-topic-head.md \
         index-cnix.md \
 	index-joc.md \
         index-151.md \
+	index-csc207.md \
 	index-grinnellians.md \
-        index-grinnell.md \
-        index-registration.md \
+	index-grinnell.md \
+	index-registration.md \
         index-incoming-chair.md \
 	index-reviews.md \
         index-mixtapes.md \
