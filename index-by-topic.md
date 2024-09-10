@@ -1594,10 +1594,6 @@ Rants
 
 > Not helpful!
 
-[Hardcore porn and other adventures with Microsoft Teams](hardcore-porn-2024-08-16) (Musing #1302)
-
-> Lots of asterisks.
-
 Assorted talks and speeches
 ---------------------------
 
@@ -4498,6 +4494,10 @@ Autobiographical essays, more or less
 [A draft sabbatical application letter](sabbatical-letter-2024-08-05) (Musing #1295)
 
 > Fairly rough.
+
+[Preparing to sit shiva](sitting-shiva-2024-09-09) (Musing #1303)
+
+> Embracing good practices.
 
 Salary reviews
 --------------

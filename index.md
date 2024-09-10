@@ -9,11 +9,8 @@ If you'd like, you can read [a longer introduction](intro-musings-v0).
 If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
-Latest musings:
-[Hardcore porn and other adventures with Microsoft Teams](hardcore-porn-2024-08-16) (Musing #1302),
-[Developmental reviews](developmental-reviews-2024-08-15) (Musing #1301),
-and
-[Thirteen hundred posts (more or less)](thirteen-hundred) (Musing #1300) 
+Latest musing:
+[Preparing to sit shiva](sitting-shiva-2024-09-09) (Musing #1303)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

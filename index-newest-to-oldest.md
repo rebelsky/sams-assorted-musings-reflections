@@ -3,7 +3,7 @@ Musings, from newest to oldest
 
 ## 1301-1310
 
-[Hardcore porn and other adventures with Microsoft Teams](hardcore-porn-2024-08-16) (Musing #1302)  
+[Preparing to sit shiva](sitting-shiva-2024-09-09) (Musing #1303)  
 [Developmental reviews](developmental-reviews-2024-08-15) (Musing #1301)  
 
 ## 1291-1300
