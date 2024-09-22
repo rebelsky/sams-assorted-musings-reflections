@@ -23,3 +23,7 @@ _A place to gather musings related to my wife, Michelle S. Rebelsky._
 
 > Embracing good practices.
 
+[A setlist for Michelle](michelle-setlist-2024-09-21) (Musing #1304)
+
+> A great show!
+

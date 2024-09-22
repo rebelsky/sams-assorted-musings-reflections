@@ -9,7 +9,9 @@ If you'd like, you can read [a longer introduction](intro-musings-v0).
 If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
-Latest musing:
+Latest musings:
+[A setlist for Michelle](michelle-setlist-2024-09-21) (Musing #1304)
+and
 [Preparing to sit shiva](sitting-shiva-2024-09-09) (Musing #1303)
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>

@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 1301-1310
 
+[A setlist for Michelle](michelle-setlist-2024-09-21) (Musing #1304)  
 [Preparing to sit shiva](sitting-shiva-2024-09-09) (Musing #1303)  
 [Developmental reviews](developmental-reviews-2024-08-15) (Musing #1301)  
 

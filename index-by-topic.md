@@ -3773,6 +3773,10 @@ Mixtapes
 
 > So many options!
 
+[A setlist for Michelle](michelle-setlist-2024-09-21) (Musing #1304)
+
+> A great show!
+
 Board, card, and other games
 ----------------------------
 
