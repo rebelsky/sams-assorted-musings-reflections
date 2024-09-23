@@ -4503,6 +4503,10 @@ Autobiographical essays, more or less
 
 > Embracing good practices.
 
+[Meeting Michelle](meeting-michelle-2024-09-22) (Musing #1305)
+
+> Not quite love at first sight. 
+
 Salary reviews
 --------------
 

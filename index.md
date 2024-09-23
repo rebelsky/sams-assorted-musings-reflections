@@ -10,6 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musings:
+[Meeting Michelle](meeting-michelle-2024-09-22) (Musing #1305),
 [A setlist for Michelle](michelle-setlist-2024-09-21) (Musing #1304)
 and
 [Preparing to sit shiva](sitting-shiva-2024-09-09) (Musing #1303)

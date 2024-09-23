@@ -27,3 +27,7 @@ _A place to gather musings related to my wife, Michelle S. Rebelsky._
 
 > A great show!
 
+[Meeting Michelle](meeting-michelle-2024-09-22) (Musing #1305)
+
+> Not quite love at first sight. 
+
