@@ -3,9 +3,9 @@ title: Meeting Michelle
 number: 1305
 tags: [Michelle](index-michelle), [Autobiographical](index-biographical)
 blurb: Not quite love at first sight. 
-version: 1.0
+version: 1.1
 released: 2024-09-22
-current: 
+current: 2024-09-23
 ---
 The other day, someone told me they'd heard Michelle and I first met in Chemistry lab. It's an interesting theory. I don't know where it came from. While Michelle was a Chemistry major, I never took a Chemistry class at the U of C.  Physics and Biology were my lab sciences, and, if I recall correctly, I managed to have only one of my three quarters of Biology involve real lab work.
 
@@ -55,6 +55,18 @@ I'll add any updates I hear from Adena or Randy or Rose or other friends.
 
 ---
 
+**_Postscript_**: Randy sent me an important update to this story. Here goes.
+
+> The only thing I want to add is that at some point when we were living together, after you had met, I was giving Michelle a call.  I had the impression (which I'm now questioning based on your story :-)) that you basically liked each other (not particularly liked-like, at least not at that point), so I said to you "I'm calling Michelle; would you like me to say anything to her for you?" and you responded "Sure; ask her if she'll marry me."  I called her and asked, and she said "Sure" and from that point forward you each introduced the other as their fiance.  (I think she was still dating someone else at the time; I remember a conversation with her in which she told me her boyfriend got a bit upset that she was going out to dinner with someone, she mentioned it was you and he stopped worrying.  In telling me the story she made it clear that that wasn't a smart judgement call of his.). Then we (including Michelle, in my memory) planned the wedding at the party, and I was going to be maid of honor in a green chiffon dress.  I don't think we really addressed the catholic/jewish issue at that point.  I don't remember if she was still dating Jeff (??) at that point.  You folks started dating sometime after that, but were always fuzzy on when, and I think told me that you told other people the date of the phone call when they asked when you had gotten engaged.  
+
+Randy is correct, and I'd completely forgotten that. I did say "Ask her if she'd marry me" when he was talking to her on the phone before the party. And that's why we planned the wedding. That changes the timeline a bit. Perhaps she'd volunteered to wash the scarf before that party. I have no memory why I said what I said? I tended to say weird off-handed comments at the time. I even made business cards that said "Nonsequiturs anonymous. We may not make sense, but we sure like pizza." [11]
+
+Randy's right that we certainly knew each other better by then Michelle and Adena had a bunch of Chemistry study sessions in our apartment, so we'd certainly talked.
+
+In any case, I'm going with "Print the legend". But the legend can be "I asked her to marry me via an intermediary. We planned a wedding. Then we started dating." That may even be a true legend.
+
+---
+
 [1] I learned so much from Paul Sally. And I still have my Shmuzzles, somewhere.
 
 [2] It's not particularly relevant to this story, but I loved living at 1517 East 57th. We were down the street from Powell's, which meant that I could stop by the free book bin on the way to class each morning and on the way home from class each night. I could also wander inside and buy books. We lived right over the railroad tracks, so we learned to develop the ability to sleep above anything.
@@ -74,3 +86,5 @@ I'll add any updates I hear from Adena or Randy or Rose or other friends.
 [9] I spent about three years of my life shipping films for Doc Films, running the projector, and even, for a summer, programming and running the summer program. I'm still proud that I could do seamless transitions between reels.
 
 [10] She'll tell you that's because I'm a boomer, and she's not. But I'd rather be a boomer than a 'tweener.
+
+[11] I'd forgotten about the nonsequitur's anonymous cards until Frank Corley sent me a scan of one a few years ago. As I've said, Michelle has the memory for our family.
