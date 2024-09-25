@@ -244,3 +244,7 @@ online, but they will soon expand to more general issues about teaching._
 
 > How many changes should I make?
 
+[Brain fog](brain-fog-2024-09-25) (Musing #1306)
+
+> Failing to think as I should.
+

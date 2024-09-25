@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 1301-1310
 
+[Brain fog](brain-fog-2024-09-25) (Musing #1306)  
 [Meeting Michelle](meeting-michelle-2024-09-22) (Musing #1305)  
 [A setlist for Michelle](michelle-setlist-2024-09-21) (Musing #1304)  
 [Preparing to sit shiva](sitting-shiva-2024-09-09) (Musing #1303)  
