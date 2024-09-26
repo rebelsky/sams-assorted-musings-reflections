@@ -689,3 +689,7 @@ Autobiographical essays, more or less
 
 > Not quite love at first sight. 
 
+[Sitting in Limbo](sitting-in-limbo-2024-09-26) (Musing #1307)
+
+> Exploring the meanings.
+

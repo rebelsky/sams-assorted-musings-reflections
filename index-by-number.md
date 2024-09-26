@@ -1693,3 +1693,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [A setlist for Michelle](michelle-setlist-2024-09-21) (Musing #1304)  
 [Meeting Michelle](meeting-michelle-2024-09-22) (Musing #1305)  
 [Brain fog](brain-fog-2024-09-25) (Musing #1306)  
+[Sitting in Limbo](sitting-in-limbo-2024-09-26) (Musing #1307)  

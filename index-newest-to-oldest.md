@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 1301-1310
 
+[Sitting in Limbo](sitting-in-limbo-2024-09-26) (Musing #1307)  
 [Brain fog](brain-fog-2024-09-25) (Musing #1306)  
 [Meeting Michelle](meeting-michelle-2024-09-22) (Musing #1305)  
 [A setlist for Michelle](michelle-setlist-2024-09-21) (Musing #1304)  

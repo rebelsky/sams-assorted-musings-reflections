@@ -10,9 +10,9 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musings:
-[Brain fog](brain-fog-2024-09-25) (Musing #1306), 
-[Meeting Michelle](meeting-michelle-2024-09-22) (Musing #1305), and
-[A setlist for Michelle](michelle-setlist-2024-09-21) (Musing #1304).
+[Sitting in Limbo](sitting-in-limbo-2024-09-26) (Musing #1307),
+[Brain fog](brain-fog-2024-09-25) (Musing #1306), and
+[Meeting Michelle](meeting-michelle-2024-09-22) (Musing #1305). 
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
