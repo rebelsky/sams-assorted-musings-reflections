@@ -35,3 +35,7 @@ _A place to gather musings related to my wife, Michelle S. Rebelsky._
 
 > Exploring the meanings.
 
+[Delivering babies](delivering-babies-2024-09-30) (Musing #1308)
+
+> One of her favorite things.
+
