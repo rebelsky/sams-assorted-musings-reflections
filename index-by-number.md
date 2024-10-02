@@ -1694,3 +1694,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Meeting Michelle](meeting-michelle-2024-09-22) (Musing #1305)  
 [Brain fog](brain-fog-2024-09-25) (Musing #1306)  
 [Sitting in Limbo](sitting-in-limbo-2024-09-26) (Musing #1307)  
+[It's a privilege](its-a-privilege-2024-10-02) (Musing #1309)  

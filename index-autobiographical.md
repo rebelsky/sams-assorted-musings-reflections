@@ -693,3 +693,7 @@ Autobiographical essays, more or less
 
 > Exploring the meanings.
 
+[It's a privilege](its-a-privilege-2024-10-02) (Musing #1309)
+
+> Time with my wife.
+

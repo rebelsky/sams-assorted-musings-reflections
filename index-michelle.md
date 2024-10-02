@@ -39,3 +39,7 @@ _A place to gather musings related to my wife, Michelle S. Rebelsky._
 
 > One of her favorite things.
 
+[It's a privilege](its-a-privilege-2024-10-02) (Musing #1309)
+
+> Time with my wife.
+

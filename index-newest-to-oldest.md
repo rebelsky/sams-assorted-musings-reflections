@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 1301-1310
 
+[It's a privilege](its-a-privilege-2024-10-02) (Musing #1309)  
 [Sitting in Limbo](sitting-in-limbo-2024-09-26) (Musing #1307)  
 [Brain fog](brain-fog-2024-09-25) (Musing #1306)  
 [Meeting Michelle](meeting-michelle-2024-09-22) (Musing #1305)  
