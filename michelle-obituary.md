@@ -1,13 +1,13 @@
 ---
-title: Michelle's obituary
+title: About Michelle
 number: NNN
 tags: [Michelle](index-michelle)
 blurb: Why am I writing this?
-version: 0.2.1
+version: 0.2.2
 released: 
 current: 2024-10-03
 ---
-_I won't be able to write or edit this after she passes, so I'm trying to get it done early._
+_I won't be able to write or edit an obituary this after she passes, so I'm trying to get it done early._
 
 Michelle Rebelsky, MD, 59, of Grinnell, passed away on DATE at Unity Point - Grinnell Regional Medical Center.
 
