@@ -3,7 +3,7 @@ title: Michelle's obituary
 number: NNN
 tags: [Michelle](index-michelle)
 blurb: Why am I writing this?
-version: 0.1
+version: 0.2
 released: 
 current: 2024-10-03
 ---
@@ -21,7 +21,9 @@ For most of her professional life, Michelle was a family physician in Grinnell, 
 
 Before starting medical school, Michelle worked on the human genome project in the laboratory of Janet Rowley. During residency, she conducted research on rural outreach programs.
 
-Beyond her professional life, which was integral to who she was, Michelle enjoyed spending time with her family, whether sitting on a beach, playing a card or board game, discussing books, or preparing and eating a meal.
+Beyond her professional life, which was integral to who she was, Michelle enjoyed spending time with her family, whether sitting on a beach, playing a card or board game, discussing books, preparing and eating a meal, or listening to music (particularly music performed by her children).
+
+Michelle had a strong faith and embraced life in the church. Beyond feeling the love of God, she valued careful discussion about scripture and the catechism.  She served as a teacher in St. Mary's religious education program and accompanied students to the National Catholic Youth Conference.
 
 Michelle is survived by her husband, Samuel; sons, William, Jonathan, and Daniel, all of Grinnell; and her brother and sister-in law, Charles and Sandra Steele, of Hobart Indiana.
 
