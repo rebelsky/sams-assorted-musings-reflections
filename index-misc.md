@@ -894,3 +894,7 @@ Almost everything else
 
 > Why do these songs sound the same to me?
 
+[Small-town radio](small-town-radio-2024-10-03) (Musing #1310)
+
+> One of the many things that occupies my thoughts.
+

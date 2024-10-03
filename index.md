@@ -10,9 +10,9 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musings:
-[It's a privilege](its-a-privilege-2024-10-02) (Musing #1309),
-[Delivering babies](delivering-babies-2024-09-30) (Musing #1308), and
-[Sitting in Limbo](sitting-in-limbo-2024-09-26) (Musing #1307).
+[Small-town radio](small-town-radio-2024-10-03) (Musing #1310),
+[It's a privilege](its-a-privilege-2024-10-02) (Musing #1309), and
+[Delivering babies](delivering-babies-2024-09-30) (Musing #1308).
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
