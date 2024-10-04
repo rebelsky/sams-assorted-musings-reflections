@@ -3,7 +3,7 @@ title: About Michelle
 number: NNN
 tags: [Michelle](index-michelle)
 blurb: Why am I writing this?
-version: 0.2.2
+version: 0.3.0
 released: 
 current: 2024-10-03
 ---
@@ -17,13 +17,13 @@ In lieu of flowers, Michelle requested gifts to causes that support women's heal
 
 ---
 
-Michelle Marie Steele Rebelsky, MD, MBA, FAAFP was born on December 3, 1964 in Chicago, Illinois, the daughter of Lloyd and Kathleen (Koenig) Steele. After five years on the west side of Chicago, she grew up in Oak Park Illinois where she attended Trinity High School. Michelle attended college at the University of Chicago, medical school at the University of Illinois Chicago, residency at the Maine-Dartmouth Family Practice Residency, and business school at the University of Tennessee Knoxville. She was also a designated Fellow of the American Academy of Family Practice and a member of Alpha Omega Alpha, the national medical honor society.
+Michelle Marie Steele Rebelsky, MD, MBA, FAAFP was born on December 3, 1964 in Chicago, Illinois, the daughter of Lloyd and Kathleen (Koenig) Steele. After five years on the west side of Chicago, she grew up in Oak Park Illinois. After high school at Trinity High School, Michelle attended college at the University of Chicago, medical school at the University of Illinois Chicago, residency at the Maine-Dartmouth Family Practice Residency, and business school at the University of Tennessee Knoxville. She was also a designated Fellow of the American Academy of Family Practice and a member of Alpha Omega Alpha, the national medical honor society.
 
 Michelle was united in marriage to Samuel Alexander Rebelsky on August 29, 1987. They were blessed with three sons, William, Jonathan, and Daniel. Michelle and Sam moved to Grinnell in 1997 and soon settled into their new household on Main St.
 
-For most of her professional life, Michelle was a family physician in Grinnell, where she was the first female family physicians. She also served many related positions in Grinnell and statewide. She was proudest of her work bringing new life into the world; delivering babies brought her joy. She was also proud of changes in medicine she wrought throughout her time at Grinnell. As a family physician, she provided care that addressed not only the physical but also the psychosocial issues of her patients.
+For most of her professional life, Michelle was a family physician in Grinnell, where she was the first female family physician. She also served many related positions in Grinnell and statewide. She was proudest of her work bringing new life into the world; delivering babies brought her joy. She was also proud of changes in medicine she wrought throughout her time at Grinnell. As a family physician, she provided care that addressed not only the physical but also the psychosocial issues of her patients.
 
-Before starting medical school, Michelle worked on the human genome project in the laboratory of Janet Rowley. During residency, she conducted research on rural outreach programs.
+Before starting medical school, Michelle worked on the human genome project in the laboratory of Janet Rowley. During residency, she conducted research on rural outreach programs. Her poems about practicing medicine were published in textbooks and journals around the world.
 
 Beyond her professional life, which was integral to who she was, Michelle enjoyed spending time with her family, whether sitting on a beach, playing a card or board game, discussing books, preparing and eating a meal, or listening to music (particularly music performed by her children).
 
