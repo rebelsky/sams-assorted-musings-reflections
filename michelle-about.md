@@ -3,7 +3,7 @@ title: About Michelle
 number: NNN
 tags: [Michelle](index-michelle)
 blurb: Why am I writing this?
-version: 0.3.0
+version: 0.3.1
 released: 
 current: 2024-10-03
 ---
@@ -23,7 +23,7 @@ Michelle was united in marriage to Samuel Alexander Rebelsky on August 29, 1987.
 
 For most of her professional life, Michelle was a family physician in Grinnell, where she was the first female family physician. She also served many related positions in Grinnell and statewide. She was proudest of her work bringing new life into the world; delivering babies brought her joy. She was also proud of changes in medicine she wrought throughout her time at Grinnell. As a family physician, she provided care that addressed not only the physical but also the psychosocial issues of her patients.
 
-Before starting medical school, Michelle worked on the human genome project in the laboratory of Janet Rowley. During residency, she conducted research on rural outreach programs. Her poems about practicing medicine were published in textbooks and journals around the world.
+Before starting medical school, Michelle worked on the human genome project in the laboratory of Janet Rowley. During residency, she conducted and published research on preventitive care; she continued to incorporatre work on preventitive care throughout her career. A poem she wrote about practicing medicine was published in textbooks and journals around the world.
 
 Beyond her professional life, which was integral to who she was, Michelle enjoyed spending time with her family, whether sitting on a beach, playing a card or board game, discussing books, preparing and eating a meal, or listening to music (particularly music performed by her children).
 
