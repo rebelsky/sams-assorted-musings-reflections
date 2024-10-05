@@ -3,9 +3,9 @@ title: Some of Michelle's playlists
 number: 1311
 tags: [Michelle](index-michelle), [Mixtapes](index-mixtapes), Data
 blurb: Eclectic choices.
-version: 1.0
+version: 1.0.1
 released: 2024-10-04
-current: 
+current: 2024-10-04
 ---
 For the past few days, Michelle and I have been listening to music together. Music has been a large part of our lives (particularly music while driving), and I thought the music might connect with her as she sleeps.
 
@@ -202,3 +202,4 @@ Whoops. I shouldn't have tried to transcribe the lyrics. Now I'm crying. I hope 
 Hmmm ... that's all I can find on this phone. I know that there were others. She loved 1970's pop and rock and often had that music playing. For example, I expected to see "Brandy (You're A Fine Girl)", which I regularly heard while riding with her. Or maybe she just played _Have A Nice Day: Super Hits of the 70's_. I can't reproduce everything. These four tapes give a partial start to Michelle's taste, my encounters with her taste, and our shared enjoyment.
 
 What about the albums on her iPhone, the ones that served as alternates to playlists? I've mentioned a few, but we'll consider those in more depth in another musing.
+
