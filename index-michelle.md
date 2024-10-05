@@ -43,3 +43,7 @@ _A place to gather musings related to my wife, Michelle S. Rebelsky._
 
 > Time with my wife.
 
+[Some of Michelle's playlists](michelle-playlists) (Musing #1311)
+
+> Eclectic choices.
+

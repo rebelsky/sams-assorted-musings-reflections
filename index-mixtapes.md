@@ -25,3 +25,7 @@ Mixtapes
 
 > A great show!
 
+[Some of Michelle's playlists](michelle-playlists) (Musing #1311)
+
+> Eclectic choices.
+
