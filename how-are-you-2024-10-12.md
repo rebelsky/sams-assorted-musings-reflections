@@ -3,7 +3,7 @@ title: Sam, how are you?
 number: 1312
 tags: [Autobiographical](index-autobiographical), short, insufficiently edited
 blurb: Variable
-version: 1.0
+version: 1.1
 released: 2024-10-12
 current: 
 ---
@@ -52,3 +52,7 @@ Last night, I had a family dinner with the boys, Michelle's cousins, and two of 
 So I'm empty. That's the best description I can come up with. There's a hole in my life. There always will be.
 
 But I'll be okay. I promised her I would be, and that's a promise I intend to keep. It may just take some time to get there.
+
+---
+
+**_Postscript_**: I forgot to mention. I am also exhuasted. I lay down at noon this afternoon and didn't wake up until after 3pm. I assume sleep will come and go.
