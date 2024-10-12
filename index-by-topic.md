@@ -4523,6 +4523,10 @@ Autobiographical essays, more or less
 
 > Time with my wife.
 
+[Sam, how are you?](how-are-you-2024-10-12) (Musing #1312)
+
+> Variable
+
 Salary reviews
 --------------
 

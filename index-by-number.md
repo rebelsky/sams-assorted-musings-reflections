@@ -1700,3 +1700,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 ## 1311-1320
 
 [Some of Michelle's playlists](michelle-playlists) (Musing #1311)  
+[Sam, how are you?](how-are-you-2024-10-12) (Musing #1312)  

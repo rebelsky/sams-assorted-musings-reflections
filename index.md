@@ -10,9 +10,9 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musings:
-[Some of Michelle's playlists](michelle-playlists) (Musing #1311),
-[Small-town radio](small-town-radio-2024-10-03) (Musing #1310), and
-[It's a privilege](its-a-privilege-2024-10-02) (Musing #1309). 
+[Sam, how are you?](how-are-you-2024-10-12) (Musing #1312),
+[Some of Michelle's playlists](michelle-playlists) (Musing #1311), and
+[Small-town radio](small-town-radio-2024-10-03) (Musing #1310).
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
