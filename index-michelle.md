@@ -47,3 +47,7 @@ _A place to gather musings related to my wife, Michelle S. Rebelsky._
 
 > Eclectic choices.
 
+[Michelle as physician](michelle-physician-2024-10-22) (Musing #1313)
+
+> A Michelle I only partially knew
+

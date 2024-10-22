@@ -1,0 +1,34 @@
+---
+title: Michelle as physician
+number: 1313
+tags: [Michelle](index-michelle)
+blurb: A Michelle I only partially knew
+version: 1.0
+released: 2024-10-22
+current:
+---
+Michelle had many identities: mother, wife, daughter, physician, Catholic, friend, board member, CMO, advocate, and more. As her husband, I had the privilege to see her in many of these roles, but not all of them. In particular, we talked a lot about her role as physician, but I rarely, if ever, got to see her practice her practice.
+
+Being a physician was clearly Michelle's calling, her vocation, a central way she made a positive difference in the world. It consumed her time and attention at work. It also consumed some of her time away from work. From the evidence I have, she was generally a great physician. Her patients loved her. In the time since she passed, many have already told me that she has become the standard by which they measure all doctors. Others have said that she's the only doctor they've had who they considered "their" doctor.
+
+What did Michelle do to achieve this status? I didn't know. I still don't entirely know. But I tried to ask a few patients and colleagues as they shared sympathy and stories. This musing represents my attempt to fit together some of the pieces. It's an incomplete picture, but perhaps it's enough.
+
+Perhaps most importantly, _Michelle made her patients' health her priority_. She cared more about what was right to do for them than anything; more than making money (although she made a good income), more than following rules (although she did her best to follow laws), sometimes more than taking care of herself (although she did try to take care of herself, too). A friend phrased it slightly differently; they said _Michelle practiced with integrity._ I interpret that as meaning that she did what was best for her patients.
+
+As I listened to stories, I identified a second, related characteristic: _Michelle was an old-fashioned family doctor._ I'm not sure that I can recall all of the traits that lead me to identify her as such, but here are a few. She took care of full families: new babies, their moms, their siblings, sometimes even their dads, sometimes their grandparents, their aunts and uncles, their cousins. As I said in Michelle's obituary, she did her best to understand her patients' psychosocial environments. But there was more than that. Many of her patients had her phone number and knew they could call her. One told me, "I called with an emergency and she said, 'Meet me at my office' rather than sending me to an ER." Another said, "I was on a trip and called her at home to ask questions." At least one relied on email care when they were have a country away.
+
+And, of course, there's delivering babies. While Michelle shared general call with other physicians, she always took her own OB call (at least if she was in town). She took seriously the bond between expectant mother and caregiver. And, as I've said before, she loved delivering babies. The stories I heard from patients reinforced her love of and skills at delivering. "I came in in labor and called her on the way to the hospital; she came flying in to the hospital at top speed to make sure that she was there in time." "My wife was unconscious after the delivery, so Michelle told me how to hold the baby next to my wife so that they'd make skin contact and bond well." "She needed an operating room for my delivery; all of them were booked. She said 'I'm taking this one.' and marched me in." No, my wife was not patient, particularly when her patients' health was involved.
+
+_Michelle was also brilliant_. You can be a good physician (and even a great physician) without being brilliant. But it helps. I talked to one of her colleagues from the Physicians MBA programs: "When Michelle and I talked about my specialization, she was a up to date on the literature as I was; and she had about a dozen different areas to keep up on." I think it helps that she did research in college, after college, in medical school, and in residency. She knew how to read and synthesize information. 
+
+_Michelle met patients where they were._ At least I think she did. But from hearing her talk about her patients, she seemed clued in to what each one needed from her, whether it be clear orders or respect for their position or someone to listen or .... One obvious aspect of this was how she handled patients who showed up for appointments late. Her front office usually wanted to make them re-book their appointments (at least as I recall), but Michelle's response was alwaysm "They're here now. I should see them." And she understood that there are many reasons that patients are late, reasons that she might even plan for. Do they need transportation to the hospital, and their transportation isn't available at the appointment times we suggest? Was this a one-time thing or a consistent issue? Are there cultural issues at play? Not everyone places the Western business-oriented high priority on timeliness. If it's someone who always shows up sixty to ninety minutes late, she could plan for that.
+
+A related anecdote that I heard this past week. One of her patients was making a choice that Michelle advised against. Advised strongly against. Still, when push came to shove, Michelle made sure that they had all the resources they needed to keep themselves healthy (or as healthy as possible) if they moved ahead. (Wow, that feels vague. I think it has to feel vague.)
+
+_Michelle gave patients time for questions._ I hadn't known this. It even seems a bit surprising, given how efficient Michelle seemed with her time. But many people said "She always ended our sessions asking me 'Do you have any questions?' And when she'd answered those, she'd ask 'Do you have any other questions?' and keep on doing so until she was sure I didn't have any other questions." I don't know if everyone had that experience, but many people did.
+
+_Michelle was willing to admit she didn't know everything._ She was a family doc. She was a damn smart family doc, but she was still a family doc. So she was willing to pass her patients off to specialists when necessary. She might still argue with the specialists (as I said, she was a damn smart family doc), but she accepted that there were people who knew more than her. And she also learned from her patients. I know, for example, that although she always supported her trans patients, her understanding of just how wrong some people felt in their assigned gender grew over the years. She listened to her patients' stories and incorporated what she learned from them into her practice and advice to others.
+
+Is that everything that made her a special doctor? Probably not. Each person I talk to had their own story. Perhaps most centrally, she cared about her patients and wanted them to feel cared for.
+
+Thank you, love, for being so wonderful and so important to so many others.
