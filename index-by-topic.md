@@ -4527,6 +4527,10 @@ Autobiographical essays, more or less
 
 > Variable
 
+[Preparing to sleep alone](preparing-sleep-alone-2024-10-29) (Musing #1314)
+
+> It's complicated.
+
 Salary reviews
 --------------
 

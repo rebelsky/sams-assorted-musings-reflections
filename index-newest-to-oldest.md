@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 1311-1320
 
+[Preparing to sleep alone](preparing-sleep-alone-2024-10-29) (Musing #1314)  
 [Sam, how are you?](how-are-you-2024-10-12) (Musing #1312)  
 [Some of Michelle's playlists](michelle-playlists) (Musing #1311)  
 
