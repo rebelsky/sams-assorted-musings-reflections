@@ -51,3 +51,11 @@ _A place to gather musings related to my wife, Michelle S. Rebelsky._
 
 > A Michelle I only partially knew
 
+[Halloween](halloween-2024-10-31) (Musing #1315)
+
+> A favorite holiday.
+
+[I dreamed I saw Michelle last night](dreamed-2024-11-03) (Musing #1316)
+
+> A great dream.
+

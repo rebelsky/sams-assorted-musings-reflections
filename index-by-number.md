@@ -1694,6 +1694,7 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Meeting Michelle](meeting-michelle-2024-09-22) (Musing #1305)  
 [Brain fog](brain-fog-2024-09-25) (Musing #1306)  
 [Sitting in Limbo](sitting-in-limbo-2024-09-26) (Musing #1307)  
+[Delivering babies](delivering-babies-2024-09-30) (Musing #1308)  
 [It's a privilege](its-a-privilege-2024-10-02) (Musing #1309)  
 [Small-town radio](small-town-radio-2024-10-03) (Musing #1310)  
 
@@ -1701,4 +1702,7 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 
 [Some of Michelle's playlists](michelle-playlists) (Musing #1311)  
 [Sam, how are you?](how-are-you-2024-10-12) (Musing #1312)  
+[Michelle as physician](michelle-physician-2024-10-22) (Musing #1313)  
 [Preparing to sleep alone](preparing-sleep-alone-2024-10-29) (Musing #1314)  
+[Halloween](halloween-2024-10-31) (Musing #1315)  
+[I dreamed I saw Michelle last night](dreamed-2024-11-03) (Musing #1316)  
