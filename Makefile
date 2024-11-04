@@ -88,6 +88,7 @@ INDICES = index-by-topic-head.md \
         index-games.md \
         index-rebelskys.md \
         index-autobiographical.md \
+        index-michelle.md \
         index-salary-reviews.md \
         index-rof.md \
         index-email.md \
