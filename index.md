@@ -10,9 +10,9 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musings:
-[I dreamed I saw Michelle last night](dreamed-2024-11-03) (Musing #1316),
-[Halloween](halloween-2024-10-31) (Musing #1315), and
-[Preparing to sleep alone](preparing-sleep-alone-2024-10-29) (Musing #1314).
+[My latest developmental review statements](developmental-reviews-2024-11-07) (Musing #1317),
+[I dreamed I saw Michelle last night](dreamed-2024-11-03) (Musing #1316), and
+[Halloween](halloween-2024-10-31) (Musing #1315).
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

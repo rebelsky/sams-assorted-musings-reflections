@@ -4592,8 +4592,8 @@ _A place to gather musings related to my wife, Michelle S. Rebelsky._
 
 > A great dream.
 
-Salary reviews
---------------
+Triennial reviews
+-----------------
 
 [I win! (I think)](i-win-2017-10-22) (Musing #464)
 
@@ -4634,6 +4634,14 @@ Salary reviews
 [Another (not-quite) triennial salary review](salary-review-2021-10-23) (Musing #1168)
 
 > This one is quadrennial!
+
+[Developmental reviews](developmental-reviews-2024-08-15) (Musing #1301)
+
+> Yay! More paperwork
+
+[My latest developmental review statements](developmental-reviews-2024-11-07) (Musing #1317)
+
+> Yay! More paperwork.
 
 ROF musings
 -----------
