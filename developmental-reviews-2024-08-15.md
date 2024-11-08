@@ -1,11 +1,11 @@
 ---
 title: Developmental reviews
 number: 1301
-tags: [Grinnell](index-grinnell)
+tags: [Triennial reviews](index-salary-reviews), [Grinnell](index-grinnell)
 blurb: Yay! More paperwork
-version: 1.1
+version: 1.1.1
 released: 2024-08-15
-current: 2024-08-15
+current: 2024-11-07
 ---
 This past spring, the Grinnell faculty voted to put a temporary hold on triennial post-tenure [1] merit reviews. Instead, we're just doing "developmental reviews". We're getting closer to a point where every faculty member receives the same percentage raise, a system I've long advocated for. We're not quite there: Most faculty will get a 3.75 merit score, newly promoted faculty will get a 5.0 merit score, and folks who were reviewed within the past three years will get the higher of 3.75 and their merit score. At least, I think that's how it goes.
 

@@ -1,11 +1,11 @@
 ---
 title: My latest developmental review statements
 number: 1317
-tags: [Grinnell](index-grinnell)
+tags: [Triennial reviews](index-salary-reviews), long
 blurb: Yay! More paperwork
-version: 1.0
+version: 1.0.1
 released: 2024-11-07
-current:
+current: 2024-11-07
 ---
 _In which we take a break from reflections on Michelle and my state of sadness, as well as from shock at the election, to return to a traditional form of musing._
 
