@@ -3,15 +3,15 @@ title: Giving Thanks
 number: 1318
 tags: [Autobiographical](index-autobiographical)
 blurb: Every day.
-version: 1.0
+version: 1.1
 released: 2024-11-28
-current: 
+current: 2024-11-28
 ---
 I'm thankful.
 
 I give thanks for so much.
 
-I'm most thankful for my three sons, all of whom are wonderful young men. I give thanks for the love I receive from them and the pride I feel in who they are and what they do.
+I'm most thankful for my three sons, all of whom are wonderful young men. I give thanks for the love I receive from them and the pride I feel in who they are and what they do. And I'm thankful that everyone made it home for the holiday. It's a blessing to be able to spend time with them.
 
 I'm thankful for my thirty-seven years of marriage to my wonderful wife, Michelle. I wish we'd had more, but thirty-seven years is still a lot of time. I thank her for the wonderful love she gave me. And I thank her for allowing me to love her in return.
 
