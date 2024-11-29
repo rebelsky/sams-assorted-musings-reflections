@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 1311-1320
 
+[Giving Thanks](thanksgiving-2024) (Musing #1318)  
 [My latest developmental review statements](developmental-reviews-2024-11-07) (Musing #1317)  
 [I dreamed I saw Michelle last night](dreamed-2024-11-03) (Musing #1316)  
 [Halloween](halloween-2024-10-31) (Musing #1315)  

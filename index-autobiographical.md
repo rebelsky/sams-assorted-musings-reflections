@@ -705,3 +705,7 @@ Autobiographical essays, more or less
 
 > It's complicated.
 
+[Giving Thanks](thanksgiving-2024) (Musing #1318)
+
+> Every day.
+
