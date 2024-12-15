@@ -1708,3 +1708,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [I dreamed I saw Michelle last night](dreamed-2024-11-03) (Musing #1316)  
 [My latest developmental review statements](developmental-reviews-2024-11-07) (Musing #1317)  
 [Giving Thanks](thanksgiving-2024) (Musing #1318)  
+[Socks](socks-2024-12-14) (Musing #1319)  

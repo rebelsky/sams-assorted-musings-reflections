@@ -59,3 +59,7 @@ _A place to gather musings related to my wife, Michelle S. Rebelsky._
 
 > A great dream.
 
+[Socks](socks-2024-12-14) (Musing #1319)
+
+> Another sad musing.
+
