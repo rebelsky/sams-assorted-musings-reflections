@@ -1709,3 +1709,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [My latest developmental review statements](developmental-reviews-2024-11-07) (Musing #1317)  
 [Giving Thanks](thanksgiving-2024) (Musing #1318)  
 [Socks](socks-2024-12-14) (Musing #1319)  
+[The 2024 Grinnell holiday dinner](grinnell-holiday-dinner-2024) (Musing #1320)  

@@ -4535,6 +4535,10 @@ Autobiographical essays, more or less
 
 > Every day.
 
+[The 2024 Grinnell holiday dinner](grinnell-holiday-dinner-2024) (Musing #1320)
+
+> Not as sad as I expected.
+
 Michelle
 --------
 
