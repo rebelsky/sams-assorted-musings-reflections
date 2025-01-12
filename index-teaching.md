@@ -248,3 +248,7 @@ online, but they will soon expand to more general issues about teaching._
 
 > Failing to think as I should.
 
+[Late work](late-work-2025-01-12) (Musing #1321)
+
+> What should we do? 
+

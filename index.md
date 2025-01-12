@@ -10,9 +10,10 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musings:
-[The 2024 Grinnell holiday dinner](grinnell-holiday-dinner-2024) (Musing #1320),
-[Socks](socks-2024-12-14) (Musing #1319), and
-[Giving Thanks](thanksgiving-2024) (Musing #1318). 
+[Late work](late-work-2025-01-12) (Musing #1321),
+[The 2024 Grinnell holiday dinner](grinnell-holiday-dinner-2024) (Musing #1320),and
+
+[Socks](socks-2024-12-14) (Musing #1319). 
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

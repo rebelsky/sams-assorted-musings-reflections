@@ -1,6 +1,10 @@
 Musings, from newest to oldest
 ==============================
 
+## 1321-1330
+
+[Late work](late-work-2025-01-12) (Musing #1321)  
+
 ## 1311-1320
 
 [The 2024 Grinnell holiday dinner](grinnell-holiday-dinner-2024) (Musing #1320)  

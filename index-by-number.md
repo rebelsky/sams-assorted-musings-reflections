@@ -1710,3 +1710,7 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Giving Thanks](thanksgiving-2024) (Musing #1318)  
 [Socks](socks-2024-12-14) (Musing #1319)  
 [The 2024 Grinnell holiday dinner](grinnell-holiday-dinner-2024) (Musing #1320)  
+
+## 1321-1330
+
+[Late work](late-work-2025-01-12) (Musing #1321)  
