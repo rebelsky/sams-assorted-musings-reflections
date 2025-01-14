@@ -713,3 +713,7 @@ Autobiographical essays, more or less
 
 > Not as sad as I expected.
 
+[Tuesday](tuesday-2025-01-14) (Musing #1323)
+
+> Another answer.
+
