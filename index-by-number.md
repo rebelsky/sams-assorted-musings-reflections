@@ -1714,3 +1714,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 ## 1321-1330
 
 [Late work](late-work-2025-01-12) (Musing #1321)  
+[Resuming musing](resuming-musing-2025-01-13) (Musing #1322)  

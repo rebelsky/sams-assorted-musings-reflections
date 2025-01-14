@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 1321-1330
 
+[Resuming musing](resuming-musing-2025-01-13) (Musing #1322)  
 [Late work](late-work-2025-01-12) (Musing #1321)  
 
 ## 1311-1320

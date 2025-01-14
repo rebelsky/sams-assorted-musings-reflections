@@ -477,6 +477,10 @@ be found in [the list of musings on writing](index-on-writing)._
 
 > So many hours of my life!
 
+[Resuming musing](resuming-musing-2025-01-13) (Musing #1322)
+
+> Gni muser?
+
 Monthly reflections
 -------------------
 
