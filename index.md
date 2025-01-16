@@ -10,9 +10,9 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musings:
-[Tuesday](tuesday-2025-01-14) (Musing #1323), 
-[Resuming musing](resuming-musing-2025-01-13) (Musing #1322), and
-[Late work](late-work-2025-01-12) (Musing #1321). 
+[How are you, Sam?](how-are-you-2025-01-15) (Musing #1324),
+[Tuesday](tuesday-2025-01-14) (Musing #1323), and
+[Resuming musing](resuming-musing-2025-01-13) (Musing #1322). 
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

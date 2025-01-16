@@ -717,3 +717,7 @@ Autobiographical essays, more or less
 
 > Another answer.
 
+[How are you, Sam?](how-are-you-2025-01-15) (Musing #1324)
+
+> "Shrugs"
+
