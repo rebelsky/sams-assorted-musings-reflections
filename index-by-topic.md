@@ -1598,6 +1598,10 @@ Rants
 
 > Not helpful!
 
+[MAP compensation](map-compensation-2025-01-17) (Musing #1325)
+
+> Does anyone do the math?
+
 Assorted talks and speeches
 ---------------------------
 
@@ -3526,6 +3530,10 @@ Grinnell.
 [Developmental reviews](developmental-reviews-2024-08-15) (Musing #1301)
 
 > Yay! More paperwork
+
+[MAP compensation](map-compensation-2025-01-17) (Musing #1325)
+
+> Does anyone do the math?
 
 Registration and Related Topics
 -------------------------------

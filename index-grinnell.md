@@ -483,3 +483,7 @@ Grinnell.
 
 > Yay! More paperwork
 
+[MAP compensation](map-compensation-2025-01-17) (Musing #1325)
+
+> Does anyone do the math?
+
