@@ -10,9 +10,9 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musings:
-[MAP compensation](map-compensation-2025-01-17) (Musing #1325),
-[How are you, Sam?](how-are-you-2025-01-15) (Musing #1324), and
-[Tuesday](tuesday-2025-01-14) (Musing #1323).
+[Muddling formative and summative assessment](formative-summative-2025-01-18) (Musing #1326),
+[MAP compensation](map-compensation-2025-01-17) (Musing #1325), and
+[How are you, Sam?](how-are-you-2025-01-15) (Musing #1324).
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

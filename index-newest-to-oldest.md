@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 1321-1330
 
+[Muddling formative and summative assessment](formative-summative-2025-01-18) (Musing #1326)  
 [MAP compensation](map-compensation-2025-01-17) (Musing #1325)  
 [How are you, Sam?](how-are-you-2025-01-15) (Musing #1324)  
 [Tuesday](tuesday-2025-01-14) (Musing #1323)  

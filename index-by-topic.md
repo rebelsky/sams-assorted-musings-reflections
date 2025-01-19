@@ -2373,6 +2373,10 @@ online, but they will soon expand to more general issues about teaching._
 
 > What should we do? 
 
+[Muddling formative and summative assessment](formative-summative-2025-01-18) (Musing #1326)
+
+> They're harder to separate than you'd expect.
+
 Code camps
 ----------
 
