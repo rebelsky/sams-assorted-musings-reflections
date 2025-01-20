@@ -1719,3 +1719,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [How are you, Sam?](how-are-you-2025-01-15) (Musing #1324)  
 [MAP compensation](map-compensation-2025-01-17) (Musing #1325)  
 [Muddling formative and summative assessment](formative-summative-2025-01-18) (Musing #1326)  
+[Mandatory reporters and other important but complex titles](mandatory-reporters-2025-01-19) (Musing #1327)  

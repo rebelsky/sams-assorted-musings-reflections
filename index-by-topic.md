@@ -1780,6 +1780,10 @@ On life in academia
 
 > Agh!
 
+[Mandatory reporters and other important but complex titles](mandatory-reporters-2025-01-19) (Musing #1327)
+
+> Can't we keep terms clear?
+
 Thank-You Notes
 ---------------
 
