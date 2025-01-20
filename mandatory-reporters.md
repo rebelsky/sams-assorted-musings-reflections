@@ -1,11 +1,11 @@
 ---
-title: Mandatory reporters and other complex titles
+title: Mandatory reporters and other important but complex titles
 number: 
 tags: [Miscellaneous](index-misc)
-blurb: Can't we keep things clear?
-version: 0.1
-released: 
-current: 2025-01-13
+blurb: Can't we keep terms clear?
+version: 1.0
+released: 2025-01-19 
+current:
 ---
 The other day, I received an email from a colleague at another institution that included a signatory note that indicated that they are now a "Title IX Mandatory Reporter". I cringed a bit at that signature because Michelle always used to remind us that "Mandatory Reporter" has historically been a term reserved for those mandated by law to report child abuse [1] (e.g., physicians, social workers, police officers). Attaching the term to "Title IX" confuses the matter.
 
@@ -19,23 +19,27 @@ I'm not surprised that they are required to report. At Grinnell, all faculty (an
 
 In any case, I don't see the word "mandatory" there. "Required", yes. "Mandatory" or "Mandated", no. Why can't they call themselves a "Required Reporter"? Certainly, the difference in policies between institutions suggests that this is an institutional requirement, rather than a legal mandate.
 
-I thought about sending my colleague a note to that effect. Maybe I still will. Or perhaps I'll send them a link to this musing. Perhaps they already read my musings. You never know.
+I thought about sending my colleague a note to that effect. Maybe I still will. Or perhaps I'll send them a link to this musing. Mayhaps they already read my musings. You never know.
 
 I also did a bit more research (at least if you consider a Web search research). And it turns out that people mandated to report child abuse are often referred to as "Mandated Reporters". See, for example, the [Wikipedia page on Mandated Reporters](https://en.wikipedia.org/wiki/Mandated_reporter). However, at least in Iowa, the state government also uses the term "Mandatory Reporter" . See, for example, this [statement from the Iowa Department of Health and Human Services](https://hhs.iowa.gov/report-abuse-fraud/mandatory-reporters).
 
-It's essential that mandated reporters report child (and dependent adult) abuse. It's also important that Title IX required reporters report gender/sex-based violence, harassment, or discrimination. But they are very different kinds of reporting. Is it that hard to reserve the "mandatory" term for those whose mandate is reporting child (and dependent adult) abuse?
+It's essential that mandated reporters report child (and dependent adult) abuse. It's also important that Title IX required reporters report gender/sex-based violence, harassment, or discrimination. But they are very different kinds of reporting. Is it that hard to reserve the "mandatory" term for those whose mandate is reporting child (and dependent adult) abuse? Your responsibilities to people should be clear; there are many people who hear "mandatory reporter" and expect that you're responsible for reporting child abuse. Don't confuse them.
 
 If you see someone say that they are a "Title IX Mandatory Reporter", I hope you'll drop them a friendly note suggesting that they call themselves a "Title IX Required Reporter". Perhaps you can even point them to this musing.
 
 ---
 
-In case you didn't ??? it from the text above, I am a Title IX required reporter for incidents at Grinnell. If I am told or hear of an instance of sex- or gender-based violence, harassment, or discrimination, I must report it to our Title IX office.
+In case you didn't notice it in the text above, I am a Title IX required reporter for incidents at Grinnell. If I am told or hear of an instance of sex- or gender-based violence, harassment, or discrimination, I must report it to our Title IX office.
 
 For details, see [Grinnell College Policy, Procedures and Guide to Preventing, Reporting, and Responding To Sexual Misconduct and Other Forms of Interpersonal Violence](https://www.grinnell.edu/sites/default/files/docs/2024-01/Grinnell%20College%20Guide%20for%20Prohibited%20Behavior%2001.2024%20FINAL.pdf) [2]. In particular,
 
 > To meet these goals, with the exception of designated confidential resources, staff and faculty members and designated student leaders are required to share disclosures of Prohibited Behavior with the Title IX Coordinator.
 
-That reminds me: I should probably add a note about that to my syllabus.
+What's "Prohibited Behavior"? Let's see ...
+
+> Prohibited Behavior includes but is not limited to sexual and gender-based harassment, sexual assault, intimate partner violence, sexual exploitation, and stalking
+
+That reminds me: I should probably add a note about my responsibilities to my syllabus [4].  I wonder if [our current syllabus design guidelines](https://www.grinnell.edu/sites/default/files/docs/2024-08/Grinnell%20Syllabus%20Design%20Guidelines_V6_8-20-2024.pdf) [5] say anything about Title IX required reporting. Nope [6].
 
 ---
 
@@ -44,3 +48,16 @@ That reminds me: I should probably add a note about that to my syllabus.
 [2] I'm not sure why the short title of that document is "Grinnell College Guide for Prohibited Behavior". I suppose that's better than "Grinnell College Guide to Prohibited Behavior".
 
 [3] I'm also not sure why we use the Oxford comma in one part of that title, but not another.
+
+[4] Done.
+
+[5] These are "Version 6", last updated 08/20/24. I'm glad we're numbering them. I'd prefer that we use a more universal dating system. And didn't these folks live through Y2K? Years need four digits.
+
+[6] However, I am required to include some Title IX pregnancy information.
+
+> Grinnell College is committed to compliance with Title IX and to supporting the academic success of pregnant and parenting students and students with pregnancy related conditions. If you are a pregnant student, have pregnancy related conditions, or are a parenting student (child under one-year needs documented medical care) who wishes to request reasonable related supportive measures from the College under Title IX, please email the Title IX Coordinator at titleix@grinnell.edu. The Title IX Coordinator will work with Disability Resources and your professors to provide reasonable supportive measures in support of your education while pregnant or as a parent under Title IX.
+
+I also add the following paragraph.
+
+> If you are a pregnant student, have pregnancy-related conditions, or are a parenting student (of any age child) and would prefer to work with me directly, rather than through our Title IX office, I will do my best to support you through appropriate measures. Please reach out!
+
