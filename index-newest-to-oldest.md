@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 1321-1330
 
+[Day one of classes, Spring 2025](day-one-2025sp) (Musing #1328)  
 [Mandatory reporters and other important but complex titles](mandatory-reporters-2025-01-19) (Musing #1327)  
 [Muddling formative and summative assessment](formative-summative-2025-01-18) (Musing #1326)  
 [MAP compensation](map-compensation-2025-01-17) (Musing #1325)  

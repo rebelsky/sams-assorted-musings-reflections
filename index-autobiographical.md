@@ -721,3 +721,7 @@ Autobiographical essays, more or less
 
 > "Shrugs"
 
+[Day one of classes, Spring 2025](day-one-2025sp) (Musing #1328)
+
+> I always forget something
+
