@@ -49,7 +49,7 @@ Isn't AI wonderful?
 
 ---
 
-[1] That link goes to the post-class eboard. Not all of the text you see on that eboard was there when I finished my preparation. For example, I add the [Friday Public Service Announcement](friday-psa) during class. I suppose you could compare what ended up in [section 1](https://rebelsky.cs.grinnell.edu/Courses/CSC151/2025Sp/eboards/eboard02-1), [section 2](https://rebelsky.cs.grinnell.edu/Courses/CSC151/2025Sp/eboards/eboard02-2, and [section 3](https://rebelsky.cs.grinnell.edu/Courses/CSC151/2025Sp/eboards/eboard02-3).
+[1] That link goes to the post-class eboard. Not all of the text you see on that eboard was there when I finished my preparation. For example, I add the [Friday Public Service Announcement](friday-psa) during class. I suppose you could compare what ended up in [section 1](https://rebelsky.cs.grinnell.edu/Courses/CSC151/2025Sp/eboards/eboard02-1), [section 2](https://rebelsky.cs.grinnell.edu/Courses/CSC151/2025Sp/eboards/eboard02-2), and [section 3](https://rebelsky.cs.grinnell.edu/Courses/CSC151/2025Sp/eboards/eboard02-3).
 
 [2] In reality, the administrivia took about fifteen minutes and the Q&A section took about ten minutes.
 
