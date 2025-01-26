@@ -2381,6 +2381,10 @@ online, but they will soon expand to more general issues about teaching._
 
 > They're harder to separate than you'd expect.
 
+[Preparing for the second day of class](preparing-day-two-2025Sp) (Musing #1329)
+
+> Getting back in the habit.
+
 Code camps
 ----------
 
