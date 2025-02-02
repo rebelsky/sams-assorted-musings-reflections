@@ -4579,6 +4579,10 @@ Autobiographical essays, more or less
 
 > I always forget something
 
+[Small triggers, big sobs](small-triggers-big-tears-2025-02-01) (Musing #1330)
+
+> Breaking out of the numbness. Unintentionally.
+
 Michelle
 --------
 

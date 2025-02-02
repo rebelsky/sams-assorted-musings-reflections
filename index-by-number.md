@@ -1722,3 +1722,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Mandatory reporters and other important but complex titles](mandatory-reporters-2025-01-19) (Musing #1327)  
 [Day one of classes, Spring 2025](day-one-2025sp) (Musing #1328)  
 [Preparing for the second day of class](preparing-day-two-2025Sp) (Musing #1329)  
+[Small triggers, big sobs](small-triggers-big-tears-2025-02-01) (Musing #1330)  

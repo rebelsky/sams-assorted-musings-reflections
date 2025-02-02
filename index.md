@@ -10,9 +10,9 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musings:
-[Preparing for the second day of class](preparing-day-two-2025Sp) (Musing #1329),
-[Day one of classes, Spring 2025](day-one-2025sp) (Musing #1328), and
-[Mandatory reporters and other important but complex titles](mandatory-reporters-2025-01-19) (Musing #1327).
+[Small triggers, big sobs](small-triggers-big-tears-2025-02-01) (Musing #1330),
+[Preparing for the second day of class](preparing-day-two-2025Sp) (Musing #1329), and
+[Day one of classes, Spring 2025](day-one-2025sp) (Musing #1328).
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
