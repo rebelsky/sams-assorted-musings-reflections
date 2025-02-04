@@ -7,8 +7,7 @@ version: 1.0
 released: 2025-02-03
 current: 
 ---
-Late last week, we had our department's annual "How to declare a CS major" session. As I described in [an earlier musing](cs-major-declaration-2024-03-15)
-Grinnell's CS department handles advising differently than many other departments. To help ensure equity of access to advisers, we ask all second-year CS majors to provide us with a ranked list of potential advisers early in the fourth semester and then run some software to provide a semi-optimal matching. To help students choose advisors, we each give a short statement about our approaches to advising in an open curriculum. (Read that prior musing for more details.)
+Late last week, we had our department's annual "How to declare a CS major" session. As I described in [an earlier musing](cs-major-declaration-2024-03-15), Grinnell's CS department handles advising differently than many other departments. To help ensure equity of access to advisers, we ask all second-year CS majors to provide us with a ranked list of potential advisers early in the fourth semester and then run some software to provide a semi-optimal matching. To help students choose advisors, we each give a short statement about our approaches to advising in an open curriculum. (Read that prior musing for more details.)
 
 The changes in Grinnell's spring schedule [1] means that some things have moved up a bit. Last year, we held the session in mid-February. I can't recall why, but I wasn't able to attend. Hence I wrote [s musing with a similar title](advising-statement-2024-02-24) in which I prepared the statement to send to majors.  This year, we held it at the end of January. And this year, I was able to attend.
 
