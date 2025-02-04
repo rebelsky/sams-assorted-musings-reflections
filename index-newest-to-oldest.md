@@ -1,6 +1,10 @@
 Musings, from newest to oldest
 ==============================
 
+## 1331-1340
+
+[My latest advising statement](advising-statement-2025-02-03) (Musing #1331)  
+
 ## 1321-1330
 
 [Small triggers, big sobs](small-triggers-big-tears-2025-02-01) (Musing #1330)  

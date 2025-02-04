@@ -3547,6 +3547,10 @@ Grinnell.
 
 > Does anyone do the math?
 
+[My latest advising statement](advising-statement-2025-02-03) (Musing #1331)
+
+> It's complicated.
+
 Registration and Related Topics
 -------------------------------
 
