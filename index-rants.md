@@ -662,3 +662,7 @@ Rants
 
 > Does anyone do the math?
 
+[QR codes](qrcodes-2025-02-04) (Musing #1332)
+
+> Why?
+
