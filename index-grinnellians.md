@@ -176,3 +176,7 @@ Grinnellians you should know (or know about)
 
 > Too many!
 
+[My brave colleague (and friend)](brave-friend-2025-02-05) (Musing #1333)
+
+> Too much to write. Not enough.
+

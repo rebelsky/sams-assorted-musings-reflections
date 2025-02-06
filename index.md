@@ -10,9 +10,9 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musings:
-[QR codes](qrcodes-2025-02-04) (Musing #1332),
-[My latest advising statement](advising-statement-2025-02-03) (Musing #1331), and
-[Small triggers, big sobs](small-triggers-big-tears-2025-02-01) (Musing #1330).
+[My brave colleague (and friend)](brave-friend-2025-02-05) (Musing #1333),
+[QR codes](qrcodes-2025-02-04) (Musing #1332), and
+[My latest advising statement](advising-statement-2025-02-03) (Musing #1331).
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

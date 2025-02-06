@@ -1728,3 +1728,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 
 [My latest advising statement](advising-statement-2025-02-03) (Musing #1331)  
 [QR codes](qrcodes-2025-02-04) (Musing #1332)  
+[My brave colleague (and friend)](brave-friend-2025-02-05) (Musing #1333)  
