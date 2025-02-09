@@ -1730,3 +1730,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [QR codes](qrcodes-2025-02-04) (Musing #1332)  
 [My brave colleague (and friend)](brave-friend-2025-02-05) (Musing #1333)  
 [Four months](four-months-2025-02-08) (Musing #1334)  
+[Making bagels](bagels-2025-02-09) (Musing #1335)  

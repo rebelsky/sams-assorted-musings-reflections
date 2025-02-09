@@ -898,3 +898,7 @@ Almost everything else
 
 > One of the many things that occupies my thoughts.
 
+[Making bagels](bagels-2025-02-09) (Musing #1335)
+
+> A family tradition.
+

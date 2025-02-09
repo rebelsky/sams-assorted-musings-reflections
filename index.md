@@ -10,9 +10,9 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musings:
-[Four months](four-months-2025-02-08) (Musing #1334),
-[My brave colleague (and friend)](brave-friend-2025-02-05) (Musing #1333), and
-[QR codes](qrcodes-2025-02-04) (Musing #1332).
+[Making bagels](bagels-2025-02-09) (Musing #1335),
+[Four months](four-months-2025-02-08) (Musing #1334), and
+[My brave colleague (and friend)](brave-friend-2025-02-05) (Musing #1333).
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
