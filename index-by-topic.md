@@ -4660,6 +4660,10 @@ _A place to gather musings related to my wife, Michelle S. Rebelsky._
 
 > Another sad musing.
 
+[Four months](four-months-2025-02-08) (Musing #1334)
+
+> A moment. An eternity.
+
 Triennial reviews
 -----------------
 
