@@ -1606,6 +1606,10 @@ Rants
 
 > Why?
 
+[Unexpected effects](unexpected-effects-2025-02-19) (Musing #1336)
+
+> They cascade.
+
 Assorted talks and speeches
 ---------------------------
 
@@ -3558,6 +3562,10 @@ Grinnell.
 [My latest advising statement](advising-statement-2025-02-03) (Musing #1331)
 
 > It's complicated.
+
+[Unexpected effects](unexpected-effects-2025-02-19) (Musing #1336)
+
+> They cascade.
 
 Registration and Related Topics
 -------------------------------

@@ -666,3 +666,7 @@ Rants
 
 > Why?
 
+[Unexpected effects](unexpected-effects-2025-02-19) (Musing #1336)
+
+> They cascade.
+
