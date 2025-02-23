@@ -3567,6 +3567,10 @@ Grinnell.
 
 > They cascade.
 
+[The Neverland Players](neverland-players-2025-spring) (Musing #1337)
+
+> I haven't felt this joyful in a long time.
+
 Registration and Related Topics
 -------------------------------
 
@@ -3801,6 +3805,10 @@ things I enjoy.*
 [A joyful afternoon with Dan and Claudia Zanes](zanes-2023-02-28) (Musing #1218)
 
 > So much fun!
+
+[The Neverland Players](neverland-players-2025-spring) (Musing #1337)
+
+> I haven't felt this joyful in a long time.
 
 Mixtapes
 --------

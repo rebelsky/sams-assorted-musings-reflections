@@ -1732,3 +1732,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Four months](four-months-2025-02-08) (Musing #1334)  
 [Making bagels](bagels-2025-02-09) (Musing #1335)  
 [Unexpected effects](unexpected-effects-2025-02-19) (Musing #1336)  
+[The Neverland Players](neverland-players-2025-spring) (Musing #1337)  

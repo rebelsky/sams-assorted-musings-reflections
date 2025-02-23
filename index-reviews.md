@@ -47,3 +47,7 @@ things I enjoy.*
 
 > So much fun!
 
+[The Neverland Players](neverland-players-2025-spring) (Musing #1337)
+
+> I haven't felt this joyful in a long time.
+
