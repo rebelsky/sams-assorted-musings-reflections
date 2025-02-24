@@ -729,3 +729,7 @@ Autobiographical essays, more or less
 
 > Breaking out of the numbness. Unintentionally.
 
+[Everyday tasks](everyday-tasks-2025-02-23) (Musing #1338)
+
+> Why do I find them so hard to do?
+

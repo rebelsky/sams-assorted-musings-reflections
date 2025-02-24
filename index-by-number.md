@@ -1733,3 +1733,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Making bagels](bagels-2025-02-09) (Musing #1335)  
 [Unexpected effects](unexpected-effects-2025-02-19) (Musing #1336)  
 [The Neverland Players](neverland-players-2025-spring) (Musing #1337)  
+[Everyday tasks](everyday-tasks-2025-02-23) (Musing #1338)  

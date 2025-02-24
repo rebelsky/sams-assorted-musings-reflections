@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 1331-1340
 
+[Everyday tasks](everyday-tasks-2025-02-23) (Musing #1338)  
 [The Neverland Players](neverland-players-2025-spring) (Musing #1337)  
 [Unexpected effects](unexpected-effects-2025-02-19) (Musing #1336)  
 [Making bagels](bagels-2025-02-09) (Musing #1335)  

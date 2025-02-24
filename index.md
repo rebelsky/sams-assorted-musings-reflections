@@ -10,9 +10,9 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musings:
-[The Neverland Players](neverland-players-2025-spring) (Musing #1337),
-[Unexpected effects](unexpected-effects-2025-02-19) (Musing #1336), and
-[Making bagels](bagels-2025-02-09) (Musing #1335).
+[Everyday tasks](everyday-tasks-2025-02-23) (Musing #1338),
+[The Neverland Players](neverland-players-2025-spring) (Musing #1337), and
+[Unexpected effects](unexpected-effects-2025-02-19) (Musing #1336). 
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
