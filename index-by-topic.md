@@ -1610,6 +1610,10 @@ Rants
 
 > They cascade.
 
+[Supporting the six pillars of the liberal arts](tdps-2025-02-25) (Musing #1339)
+
+> Let's do it properly.
+
 Assorted talks and speeches
 ---------------------------
 
@@ -3570,6 +3574,10 @@ Grinnell.
 [The Neverland Players](neverland-players-2025-spring) (Musing #1337)
 
 > I haven't felt this joyful in a long time.
+
+[Supporting the six pillars of the liberal arts](tdps-2025-02-25) (Musing #1339)
+
+> Let's do it properly.
 
 Registration and Related Topics
 -------------------------------

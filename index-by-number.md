@@ -1734,3 +1734,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Unexpected effects](unexpected-effects-2025-02-19) (Musing #1336)  
 [The Neverland Players](neverland-players-2025-spring) (Musing #1337)  
 [Everyday tasks](everyday-tasks-2025-02-23) (Musing #1338)  
+[Supporting the six pillars of the liberal arts](tdps-2025-02-25) (Musing #1339)  

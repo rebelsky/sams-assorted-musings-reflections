@@ -670,3 +670,7 @@ Rants
 
 > They cascade.
 
+[Supporting the six pillars of the liberal arts](tdps-2025-02-25) (Musing #1339)
+
+> Let's do it properly.
+
