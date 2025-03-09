@@ -282,3 +282,11 @@ Overcommitment
 
 > Another place my time goes.
 
+[Trying to do too much](overcommitment-2025-03-06) (Musing #1340)
+
+> As always.
+
+[My heck week (Spring 2025)](heck-week-2025-spring) (Musing #1041)
+
+> Or just week seven.
+

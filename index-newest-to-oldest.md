@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 1331-1340
 
+[Trying to do too much](overcommitment-2025-03-06) (Musing #1340)  
 [Supporting the six pillars of the liberal arts](tdps-2025-02-25) (Musing #1339)  
 [Everyday tasks](everyday-tasks-2025-02-23) (Musing #1338)  
 [The Neverland Players](neverland-players-2025-spring) (Musing #1337)  

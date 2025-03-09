@@ -10,9 +10,9 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musings:
-[Supporting the six pillars of the liberal arts](tdps-2025-02-25) (Musing #1339),
-[Everyday tasks](everyday-tasks-2025-02-23) (Musing #1338), and
-[The Neverland Players](neverland-players-2025-spring) (Musing #1337).
+[My heck week (Spring 2025)](heck-week-2025-spring) (Musing #1341),
+[Trying to do too much](overcommitment-2025-03-06) (Musing #1340), and
+[Supporting the six pillars of the liberal arts](tdps-2025-02-25) (Musing #1339).
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
