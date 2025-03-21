@@ -733,3 +733,7 @@ Autobiographical essays, more or less
 
 > Why do I find them so hard to do?
 
+[Marie Kondo vs. Sam Rebelsky](marie-kondo-2025-03-20) (Musing #1342)
+
+> You know who wins.
+

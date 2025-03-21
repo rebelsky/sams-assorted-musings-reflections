@@ -10,9 +10,9 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musings:
-[My heck week (Spring 2025)](heck-week-2025-spring) (Musing #1341),
-[Trying to do too much](overcommitment-2025-03-06) (Musing #1340), and
-[Supporting the six pillars of the liberal arts](tdps-2025-02-25) (Musing #1339).
+[Marie Kondo vs. Sam Rebelsky](marie-kondo-2025-03-20) (Musing #1342),
+[My heck week (Spring 2025)](heck-week-2025-spring) (Musing #1341), and
+[Trying to do too much](overcommitment-2025-03-06) (Musing #1340).
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

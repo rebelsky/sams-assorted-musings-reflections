@@ -1,6 +1,10 @@
 Musings, from newest to oldest
 ==============================
 
+## 1341-1350
+
+[Marie Kondo vs. Sam Rebelsky](marie-kondo-2025-03-20) (Musing #1342)  
+
 ## 1331-1340
 
 [Trying to do too much](overcommitment-2025-03-06) (Musing #1340)  
