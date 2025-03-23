@@ -3,7 +3,7 @@ title: An unsuccessful (or perhaps successful) spring break
 number: 1342 
 tags: [Overcommitment](index-overcommitment)
 blurb: Planning too much.
-version: 1.0
+version: 0.2
 released: 2025-03-23
 current: 2025-03-22
 ---
@@ -71,7 +71,7 @@ At first glance, it was an unsuccessful break. I didn't build the bookshelves. I
 
 You know what? I don't care. I'm going to call it a successful break. Because it ended up being a genuine break, or at least for parts of it did. I rested. I read. I watched TV. I spent time with friends. I cooked. I slept.
 
-Perhaps I should start overplanning my breaks [5].
+Perhaps I should stop overplanning my breaks [5,6].
 
 ---
 
@@ -88,3 +88,5 @@ Perhaps I should start overplanning my breaks [5].
 [4] For context: I use a mastery grading approach for CSC-151. Hence, of those eleven problems, five are on topics that students have already had a take-home exam on (one is even a near duplicate from that first take-home exam) and three are on topics students have already been quizzed on. Hence, for some students, the take-home exam will have only three short problems.
 
 [5] I can't tell if Michelle's spirit is laughing at that comment or saying "I've been telling you that for more than thirty-five years."
+
+[6] Historically, my post-spring-break musings have been titled something like "Spring broken". I'm glad not to feel that way this year.
