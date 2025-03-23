@@ -3,11 +3,11 @@ title: GrinnBooks
 number: 1343
 tags: [Grinnell](index-grinnell)
 blurb: I wonder how it will go.
-version: 1.0
+version: 1.0.1
 released: 2025-03-22 
-current:
+current: 2025-03-22
 ---
-Recently, Grinnell announced a new textbook program called [GrinnBooks](https://www.grinnell.edu/grinnbooks). Why can't you find GrinnBooks through the search bar on [www.grinnell.edu](https;//www.grinnell.edu)? I also don't know that. Perhaps you will soon. Fortunately, I can find it through [DuckDuckGo](https://duckduckgo.com/?t=h_&q=grinnbooks&ia=web). Also: Why not GrinBooks? I don't know. But I find the extra "n" awkward. After all, we're "GrinCo", not "GrinnCo".
+Recently, Grinnell announced a new textbook program called [GrinnBooks](https://www.grinnell.edu/grinnbooks). Why can't you find GrinnBooks through the search bar on [www.grinnell.edu](https://www.grinnell.edu)? I also don't know that. Perhaps you will soon. Fortunately, I can find it through [DuckDuckGo](https://duckduckgo.com/?t=h_&q=grinnbooks&ia=web). Also: Why not GrinBooks? I don't know. But I find the extra "n" awkward. After all, we're "GrinCo", not "GrinnCo".
 
 Whoops. I'm distractable today. Let's return to the story. GrinnBooks has an interesting model for handling textbook pricing. Rather than having students pay for their textbooks individually, Grinnell will now include a hidden textbook cost in tuition and, therefore, tuition will include all student textbooks. Students can also opt out of GrinnBooks on a per-semester basis, and when they opt out, they get $200 back.
 
