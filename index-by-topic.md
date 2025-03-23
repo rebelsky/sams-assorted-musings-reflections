@@ -3587,6 +3587,10 @@ Grinnell.
 
 > Let's do it properly.
 
+[GrinnBooks](grinnbooks-2025-03-22) (Musing #1343)
+
+> I wonder how it will go.
+
 Registration and Related Topics
 -------------------------------
 

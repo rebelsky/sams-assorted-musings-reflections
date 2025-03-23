@@ -10,9 +10,9 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musings:
-[Marie Kondo vs. Sam Rebelsky](marie-kondo-2025-03-20) (Musing #1342),
-[My heck week (Spring 2025)](heck-week-2025-spring) (Musing #1341), and
-[Trying to do too much](overcommitment-2025-03-06) (Musing #1340).
+[GrinnBooks](grinnbooks-2025-03-22) (Musing #1343),
+[Marie Kondo vs. Sam Rebelsky](marie-kondo-2025-03-20) (Musing #1342), and
+[My heck week (Spring 2025)](heck-week-2025-spring) (Musing #1341). 
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

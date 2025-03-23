@@ -1737,3 +1737,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Supporting the six pillars of the liberal arts](tdps-2025-02-25) (Musing #1339)  
 [Trying to do too much](overcommitment-2025-03-06) (Musing #1340)  
 [Marie Kondo vs. Sam Rebelsky](marie-kondo-2025-03-20) (Musing #1342)  
+[GrinnBooks](grinnbooks-2025-03-22) (Musing #1343)  
