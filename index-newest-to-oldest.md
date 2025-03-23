@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 1341-1350
 
+[An unsuccessful (or perhaps successful) spring break](spring-break-2025) (Musing #1344)  
 [GrinnBooks](grinnbooks-2025-03-22) (Musing #1343)  
 [Marie Kondo vs. Sam Rebelsky](marie-kondo-2025-03-20) (Musing #1342)  
 

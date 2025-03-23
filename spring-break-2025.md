@@ -1,13 +1,13 @@
 ---
 title: An unsuccessful (or perhaps successful) spring break
-number: 1342 
-tags: [Overcommitment](index-overcommitment)
+number: 1344
+tags: [Overcommitment](index-overcommitment), unedited
 blurb: Planning too much.
-version: 0.2
+version: 1.0
 released: 2025-03-23
-current: 2025-03-22
+current:
 ---
-Spring break at Grinnell is now over, or effectively over. It's Sunday, 23 March 2025. Classes resume Monday. I think it's fair to say that it's over.
+Spring break at Grinnell is now over, or effectively over. It's about 7pm on Sunday, 23 March 2025. Classes resume Monday. I think it's fair to say that it's over.
 
 Right before Spring Break, I started to muse about my plans. Here's how that musing started.
 
@@ -25,15 +25,19 @@ I planned to clean off the dining room table, which is filled with all sorts of 
 
 I planned to play games each day with Eldest. Or at least a few days. We never got to games.
 
-I planned to catch up on grading by Friday the 14th [1]. I didn't even touch my grading. I updated that plan to catch up by Friday the 21st. Also didn't touch my grading.
+I planned to catch up on grading by Friday the 14th [1]. I didn't even touch my grading. I updated that plan to catch up by Friday the 21st. Also didn't touch my grading by then. As you might guess, I didn't quite finish grading. Or perhaps it's more accurate to say "I didn't even come close to finishing grading." I thought I might catch up on Sunday. I was wrong. I'm not that worried; the main grading gets done promptly: Exams, quizzes, and weekly assignments. The outstanding grading mostly represents "check off" work that either the graders or I do: Reading responses (I typically review a dozen or two before class), lab writeups (I've been looking over their shoulders), and such.
 
 I planned to check over the the next assignment I'm going to give in CSC-151. I didn't. Fortunately, I'm not assigning that until the 28th.
+
+I planned to check over Monday's lab for CSC-151. As of 7pm on Sunday, I hadn't. Don't worry, I'll get it done before I head to bed. (I also plan to head to bed at a reasonable hour.)
 
 I planned to go to Iowa City and have coffee with a friend. I didn't.
 
 I planned to clean out my inbox. It's still at over 112,000 messages.
 
 I planned to make my work office a bit straighter. I didn't even visit Noyce during the two weeks of spring break.
+
+I didn't write a planned "mid-semester survey" for my CSC-151 students. Oh well, that falls into the "good ideas I didn't get done this semester", along with showing off their projects to each other.
 
 I'm pretty sure that I'd planned other things, too. However, as I said, I didn't finish that initial musing, so I never ended up with a list. I never expected to write a complete list; but I'd hoped to write down more. I guess that's okay. After all, it's not like I would have completed any of the other tasks on the list.
 
@@ -51,7 +55,7 @@ That friend and I also went out to lunch. It was great to catch up. I also had d
 
 I had a grant review panel. I won't say for whom. I read nine grant proposals, wrote reviews, and then spent two days discussing the proposals.  Grant reviewing is serverely undercompensated. It used to be that we'd get a free trip to Washington, DC (or at least Virginia), hotel, meals, and $200 per day. Now we just get the $200. And only on the days we meet. Nothing for the time spent reading the proposals. If I think back far enough, I recall a time in which we didn't even get the proposals until we arrived at the meeting. At least I think we didn't. More days. More pay. And a trip. Now? Bubkes. Or nearly bubkes. I estimate that I sent between 30 and 40 hours on the work. You can figure out the hourly rate. Nonetheless, it's important service to the community. I just wish I had the old opportunities to meet and network with other reviewers. And to spend some time at museums. Oh well. Perhaps in the future. Perhaps not.
 
-I reviewed two papers for a conference.
+I reviewed two papers for a conference. Oh, crap. I didn't. I reviewed one of them. I still have the other to review and it's 7pm on Sunday. At least I've read it already. Yay! Another impediment to a reasonable bedtime.
 
 I wrote some recommendation letters. I've had more letters to write this year than most. One likely factor is that I taught CSC-207, the third course in the CS major, for the past two semesters. Students often use CSC-207 to prove that they understand CS [3].
 
@@ -63,16 +67,17 @@ I brought a bunch of recycling to the recycling center.
 
 And, other than my everyday tasks, such as making meals and doing laundry, that's about it. Or at least that's all I recall. Oh! I also attended one or two online meetings.
 
-That's where we stood on Saturday night.
-
-On Sunday, I did a lot of grading. I wrote eleven problems for a take-home exam [4]. I prepared Monday's lab.
+On Sunday, I did a lot of grading. Not all of it. Not even close. But a lot. More importantly, I wrote eleven problems for a take-home exam [4]. I wrote this musing. Okay, that's not really true. I wrote most of this musing on Saturday. I finished this musing on Sunday.
 
 At first glance, it was an unsuccessful break. I didn't build the bookshelves. I didn't complete important paperwork. I didn't muse each day. I didn't complete lots of smaller tasks. I even managed to forget some of the smaller tasks (and even some larger ones).
 
-You know what? I don't care. I'm going to call it a successful break. Because it ended up being a genuine break, or at least for parts of it did. I rested. I read. I watched TV. I spent time with friends. I cooked. I slept.
+You know what? I don't care. I'm going to call it **a successful break**. Why? Because it ended up being a genuine break, or at least for parts of it did. I rested. I read. I watched TV. I spent time with friends. I cooked. I slept.
 
 Perhaps I should stop overplanning my breaks [5,6].
 
+---
+
+**_Postscript_**: I said I'd end on a positive note. I think I did.
 ---
 
 **_Postscript_**: It's almost April. I'll need to spend next weekend on paperwork and more.

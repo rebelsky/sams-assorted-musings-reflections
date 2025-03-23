@@ -2143,6 +2143,10 @@ Overcommitment
 
 > Or just week seven.
 
+[An unsuccessful (or perhaps successful) spring break](spring-break-2025) (Musing #1344)
+
+> Planning too much.
+
 On teaching 
 -----------
 
