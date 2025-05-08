@@ -67,3 +67,7 @@ _A place to gather musings related to my wife, Michelle S. Rebelsky._
 
 > A moment. An eternity.
 
+[Six months (plus another month)](seven-months-michelle) (Musing #1346)
+
+> What can I say?
+

@@ -10,9 +10,9 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musings:
-[The last Tuesday of classes of spring semester 2025](last-tuesday-2025sp) (Musing #1345), 
-[An unsuccessful (or perhaps successful) spring break](spring-break-2025) (Musing #1344), and
-[GrinnBooks](grinnbooks-2025-03-22) (Musing #1343).
+[Six months (plus another month)](seven-months-michelle) (Musing #1346),
+[The last Tuesday of classes of spring semester 2025](last-tuesday-2025sp) (Musing #1345),  and
+[An unsuccessful (or perhaps successful) spring break](spring-break-2025) (Musing #1344).
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

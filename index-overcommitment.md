@@ -294,3 +294,7 @@ Overcommitment
 
 > Planning too much.
 
+[The last Tuesday of classes of spring semester 2025](last-tuesday-2025sp) (Musing #1345)
+
+> Another busy day.
+

@@ -2147,6 +2147,10 @@ Overcommitment
 
 > Planning too much.
 
+[The last Tuesday of classes of spring semester 2025](last-tuesday-2025sp) (Musing #1345)
+
+> Another busy day.
+
 On teaching 
 -----------
 
@@ -4711,6 +4715,10 @@ _A place to gather musings related to my wife, Michelle S. Rebelsky._
 [Four months](four-months-2025-02-08) (Musing #1334)
 
 > A moment. An eternity.
+
+[Six months (plus another month)](seven-months-michelle) (Musing #1346)
+
+> What can I say?
 
 Triennial reviews
 -----------------
