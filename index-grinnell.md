@@ -507,3 +507,7 @@ Grinnell.
 
 > I wonder how it will go.
 
+[Graduation 2025](graduation-2025) (Musing #1347)
+
+> Happy and sad.
+

@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 1341-1350
 
+[Graduation 2025](graduation-2025) (Musing #1347)  
 [Six months (plus another month)](seven-months-michelle) (Musing #1346)  
 [The last Tuesday of classes of spring semester 2025](last-tuesday-2025sp) (Musing #1345)  
 [An unsuccessful (or perhaps successful) spring break](spring-break-2025) (Musing #1344)  
