@@ -1742,3 +1742,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [The last Tuesday of classes of spring semester 2025](last-tuesday-2025sp) (Musing #1345)  
 [Six months (plus another month)](seven-months-michelle) (Musing #1346)  
 [Graduation 2025](graduation-2025) (Musing #1347)  
+[Attempting to restore my MacBook](macbook-restore-2025-05-21) (Musing #1348)  
