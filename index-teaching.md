@@ -260,3 +260,7 @@ online, but they will soon expand to more general issues about teaching._
 
 > Getting back in the habit.
 
+[A workshop on advising a career-anxious student body](advising-career-anxious-2025-06-04) (Musing #1349)
+
+> I don't need no damn worksheets.
+

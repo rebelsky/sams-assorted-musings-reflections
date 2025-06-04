@@ -511,3 +511,7 @@ Grinnell.
 
 > Happy and sad.
 
+[A workshop on advising a career-anxious student body](advising-career-anxious-2025-06-04) (Musing #1349)
+
+> I don't need no damn worksheets.
+
