@@ -3,15 +3,15 @@ title: Eight months without Michelle
 number: 1350
 tags: [Michelle](index-michelle)
 blurb: Still getting by.
-version: 1.0
+version: 1.0.1
 released: 2025-06-08
-current: 
+current: 2025-06-08
 ---
 Michelle passed away eight months ago today. It still feels like a moment since I've been with her. I think that's good. At least it's good for me. Most of the time.
 
 My days tend to alternate between extremes. Most of the time, I feel like she's around, or at least I act as if she's around. I go through my day. I listen to the advice I know she'd give me. Or I try to listen to the advice she'd give me. I'm not always the best listener. I feel her love. I feel love for her. At night, I recap the day for her. Sometimes the recaps are short. Sometimes they are surprisingly long.
 
-I'd like to ask her questions. I'd like to talk to her about the challenges in my life (or what I still think about as our life), about the kids, about the broader world. I really miss the sharing, particularly in terms of helping the kids move forward in their lives. It's particularly hard that the thing that they most need help with is her absence. I'm not good at helping with that, except in terms of sharing memories.
+I'd like to ask her questions. I'd like to talk to her about the challenges in my life (or what I still think about as _our_ life), about the kids, about the broader world. I really miss the sharing, particularly in terms of helping the kids move forward in their lives. It's particularly hard that the thing that they most need help with is her absence. I'm not good at helping with that, except in terms of sharing memories.
 
 I also miss her for practical things. Should I worry about this health issue? Why I am so tired all the time? What do you think we should do about the weeds?
 
@@ -29,7 +29,7 @@ I hosted my first student picnic without her. She would have made sure that we p
 
 Weeding is going to be hard. We always had the question of whether having her watch weeding is what sent her to the hospital last May. Did she accidentally inhale some kind of fungus? Every time I think about attacking the weeds, the question springs to mind. I know it doesn't make any difference. And I know that I have to get weeding done. But ....
 
-I'm also not in great shape. So weeding is going to take some time. A few minutes each day, most likely. I also don't have a lot of time these days. My summer is surprisingly busy. It doesn't help that I signed up for twelve hours of workshop this coming week, that I have more than nine hours of committee meetings and at least three hours of other meetings, that I spent eight hours preparing for those meetings, and that I also need to fit in time for my research students.
+I'm also not in great physical shape. So weeding is going to take some time. A few minutes each day, most likely. I also don't have a lot of time these days. My summer is surprisingly busy. It doesn't help that I signed up for twelve hours of workshop this coming week, that I have more than nine hours of committee meetings and at least three hours of other meetings, that I spent eight hours preparing for those meetings, and that I also need to fit in time for my research students.
 
 Perhaps weeding will wait. Michelle never insisted that we make it a priority.
 
