@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 1341-1350
 
+[Eight months without Michelle](eight-months-michelle) (Musing #1350)  
 [A workshop on advising a career-anxious student body](advising-career-anxious-2025-06-04) (Musing #1349)  
 [Attempting to restore my MacBook](macbook-restore-2025-05-21) (Musing #1348)  
 [Graduation 2025](graduation-2025) (Musing #1347)  

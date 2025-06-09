@@ -10,9 +10,9 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musings:
-[A workshop on advising a career-anxious student body](advising-career-anxious-2025-06-04) (Musing #1349),
-[Attempting to restore my MacBook](macbook-restore-2025-05-21) (Musing #1348), and
-[Graduation 2025](graduation-2025) (Musing #1347). 
+[Eight months without Michelle](eight-months-michelle) (Musing #1350),
+[A workshop on advising a career-anxious student body](advising-career-anxious-2025-06-04) (Musing #1349), and
+[Attempting to restore my MacBook](macbook-restore-2025-05-21) (Musing #1348).
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

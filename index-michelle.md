@@ -71,3 +71,7 @@ _A place to gather musings related to my wife, Michelle S. Rebelsky._
 
 > What can I say?
 
+[Eight months without Michelle](eight-months-michelle) (Musing #1350)
+
+> Still getting by.
+
