@@ -1,6 +1,10 @@
 Musings, from newest to oldest
 ==============================
 
+## 1351-1360
+
+[An AIIAP (Artificial Intelligence Individual Action Plan)](scholarship-ai-ia-plan) (Musing #1351)  
+
 ## 1341-1350
 
 [Eight months without Michelle](eight-months-michelle) (Musing #1350)  

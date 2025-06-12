@@ -10,9 +10,9 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musings:
-[Eight months without Michelle](eight-months-michelle) (Musing #1350),
-[A workshop on advising a career-anxious student body](advising-career-anxious-2025-06-04) (Musing #1349), and
-[Attempting to restore my MacBook](macbook-restore-2025-05-21) (Musing #1348).
+[An AIIAP (Artificial Intelligence Individual Action Plan)](scholarship-ai-ia-plan) (Musing #1351),
+[Eight months without Michelle](eight-months-michelle) (Musing #1350), and
+[A workshop on advising a career-anxious student body](advising-career-anxious-2025-06-04) (Musing #1349). 
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

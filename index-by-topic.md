@@ -4663,6 +4663,10 @@ Autobiographical essays, more or less
 
 > You know who wins.
 
+[An AIIAP (Artificial Intelligence Individual Action Plan)](scholarship-ai-ia-plan) (Musing #1351)
+
+> IA stands for so many things
+
 Michelle
 --------
 

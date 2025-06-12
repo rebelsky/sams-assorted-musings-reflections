@@ -1745,3 +1745,7 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Attempting to restore my MacBook](macbook-restore-2025-05-21) (Musing #1348)  
 [A workshop on advising a career-anxious student body](advising-career-anxious-2025-06-04) (Musing #1349)  
 [Eight months without Michelle](eight-months-michelle) (Musing #1350)  
+
+## 1351-1360
+
+[An AIIAP (Artificial Intelligence Individual Action Plan)](scholarship-ai-ia-plan) (Musing #1351)  
