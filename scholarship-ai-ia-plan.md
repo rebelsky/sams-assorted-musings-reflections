@@ -3,9 +3,9 @@ title: An AIIAP (Artificial Intelligence Individual Action Plan)
 number: 1351
 tags: [Autobiographical](index-autobiographical), unedited
 blurb: IA stands for so many things
-version: 1.0
+version: 1.0.1
 released: 2025-06-12 
-current:
+current: 2026-06-12
 ---
 Last week, I was in a workshop entitled "What does AI mean?" It's a workshop in which we're spending more time thinking through questions than developing or hearing answers. The goal is to bring people together from across campus to discuss the implications and possibilities of generative AI [1].
 
@@ -21,7 +21,7 @@ I like the idea of using generative AI to serve as a simulated peer reviewer [6]
 
 I should learn about how to make a custom Generative AI tool. Why? Mostly, to deepen my understanding. But also to consider other ways that I might use such tools. Perhaps I could customize one so that it critiques my writing using the methods of Joe Williams' _Style_.
 
-I suppose it would be fun to generate a video for "[If you ask a Prof a question](https://rebelsky.cs.grinnell.edu/AskProf/)" [8]. I'm not sure whether that's scholarly, educational, marketing, or something else. Perhaps it's just fun. First, I have to figure out why it's not work.
+I suppose it would be fun to generate a video for "[If you ask a Prof a question](https://rebelsky.cs.grinnell.edu/AskProf/)" [8]. I'm not sure whether that's scholarly, educational, marketing, or something else. Perhaps it's just fun. First, I have to figure out why it's not working.
 
 Is that an action plan? Not really. However, it's as much of one as I'm willing to write right now. A simulated peer reviewer seems like a good first start. Developing something related to my courses is a good next step. After that? We shall see.
 
@@ -51,6 +51,6 @@ Reading that, all I could think about was [the SNL sketch about AI-generated edu
 
 [6] I hope that my real peer reviewers don't use generative AI. It is, unfortunately, a practice that seems to be increasingly prevelant.
 
-[7] I may have been the one who initially added them to the SIGCE TS sites.
+[7] I may have been the one who initially added them to the SIGCE TS sites. (brag brag brag)
 
 [8] Crap! Why doesn't that work any more?
