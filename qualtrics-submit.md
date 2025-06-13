@@ -3,7 +3,7 @@ title: Creating Submit buttons in Qualtrics
 number: 1279
 tags: [Rants](index-rants), technology
 blurb: UI basics.
-version: 1.0.1
+version: 1.0.2
 released: 2024-04-08
 current: 2025-06-13
 ---
@@ -33,7 +33,7 @@ And that's all that it should mean!
 
 If you use the right arrow for something else, you will confuse your user, perhaps leading them to enter incorrect information or to neglect to enter information. After all, if you're going to the next page, you assume that you'll have the chance to add more information and perhaps even go back to the previous page.
 
-**_Don't use the right arrow to mean "Submit"._**
+**_Do not use the right arrow to mean "Submit"._**
 
 Unfortunately, too many people who build surveys in Qualtrics either (a) don't understand this basic concept or (b) can't figure out how to make the button say "Submit". I think it's more of the latter than the former. I've even seen some surveys that say "Click the right arrow to submit", which suggests that the authors know that right arrows aren't normally used to mean "submit".
 
