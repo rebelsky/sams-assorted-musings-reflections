@@ -3,9 +3,9 @@ title: Creating Submit buttons in Qualtrics
 number: 1279
 tags: [Rants](index-rants), technology
 blurb: UI basics.
-version: 1.0.
+version: 1.0.1
 released: 2024-04-08
-current: 
+current: 2025-06-13
 ---
 As many folks know, the user interface to a program affects how successful people are at using it. Hence, anyone who builds programs should either (a) work with user interface specialists or (b) learn a bit about UI design.
 
@@ -43,7 +43,7 @@ First, build your survey.
 
 <img width=500 src="images/qualtrics01.png" alt="A Qualtrics survey authoring window."/>
 
-Click on the last block in your survey.  Then click on "Next/previous button text".
+Click on the last (or only) block in your survey.  Then click on "Next/previous button text".
 
 <img width=500 src="images/qualtrics02.png" alt="A Qualtrics survey authoring window with an arrow pointing to 'Next/previous button text'."/>
 
