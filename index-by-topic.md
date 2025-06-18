@@ -4667,6 +4667,10 @@ Autobiographical essays, more or less
 
 > IA stands for so many things
 
+[Another prime birthday](birthday-61) (Musing #1352)
+
+> My 61st.
+
 Michelle
 --------
 

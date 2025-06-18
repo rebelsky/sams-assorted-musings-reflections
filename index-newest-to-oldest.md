@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 1351-1360
 
+[Another prime birthday](birthday-61) (Musing #1352)  
 [An AIIAP (Artificial Intelligence Individual Action Plan)](scholarship-ai-ia-plan) (Musing #1351)  
 
 ## 1341-1350

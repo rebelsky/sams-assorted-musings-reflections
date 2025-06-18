@@ -1749,3 +1749,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 ## 1351-1360
 
 [An AIIAP (Artificial Intelligence Individual Action Plan)](scholarship-ai-ia-plan) (Musing #1351)  
+[Another prime birthday](birthday-61) (Musing #1352)  
