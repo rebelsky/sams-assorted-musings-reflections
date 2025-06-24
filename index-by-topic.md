@@ -4671,6 +4671,10 @@ Autobiographical essays, more or less
 
 > My 61st.
 
+[On the road again](on-the-road-again-2025-06-23) (Musing #1253)
+
+> Why stop?
+
 Michelle
 --------
 
