@@ -749,3 +749,7 @@ Autobiographical essays, more or less
 
 > Why stop?
 
+[Affirmations](affirmations-2025-06-25) (Musing #1254)
+
+> I was going to call this 'positive affirmations', but that seems redundant.
+

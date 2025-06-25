@@ -10,9 +10,9 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musings:
-[On the road again](on-the-road-again-2025-06-23) (Musing #1253),
-[Another prime birthday](birthday-61) (Musing #1352), and
-[An AIIAP (Artificial Intelligence Individual Action Plan)](scholarship-ai-ia-plan) (Musing #1351).
+[Affirmations](affirmations-2025-06-25) (Musing #1254),
+[On the road again](on-the-road-again-2025-06-23) (Musing #1253), and
+[Another prime birthday](birthday-61) (Musing #1352).
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
