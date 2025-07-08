@@ -2417,6 +2417,10 @@ online, but they will soon expand to more general issues about teaching._
 
 > I don't need no damn worksheets.
 
+[Reflections from a workshop on the flipped classroom](flipped-classroom-2025-07-07) (Musing #1255)
+
+> Yay! Another workshop.
+
 Code camps
 ----------
 

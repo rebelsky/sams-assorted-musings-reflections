@@ -1627,7 +1627,7 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [High-level skills, low-level tasks](high-level-low-level-2023-08-14) (Musing #1252)  
 [Preliminary notes on revised image models for CSC-151](csc151-image-models-v0) (Musing #1253)  
 [Affirmations](affirmations-2025-06-25) (Musing #1254)  
-[Placement in CS](cs-placement-2023-08-20) (Musing #1255)  
+[Reflections from a workshop on the flipped classroom](flipped-classroom-2025-07-07) (Musing #1255)  
 [Another inappropriate B-word](other-b-word-2023-08-21) (Musing #1256)  
 [Metacognitive wrappers, revised](metacognitive-wrappers-2023-09-04) (Musing #1257)  
 [So many research papers to assess!](so-many-papers-2023-10-01) (Musing #1258)  
