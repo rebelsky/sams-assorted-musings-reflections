@@ -2417,7 +2417,7 @@ online, but they will soon expand to more general issues about teaching._
 
 > I don't need no damn worksheets.
 
-[Reflections from a workshop on the flipped classroom](flipped-classroom-2025-07-07) (Musing #1255)
+[Reflections from a workshop on the flipped classroom](flipped-classroom-2025-07-07) (Musing #1355)
 
 > Yay! Another workshop.
 
@@ -4675,11 +4675,11 @@ Autobiographical essays, more or less
 
 > My 61st.
 
-[On the road again](on-the-road-again-2025-06-23) (Musing #1253)
+[On the road again](on-the-road-again-2025-06-23) (Musing #1353)
 
 > Why stop?
 
-[Affirmations](affirmations-2025-06-25) (Musing #1254)
+[Affirmations](affirmations-2025-06-25) (Musing #1354)
 
 > I was going to call this 'positive affirmations', but that seems redundant.
 
@@ -4759,6 +4759,10 @@ _A place to gather musings related to my wife, Michelle S. Rebelsky._
 [Eight months without Michelle](eight-months-michelle) (Musing #1350)
 
 > Still getting by.
+
+[Nine months without Michelle](nine-months-michelle) (Musing #1356)
+
+> The love will last forever.
 
 Triennial reviews
 -----------------

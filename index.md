@@ -10,9 +10,9 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musings:
-[Reflections from a workshop on the flipped classroom](flipped-classroom-2025-07-07) (Musing #1255),
-[Affirmations](affirmations-2025-06-25) (Musing #1254), and
-[On the road again](on-the-road-again-2025-06-23) (Musing #1253). 
+[Nine months without Michelle](nine-months-michelle) (Musing #1356),
+[Reflections from a workshop on the flipped classroom](flipped-classroom-2025-07-07) (Musing #1355), and
+[Affirmations](affirmations-2025-06-25) (Musing #1354).
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

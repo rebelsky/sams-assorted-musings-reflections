@@ -745,11 +745,11 @@ Autobiographical essays, more or less
 
 > My 61st.
 
-[On the road again](on-the-road-again-2025-06-23) (Musing #1253)
+[On the road again](on-the-road-again-2025-06-23) (Musing #1353)
 
 > Why stop?
 
-[Affirmations](affirmations-2025-06-25) (Musing #1254)
+[Affirmations](affirmations-2025-06-25) (Musing #1354)
 
 > I was going to call this 'positive affirmations', but that seems redundant.
 

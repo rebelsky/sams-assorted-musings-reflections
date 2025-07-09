@@ -1626,8 +1626,8 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Journals, notebooks, diaries, and blogs](journals-et-al-2023-08-13) (Musing #1251)  
 [High-level skills, low-level tasks](high-level-low-level-2023-08-14) (Musing #1252)  
 [Preliminary notes on revised image models for CSC-151](csc151-image-models-v0) (Musing #1253)  
-[Affirmations](affirmations-2025-06-25) (Musing #1254)  
-[Reflections from a workshop on the flipped classroom](flipped-classroom-2025-07-07) (Musing #1255)  
+[On writing and computers (perhaps also ChatGPT and large language models)](writing-computers-2023-08-16) (Musing #1254)  
+[Placement in CS](cs-placement-2023-08-20) (Musing #1255)  
 [Another inappropriate B-word](other-b-word-2023-08-21) (Musing #1256)  
 [Metacognitive wrappers, revised](metacognitive-wrappers-2023-09-04) (Musing #1257)  
 [So many research papers to assess!](so-many-papers-2023-10-01) (Musing #1258)  
@@ -1750,3 +1750,7 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 
 [An AIIAP (Artificial Intelligence Individual Action Plan)](scholarship-ai-ia-plan) (Musing #1351)  
 [Another prime birthday](birthday-61) (Musing #1352)  
+[On the road again](on-the-road-again-2025-06-23) (Musing #1353)  
+[Affirmations](affirmations-2025-06-25) (Musing #1354)  
+[Reflections from a workshop on the flipped classroom](flipped-classroom-2025-07-07) (Musing #1355)  
+[Nine months without Michelle](nine-months-michelle) (Musing #1356)  

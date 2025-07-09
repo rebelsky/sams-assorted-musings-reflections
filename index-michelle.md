@@ -75,3 +75,7 @@ _A place to gather musings related to my wife, Michelle S. Rebelsky._
 
 > Still getting by.
 
+[Nine months without Michelle](nine-months-michelle) (Musing #1356)
+
+> The love will last forever.
+
