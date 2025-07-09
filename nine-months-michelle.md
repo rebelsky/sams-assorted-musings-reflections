@@ -5,7 +5,7 @@ tags: [Michelle](index-michelle)
 blurb: The love will last forever.
 version: 1.0
 released: 2025-07-08
-current: 2025-07-08
+current: 
 ---
 _Warning! Sadness abounds within._
 
