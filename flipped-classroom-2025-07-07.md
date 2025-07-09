@@ -1,11 +1,11 @@
 ---
 title: Reflections from a workshop on the flipped classroom
-number: 1255
+number: 1355
 tags: [Teaching](index-teaching)
 blurb: Yay! Another workshop!
-version: 1.0
+version: 1.0.1
 released: 2025-07-07
-current: 
+current: 2025-07-08
 ---
 Last week, I participated in my fourth faculty/staff workshop of the summer. This workshop was on flipped clases [1]. For those of you not hep to the higher-ed lingo, flipped classes are those that flip the "traditional" model of higher education. Rather than introducing students to material through classroom lectures and then asking them to apply that knowledge on assignments outside of class, in flipped classes, students attempt to learn the material in advance (e.g., through textbooks or video) and then spend class time applying the material to problems.
 

@@ -1,11 +1,11 @@
 ---
 title: On the road again
-number: 1253
+number: 1353
 tags: [Autobiographical](index-autobiographical), end-notable
 blurb: Why stop?
-version: 1.0
+version: 1.0.1
 released: 2025-06-23
-current: 
+current: 2025-07-08
 ---
 Since young adulthood, long drives [1] have been part of my life, perhaps even part of my identity. In college, I drove back to Boston [2] for each break [3]. Sometimes, I drove alone. Sometimes, I drove with friends. Once in a while, I'd stop for a quick nap, but I almost never stopped in a hotel. The one exception I can recall is when I had an accident driving back from Boston. I'm pretty sure that's the last accident I had, nearly forty years ago [4].
 
