@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 1351-1360
 
+[Submitting to SIGCSE TS 2026](sigcse-2026-paper-submissions) (Musing #1357)  
 [Nine months without Michelle](nine-months-michelle) (Musing #1356)  
 [Reflections from a workshop on the flipped classroom](flipped-classroom-2025-07-07) (Musing #1355)  
 [Affirmations](affirmations-2025-06-25) (Musing #1354)  

@@ -1796,6 +1796,10 @@ On life in academia
 
 > Can't we keep terms clear?
 
+[Submitting to SIGCSE TS 2026](sigcse-2026-paper-submissions) (Musing #1357)
+
+> Not everything, but enough.
+
 Thank-You Notes
 ---------------
 
