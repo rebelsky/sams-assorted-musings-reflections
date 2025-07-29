@@ -5836,6 +5836,10 @@ Almost everything else
 
 > A family tradition.
 
+[Israel and Palestine](israel-palestine) (Musing #1358)
+
+> There's nothing I can do.
+
 Musings with multiple entries
 -----------------------------
 

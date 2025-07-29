@@ -1755,3 +1755,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Reflections from a workshop on the flipped classroom](flipped-classroom-2025-07-07) (Musing #1355)  
 [Nine months without Michelle](nine-months-michelle) (Musing #1356)  
 [Submitting to SIGCSE TS 2026](sigcse-2026-paper-submissions) (Musing #1357)  
+[Israel and Palestine](israel-palestine) (Musing #1358)  
