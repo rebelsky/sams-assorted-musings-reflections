@@ -10,9 +10,9 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musings:
-[Israel and Palestine](israel-palestine) (Musing #1358),
-[Submitting to SIGCSE TS 2026](sigcse-2026-paper-submissions) (Musing #1357), and
-[Nine months without Michelle](nine-months-michelle) (Musing #1356).
+[Wrapping up summer research (Summer 2025)](wrapping-up-summer-research-2025) (Musing #1359),
+[Israel and Palestine](israel-palestine) (Musing #1358), and
+[Submitting to SIGCSE TS 2026](sigcse-2026-paper-submissions) (Musing #1357).
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

@@ -125,3 +125,7 @@ On life in academia
 
 > Not everything, but enough.
 
+[Wrapping up summer research (Summer 2025)](wrapping-up-summer-research-2025) (Musing #1359)
+
+> Sadness.
+
