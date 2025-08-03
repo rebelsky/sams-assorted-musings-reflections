@@ -1,7 +1,7 @@
 ---
 title: Wrapping up summer research (Summer 2025)
 number: 1359
-tags: [Academia](index-academia), disjointed
+tags: [Academia](index-academia), disjoint
 blurb: Sadness.
 version: 1.0
 released: 2025-08-02
