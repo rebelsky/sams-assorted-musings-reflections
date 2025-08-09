@@ -2429,6 +2429,10 @@ online, but they will soon expand to more general issues about teaching._
 
 > Yay! Another workshop.
 
+[Revisiting the board game design independent study](board-game-design-revisited-2025-08-07) (Musing #1360)
+
+> Another way to spend my sabbatical.
+
 Code camps
 ----------
 
@@ -4771,6 +4775,10 @@ _A place to gather musings related to my wife, Michelle S. Rebelsky._
 [Nine months without Michelle](nine-months-michelle) (Musing #1356)
 
 > The love will last forever.
+
+[Ten months without Michelle](ten-months-michelle) (Musing #1361)
+
+> Time marches on.
 
 Triennial reviews
 -----------------

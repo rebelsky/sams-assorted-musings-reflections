@@ -1,8 +1,13 @@
 Musings, from newest to oldest
 ==============================
 
+## 1361-1370
+
+[Ten months without Michelle](ten-months-michelle) (Musing #1361)  
+
 ## 1351-1360
 
+[Revisiting the board game design independent study](board-game-design-revisited-2025-08-07) (Musing #1360)  
 [Wrapping up summer research (Summer 2025)](wrapping-up-summer-research-2025) (Musing #1359)  
 [Israel and Palestine](israel-palestine) (Musing #1358)  
 [Submitting to SIGCSE TS 2026](sigcse-2026-paper-submissions) (Musing #1357)  

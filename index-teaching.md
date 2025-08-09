@@ -268,3 +268,7 @@ online, but they will soon expand to more general issues about teaching._
 
 > Yay! Another workshop.
 
+[Revisiting the board game design independent study](board-game-design-revisited-2025-08-07) (Musing #1360)
+
+> Another way to spend my sabbatical.
+

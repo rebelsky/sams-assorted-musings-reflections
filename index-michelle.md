@@ -79,3 +79,7 @@ _A place to gather musings related to my wife, Michelle S. Rebelsky._
 
 > The love will last forever.
 
+[Ten months without Michelle](ten-months-michelle) (Musing #1361)
+
+> Time marches on.
+

@@ -1757,3 +1757,8 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Submitting to SIGCSE TS 2026](sigcse-2026-paper-submissions) (Musing #1357)  
 [Israel and Palestine](israel-palestine) (Musing #1358)  
 [Wrapping up summer research (Summer 2025)](wrapping-up-summer-research-2025) (Musing #1359)  
+[Revisiting the board game design independent study](board-game-design-revisited-2025-08-07) (Musing #1360)  
+
+## 1361-1370
+
+[Ten months without Michelle](ten-months-michelle) (Musing #1361)  
