@@ -3,9 +3,9 @@ title: Discussing the appropriate use of generative AI in the classroom
 number: 1362
 tags: [Teaching](index-teaching)
 blurb: A possible approach
-version: 1.0
+version: 1.1
 released: 2025-08-13
-current: 
+current: 2025-08-13
 ---
 Earlier this summer, I participated in a workshop on generative AI and writing, led by two of my amazing colleagues in the writing center. The focus of the workshop was primarily on traditional kinds of writing, such as essays and short reading responses. While I use reading responses in my classes, most of what my students write is code, programmer documentation, and, at times, user documentation. That's not to say that I don't teach essay writing from time to time. However, it happens most frequently in Tutorial. And, for whatever reason, I think a lot about writing. Perhaps it's because I write regularly.
 
@@ -131,3 +131,7 @@ _In how many courses should we have this assignment?_ I worry that the assignmen
 _How many scenarios are appropriate?_ I've written about twenty-four. That's a lot. As we've seen elsewhere, I tend to overdo things. At the same time, I see value in introducing students to ways in which one might use generative AI so that we can discover together that there's not one easy answer.
 
 There are almost certainly others that will arise as I attempt to implement this idea. Fortunately (or unfortunately), I'm not teaching a full course again until Fall 2026, so I have some time. Perhaps I can convince a colleague to try this out in the meantime.
+
+---
+
+**_Postscript_**: Almost immediately after posting this musing, I discovered that my colleagues also include "Figuring out how to use a tool" and "Figuring out what may be wrong with a tool" (e.g., Visual Studio Code, the Java Compiler) as areas in which the use of AI may be permitted.
