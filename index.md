@@ -10,9 +10,9 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musings:
-[Ten months without Michelle](ten-months-michelle) (Musing #1361),
-[Revisiting the board game design independent study](board-game-design-revisited-2025-08-07) (Musing #1360), and
-[Wrapping up summer research (Summer 2025)](wrapping-up-summer-research-2025) (Musing #1359).
+[Discussing the appropriate use of generative AI in the classroom](ai-appropriate-use-discussion-2025-08-13) (Musing #1362),
+[Ten months without Michelle](ten-months-michelle) (Musing #1361), and
+[Revisiting the board game design independent study](board-game-design-revisited-2025-08-07) (Musing #1360).
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

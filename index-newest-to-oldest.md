@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 1361-1370
 
+[Discussing the appropriate use of generative AI in the classroom](ai-appropriate-use-discussion-2025-08-13) (Musing #1362)  
 [Ten months without Michelle](ten-months-michelle) (Musing #1361)  
 
 ## 1351-1360

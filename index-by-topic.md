@@ -2433,6 +2433,10 @@ online, but they will soon expand to more general issues about teaching._
 
 > Another way to spend my sabbatical.
 
+[Discussing the appropriate use of generative AI in the classroom](ai-appropriate-use-discussion-2025-08-13) (Musing #1362)
+
+> A possible approach
+
 Code camps
 ----------
 
