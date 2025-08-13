@@ -1,9 +1,9 @@
 ---
-title: Discussing the appropriate use of generative AI in the classroom
+title: Discussing the appropriate use of generative AI in the CS classroom
 number: 1362
 tags: [Teaching](index-teaching)
 blurb: A possible approach
-version: 1.1
+version: 1.2
 released: 2025-08-13
 current: 2025-08-13
 ---
