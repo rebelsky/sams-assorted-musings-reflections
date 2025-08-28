@@ -1804,6 +1804,10 @@ On life in academia
 
 > Sadness.
 
+[The first day of classes (Fall 2025)](start-of-classes-2025-fall) (Musing #1363)
+
+> Happy and sad.
+
 Thank-You Notes
 ---------------
 
@@ -3634,6 +3638,10 @@ Grinnell.
 [A workshop on advising a career-anxious student body](advising-career-anxious-2025-06-04) (Musing #1349)
 
 > I don't need no damn worksheets.
+
+[The first day of classes (Fall 2025)](start-of-classes-2025-fall) (Musing #1363)
+
+> Happy and sad.
 
 Registration and Related Topics
 -------------------------------

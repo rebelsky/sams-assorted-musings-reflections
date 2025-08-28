@@ -129,3 +129,7 @@ On life in academia
 
 > Sadness.
 
+[The first day of classes (Fall 2025)](start-of-classes-2025-fall) (Musing #1363)
+
+> Happy and sad.
+
