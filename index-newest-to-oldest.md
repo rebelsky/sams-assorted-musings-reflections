@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 1361-1370
 
+[Happy anniversary, Love!](anniversary-2025) (Musing #1364)  
 [The first day of classes (Fall 2025)](start-of-classes-2025-fall) (Musing #1363)  
 [Discussing the appropriate use of generative AI in the classroom](ai-appropriate-use-discussion-2025-08-13) (Musing #1362)  
 [Ten months without Michelle](ten-months-michelle) (Musing #1361)  

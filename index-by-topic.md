@@ -4792,6 +4792,10 @@ _A place to gather musings related to my wife, Michelle S. Rebelsky._
 
 > Time marches on.
 
+[Happy anniversary, Love!](anniversary-2025) (Musing #1364)
+
+> Our 38th!
+
 Triennial reviews
 -----------------
 
