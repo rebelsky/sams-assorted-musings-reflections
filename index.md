@@ -10,9 +10,9 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musings:
-[Happy anniversary, Love!](anniversary-2025) (Musing #1364),
-[The first day of classes (Fall 2025)](start-of-classes-2025-fall) (Musing #1363), and
-[Discussing the appropriate use of generative AI in the classroom](ai-appropriate-use-discussion-2025-08-13) (Musing #1362). 
+[Lazy bread](lazy-bread) (Musing #1365), 
+[Happy anniversary, Love!](anniversary-2025) (Musing #1364), and
+[The first day of classes (Fall 2025)](start-of-classes-2025-fall) (Musing #1363). 
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

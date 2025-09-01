@@ -906,3 +906,7 @@ Almost everything else
 
 > There's nothing I can do.
 
+[Lazy bread](lazy-bread) (Musing #1365)
+
+> 'Some call it "no knead". I call it "lazy".'
+
