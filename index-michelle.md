@@ -87,3 +87,7 @@ _A place to gather musings related to my wife, Michelle S. Rebelsky._
 
 > Our 38th!
 
+[(More than) Eleven months without Michelle](eleven-months-michelle) (Musing #1366)
+
+> Things are changing.
+

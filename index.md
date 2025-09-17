@@ -10,9 +10,9 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musings:
-[Lazy bread](lazy-bread) (Musing #1365), 
-[Happy anniversary, Love!](anniversary-2025) (Musing #1364), and
-[The first day of classes (Fall 2025)](start-of-classes-2025-fall) (Musing #1363). 
+[(More than) Eleven months without Michelle](eleven-months-michelle) (Musing #1366),
+[Lazy bread](lazy-bread) (Musing #1365), and
+[Happy anniversary, Love!](anniversary-2025) (Musing #1364). 
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

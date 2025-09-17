@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 1361-1370
 
+[(More than) Eleven months without Michelle](eleven-months-michelle) (Musing #1366)  
 [Lazy bread](lazy-bread) (Musing #1365)  
 [Happy anniversary, Love!](anniversary-2025) (Musing #1364)  
 [The first day of classes (Fall 2025)](start-of-classes-2025-fall) (Musing #1363)  

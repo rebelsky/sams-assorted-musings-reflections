@@ -1766,3 +1766,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [The first day of classes (Fall 2025)](start-of-classes-2025-fall) (Musing #1363)  
 [Happy anniversary, Love!](anniversary-2025) (Musing #1364)  
 [Lazy bread](lazy-bread) (Musing #1365)  
+[(More than) Eleven months without Michelle](eleven-months-michelle) (Musing #1366)  
