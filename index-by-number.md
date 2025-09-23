@@ -1767,3 +1767,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Happy anniversary, Love!](anniversary-2025) (Musing #1364)  
 [Lazy bread](lazy-bread) (Musing #1365)  
 [(More than) Eleven months without Michelle](eleven-months-michelle) (Musing #1366)  
+[Identifying a departmental identity](department-identity-2025-09-22) (Musing #1367)  

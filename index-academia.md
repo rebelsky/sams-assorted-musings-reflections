@@ -133,3 +133,7 @@ On life in academia
 
 > Happy and sad.
 
+[Identifying a departmental identity](department-identity-2025-09-22) (Musing #1367)
+
+> Perhaps I should say "identities".
+

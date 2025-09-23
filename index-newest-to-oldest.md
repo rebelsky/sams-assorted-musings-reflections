@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 1361-1370
 
+[Identifying a departmental identity](department-identity-2025-09-22) (Musing #1367)  
 [(More than) Eleven months without Michelle](eleven-months-michelle) (Musing #1366)  
 [Lazy bread](lazy-bread) (Musing #1365)  
 [Happy anniversary, Love!](anniversary-2025) (Musing #1364)  
