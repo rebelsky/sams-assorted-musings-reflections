@@ -753,3 +753,7 @@ Autobiographical essays, more or less
 
 > I was going to call this 'positive affirmations', but that seems redundant.
 
+[A return to Neverland](neverland-players-2025-fall) (Musing #1368)
+
+> Joy, bliss, happiness, and important lessons about friendship.
+

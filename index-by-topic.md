@@ -3647,6 +3647,10 @@ Grinnell.
 
 > Happy and sad.
 
+[A return to Neverland](neverland-players-2025-fall) (Musing #1368)
+
+> Joy, bliss, happiness, and important lessons about friendship.
+
 Registration and Related Topics
 -------------------------------
 
@@ -4710,6 +4714,10 @@ Autobiographical essays, more or less
 [Affirmations](affirmations-2025-06-25) (Musing #1354)
 
 > I was going to call this 'positive affirmations', but that seems redundant.
+
+[A return to Neverland](neverland-players-2025-fall) (Musing #1368)
+
+> Joy, bliss, happiness, and important lessons about friendship.
 
 Michelle
 --------

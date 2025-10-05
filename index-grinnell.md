@@ -519,3 +519,7 @@ Grinnell.
 
 > Happy and sad.
 
+[A return to Neverland](neverland-players-2025-fall) (Musing #1368)
+
+> Joy, bliss, happiness, and important lessons about friendship.
+
