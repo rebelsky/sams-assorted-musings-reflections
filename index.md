@@ -10,9 +10,9 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musings:
-[A return to Neverland](neverland-players-2025-fall) (Musing #1368),
-[Identifying a departmental identity](department-identity-2025-09-22) (Musing #1367), and
-[(More than) Eleven months without Michelle](eleven-months-michelle) (Musing #1366). 
+[One year without Michelle](one-year-michelle) (Musing #1369),
+[A return to Neverland](neverland-players-2025-fall) (Musing #1368), and
+[Identifying a departmental identity](department-identity-2025-09-22) (Musing #1367).
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

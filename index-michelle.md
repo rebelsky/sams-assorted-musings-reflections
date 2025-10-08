@@ -91,3 +91,7 @@ _A place to gather musings related to my wife, Michelle S. Rebelsky._
 
 > Things are changing.
 
+[One year without Michelle](one-year-michelle) (Musing #1369)
+
+> What should I write?
+
