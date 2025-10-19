@@ -1,0 +1,13 @@
+#!/bin/bash
+
+echo "Synching HTML files."
+time rsync -lptgoDvz *.html ssh.cs.grinnell.edu:/home/rebelsky/moosings
+echo "Synching bin."
+time rsync -avz bin ssh.cs.grinnell.edu:/home/rebelsky/moosings
+echo "Synching images."
+time rsync -avz images ssh.cs.grinnell.edu:/home/rebelsky/moosings
+echo "Synching css."
+time rsync -avz css ssh.cs.grinnell.edu:/home/rebelsky/moosings
+echo "Synching rss"
+time rsync -avz rss.xml ssh.cs.grinnell.edu:/home/rebelsky/moosings
+echo "Done"
