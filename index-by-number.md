@@ -1771,3 +1771,7 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [A return to Neverland](neverland-players-2025-fall) (Musing #1368)  
 [One year without Michelle](one-year-michelle) (Musing #1369)  
 [A Jonathan Richman Concert](jonathan-richman-2025-10-18) (Musing #1370)  
+
+## 1371-1380
+
+[Surviving a concert without Michelle](surviving-concert-2025-10-19) (Musing #1371)  

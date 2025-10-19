@@ -95,3 +95,7 @@ _A place to gather musings related to my wife, Michelle S. Rebelsky._
 
 > What should I write?
 
+[Surviving a concert without Michelle](surviving-concert-2025-10-19) (Musing #1371)
+
+> It was hard.
+

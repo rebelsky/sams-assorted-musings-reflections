@@ -1,6 +1,10 @@
 Musings, from newest to oldest
 ==============================
 
+## 1371-1380
+
+[Surviving a concert without Michelle](surviving-concert-2025-10-19) (Musing #1371)  
+
 ## 1361-1370
 
 [A Jonathan Richman Concert](jonathan-richman-2025-10-18) (Musing #1370)  
