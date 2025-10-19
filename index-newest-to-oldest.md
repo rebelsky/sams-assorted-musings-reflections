@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 1361-1370
 
+[A Jonathan Richman Concert](jonathan-richman-2025-10-18) (Musing #1370)  
 [One year without Michelle](one-year-michelle) (Musing #1369)  
 [A return to Neverland](neverland-players-2025-fall) (Musing #1368)  
 [Identifying a departmental identity](department-identity-2025-09-22) (Musing #1367)  

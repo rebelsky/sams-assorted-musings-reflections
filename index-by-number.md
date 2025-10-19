@@ -1770,3 +1770,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Identifying a departmental identity](department-identity-2025-09-22) (Musing #1367)  
 [A return to Neverland](neverland-players-2025-fall) (Musing #1368)  
 [One year without Michelle](one-year-michelle) (Musing #1369)  
+[A Jonathan Richman Concert](jonathan-richman-2025-10-18) (Musing #1370)  

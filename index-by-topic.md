@@ -3890,6 +3890,10 @@ things I enjoy.*
 
 > I haven't felt this joyful in a long time.
 
+[A Jonathan Richman Concert](jonathan-richman-2025-10-18) (Musing #1370)
+
+> Or perhaps an experience.
+
 Mixtapes
 --------
 
