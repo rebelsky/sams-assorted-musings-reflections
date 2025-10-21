@@ -5900,6 +5900,10 @@ Almost everything else
 
 > 'Some call it "no knead". I call it "lazy".'
 
+[No Kings! (No dictators, either!)](no-kings-2025-fall) (Musing #1372)
+
+> Perhaps a bit of hope.
+
 Musings with multiple entries
 -----------------------------
 

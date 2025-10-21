@@ -10,9 +10,9 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musings:
-[Surviving a concert without Michelle](surviving-concert-2025-10-19) (Musing #1371),
-[A Jonathan Richman Concert](jonathan-richman-2025-10-18) (Musing #1370), and
-[One year without Michelle](one-year-michelle) (Musing #1369).
+[No Kings! (No dictators, either!)](no-kings-2025-fall) (Musing #1372),
+[Surviving a concert without Michelle](surviving-concert-2025-10-19) (Musing #1371), and
+[A Jonathan Richman Concert](jonathan-richman-2025-10-18) (Musing #1370).
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

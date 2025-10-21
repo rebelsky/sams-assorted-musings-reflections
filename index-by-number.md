@@ -1775,3 +1775,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 ## 1371-1380
 
 [Surviving a concert without Michelle](surviving-concert-2025-10-19) (Musing #1371)  
+[No Kings! (No dictators, either!)](no-kings-2025-fall) (Musing #1372)  
