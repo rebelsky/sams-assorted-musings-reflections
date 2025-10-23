@@ -3894,6 +3894,10 @@ things I enjoy.*
 
 > Or perhaps an experience.
 
+[Exploring Craft.do](craft.do) (Musing #1373)
+
+> Fairly nice software.
+
 Mixtapes
 --------
 
