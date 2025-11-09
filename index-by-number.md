@@ -1778,3 +1778,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [No Kings! (No dictators, either!)](no-kings-2025-fall) (Musing #1372)  
 [Exploring Craft.do](craft.do) (Musing #1373)  
 [Thirteen months without Michelle](thirteen-months-michelle) (Musing #1374)  
+[Dr. Michelle S. Rebelsky, First-Generation Student](michelle-first-gen) (Musing #1375)  

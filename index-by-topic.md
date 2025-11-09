@@ -4832,6 +4832,10 @@ _A place to gather musings related to my wife, Michelle S. Rebelsky._
 
 > It's getting harder, not easier.
 
+[Dr. Michelle S. Rebelsky, First-Generation Student](michelle-first-gen) (Musing #1375)
+
+> Vignettes you should know.
+
 Triennial reviews
 -----------------
 

@@ -10,9 +10,9 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musings:
-[Thirteen months without Michelle](thirteen-months-michelle) (Musing #1374),
-[Exploring Craft.do](craft.do) (Musing #1373), and
-[No Kings! (No dictators, either!)](no-kings-2025-fall) (Musing #1372).
+[Dr. Michelle S. Rebelsky, First-Generation Student](michelle-first-gen) (Musing #1375), 
+[Thirteen months without Michelle](thirteen-months-michelle) (Musing #1374), and
+[Exploring Craft.do](craft.do) (Musing #1373).
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
