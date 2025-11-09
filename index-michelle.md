@@ -99,3 +99,7 @@ _A place to gather musings related to my wife, Michelle S. Rebelsky._
 
 > It was hard.
 
+[Thirteen months without Michelle](thirteen-months-michelle) (Musing #1374)
+
+> It's getting harder, not easier.
+
