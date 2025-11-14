@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 1371-1380
 
+[_Disposable Humanity_ and Aktion T4](disposable-humanity) (Musing #1376)  
 [Dr. Michelle S. Rebelsky, First-Generation Student](michelle-first-gen) (Musing #1375)  
 [Thirteen months without Michelle](thirteen-months-michelle) (Musing #1374)  
 [Exploring Craft.do](craft.do) (Musing #1373)  

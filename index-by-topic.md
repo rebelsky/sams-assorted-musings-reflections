@@ -3898,6 +3898,10 @@ things I enjoy.*
 
 > Fairly nice software.
 
+[_Disposable Humanity_ and Aktion T4](disposable-humanity) (Musing #1376)
+
+> It gets worse and worse.
+
 Mixtapes
 --------
 

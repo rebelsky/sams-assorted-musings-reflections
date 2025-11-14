@@ -1779,3 +1779,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Exploring Craft.do](craft.do) (Musing #1373)  
 [Thirteen months without Michelle](thirteen-months-michelle) (Musing #1374)  
 [Dr. Michelle S. Rebelsky, First-Generation Student](michelle-first-gen) (Musing #1375)  
+[_Disposable Humanity_ and Aktion T4](disposable-humanity) (Musing #1376)  
