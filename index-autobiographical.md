@@ -757,3 +757,7 @@ Autobiographical essays, more or less
 
 > Joy, bliss, happiness, and important lessons about friendship.
 
+[Giving Thanks](thanksgiving-2025) (Musing #1378)
+
+> Every year. Every day.
+

@@ -133,3 +133,7 @@ the registration process at Grinnell.*
 
 > It's complicated. 
 
+[Preregistration for Spring 2026](prereg-2026Sp) (Musing #1377)
+
+> Returning to the series
+

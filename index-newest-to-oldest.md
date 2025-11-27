@@ -3,6 +3,8 @@ Musings, from newest to oldest
 
 ## 1371-1380
 
+[Giving Thanks](thanksgiving-2025) (Musing #1378)  
+[Preregistration for Spring 2026](prereg-2026Sp) (Musing #1377)  
 [_Disposable Humanity_ and Aktion T4](disposable-humanity) (Musing #1376)  
 [Dr. Michelle S. Rebelsky, First-Generation Student](michelle-first-gen) (Musing #1375)  
 [Thirteen months without Michelle](thirteen-months-michelle) (Musing #1374)  

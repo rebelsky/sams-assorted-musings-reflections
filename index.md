@@ -10,9 +10,9 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musings:
-[_Disposable Humanity_ and Aktion T4](disposable-humanity) (Musing #1376), 
-[Dr. Michelle S. Rebelsky, First-Generation Student](michelle-first-gen) (Musing #1375),  and
-[Thirteen months without Michelle](thirteen-months-michelle) (Musing #1374).
+[Giving Thanks](thanksgiving-2025) (Musing #1378),
+[Preregistration for Spring 2026](prereg-2026Sp) (Musing #1377), and
+[_Disposable Humanity_ and Aktion T4](disposable-humanity) (Musing #1376).
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

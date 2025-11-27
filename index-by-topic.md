@@ -3786,6 +3786,10 @@ the registration process at Grinnell.*
 
 > It's complicated. 
 
+[Preregistration for Spring 2026](prereg-2026Sp) (Musing #1377)
+
+> Returning to the series
+
 A letter to the incoming chair
 ------------------------------
 
@@ -4730,6 +4734,10 @@ Autobiographical essays, more or less
 [A return to Neverland](neverland-players-2025-fall) (Musing #1368)
 
 > Joy, bliss, happiness, and important lessons about friendship.
+
+[Giving Thanks](thanksgiving-2025) (Musing #1378)
+
+> Every year. Every day.
 
 Michelle
 --------
