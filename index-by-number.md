@@ -1782,3 +1782,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [_Disposable Humanity_ and Aktion T4](disposable-humanity) (Musing #1376)  
 [Preregistration for Spring 2026](prereg-2026Sp) (Musing #1377)  
 [Giving Thanks](thanksgiving-2025) (Musing #1378)  
+[College complaints and conspiracies](college-complaints-2025-11-30) (Musing #1379)  

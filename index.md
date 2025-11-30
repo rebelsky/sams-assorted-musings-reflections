@@ -10,9 +10,9 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musings:
-[Giving Thanks](thanksgiving-2025) (Musing #1378),
-[Preregistration for Spring 2026](prereg-2026Sp) (Musing #1377), and
-[_Disposable Humanity_ and Aktion T4](disposable-humanity) (Musing #1376).
+[College complaints and conspiracies](college-complaints-2025-11-30) (Musing #1379),
+[Giving Thanks](thanksgiving-2025) (Musing #1378), and
+[Preregistration for Spring 2026](prereg-2026Sp) (Musing #1377).
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

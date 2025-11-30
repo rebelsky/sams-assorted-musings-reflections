@@ -3651,6 +3651,10 @@ Grinnell.
 
 > Joy, bliss, happiness, and important lessons about friendship.
 
+[College complaints and conspiracies](college-complaints-2025-11-30) (Musing #1379)
+
+> Or at least conspiracy theories.
+
 Registration and Related Topics
 -------------------------------
 
