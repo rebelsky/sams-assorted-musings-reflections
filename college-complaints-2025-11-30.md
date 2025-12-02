@@ -3,9 +3,9 @@ title: College complaints and conspiracies
 number: 1379
 tags: [Grinnell](index-grinnell)
 blurb: Or at least conspiracy theories.
-version: 1.0
+version: 1.0.1
 released: 2025-11-30
-current: 
+current: 2025-12-02
 ---
 Back in the days of the pandemic, Grinnell embraced what President Harris called the [THRIVE Principles](https://www.grinnell.edu/about/leadership/offices-services/institutional-planning/strategic-plans/thriving-campus-climate). As I understand it, they are now part of our Strategic Plan. The first principle is Transparency (or, more precisely, "Talk to improve transparency"). However, for much of my time at Grinnell, the College has had difficulty being sufficiently transparent.
 
@@ -41,7 +41,7 @@ I have my own theory. Students automatically get permission to live off campus i
 
 ---
 
-[1] I appreciate many of the goals that Renfrow was supposed to represent. But it cost over $60 million. With 120 beds, that's half a million per bed. You can buy two nice houses in Grinnell for $50 million. And, like many starchitect-designed buildings, it didn't consider everyday issues, such as how much dust would come from the concrete walls.
+[1] I appreciate many of the goals that Renfrow was supposed to represent. But it cost over $60 million. With 120 beds, that's half a million per bed. You can buy two nice houses in Grinnell for $50,000. And, like many starchitect-designed buildings, it didn't consider everyday issues, such as how much dust would come from the concrete walls.
 
 [2] What happened to the pyramid? Did the Illuminati on the Board complain?
 
