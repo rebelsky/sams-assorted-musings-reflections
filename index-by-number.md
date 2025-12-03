@@ -1783,3 +1783,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Preregistration for Spring 2026](prereg-2026Sp) (Musing #1377)  
 [Giving Thanks](thanksgiving-2025) (Musing #1378)  
 [College complaints and conspiracies](college-complaints-2025-11-30) (Musing #1379)  
+[Happy Birthday, Love!](michelle-birthday-2025) (Musing #1380)  

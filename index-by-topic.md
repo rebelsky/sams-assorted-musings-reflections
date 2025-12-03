@@ -4852,6 +4852,10 @@ _A place to gather musings related to my wife, Michelle S. Rebelsky._
 
 > Vignettes you should know.
 
+[Happy Birthday, Love!](michelle-birthday-2025) (Musing #1380)
+
+> You're so special!
+
 Triennial reviews
 -----------------
 
