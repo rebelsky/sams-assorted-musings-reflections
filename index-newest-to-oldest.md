@@ -1,6 +1,10 @@
 Musings, from newest to oldest
 ==============================
 
+## 1381-1390
+
+[Considering a performance of _Considering Matthew Shepard_](grinnell-singers-2025-12-07) (Musing #1381)  
+
 ## 1371-1380
 
 [Happy Birthday, Love!](michelle-birthday-2025) (Musing #1380)  

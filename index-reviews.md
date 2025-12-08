@@ -63,3 +63,7 @@ things I enjoy.*
 
 > It gets worse and worse.
 
+[Considering a performance of _Considering Matthew Shepard_](grinnell-singers-2025-12-07) (Musing #1381)
+
+> Reviews are hard.
+

@@ -1784,3 +1784,7 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Giving Thanks](thanksgiving-2025) (Musing #1378)  
 [College complaints and conspiracies](college-complaints-2025-11-30) (Musing #1379)  
 [Happy Birthday, Love!](michelle-birthday-2025) (Musing #1380)  
+
+## 1381-1390
+
+[Considering a performance of _Considering Matthew Shepard_](grinnell-singers-2025-12-07) (Musing #1381)  
