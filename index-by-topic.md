@@ -4860,6 +4860,10 @@ _A place to gather musings related to my wife, Michelle S. Rebelsky._
 
 > You're so special!
 
+[Fourteen months without Michelle](fourteen-months-michelle) (Musing #1382)
+
+> Let it flow.
+
 Triennial reviews
 -----------------
 

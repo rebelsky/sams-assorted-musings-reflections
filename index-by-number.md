@@ -1788,3 +1788,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 ## 1381-1390
 
 [Considering a performance of _Considering Matthew Shepard_](grinnell-singers-2025-12-07) (Musing #1381)  
+[Fourteen months without Michelle](fourteen-months-michelle) (Musing #1382)  
