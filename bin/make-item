@@ -41,8 +41,8 @@ $document =~ s/\.md$//;
 print <<"ITEM";
     <item>
       <title>Musing #$number: $title</title>
-      <link>https://www.cs.grinnell.edu/~rebelsky/musings/$document</link>
-      <guid>https://www.cs.grinnell.edu/~rebelsky/musings/$document</guid>
+      <link>https://rebelsky.cs.grinnell.edu/musings/$document</link>
+      <guid>https://rebelsky.cs.grinnell.edu/musings/$document</guid>
       <pubDate>$date</pubDate>
       <description>$blurb</description>
     </item>
