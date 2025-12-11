@@ -67,3 +67,7 @@ things I enjoy.*
 
 > Reviews are hard.
 
+[Spoiling _Dark Matter_](dark-matter-review) (Musing #1383)
+
+> Problematic.
+

@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 1381-1390
 
+[Spoiling _Dark Matter_](dark-matter-review) (Musing #1383)  
 [Fourteen months without Michelle](fourteen-months-michelle) (Musing #1382)  
 [Considering a performance of _Considering Matthew Shepard_](grinnell-singers-2025-12-07) (Musing #1381)  
 
