@@ -1790,3 +1790,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Considering a performance of _Considering Matthew Shepard_](grinnell-singers-2025-12-07) (Musing #1381)  
 [Fourteen months without Michelle](fourteen-months-michelle) (Musing #1382)  
 [Spoiling _Dark Matter_](dark-matter-review) (Musing #1383)  
+[Preliminary reflections on my next Tutorial](comic-strips-tutorial-2025-12-11) (Musing #1384)  

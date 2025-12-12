@@ -2445,6 +2445,10 @@ online, but they will soon expand to more general issues about teaching._
 
 > A possible approach
 
+[Preliminary reflections on my next Tutorial](comic-strips-tutorial-2025-12-11) (Musing #1384)
+
+> Comic strips Trump would hate.
+
 Code camps
 ----------
 

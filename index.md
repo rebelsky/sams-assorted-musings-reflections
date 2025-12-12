@@ -10,9 +10,9 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musings:
-[Spoiling _Dark Matter_](dark-matter-review) (Musing #1383),
-[Fourteen months without Michelle](fourteen-months-michelle) (Musing #1382), and
-[Considering a performance of _Considering Matthew Shepard_](grinnell-singers-2025-12-07) (Musing #1381).
+[Preliminary reflections on my next Tutorial](comic-strips-tutorial-2025-12-11) (Musing #1384),
+[Spoiling _Dark Matter_](dark-matter-review) (Musing #1383), and
+[Fourteen months without Michelle](fourteen-months-michelle) (Musing #1382).
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
