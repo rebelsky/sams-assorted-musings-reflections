@@ -3,13 +3,13 @@ title: Spoiling _Dark Matter_
 number: 1383
 tags: [Reviews](index-reviews), insufficiently edited
 blurb: Problematic.
-version: 1.0
+version: 1.0.1
 released: 2025-12-10
-current: 
+current: 2025-12-12
 ---
 _Trigger warnings: Sexual assault, bad science_
 
-A few months ago, I joined the local speculative fiction reading group. It may have started as an SF reading group [1], but it now encompasses a variety of genres, including fantasy, horror, suspense, and magic realism. The books are selected democratically; each fall, everyone can nominate up to three books. Everyone votes for up to five (I think), and the top vote-getters become our reading list for the year. None of my suggestions [2] made it. That's okay; I like having other books to read.
+A few months ago, I joined the local speculative fiction reading group. It may have started as an SF reading group [1], but it now encompasses a variety of genres, including fantasy, horror, suspense, and magic realism. The books are selected democratically; each fall, everyone can nominate up to three books. Everyone votes for up to ten, and the top vote-getters become our reading list for the year. None of my suggestions [2] made it. That's okay; I like having other books to read.
 
 Since I'm still trying to figure out how to write about works of art, my muse suggested that I write about the books I read. She'd encouraged me to write about last month's book before the meeting. I failed. I failed again this month. However, she's convinced me that a post-meeting musing/review is also appropriate.
 
