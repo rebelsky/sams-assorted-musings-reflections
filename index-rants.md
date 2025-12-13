@@ -674,3 +674,7 @@ Rants
 
 > Let's do it properly.
 
+[Curmudgeonly characteristics and their causes](curmudgeon-causes-2025-12-12) (Musing #1385)
+
+> A factor in my personality.
+
