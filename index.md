@@ -10,9 +10,9 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musings:
-[Curmudgeonly characteristics and their causes](curmudgeon-causes-2025-12-12) (Musing #1385),
-[Preliminary reflections on my next Tutorial](comic-strips-tutorial-2025-12-11) (Musing #1384), and
-[Spoiling _Dark Matter_](dark-matter-review) (Musing #1383). 
+[Having fun guest teaching an algorithms course](guest-teaching-csc301-2025-12-13) (Musing #1386),
+[Curmudgeonly characteristics and their causes](curmudgeon-causes-2025-12-12) (Musing #1385), and
+[Preliminary reflections on my next Tutorial](comic-strips-tutorial-2025-12-11) (Musing #1384).
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

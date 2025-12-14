@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 1381-1390
 
+[Having fun guest teaching an algorithms course](guest-teaching-csc301-2025-12-13) (Musing #1386)  
 [Curmudgeonly characteristics and their causes](curmudgeon-causes-2025-12-12) (Musing #1385)  
 [Preliminary reflections on my next Tutorial](comic-strips-tutorial-2025-12-11) (Musing #1384)  
 [Spoiling _Dark Matter_](dark-matter-review) (Musing #1383)  

@@ -1792,3 +1792,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Spoiling _Dark Matter_](dark-matter-review) (Musing #1383)  
 [Preliminary reflections on my next Tutorial](comic-strips-tutorial-2025-12-11) (Musing #1384)  
 [Curmudgeonly characteristics and their causes](curmudgeon-causes-2025-12-12) (Musing #1385)  
+[Having fun guest teaching an algorithms course](guest-teaching-csc301-2025-12-13) (Musing #1386)  

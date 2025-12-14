@@ -2453,6 +2453,10 @@ online, but they will soon expand to more general issues about teaching._
 
 > Comic strips Trump would hate.
 
+[Having fun guest teaching an algorithms course](guest-teaching-csc301-2025-12-13) (Musing #1386)
+
+> The poor students.
+
 Code camps
 ----------
 
