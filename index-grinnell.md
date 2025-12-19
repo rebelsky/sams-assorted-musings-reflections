@@ -527,3 +527,7 @@ Grinnell.
 
 > Or at least conspiracy theories.
 
+[Misusing the term "quantitative reasoning"](quantitative-reasoning-2025-12-19) (Musing #1388)
+
+> Choose better terms.
+

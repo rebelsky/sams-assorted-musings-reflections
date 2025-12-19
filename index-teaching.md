@@ -284,3 +284,7 @@ online, but they will soon expand to more general issues about teaching._
 
 > The poor students.
 
+[Stuff I taught and then forgot](teaching-lessons-2025-12-18) (Musing #1387)
+
+> Evolving perspectives. Or perhaps not.
+

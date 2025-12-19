@@ -1618,6 +1618,10 @@ Rants
 
 > A factor in my personality.
 
+[Misusing the term "quantitative reasoning"](quantitative-reasoning-2025-12-19) (Musing #1388)
+
+> Choose better terms.
+
 Assorted talks and speeches
 ---------------------------
 
@@ -2456,6 +2460,10 @@ online, but they will soon expand to more general issues about teaching._
 [Having fun guest teaching an algorithms course](guest-teaching-csc301-2025-12-13) (Musing #1386)
 
 > The poor students.
+
+[Stuff I taught and then forgot](teaching-lessons-2025-12-18) (Musing #1387)
+
+> Evolving perspectives. Or perhaps not.
 
 Code camps
 ----------
@@ -3666,6 +3674,10 @@ Grinnell.
 [College complaints and conspiracies](college-complaints-2025-11-30) (Musing #1379)
 
 > Or at least conspiracy theories.
+
+[Misusing the term "quantitative reasoning"](quantitative-reasoning-2025-12-19) (Musing #1388)
+
+> Choose better terms.
 
 Registration and Related Topics
 -------------------------------

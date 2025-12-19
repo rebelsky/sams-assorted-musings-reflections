@@ -10,9 +10,9 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musings:
-[Having fun guest teaching an algorithms course](guest-teaching-csc301-2025-12-13) (Musing #1386),
-[Curmudgeonly characteristics and their causes](curmudgeon-causes-2025-12-12) (Musing #1385), and
-[Preliminary reflections on my next Tutorial](comic-strips-tutorial-2025-12-11) (Musing #1384).
+[Misusing the term "quantitative reasoning"](quantitative-reasoning-2025-12-19) (Musing #1388),
+[Stuff I taught and then forgot](teaching-lessons-2025-12-18) (Musing #1387), and
+[Having fun guest teaching an algorithms course](guest-teaching-csc301-2025-12-13) (Musing #1386).
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
