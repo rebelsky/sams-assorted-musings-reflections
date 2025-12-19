@@ -67,7 +67,7 @@ The issue came to a head, at least from my perspective, at last spring's all-fac
 
 When I read that, I lost it. I complained to the President, the Dean, the Chair of the Faculty, others [4]. None of them seems to have understood why I was so upset.
 
-To be clear: Having your subject completely removed from the College's definition of liberal education feels like an attack. Having the bowdlerized version of that definition treated as if it were the actual one compounds the damage.
+To be clear: Having your subject completely removed from the College's definition of liberal education feels like an attack. Having the bowdlerized version of that definition prented as if it were the actual one compounds the damage.
 
 After the retreat, an administrator (one I normally respect highly) sent me an apology. In doing so, they noted that other department names were also removed from the definition. They failed to understand my concern: It's not that my department's name was removed; it's that the modes of thinking computer scientists teach were removed. That's inappropriate. Highly inappropriate.
 
@@ -85,6 +85,6 @@ We need to do better.
 
 [4] Perhaps that was overkill.
 
-[5] Wouldn't it be great if all Grinnell students studied three different languages?
+[5] Wouldn't it be great if all Grinnell students studied three different languages? At least two?
 
 [6] I have undoubtedly forgotten categories of languages and elements of creative arts. I apologize to colleagues in any disciplines I missed. However, I'm not presenting an official document.
