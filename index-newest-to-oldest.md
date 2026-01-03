@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 1381-1390
 
+[A new model of dissertation defense?](dissertation-defense-2026-01-03) (Musing #1389)  
 [Misusing the term "quantitative reasoning"](quantitative-reasoning-2025-12-19) (Musing #1388)  
 [Stuff I taught and then forgot](teaching-lessons-2025-12-18) (Musing #1387)  
 [Having fun guest teaching an algorithms course](guest-teaching-csc301-2025-12-13) (Musing #1386)  

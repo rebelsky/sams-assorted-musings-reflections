@@ -761,3 +761,7 @@ Autobiographical essays, more or less
 
 > Every year. Every day.
 
+[A new model of dissertation defense?](dissertation-defense-2026-01-03) (Musing #1389)
+
+> So many groups of people.
+

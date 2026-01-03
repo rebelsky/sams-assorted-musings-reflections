@@ -1795,3 +1795,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Having fun guest teaching an algorithms course](guest-teaching-csc301-2025-12-13) (Musing #1386)  
 [Stuff I taught and then forgot](teaching-lessons-2025-12-18) (Musing #1387)  
 [Misusing the term "quantitative reasoning"](quantitative-reasoning-2025-12-19) (Musing #1388)  
+[A new model of dissertation defense?](dissertation-defense-2026-01-03) (Musing #1389)  
