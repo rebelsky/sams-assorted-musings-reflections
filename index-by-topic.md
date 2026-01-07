@@ -3942,6 +3942,10 @@ things I enjoy.*
 
 > Problematic.
 
+[A short consideration of _Companion_](companion-review) (Musing #1390)
+
+> Practice reviewing. 
+
 Mixtapes
 --------
 
