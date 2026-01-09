@@ -1,7 +1,7 @@
 ---
 title: Playing _Coup d'état_
 number: 1392
-tags: [Reviews](index-reviews)
+tags: [Reviews](index-reviews), games
 blurb: Good game, weak mind.
 version: 1.0
 released: 2026-01-09
@@ -72,6 +72,32 @@ In any case, it's a game I recommend and that I hope to play again soon. [BoardG
 
 ---
 
+**_Postscript_**: For those of you who don't want to find your own copy, it's pretty easy to play with a regular deck of cards and some Monopoly money (or just a score sheet).
+
+To make the deck, keep only the Ace through Seven cards and one joker. The Joker will serve as the Coup Card.
+
+Here are the hands.
+
+* KH: Don't take the king of hearts [8]. If you do, pay the Director $800. In a coup, take the king of hearts. A successful coup also earns you $600 from each other player.
+* Q: Don't take any queens. If you do, pay the Director $200 for each queen you take. To coup, take all the queens. A successful coup earns you $1000 from each player.
+* S: Don't take any spades. If you do, pay the Director $100 for each spade you take. To coup, take all the spades. A successful coup earns you $1000 from each player.
+* FL: Don't take the first trick or the last trick. If you do, pay the Director $400 for each of those tricks you take. To coup, take the first and the last trick. A successful coup earns you $600 from each player.
+* All: All of the above. To coup, do all of the coups. A successful coup earns you $1500 from each player.
+
+What about failed coups? Those cost you $800. So, it may be worth trying a coup on "All" if you would be likely to take multiple tricks. $800 is less than the up to $3200 is may cost you.
+
+I only listed five hands, didn't I? There's one more hand, but it's not a trick-taking hand. Rather, it's a building tableau, akin to something like _Uno_. The Director picks a starting card and plays it. Other players may build up or down on the sequence by playing the next highest or lowest card. Both directions remain available. Other players may also play a matching starting card. For example, if the Director played a nine of spades, another may play the nine of diamonds. If you can play, you must. And if you play an ace, you may then play as many more cards as you wish. The last player out of cards pays the Director $800. In a coup, you must be the first out of cards.
+
+What else should you know? The coup card is wild. 
+
+That's about it.
+
+There are some additional rules, such as for hidden coups, but you'll need to find a copy of the game to learn those.
+
+Have fun!
+
+---
+
 [1] Men.
 
 [2] Well, I'd purchased an extra copy.
@@ -85,3 +111,5 @@ In any case, it's a game I recommend and that I hope to play again soon. [BoardG
 [6] _Belote_ is a variant of _Clobyosh_, which [I've written about previously](claviash-2020-04-30).
 
 [7] My preferred spelling.
+
+[8] _King of Hearts_ was one of my mother's favorite movies. I should watch again, even though it's sad.
