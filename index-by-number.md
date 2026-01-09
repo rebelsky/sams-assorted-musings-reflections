@@ -1801,3 +1801,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 ## 1391-1400
 
 [Fifteen months without Michelle](fifteen-months-michelle) (Musing #1391)  
+[Playing _Coup d'état_](coup-d-etat-review) (Musing #1392)  

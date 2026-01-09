@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 1391-1400
 
+[Playing _Coup d'état_](coup-d-etat-review) (Musing #1392)  
 [Fifteen months without Michelle](fifteen-months-michelle) (Musing #1391)  
 
 ## 1381-1390

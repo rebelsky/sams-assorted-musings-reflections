@@ -3946,6 +3946,10 @@ things I enjoy.*
 
 > Practice reviewing. 
 
+[Playing _Coup d'état_](coup-d-etat-review) (Musing #1392)
+
+> Good game, weak mind.
+
 Mixtapes
 --------
 
