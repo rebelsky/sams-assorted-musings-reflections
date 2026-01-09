@@ -10,9 +10,9 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musings:
-[A short consideration of _Companion_](companion-review) (Musing #1390),
-[A new model of dissertation defense?](dissertation-defense-2026-01-03) (Musing #1389), and
-[Misusing the term "quantitative reasoning"](quantitative-reasoning-2025-12-19) (Musing #1388).
+[Fifteen months without Michelle](fifteen-months-michelle) (Musing #1391),
+[A short consideration of _Companion_](companion-review) (Musing #1390), and
+[A new model of dissertation defense?](dissertation-defense-2026-01-03) (Musing #1389).
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

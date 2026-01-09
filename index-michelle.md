@@ -115,3 +115,7 @@ _A place to gather musings related to my wife, Michelle S. Rebelsky._
 
 > Let it flow.
 
+[Fifteen months without Michelle](fifteen-months-michelle) (Musing #1391)
+
+> Disjoint thoughts.
+

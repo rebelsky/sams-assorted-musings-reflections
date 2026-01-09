@@ -1797,3 +1797,7 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Misusing the term "quantitative reasoning"](quantitative-reasoning-2025-12-19) (Musing #1388)  
 [A new model of dissertation defense?](dissertation-defense-2026-01-03) (Musing #1389)  
 [A short consideration of _Companion_](companion-review) (Musing #1390)  
+
+## 1391-1400
+
+[Fifteen months without Michelle](fifteen-months-michelle) (Musing #1391)  

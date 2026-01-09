@@ -1,6 +1,10 @@
 Musings, from newest to oldest
 ==============================
 
+## 1391-1400
+
+[Fifteen months without Michelle](fifteen-months-michelle) (Musing #1391)  
+
 ## 1381-1390
 
 [A short consideration of _Companion_](companion-review) (Musing #1390)  
