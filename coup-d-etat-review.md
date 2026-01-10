@@ -3,9 +3,9 @@ title: Playing _Coup d'état_
 number: 1392
 tags: [Reviews](index-reviews), games
 blurb: Good game, weak mind.
-version: 1.0
+version: 1.1
 released: 2026-01-09
-current: 
+current: 2026-01-09
 ---
 Last week, the boys [1] and I played a game of _Coup d'état_. 
 I'd dug out a copy [2] a few months earlier after hearing one of them remark that they recalled it as one of Michelle's favorite games. 
@@ -15,7 +15,7 @@ For those not familiar with the _Coup d'état_ [3], it's a four-player trick-tak
 The [version we play](https://boardgamegeek.com/boardgame/2174/coup-detat) was published by Parker Brothers in the mid-1960s.
 I'm not sure if it existed before then; the rules claim it did, but I take such stories with a grain of salt.
 It also seems odd to make a 33-card deck.
-It also has a designer listed, G. W. "Jerry" D'Arcey, which suggests that it's not just a historical game.
+It also has a designer listed, G. W. "Jerry" D'Arcey [7], which suggests that it's not exactly a historical game.
 
 In any case, _Coup d'état_ is played over four rounds, with each round consisting of six hands. 
 Each hand has a different goal (or penalty). 
@@ -68,7 +68,7 @@ In any case, it's a game I recommend and that I hope to play again soon. [BoardG
 
 ---
 
-**_Postscript_**: I hope to convince Eldest to play _Claviash_ [7] or _Belote_ with me to help rebuild those brain cells.
+**_Postscript_**: I hope to convince Eldest to play _Claviash_ [8] or _Belote_ with me to help rebuild those brain cells.
 
 ---
 
@@ -78,7 +78,7 @@ To make the deck, keep only the Ace through Seven cards and one joker. The Joker
 
 Here are the hands.
 
-* KH: Don't take the king of hearts [8]. If you do, pay the Director $800. In a coup, take the king of hearts. A successful coup also earns you $600 from each other player.
+* KH: Don't take the king of hearts [9]. If you do, pay the Director $800. In a coup, take the king of hearts. A successful coup also earns you $600 from each other player.
 * Q: Don't take any queens. If you do, pay the Director $200 for each queen you take. To coup, take all the queens. A successful coup earns you $1000 from each player.
 * S: Don't take any spades. If you do, pay the Director $100 for each spade you take. To coup, take all the spades. A successful coup earns you $1000 from each player.
 * FL: Don't take the first trick or the last trick. If you do, pay the Director $400 for each of those tricks you take. To coup, take the first and the last trick. A successful coup earns you $600 from each player.
@@ -110,6 +110,8 @@ Have fun!
 
 [6] _Belote_ is a variant of _Clobyosh_, which [I've written about previously](claviash-2020-04-30).
 
-[7] My preferred spelling.
+[7] D'Arcey also designed the legendardy _Blockhead_ block stacking game. He's listed as a designer of _Regatta_, which makes me think that he's also a designer of _Yacht Race_, one of my favorite games.
 
-[8] _King of Hearts_ was one of my mother's favorite movies. I should watch again, even though it's sad.
+[8] My preferred spelling.
+
+[9] _King of Hearts_ was one of my mother's favorite movies. I should watch again, even though it's sad.
