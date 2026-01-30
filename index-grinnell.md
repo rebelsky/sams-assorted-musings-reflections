@@ -531,3 +531,7 @@ Grinnell.
 
 > Choose better terms.
 
+[Liberal education, the liberal arts, and liberal arts education](liberal-education-2026-01-29) (Musing #1393)
+
+> Liberating.
+

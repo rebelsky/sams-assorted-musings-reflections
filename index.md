@@ -10,9 +10,9 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musings:
-[Playing _Coup d'état_](coup-d-etat-review) (Musing #1392), 
-[Fifteen months without Michelle](fifteen-months-michelle) (Musing #1391), and
-[A short consideration of _Companion_](companion-review) (Musing #1390).
+[Liberal education, the liberal arts, and liberal arts education](liberal-education-2026-01-29) (Musing #1393),
+[Playing _Coup d'état_](coup-d-etat-review) (Musing #1392), and
+[Fifteen months without Michelle](fifteen-months-michelle) (Musing #1391).
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
