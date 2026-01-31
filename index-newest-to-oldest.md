@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 1391-1400
 
+[Leaving my name on the list](cof-2026-01-30) (Musing #1394)  
 [Liberal education, the liberal arts, and liberal arts education](liberal-education-2026-01-29) (Musing #1393)  
 [Playing _Coup d'état_](coup-d-etat-review) (Musing #1392)  
 [Fifteen months without Michelle](fifteen-months-michelle) (Musing #1391)  

@@ -3683,6 +3683,10 @@ Grinnell.
 
 > Liberating.
 
+[Leaving my name on the list](cof-2026-01-30) (Musing #1394)
+
+> Was that a bad decision?
+
 Registration and Related Topics
 -------------------------------
 
