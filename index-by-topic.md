@@ -4916,6 +4916,10 @@ _A place to gather musings related to my wife, Michelle S. Rebelsky._
 
 > Disjoint thoughts.
 
+[Sixteen months without Michelle](sixteen-months-michelle) (Musing #1395)
+
+> Continuing the series
+
 Triennial reviews
 -----------------
 
