@@ -10,9 +10,9 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musings:
-[Sixteen months without Michelle](sixteen-months-michelle) (Musing #1395),
-[Leaving my name on the list](cof-2026-01-30) (Musing #1394), and
-[Liberal education, the liberal arts, and liberal arts education](liberal-education-2026-01-29) (Musing #1393).
+[Seventeen months without Michelle](seventeen-months-michelle) (Musing #1396),
+[Sixteen months without Michelle](sixteen-months-michelle) (Musing #1395), and
+[Leaving my name on the list](cof-2026-01-30) (Musing #1394). 
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

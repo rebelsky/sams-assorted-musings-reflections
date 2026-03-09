@@ -4920,6 +4920,10 @@ _A place to gather musings related to my wife, Michelle S. Rebelsky._
 
 > Continuing the series
 
+[Seventeen months without Michelle](seventeen-months-michelle) (Musing #1396)
+
+> Both better and worse.
+
 Triennial reviews
 -----------------
 
