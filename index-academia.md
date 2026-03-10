@@ -137,3 +137,7 @@ On life in academia
 
 > Perhaps I should say "identities".
 
+[Revising The Faculty Handbook](faculty-handbook-2026-03-09) (Musing #1397)
+
+> Complications.
+

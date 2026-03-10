@@ -1820,6 +1820,10 @@ On life in academia
 
 > Perhaps I should say "identities".
 
+[Revising The Faculty Handbook](faculty-handbook-2026-03-09) (Musing #1397)
+
+> Complications.
+
 Thank-You Notes
 ---------------
 
@@ -3686,6 +3690,10 @@ Grinnell.
 [Leaving my name on the list](cof-2026-01-30) (Musing #1394)
 
 > Was that a bad decision?
+
+[Revising The Faculty Handbook](faculty-handbook-2026-03-09) (Musing #1397)
+
+> Complications.
 
 Registration and Related Topics
 -------------------------------

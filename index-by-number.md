@@ -1806,3 +1806,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Leaving my name on the list](cof-2026-01-30) (Musing #1394)  
 [Sixteen months without Michelle](sixteen-months-michelle) (Musing #1395)  
 [Seventeen months without Michelle](seventeen-months-michelle) (Musing #1396)  
+[Revising The Faculty Handbook](faculty-handbook-2026-03-09) (Musing #1397)  

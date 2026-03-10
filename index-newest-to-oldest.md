@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 1391-1400
 
+[Revising The Faculty Handbook](faculty-handbook-2026-03-09) (Musing #1397)  
 [Seventeen months without Michelle](seventeen-months-michelle) (Musing #1396)  
 [Sixteen months without Michelle](sixteen-months-michelle) (Musing #1395)  
 [Leaving my name on the list](cof-2026-01-30) (Musing #1394)  

@@ -539,3 +539,7 @@ Grinnell.
 
 > Was that a bad decision?
 
+[Revising The Faculty Handbook](faculty-handbook-2026-03-09) (Musing #1397)
+
+> Complications.
+

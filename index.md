@@ -10,9 +10,9 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musings:
-[Seventeen months without Michelle](seventeen-months-michelle) (Musing #1396),
-[Sixteen months without Michelle](sixteen-months-michelle) (Musing #1395), and
-[Leaving my name on the list](cof-2026-01-30) (Musing #1394). 
+[Revising The Faculty Handbook](faculty-handbook-2026-03-09) (Musing #1397),
+[Seventeen months without Michelle](seventeen-months-michelle) (Musing #1396), and
+[Sixteen months without Michelle](sixteen-months-michelle) (Musing #1395). 
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
