@@ -682,3 +682,7 @@ Rants
 
 > Choose better terms.
 
+[Where does institutional knowledge reside?](institutional-knowledge-2026-03-13) (Musing #1398)
+
+> Hidden policies and procedures.
+

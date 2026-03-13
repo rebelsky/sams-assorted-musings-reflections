@@ -1622,6 +1622,10 @@ Rants
 
 > Choose better terms.
 
+[Where does institutional knowledge reside?](institutional-knowledge-2026-03-13) (Musing #1398)
+
+> Hidden policies and procedures.
+
 Assorted talks and speeches
 ---------------------------
 
@@ -3694,6 +3698,10 @@ Grinnell.
 [Revising The Faculty Handbook](faculty-handbook-2026-03-09) (Musing #1397)
 
 > Complications.
+
+[Where does institutional knowledge reside?](institutional-knowledge-2026-03-13) (Musing #1398)
+
+> Hidden policies and procedures.
 
 Registration and Related Topics
 -------------------------------
