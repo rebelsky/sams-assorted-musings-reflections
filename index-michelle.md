@@ -127,3 +127,7 @@ _A place to gather musings related to my wife, Michelle S. Rebelsky._
 
 > Both better and worse.
 
+[Corned beef and cabbage](saint-patricks-day-2026) (Musing #1399)
+
+> Happy Saint Patrick's Day!
+

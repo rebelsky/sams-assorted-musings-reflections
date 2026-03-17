@@ -10,9 +10,9 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musings:
-[Where does institutional knowledge reside?](institutional-knowledge-2026-03-13) (Musing #1398), 
-[Revising The Faculty Handbook](faculty-handbook-2026-03-09) (Musing #1397), and
-[Seventeen months without Michelle](seventeen-months-michelle) (Musing #1396). 
+[Corned beef and cabbage](saint-patricks-day-2026) (Musing #1399), 
+[Where does institutional knowledge reside?](institutional-knowledge-2026-03-13) (Musing #1398),  and
+[Revising The Faculty Handbook](faculty-handbook-2026-03-09) (Musing #1397).
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
