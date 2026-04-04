@@ -1,11 +1,11 @@
 ---
 title: An AIIAP (Artificial Intelligence Individual Action Plan)
 number: 1351
-tags: [Autobiographical](index-autobiographical), unedited
+tags: [Technology](index-technology), [Autobiographical](index-autobiographical), unedited
 blurb: IA stands for so many things
-version: 1.0.1
+version: 1.0.2
 released: 2025-06-12 
-current: 2026-06-12
+current: 2026-04-04
 ---
 Last week, I was in a workshop entitled "What does AI mean?" It's a workshop in which we're spending more time thinking through questions than developing or hearing answers. The goal is to bring people together from across campus to discuss the implications and possibilities of generative AI [1].
 
