@@ -3,9 +3,9 @@ title: Attempting to restore my MacBook
 number: 1348
 tags: [Technology](index-technology)
 blurb: I hate computers.
-version: 1.0
+version: 1.0.1
 released: 2025-05-24
-current: 
+current: 2026-04-04
 ---
 
 <img src="images/duo-os-not-allowed.png" width=600 alt="A sign-in window with DUO and Grinnell College logos that reads 'Operating system not allowed' and 'Your organization requires you to use a different operating system'">
