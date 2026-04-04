@@ -2565,6 +2565,10 @@ to/from past musings._
 
 > IA stands for so many things
 
+[Exploring Craft.do](craft.do) (Musing #1373)
+
+> Fairly nice software.
+
 Don't embarass me; don't embarass yourself: Some notes on thinking in C and Unix
 --------------------------------------------------------------------------------
 

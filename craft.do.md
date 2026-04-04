@@ -1,11 +1,11 @@
 ---
 title: Exploring Craft.do
 number: 1373
-tags: [Reviews](index-reviews)
+tags: [Reviews](index-reviews), [Technology](index-technology)
 blurb: Fairly nice software.
-version: 1.0
+version: 1.0.1
 released: 2025-10-23
-current: 
+current: 2026-04-04
 ---
 As long-time readers know, I struggle to keep track of, let alone manage, all the outstanding tasks I have. Memory isn't enough! (Particularly these days.) I've tried a variety of approaches, including paper notebooks, index cards, computerized text files, and software (including Todoist). Nothing quite worked the way I wanted.
 
