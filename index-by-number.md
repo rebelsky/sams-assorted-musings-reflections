@@ -1814,3 +1814,7 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Where does institutional knowledge reside?](institutional-knowledge-2026-03-13) (Musing #1398)  
 [Corned beef and cabbage](saint-patricks-day-2026) (Musing #1399)  
 [Fourteen-hundred musings (more or less)](fourteen-hundred-musings) (Musing #1400)  
+
+## 1401-1410
+
+[Special topics courses, Fall 2026](special-topics-2026Fa) (Musing #1401)  

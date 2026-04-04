@@ -1,6 +1,10 @@
 Musings, from newest to oldest
 ==============================
 
+## 1401-1410
+
+[Special topics courses, Fall 2026](special-topics-2026Fa) (Musing #1401)  
+
 ## 1391-1400
 
 [Fourteen-hundred musings (more or less)](fourteen-hundred-musings) (Musing #1400)  

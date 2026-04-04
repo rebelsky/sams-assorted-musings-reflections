@@ -547,3 +547,7 @@ Grinnell.
 
 > Hidden policies and procedures.
 
+[Special topics courses, Fall 2026](special-topics-2026Fa) (Musing #1401)
+
+> Is there a list somewhere? 
+

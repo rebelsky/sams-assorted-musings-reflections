@@ -3719,6 +3719,10 @@ Grinnell.
 
 > Hidden policies and procedures.
 
+[Special topics courses, Fall 2026](special-topics-2026Fa) (Musing #1401)
+
+> Is there a list somewhere? 
+
 Registration and Related Topics
 -------------------------------
 
@@ -3857,6 +3861,10 @@ the registration process at Grinnell.*
 [Preregistration for Spring 2026](prereg-2026Sp) (Musing #1377)
 
 > Returning to the series
+
+[Special topics courses, Fall 2026](special-topics-2026Fa) (Musing #1401)
+
+> Is there a list somewhere? 
 
 A letter to the incoming chair
 ------------------------------
