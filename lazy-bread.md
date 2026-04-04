@@ -1,11 +1,11 @@
 ---
 title: Lazy bread
 number: 1365
-tags: [Miscellaneous](index-misc)
+tags: [Food](index-food)
 blurb: 'Some call it "no knead". I call it "lazy".'
 version: 1.0
 released: 2025-08-31
-current: 
+current: 2026-04-04
 ---
 
 

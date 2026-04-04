@@ -6012,17 +6012,9 @@ Almost everything else
 
 > One of the many things that occupies my thoughts.
 
-[Making bagels](bagels-2025-02-09) (Musing #1335)
-
-> A family tradition.
-
 [Israel and Palestine](israel-palestine) (Musing #1358)
 
 > There's nothing I can do.
-
-[Lazy bread](lazy-bread) (Musing #1365)
-
-> 'Some call it "no knead". I call it "lazy".'
 
 [No Kings! (No dictators, either!)](no-kings-2025-fall) (Musing #1372)
 
@@ -6057,4 +6049,17 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 My critiques, while accurate, were not appropriate, particularly given
 that the people building the site were doing so with the best intentions.
 I will likely address some of the details of that essay in a future essay.
+
+Food
+----
+
+_A place to gather musings related to my food_
+
+[Making bagels](bagels-2025-02-09) (Musing #1335)
+
+> A family tradition.
+
+[Lazy bread](lazy-bread) (Musing #1365)
+
+> 'Some call it "no knead". I call it "lazy".'
 

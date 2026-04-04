@@ -53,7 +53,8 @@ Latest musings:
 * [Autobiographical essays, more or less](index-autobiographical)
 * [Some of SamR's obsessions](index-obsessions)
 * [Tales of Tchotchkes](index-tchotchkes)
-* [technology (traditionally troublesome)](index-technology)
+* [Food](index-food)
+* [Technology (traditionally troublesome)](index-technology)
 * [ROF musings](index-rof)
 * [Almost everything else](index-misc)
 

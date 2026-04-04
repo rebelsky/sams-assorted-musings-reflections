@@ -97,7 +97,8 @@ INDICES = index-by-topic-head.md \
         index-generative-ai.md \
 	index-misc.md \
         index-multiple-entries.md \
-	index-removed.md 
+	index-removed.md \
+        index-food.md
 
 index-by-topic.md: $(INDICES)
 	cat $^ | sed -e '2!s/=/-/g' > $@

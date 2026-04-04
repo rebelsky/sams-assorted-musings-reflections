@@ -898,17 +898,9 @@ Almost everything else
 
 > One of the many things that occupies my thoughts.
 
-[Making bagels](bagels-2025-02-09) (Musing #1335)
-
-> A family tradition.
-
 [Israel and Palestine](israel-palestine) (Musing #1358)
 
 > There's nothing I can do.
-
-[Lazy bread](lazy-bread) (Musing #1365)
-
-> 'Some call it "no knead". I call it "lazy".'
 
 [No Kings! (No dictators, either!)](no-kings-2025-fall) (Musing #1372)
 
