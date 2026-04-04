@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 1391-1400
 
+[Fourteen-hundred musings (more or less)](fourteen-hundred-musings) (Musing #1400)  
 [Corned beef and cabbage](saint-patricks-day-2026) (Musing #1399)  
 [Where does institutional knowledge reside?](institutional-knowledge-2026-03-13) (Musing #1398)  
 [Revising The Faculty Handbook](faculty-handbook-2026-03-09) (Musing #1397)  

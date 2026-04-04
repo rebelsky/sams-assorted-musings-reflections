@@ -246,3 +246,7 @@ be found in [the list of musings on writing](index-on-writing)._
 
 > Gni muser?
 
+[Fourteen-hundred musings (more or less)](fourteen-hundred-musings) (Musing #1400)
+
+> So many! Or so few?
+
