@@ -2553,6 +2553,10 @@ to/from past musings._
 
 > "Give comprehensive and thorough evaluations of computer systems and their impacts, including analysis of possible risks."
 
+[QR codes](qrcodes-2025-02-04) (Musing #1332)
+
+> Why?
+
 [Attempting to restore my MacBook](macbook-restore-2025-05-21) (Musing #1348)
 
 > I hate computers.
