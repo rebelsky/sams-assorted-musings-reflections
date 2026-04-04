@@ -2171,7 +2171,7 @@ Overcommitment
 
 > As always.
 
-[My heck week (Spring 2025)](heck-week-2025-spring) (Musing #1041)
+[My heck week (Spring 2025)](heck-week-2025-spring) (Musing #1341)
 
 > Or just week seven.
 

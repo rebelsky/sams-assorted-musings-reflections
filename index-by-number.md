@@ -1736,6 +1736,10 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Everyday tasks](everyday-tasks-2025-02-23) (Musing #1338)  
 [Supporting the six pillars of the liberal arts](tdps-2025-02-25) (Musing #1339)  
 [Trying to do too much](overcommitment-2025-03-06) (Musing #1340)  
+
+## 1341-1350
+
+[My heck week (Spring 2025)](heck-week-2025-spring) (Musing #1341)  
 [Marie Kondo vs. Sam Rebelsky](marie-kondo-2025-03-20) (Musing #1342)  
 [GrinnBooks](grinnbooks-2025-03-22) (Musing #1343)  
 [An unsuccessful (or perhaps successful) spring break](spring-break-2025) (Musing #1344)  
