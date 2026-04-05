@@ -3,17 +3,32 @@ title: Special topics courses, Fall 2026
 number: 1401
 tags: [Registration](index-registration), [Grinnell](index-grinnell), Data
 blurb: Is there a list somewhere? 
-version: 1.0
+version: 1.1
 released: 2026-04-04
-current: 
+current: 2026-04-04
 ---
+
 We're currently wrapping up pre-pre-registration for Fall 2026 at Grinnell. That is, we're finishing the time in which returning students work with their advisors to make their preliminary course plans for the fall. Next week, students will click the **Register** buttons to make their preliminary registrations. Why preliminary? Because Grinnell still has students register for courses to show interest and then cuts down the over-enrolled courses (or, if possible, adds other sections).
 
-Back in the day, the Registrar's office would distribute a list of special topics courses for each semester. I relished that list as an opportunity to talk to students about things they might consider outside their major. At some point, they stopped doing so. It doesn't look like one can check [the search courses tool](https://colss-prod.ec.grinnell.edu/Student/Courses) for courses offered in a particular semester. I suppose the only approach is to use [the full list of classes](https://odsstu.grinnell.edu/reports/report/RGS/Catalog%20and%20Courses/Course**Offering**0007) [1] and then gather additional information from elsewhere.
+Back in the day, the Registrar's office would distribute a list of special topics courses for each semester. I relished that list as an opportunity to talk to students about things they might consider outside their major. At some point, they stopped doing so. It doesn't look like one can check [the search courses tool](https://colss-prod.ec.grinnell.edu/Student/Courses) for courses offered in a particular semester. I suppose the only approach is to use [the full list of classes](https://odsstu.grinnell.edu/reports/report/RGS/Catalog%20and%20Courses/Course**Offering**0007) [2] and then gather additional information from elsewhere.
+
+---
+
+_Added after publication._
+
+It appears that I'm insufficiently competent at using technology. Dean Feingold tells me that the bottom of [the search courses tool](https://colss-prod.ec.grinnell.edu/Student/Courses) has a "Course Type" field, and that includes "Special Topics". Who knew? [1] 
+
+A colleague also suggested using the "Search for courses" field on that page. I had worried that you could not limit your search to a particular semester, but it appears you can do so on the following page. 
+
+I suppose this is the last time I'll need to write this type of musing.
+
+For now, you might still choose to read on since I've presented the information in one, convenient document. Or you can just search yourself.
+
+---
 
 Here goes! Apologies in advance to those teaching any courses I inadvertently left out. Courses should be four credits unless noted otherwise (at the end of the description), but I make no guarantees of correctness.
 
-ADS-195-01, **ST: Intro African Diaspora Studies**, TuTh 1:10--2:30 PM [2]
+ADS-195-01, **ST: Intro African Diaspora Studies**, TuTh 1:10--2:30 PM [3]
 
 > Introductory Special Topic: Introduction to African Diaspora Studies. This course introduces students to the key questions, concepts, approaches, and problems in African Diaspora Studies. It centers the varied histories, experiences, ideas, and creativity of people of African descent around the world. Exploring the changing meanings of Africa and Blackness across time, the course examines the formation of race in different contexts. Students analyze how race, ethnicity, gender, sexuality, kinship, class, age, and geography shape culture, ritual, ideology, and politics through an interdisciplinary lens. _Prerequisite: None._
 
@@ -222,7 +237,9 @@ Good luck to all the students putting together their schedules. Make sure to loo
 
 ---
 
-[1] Login required.
+[1] Apparently she did.
 
-[2] If you are wondering about some of the "strange" timeslots, the faculty voted to update the timeslots this year to fit in another 2x80 (or 3x80) slot on MWF.
+[2] Login required.
+
+[3] If you are wondering about some of the "strange" timeslots, the faculty voted to update the timeslots this year to fit in another 2x80 (or 3x80) slot on MWF.
 
