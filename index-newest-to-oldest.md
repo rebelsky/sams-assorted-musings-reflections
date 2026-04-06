@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 1401-1410
 
+[Adobe idiocies](adobe-idiocies-2026-04-05) (Musing #1402)  
 [Special topics courses, Fall 2026](special-topics-2026Fa) (Musing #1401)  
 
 ## 1391-1400

@@ -1630,6 +1630,10 @@ Rants
 
 > Hidden policies and procedures.
 
+[Adobe idiocies](adobe-idiocies-2026-04-05) (Musing #1402)
+
+> Who knew that letters could have cases?
+
 Assorted talks and speeches
 ---------------------------
 
@@ -2572,6 +2576,10 @@ to/from past musings._
 [Exploring Craft.do](craft.do) (Musing #1373)
 
 > Fairly nice software.
+
+[Adobe idiocies](adobe-idiocies-2026-04-05) (Musing #1402)
+
+> Who knew that letters could have cases?
 
 Don't embarass me; don't embarass yourself: Some notes on thinking in C and Unix
 --------------------------------------------------------------------------------

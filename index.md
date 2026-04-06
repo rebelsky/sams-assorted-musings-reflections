@@ -10,9 +10,9 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musings:
+[Adobe idiocies](adobe-idiocies-2026-04-05) (Musing #1402), and
 [Special topics courses, Fall 2026](special-topics-2026Fa) (Musing #1401),
-[Fourteen-hundred musings (more or less)](fourteen-hundred-musings) (Musing #1400), and
-[Corned beef and cabbage](saint-patricks-day-2026) (Musing #1399).
+[Fourteen-hundred musings (more or less)](fourteen-hundred-musings) (Musing #1400). 
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

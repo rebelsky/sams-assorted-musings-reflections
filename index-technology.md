@@ -37,3 +37,7 @@ to/from past musings._
 
 > Fairly nice software.
 
+[Adobe idiocies](adobe-idiocies-2026-04-05) (Musing #1402)
+
+> Who knew that letters could have cases?
+

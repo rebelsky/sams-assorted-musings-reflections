@@ -1818,3 +1818,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 ## 1401-1410
 
 [Special topics courses, Fall 2026](special-topics-2026Fa) (Musing #1401)  
+[Adobe idiocies](adobe-idiocies-2026-04-05) (Musing #1402)  
