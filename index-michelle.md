@@ -131,3 +131,7 @@ _A place to gather musings related to my wife, Michelle S. Rebelsky._
 
 > Happy Saint Patrick's Day!
 
+[One and a half years without Michelle](eighteen-months-michelle) (Musing #1403)
+
+> Inarticulate.
+
