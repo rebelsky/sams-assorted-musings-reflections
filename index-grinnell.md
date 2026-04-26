@@ -551,3 +551,7 @@ Grinnell.
 
 > Is there a list somewhere? 
 
+[Celebrating with students](celebrating-with-students-2026-04-24) (Musing #1404)
+
+> Joyful!
+
