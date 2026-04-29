@@ -4847,6 +4847,10 @@ Autobiographical essays, more or less
 
 > So many groups of people.
 
+[Addicted to vinyl?](addicted-to-vinyl-2026-04-29) (Musing #1405)
+
+> Revisiting old addictions.
+
 Michelle
 --------
 

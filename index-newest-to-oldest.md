@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 1401-1410
 
+[Addicted to vinyl?](addicted-to-vinyl-2026-04-29) (Musing #1405)  
 [Celebrating with students](celebrating-with-students-2026-04-24) (Musing #1404)  
 [One and a half years without Michelle](eighteen-months-michelle) (Musing #1403)  
 [Adobe idiocies](adobe-idiocies-2026-04-05) (Musing #1402)  
