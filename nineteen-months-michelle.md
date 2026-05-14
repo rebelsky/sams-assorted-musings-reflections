@@ -34,3 +34,4 @@ Yeah, that's all I can write today. Perhaps things will be better in another mon
 ---
 
 **_Postscript_**: Upon reflection, I suppose that parts of this could be read as suggesting that I don't want to continue to live. Don't worry; I'm doing my best to keep myself alive, not only for my kids, but also for myself.
+
