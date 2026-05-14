@@ -1822,3 +1822,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [One and a half years without Michelle](eighteen-months-michelle) (Musing #1403)  
 [Celebrating with students](celebrating-with-students-2026-04-24) (Musing #1404)  
 [Addicted to vinyl?](addicted-to-vinyl-2026-04-29) (Musing #1405)  
+[Nineteen months without Michelle](nineteen-months-michelle) (Musing #1406)  

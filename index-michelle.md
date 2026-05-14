@@ -135,3 +135,7 @@ _A place to gather musings related to my wife, Michelle S. Rebelsky._
 
 > Inarticulate.
 
+[Nineteen months without Michelle](nineteen-months-michelle) (Musing #1406)
+
+> Things sometimes get worse before they get better.
+

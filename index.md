@@ -10,9 +10,9 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musings:
-[Addicted to vinyl?](addicted-to-vinyl-2026-04-29) (Musing #1405),
-[Celebrating with students](celebrating-with-students-2026-04-24) (Musing #1404), and
-[One and a half years without Michelle](eighteen-months-michelle) (Musing #1403).
+[Nineteen months without Michelle](nineteen-months-michelle) (Musing #1406),
+[Addicted to vinyl?](addicted-to-vinyl-2026-04-29) (Musing #1405), and
+[Celebrating with students](celebrating-with-students-2026-04-24) (Musing #1404).
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
