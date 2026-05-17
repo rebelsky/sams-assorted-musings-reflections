@@ -3735,6 +3735,10 @@ Grinnell.
 
 > Joyful!
 
+[Judging the 2026 Titular Head competition](judging-titular-head-2026) (Musing #1407)
+
+> More a success than a mistake.
+
 Registration and Related Topics
 -------------------------------
 
