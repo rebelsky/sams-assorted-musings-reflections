@@ -1,11 +1,11 @@
 ---
 title: Twenty months without Michelle
-number: 
+number: NNNN
 tags: [Michelle](index-michelle)
-blurb: 
-version: 
-released: 
-current: 
+blurb: Responding with mediocre poetry.
+version: 0.1
+released: 2026-06-08
+current: 2026-05-17
 ---
 After reading last month's musing, one of my friends asked whether it was productive to keep track of these annivesaries. I think they were really asking two different things: Should I really need to know how many months it's been since Michelle passed away and should I really mark each anniversary with a music.
 
@@ -16,3 +16,17 @@ Marking the anniversaries is unavoidable. When the 8th of a month rolls around, 
 Do I need to muse about it? Probably not. However, ...
 
 It's also hard because people my age (or about my age) seem to be losing spouses at an ever-increasing rate, including two in the last two months. While neither the survivors nor their spouses were close friends, they are people I knew well enough to chat with on the street, our kids know each other, and we share interests. Michelle and I regularly saw one couple at Des Moines Performing Arts. The other couple incuded someone even more addicted to vinyl than I am.
+
+Mediocre "poem"
+
+I miss you
+
+I miss you lots and lots
+
+And even more
+
+I miss you as I go to bed, alone
+
+I miss you when I wake again
+
+I miss you when …
