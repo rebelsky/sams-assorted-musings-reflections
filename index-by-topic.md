@@ -3739,6 +3739,10 @@ Grinnell.
 
 > More a success than a mistake.
 
+[Graduation 2026](graduation-2026) (Musing #1408)
+
+> Another year passes.
+
 Registration and Related Topics
 -------------------------------
 
