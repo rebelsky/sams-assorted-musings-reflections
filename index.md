@@ -10,9 +10,9 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musings:
-[Graduation 2026](graduation-2026) (Musing #1408),
-[Judging the 2026 Titular Head competition](judging-titular-head-2026) (Musing #1407), and
-[Nineteen months without Michelle](nineteen-months-michelle) (Musing #1406).
+[Grading proofs](grading-proofs-2026-05-20) (Musing #1409),
+[Graduation 2026](graduation-2026) (Musing #1408), and
+[Judging the 2026 Titular Head competition](judging-titular-head-2026) (Musing #1407).
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

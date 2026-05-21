@@ -288,3 +288,7 @@ online, but they will soon expand to more general issues about teaching._
 
 > Evolving perspectives. Or perhaps not.
 
+[Grading proofs](grading-proofs-2026-05-20) (Musing #1409)
+
+> One of my least favorite aspects of teaching.
+

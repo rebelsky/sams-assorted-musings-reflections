@@ -1825,3 +1825,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Nineteen months without Michelle](nineteen-months-michelle) (Musing #1406)  
 [Judging the 2026 Titular Head competition](judging-titular-head-2026) (Musing #1407)  
 [Graduation 2026](graduation-2026) (Musing #1408)  
+[Grading proofs](grading-proofs-2026-05-20) (Musing #1409)  
