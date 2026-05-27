@@ -292,3 +292,7 @@ online, but they will soon expand to more general issues about teaching._
 
 > One of my least favorite aspects of teaching.
 
+[Academic integrity in an age of LLMs](academic-honesty-llms-2026-05-26) (Musing #1410)
+
+> Even more complicated than before.
+
