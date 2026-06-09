@@ -19,7 +19,7 @@ This has been a strange month. I started the month in somewhat uncontrollable so
 
 It didn't help that people my age (or about my age) seemed to be losing spouses at an ever-increasing rate, including two in the last two months. While neither the survivors nor their spouses were close friends, they are people I knew well enough to chat with on the street, our kids know each other, and we share interests. Michelle and I regularly saw one couple at Des Moines Performing Arts. The other couple included someone even more addicted to vinyl than I am. I hate to welcome them to the community of people who lost their partners too young [3].
 
-Although the month started poorly, something shifted midway through the month. Maybe it was that I finished teaching for the semester and therefore was less stressed. Maybe it was that we had graduation and reunion, so I got to celebrate with people I care about. Maybe it was that Middle Son returned home to visit, along with his SO. Maybe it's that I got the house a bit straighter. 
+Although the month started poorly, something shifted midway through the month. Maybe it was that I finished teaching for the semester and therefore was less stressed. Maybe it was that we had graduation and reunion, so I got to celebrate with people I care about. Maybe it was that Middle Son returned home to visit, along with his awesome SO. Maybe it's that I got the house a bit straighter. 
 
 In any case, something shifted, and I'm no longer falling apart. I wouldn't say that I'm great. But I'm OK. I cry, but not too much. And I cry about sensible things, such as knowing that Michelle will never meet Middle's SO. I miss her. I always will. But I can bear her absence. At least I can bear it for the time being.
 
