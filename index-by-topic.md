@@ -5008,6 +5008,10 @@ _A place to gather musings related to my wife, Michelle S. Rebelsky._
 
 > Things sometimes get worse before they get better.
 
+[Twenty months without Michelle](twenty-months-michelle) (Musing #1411)
+
+> Coping better.
+
 Triennial reviews
 -----------------
 

@@ -10,9 +10,9 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musings:
-[Academic integrity in an age of LLMs](academic-honesty-llms-2026-05-26) (Musing #1410),
-[Grading proofs](grading-proofs-2026-05-20) (Musing #1409), and
-[Graduation 2026](graduation-2026) (Musing #1408).
+[Twenty months without Michelle](twenty-months-michelle) (Musing #1411),
+[Academic integrity in an age of LLMs](academic-honesty-llms-2026-05-26) (Musing #1410), and
+[Grading proofs](grading-proofs-2026-05-20) (Musing #1409).
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

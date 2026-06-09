@@ -1,6 +1,10 @@
 Musings, from newest to oldest
 ==============================
 
+## 1411-1420
+
+[Twenty months without Michelle](twenty-months-michelle) (Musing #1411)  
+
 ## 1401-1410
 
 [Academic integrity in an age of LLMs](academic-honesty-llms-2026-05-26) (Musing #1410)  
