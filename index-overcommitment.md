@@ -298,3 +298,7 @@ Overcommitment
 
 > Another busy day.
 
+[Reviving the summer research kickoff picnic](summer-research-picnic-2026) (Musing #1412)
+
+> Someone has to do it.
+

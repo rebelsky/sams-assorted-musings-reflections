@@ -2191,6 +2191,10 @@ Overcommitment
 
 > Another busy day.
 
+[Reviving the summer research kickoff picnic](summer-research-picnic-2026) (Musing #1412)
+
+> Someone has to do it.
+
 On teaching 
 -----------
 
@@ -3750,6 +3754,10 @@ Grinnell.
 [Graduation 2026](graduation-2026) (Musing #1408)
 
 > Another year passes.
+
+[Reviving the summer research kickoff picnic](summer-research-picnic-2026) (Musing #1412)
+
+> Someone has to do it.
 
 Registration and Related Topics
 -------------------------------

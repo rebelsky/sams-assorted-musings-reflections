@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 1411-1420
 
+[Reviving the summer research kickoff picnic](summer-research-picnic-2026) (Musing #1412)  
 [Twenty months without Michelle](twenty-months-michelle) (Musing #1411)  
 
 ## 1401-1410

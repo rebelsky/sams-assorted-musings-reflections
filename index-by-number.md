@@ -1831,3 +1831,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 ## 1411-1420
 
 [Twenty months without Michelle](twenty-months-michelle) (Musing #1411)  
+[Reviving the summer research kickoff picnic](summer-research-picnic-2026) (Musing #1412)  
