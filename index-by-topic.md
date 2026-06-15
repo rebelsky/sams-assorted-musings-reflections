@@ -4875,6 +4875,10 @@ Autobiographical essays, more or less
 
 > Revisiting old addictions.
 
+[Infernally childish](infernal-2026-06-14) (Musing #1413)
+
+> Or is it childishly infernal?
+
 Michelle
 --------
 

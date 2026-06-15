@@ -10,9 +10,9 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musings:
-[Reviving the summer research kickoff picnic](summer-research-picnic-2026) (Musing #1412),
-[Twenty months without Michelle](twenty-months-michelle) (Musing #1411), and
-[Academic integrity in an age of LLMs](academic-honesty-llms-2026-05-26) (Musing #1410).
+[Infernally childish](infernal-2026-06-14) (Musing #1413),
+[Reviving the summer research kickoff picnic](summer-research-picnic-2026) (Musing #1412), and
+[Twenty months without Michelle](twenty-months-michelle) (Musing #1411).
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
