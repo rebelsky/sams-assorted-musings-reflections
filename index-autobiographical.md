@@ -773,3 +773,7 @@ Autobiographical essays, more or less
 
 > Or is it childishly infernal?
 
+[Sabbatical report, 2025--2026](sabbatical-report-2025-2026) (Musing #1414)
+
+> What I did on my academic-year vacation.
+

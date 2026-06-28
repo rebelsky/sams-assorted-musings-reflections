@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 1411-1420
 
+[Sabbatical report, 2025--2026](sabbatical-report-2025-2026) (Musing #1414)  
 [Infernally childish](infernal-2026-06-14) (Musing #1413)  
 [Reviving the summer research kickoff picnic](summer-research-picnic-2026) (Musing #1412)  
 [Twenty months without Michelle](twenty-months-michelle) (Musing #1411)  
