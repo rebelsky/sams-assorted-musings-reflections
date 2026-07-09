@@ -1834,3 +1834,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Reviving the summer research kickoff picnic](summer-research-picnic-2026) (Musing #1412)  
 [Infernally childish](infernal-2026-06-14) (Musing #1413)  
 [Sabbatical report, 2025--2026](sabbatical-report-2025-2026) (Musing #1414)  
+[Twenty-one months without Michelle](twenty-one-months-michelle) (Musing #1415)  

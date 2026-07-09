@@ -5028,6 +5028,10 @@ _A place to gather musings related to my wife, Michelle S. Rebelsky._
 
 > Coping better.
 
+[Twenty-one months without Michelle](twenty-one-months-michelle) (Musing #1415)
+
+> It's better to celebrate what you had than mourn what you've lost.
+
 Triennial reviews
 -----------------
 
