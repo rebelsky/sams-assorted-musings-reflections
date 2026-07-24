@@ -39,7 +39,7 @@ In any case, about once a month, I get a message that looks something like the f
 
 Oops! Forgot to mention that TLDR also includes silly emojis in their subject lines. They get even more annoying when they get repeated that many times.
 
-In any case, Proofpoint (our security software) has decided that a newsletter about security is malicious. Perhaps that's not surprising: A security newsletter is likely to have content that matches keywords for potential security issues.
+In any case, Proofpoint (our primary email security software) has decided that a newsletter about security is malicious. Perhaps that's not surprising: A security newsletter is likely to have content that matches keywords for potential security issues.
 
 Every time this happens, I wonder what particular issues caused the threat analysis to trigger today. Why was [today's digest](https://tldr.tech/infosec/2026-07-24) so much worse than yesterday's, or the day before's, or most before that? As I said, it only happens once every month or so. Is it that CVE‑2026‑46331 is mentioned explicitly? That chicken is involved? That some path names used for hacks appear in the digest? I suppose I'll never know. And I shouldn't really care.
 
