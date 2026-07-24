@@ -1835,3 +1835,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Infernally childish](infernal-2026-06-14) (Musing #1413)  
 [Sabbatical report, 2025--2026](sabbatical-report-2025-2026) (Musing #1414)  
 [Twenty-one months without Michelle](twenty-one-months-michelle) (Musing #1415)  
+[The joy of automated threat analysis](proofpoint-threat-responses-2026-07-24) (Musing #1416)  

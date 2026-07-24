@@ -41,3 +41,7 @@ to/from past musings._
 
 > Who knew that letters could have cases?
 
+[The joy of automated threat analysis](proofpoint-threat-responses-2026-07-24) (Musing #1416)
+
+> Writing about threats appears to be a threat.
+

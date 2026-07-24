@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 1411-1420
 
+[The joy of automated threat analysis](proofpoint-threat-responses-2026-07-24) (Musing #1416)  
 [Twenty-one months without Michelle](twenty-one-months-michelle) (Musing #1415)  
 [Sabbatical report, 2025--2026](sabbatical-report-2025-2026) (Musing #1414)  
 [Infernally childish](infernal-2026-06-14) (Musing #1413)  
