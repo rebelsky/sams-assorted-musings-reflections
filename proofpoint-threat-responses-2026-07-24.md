@@ -1,7 +1,7 @@
 ---
 title: The joy of automated threat analysis
 number: 1416
-tags: [Technology](index-technology)
+tags: [Technology](index-technology), rambly
 blurb: Writing about threats appears to be a threat.
 version: 1.0
 released: 2026-07-24
