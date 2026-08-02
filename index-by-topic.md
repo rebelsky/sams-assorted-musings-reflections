@@ -1634,6 +1634,10 @@ Rants
 
 > Who knew that letters could have cases?
 
+[Wrapping up summer research](summer-research-paperwork-2026-08-01) (Musing #1417)
+
+> At least wrapping up summer research paperwork.
+
 Assorted talks and speeches
 ---------------------------
 
