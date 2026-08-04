@@ -4891,6 +4891,10 @@ Autobiographical essays, more or less
 
 > What I did on my academic-year vacation.
 
+[On losing my hearing](hearing-loss-2026-08-04) (Musing #1418)
+
+> Like many things, it's complicated.
+
 Michelle
 --------
 
