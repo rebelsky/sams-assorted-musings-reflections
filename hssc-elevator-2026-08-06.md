@@ -13,7 +13,7 @@ Strike that.
 
 I spend way too much time finding myself frustrated by UI design. Perhaps it's because I'm too often forced to use Microsoftware.
 
-My complaints and concrns go beyond the products from Microsoft. They even go beyond software.
+Of course, my complaints and concerns go beyond the products from Microsoft. They even go beyond software.
 
 Here's one.
 
