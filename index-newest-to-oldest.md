@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 1411-1420
 
+[Bad UI design, take 2312 (more or less)](hssc-elevator-2026-08-06) (Musing #1419)  
 [On losing my hearing](hearing-loss-2026-08-04) (Musing #1418)  
 [Wrapping up summer research](summer-research-paperwork-2026-08-01) (Musing #1417)  
 [The joy of automated threat analysis](proofpoint-threat-responses-2026-07-24) (Musing #1416)  

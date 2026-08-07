@@ -694,3 +694,7 @@ Rants
 
 > At least wrapping up summer research paperwork.
 
+[Bad UI design, take 2312 (more or less)](hssc-elevator-2026-08-06) (Musing #1419)
+
+> What floor is it?
+
