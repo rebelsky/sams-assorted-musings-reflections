@@ -5048,6 +5048,10 @@ _A place to gather musings related to my wife, Michelle S. Rebelsky._
 
 > It's better to celebrate what you had than mourn what you've lost.
 
+[Twenty-two months without Michelle](twenty-two-months-michelle) (Musing #1420)
+
+> Disconnected vignettes.
+
 Triennial reviews
 -----------------
 
