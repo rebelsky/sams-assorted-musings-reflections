@@ -10,9 +10,9 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musings:
-[Twenty-two months without Michelle](twenty-two-months-michelle) (Musing #1420),
-[Bad UI design, take 2312 (more or less)](hssc-elevator-2026-08-06) (Musing #1419), and
-[On losing my hearing](hearing-loss-2026-08-04) (Musing #1418).
+[Synchronizing my files](sink-2026-08-13) (Musing #1421),
+[Twenty-two months without Michelle](twenty-two-months-michelle) (Musing #1420), and
+[Bad UI design, take 2312 (more or less)](hssc-elevator-2026-08-06) (Musing #1419).
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

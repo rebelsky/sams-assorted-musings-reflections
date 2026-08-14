@@ -1,6 +1,10 @@
 Musings, from newest to oldest
 ==============================
 
+## 1421-1430
+
+[Synchronizing my files](sink-2026-08-13) (Musing #1421)  
+
 ## 1411-1420
 
 [Twenty-two months without Michelle](twenty-two-months-michelle) (Musing #1420)  

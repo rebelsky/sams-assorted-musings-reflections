@@ -1840,3 +1840,7 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [On losing my hearing](hearing-loss-2026-08-04) (Musing #1418)  
 [Bad UI design, take 2312 (more or less)](hssc-elevator-2026-08-06) (Musing #1419)  
 [Twenty-two months without Michelle](twenty-two-months-michelle) (Musing #1420)  
+
+## 1421-1430
+
+[Synchronizing my files](sink-2026-08-13) (Musing #1421)  
