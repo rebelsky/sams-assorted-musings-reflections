@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musings:
-[Synchronizing my files](sink-2026-08-13) (Musing #1421),
+[That sync-ing feeling](sink-2026-08-13) (Musing #1421),
 [Twenty-two months without Michelle](twenty-two-months-michelle) (Musing #1420), and
 [Bad UI design, take 2312 (more or less)](hssc-elevator-2026-08-06) (Musing #1419).
 

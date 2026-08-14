@@ -3,7 +3,7 @@ Musings, from newest to oldest
 
 ## 1421-1430
 
-[Synchronizing my files](sink-2026-08-13) (Musing #1421)  
+[That sync-ing feeling](sink-2026-08-13) (Musing #1421)  
 
 ## 1411-1420
 

@@ -45,7 +45,7 @@ to/from past musings._
 
 > Writing about threats appears to be a threat.
 
-[Synchronizing my files](sink-2026-08-13) (Musing #1421)
+[That sync-ing feeling](sink-2026-08-13) (Musing #1421)
 
-> Kinda like the kitchen sink.
+> Synchronizing my files.
 
