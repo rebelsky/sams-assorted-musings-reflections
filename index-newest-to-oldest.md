@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 1421-1430
 
+[Ways of seeing](seeing-2026-08-15) (Musing #1422)  
 [That sync-ing feeling](sink-2026-08-13) (Musing #1421)  
 
 ## 1411-1420

@@ -5056,6 +5056,10 @@ _A place to gather musings related to my wife, Michelle S. Rebelsky._
 
 > Disconnected vignettes.
 
+[Ways of seeing](seeing-2026-08-15) (Musing #1422)
+
+> Perspectives differ.
+
 Triennial reviews
 -----------------
 
