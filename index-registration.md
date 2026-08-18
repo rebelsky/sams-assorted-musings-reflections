@@ -141,3 +141,7 @@ the registration process at Grinnell.*
 
 > Is there a list somewhere? 
 
+[Courses for first years (Fall 2026)](first-year-courses-2026) (Musing #1423)
+
+> How many slots are there?
+
