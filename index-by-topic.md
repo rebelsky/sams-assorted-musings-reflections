@@ -2203,6 +2203,10 @@ Overcommitment
 
 > Someone has to do it.
 
+[Faculty service](faculty-service-2026-08-18) (Musing #1424)
+
+> Too much? Too little? Just right?
+
 On teaching 
 -----------
 
