@@ -10,7 +10,7 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musings:
-[Faculty service](faculty-service-2026-08-18) (Musing #1424)
+[Faculty service](faculty-service-2026-08-18) (Musing #1424),
 [Courses for first years (Fall 2026)](first-year-courses-2026) (Musing #1423), and
 [Ways of seeing](seeing-2026-08-15) (Musing #1422).
 
