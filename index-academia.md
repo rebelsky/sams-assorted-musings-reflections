@@ -141,3 +141,7 @@ On life in academia
 
 > Complications.
 
+[Course syllabi](syllabi-2026-08-23) (Musing #1425)
+
+> So much to think about!
+

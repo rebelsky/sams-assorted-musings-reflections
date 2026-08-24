@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 1421-1430
 
+[Course syllabi](syllabi-2026-08-23) (Musing #1425)  
 [Faculty service](faculty-service-2026-08-18) (Musing #1424)  
 [Courses for first years (Fall 2026)](first-year-courses-2026) (Musing #1423)  
 [Ways of seeing](seeing-2026-08-15) (Musing #1422)  
