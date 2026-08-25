@@ -4915,6 +4915,10 @@ Autobiographical essays, more or less
 
 > Like many things, it's complicated.
 
+[Replacing my MacBook cover](replacing-macbook-cover-2026-08-24) (Musing #1426)
+
+> I had a pithier title, but I forgot it.
+
 Michelle
 --------
 

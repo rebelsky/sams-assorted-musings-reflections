@@ -10,9 +10,9 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musings:
-[Course syllabi](syllabi-2026-08-23) (Musing #1425),
-[Faculty service](faculty-service-2026-08-18) (Musing #1424), and
-[Courses for first years (Fall 2026)](first-year-courses-2026) (Musing #1423).
+[Replacing my MacBook cover](replacing-macbook-cover-2026-08-24) (Musing #1426),
+[Course syllabi](syllabi-2026-08-23) (Musing #1425), and
+[Faculty service](faculty-service-2026-08-18) (Musing #1424).
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
