@@ -3930,6 +3930,10 @@ the registration process at Grinnell.*
 
 > How many slots are there?
 
+[First-year registration: An exercise in game theory?](first-year-registration-game-theory-2026) (Musing #1427)
+
+> Fun!
+
 A letter to the incoming chair
 ------------------------------
 
