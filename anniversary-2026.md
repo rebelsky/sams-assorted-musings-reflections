@@ -3,9 +3,9 @@ title: Happy Anniversary, Love!
 number: 1428
 tags: [Michelle](index-michelle)
 blurb: It was just my 'magination.
-version: 1.0
+version: 1.1
 released: 2026-08-29
-current: 
+current: 2026-08-29
 ---
 Dear Michelle,
 
@@ -24,6 +24,8 @@ Yesterday, we would have joined friends in Des Moines for dinner and a concert a
 After that, we would have headed to Hotel Patee (if it's still like it used to be) to spend the night or weekend. Perhaps we would have bowled in their ancient basement alley. Perhaps we would have sat in the sauna. I forget whether or not they had a hot tub. This morning, we would have gotten a couples' massage. I don't love massages, but you did, and you liked getting them together. I'd probably forget to plan lunch, so we'd improvise. Or maybe I'd plan to improvise. I'm not sure. In the afternoon, we'd go to the botanical gardens and then maybe catch a movie. In the late afternoon, we'd head back toward Hoyt Sherman to visit our friends next door. I haven't seen them nearly enough since you passed. Maybe we would have done dinner with them.
 
 Saturday night (that is, tonight), we would probably have headed home. You didn't like to be away from home for too long. And I would have been chomping at the bit to get ready for Monday's class. You didn't particularly appreciate my compulsion to work at all hours, but you understood.
+
+Or maybe we would have tried to get home to listen to Danika and the Jeb, since we had a lot of "remote dates" where we listened to them with you in Audubon and me in Grinnell. Did you know that they've built a new live music platform named ["I love this song"](ilts.co)?
 
 When together, we'd reminisce about the past and consider the future. We'd share how proud we are of the three amazing young men we've raised. We'd talk about how we might push them in certain directions. Well, we'd consider how you might encourage them to go in certain directions; they were always more likely to listen to you. We'd also plan for the future. That was one of the things we always tried to do on our anniversaries. 
 
