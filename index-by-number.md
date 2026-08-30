@@ -1850,3 +1850,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Course syllabi](syllabi-2026-08-23) (Musing #1425)  
 [Replacing my MacBook cover](replacing-macbook-cover-2026-08-24) (Musing #1426)  
 [First-year registration: An exercise in game theory?](first-year-registration-game-theory-2026) (Musing #1427)  
+[Happy Anniversary, Love!](anniversary-2026) (Musing #1428)  

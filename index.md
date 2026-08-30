@@ -10,9 +10,9 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musings:
-[First-year registration: An exercise in game theory?](first-year-registration-game-theory-2026) (Musing #1427),
-[Replacing my MacBook cover](replacing-macbook-cover-2026-08-24) (Musing #1426), and
-[Course syllabi](syllabi-2026-08-23) (Musing #1425).
+[Happy Anniversary, Love!](anniversary-2026) (Musing #1428),
+[First-year registration: An exercise in game theory?](first-year-registration-game-theory-2026) (Musing #1427), and
+[Replacing my MacBook cover](replacing-macbook-cover-2026-08-24) (Musing #1426).
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

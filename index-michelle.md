@@ -155,3 +155,7 @@ _A place to gather musings related to my wife, Michelle S. Rebelsky._
 
 > Perspectives differ.
 
+[Happy Anniversary, Love!](anniversary-2026) (Musing #1428)
+
+> It was just my 'magination.
+
