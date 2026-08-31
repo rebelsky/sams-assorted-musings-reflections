@@ -698,3 +698,7 @@ Rants
 
 > What floor is it?
 
+[Class rosters](class-rosters-2026-08-30) (Musing #1429)
+
+> What happened to "use a single source of data"?
+
