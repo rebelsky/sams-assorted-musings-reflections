@@ -1852,3 +1852,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [First-year registration: An exercise in game theory?](first-year-registration-game-theory-2026) (Musing #1427)  
 [Happy Anniversary, Love!](anniversary-2026) (Musing #1428)  
 [Class rosters](class-rosters-2026-08-30) (Musing #1429)  
+[The first day of class (Fall 2026)](first-day-of-class-2026Fa) (Musing #1430)  

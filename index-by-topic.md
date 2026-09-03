@@ -2513,6 +2513,10 @@ online, but they will soon expand to more general issues about teaching._
 
 > Even more complicated than before.
 
+[The first day of class (Fall 2026)](first-day-of-class-2026Fa) (Musing #1430)
+
+> Exhausting.
+
 Code camps
 ----------
 
