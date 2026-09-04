@@ -1,6 +1,10 @@
 Musings, from newest to oldest
 ==============================
 
+## 1431-1440
+
+[Wandering around campus, annoying people](wandering-around-2026-09-03) (Musing #1431)  
+
 ## 1421-1430
 
 [The first day of class (Fall 2026)](first-day-of-class-2026Fa) (Musing #1430)  

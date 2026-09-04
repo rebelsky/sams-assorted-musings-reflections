@@ -1853,3 +1853,7 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Happy Anniversary, Love!](anniversary-2026) (Musing #1428)  
 [Class rosters](class-rosters-2026-08-30) (Musing #1429)  
 [The first day of class (Fall 2026)](first-day-of-class-2026Fa) (Musing #1430)  
+
+## 1431-1440
+
+[Wandering around campus, annoying people](wandering-around-2026-09-03) (Musing #1431)  

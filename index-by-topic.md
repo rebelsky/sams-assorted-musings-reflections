@@ -4931,6 +4931,10 @@ Autobiographical essays, more or less
 
 > I had a pithier title, but I forgot it.
 
+[Wandering around campus, annoying people](wandering-around-2026-09-03) (Musing #1431)
+
+> Such a good time! 
+
 Michelle
 --------
 
