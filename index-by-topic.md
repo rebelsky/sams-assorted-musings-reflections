@@ -3791,6 +3791,10 @@ Grinnell.
 
 > Someone has to do it.
 
+[Notes from the Grinnell Colloquium](grinnell-colloquium-2026Fa) (Musing #1432)
+
+> Some things I learned.
+
 Registration and Related Topics
 -------------------------------
 

@@ -1857,3 +1857,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 ## 1431-1440
 
 [Wandering around campus, annoying people](wandering-around-2026-09-03) (Musing #1431)  
+[Notes from the Grinnell Colloquium](grinnell-colloquium-2026Fa) (Musing #1432)  

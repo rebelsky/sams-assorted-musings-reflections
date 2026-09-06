@@ -10,10 +10,10 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musings:
+[Notes from the Grinnell Colloquium](grinnell-colloquium-2026Fa) (Musing #1432),
 [Wandering around campus, annoying people](wandering-around-2026-09-03) (Musing #1431),
-[The first day of class (Fall 2026)](first-day-of-class-2026Fa) (Musing #1430),
 and
-[Class rosters](class-rosters-2026-08-30) (Musing #1429)
+[The first day of class (Fall 2026)](first-day-of-class-2026Fa) (Musing #1430).
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
