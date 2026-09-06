@@ -55,9 +55,9 @@ Like my father, I now carry a purse. However, my purse is not at all like his. A
 
 **_Todo list._** As most readers know, I tend to overcommit. And I have a lot of things on my mind [6]. While I don't find the full "Getting Things Done" (GTD) protocol, I embrace the idea that writing down tasks helps clear your mind [7] and also that it helps you forget fewer important taasks. I've even found that [Craft.do](craft.do) works well for me. An additional advantage of recording these to-do lists is that I can mine them for data and then complain about what I've done to myself. Today seems like a good day to do so.
 
-**_Professor Mast._** The other day, I was reading [a substack about Wendell Berry as writing teacher](https://writingteacher.substack.com/p/what-wendell-berry-taught-me-about). 
+**_Professor Mast._** The other day, I was reading [a substack about Wendell Berry as writing teacher](https://writingteacher.substack.com/p/what-wendell-berry-taught-me-about). Midway through the essay, I encountered this sentence.
 
-> At some point, I wrote a pithy little essay about body image, and Mr. Berry returned the paper with a C+ on it and a note that read: “This is just good enough that I wish it were better.”
+> At some point, I wrote a pithy little essay about body image, and Mr. Berry returned the paper with a C+ on it and a note that read: "This is just good enough that I wish it were better."
 
 That got me thining about my courses with Gerald Mast, legendary film scholar. I took a lot of courses with Mast. Let's see ... ENGL-285, _Sound Film Comedy_, in the Autumn of 1984 (B-), ENGL-280, _Introduction to Cinema 1_, in Winter 1985 (also a B-), ENGL-280, _Introduction to Cinema 2_, in Spring 1985 (up to a B), and, finally, ENGL-486, _The American Musical in Film and Theatre_, in Winter 1986 (A). I thought I'd also taken _Silent Film Comedy_, but I seem to be mistaken.
 
