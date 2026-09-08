@@ -3,9 +3,9 @@ title: What happened to Michelle?
 number: 1434
 tags: [Michelle](index-michelle)
 blurb: Tracking her last two years.
-version: 0.1
+version: 0.2
 released: 2026-09-08
-current: 2026-09-06
+current: 2026-09-07
 ---
 Michelle passed away twenty-three months ago today. Rather than marking the anniversary as I often do, by describing my current state of mind and sharing some memories, I thought I'd share a different kind of story, a tale of the health issues that led to her passing. In part, I'm sharing because I want to remember, and I've already started to forget details, both minor and major. In part, I'm sharing because some people want to know [1]. In part, I'm sharing because my muse insists that I share.
 
@@ -13,7 +13,7 @@ Let's see .... Back around 2021, Michelle took a job as Chief Medical Officer in
 
 In 2022, Michelle started to feel bone pain regularly. I encouraged her to see her physician and talk about it. However, the pain usually went away within a week. In addition, it was always in a different spot, and she assumed it was just part of getting old. Finally, when she and the kids were home for the Thanksgiving holiday, she agreed to meet with her physician. They chatted, agreed that it was probably nothing, but decided that she should see an orthopod. They also said, "The orthopod is going to order X-rays, so let's get them done."
 
-On Thanksgiving Eve, she got a notification on her phone that the X-rays had been read. And, as is too often the case these days, she got to read the results before her physician did [2]. What did they say? "Innumerable lesions." Or perhaps, "Uncountably many lesions." Not a good thing to read. Michelle said, "Multiple myeloma or some kind of stage-four cancer."
+On Thanksgiving Eve, she got a notification on her phone that the X-rays had been read. As is too often the case these days, she got to read the results before her physician did [2]. What did they say? "Innumerable lesions." Or perhaps, "Uncountably many lesions." Not a good thing to read. Michelle said, "Multiple myeloma or some kind of stage-four cancer."
 
 I can't completely recall what happened next. I think we quickly met with the Oncologist who regularly visited Grinnell [3]. Michelle worked with him regularly and respected him highly. At least as I recall, he agreed with her assessment and sent her on to UIowa. Or perhaps we didn't meet with him, and she just decided to get treatment there; my memory fails me. But I'm pretty sure we met with him.
 
@@ -73,7 +73,7 @@ The time in the hospital is a blur. I taught on some days; friends often came to
 
 And she gradually declined. After a few weeks, she could no longer get out of bed to sit in the chair. She hated that. She had more trouble communicating. She hated that, too. The kids and I broke her out one more time, taking her hospital bed out to the courtyard so she could see the sun. By that time, she couldn't even push herself up in bed. 
 
-Then she stopped waking up. That was so hard! As I said, she didn't want to be stuck in the hospital, unconscious. And she couldn't say when she was in pain. I could often figure it out, and the nurses were good at giving her medicine when she needed it.
+Then she stopped waking up. That was so hard! As I said, she didn't want to be stuck in the hospital, unconscious. And she couldn't say when she was in pain. I could often figure it out, and the nurses were good at giving her medicine when she needed it. The mass in her belly grew and grew.
 
 Eventually, we reached the end. I was still sleeping by her side. I woke up every hour or so. On the 24th of October, I woke up at 1 am, and she was okay, or as okay. At 2 am, she was, too. At 3 am or 4 am, she was no longer breathing. I recall stumbling down the hall to the nurses' station to ask them to check. We called the boys to say goodbye.
 
@@ -85,7 +85,11 @@ At least we had 37 years of marriage together and were able to spend enormous am
 
 ---
 
-[1] I recall one person asking, "What happened?" on her funeral memories page.
+**_Postscript_**: I worried about writing this musing. I found myself much less sad than expected when writing the first half. But once I reached the last few months, starting in May or so, I just bawled the whole time. I considered putting it aside, but decided that I'd be better off pushing on.
+
+---
+
+[1] I recall one person asking, "What happened?" on her funeral memories page. That's a strange place to ask. 
 
 [2] Is anyone else bothered by this design? While I like seeing my test results, I'd rather hear from my physician about them, rather than left to interpret them myself. When Michelle was still here, she'd tell me what they meant. Now? I'm left to guess.
 
