@@ -3,7 +3,7 @@ title: Checking my musing backlog
 number: 1433
 tags: [Meta-musings](index-meta)
 blurb: Too many plans, too little time.
-version: 0.1
+version: 0.2
 released: 2026-09-07
 current: 2026-09-06
 ---
@@ -49,7 +49,7 @@ Like my father, I now carry a purse. However, my purse is not at all like his. A
 
 **_To sleep, perchance to dream._** I love sleeping. It's not just that my depression keeps me in bed. It's that I appreciate the experience of being asleep, especially when I dream. Sometimes, I see Michelle in my dreams. That's especially nice. Sometimes I have dreams about my teaching. Usually, those involve me screwing up something, perhaps many things. And sometimes I lay in bed, alternating between wakefulness and dreams, perhaps even affecting the dreams as I go. 
 
-**_The handbook._** Over the next eighteen months or so, Grinnell will be revising the [Faculty Handbook](https://web.grinnell.edu/dean/Handbook/FacultyHandbook.pdf). A small committee is taking the lead, including a consultant, the Dean, the Chair of the Faculty, and the Faculty Organization Committee. I wasn't elected CoF, nor was I elected as Chair-Elect for the FOC. (Don't worry; I don't mind.) I didn't run for Science Division rep to FOC because I thought a younger faculty member should have input. Hence, my role in the Handbook revision process will mostly involve providing comments when they are solicitied. Nonetheless, I feel myself compelled to write a bit about the Handbook.
+**_The Faculty Handbook._** Over the next eighteen months or so, Grinnell will be revising the [Faculty Handbook](https://web.grinnell.edu/dean/Handbook/FacultyHandbook.pdf). A small committee is taking the lead, including a consultant, the Dean, the Chair of the Faculty, and the Faculty Organization Committee. I wasn't elected CoF, nor was I elected as Chair-Elect for the FOC. (Don't worry; I don't mind.) I didn't run for Science Division rep to FOC because I thought a younger faculty member should have input. Hence, my role in the Handbook revision process will mostly involve providing comments when they are solicitied. Nonetheless, I feel myself compelled to write a bit about the Handbook.
 
 **_Rant about EasyChair_**  [5]. This year, I'm serving as Program Co-Chair of SIGCSE Virtual 2026, the 2nd ACM Virtual Global Conference on Computing Education, or something like that. As Program Co-Chair, one of my responsibilities is to work with EasyChair, our conference submissions system. EasyChair is a few decades old, and shows its age at times. But I'd gotten used to it, or so I thought. Then I got to deal with the new process for XML generation. And, well, it's a mess. Let me explain.
 
