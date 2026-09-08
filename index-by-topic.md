@@ -485,6 +485,10 @@ be found in [the list of musings on writing](index-on-writing)._
 
 > So many! Or so few?
 
+[Checking my musing backlog](musing-backlog-2026-09-07) (Musing #1433)
+
+> Too many plans, too little time.
+
 Monthly reflections
 -------------------
 
