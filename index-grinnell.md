@@ -571,3 +571,7 @@ Grinnell.
 
 > Some things I learned.
 
+[Getting accustomed to the new timetable](new-timetable-2026-09-09) (Musing #1435)
+
+> Perhaps "failing to get accustomed".
+
