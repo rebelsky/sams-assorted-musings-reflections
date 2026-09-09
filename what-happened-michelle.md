@@ -3,9 +3,9 @@ title: What happened to Michelle?
 number: 1434
 tags: [Michelle](index-michelle)
 blurb: Tracking her last two years.
-version: 0.2
+version: 1.0
 released: 2026-09-08
-current: 2026-09-07
+current: 
 ---
 Michelle passed away twenty-three months ago today. Rather than marking the anniversary as I often do, by describing my current state of mind and sharing some memories, I thought I'd share a different kind of story, a tale of the health issues that led to her passing. In part, I'm sharing because I want to remember, and I've already started to forget details, both minor and major. In part, I'm sharing because some people want to know [1]. In part, I'm sharing because my muse insists that I share.
 
@@ -29,7 +29,9 @@ A few days later, we returned to UIowa for a biopsy. Yes, it was pancreatic canc
 
 Did we go up there a week after the biopsy? Two weeks? I'm not sure. It was soon, but not soon enough. Time for an MRI. The mass seemed to have grown in the short time. Another appointment for a liver biopsy, perhaps an excision. Another trip up to Minnesota. Yes, it had metastasized. Stage four.
 
-Regularly traveling to Minnesota for cancer treatment didn't seem feasible. So we returned to her colleague for the treatment. Our first meeting was at his office in Des Moines. I still recall asking him whether we could hope for two or three years. His eyes said it all: "Oh, you poor, optimistic fool." But yes, he was willing to supervise chemo in Grinnell and to coordinate with Mayo.
+Regularly traveling to Minnesota for cancer treatment didn't seem feasible. So we returned to her colleague for the treatment. Our first meeting was at his office in Des Moines. I still recall asking him whether we could hope for two or three years. His eyes said it all: "Oh, you poor, optimistic fool." But yes, he was willing to supervise chemo in Grinnell and to coordinate with Mayo. 
+
+She got chemo treatment a few days each week in Grinnell. We visited Mayo every month or two. I recall one visit, in particular, where they wanted her genetic tree. They were stunned at how precise a tree she made. Is it surprising that my wife, who worked in a genetics lab and was a thoughtful physician, knew what to do?
 
 A few months of the first set of drugs. Things seemed promising. She had energy. She felt good. Progress looked good after the first monthly visit. Maybe even the second. But the third? "Nope, it's not working." So we switched to another drug. I think that was November. Perhaps October. Perhaps December. That one hit her harder. She lost energy. She lost her hair. But she kept trying. We kept visiting the oncology center at GRMC for treatment. We saw more people we knew. 
 
@@ -65,7 +67,7 @@ She seemed weak, but okay, so they moved her to the regular patient floor. I don
 
 I recall her saying something like, "I thought I prepared, but I'm not ready." Maybe she just said, "I'm not ready"; the first part was implied. After all, we'd spent much of the last year and a half talking about the eventual end. Like her, I'd thought things were moving in the right direction, and we'd have more time together. We even had a visit to Mayo scheduled for the next week.
 
-We had the difficult conversations about hospice, about appropriate treatment (or lack thereof). She'd never wanted to stay in the hospital, unconscious, with little hope of recovery. So the "no extreme measures" part was easy. Choosing hospice at home or in the hospital was harder. Her comment was, "As long as I can sleep next to Sam, it's fine with me." We decided to keep her in the hospital. I think it was the right decision. Why? The kids got a break from the sadness. And she'd worked in that hospital for more than twenty years; so many people there loved her (and she loved) and visited regularly.
+We had the difficult conversations about hospice, about appropriate treatment (or lack thereof). She'd never wanted to stay in the hospital, unconscious, with little hope of recovery. So the "no extreme measures" part was easy. Choosing hospice at home or in the hospital was harder. Her comment was, "As long as I can sleep next to Sam, it's fine with me." We decided to keep her in the hospital. I think it was the right decision. Why? The kids got a break from the sadness. And she'd worked in that hospital for more than twenty years; so many people there loved her (she loved them, too) and visited regularly.
 
 I sat in the recliner next to her bed and slept with her for the rest of her life. For a few weeks, we talked regularly, listened to music, held each other's hands, and more. I helped where I could, such as calling nurses when needed or grabbing food when I was hungry. One of my biggest contributions was planning a "jail break". As she said, "When I came in on our anniversary, I didn't think I'd never get to leave." So I worked with the nursing staff to find a way for her to leave. The Mayflower provided an accessible van and driver. She had enough energy to be pushed in a wheelchair. And we took a trip together. She visited our house. We had a meal together at Frontier. The kids took her to see her gravesite [9]. Most importantly, she got to leave!
 
@@ -89,6 +91,10 @@ At least we had 37 years of marriage together and were able to spend enormous am
 
 ---
 
+**_Postscript_**: A month from today will be two years. I have no idea what I'll do. I have no idea how I'll get through the day. At least it's not a teachng day.
+
+---
+
 [1] I recall one person asking, "What happened?" on her funeral memories page. That's a strange place to ask. 
 
 [2] Is anyone else bothered by this design? While I like seeing my test results, I'd rather hear from my physician about them, rather than left to interpret them myself. When Michelle was still here, she'd tell me what they meant. Now? I'm left to guess.
@@ -97,7 +103,7 @@ At least we had 37 years of marriage together and were able to spend enormous am
 
 [4] This paragraph represents multiple visits.
 
-[5] Yes, that's right, it was finals week.
+[5] Yes, that's right; it was finals week.
 
 [6] It's all about me.
 

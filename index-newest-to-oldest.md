@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 1431-1440
 
+[What happened to Michelle?](what-happened-michelle) (Musing #1434)  
 [Checking my musing backlog](musing-backlog-2026-09-07) (Musing #1433)  
 [Notes from the Grinnell Colloquium](grinnell-colloquium-2026Fa) (Musing #1432)  
 [Wandering around campus, annoying people](wandering-around-2026-09-03) (Musing #1431)  

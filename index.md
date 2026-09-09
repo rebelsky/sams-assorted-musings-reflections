@@ -10,10 +10,10 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musings:
-[Checking my musing backlog](musing-backlog-2026-09-07) (Musing #1433),
-[Notes from the Grinnell Colloquium](grinnell-colloquium-2026Fa) (Musing #1432),
+[What happened to Michelle?](what-happened-michelle) (Musing #1434),
+[Checking my musing backlog](musing-backlog-2026-09-07) (Musing #1433), 
 and
-[Wandering around campus, annoying people](wandering-around-2026-09-03) (Musing #1431).
+[Notes from the Grinnell Colloquium](grinnell-colloquium-2026Fa) (Musing #1432).
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

@@ -159,3 +159,7 @@ _A place to gather musings related to my wife, Michelle S. Rebelsky._
 
 > It was just my 'magination.
 
+[What happened to Michelle?](what-happened-michelle) (Musing #1434)
+
+> Tracking her last two years.
+
