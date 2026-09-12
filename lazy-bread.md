@@ -3,9 +3,9 @@ title: Lazy bread
 number: 1365
 tags: [Food](index-food)
 blurb: 'Some call it "no knead". I call it "lazy".'
-version: 1.0
+version: 1.1
 released: 2025-08-31
-current: 2026-04-04
+current: 2026-09-12
 ---
 
 
@@ -45,7 +45,12 @@ For white bread, I use bread flour. Middle recommends King Arthur bread flour. I
 
 For wheat bread, I use whole-wheat flour [6]. I also add a heaping Tablespoon of gluten. I know that some people mix white and wheat flour and others mix rye and wheat. For now, I'm sticking with all wheat flour. Once again, Middle recommends King Arthur wheat flour, but I've been using Fareway brand. I did pick up some King Arthur for a future attempt.
 
-Now it's time to add the liquid. For white bread, use one-and-a-half cups of lukewarm water. For wheat bread, use a twelve-ounce can of decent beer and another two ounces of lukewarm water. Don't worry about the alcohol; it just burns off. Does the kind of beer matter? It should. However, I'll admit that I had trouble tasting the difference between a loaf I made with stout and a loaf I made with wheat beer. Perhaps I lack sophisticated-enough taste buds. 
+Now it's time to add the liquid. 
+
+* For white bread, use one-and-a-half cups of lukewarm water
+* For wheat bread, use one-and-thre-quarter cups of lukewarm water.
+
+Of course, for wheat bread, I prefer to use a twelve-ounce can of decent beer and another two ounces of lukewarm water. Don't worry about the alcohol; it just burns off. Does the kind of beer matter? It should. However, I'll admit that I had trouble tasting the difference between a loaf I made with stout and a loaf I made with wheat beer. Perhaps I lack sophisticated-enough taste buds. 
 
 Mix it all together. At some point, I usually end up using my hand.
 
