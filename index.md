@@ -10,9 +10,9 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musings:
-[Getting accustomed to the new timetable](new-timetable-2026-09-09) (Musing #1435),
-[What happened to Michelle?](what-happened-michelle) (Musing #1434), and
-[Checking my musing backlog](musing-backlog-2026-09-07) (Musing #1433).
+[Approving mid-year graduates](midyear-graduates-2026Fa) (Musing #1436),
+[Getting accustomed to the new timetable](new-timetable-2026-09-09) (Musing #1435), and
+[What happened to Michelle?](what-happened-michelle) (Musing #1434).
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 

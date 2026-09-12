@@ -3803,6 +3803,10 @@ Grinnell.
 
 > Perhaps "failing to get accustomed".
 
+[Approving mid-year graduates](midyear-graduates-2026Fa) (Musing #1436)
+
+> Policies and processes
+
 Registration and Related Topics
 -------------------------------
 

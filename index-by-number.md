@@ -1861,3 +1861,4 @@ Essay #142 was about Web accessibility, focusing on a particular Web site.
 [Checking my musing backlog](musing-backlog-2026-09-07) (Musing #1433)  
 [What happened to Michelle?](what-happened-michelle) (Musing #1434)  
 [Getting accustomed to the new timetable](new-timetable-2026-09-09) (Musing #1435)  
+[Approving mid-year graduates](midyear-graduates-2026Fa) (Musing #1436)  

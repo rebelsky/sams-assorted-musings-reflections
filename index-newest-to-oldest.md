@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 1431-1440
 
+[Approving mid-year graduates](midyear-graduates-2026Fa) (Musing #1436)  
 [Getting accustomed to the new timetable](new-timetable-2026-09-09) (Musing #1435)  
 [What happened to Michelle?](what-happened-michelle) (Musing #1434)  
 [Checking my musing backlog](musing-backlog-2026-09-07) (Musing #1433)  
