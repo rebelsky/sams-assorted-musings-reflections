@@ -3807,6 +3807,10 @@ Grinnell.
 
 > Policies and processes
 
+[On architectural design](architectural-design-2026-09-13) (Musing #1437)
+
+> YA potentially inappropriate comment.
+
 Registration and Related Topics
 -------------------------------
 
