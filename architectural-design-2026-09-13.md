@@ -19,7 +19,7 @@ That's all I have to say about that building, at least for today.
 
 ---
 
-**_Postscript_**: "Sunk costs, Sam, sunk cost."
+**_Postscript_**: "Sunk costs, Sam, sunk costs."
 
 ---
 
