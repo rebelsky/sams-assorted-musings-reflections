@@ -5120,6 +5120,10 @@ _A place to gather musings related to my wife, Michelle S. Rebelsky._
 
 > Tracking her last two years.
 
+[Happy/sad memories](happy-sad-2026-09-13) (Musing #1438)
+
+> Strong emotions.
+
 Triennial reviews
 -----------------
 
