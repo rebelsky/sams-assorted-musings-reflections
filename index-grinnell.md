@@ -583,3 +583,7 @@ Grinnell.
 
 > YA potentially inappropriate comment.
 
+[An insufficient information-theoretic exploration of the proposed use of end-of-course survey data](eocs-info-2026-09-14) (Musing #1439)
+
+> I wasn't planning to say anything.
+

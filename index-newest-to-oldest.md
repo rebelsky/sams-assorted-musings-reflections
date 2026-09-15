@@ -3,6 +3,7 @@ Musings, from newest to oldest
 
 ## 1431-1440
 
+[An insufficient information-theoretic exploration of the proposed use of end-of-course survey data](eocs-info-2026-09-14) (Musing #1439)  
 [Happy/sad memories](happy-sad-2026-09-13) (Musing #1438)  
 [On architectural design](architectural-design-2026-09-13) (Musing #1437)  
 [Approving mid-year graduates](midyear-graduates-2026Fa) (Musing #1436)  
