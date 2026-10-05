@@ -208,7 +208,7 @@ dropping it altogether and making no other changes.
     <builtin>: recipe for target 'test-gcd' failed
     make: *** [test-gcd] Error 1
 
-Whoops!  I guess now.  Why not?  Well, let's look at the instruction that
+Whoops!  I guess not.  Why not?  Well, let's look at the instruction that
 `make` used to create `test-gcd`.
 
     clang   test-gcd.o   -o test-gcd
@@ -300,4 +300,4 @@ rules are pretty clear.
 
 *Version 1.0 released 2017-01-09.*
 
-*Version 1.0.2 of 2021-04-22.*
+*Version 1.0.3 of 2026-10-04.*
