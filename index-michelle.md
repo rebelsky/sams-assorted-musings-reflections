@@ -167,3 +167,7 @@ _A place to gather musings related to my wife, Michelle S. Rebelsky._
 
 > Strong emotions.
 
+[Remembering Michelle](remembering-michelle-two-years) (Musing #1440)
+
+> She was wonderful.
+

@@ -10,9 +10,9 @@ If you're here because someone told you that I write about CS education,
 please read [this post](intro-musings-sigcse-members).
 
 Latest musings:
-[An insufficient information-theoretic exploration of a proposed use of end-of-course survey data](eocs-info-2026-09-14) (Musing #1439),
-[Happy/sad memories](happy-sad-2026-09-13) (Musing #1438), and
-[On architectural design](architectural-design-2026-09-13) (Musing #1437).
+[Remembering Michelle](remembering-michelle-two-years) (Musing #1440),
+[An insufficient information-theoretic exploration of a proposed use of end-of-course survey data](eocs-info-2026-09-14) (Musing #1439), and
+[Happy/sad memories](happy-sad-2026-09-13) (Musing #1438).
 
 <a type="application/rss+xml" href="rss">RSS feed for this page</a>
 
